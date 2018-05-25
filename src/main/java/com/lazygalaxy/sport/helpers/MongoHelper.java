@@ -37,7 +37,7 @@ public class MongoHelper<T extends MongoDocument> {
 	}
 
 	public T getDocumentByLabel(String label) {
-		label = GeneralUtil.normalize(label);
+		label = GeneralUtil.simplify(label);
 		if (documentHashMap.containsKey(label)) {
 			return documentHashMap.get(label);
 		} else {

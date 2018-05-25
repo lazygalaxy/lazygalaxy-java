@@ -9,7 +9,6 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import com.lazygalaxy.sport.domain.League;
 import com.lazygalaxy.sport.domain.Match;
 import com.lazygalaxy.sport.domain.Team;
 import com.lazygalaxy.sport.helpers.MongoHelper;
@@ -18,11 +17,9 @@ public class MatchWhoScoredHTMLLoad extends HTMLLoad<Match> {
 	private static final DateTimeFormatter DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("EEE, dd-MMM-yy, HH:mm");
 
 	private final MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);
-	private final League[] leagues;
 
-	public MatchWhoScoredHTMLLoad(League... leagues) {
+	public MatchWhoScoredHTMLLoad() {
 		super(Match.class);
-		this.leagues = leagues;
 	}
 
 	@Override
@@ -33,13 +30,8 @@ public class MatchWhoScoredHTMLLoad extends HTMLLoad<Match> {
 		Set<String> linkSet = new LinkedHashSet<String>();
 		for (Element link : matchreport) {
 			String href = link.attr("href");
-			for (League league : leagues) {
-				if (href.contains(league.getWhoScoredCode())) {
-					href = href.replace("/MatchReport/", "/LiveStatistics/");
-					linkSet.add(href);
-					break;
-				}
-			}
+			href = href.replace("/MatchReport/", "/LiveStatistics/");
+			linkSet.add(href);
 		}
 
 		return linkSet;

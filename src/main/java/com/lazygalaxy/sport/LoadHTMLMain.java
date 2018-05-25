@@ -8,8 +8,8 @@ import com.lazygalaxy.sport.helpers.MongoConnectionHelper;
 import com.lazygalaxy.sport.helpers.MongoHelper;
 import com.lazygalaxy.sport.load.html.MatchYahooHTMLLoad;
 
-public class SaveHTMLMain {
-	private static final Logger LOGGER = LogManager.getLogger(SaveHTMLMain.class);
+public class LoadHTMLMain {
+	private static final Logger LOGGER = LogManager.getLogger(LoadHTMLMain.class);
 
 	public static void main(String[] args) {
 		try {

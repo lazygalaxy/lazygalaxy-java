@@ -15,8 +15,7 @@ public class WhoScoredScrapperTest extends TestCase {
 		MongoHelper<League> leagueHelper = MongoHelper.getHelper(League.class);
 		MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);
 
-		MatchWhoScoredHTMLLoad scraper = new MatchWhoScoredHTMLLoad(
-				leagueHelper.getDocumentByLabel("English Premier League"));
+		MatchWhoScoredHTMLLoad scraper = new MatchWhoScoredHTMLLoad();
 		Set<String> links = scraper.getLinks("html/whoscored-football-201708-fixtures.html");
 
 		assertEquals(30, links.size());

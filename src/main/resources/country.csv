@@ -205,7 +205,7 @@ Slovenia,SI,SVN,705
 Solomon Islands,SB,SLB,90
 Somalia,SO,SOM,706
 South Africa,ZA,ZAF,710
-South Georgia and the South Sandwich Islands,GS,SGS,239
+South Georgia and the South Sandwich Islands,GS,SGS,239,South Georgia
 Korea Republic,KR,KOR,410
 South Sudan,SS,SSD,728
 Spain,ES,ESP,724
@@ -233,8 +233,8 @@ Turks and Caicos Islands,TC,TCA,796
 Tuvalu,TV,TUV,798
 Uganda,UG,UGA,800
 Ukraine,UA,UKR,804
-United Arab Emirates,AE,ARE,784
-United Kingdom,GB,GBR,826
+United Arab Emirates,AE,ARE,784,UAE
+United Kingdom,GB,GBR,826,UK
 United States,US,USA,840
 United States Minor Outlying Islands,UM,UMI,581
 Uruguay,UY,URY,858

@@ -29,12 +29,7 @@ public class MatchLiveScoreHTMLLoad extends HTMLLoad<Match> {
 		Set<String> linkSet = new LinkedHashSet<String>();
 		for (Element link : links) {
 			String href = link.attr("href");
-			for (League league : leagues) {
-				if (href.contains(league.getLiveScoreCode())) {
-					linkSet.add(href);
-					break;
-				}
-			}
+			linkSet.add(href);
 		}
 
 		return linkSet;

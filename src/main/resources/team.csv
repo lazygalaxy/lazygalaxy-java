@@ -1,21 +1,21 @@
-GRAEK,AEK Athens,Greece,AEK
-ENARS,Arsenal,England
-ENBOU,AFC Bournemouth,England,Bournemouth
-ENBHA,Brighton & Hove Albion,England
-ENBRN,Burnley,England
-ENCHE,Chelsea,England
-ENCRY,Crystal Palace,England
-ENEVE,Everton,England
-ENHUD,Huddersfield Town,England,Huddersfield
-ENLEI,Leicester City,England
-ENLIV,Liverpool,England
-ENMCI,Manchester City,England, Man City
-ENMUN,Manchester United,England,Man United
-ENNEW,Newcastle United,England,Newcastle
-ENSOU,Southampton,England
-ENSTK,Stoke City,England
-ENSWA,Swansea City,England
-ENTOT,Tottenham Hotspur,England
-ENWAT,Watford,England
-ENWBA,West Bromwich Albion,England
-ENWHU,West Ham United,England
+AEK Athens,Greece,842,AEK
+Arsenal,England,13
+AFC Bournemouth,England,183,Bournemouth
+Brighton & Hove Albion,England,211
+Burnley,England,184
+Chelsea,England,15
+Crystal Palace,England,162
+Everton,England,31
+Huddersfield Town,England,166,Huddersfield
+Leicester City,England,14
+Liverpool,England,26
+Manchester City,England,164,Man City
+Manchester United,England,32,Man United
+Newcastle United,England,23,Newcastle
+Southampton,England,18
+Stoke City,England,96,
+Swansea City,Wales,259
+Tottenham Hotspur,England,30
+Watford,England,27
+West Bromwich Albion,England,175
+West Ham United,England,29

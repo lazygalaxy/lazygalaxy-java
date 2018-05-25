@@ -1,14 +1,18 @@
 package com.lazygalaxy.sport.domain;
 
+import com.lazygalaxy.sport.utils.GeneralUtil;
+
 public class Team extends MongoDocument {
 	private String countryId;
+	private Integer whoScoredId;
 
 	public Team() {
 	}
 
-	public Team(String id, String name, String[] labels, Country country) {
-		super(id, name, labels);
+	public Team(String name, String[] labels, Country country, Integer whoScoredId) {
+		super(GeneralUtil.simplify(country.getId()) + "_" + GeneralUtil.simplify(name), name, labels);
 		this.countryId = country.getId();
+		this.whoScoredId = whoScoredId;
 	}
 
 	public String getCountryId() {
@@ -19,31 +23,11 @@ public class Team extends MongoDocument {
 		this.countryId = countryId;
 	}
 
-	@Override
-	public int hashCode() {
-		final int prime = 31;
-		int result = super.hashCode();
-		result = prime * result + ((countryId == null) ? 0 : countryId.hashCode());
-		return result;
+	public Integer getWhoScoredId() {
+		return whoScoredId;
 	}
 
-	@Override
-	public boolean equals(Object obj) {
-		if (!super.equals(obj))
-			return false;
-		if (getClass() != obj.getClass())
-			return false;
-		Team other = (Team) obj;
-		if (countryId == null) {
-			if (other.countryId != null)
-				return false;
-		} else if (!countryId.equals(other.countryId))
-			return false;
-		return true;
-	}
-
-	@Override
-	public String toString() {
-		return super.toString() + " " + countryId;
+	public void setWhoScoredId(Integer whoScoredId) {
+		this.whoScoredId = whoScoredId;
 	}
 }
