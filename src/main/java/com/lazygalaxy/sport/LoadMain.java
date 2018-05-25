@@ -3,23 +3,22 @@ package com.lazygalaxy.sport;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import com.lazygalaxy.sport.domain.League;
 import com.lazygalaxy.sport.helpers.MongoConnectionHelper;
-import com.lazygalaxy.sport.helpers.MongoHelper;
-import com.lazygalaxy.sport.load.html.MatchLiveScoreHTMLLoad;
+import com.lazygalaxy.sport.load.csv.CountryCSVLoad;
+import com.lazygalaxy.sport.load.csv.LeagueCSVLoad;
+import com.lazygalaxy.sport.load.csv.TeamCSVLoad;
 
 public class LoadMain {
 	private static final Logger LOGGER = LogManager.getLogger(LoadMain.class);
 
 	public static void main(String[] args) {
 		try {
-			MongoHelper<League> leagueHelper = MongoHelper.getHelper(League.class);
-
-			// new CountryCSVLoad().load("country.csv");
-			// new TeamCSVFLoad().load("team.csv");
-			// new LeagueCSVLoad().load("league.csv");
-			new MatchLiveScoreHTMLLoad(leagueHelper.getDocumentByLabel("English Premier League"))
-					.load("http://www.livescore.com/soccer/2018-05-05/");
+			new CountryCSVLoad().load("country.csv");
+			new TeamCSVLoad().load("team.csv");
+			new LeagueCSVLoad().load("league.csv");
+			// new MatchYahooHTMLLoad(leagueHelper.getDocumentByLabel("English
+			// Premier League"))
+			// .upsert("https://sports.yahoo.com/soccer/premier-league/watford-newcastle-united-80366/");
 
 		} catch (Exception e) {
 			LOGGER.error("exception thrown in main", e);

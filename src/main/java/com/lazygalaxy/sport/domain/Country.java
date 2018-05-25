@@ -8,7 +8,7 @@ public class Country extends MongoDocument {
 	}
 
 	public Country(String name, String[] labels, String iso2, String iso3) {
-		super(name, labels);
+		super(iso2, name, labels);
 		this.iso2 = iso2;
 		this.iso3 = iso3;
 	}
@@ -62,5 +62,4 @@ public class Country extends MongoDocument {
 	public String toString() {
 		return super.toString() + " " + iso2 + " " + iso3;
 	}
-
 }

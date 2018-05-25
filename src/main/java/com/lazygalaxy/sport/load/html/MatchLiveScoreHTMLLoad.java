@@ -3,8 +3,6 @@ package com.lazygalaxy.sport.load.html;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -15,8 +13,6 @@ import com.lazygalaxy.sport.domain.Team;
 import com.lazygalaxy.sport.helpers.MongoHelper;
 
 public class MatchLiveScoreHTMLLoad extends HTMLLoad<Match> {
-	private static final Logger LOGGER = LogManager.getLogger(MatchLiveScoreHTMLLoad.class);
-
 	private final MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);
 	private final League[] leagues;
 
@@ -50,16 +46,10 @@ public class MatchLiveScoreHTMLLoad extends HTMLLoad<Match> {
 
 		Elements homeElement = doc.select("div[data-type=home-team]");
 		Elements awayElement = doc.select("div[data-type=away-team]");
-		Elements incidentElements = doc.select("div[data-type=incident]");
 
 		Team homeTeam = teamHelper.getDocumentByLabel(homeElement.text());
 		Team awayTeam = teamHelper.getDocumentByLabel(awayElement.text());
-		// for (Element element : incidentElements) {
-		LOGGER.info("Game Info:");
-		LOGGER.info(homeTeam);
-		LOGGER.info(awayTeam);
-		// }
 
-		return new Match(homeTeam.getName() + awayTeam.getName(), new String[] {}, homeTeam, awayTeam);
+		return new Match(homeTeam.getName() + awayTeam.getName(), new String[] {}, null, homeTeam, awayTeam);
 	}
 }

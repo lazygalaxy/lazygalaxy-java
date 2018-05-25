@@ -3,33 +3,32 @@ package com.lazygalaxy.sport.domain;
 import java.util.HashSet;
 import java.util.Set;
 
-import org.bson.types.ObjectId;
-
 import com.lazygalaxy.sport.utils.GeneralUtil;
 
 public abstract class MongoDocument {
-	private ObjectId id;
+	private String id;
 	private String name;
 	private Set<String> labels;
 
 	public MongoDocument() {
 	}
 
-	public MongoDocument(String name, String[] labels) {
+	public MongoDocument(String id, String name, String[] labels) {
+		this.id = id;
 		this.name = name;
 
 		this.labels = new HashSet<String>();
-		this.labels.add(GeneralUtil.normalize(name));
+		addLabel(name);
 		for (String label : labels) {
-			this.labels.add(GeneralUtil.normalize(label));
+			addLabel(label);
 		}
 	}
 
-	public ObjectId getId() {
+	public String getId() {
 		return id;
 	}
 
-	public void setId(ObjectId id) {
+	public void setId(String id) {
 		this.id = id;
 	}
 
@@ -47,6 +46,10 @@ public abstract class MongoDocument {
 
 	public void setLabels(Set<String> labels) {
 		this.labels = labels;
+	}
+
+	public void addLabel(String label) {
+		this.labels.add(GeneralUtil.normalize(label));
 	}
 
 	@Override

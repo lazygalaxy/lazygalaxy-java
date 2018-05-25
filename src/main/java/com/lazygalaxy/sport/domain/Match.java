@@ -1,29 +1,55 @@
 package com.lazygalaxy.sport.domain;
 
-import org.bson.types.ObjectId;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 
 public class Match extends MongoDocument {
-	private ObjectId homeTeamId;
-	private ObjectId awayTeamId;
+	private static final DateTimeFormatter DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("yyyyMMddHHmm");
 
-	public Match(String name, String[] labels, Team homeTeam, Team awayTeam) {
-		super(name, labels);
+	private LocalDateTime dateTime;
+	private String homeTeamId;
+	private String awayTeamId;
+
+	public Match() {
+	}
+
+	public Match(String name, String[] labels, LocalDateTime dateTime, Team homeTeam, Team awayTeam) {
+		super(dateTime.format(DATE_TIME_FORMATTER) + "_" + homeTeam.getId() + "_" + awayTeam.getCountryId(), name,
+				labels);
+		this.dateTime = dateTime;
 		this.homeTeamId = homeTeam.getId();
 		this.awayTeamId = awayTeam.getId();
 	}
 
-	public ObjectId getHomeTeamId() {
+	public LocalDateTime getDateTime() {
+		return dateTime;
+	}
+
+	public void setDateTime(LocalDateTime dateTime) {
+		this.dateTime = dateTime;
+	}
+
+	public String getHomeTeamId() {
 		return homeTeamId;
 	}
 
-	public ObjectId getAwayTeamId() {
+	public void setHomeTeamId(String homeTeamId) {
+		this.homeTeamId = homeTeamId;
+	}
+
+	public String getAwayTeamId() {
 		return awayTeamId;
+	}
+
+	public void setAwayTeamId(String awayTeamId) {
+		this.awayTeamId = awayTeamId;
 	}
 
 	@Override
 	public int hashCode() {
 		final int prime = 31;
 		int result = super.hashCode();
+		result = prime * result + ((dateTime == null) ? 0 : dateTime.hashCode());
 		result = prime * result + ((homeTeamId == null) ? 0 : homeTeamId.hashCode());
 		result = prime * result + ((awayTeamId == null) ? 0 : awayTeamId.hashCode());
 		return result;
@@ -36,6 +62,11 @@ public class Match extends MongoDocument {
 		if (getClass() != obj.getClass())
 			return false;
 		Match other = (Match) obj;
+		if (dateTime == null) {
+			if (other.dateTime != null)
+				return false;
+		} else if (!dateTime.equals(other.dateTime))
+			return false;
 		if (homeTeamId == null) {
 			if (other.homeTeamId != null)
 				return false;

@@ -1,23 +1,21 @@
 package com.lazygalaxy.sport.domain;
 
-import org.bson.types.ObjectId;
-
 public class Team extends MongoDocument {
-	private ObjectId countryId;
+	private String countryId;
 
 	public Team() {
 	}
 
-	public Team(String name, String[] labels, Country country) {
-		super(name, labels);
+	public Team(String id, String name, String[] labels, Country country) {
+		super(id, name, labels);
 		this.countryId = country.getId();
 	}
 
-	public ObjectId getCountryId() {
+	public String getCountryId() {
 		return countryId;
 	}
 
-	public void setCountryId(ObjectId countryId) {
+	public void setCountryId(String countryId) {
 		this.countryId = countryId;
 	}
 

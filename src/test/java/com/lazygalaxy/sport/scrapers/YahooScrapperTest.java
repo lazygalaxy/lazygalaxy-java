@@ -6,25 +6,22 @@ import com.lazygalaxy.sport.domain.League;
 import com.lazygalaxy.sport.domain.Match;
 import com.lazygalaxy.sport.domain.Team;
 import com.lazygalaxy.sport.helpers.MongoHelper;
-import com.lazygalaxy.sport.load.html.MatchLiveScoreHTMLLoad;
+import com.lazygalaxy.sport.load.html.MatchYahooHTMLLoad;
 
 import junit.framework.TestCase;
 
-public class LiveScoreScrapperTest extends TestCase {
+public class YahooScrapperTest extends TestCase {
 	public void testAll() throws Exception {
 		MongoHelper<League> leagueHelper = MongoHelper.getHelper(League.class);
 		MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);
 
-		MatchLiveScoreHTMLLoad scraper = new MatchLiveScoreHTMLLoad(
-				leagueHelper.getDocumentByLabel("English Premier League"));
-		Set<String> links = scraper.getLinks("html/livescore-football-20180505-fixtures.html");
+		MatchYahooHTMLLoad scraper = new MatchYahooHTMLLoad(leagueHelper.getDocumentByLabel("English Premier League"));
+		Set<String> links = scraper.getLinks("html/yahoo-football-week1-fixtures.html");
 
-		assertEquals(6, links.size());
-		assertEquals(
-				"http://www.livescore.com/soccer/england/premier-league/leicester-city-vs-west-ham-united/1-2523108/",
-				links.toArray()[2]);
+		assertEquals(10, links.size());
+		assertEquals("https://sports.yahoo.com/soccer/premier-league/chelsea-burnley-80000/", links.toArray()[2]);
 
-		Match match = scraper.getMongoDocument("html/livescore-watford-vs-newcastle-20180505.html");
+		Match match = scraper.getMongoDocument("html/yahoo-watford-vs-newcastle-20180505.html");
 		assertEquals(teamHelper.getDocumentByLabel("Watford").getId(), match.getHomeTeamId());
 		assertEquals(teamHelper.getDocumentByLabel("Newcastle").getId(), match.getAwayTeamId());
 	}
