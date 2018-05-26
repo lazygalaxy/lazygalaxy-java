@@ -49,7 +49,7 @@ public abstract class HTMLLoad<T extends MongoDocument> {
 		Document document = getHTMLDocument(link);
 		MongoDocument mongoDocument = getMongoDocument(link);
 
-		Path path = Paths.get(mongoDocument.getName() + ".html");
+		Path path = Paths.get(mongoDocument.name + ".html");
 		Files.write(path, document.html().getBytes(), StandardOpenOption.CREATE_NEW);
 	}
 

@@ -57,6 +57,6 @@ public class MatchWhoScoredHTMLLoad extends HTMLLoad<Match> {
 		Element homeStatsElement = playerStatElements.get(0);
 		Element awayStatsElement = playerStatElements.get(1);
 
-		return new Match(homeTeam.getName() + awayTeam.getName(), new String[] {}, dateTime, homeTeam, awayTeam);
+		return new Match(homeTeam.name + awayTeam.name, new String[] {}, dateTime, homeTeam, awayTeam);
 	}
 }

@@ -25,8 +25,8 @@ public class LiveScoreScrapperTest extends TestCase {
 				links.toArray()[2]);
 
 		Match match = scraper.getMongoDocument("html/livescore-watford-vs-newcastle-20180505.html");
-		assertEquals(teamHelper.getDocumentByLabel("Watford").getId(), match.getHomeTeamId());
-		assertEquals(teamHelper.getDocumentByLabel("Newcastle").getId(), match.getAwayTeamId());
+		assertEquals(teamHelper.getDocumentByLabel("Watford").id, match.homeTeamId);
+		assertEquals(teamHelper.getDocumentByLabel("Newcastle").id, match.awayTeamId);
 	}
 
 }

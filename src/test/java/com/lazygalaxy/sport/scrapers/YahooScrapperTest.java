@@ -22,8 +22,8 @@ public class YahooScrapperTest extends TestCase {
 		assertEquals("https://sports.yahoo.com/soccer/premier-league/chelsea-burnley-80000/", links.toArray()[2]);
 
 		Match match = scraper.getMongoDocument("html/yahoo-watford-vs-newcastle-20180505.html");
-		assertEquals(teamHelper.getDocumentByLabel("Watford").getId(), match.getHomeTeamId());
-		assertEquals(teamHelper.getDocumentByLabel("Newcastle").getId(), match.getAwayTeamId());
+		assertEquals(teamHelper.getDocumentByLabel("Watford").id, match.homeTeamId);
+		assertEquals(teamHelper.getDocumentByLabel("Newcastle").id, match.awayTeamId);
 	}
 
 }

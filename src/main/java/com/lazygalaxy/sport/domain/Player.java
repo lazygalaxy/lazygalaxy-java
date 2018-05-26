@@ -17,74 +17,25 @@ public class Player extends MongoDocument {
 		return builder.toString().trim();
 	}
 
-	private String firstName;
-	private String middleName;
-	private String surname;
-	private String countryId;
-	private String position;
-	private int whoScoredId;
+	public String firstName;
+	public String middleName;
+	public String surname;
+	public String countryId;
+	public String position;
+	public int whoScoredId;
 
 	public Player() {
 	}
 
 	public Player(String firstName, String middleName, String surname, Country country, String position,
 			int whoScoredId) {
-		super(GeneralUtil.simplify(country.getId()) + "_"
-				+ GeneralUtil.simplify(getName(firstName, middleName, surname)),
+		super(GeneralUtil.simplify(country.id) + "_" + GeneralUtil.simplify(getName(firstName, middleName, surname)),
 				getName(firstName, middleName, surname), new String[] {});
 		this.firstName = firstName;
 		this.middleName = middleName;
 		this.surname = surname;
-		this.countryId = country.getId();
+		this.countryId = country.id;
 		this.position = position;
-		this.whoScoredId = whoScoredId;
-	}
-
-	public String getFirstName() {
-		return firstName;
-	}
-
-	public void setFirstName(String firstName) {
-		this.firstName = firstName;
-	}
-
-	public String getMiddleName() {
-		return middleName;
-	}
-
-	public void setMiddleName(String middleName) {
-		this.middleName = middleName;
-	}
-
-	public String getSurname() {
-		return surname;
-	}
-
-	public void setSurname(String surname) {
-		this.surname = surname;
-	}
-
-	public String getCountryId() {
-		return countryId;
-	}
-
-	public void setCountryId(String countryId) {
-		this.countryId = countryId;
-	}
-
-	public String getPosition() {
-		return position;
-	}
-
-	public void setPosition(String position) {
-		this.position = position;
-	}
-
-	public int getWhoScoredId() {
-		return whoScoredId;
-	}
-
-	public void setWhoScoredId(int whoScoredId) {
 		this.whoScoredId = whoScoredId;
 	}
 }

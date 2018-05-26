@@ -48,21 +48,21 @@ public class MongoHelper<T extends MongoDocument> {
 	}
 
 	public void upsertByLabel(T document) {
-		T dbDocument = getDocumentByLabel(document.getName());
+		T dbDocument = getDocumentByLabel(document.name);
 		if (dbDocument == null) {
 			LOGGER.info("inserting: " + document);
 			collection.insertOne(document);
 			updateHashMap(document);
 		} else if (!document.equals(dbDocument)) {
 			LOGGER.info("replacing: " + document);
-			collection.replaceOne(Filters.eq("_id", dbDocument.getId()), document);
+			collection.replaceOne(Filters.eq("_id", dbDocument.id), document);
 			updateHashMap(document);
 		}
 	}
 
 	private void updateHashMap(T document) {
 		if (document != null) {
-			for (String label : document.getLabels()) {
+			for (String label : document.labels) {
 				documentHashMap.put(label, document);
 			}
 		}

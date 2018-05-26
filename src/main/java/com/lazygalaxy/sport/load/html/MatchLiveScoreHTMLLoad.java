@@ -45,6 +45,6 @@ public class MatchLiveScoreHTMLLoad extends HTMLLoad<Match> {
 		Team homeTeam = teamHelper.getDocumentByLabel(homeElement.text());
 		Team awayTeam = teamHelper.getDocumentByLabel(awayElement.text());
 
-		return new Match(homeTeam.getName() + awayTeam.getName(), new String[] {}, null, homeTeam, awayTeam);
+		return new Match(homeTeam.name + awayTeam.name, new String[] {}, null, homeTeam, awayTeam);
 	}
 }
