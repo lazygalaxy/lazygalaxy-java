@@ -15,7 +15,7 @@ public class LeagueCSVLoad extends CSVLoad<League> {
 	}
 
 	@Override
-	protected League getMongoDocument(String[] tokens) {
+	protected League getMongoDocument(String[] tokens) throws Exception {
 		Country country = countryHelper.getDocumentByLabel(tokens[1]);
 		League league = new League(tokens[0], Arrays.copyOfRange(tokens, 3, tokens.length), country,
 				Integer.parseInt(tokens[2]));

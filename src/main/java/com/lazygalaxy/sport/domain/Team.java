@@ -9,8 +9,8 @@ public class Team extends MongoDocument {
 	public Team() {
 	}
 
-	public Team(String name, String[] labels, Country country, Integer whoScoredId) {
-		super(GeneralUtil.alphanumerify(country.id) + "_" + GeneralUtil.alphanumerify(name), name, labels);
+	public Team(String name, String[] labels, Country country, Integer whoScoredId) throws Exception {
+		super(buildId("", country.id, GeneralUtil.alphanumerify(name)), name, labels);
 		this.countryId = country.id;
 		this.whoScoredId = whoScoredId;
 	}

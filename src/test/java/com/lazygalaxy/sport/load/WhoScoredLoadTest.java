@@ -12,7 +12,8 @@ import com.lazygalaxy.sport.helpers.MongoHelper;
 import junit.framework.TestCase;
 
 public class WhoScoredLoadTest extends TestCase {
-	private static final DateTimeFormatter DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("yyyyMMdd");
+	private static final DateTimeFormatter DATE_FORMATTER = DateTimeFormatter.ofPattern("yyyyMMdd");
+	private static final DateTimeFormatter DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("yyyyMMddHHmmSS");
 	private static final MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);
 	private static final MongoHelper<Country> countryHelper = MongoHelper.getHelper(Country.class);
 
@@ -27,6 +28,8 @@ public class WhoScoredLoadTest extends TestCase {
 				links.toArray()[2]);
 
 		Match match = scraper.getMongoDocument("html/whoscored-watford-vs-newcastle-20180505.html");
+		assertEquals("enpremierleague", match.leagueId);
+		assertEquals("20180505150000", match.dateTime.format(DATE_TIME_FORMATTER));
 		assertEquals(teamHelper.getDocumentByLabel("Watford").id, match.homeTeamId);
 		assertEquals(teamHelper.getDocumentByLabel("Newcastle").id, match.awayTeamId);
 	}
@@ -36,9 +39,9 @@ public class WhoScoredLoadTest extends TestCase {
 		PlayerWhoScoredHTMLLoad scraper = new PlayerWhoScoredHTMLLoad();
 
 		Player player = scraper.getMongoDocument("html/whoscored-football-19921023_alvaromorata.html");
-		assertEquals("19921023_alvaromorata", player.id);
+		assertEquals("19921023alvaromorata", player.id);
 		assertEquals("Álvaro Morata", player.name);
-		assertEquals("19921023", player.birthDate.format(DATE_TIME_FORMATTER));
+		assertEquals("19921023", player.birthDate.format(DATE_FORMATTER));
 		assertEquals(countryHelper.getDocumentById("es").id, player.countryId);
 		assertEquals(teamHelper.getDocumentByLabel("Chelsea").id, player.teamId);
 		assertEquals(Integer.valueOf(189), player.height);
@@ -56,9 +59,9 @@ public class WhoScoredLoadTest extends TestCase {
 		PlayerWhoScoredHTMLLoad scraper = new PlayerWhoScoredHTMLLoad();
 
 		Player player = scraper.getMongoDocument("html/whoscored-football-19910628_kevindebruyne.html");
-		assertEquals("19910628_kevindebruyne", player.id);
+		assertEquals("19910628kevindebruyne", player.id);
 		assertEquals("Kevin De Bruyne", player.name);
-		assertEquals("19910628", player.birthDate.format(DATE_TIME_FORMATTER));
+		assertEquals("19910628", player.birthDate.format(DATE_FORMATTER));
 		assertEquals(countryHelper.getDocumentById("be").id, player.countryId);
 		assertEquals(teamHelper.getDocumentByLabel("Manchester City").id, player.teamId);
 		assertEquals(Integer.valueOf(181), player.height);

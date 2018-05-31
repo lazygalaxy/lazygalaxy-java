@@ -11,7 +11,7 @@ public class CountryCSVLoad extends CSVLoad<Country> {
 	}
 
 	@Override
-	protected Country getMongoDocument(String[] tokens) {
+	protected Country getMongoDocument(String[] tokens) throws Exception {
 		Country country = new Country(tokens[0], Arrays.copyOfRange(tokens, 4, tokens.length), tokens[1], tokens[2]);
 		return country;
 	}

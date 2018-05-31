@@ -16,8 +16,8 @@ public class Event extends MongoDocument {
 	public Event() {
 	}
 
-	public Event(Match match, Player player, Integer seconds, Type[] typeArray) {
-		super(match + "_" + player + "_" + seconds, null, null);
+	public Event(Match match, Player player, Integer seconds, Type[] typeArray) throws Exception {
+		super(buildId("_", match.id, player.id, Integer.toString(seconds)), null, null);
 		this.matchId = match.id;
 		this.playerId = player.id;
 		this.seconds = seconds;

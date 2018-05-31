@@ -10,6 +10,15 @@ import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
 import com.lazygalaxy.sport.utils.GeneralUtil;
 
 public abstract class MongoDocument {
+	protected static String buildId(String seperator, String... parts) {
+		for (Object part : parts) {
+			if (part == null) {
+				return null;
+			}
+		}
+		return String.join(seperator, parts);
+	}
+
 	public String id;
 	public String name;
 	public Set<String> labels;
@@ -17,7 +26,10 @@ public abstract class MongoDocument {
 	public MongoDocument() {
 	}
 
-	public MongoDocument(String id, String name, String[] labels) {
+	public MongoDocument(String id, String name, String[] labels) throws Exception {
+		if (id == null) {
+			throw new Exception("null key is not allowed");
+		}
 		this.id = id.toLowerCase();
 		this.name = name;
 

@@ -4,10 +4,15 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.stream.Stream;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import com.lazygalaxy.sport.domain.MongoDocument;
 import com.lazygalaxy.sport.helpers.MongoHelper;
 
 public abstract class CSVLoad<T extends MongoDocument> {
+	private static final Logger LOGGER = LogManager.getLogger(CSVLoad.class);
+
 	private final MongoHelper<T> helper;
 
 	public CSVLoad(Class<T> clazz) {
@@ -18,11 +23,16 @@ public abstract class CSVLoad<T extends MongoDocument> {
 		Stream<String> lines = Files.lines(Paths.get(ClassLoader.getSystemResource(file).toURI()));
 		lines.forEach(s -> {
 			String[] tokens = s.split(",");
-			T document = getMongoDocument(tokens);
-			helper.upsert(document);
+			try {
+				T document = getMongoDocument(tokens);
+				helper.upsert(document);
+			} catch (Exception e) {
+				LOGGER.error("could not process: " + s, e);
+			}
+
 		});
 		lines.close();
 	}
 
-	protected abstract T getMongoDocument(String[] tokens);
+	protected abstract T getMongoDocument(String[] tokens) throws Exception;
 }

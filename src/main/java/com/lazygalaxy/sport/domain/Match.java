@@ -14,8 +14,8 @@ public class Match extends MongoDocument {
 	public Match() {
 	}
 
-	public Match(League league, LocalDateTime dateTime, Team homeTeam, Team awayTeam) {
-		super(dateTime.format(DATE_TIME_FORMATTER) + "_" + homeTeam.id + "_" + awayTeam.countryId, null, null);
+	public Match(League league, LocalDateTime dateTime, Team homeTeam, Team awayTeam) throws Exception {
+		super(buildId("_", dateTime.format(DATE_TIME_FORMATTER), homeTeam.id, awayTeam.id), null, null);
 		this.leagueId = league.id;
 		this.dateTime = dateTime;
 		this.homeTeamId = homeTeam.id;
