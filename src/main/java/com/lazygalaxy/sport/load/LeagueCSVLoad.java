@@ -1,4 +1,4 @@
-package com.lazygalaxy.sport.load.csv;
+package com.lazygalaxy.sport.load;
 
 import java.util.Arrays;
 
@@ -17,7 +17,8 @@ public class LeagueCSVLoad extends CSVLoad<League> {
 	@Override
 	protected League getMongoDocument(String[] tokens) {
 		Country country = countryHelper.getDocumentByLabel(tokens[1]);
-		League league = new League(tokens[0], Arrays.copyOfRange(tokens, 2, tokens.length), country);
+		League league = new League(tokens[0], Arrays.copyOfRange(tokens, 3, tokens.length), country,
+				Integer.parseInt(tokens[2]));
 
 		return league;
 	}

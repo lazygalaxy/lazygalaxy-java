@@ -1,4 +1,4 @@
-package com.lazygalaxy.sport.load.html;
+package com.lazygalaxy.sport.load;
 
 import java.util.LinkedHashSet;
 import java.util.Set;
@@ -7,18 +7,15 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import com.lazygalaxy.sport.domain.League;
 import com.lazygalaxy.sport.domain.Match;
 import com.lazygalaxy.sport.domain.Team;
 import com.lazygalaxy.sport.helpers.MongoHelper;
 
 public class MatchLiveScoreHTMLLoad extends HTMLLoad<Match> {
 	private final MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);
-	private final League[] leagues;
 
-	public MatchLiveScoreHTMLLoad(League... leagues) {
+	public MatchLiveScoreHTMLLoad() {
 		super(Match.class);
-		this.leagues = leagues;
 	}
 
 	@Override
@@ -45,6 +42,6 @@ public class MatchLiveScoreHTMLLoad extends HTMLLoad<Match> {
 		Team homeTeam = teamHelper.getDocumentByLabel(homeElement.text());
 		Team awayTeam = teamHelper.getDocumentByLabel(awayElement.text());
 
-		return new Match(homeTeam.name + awayTeam.name, new String[] {}, null, homeTeam, awayTeam);
+		return new Match(null, null, homeTeam, awayTeam);
 	}
 }

@@ -21,15 +21,17 @@ public abstract class MongoDocument {
 		this.id = id.toLowerCase();
 		this.name = name;
 
-		this.labels = new TreeSet<String>();
-		addLabel(name);
-		for (String label : labels) {
-			addLabel(label);
+		if (labels != null) {
+			this.labels = new TreeSet<String>();
+			addLabel(name);
+			for (String label : labels) {
+				addLabel(label);
+			}
 		}
 	}
 
 	public void addLabel(String label) {
-		this.labels.add(GeneralUtil.simplify(label));
+		this.labels.add(GeneralUtil.alphanumerify(label));
 	}
 
 	@Override

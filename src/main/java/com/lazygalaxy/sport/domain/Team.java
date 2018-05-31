@@ -10,7 +10,7 @@ public class Team extends MongoDocument {
 	}
 
 	public Team(String name, String[] labels, Country country, Integer whoScoredId) {
-		super(GeneralUtil.simplify(country.id) + "_" + GeneralUtil.simplify(name), name, labels);
+		super(GeneralUtil.alphanumerify(country.id) + "_" + GeneralUtil.alphanumerify(name), name, labels);
 		this.countryId = country.id;
 		this.whoScoredId = whoScoredId;
 	}

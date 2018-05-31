@@ -1,4 +1,4 @@
-package com.lazygalaxy.sport.load.html;
+package com.lazygalaxy.sport.load;
 
 import java.io.File;
 import java.nio.file.Files;
@@ -42,7 +42,7 @@ public abstract class HTMLLoad<T extends MongoDocument> {
 
 	public void upsert(String link) throws Exception {
 		T document = getMongoDocument(link);
-		helper.upsertByLabel(document);
+		helper.upsert(document);
 	}
 
 	public void saveHTML(String link) throws Exception {

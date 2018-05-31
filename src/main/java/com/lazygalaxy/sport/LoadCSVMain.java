@@ -4,9 +4,9 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.lazygalaxy.sport.helpers.MongoConnectionHelper;
-import com.lazygalaxy.sport.load.csv.CountryCSVLoad;
-import com.lazygalaxy.sport.load.csv.LeagueCSVLoad;
-import com.lazygalaxy.sport.load.csv.TeamCSVLoad;
+import com.lazygalaxy.sport.load.CountryCSVLoad;
+import com.lazygalaxy.sport.load.LeagueCSVLoad;
+import com.lazygalaxy.sport.load.TeamCSVLoad;
 
 public class LoadCSVMain {
 	private static final Logger LOGGER = LogManager.getLogger(LoadCSVMain.class);

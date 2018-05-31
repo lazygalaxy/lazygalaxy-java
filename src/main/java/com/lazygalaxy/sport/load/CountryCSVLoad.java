@@ -1,4 +1,4 @@
-package com.lazygalaxy.sport.load.csv;
+package com.lazygalaxy.sport.load;
 
 import java.util.Arrays;
 

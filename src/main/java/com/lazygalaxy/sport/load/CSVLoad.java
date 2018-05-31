@@ -1,4 +1,4 @@
-package com.lazygalaxy.sport.load.csv;
+package com.lazygalaxy.sport.load;
 
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -19,7 +19,7 @@ public abstract class CSVLoad<T extends MongoDocument> {
 		lines.forEach(s -> {
 			String[] tokens = s.split(",");
 			T document = getMongoDocument(tokens);
-			helper.upsertByLabel(document);
+			helper.upsert(document);
 		});
 		lines.close();
 	}

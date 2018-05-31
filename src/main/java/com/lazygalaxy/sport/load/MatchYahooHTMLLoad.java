@@ -1,4 +1,4 @@
-package com.lazygalaxy.sport.load.html;
+package com.lazygalaxy.sport.load;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -9,7 +9,6 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import com.lazygalaxy.sport.domain.League;
 import com.lazygalaxy.sport.domain.Match;
 import com.lazygalaxy.sport.domain.Team;
 import com.lazygalaxy.sport.helpers.MongoHelper;
@@ -18,11 +17,9 @@ public class MatchYahooHTMLLoad extends HTMLLoad<Match> {
 	private static final DateTimeFormatter DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("EEE, MMM d, yyyy, HHmm");
 
 	private final MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);
-	private final League[] leagues;
 
-	public MatchYahooHTMLLoad(League... leagues) {
+	public MatchYahooHTMLLoad() {
 		super(Match.class);
-		this.leagues = leagues;
 	}
 
 	@Override
@@ -53,6 +50,6 @@ public class MatchYahooHTMLLoad extends HTMLLoad<Match> {
 		Team homeTeam = teamHelper.getDocumentByLabel(teams.get(0).text());
 		Team awayTeam = teamHelper.getDocumentByLabel(teams.get(1).text());
 
-		return new Match(homeTeam.name + awayTeam.name, new String[] {}, dateTime, homeTeam, awayTeam);
+		return new Match(null, dateTime, homeTeam, awayTeam);
 	}
 }

@@ -1,41 +1,63 @@
 package com.lazygalaxy.sport.domain;
 
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+
+import org.apache.commons.lang3.StringUtils;
+
 import com.lazygalaxy.sport.utils.GeneralUtil;
 
 public class Player extends MongoDocument {
-	private static String getName(String firstName, String middleName, String surname) {
-		StringBuilder builder = new StringBuilder();
-		if (firstName != null) {
-			builder.append(firstName).append(" ");
+	private static final DateTimeFormatter DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("yyyyMMdd");
+
+	public enum Position {
+		GK, D, M, NA, FW;
+
+		public static Position getPosition(String position) {
+			if (StringUtils.contains(GeneralUtil.alphanumerify(position), "forward")) {
+				return FW;
+			}
+			if (StringUtils.contains(GeneralUtil.alphanumerify(position), "midfielder")) {
+				return M;
+			}
+			if (StringUtils.contains(GeneralUtil.alphanumerify(position), "defender")) {
+				return D;
+			}
+			if (StringUtils.contains(GeneralUtil.alphanumerify(position), "goalkeeper")) {
+				return GK;
+			}
+			return NA;
 		}
-		if (middleName != null) {
-			builder.append(middleName).append(" ");
-		}
-		if (surname != null) {
-			builder.append(surname).append(" ");
-		}
-		return builder.toString().trim();
 	}
 
-	public String firstName;
-	public String middleName;
-	public String surname;
+	public LocalDate birthDate;
 	public String countryId;
-	public String position;
-	public int whoScoredId;
+	public Integer whoScoredId;
+	public Integer height;
+	public Integer weight;
+	public String teamId;
+	public Position whoScoredPosition;
 
 	public Player() {
 	}
 
-	public Player(String firstName, String middleName, String surname, Country country, String position,
-			int whoScoredId) {
-		super(GeneralUtil.simplify(country.id) + "_" + GeneralUtil.simplify(getName(firstName, middleName, surname)),
-				getName(firstName, middleName, surname), new String[] {});
-		this.firstName = firstName;
-		this.middleName = middleName;
-		this.surname = surname;
+	public Player(LocalDate birthDate, String name, Country country, Integer whoScoredId, Integer height,
+			Integer weight, Team team, Position whoScoredPosition) {
+		super(birthDate.format(DATE_TIME_FORMATTER) + "_" + GeneralUtil.alphanumerify(name), name, new String[] {});
+		this.birthDate = birthDate;
 		this.countryId = country.id;
-		this.position = position;
 		this.whoScoredId = whoScoredId;
+		this.height = height;
+		this.weight = weight;
+		this.teamId = team.id;
+		this.whoScoredPosition = whoScoredPosition;
+		String[] nameParts = name.split(" ");
+		if (nameParts.length > 1) {
+			String label = nameParts[0].charAt(0) + "";
+			for (int i = 1; i < nameParts.length; i++) {
+				label += nameParts[i];
+			}
+			this.addLabel(label);
+		}
 	}
 }
