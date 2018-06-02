@@ -11,6 +11,7 @@ import com.lazygalaxy.sport.utils.GeneralUtil;
 
 public abstract class MongoDocument {
 	protected static String buildId(String seperator, String... parts) {
+		// none of the parts of the id should be null
 		for (Object part : parts) {
 			if (part == null) {
 				return null;
@@ -28,7 +29,7 @@ public abstract class MongoDocument {
 
 	public MongoDocument(String id, String name, String[] labels) throws Exception {
 		if (id == null) {
-			throw new Exception("null key is not allowed");
+			throw new Exception("null id not valid");
 		}
 		this.id = id.toLowerCase();
 		this.name = name;

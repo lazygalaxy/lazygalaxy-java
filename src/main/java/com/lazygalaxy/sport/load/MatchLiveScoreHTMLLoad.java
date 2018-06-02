@@ -42,6 +42,6 @@ public class MatchLiveScoreHTMLLoad extends HTMLLoad<Match> {
 		Team homeTeam = teamHelper.getDocumentByLabel(homeElement.text());
 		Team awayTeam = teamHelper.getDocumentByLabel(awayElement.text());
 
-		return new Match(null, null, homeTeam, awayTeam);
+		return new Match(null, null, homeTeam, awayTeam, null);
 	}
 }

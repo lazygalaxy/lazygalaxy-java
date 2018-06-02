@@ -50,6 +50,6 @@ public class MatchYahooHTMLLoad extends HTMLLoad<Match> {
 		Team homeTeam = teamHelper.getDocumentByLabel(teams.get(0).text());
 		Team awayTeam = teamHelper.getDocumentByLabel(teams.get(1).text());
 
-		return new Match(null, dateTime, homeTeam, awayTeam);
+		return new Match(null, dateTime, homeTeam, awayTeam, null);
 	}
 }

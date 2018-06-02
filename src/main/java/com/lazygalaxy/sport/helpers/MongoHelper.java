@@ -49,7 +49,8 @@ public class MongoHelper<T extends MongoDocument> {
 
 	public void upsert(T document) {
 		T dbDocument = getDocumentById(document.id);
-		if (dbDocument == null) {
+		if (dbDocument == null && document.labels != null) {
+			// TODO: relook into this idea
 			dbDocument = getDocumentByLabel(document.name);
 		}
 

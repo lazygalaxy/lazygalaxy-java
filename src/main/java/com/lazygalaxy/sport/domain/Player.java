@@ -43,8 +43,10 @@ public class Player extends MongoDocument {
 
 	public Player(LocalDate birthDate, String name, Country country, Integer whoScoredId, Integer height,
 			Integer weight, Team team, Position whoScoredPosition) throws Exception {
+
 		super(buildId("", birthDate.format(DATE_TIME_FORMATTER), GeneralUtil.alphanumerify(name)), name,
 				new String[] {});
+		// try {
 		this.birthDate = birthDate;
 		this.countryId = country.id;
 		this.whoScoredId = whoScoredId;
@@ -60,5 +62,8 @@ public class Player extends MongoDocument {
 			}
 			this.addLabel(label);
 		}
+		// } catch (Exception e) {
+		// throw new Exception("error creating player: " + name, e);
+		// }
 	}
 }
