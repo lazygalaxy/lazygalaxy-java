@@ -1,4 +1,4 @@
-package com.lazygalaxy.sport.load;
+package com.lazygalaxy.sport.load.jsoup;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -20,17 +20,17 @@ import com.lazygalaxy.sport.domain.Team;
 import com.lazygalaxy.sport.helpers.MongoHelper;
 import com.lazygalaxy.sport.utils.WhoScoredUtil;
 
-public class MatchWhoScoredHTMLLoad extends HTMLLoad<Match> {
-	private static final Logger LOGGER = LogManager.getLogger(MatchWhoScoredHTMLLoad.class);
+public class MatchWhoScoredJSoupLoad extends JSoupLoad<Match> {
+	private static final Logger LOGGER = LogManager.getLogger(MatchWhoScoredJSoupLoad.class);
 	private static final DateTimeFormatter DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("EEE, dd-MMM-yy, HH:mm");
 
 	private final MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);
 	private final MongoHelper<League> leagueHelper = MongoHelper.getHelper(League.class);
 	private final MongoHelper<Player> playerHelper = MongoHelper.getHelper(Player.class);
 
-	private final PlayerWhoScoredHTMLLoad playerHTMLLoad = new PlayerWhoScoredHTMLLoad();
+	private final PlayerWhoScoredJSoupLoad playerHTMLLoad = new PlayerWhoScoredJSoupLoad();
 
-	public MatchWhoScoredHTMLLoad() {
+	public MatchWhoScoredJSoupLoad() {
 		super(Match.class);
 	}
 

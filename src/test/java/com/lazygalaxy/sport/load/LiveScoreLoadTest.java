@@ -4,7 +4,7 @@ import java.util.Set;
 
 import com.lazygalaxy.sport.domain.Team;
 import com.lazygalaxy.sport.helpers.MongoHelper;
-import com.lazygalaxy.sport.load.MatchLiveScoreHTMLLoad;
+import com.lazygalaxy.sport.load.jsoup.MatchLiveScoreJSoupLoad;
 
 import junit.framework.TestCase;
 
@@ -12,7 +12,7 @@ public class LiveScoreLoadTest extends TestCase {
 	public void testAll() throws Exception {
 		MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);
 
-		MatchLiveScoreHTMLLoad scraper = new MatchLiveScoreHTMLLoad();
+		MatchLiveScoreJSoupLoad scraper = new MatchLiveScoreJSoupLoad();
 		Set<String> links = scraper.getLinks("html/livescore-football-20180505-fixtures.html");
 
 		assertEquals(367, links.size());

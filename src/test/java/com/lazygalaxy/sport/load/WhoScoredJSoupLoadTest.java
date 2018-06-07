@@ -8,10 +8,12 @@ import com.lazygalaxy.sport.domain.Match;
 import com.lazygalaxy.sport.domain.Player;
 import com.lazygalaxy.sport.domain.Team;
 import com.lazygalaxy.sport.helpers.MongoHelper;
+import com.lazygalaxy.sport.load.jsoup.MatchWhoScoredJSoupLoad;
+import com.lazygalaxy.sport.load.jsoup.PlayerWhoScoredJSoupLoad;
 
 import junit.framework.TestCase;
 
-public class WhoScoredLoadTest extends TestCase {
+public class WhoScoredJSoupLoadTest extends TestCase {
 	private static final DateTimeFormatter DATE_FORMATTER = DateTimeFormatter.ofPattern("yyyyMMdd");
 	private static final DateTimeFormatter DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("yyyyMMddHHmmSS");
 	private static final MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);
@@ -19,7 +21,7 @@ public class WhoScoredLoadTest extends TestCase {
 
 	public void testMatch() throws Exception {
 
-		MatchWhoScoredHTMLLoad scraper = new MatchWhoScoredHTMLLoad();
+		MatchWhoScoredJSoupLoad scraper = new MatchWhoScoredJSoupLoad();
 		Set<String> links = scraper.getLinks("html/whoscored-football-201708-fixtures.html");
 
 		assertEquals(30, links.size());
@@ -36,7 +38,7 @@ public class WhoScoredLoadTest extends TestCase {
 
 	public void testPlayer1() throws Exception {
 
-		PlayerWhoScoredHTMLLoad scraper = new PlayerWhoScoredHTMLLoad();
+		PlayerWhoScoredJSoupLoad scraper = new PlayerWhoScoredJSoupLoad();
 
 		Player player = scraper.getMongoDocument("html/whoscored-football-19921023_alvaromorata.html");
 		assertEquals("19921023alvaromorata", player.id);
@@ -56,7 +58,7 @@ public class WhoScoredLoadTest extends TestCase {
 
 	public void testPlayer2() throws Exception {
 
-		PlayerWhoScoredHTMLLoad scraper = new PlayerWhoScoredHTMLLoad();
+		PlayerWhoScoredJSoupLoad scraper = new PlayerWhoScoredJSoupLoad();
 
 		Player player = scraper.getMongoDocument("html/whoscored-football-19910628_kevindebruyne.html");
 		assertEquals("19910628kevindebruyne", player.id);

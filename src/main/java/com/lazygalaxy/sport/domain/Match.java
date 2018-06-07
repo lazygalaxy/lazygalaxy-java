@@ -4,6 +4,10 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Set;
 
+import org.apache.commons.lang3.StringUtils;
+import org.apache.commons.lang3.tuple.ImmutablePair;
+import org.apache.commons.lang3.tuple.Pair;
+
 public class Match extends MongoDocument {
 	private static final DateTimeFormatter DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("yyyyMMddHHmm");
 
@@ -24,5 +28,20 @@ public class Match extends MongoDocument {
 		this.homeTeamId = homeTeam.id;
 		this.awayTeamId = awayTeam.id;
 		this.incidentSet = incidentSet;
+	}
+
+	public Pair<Integer, Integer> getMatchStats(Incident.Type incidentType) {
+		Integer homeStat = 0;
+		Integer awayStat = 0;
+		for (Incident incident : incidentSet) {
+			if (incident.types.contains(incidentType)) {
+				if (StringUtils.equals(homeTeamId, incident.teamId)) {
+					homeStat++;
+				} else if (StringUtils.equals(awayTeamId, incident.teamId)) {
+					awayStat++;
+				}
+			}
+		}
+		return new ImmutablePair<Integer, Integer>(homeStat, awayStat);
 	}
 }

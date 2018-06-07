@@ -1,4 +1,4 @@
-package com.lazygalaxy.sport.load;
+package com.lazygalaxy.sport.load.csv;
 
 import java.nio.file.Files;
 import java.nio.file.Paths;

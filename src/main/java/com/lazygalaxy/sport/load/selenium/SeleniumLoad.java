@@ -1,4 +1,4 @@
-package com.lazygalaxy.sport.load;
+package com.lazygalaxy.sport.load.selenium;
 
 import java.io.File;
 import java.nio.file.Files;
@@ -7,30 +7,35 @@ import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.Set;
 
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 import com.lazygalaxy.sport.domain.MongoDocument;
 import com.lazygalaxy.sport.helpers.MongoHelper;
 
-public abstract class HTMLLoad<T extends MongoDocument> {
+public abstract class SeleniumLoad<T extends MongoDocument> {
+
+	private final WebDriver driver;
 	private final MongoHelper<T> helper;
 
-	public HTMLLoad(Class<T> clazz) {
+	public SeleniumLoad(Class<T> clazz) {
+		ChromeOptions chromeOptions = new ChromeOptions();
+		chromeOptions.addArguments("--headless");
+		this.driver = new ChromeDriver(chromeOptions);
 		this.helper = MongoHelper.getHelper(clazz);
 	}
 
-	protected Document getHTMLDocument(String link) throws Exception {
-		Document document = null;
+	protected WebDriver getHTMLDocument(String link) throws Exception {
 
 		if (link.startsWith("http")) {
-			document = Jsoup.connect(link).get();
+			driver.get(link);
 		} else {
-			File file = new File(HTMLLoad.class.getClassLoader().getResource(link).getFile());
-			document = Jsoup.parse(file, "UTF-8");
+			File file = new File(SeleniumLoad.class.getClassLoader().getResource(link).getFile());
+			driver.get("file:" + file.getPath());
 		}
 
-		return document;
+		return driver;
 	}
 
 	public void load(String link) throws Exception {
@@ -46,11 +51,11 @@ public abstract class HTMLLoad<T extends MongoDocument> {
 	}
 
 	public void saveHTML(String link) throws Exception {
-		Document document = getHTMLDocument(link);
+		WebDriver driver = getHTMLDocument(link);
 		MongoDocument mongoDocument = getMongoDocument(link);
 
-		Path path = Paths.get(mongoDocument.name + ".html");
-		Files.write(path, document.html().getBytes(), StandardOpenOption.CREATE_NEW);
+		Path path = Paths.get(mongoDocument.id + ".html");
+		Files.write(path, driver.getPageSource().getBytes(), StandardOpenOption.CREATE_NEW);
 	}
 
 	public abstract Set<String> getLinks(String html) throws Exception;

@@ -4,7 +4,7 @@ import java.util.Set;
 
 import com.lazygalaxy.sport.domain.Team;
 import com.lazygalaxy.sport.helpers.MongoHelper;
-import com.lazygalaxy.sport.load.MatchYahooHTMLLoad;
+import com.lazygalaxy.sport.load.jsoup.MatchYahooJSoupLoad;
 
 import junit.framework.TestCase;
 
@@ -12,7 +12,7 @@ public class YahooLoadTest extends TestCase {
 	public void testAll() throws Exception {
 		MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);
 
-		MatchYahooHTMLLoad scraper = new MatchYahooHTMLLoad();
+		MatchYahooJSoupLoad scraper = new MatchYahooJSoupLoad();
 		Set<String> links = scraper.getLinks("html/yahoo-football-week1-fixtures.html");
 
 		assertEquals(10, links.size());
