@@ -3,7 +3,10 @@ package com.lazygalaxy.sport.load;
 import java.time.format.DateTimeFormatter;
 import java.util.Set;
 
+import org.apache.commons.lang3.tuple.Pair;
+
 import com.lazygalaxy.sport.domain.Country;
+import com.lazygalaxy.sport.domain.Incident.Type;
 import com.lazygalaxy.sport.domain.Match;
 import com.lazygalaxy.sport.domain.Player;
 import com.lazygalaxy.sport.domain.Team;
@@ -29,11 +32,15 @@ public class WhoScoredJSoupLoadTest extends TestCase {
 				"https://www.whoscored.com/Matches/1190183/LiveStatistics/England-Premier-League-2017-2018-West-Bromwich-Albion-Bournemouth",
 				links.toArray()[2]);
 
-		Match match = scraper.getMongoDocument("html/whoscored-watford-vs-newcastle-20180505.html");
+		Match match = scraper.getMongoDocument("html/match/201805051500_enwatford_ennewcastleunited.html");
 		assertEquals("enpremierleague", match.leagueId);
 		assertEquals("20180505150000", match.dateTime.format(DATE_TIME_FORMATTER));
 		assertEquals(teamHelper.getDocumentByLabel("Watford").id, match.homeTeamId);
 		assertEquals(teamHelper.getDocumentByLabel("Newcastle").id, match.awayTeamId);
+		assertEquals(17, match.incidentSet.size());
+		Pair<Integer, Integer> goalStats = match.getMatchStats(Type.GOAL);
+		assertEquals(2, goalStats.getLeft().intValue());
+		assertEquals(1, goalStats.getRight().intValue());
 	}
 
 	public void testPlayer1() throws Exception {

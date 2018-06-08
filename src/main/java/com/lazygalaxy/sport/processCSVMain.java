@@ -8,8 +8,8 @@ import com.lazygalaxy.sport.load.csv.CountryCSVLoad;
 import com.lazygalaxy.sport.load.csv.LeagueCSVLoad;
 import com.lazygalaxy.sport.load.csv.TeamCSVLoad;
 
-public class LoadCSVMain {
-	private static final Logger LOGGER = LogManager.getLogger(LoadCSVMain.class);
+public class processCSVMain {
+	private static final Logger LOGGER = LogManager.getLogger(processCSVMain.class);
 
 	public static void main(String[] args) {
 		try {

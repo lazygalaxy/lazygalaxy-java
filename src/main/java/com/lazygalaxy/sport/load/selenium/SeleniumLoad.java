@@ -38,27 +38,34 @@ public abstract class SeleniumLoad<T extends MongoDocument> {
 		return driver;
 	}
 
-	public void load(String link) throws Exception {
-		Set<String> linkSet = getLinks(link);
-		for (String documentLink : linkSet) {
+	public void upsertLinks(String link, int minLinks) throws Exception {
+		Set<String> links = getLinks(link, minLinks);
+		for (String documentLink : links) {
 			upsert(documentLink);
 		}
 	}
 
+	public void saveSourceLinks(String location, String link, int minLinks) throws Exception {
+		Set<String> links = getLinks(link, minLinks);
+		for (String documentLink : links) {
+			saveSource(location, documentLink);
+		}
+	}
+
 	public void upsert(String link) throws Exception {
-		T document = getMongoDocument(link);
+		T document = getMongoDocument(link, true);
 		helper.upsert(document);
 	}
 
-	public void saveHTML(String link) throws Exception {
+	public void saveSource(String location, String link) throws Exception {
 		WebDriver driver = getHTMLDocument(link);
-		MongoDocument mongoDocument = getMongoDocument(link);
+		MongoDocument mongoDocument = getMongoDocument(link, false);
 
-		Path path = Paths.get(mongoDocument.id + ".html");
+		Path path = Paths.get(location + mongoDocument.id + ".html");
 		Files.write(path, driver.getPageSource().getBytes(), StandardOpenOption.CREATE_NEW);
 	}
 
-	public abstract Set<String> getLinks(String html) throws Exception;
+	public abstract Set<String> getLinks(String html, int minLinks) throws Exception;
 
-	public abstract T getMongoDocument(String html) throws Exception;
+	public abstract T getMongoDocument(String html, boolean complete) throws Exception;
 }

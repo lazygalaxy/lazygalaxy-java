@@ -20,14 +20,14 @@ public class WhoScoredSeleniumLoadTest extends TestCase {
 	public void testMatch() throws Exception {
 
 		MatchWhoScoredSeleniumLoad scraper = new MatchWhoScoredSeleniumLoad();
-		Set<String> links = scraper.getLinks("html/whoscored-football-201708-fixtures.html");
+		Set<String> links = scraper.getLinks("html/whoscored-football-201708-fixtures.html", 10);
 
 		assertEquals(30, links.size());
 		assertEquals(
 				"https://www.whoscored.com/Matches/1190183/LiveStatistics/England-Premier-League-2017-2018-West-Bromwich-Albion-Bournemouth",
 				links.toArray()[2]);
 
-		Match match = scraper.getMongoDocument("html/whoscored-watford-vs-newcastle-20180505.html");
+		Match match = scraper.getMongoDocument("html/match/201805051500_enwatford_ennewcastleunited.html", true);
 		assertEquals("enpremierleague", match.leagueId);
 		assertEquals("20180505150000", match.dateTime.format(DATE_TIME_FORMATTER));
 		assertEquals(teamHelper.getDocumentByLabel("Watford").id, match.homeTeamId);
