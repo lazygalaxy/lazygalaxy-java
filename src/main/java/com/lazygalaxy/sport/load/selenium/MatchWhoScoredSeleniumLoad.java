@@ -61,11 +61,31 @@ public class MatchWhoScoredSeleniumLoad extends SeleniumLoad<Match> {
 			WebElement clickElement = driver.findElement(By.xpath("//*[@id='date-controller']/a[1]/span"));
 			JavascriptExecutor executor = (JavascriptExecutor) driver;
 			executor.executeScript("arguments[0].click();", clickElement);
-
+			Thread.sleep(2000);
 			nextDateText = driver.findElement(By.xpath("//*[@id='date-config-toggle-button']/span[1]")).getText();
 		} while (linkSet.size() <= minLinks && !StringUtils.equals(currentText, nextDateText));
 
 		return linkSet;
+	}
+
+	@Override
+	public void clickActions(WebDriver driver) throws Exception {
+		// JavascriptExecutor executor = (JavascriptExecutor) driver;
+		List<WebElement> tabs = driver.findElements(By.cssSelector("#live-player-home-options > li"));
+		// tabs.addAll(driver.findElements(By.cssSelector("#live-player-away-options
+		// > li")));
+		// LOGGER.info("yeah");
+		for (WebElement tab : tabs) {
+			// executor.executeScript("arguments[0].scrollIntoView()", tab);
+			// executor.executeScript("arguments[0].click();", tab);
+			// tab.click();
+			// Actions actions = new Actions(driver);
+			// actions.moveToElement(tab).click().build().perform();
+
+			// WebDriverWait wait2 = new WebDriverWait(driver, 10);
+			// wait2.until(ExpectedConditions.elementToBeClickable(tab));
+			// tab.click();
+		}
 	}
 
 	@Override

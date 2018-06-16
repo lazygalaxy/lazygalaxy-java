@@ -32,7 +32,8 @@ public class WhoScoredJSoupLoadTest extends TestCase {
 				"https://www.whoscored.com/Matches/1190183/LiveStatistics/England-Premier-League-2017-2018-West-Bromwich-Albion-Bournemouth",
 				links.toArray()[2]);
 
-		Match match = scraper.getMongoDocument("html/match/201805051500_enwatford_ennewcastleunited.html");
+		Match match = scraper
+				.getMongoDocument("html/match/England-Premier-League-2017-2018-Watford-Newcastle-United.html");
 		assertEquals("enpremierleague", match.leagueId);
 		assertEquals("20180505150000", match.dateTime.format(DATE_TIME_FORMATTER));
 		assertEquals(teamHelper.getDocumentByLabel("Watford").id, match.homeTeamId);

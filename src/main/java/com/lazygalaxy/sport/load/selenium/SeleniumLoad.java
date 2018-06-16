@@ -59,11 +59,15 @@ public abstract class SeleniumLoad<T extends MongoDocument> {
 
 	public void saveSource(String location, String link) throws Exception {
 		WebDriver driver = getHTMLDocument(link);
-		MongoDocument mongoDocument = getMongoDocument(link, false);
+		// clickActions(driver);
+		// MongoDocument mongoDocument = getMongoDocument(link, false);
 
-		Path path = Paths.get(location + mongoDocument.id + ".html");
+		String[] parts = link.split("/");
+		Path path = Paths.get(location + parts[parts.length - 1] + ".html");
 		Files.write(path, driver.getPageSource().getBytes(), StandardOpenOption.CREATE_NEW);
 	}
+
+	public abstract void clickActions(WebDriver driver) throws Exception;
 
 	public abstract Set<String> getLinks(String html, int minLinks) throws Exception;
 
