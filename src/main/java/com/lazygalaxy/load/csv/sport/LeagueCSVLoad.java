@@ -1,0 +1,27 @@
+package com.lazygalaxy.load.csv.sport;
+
+import java.util.Arrays;
+
+import com.lazygalaxy.domain.sport.League;
+import com.lazygalaxy.domain.world.Country;
+import com.lazygalaxy.helpers.MongoHelper;
+import com.lazygalaxy.load.csv.CSVLoad;
+
+public class LeagueCSVLoad extends CSVLoad<League> {
+
+	private MongoHelper<Country> countryHelper = MongoHelper.getHelper(Country.class);
+
+	public LeagueCSVLoad() {
+		super(League.class);
+	}
+
+	@Override
+	protected League getMongoDocument(String[] tokens) throws Exception {
+		Country country = countryHelper.getDocumentByLabel(tokens[1]);
+		League league = new League(tokens[0], Arrays.copyOfRange(tokens, 3, tokens.length), country,
+				Integer.parseInt(tokens[2]));
+
+		return league;
+	}
+
+}
