@@ -1,4 +1,4 @@
-package com.lazygalaxy.load.selenium;
+package com.lazygalaxy.load;
 
 import java.io.File;
 import java.nio.file.Files;

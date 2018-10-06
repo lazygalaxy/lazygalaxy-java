@@ -5,11 +5,10 @@ import java.util.Set;
 
 import org.apache.commons.lang3.tuple.Pair;
 
+import com.lazygalaxy.domain.sport.Incident.Type;
 import com.lazygalaxy.domain.sport.Match;
 import com.lazygalaxy.domain.sport.Team;
-import com.lazygalaxy.domain.sport.Incident.Type;
 import com.lazygalaxy.helpers.MongoHelper;
-import com.lazygalaxy.load.selenium.sport.MatchWhoScoredSeleniumLoad;
 
 import junit.framework.TestCase;
 
@@ -27,7 +26,8 @@ public class WhoScoredSeleniumLoadTest extends TestCase {
 				"https://www.whoscored.com/Matches/1190183/LiveStatistics/England-Premier-League-2017-2018-West-Bromwich-Albion-Bournemouth",
 				links.toArray()[2]);
 
-		Match match = scraper.getMongoDocument("html/match/201805051500_enwatford_ennewcastleunited.html", true);
+		Match match = scraper.getMongoDocument(
+				"html/match/enpremierleague/2017/England-Premier-League-2017-2018-Watford-Newcastle-United.html", true);
 		assertEquals("enpremierleague", match.leagueId);
 		assertEquals("20180505150000", match.dateTime.format(DATE_TIME_FORMATTER));
 		assertEquals(teamHelper.getDocumentByLabel("Watford").id, match.homeTeamId);

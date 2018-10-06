@@ -1,21 +1,17 @@
-package com.lazygalaxy.main;
+package com.lazygalaxy.main.world;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.lazygalaxy.helpers.MongoConnectionHelper;
-import com.lazygalaxy.load.csv.sport.LeagueCSVLoad;
-import com.lazygalaxy.load.csv.sport.TeamCSVLoad;
-import com.lazygalaxy.load.csv.world.CountryCSVLoad;
+import com.lazygalaxy.load.world.CountryCSVLoad;
 
 public class loadCSVMain {
 	private static final Logger LOGGER = LogManager.getLogger(loadCSVMain.class);
 
 	public static void main(String[] args) {
 		try {
-			new CountryCSVLoad().load("country.csv");
-			new TeamCSVLoad().load("team.csv");
-			new LeagueCSVLoad().load("league.csv");
+			new CountryCSVLoad().load("csv/country.csv");
 		} catch (Exception e) {
 			LOGGER.error("exception thrown in main", e);
 		} finally {

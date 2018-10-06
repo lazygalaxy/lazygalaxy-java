@@ -1,11 +1,11 @@
-package com.lazygalaxy.load.csv.sport;
+package com.lazygalaxy.load.sport;
 
 import java.util.Arrays;
 
 import com.lazygalaxy.domain.sport.League;
 import com.lazygalaxy.domain.world.Country;
 import com.lazygalaxy.helpers.MongoHelper;
-import com.lazygalaxy.load.csv.CSVLoad;
+import com.lazygalaxy.load.CSVLoad;
 
 public class LeagueCSVLoad extends CSVLoad<League> {
 

@@ -1,4 +1,4 @@
-package com.lazygalaxy.load.jsoup.sport;
+package com.lazygalaxy.load.sport;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
@@ -13,7 +13,7 @@ import com.lazygalaxy.domain.sport.Player;
 import com.lazygalaxy.domain.sport.Team;
 import com.lazygalaxy.domain.world.Country;
 import com.lazygalaxy.helpers.MongoHelper;
-import com.lazygalaxy.load.jsoup.JSoupLoad;
+import com.lazygalaxy.load.JSoupLoad;
 import com.lazygalaxy.utils.GeneralUtil;
 
 public class PlayerWhoScoredJSoupLoad extends JSoupLoad<Player> {

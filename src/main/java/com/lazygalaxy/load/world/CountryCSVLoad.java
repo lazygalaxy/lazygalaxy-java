@@ -1,9 +1,9 @@
-package com.lazygalaxy.load.csv.world;
+package com.lazygalaxy.load.world;
 
 import java.util.Arrays;
 
 import com.lazygalaxy.domain.world.Country;
-import com.lazygalaxy.load.csv.CSVLoad;
+import com.lazygalaxy.load.CSVLoad;
 
 public class CountryCSVLoad extends CSVLoad<Country> {
 

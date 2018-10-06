@@ -4,7 +4,6 @@ import java.util.Set;
 
 import com.lazygalaxy.domain.sport.Team;
 import com.lazygalaxy.helpers.MongoHelper;
-import com.lazygalaxy.load.jsoup.sport.MatchYahooJSoupLoad;
 
 import junit.framework.TestCase;
 

@@ -1,4 +1,4 @@
-package com.lazygalaxy.load.selenium.sport;
+package com.lazygalaxy.load.sport;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -21,8 +21,7 @@ import com.lazygalaxy.domain.sport.Match;
 import com.lazygalaxy.domain.sport.Player;
 import com.lazygalaxy.domain.sport.Team;
 import com.lazygalaxy.helpers.MongoHelper;
-import com.lazygalaxy.load.jsoup.sport.PlayerWhoScoredJSoupLoad;
-import com.lazygalaxy.load.selenium.SeleniumLoad;
+import com.lazygalaxy.load.SeleniumLoad;
 import com.lazygalaxy.utils.sport.WhoScoredUtil;
 
 public class MatchWhoScoredSeleniumLoad extends SeleniumLoad<Match> {

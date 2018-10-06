@@ -1,4 +1,4 @@
-package com.lazygalaxy.load.json.sport;
+package com.lazygalaxy.load.sport;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -8,7 +8,7 @@ import com.google.gson.JsonObject;
 import com.lazygalaxy.domain.sport.Team;
 import com.lazygalaxy.domain.world.Country;
 import com.lazygalaxy.helpers.MongoHelper;
-import com.lazygalaxy.load.json.JSONLoad;
+import com.lazygalaxy.load.JSONLoad;
 
 public class TeamFantasyPremierLeagueJSONLoad extends JSONLoad<Team> {
 	private static final Logger LOGGER = LogManager.getLogger(TeamFantasyPremierLeagueJSONLoad.class);

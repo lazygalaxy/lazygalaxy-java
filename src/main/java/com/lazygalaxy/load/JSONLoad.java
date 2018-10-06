@@ -1,8 +1,4 @@
-package com.lazygalaxy.load.json;
-
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+package com.lazygalaxy.load;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -10,9 +6,9 @@ import org.apache.logging.log4j.Logger;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import com.google.gson.JsonParser;
 import com.lazygalaxy.domain.MongoDocument;
 import com.lazygalaxy.helpers.MongoHelper;
+import com.lazygalaxy.utils.JSONUtil;
 
 public abstract class JSONLoad<T extends MongoDocument> {
 	private static final Logger LOGGER = LogManager.getLogger(JSONLoad.class);
@@ -23,19 +19,12 @@ public abstract class JSONLoad<T extends MongoDocument> {
 		this.helper = MongoHelper.getHelper(clazz);
 	}
 
-	protected JsonObject getData(String json) {
-		JsonElement element = new JsonParser().parse(json);
-		JsonObject object = element.getAsJsonObject();
-		return object;
-	}
+	public void load(String link) throws Exception {
+		JsonObject json = JSONUtil.load(link);
 
-	public void load(String file) throws Exception {
-		Path path = Paths.get(ClassLoader.getSystemResource(file).toURI());
-		byte[] bytes = Files.readAllBytes(path);
-
-		JsonArray array = getJsonArray(getData(new String(bytes)));
-		if (array == null) {
-			throw new Exception("null array returned");
+		JsonArray array = getJsonArray(json);
+		if (array == null || array.size() == 0) {
+			throw new Exception("null or empty array returned");
 		}
 		for (JsonElement element : array) {
 			T document = getMongoDocument(element.getAsJsonObject());

@@ -11,8 +11,6 @@ import com.lazygalaxy.domain.sport.Team;
 import com.lazygalaxy.domain.sport.Incident.Type;
 import com.lazygalaxy.domain.world.Country;
 import com.lazygalaxy.helpers.MongoHelper;
-import com.lazygalaxy.load.jsoup.sport.MatchWhoScoredJSoupLoad;
-import com.lazygalaxy.load.jsoup.sport.PlayerWhoScoredJSoupLoad;
 
 import junit.framework.TestCase;
 

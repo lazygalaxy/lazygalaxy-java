@@ -1,4 +1,4 @@
-package com.lazygalaxy.load.jsoup.sport;
+package com.lazygalaxy.load.sport;
 
 import java.util.LinkedHashSet;
 import java.util.Set;
@@ -10,7 +10,7 @@ import org.jsoup.select.Elements;
 import com.lazygalaxy.domain.sport.Match;
 import com.lazygalaxy.domain.sport.Team;
 import com.lazygalaxy.helpers.MongoHelper;
-import com.lazygalaxy.load.jsoup.JSoupLoad;
+import com.lazygalaxy.load.JSoupLoad;
 
 public class MatchLiveScoreJSoupLoad extends JSoupLoad<Match> {
 	private final MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);

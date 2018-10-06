@@ -1,10 +1,10 @@
-package com.lazygalaxy.main;
+package com.lazygalaxy.main.sport;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.lazygalaxy.helpers.MongoConnectionHelper;
-import com.lazygalaxy.load.selenium.sport.MatchWhoScoredSeleniumLoad;
+import com.lazygalaxy.load.sport.MatchWhoScoredSeleniumLoad;
 
 public class saveSourceMain {
 	private static final Logger LOGGER = LogManager.getLogger(saveSourceMain.class);
