@@ -12,7 +12,7 @@ import org.jsoup.select.Elements;
 import com.lazygalaxy.domain.sport.Match;
 import com.lazygalaxy.domain.sport.Team;
 import com.lazygalaxy.helpers.MongoHelper;
-import com.lazygalaxy.load.JSoupLoad;
+import com.lazygalaxy.load.jsoup.JSoupLoad;
 
 public class MatchYahooJSoupLoad extends JSoupLoad<Match> {
 	private static final DateTimeFormatter DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("EEE, MMM d, yyyy, HHmm");

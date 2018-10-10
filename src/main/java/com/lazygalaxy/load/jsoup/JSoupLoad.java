@@ -1,4 +1,4 @@
-package com.lazygalaxy.load;
+package com.lazygalaxy.load.jsoup;
 
 import java.io.File;
 import java.nio.file.Files;
