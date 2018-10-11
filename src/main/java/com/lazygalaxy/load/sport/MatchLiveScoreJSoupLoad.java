@@ -1,7 +1,7 @@
 package com.lazygalaxy.load.sport;
 
-import java.util.LinkedHashSet;
-import java.util.Set;
+import java.util.ArrayList;
+import java.util.List;
 
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -20,29 +20,19 @@ public class MatchLiveScoreJSoupLoad extends JSoupLoad<Match> {
 	}
 
 	@Override
-	public Set<String> getLinks(String html) throws Exception {
-		Document doc = getHTMLDocument(html);
-
-		Elements links = doc.select("a[class=scorelink]");
-		Set<String> linkSet = new LinkedHashSet<String>();
+	protected List<Match> getMongoDocuments(Document htmlDocument) throws Exception {
+		Elements links = htmlDocument.select("a[class=scorelink]");
+		List<Match> matchList = new ArrayList<Match>();
 		for (Element link : links) {
 			String href = link.attr("href");
-			linkSet.add(href);
+			Document linkDocument = getHTMLDocument(href);
+			Elements homeElement = linkDocument.select("div[data-type=home-team]");
+			Elements awayElement = linkDocument.select("div[data-type=away-team]");
+
+			Team homeTeam = teamHelper.getDocumentByLabel(homeElement.text());
+			Team awayTeam = teamHelper.getDocumentByLabel(awayElement.text());
+			matchList.add(new Match(null, null, homeTeam, awayTeam, null));
 		}
-
-		return linkSet;
-	}
-
-	@Override
-	public Match getMongoDocument(String html) throws Exception {
-		Document doc = getHTMLDocument(html);
-
-		Elements homeElement = doc.select("div[data-type=home-team]");
-		Elements awayElement = doc.select("div[data-type=away-team]");
-
-		Team homeTeam = teamHelper.getDocumentByLabel(homeElement.text());
-		Team awayTeam = teamHelper.getDocumentByLabel(awayElement.text());
-
-		return new Match(null, null, homeTeam, awayTeam, null);
+		return matchList;
 	}
 }

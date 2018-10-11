@@ -8,24 +8,22 @@ import org.jsoup.select.Elements;
 
 import com.lazygalaxy.load.jsoup.JSoupElementProcessor;
 
-public class TitleJSoupElementProcessor implements JSoupElementProcessor<String[]> {
-	private static String[] EMPTY_ARRAY = new String[] {};
-
+public class TitleJSoupElementProcessor implements JSoupElementProcessor<List<String>> {
 	@Override
-	public String[] apply(Element element) {
+	public List<String> apply(Element element) {
 		Elements links = element.select("a");
 
 		List<String> list = new ArrayList<String>();
 		for (Element link : links) {
-			list.add(link.attr("title"));
+			list.add(link.attr("title").trim());
 		}
 
-		return list.toArray(new String[list.size()]);
+		return list;
 	}
 
 	@Override
-	public String[] empty() {
-		return EMPTY_ARRAY;
+	public List<String> empty() {
+		return new ArrayList<>();
 	}
 
 }

@@ -31,7 +31,7 @@ public abstract class MongoDocument {
 		if (id == null) {
 			throw new Exception("null id not valid");
 		}
-		this.id = id.toLowerCase();
+		this.id = GeneralUtil.alphanumerify(id);
 		this.name = name;
 
 		if (labels != null) {

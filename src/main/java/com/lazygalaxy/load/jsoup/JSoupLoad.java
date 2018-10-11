@@ -5,8 +5,10 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
-import java.util.Set;
+import java.util.List;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
@@ -14,13 +16,39 @@ import com.lazygalaxy.domain.MongoDocument;
 import com.lazygalaxy.helpers.MongoHelper;
 
 public abstract class JSoupLoad<T extends MongoDocument> {
+	private static final Logger LOGGER = LogManager.getLogger(JSoupLoad.class);
+
 	private final MongoHelper<T> helper;
 
 	public JSoupLoad(Class<T> clazz) {
 		this.helper = MongoHelper.getHelper(clazz);
 	}
 
-	protected Document getHTMLDocument(String link) throws Exception {
+	public void upsert(String link) throws Exception {
+		Document htmlDocument = getHTMLDocument(link);
+		List<T> documents = getMongoDocuments(htmlDocument);
+		for (T document : documents) {
+			helper.upsert(document);
+		}
+	}
+
+	public void print(String link) throws Exception {
+		Document htmlDocument = getHTMLDocument(link);
+		List<T> documents = getMongoDocuments(htmlDocument);
+		for (T document : documents) {
+			LOGGER.info("inserting: " + document);
+		}
+	}
+
+	public void saveHTML(String link) throws Exception {
+		Document htmlDocument = getHTMLDocument(link);
+		List<T> mongoDocument = getMongoDocuments(htmlDocument);
+
+		Path path = Paths.get(mongoDocument.get(0).name + ".html");
+		Files.write(path, htmlDocument.html().getBytes(), StandardOpenOption.CREATE_NEW);
+	}
+
+	public Document getHTMLDocument(String link) throws Exception {
 		Document document = null;
 
 		if (link.startsWith("http")) {
@@ -33,27 +61,5 @@ public abstract class JSoupLoad<T extends MongoDocument> {
 		return document;
 	}
 
-	public void load(String link) throws Exception {
-		Set<String> linkSet = getLinks(link);
-		for (String documentLink : linkSet) {
-			upsert(documentLink);
-		}
-	}
-
-	public void upsert(String link) throws Exception {
-		T document = getMongoDocument(link);
-		helper.upsert(document);
-	}
-
-	public void saveHTML(String link) throws Exception {
-		Document document = getHTMLDocument(link);
-		MongoDocument mongoDocument = getMongoDocument(link);
-
-		Path path = Paths.get(mongoDocument.name + ".html");
-		Files.write(path, document.html().getBytes(), StandardOpenOption.CREATE_NEW);
-	}
-
-	public abstract Set<String> getLinks(String html) throws Exception;
-
-	public abstract T getMongoDocument(String html) throws Exception;
+	protected abstract List<T> getMongoDocuments(Document htmlDocument) throws Exception;
 }

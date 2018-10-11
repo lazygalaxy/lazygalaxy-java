@@ -2,7 +2,8 @@ package com.lazygalaxy.load.sport;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-import java.util.Set;
+import java.util.Arrays;
+import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 import org.jsoup.nodes.Document;
@@ -27,15 +28,8 @@ public class PlayerWhoScoredJSoupLoad extends JSoupLoad<Player> {
 	}
 
 	@Override
-	public Set<String> getLinks(String html) throws Exception {
-		throw new Exception("no implementation");
-	}
-
-	@Override
-	public Player getMongoDocument(String html) throws Exception {
-		Document doc = getHTMLDocument(html);
-
-		Elements playerInfoBlockElements = doc.select("dl[class=player-info-block]");
+	public List<Player> getMongoDocuments(Document htmlDocument) throws Exception {
+		Elements playerInfoBlockElements = htmlDocument.select("dl[class=player-info-block]");
 
 		LocalDate birthDate = null;
 		String name = null;
@@ -66,11 +60,12 @@ public class PlayerWhoScoredJSoupLoad extends JSoupLoad<Player> {
 			}
 		}
 
-		Element playerPictureElement = doc.select("img[class=player-picture]").get(0);
+		Element playerPictureElement = htmlDocument.select("img[class=player-picture]").get(0);
 		String playerPictureLink = playerPictureElement.attr("src");
 		int index = playerPictureLink.lastIndexOf('/');
 		whoScoredId = Integer.parseInt(playerPictureLink.substring(index + 1, playerPictureLink.length() - 4));
 
-		return new Player(birthDate, name, country, whoScoredId, height, weight, team, whoScoredPosition);
+		return Arrays
+				.asList(new Player(birthDate, name, country, whoScoredId, height, weight, team, whoScoredPosition));
 	}
 }

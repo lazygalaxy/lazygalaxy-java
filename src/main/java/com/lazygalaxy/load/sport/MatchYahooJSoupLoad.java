@@ -2,8 +2,8 @@ package com.lazygalaxy.load.sport;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.LinkedHashSet;
-import java.util.Set;
+import java.util.ArrayList;
+import java.util.List;
 
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -24,33 +24,27 @@ public class MatchYahooJSoupLoad extends JSoupLoad<Match> {
 	}
 
 	@Override
-	public Set<String> getLinks(String html) throws Exception {
-		Document doc = getHTMLDocument(html);
-
-		Elements scoreboard = doc.select("div[id*=scoreboard-group-2]");
+	public List<Match> getMongoDocuments(Document htmlDocument) throws Exception {
+		Elements scoreboard = htmlDocument.select("div[id*=scoreboard-group-2]");
 		Elements links = scoreboard.select("a");
-		Set<String> linkSet = new LinkedHashSet<String>();
+
+		List<Match> matchList = new ArrayList<Match>();
 		for (Element link : links) {
 			String href = link.attr("href");
-			linkSet.add(href);
+			Document linkDocument = getHTMLDocument(href);
+
+			Elements gameStatus = linkDocument.select("div[class*=game-status]");
+			Elements matchStats = linkDocument.select("div[class*=match-stats]");
+			Elements teams = matchStats.select("span[class=D(ib) Va(m)]");
+
+			LocalDateTime dateTime = LocalDateTime.parse(gameStatus.get(0).child(0).child(0).text() + ", 0000",
+					DATE_TIME_FORMATTER);
+			Team homeTeam = teamHelper.getDocumentByLabel(teams.get(0).text());
+			Team awayTeam = teamHelper.getDocumentByLabel(teams.get(1).text());
+
+			matchList.add(new Match(null, dateTime, homeTeam, awayTeam, null));
 		}
 
-		return linkSet;
-	}
-
-	@Override
-	public Match getMongoDocument(String html) throws Exception {
-		Document doc = getHTMLDocument(html);
-
-		Elements gameStatus = doc.select("div[class*=game-status]");
-		Elements matchStats = doc.select("div[class*=match-stats]");
-		Elements teams = matchStats.select("span[class=D(ib) Va(m)]");
-
-		LocalDateTime dateTime = LocalDateTime.parse(gameStatus.get(0).child(0).child(0).text() + ", 0000",
-				DATE_TIME_FORMATTER);
-		Team homeTeam = teamHelper.getDocumentByLabel(teams.get(0).text());
-		Team awayTeam = teamHelper.getDocumentByLabel(teams.get(1).text());
-
-		return new Match(null, dateTime, homeTeam, awayTeam, null);
+		return matchList;
 	}
 }

@@ -10,6 +10,7 @@ import java.util.TreeSet;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.jsoup.nodes.Document;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
@@ -132,8 +133,12 @@ public class MatchWhoScoredSeleniumLoad extends SeleniumLoad<Match> {
 							// do for players
 							Player player = playerHelper.getDocumentByField("whoScoredId", playerId);
 							if (player == null) {
-								player = playerSeleniumLoad.getMongoDocument(WhoScoredUtil.getPlayerURL(playerId));
-								playerHelper.upsert(player);
+								Document htmlDocument = playerSeleniumLoad
+										.getHTMLDocument(WhoScoredUtil.getPlayerURL(playerId));
+								List<Player> playerList = playerSeleniumLoad.getMongoDocuments(htmlDocument);
+								for (Player playerOther : playerList) {
+									playerHelper.upsert(playerOther);
+								}
 							}
 
 							Set<Incident.Type> types = new TreeSet<Incident.Type>();

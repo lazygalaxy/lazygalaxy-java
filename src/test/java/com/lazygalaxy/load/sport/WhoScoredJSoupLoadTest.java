@@ -31,7 +31,7 @@ public class WhoScoredJSoupLoadTest extends TestCase {
 				links.toArray()[2]);
 
 		Match match = scraper
-				.getMongoDocument("html/match/England-Premier-League-2017-2018-Watford-Newcastle-United.html");
+				.getMongoDocuments("html/match/England-Premier-League-2017-2018-Watford-Newcastle-United.html");
 		assertEquals("enpremierleague", match.leagueId);
 		assertEquals("20180505150000", match.dateTime.format(DATE_TIME_FORMATTER));
 		assertEquals(teamHelper.getDocumentByLabel("Watford").id, match.homeTeamId);
@@ -46,7 +46,7 @@ public class WhoScoredJSoupLoadTest extends TestCase {
 
 		PlayerWhoScoredJSoupLoad scraper = new PlayerWhoScoredJSoupLoad();
 
-		Player player = scraper.getMongoDocument("html/whoscored-football-19921023_alvaromorata.html");
+		Player player = scraper.getMongoDocuments("html/whoscored-football-19921023_alvaromorata.html");
 		assertEquals("19921023alvaromorata", player.id);
 		assertEquals("Álvaro Morata", player.name);
 		assertEquals("19921023", player.birthDate.format(DATE_FORMATTER));
@@ -66,7 +66,7 @@ public class WhoScoredJSoupLoadTest extends TestCase {
 
 		PlayerWhoScoredJSoupLoad scraper = new PlayerWhoScoredJSoupLoad();
 
-		Player player = scraper.getMongoDocument("html/whoscored-football-19910628_kevindebruyne.html");
+		Player player = scraper.getMongoDocuments("html/whoscored-football-19910628_kevindebruyne.html");
 		assertEquals("19910628kevindebruyne", player.id);
 		assertEquals("Kevin De Bruyne", player.name);
 		assertEquals("19910628", player.birthDate.format(DATE_FORMATTER));
