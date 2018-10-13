@@ -8,9 +8,9 @@ import org.jsoup.select.Elements;
 
 import com.lazygalaxy.load.jsoup.JSoupElementProcessor;
 
-public class TitleJSoupElementProcessor implements JSoupElementProcessor<List<String>> {
+public class WikipediaTitleProcessor implements JSoupElementProcessor<List<String>> {
 	@Override
-	public List<String> apply(Element element) {
+	public List<String> apply(Element element) throws Exception {
 		Elements links = element.select("a");
 
 		List<String> list = new ArrayList<String>();
@@ -23,7 +23,7 @@ public class TitleJSoupElementProcessor implements JSoupElementProcessor<List<St
 
 	@Override
 	public List<String> empty() {
-		return new ArrayList<>();
+		return new ArrayList<String>();
 	}
 
 }

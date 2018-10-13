@@ -18,7 +18,7 @@ import com.lazygalaxy.helpers.MongoHelper;
 public abstract class JSoupLoad<T extends MongoDocument> {
 	private static final Logger LOGGER = LogManager.getLogger(JSoupLoad.class);
 
-	private final MongoHelper<T> helper;
+	protected final MongoHelper<T> helper;
 
 	public JSoupLoad(Class<T> clazz) {
 		this.helper = MongoHelper.getHelper(clazz);
@@ -36,7 +36,7 @@ public abstract class JSoupLoad<T extends MongoDocument> {
 		Document htmlDocument = getHTMLDocument(link);
 		List<T> documents = getMongoDocuments(htmlDocument);
 		for (T document : documents) {
-			LOGGER.info("inserting: " + document);
+			LOGGER.info("printing: " + document);
 		}
 	}
 

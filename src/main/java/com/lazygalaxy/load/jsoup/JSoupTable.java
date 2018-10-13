@@ -31,12 +31,20 @@ public class JSoupTable {
 		return data.size();
 	}
 
-	public <T> T process(int row, String field, JSoupElementProcessor<T> processor) {
+	public <T> T process(int row, String field, JSoupElementProcessor<T> processor) throws Exception {
 		int index = fields.indexOf(GeneralUtil.alphanumerify(field));
 		if (index == -1) {
 			return processor.empty();
 		}
 
 		return processor.apply(data.get(row)[index]);
+	}
+
+	public Element getElement(int row, String field) {
+		int index = fields.indexOf(GeneralUtil.alphanumerify(field));
+		if (index == -1) {
+			return null;
+		}
+		return data.get(row)[index];
 	}
 }

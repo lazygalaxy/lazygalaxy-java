@@ -10,7 +10,7 @@ public class TextJSoupElementProcessor implements JSoupElementProcessor<String> 
 	}
 
 	@Override
-	public String apply(Element element) {
+	public String apply(Element element) throws Exception {
 		return element.text().trim() + append;
 	}
 
