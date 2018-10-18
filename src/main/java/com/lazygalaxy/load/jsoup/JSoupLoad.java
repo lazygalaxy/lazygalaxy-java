@@ -5,6 +5,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
+import java.time.LocalDateTime;
 import java.util.List;
 
 import org.apache.logging.log4j.LogManager;
@@ -24,10 +25,15 @@ public abstract class JSoupLoad<T extends MongoDocument> {
 		this.helper = MongoHelper.getHelper(clazz);
 	}
 
+	public MongoHelper<T> getHelper() {
+		return helper;
+	}
+
 	public void upsert(String link) throws Exception {
 		Document htmlDocument = getHTMLDocument(link);
 		List<T> documents = getMongoDocuments(htmlDocument);
 		for (T document : documents) {
+			document.updateDateTime = LocalDateTime.now();
 			helper.upsert(document);
 		}
 	}
@@ -44,7 +50,7 @@ public abstract class JSoupLoad<T extends MongoDocument> {
 		Document htmlDocument = getHTMLDocument(link);
 		List<T> mongoDocument = getMongoDocuments(htmlDocument);
 
-		Path path = Paths.get(mongoDocument.get(0).name + ".html");
+		Path path = Paths.get(mongoDocument.get(0).id + ".html");
 		Files.write(path, htmlDocument.html().getBytes(), StandardOpenOption.CREATE_NEW);
 	}
 

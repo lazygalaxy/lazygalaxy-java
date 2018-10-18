@@ -34,6 +34,10 @@ public class MongoHelper<T extends MongoDocument> {
 				.getCollection(clazz.getSimpleName().toLowerCase(), clazz);
 	}
 
+	public MongoCollection<T> getCollection() {
+		return collection;
+	}
+
 	public T getDocumentByField(String field, Object value) {
 		return collection.find(Filters.eq(field, value)).first();
 	}

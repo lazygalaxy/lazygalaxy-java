@@ -50,13 +50,7 @@
 			<artifactId>selenium-java</artifactId>
 			<version>3.12.0</version>
 		</dependency>
-
-		<dependency>
-			<groupId>info.bliki.wiki</groupId>
-			<artifactId>bliki-core</artifactId>
-			<version>3.1.0</version>
-		</dependency>
-
+		
 		<dependency>
 			<groupId>com.google.code.gson</groupId>
 			<artifactId>gson</artifactId>

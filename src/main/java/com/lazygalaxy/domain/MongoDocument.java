@@ -1,5 +1,6 @@
 package com.lazygalaxy.domain;
 
+import java.time.LocalDateTime;
 import java.util.Set;
 import java.util.TreeSet;
 
@@ -23,6 +24,7 @@ public abstract class MongoDocument {
 	public String id;
 	public String name;
 	public Set<String> labels;
+	public LocalDateTime updateDateTime;
 
 	public MongoDocument() {
 	}
@@ -49,12 +51,12 @@ public abstract class MongoDocument {
 
 	@Override
 	public int hashCode() {
-		return HashCodeBuilder.reflectionHashCode(this);
+		return HashCodeBuilder.reflectionHashCode(this, "updateDateTime");
 	}
 
 	@Override
 	public boolean equals(Object obj) {
-		return EqualsBuilder.reflectionEquals(this, obj);
+		return EqualsBuilder.reflectionEquals(this, obj, "updateDateTime");
 	}
 
 	@Override

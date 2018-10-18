@@ -1,4 +1,4 @@
-package com.lazygalaxy.load.world.json;
+package com.lazygalaxy.load.world.wikipedia;
 
 import java.util.ArrayList;
 import java.util.List;
