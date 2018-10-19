@@ -1,4 +1,6 @@
-/target/
-/.classpath
-/.project
-/.settings
+.settings
+.DS_Store
+.classpath
+.project
+lazygalaxy.properties
+target

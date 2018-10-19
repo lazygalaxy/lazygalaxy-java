@@ -43,6 +43,7 @@ public class WHSByCountryProcessor implements JSoupElementProcessor<List<Wikiped
 					WikipediaPage page = new WikipediaPage(title, new String[] {});
 					page.summary = summary;
 					page.coords = coords;
+					page.mustUpdate = true;
 					if (!images.isEmpty()) {
 						page.image = images.get(0);
 					}

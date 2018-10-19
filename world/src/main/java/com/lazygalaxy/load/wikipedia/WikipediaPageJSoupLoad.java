@@ -1,5 +1,6 @@
 package com.lazygalaxy.load.wikipedia;
 
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -62,10 +63,12 @@ public class WikipediaPageJSoupLoad extends JSoupLoad<WikipediaPage> {
 		page.summary = SUMMARY_PROCESSOR.apply(htmlDocument);
 		page.image = IMAGE_PROCESSOR.apply(htmlDocument).get(0);
 		page.coords = COORDS_PROCESSOR.apply(htmlDocument);
+		page.updateDateTime = LocalDateTime.now();
 
 		Elements tableElement = htmlDocument.select("table[class*=infobox]");
 		if (tableElement.size() > 0) {
 			InfoBox infoBox = INFO_BOX_PROCESSOR.apply(tableElement.get(0));
+			// TODO tag as world heritage site
 		}
 
 		pageList.add(page);

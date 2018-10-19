@@ -6,6 +6,7 @@ import static org.bson.codecs.configuration.CodecRegistries.fromRegistries;
 import org.bson.codecs.configuration.CodecRegistry;
 import org.bson.codecs.pojo.PojoCodecProvider;
 
+import com.lazygalaxy.util.PropertiesUtil;
 import com.mongodb.MongoClient;
 import com.mongodb.MongoClientURI;
 import com.mongodb.client.MongoDatabase;
@@ -17,9 +18,8 @@ public class MongoConnectionHelper {
 	private final MongoDatabase database;
 
 	private MongoConnectionHelper() {
-		client = new MongoClient(
-				new MongoClientURI("mongodb://lazygalaxy:lazygalaxy123@ds117010.mlab.com:17010/lazygalaxy-sport"));
-		MongoDatabase clientDatabase = client.getDatabase("lazygalaxy-sport");
+		client = new MongoClient(new MongoClientURI(PropertiesUtil.getMongoDBURI()));
+		MongoDatabase clientDatabase = client.getDatabase("lazygalaxy");
 
 		CodecRegistry pojoCodecRegistry = fromRegistries(MongoClient.getDefaultCodecRegistry(),
 				fromProviders(PojoCodecProvider.builder().automatic(true).build()));

@@ -31,15 +31,16 @@ public class UpsertWHSWikipediaMain {
 				loader.upsert("World_Heritage_sites_by_country");
 				loader = new WikipediaPageJSoupLoad();
 			} else {
-				LocalDateTime latestUpdateDateTime = LocalDateTime.now().minusMinutes(1);
-				// find pages that need to be updated
+				LocalDateTime latestUpdateDateTime = LocalDateTime.now().minusDays(1);
+				// find pages that need to be upserted
 				FindIterable<WikipediaPage> pages = helper.getCollection()
 						.find(Filters.and(Filters.eq("mustUpdate", true),
 								Filters.or(
 										Filters.and(Filters.exists("updateDateTime"),
 												Filters.lt("updateDateTime", latestUpdateDateTime)),
 										Filters.exists("updateDateTime", false))));
-				// iterate through pages and update the
+
+				// iterate through pages and upsert
 				for (WikipediaPage page : pages) {
 					if (!StringUtils.isBlank(page.processor)) {
 						Class<?> clazz = Class.forName(page.processor);

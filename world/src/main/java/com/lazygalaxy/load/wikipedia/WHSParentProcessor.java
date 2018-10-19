@@ -32,6 +32,7 @@ public class WHSParentProcessor implements JSoupElementProcessor<List<WikipediaP
 					if (GeneralUtil.alphanumerify(title).contains("worldheritagesite")) {
 						WikipediaPage page = new WikipediaPage(title, new String[] {});
 						page.processor = WHSByCountryProcessor.class.getName();
+						page.mustUpdate = true;
 						pageList.add(page);
 					}
 				}

@@ -5,7 +5,6 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
-import java.time.LocalDateTime;
 import java.util.List;
 
 import org.apache.logging.log4j.LogManager;
@@ -33,7 +32,6 @@ public abstract class JSoupLoad<T extends MongoDocument> {
 		Document htmlDocument = getHTMLDocument(link);
 		List<T> documents = getMongoDocuments(htmlDocument);
 		for (T document : documents) {
-			document.updateDateTime = LocalDateTime.now();
 			helper.upsert(document);
 		}
 	}
