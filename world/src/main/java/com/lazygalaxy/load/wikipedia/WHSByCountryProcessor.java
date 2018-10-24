@@ -3,6 +3,7 @@ package com.lazygalaxy.load.wikipedia;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.apache.commons.lang3.StringUtils;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -40,14 +41,15 @@ public class WHSByCountryProcessor implements JSoupElementProcessor<List<Wikiped
 				Point coords = jsoupTable.process(i, "location", COORDS_PROCESSOR);
 
 				for (String title : titles) {
-					WikipediaPage page = new WikipediaPage(title, new String[] {});
-					page.summary = summary;
-					page.coords = coords;
-					page.mustUpdate = true;
-					if (!images.isEmpty()) {
-						page.image = images.get(0);
+					if (!StringUtils.isBlank(title)) {
+						WikipediaPage page = new WikipediaPage(title, new String[] {});
+						page.summary = summary;
+						page.coords = coords;
+						if (!images.isEmpty()) {
+							page.image = images.get(0);
+						}
+						pageList.add(page);
 					}
-					pageList.add(page);
 				}
 			}
 		}

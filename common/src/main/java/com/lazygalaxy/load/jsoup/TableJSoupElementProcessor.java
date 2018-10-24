@@ -50,7 +50,10 @@ public class TableJSoupElementProcessor implements JSoupElementProcessor<JSoupTa
 
 		for (Element row : rows) {
 			cols = row.select("th,td");
-			table.data.add(cols.toArray(new Element[cols.size()]));
+			// TODO: may skip some info if table contains a table
+			if (cols.size() == table.fields.size()) {
+				table.data.add(cols.toArray(new Element[cols.size()]));
+			}
 		}
 
 		return table;

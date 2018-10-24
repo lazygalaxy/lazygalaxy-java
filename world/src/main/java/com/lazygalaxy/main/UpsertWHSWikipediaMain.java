@@ -1,7 +1,7 @@
 package com.lazygalaxy.main;
 
 import java.lang.reflect.Constructor;
-import java.time.LocalDateTime;
+import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
@@ -16,6 +16,7 @@ import com.lazygalaxy.load.wikipedia.WHSParentProcessor;
 import com.lazygalaxy.load.wikipedia.WikipediaPageJSoupLoad;
 import com.mongodb.client.FindIterable;
 import com.mongodb.client.model.Filters;
+import com.mongodb.client.model.Sorts;
 
 public class UpsertWHSWikipediaMain {
 	private static final Logger LOGGER = LogManager.getLogger(UpsertWHSWikipediaMain.class);
@@ -31,17 +32,15 @@ public class UpsertWHSWikipediaMain {
 				loader.upsert("World_Heritage_sites_by_country");
 				loader = new WikipediaPageJSoupLoad();
 			} else {
-				LocalDateTime latestUpdateDateTime = LocalDateTime.now().minusDays(1);
 				// find pages that need to be upserted
-				FindIterable<WikipediaPage> pages = helper.getCollection()
-						.find(Filters.and(Filters.eq("mustUpdate", true),
-								Filters.or(
-										Filters.and(Filters.exists("updateDateTime"),
-												Filters.lt("updateDateTime", latestUpdateDateTime)),
-										Filters.exists("updateDateTime", false))));
+				FindIterable<WikipediaPage> iterable = helper.getCollection()
+						.find(Filters.exists("updateDateTime", false));
+				iterable.sort(Sorts.ascending("_id"));
 
+				ArrayList<WikipediaPage> pages = iterable.into(new ArrayList<WikipediaPage>());
 				// iterate through pages and upsert
 				for (WikipediaPage page : pages) {
+					LOGGER.info("process: " + page.id);
 					if (!StringUtils.isBlank(page.processor)) {
 						Class<?> clazz = Class.forName(page.processor);
 						Constructor<?> ctor = clazz.getConstructor();

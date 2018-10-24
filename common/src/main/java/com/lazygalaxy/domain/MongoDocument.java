@@ -4,6 +4,7 @@ import java.time.LocalDateTime;
 import java.util.Set;
 import java.util.TreeSet;
 
+import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.builder.EqualsBuilder;
 import org.apache.commons.lang3.builder.HashCodeBuilder;
 import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
@@ -30,10 +31,11 @@ public abstract class MongoDocument {
 	}
 
 	public MongoDocument(String id, String name, String[] labels) throws Exception {
-		if (id == null) {
-			throw new Exception("null id not valid");
+		id = GeneralUtil.alphanumerify(id);
+		if (StringUtils.isBlank(id)) {
+			throw new Exception("id not valid for name: " + name);
 		}
-		this.id = GeneralUtil.alphanumerify(id);
+		this.id = id;
 		this.name = name;
 
 		if (labels != null) {
@@ -51,12 +53,12 @@ public abstract class MongoDocument {
 
 	@Override
 	public int hashCode() {
-		return HashCodeBuilder.reflectionHashCode(this, "updateDateTime");
+		return HashCodeBuilder.reflectionHashCode(this);
 	}
 
 	@Override
 	public boolean equals(Object obj) {
-		return EqualsBuilder.reflectionEquals(this, obj, "updateDateTime");
+		return EqualsBuilder.reflectionEquals(this, obj);
 	}
 
 	@Override

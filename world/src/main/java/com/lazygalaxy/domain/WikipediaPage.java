@@ -1,11 +1,10 @@
 package com.lazygalaxy.domain;
 
-import com.lazygalaxy.domain.MongoDocument;
 import com.mongodb.client.model.geojson.Point;
 
 public class WikipediaPage extends MongoDocument {
+	public String parentId;
 	public String processor;
-	public boolean mustUpdate = false;
 	public Image image;
 	public String summary;
 	public Point coords;

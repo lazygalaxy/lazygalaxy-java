@@ -18,14 +18,15 @@ public class ImageProcessor implements JSoupElementProcessor<List<Image>> {
 		List<Image> list = new ArrayList<Image>();
 		for (Element imageElement : images) {
 			String link = imageElement.attr("src");
-			if (link != null) {
+			if (!StringUtils.isBlank(link)) {
 				link = "http:" + link;
 				link = link.replaceAll("/thumb", "");
 				int endIndex = link.length() - StringUtils.reverse(link).indexOf("/") - 1;
 				link = link.substring(0, endIndex);
 
+				String id = link.substring(link.length() - StringUtils.reverse(link).indexOf("/"), link.length());
 				String caption = imageElement.attr("alt");
-				list.add(new Image(caption, caption, link));
+				list.add(new Image(id, caption, link));
 			}
 		}
 

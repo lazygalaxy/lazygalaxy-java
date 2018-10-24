@@ -14,7 +14,10 @@ public class SaveWikipediaMain {
 		try {
 			WikipediaPageJSoupLoad loader = new WikipediaPageJSoupLoad(new WHSParentProcessor());
 			loader.saveHTML("World_Heritage_sites_by_country");
+
 			loader.saveHTML("List_of_World_Heritage_Sites_in_Italy");
+			loader.saveHTML("List_of_World_Heritage_sites_in_Belarus");
+
 			loader.saveHTML("Historic_Centre_of_Florence");
 		} catch (Exception e) {
 			LOGGER.error("exception thrown in main", e);

@@ -9,6 +9,7 @@ import java.util.List;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
@@ -56,7 +57,11 @@ public abstract class JSoupLoad<T extends MongoDocument> {
 		Document document = null;
 
 		if (link.startsWith("http")) {
-			document = Jsoup.connect(link).get();
+			try {
+				document = Jsoup.connect(link).get();
+			} catch (HttpStatusException e) {
+				LOGGER.warn("problem getting link: " + link + " " + e.getMessage());
+			}
 		} else {
 			File file = new File(JSoupLoad.class.getClassLoader().getResource(link).getFile());
 			document = Jsoup.parse(file, "UTF-8");
