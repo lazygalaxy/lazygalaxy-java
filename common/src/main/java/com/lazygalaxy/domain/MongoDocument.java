@@ -39,6 +39,7 @@ public abstract class MongoDocument {
 		id = GeneralUtil.alphanumerify(id);
 		if (StringUtils.isBlank(id)) {
 			id = UUID.randomUUID().toString();
+			// TODO find a better way to assign ids
 			LOGGER.warn("id not valid for name: " + name);
 		}
 		this.id = id;
