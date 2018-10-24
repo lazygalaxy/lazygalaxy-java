@@ -3,15 +3,20 @@ package com.lazygalaxy.domain;
 import java.time.LocalDateTime;
 import java.util.Set;
 import java.util.TreeSet;
+import java.util.UUID;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.builder.EqualsBuilder;
 import org.apache.commons.lang3.builder.HashCodeBuilder;
 import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import com.lazygalaxy.util.GeneralUtil;
 
 public abstract class MongoDocument {
+	private static final Logger LOGGER = LogManager.getLogger(MongoDocument.class);
+
 	protected static String buildId(String seperator, String... parts) {
 		// none of the parts of the id should be null
 		for (Object part : parts) {
@@ -33,7 +38,8 @@ public abstract class MongoDocument {
 	public MongoDocument(String id, String name, String[] labels) throws Exception {
 		id = GeneralUtil.alphanumerify(id);
 		if (StringUtils.isBlank(id)) {
-			throw new Exception("id not valid for name: " + name);
+			id = UUID.randomUUID().toString();
+			LOGGER.warn("id not valid for name: " + name);
 		}
 		this.id = id;
 		this.name = name;
