@@ -15,7 +15,7 @@ public abstract class CSVLoad<T extends MongoDocument> {
 
 	private final MongoHelper<T> helper;
 
-	public CSVLoad(Class<T> clazz) {
+	public CSVLoad(Class<T> clazz) throws Exception {
 		this.helper = MongoHelper.getHelper(clazz);
 	}
 

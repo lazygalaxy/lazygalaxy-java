@@ -23,7 +23,7 @@ public class PlayerWhoScoredJSoupLoad extends JSoupLoad<Player> {
 	private final MongoHelper<Country> countryHelper = MongoHelper.getHelper(Country.class);
 	private final MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);
 
-	public PlayerWhoScoredJSoupLoad() {
+	public PlayerWhoScoredJSoupLoad() throws Exception {
 		super(Player.class);
 	}
 

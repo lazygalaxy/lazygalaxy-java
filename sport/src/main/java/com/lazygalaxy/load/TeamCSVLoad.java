@@ -5,13 +5,12 @@ import java.util.Arrays;
 import com.lazygalaxy.domain.Country;
 import com.lazygalaxy.domain.Team;
 import com.lazygalaxy.helper.MongoHelper;
-import com.lazygalaxy.load.CSVLoad;
 
 public class TeamCSVLoad extends CSVLoad<Team> {
 
 	private MongoHelper<Country> countryHelper = MongoHelper.getHelper(Country.class);
 
-	public TeamCSVLoad() {
+	public TeamCSVLoad() throws Exception {
 		super(Team.class);
 	}
 

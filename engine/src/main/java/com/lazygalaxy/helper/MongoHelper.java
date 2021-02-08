@@ -17,7 +17,7 @@ public class MongoHelper<T extends MongoDocument> {
 
 	private static Map<Class, MongoHelper> helperMap = new HashMap<Class, MongoHelper>();
 
-	public static <T extends MongoDocument> MongoHelper<T> getHelper(Class<T> clazz) {
+	public static <T extends MongoDocument> MongoHelper<T> getHelper(Class<T> clazz) throws Exception {
 		if (helperMap.containsKey(clazz)) {
 			return helperMap.get(clazz);
 		}
@@ -31,8 +31,8 @@ public class MongoHelper<T extends MongoDocument> {
 
 	private final MongoCollection<T> collection;
 
-	private MongoHelper(Class<T> clazz) {
-		this.collection = MongoConnectionHelper.INSTANCE.getDatabase()
+	private MongoHelper(Class<T> clazz) throws Exception {
+		this.collection = MongoConnectionHelper.INSTANCE.getDatabase(clazz.getField("DATABASE").get(null).toString())
 				.getCollection(clazz.getSimpleName().toLowerCase(), clazz);
 	}
 
@@ -108,13 +108,10 @@ public class MongoHelper<T extends MongoDocument> {
 	}
 
 	private T merge(T newDocument) throws Exception {
-		T oldDocument = null;
-		if (newDocument.labels != null) {
-			oldDocument = getDocumentByLabels(newDocument.labels);
-		}
+		T oldDocument = getDocumentById(newDocument.id);
 
-		if (oldDocument == null) {
-			oldDocument = getDocumentById(newDocument.id);
+		if (oldDocument == null && newDocument.labels != null && !newDocument.labels.isEmpty()) {
+			oldDocument = getDocumentByLabels(newDocument.labels);
 		}
 
 		if (oldDocument != null) {

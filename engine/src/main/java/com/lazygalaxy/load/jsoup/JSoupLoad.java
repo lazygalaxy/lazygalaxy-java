@@ -21,7 +21,7 @@ public abstract class JSoupLoad<T extends MongoDocument> {
 
 	protected final MongoHelper<T> helper;
 
-	public JSoupLoad(Class<T> clazz) {
+	public JSoupLoad(Class<T> clazz) throws Exception {
 		this.helper = MongoHelper.getHelper(clazz);
 	}
 

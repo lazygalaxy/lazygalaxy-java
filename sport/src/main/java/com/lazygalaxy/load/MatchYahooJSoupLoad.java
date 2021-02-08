@@ -19,7 +19,7 @@ public class MatchYahooJSoupLoad extends JSoupLoad<Match> {
 
 	private final MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);
 
-	public MatchYahooJSoupLoad() {
+	public MatchYahooJSoupLoad() throws Exception {
 		super(Match.class);
 	}
 

@@ -3,11 +3,10 @@ package com.lazygalaxy.load;
 import java.util.Arrays;
 
 import com.lazygalaxy.domain.Country;
-import com.lazygalaxy.load.CSVLoad;
 
 public class CountryCSVLoad extends CSVLoad<Country> {
 
-	public CountryCSVLoad() {
+	public CountryCSVLoad() throws Exception {
 		super(Country.class);
 	}
 

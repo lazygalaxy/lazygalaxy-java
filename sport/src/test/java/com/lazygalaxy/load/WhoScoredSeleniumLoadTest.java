@@ -2,14 +2,12 @@ package com.lazygalaxy.load;
 
 import java.time.format.DateTimeFormatter;
 
-import com.lazygalaxy.domain.Team;
-import com.lazygalaxy.helper.MongoHelper;
-
 import junit.framework.TestCase;
 
 public class WhoScoredSeleniumLoadTest extends TestCase {
 	private static final DateTimeFormatter DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("yyyyMMddHHmmSS");
-	private static final MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);
+	// private static final MongoHelper<Team> teamHelper =
+	// MongoHelper.getHelper(Team.class);
 
 	public void testMatch() throws Exception {
 

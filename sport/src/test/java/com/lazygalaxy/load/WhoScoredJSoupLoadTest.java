@@ -2,17 +2,15 @@ package com.lazygalaxy.load;
 
 import java.time.format.DateTimeFormatter;
 
-import com.lazygalaxy.domain.Country;
-import com.lazygalaxy.domain.Team;
-import com.lazygalaxy.helper.MongoHelper;
-
 import junit.framework.TestCase;
 
 public class WhoScoredJSoupLoadTest extends TestCase {
 	private static final DateTimeFormatter DATE_FORMATTER = DateTimeFormatter.ofPattern("yyyyMMdd");
 	private static final DateTimeFormatter DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("yyyyMMddHHmmSS");
-	private static final MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);
-	private static final MongoHelper<Country> countryHelper = MongoHelper.getHelper(Country.class);
+	// private static final MongoHelper<Team> teamHelper =
+	// MongoHelper.getHelper(Team.class);
+	// private static final MongoHelper<Country> countryHelper =
+	// MongoHelper.getHelper(Country.class);
 
 	public void testMatch() throws Exception {
 

@@ -15,7 +15,7 @@ import com.lazygalaxy.load.jsoup.JSoupLoad;
 public class MatchLiveScoreJSoupLoad extends JSoupLoad<Match> {
 	private final MongoHelper<Team> teamHelper = MongoHelper.getHelper(Team.class);
 
-	public MatchLiveScoreJSoupLoad() {
+	public MatchLiveScoreJSoupLoad() throws Exception {
 		super(Match.class);
 	}
 

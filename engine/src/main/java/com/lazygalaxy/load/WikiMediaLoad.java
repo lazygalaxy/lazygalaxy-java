@@ -16,7 +16,7 @@ public abstract class WikiMediaLoad<T extends MongoDocument> {
 
 	private final MongoHelper<T> helper;
 
-	public WikiMediaLoad(Class<T> clazz) {
+	public WikiMediaLoad(Class<T> clazz) throws Exception {
 		this.helper = MongoHelper.getHelper(clazz);
 	}
 

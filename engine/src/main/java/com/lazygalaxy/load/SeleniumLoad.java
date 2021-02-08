@@ -19,7 +19,7 @@ public abstract class SeleniumLoad<T extends MongoDocument> {
 	private final WebDriver driver;
 	private final MongoHelper<T> helper;
 
-	public SeleniumLoad(Class<T> clazz) {
+	public SeleniumLoad(Class<T> clazz) throws Exception {
 		ChromeOptions chromeOptions = new ChromeOptions();
 		chromeOptions.addArguments("--headless");
 		this.driver = new ChromeDriver(chromeOptions);

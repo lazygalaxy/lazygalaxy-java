@@ -8,13 +8,11 @@ import com.google.gson.JsonObject;
 import com.lazygalaxy.domain.Country;
 import com.lazygalaxy.domain.Team;
 import com.lazygalaxy.helper.MongoHelper;
-import com.lazygalaxy.load.JSONLoad;
 
 public class TeamFantasyPremierLeagueJSONLoad extends JSONLoad<Team> {
 	private static final Logger LOGGER = LogManager.getLogger(TeamFantasyPremierLeagueJSONLoad.class);
-	private static final Country ENGLAND = MongoHelper.getHelper(Country.class).getDocumentById("en");
 
-	public TeamFantasyPremierLeagueJSONLoad() {
+	public TeamFantasyPremierLeagueJSONLoad() throws Exception {
 		super(Team.class);
 	}
 
@@ -25,6 +23,8 @@ public class TeamFantasyPremierLeagueJSONLoad extends JSONLoad<Team> {
 
 	@Override
 	protected Team getMongoDocument(JsonObject object) throws Exception {
+		Country ENGLAND = MongoHelper.getHelper(Country.class).getDocumentById("en");
+
 		LOGGER.info(object);
 		String name = object.get("name").getAsString();
 		String shortName = object.get("short_name").getAsString();

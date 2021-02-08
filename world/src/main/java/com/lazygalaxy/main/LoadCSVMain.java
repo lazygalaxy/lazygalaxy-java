@@ -9,11 +9,10 @@ import com.lazygalaxy.load.CountryCSVLoad;
 public class LoadCSVMain {
 	private static final Logger LOGGER = LogManager.getLogger(LoadCSVMain.class);
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		try {
 			new CountryCSVLoad().load("csv/country.csv");
-		} catch (Exception e) {
-			LOGGER.error("exception thrown in main", e);
+			LOGGER.info("csv load completed!");
 		} finally {
 			MongoConnectionHelper.INSTANCE.close();
 		}

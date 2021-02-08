@@ -1,6 +1,5 @@
 package com.lazygalaxy.domain;
 
-import com.lazygalaxy.domain.MongoDocument;
 import com.lazygalaxy.util.GeneralUtil;
 
 public class League extends MongoDocument {

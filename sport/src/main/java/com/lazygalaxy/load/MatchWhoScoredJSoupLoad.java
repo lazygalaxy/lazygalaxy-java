@@ -32,7 +32,7 @@ public class MatchWhoScoredJSoupLoad extends JSoupLoad<Match> {
 
 	private final PlayerWhoScoredJSoupLoad playerHTMLLoad = new PlayerWhoScoredJSoupLoad();
 
-	public MatchWhoScoredJSoupLoad() {
+	public MatchWhoScoredJSoupLoad() throws Exception {
 		super(Match.class);
 	}
 

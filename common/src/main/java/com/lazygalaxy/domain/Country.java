@@ -1,8 +1,8 @@
 package com.lazygalaxy.domain;
 
-import com.lazygalaxy.domain.MongoDocument;
-
 public class Country extends MongoDocument {
+	public static final String DATABASE = "common";
+
 	public String iso2;
 	public String iso3;
 

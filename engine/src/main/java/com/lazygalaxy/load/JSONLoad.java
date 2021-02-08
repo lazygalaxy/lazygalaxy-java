@@ -15,7 +15,7 @@ public abstract class JSONLoad<T extends MongoDocument> {
 
 	private final MongoHelper<T> helper;
 
-	public JSONLoad(Class<T> clazz) {
+	public JSONLoad(Class<T> clazz) throws Exception {
 		this.helper = MongoHelper.getHelper(clazz);
 	}
 

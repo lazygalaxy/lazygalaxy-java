@@ -22,7 +22,6 @@ import com.lazygalaxy.domain.Match;
 import com.lazygalaxy.domain.Player;
 import com.lazygalaxy.domain.Team;
 import com.lazygalaxy.helper.MongoHelper;
-import com.lazygalaxy.load.SeleniumLoad;
 import com.lazygalaxy.util.WhoScoredUtil;
 
 public class MatchWhoScoredSeleniumLoad extends SeleniumLoad<Match> {
@@ -35,7 +34,7 @@ public class MatchWhoScoredSeleniumLoad extends SeleniumLoad<Match> {
 
 	private final PlayerWhoScoredJSoupLoad playerSeleniumLoad = new PlayerWhoScoredJSoupLoad();
 
-	public MatchWhoScoredSeleniumLoad() {
+	public MatchWhoScoredSeleniumLoad() throws Exception {
 		super(Match.class);
 	}
 

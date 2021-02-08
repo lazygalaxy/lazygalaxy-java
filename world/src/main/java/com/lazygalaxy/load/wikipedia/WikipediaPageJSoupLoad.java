@@ -4,8 +4,6 @@ import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
@@ -16,8 +14,6 @@ import com.lazygalaxy.load.wikipedia.InfoBoxProcessor.InfoBox;
 import com.lazygalaxy.util.GeneralUtil;
 
 public class WikipediaPageJSoupLoad extends JSoupLoad<WikipediaPage> {
-	private static final Logger LOGGER = LogManager.getLogger(WikipediaPageJSoupLoad.class);
-
 	private static final ImageProcessor IMAGE_PROCESSOR = new ImageProcessor();
 	private static final InfoBoxProcessor INFO_BOX_PROCESSOR = new InfoBoxProcessor();
 	private static final CoordsProcessor COORDS_PROCESSOR = new CoordsProcessor();
@@ -26,11 +22,11 @@ public class WikipediaPageJSoupLoad extends JSoupLoad<WikipediaPage> {
 	private JSoupElementProcessor<List<WikipediaPage>> processor;
 	private String title;
 
-	public WikipediaPageJSoupLoad() {
+	public WikipediaPageJSoupLoad() throws Exception {
 		this(null);
 	}
 
-	public WikipediaPageJSoupLoad(JSoupElementProcessor<List<WikipediaPage>> processor) {
+	public WikipediaPageJSoupLoad(JSoupElementProcessor<List<WikipediaPage>> processor) throws Exception {
 		super(WikipediaPage.class);
 
 		this.processor = processor;
