@@ -29,6 +29,7 @@ public abstract class JSONLoad<T extends MongoDocument> {
 		for (JsonElement element : array) {
 			T document = getMongoDocument(element.getAsJsonObject());
 			LOGGER.info(document);
+			// TODO: no upsert taking place
 		}
 	}
 

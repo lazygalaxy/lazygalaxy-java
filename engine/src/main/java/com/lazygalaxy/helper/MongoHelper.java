@@ -95,32 +95,27 @@ public class MongoHelper<T extends MongoDocument> {
 		return documents.get(0);
 	}
 
-	public void upsert(T document) throws Exception {
-		T oldDocument = merge(document);
+	public void upsert(T newDocument, boolean merge) throws Exception {
+		T storedDocument = getDocumentById(newDocument.id);
 
-		if (oldDocument == null) {
-			LOGGER.info("inserting  id: " + document.id + ", labels: " + document.labels + " " + document);
-			collection.insertOne(document);
-		} else if (!document.equals(oldDocument)) {
-			LOGGER.info("replacing id: " + document.id + ", labels: " + document.labels + " " + document);
-			collection.replaceOne(Filters.eq("_id", document.id), document);
-		}
-	}
-
-	private T merge(T newDocument) throws Exception {
-		T oldDocument = getDocumentById(newDocument.id);
-
-		if (oldDocument == null && newDocument.labels != null && !newDocument.labels.isEmpty()) {
-			oldDocument = getDocumentByLabels(newDocument.labels);
+		if (storedDocument == null && newDocument.labels != null && !newDocument.labels.isEmpty()) {
+			storedDocument = getDocumentByLabels(newDocument.labels);
 		}
 
-		if (oldDocument != null) {
-			newDocument.id = oldDocument.id;
-			newDocument.labels.addAll(oldDocument.labels);
-			return oldDocument;
+		if (storedDocument != null) {
+			newDocument.id = storedDocument.id;
+			if (merge) {
+				// TODO: logic to merge the fields here
+			}
 		}
 
-		return null;
+		if (storedDocument == null) {
+			LOGGER.info("inserting  id: " + newDocument.id + ", labels: " + newDocument.labels + " " + newDocument);
+			collection.insertOne(newDocument);
+		} else if (!newDocument.equals(storedDocument)) {
+			LOGGER.info("replacing id: " + newDocument.id + ", labels: " + newDocument.labels + " " + newDocument);
+			collection.replaceOne(Filters.eq("_id", newDocument.id), newDocument);
+		}
 	}
 
 }

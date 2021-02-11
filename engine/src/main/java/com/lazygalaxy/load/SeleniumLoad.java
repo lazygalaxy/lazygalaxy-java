@@ -54,7 +54,7 @@ public abstract class SeleniumLoad<T extends MongoDocument> {
 
 	public void upsert(String link) throws Exception {
 		T document = getMongoDocument(link, true);
-		helper.upsert(document);
+		helper.upsert(document, true);
 	}
 
 	public void saveSource(String location, String link) throws Exception {

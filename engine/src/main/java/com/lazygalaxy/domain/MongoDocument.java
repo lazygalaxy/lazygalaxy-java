@@ -3,7 +3,9 @@ package com.lazygalaxy.domain;
 import java.time.LocalDateTime;
 import java.util.Set;
 import java.util.TreeSet;
+import java.util.UUID;
 
+import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.builder.EqualsBuilder;
 import org.apache.commons.lang3.builder.HashCodeBuilder;
 import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
@@ -31,7 +33,11 @@ public abstract class MongoDocument {
 	}
 
 	public MongoDocument(String id, String name, String[] labels) throws Exception {
-		this.id = GeneralUtil.alphanumerify(id);
+		if (!StringUtils.isBlank(id)) {
+			this.id = GeneralUtil.alphanumerify(id);
+		} else {
+			this.id = UUID.randomUUID().toString();
+		}
 		this.name = name;
 
 		if (labels != null) {

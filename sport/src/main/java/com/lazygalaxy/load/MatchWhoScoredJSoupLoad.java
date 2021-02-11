@@ -86,7 +86,7 @@ public class MatchWhoScoredJSoupLoad extends JSoupLoad<Match> {
 								List<Player> playerList = playerHTMLLoad.getMongoDocuments(
 										playerHTMLLoad.getHTMLDocument(WhoScoredUtil.getPlayerURL(playerId)));
 								for (Player playerOther : playerList) {
-									playerHelper.upsert(playerOther);
+									playerHelper.upsert(playerOther, true);
 								}
 							}
 

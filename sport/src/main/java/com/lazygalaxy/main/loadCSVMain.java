@@ -12,8 +12,8 @@ public class loadCSVMain {
 
 	public static void main(String[] args) {
 		try {
-			new TeamCSVLoad().load("csv/team.csv");
-			new LeagueCSVLoad().load("csv/league.csv");
+			new TeamCSVLoad().load("csv/team.csv", false);
+			new LeagueCSVLoad().load("csv/league.csv", false);
 		} catch (Exception e) {
 			LOGGER.error("exception thrown in main", e);
 		} finally {
