@@ -3,8 +3,8 @@ package com.lazygalaxy.game.main;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.game.load.GameXMLLoad;
-import com.lazygalaxy.helper.MongoConnectionHelper;
 
 public class RunGameXMLLoad {
 	private static final Logger LOGGER = LogManager.getLogger(RunGameXMLLoad.class);

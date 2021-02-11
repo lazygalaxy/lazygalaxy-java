@@ -4,8 +4,8 @@ import org.apache.commons.lang3.StringUtils;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 
+import com.lazygalaxy.engine.load.XMLLoad;
 import com.lazygalaxy.game.domain.Game;
-import com.lazygalaxy.load.XMLLoad;
 
 public class GameXMLLoad extends XMLLoad<Game> {
 

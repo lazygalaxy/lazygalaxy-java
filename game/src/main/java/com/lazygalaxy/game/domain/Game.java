@@ -2,7 +2,7 @@ package com.lazygalaxy.game.domain;
 
 import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
 
-import com.lazygalaxy.domain.MongoDocument;
+import com.lazygalaxy.engine.domain.MongoDocument;
 
 public class Game extends MongoDocument {
 	public static final String DATABASE = "game";
