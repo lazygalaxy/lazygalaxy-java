@@ -29,9 +29,9 @@ public class MatchLiveScoreJSoupLoad extends JSoupLoad<Match> {
 			Elements homeElement = linkDocument.select("div[data-type=home-team]");
 			Elements awayElement = linkDocument.select("div[data-type=away-team]");
 
-			Team homeTeam = teamHelper.getDocumentByLabel(homeElement.text());
-			Team awayTeam = teamHelper.getDocumentByLabel(awayElement.text());
-			matchList.add(new Match(null, null, homeTeam, awayTeam, null));
+			List<Team> homeTeam = teamHelper.getDocumentsByLabel(homeElement.text());
+			List<Team> awayTeam = teamHelper.getDocumentsByLabel(awayElement.text());
+			matchList.add(new Match(null, null, homeTeam.get(0), awayTeam.get(0), null));
 		}
 		return matchList;
 	}

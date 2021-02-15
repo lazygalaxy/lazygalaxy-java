@@ -9,6 +9,7 @@ import org.w3c.dom.Element;
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.helper.MongoHelper;
 import com.lazygalaxy.engine.load.XMLLoad;
+import com.lazygalaxy.engine.merge.FieldMerge;
 import com.lazygalaxy.engine.util.XMLUtils;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.Ratings;
@@ -19,7 +20,8 @@ public class RunScreenScrapperFrRatingLoad {
 
 	public static void main(String[] args) throws Exception {
 		try {
-			new ScrapperFrRatingLoad().load("xml/mame_game.xml", "game", "System");
+			new ScrapperFrRatingLoad().load("xml/retroarch_mame_games_vman_orig.xml", "game", new FieldMerge<Ratings>(),
+					"System");
 			LOGGER.info("xml load completed!");
 		} finally {
 			MongoConnectionHelper.INSTANCE.close();
@@ -37,12 +39,12 @@ public class RunScreenScrapperFrRatingLoad {
 			String system = extraTagValues.get(0);
 			String path = XMLUtils.handleString(element, "path");
 			Double rating = XMLUtils.handleDouble(element, "rating");
+			String id = system + path;
 
-			Game game = MongoHelper.getHelper(Game.class).getDocumentById(system + path);
+			Game game = MongoHelper.getHelper(Game.class).getDocumentById(id);
 			if (game == null) {
-				throw new Exception("game not found: " + system + " " + path);
+				throw new Exception("game not found: " + id);
 			}
-
 			return new Ratings(game.id, rating, null);
 		}
 	}

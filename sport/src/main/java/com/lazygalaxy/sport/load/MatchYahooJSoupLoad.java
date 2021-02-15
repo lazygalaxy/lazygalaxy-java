@@ -39,10 +39,10 @@ public class MatchYahooJSoupLoad extends JSoupLoad<Match> {
 
 			LocalDateTime dateTime = LocalDateTime.parse(gameStatus.get(0).child(0).child(0).text() + ", 0000",
 					DATE_TIME_FORMATTER);
-			Team homeTeam = teamHelper.getDocumentByLabel(teams.get(0).text());
-			Team awayTeam = teamHelper.getDocumentByLabel(teams.get(1).text());
+			List<Team> homeTeam = teamHelper.getDocumentsByLabel(teams.get(0).text());
+			List<Team> awayTeam = teamHelper.getDocumentsByLabel(teams.get(1).text());
 
-			matchList.add(new Match(null, dateTime, homeTeam, awayTeam, null));
+			matchList.add(new Match(null, dateTime, homeTeam.get(0), awayTeam.get(0), null));
 		}
 
 		return matchList;

@@ -17,7 +17,7 @@ public class TeamCSVLoad extends CSVLoad<Team> {
 
 	@Override
 	protected Team getMongoDocument(String[] tokens) throws Exception {
-		Country country = countryHelper.getDocumentByLabel(tokens[1]);
+		Country country = countryHelper.getDocumentsByLabel(tokens[1]).get(0);
 		Team team = new Team(tokens[0], Arrays.copyOfRange(tokens, 3, tokens.length), country);
 		team.whoScored.id = Integer.parseInt(tokens[2]);
 		return team;

@@ -11,7 +11,7 @@ public class RunCountryCSVLoad {
 
 	public static void main(String[] args) throws Exception {
 		try {
-			new CountryCSVLoad().load("csv/country.csv", false);
+			new CountryCSVLoad().load("csv/country.csv");
 			LOGGER.info("csv load completed!");
 		} finally {
 			MongoConnectionHelper.INSTANCE.close();

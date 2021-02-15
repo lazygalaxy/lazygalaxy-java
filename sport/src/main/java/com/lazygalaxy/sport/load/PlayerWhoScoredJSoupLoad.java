@@ -48,13 +48,13 @@ public class PlayerWhoScoredJSoupLoad extends JSoupLoad<Player> {
 			} else if (StringUtils.startsWith(element.select("dt").text(), "Name")) {
 				name = element.select("dd").text();
 			} else if (StringUtils.startsWith(element.select("dt").text(), "Nationality")) {
-				country = countryHelper.getDocumentByLabel(element.select("dd").text());
+				country = countryHelper.getDocumentsByLabel(element.select("dd").text()).get(0);
 			} else if (StringUtils.startsWith(element.select("dt").text(), "Height")) {
 				height = Integer.parseInt(GeneralUtil.numerify(element.select("dd").text()));
 			} else if (StringUtils.startsWith(element.select("dt").text(), "Weight")) {
 				weight = Integer.parseInt(GeneralUtil.numerify(element.select("dd").text()));
 			} else if (StringUtils.startsWith(element.select("dt").text(), "Current Team")) {
-				team = teamHelper.getDocumentByLabel(element.select("dd").text());
+				team = teamHelper.getDocumentsByLabel(element.select("dd").text()).get(0);
 			} else if (StringUtils.startsWith(element.select("dt").text(), "Position")) {
 				whoScoredPosition = Player.Position.getPosition(element.select("dd").text());
 			}

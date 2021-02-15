@@ -102,8 +102,8 @@ public class MatchWhoScoredSeleniumLoad extends SeleniumLoad<Match> {
 		List<WebElement> teamElement = driver.findElements(By.xpath("//td[contains(@class,'team')]"));
 		WebElement homeTeamElement = teamElement.get(0);
 		WebElement awayTeamElement = teamElement.get(1);
-		Team homeTeam = teamHelper.getDocumentByLabel(homeTeamElement.getText());
-		Team awayTeam = teamHelper.getDocumentByLabel(awayTeamElement.getText());
+		List<Team> homeTeam = teamHelper.getDocumentsByLabel(homeTeamElement.getText());
+		List<Team> awayTeam = teamHelper.getDocumentsByLabel(awayTeamElement.getText());
 
 		WebElement navigatorElement = driver.findElements(By.xpath("//div[contains(@id,'breadcrumb-nav')]")).get(0);
 		String[] leagueLink = navigatorElement.findElements(By.tagName("a")).get(0).getAttribute("href").split("/");
@@ -197,6 +197,6 @@ public class MatchWhoScoredSeleniumLoad extends SeleniumLoad<Match> {
 			}
 		}
 
-		return new Match(league, dateTime, homeTeam, awayTeam, incidentSet);
+		return new Match(league, dateTime, homeTeam.get(0), awayTeam.get(0), incidentSet);
 	}
 }

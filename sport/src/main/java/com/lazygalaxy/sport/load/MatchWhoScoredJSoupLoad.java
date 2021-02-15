@@ -55,8 +55,8 @@ public class MatchWhoScoredJSoupLoad extends JSoupLoad<Match> {
 			Elements teamElement = linkDocument.select("td[class*=team]");
 			Element homeTeamElement = teamElement.get(0);
 			Element awayTeamElement = teamElement.get(1);
-			Team homeTeam = teamHelper.getDocumentByLabel(homeTeamElement.text());
-			Team awayTeam = teamHelper.getDocumentByLabel(awayTeamElement.text());
+			List<Team> homeTeam = teamHelper.getDocumentsByLabel(homeTeamElement.text());
+			List<Team> awayTeam = teamHelper.getDocumentsByLabel(awayTeamElement.text());
 
 			Element navigatorElement = linkDocument.select("div[id=breadcrumb-nav]").get(0);
 			String[] leagueLink = navigatorElement.select("a").get(0).attr("href").split("/");
@@ -143,7 +143,7 @@ public class MatchWhoScoredJSoupLoad extends JSoupLoad<Match> {
 					}
 				}
 			}
-			macthList.add(new Match(league, dateTime, homeTeam, awayTeam, incidentSet));
+			macthList.add(new Match(league, dateTime, homeTeam.get(0), awayTeam.get(0), incidentSet));
 		}
 		return macthList;
 	}
