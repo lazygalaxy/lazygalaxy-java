@@ -6,6 +6,7 @@ import com.lazygalaxy.engine.domain.MongoDocument;
 
 public class Game extends MongoDocument {
 	public static final String DATABASE = "game";
+
 	public String system;
 	public String path;
 	public String description;
@@ -19,9 +20,9 @@ public class Game extends MongoDocument {
 	public Game() {
 	}
 
-	public Game(String name, String[] labels, String system, String path, String description, Double rating,
+	public Game(String id, String name, String[] labels, String system, String path, String description, Double rating,
 			Integer date, String developer, String publisher, String genre, String players) throws Exception {
-		super(null, name, labels);
+		super(id, name, labels);
 		this.system = system;
 		this.path = path;
 		this.description = description;

@@ -42,7 +42,7 @@ public abstract class WikiMediaLoad<T extends MongoDocument> {
 
 		List<T> documents = getMongoDocuments(mainContent);
 		for (T document : documents) {
-			helper.upsert(document, true);
+			helper.upsert(document);
 			LOGGER.info(document);
 		}
 	}

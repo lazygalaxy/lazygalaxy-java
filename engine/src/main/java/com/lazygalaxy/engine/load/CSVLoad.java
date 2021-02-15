@@ -25,7 +25,7 @@ public abstract class CSVLoad<T extends MongoDocument> {
 			String[] tokens = s.split(",");
 			try {
 				T document = getMongoDocument(tokens);
-				helper.upsert(document, merge);
+				helper.upsert(document);
 			} catch (Exception e) {
 				LOGGER.error("could not process: " + s, e);
 			}

@@ -33,7 +33,7 @@ public abstract class JSoupLoad<T extends MongoDocument> {
 		Document htmlDocument = getHTMLDocument(link);
 		List<T> documents = getMongoDocuments(htmlDocument);
 		for (T document : documents) {
-			helper.upsert(document, true);
+			helper.upsert(document);
 		}
 	}
 

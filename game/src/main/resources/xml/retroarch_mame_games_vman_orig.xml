@@ -26462,7 +26462,7 @@ Dazzler</desc>
 		<image>./mixart/zeroteam.png</image>
 		<video>./snap/zeroteam.mp4</video>
 		<marquee>./wheel/zeroteam.png</marquee>
-		<rating>0.8</rating>
+		<rating>0.75</rating>
 		<releasedate>19930101T000000</releasedate>
 		<publisher>Seibu Kaihatsu</publisher>
 		<genre>Fight-Fight / 2.5D</genre>
@@ -31684,7 +31684,7 @@ Toy Pop is a top-down multi-directional shooter that can be played both single-p
     <path>./zeroteam.zip</path>
     <name>Zero Team USA</name>
     <desc>A side scrolling beat-em-up that uses Japanese superhero-type characters. Characters are able to throw and break background objects and use them against their enemies. The goal is to progress past the end-of-level bosse</desc>
-    <rating>0.7</rating>
+    <rating>0.75</rating>
     <releasedate>19930101T000000</releasedate>
 	<developer>Seibu Kaihatsu</developer>
     <publisher>Seibu Kaihatsu</publisher>

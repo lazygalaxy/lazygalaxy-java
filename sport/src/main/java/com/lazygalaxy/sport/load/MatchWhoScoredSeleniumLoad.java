@@ -137,7 +137,7 @@ public class MatchWhoScoredSeleniumLoad extends SeleniumLoad<Match> {
 										.getHTMLDocument(WhoScoredUtil.getPlayerURL(playerId));
 								List<Player> playerList = playerSeleniumLoad.getMongoDocuments(htmlDocument);
 								for (Player playerOther : playerList) {
-									playerHelper.upsert(playerOther, true);
+									playerHelper.upsert(playerOther);
 								}
 							}
 

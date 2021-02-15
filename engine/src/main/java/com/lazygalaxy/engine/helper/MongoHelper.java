@@ -9,6 +9,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.lazygalaxy.engine.domain.MongoDocument;
+import com.lazygalaxy.engine.merge.Merge;
 import com.mongodb.client.FindIterable;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.model.Filters;
@@ -95,18 +96,21 @@ public class MongoHelper<T extends MongoDocument> {
 		return documents.get(0);
 	}
 
-	public void upsert(T newDocument, boolean merge) throws Exception {
+	public void upsert(T newDocument) throws Exception {
+		upsert(newDocument, null);
+	}
+
+	public void upsert(T newDocument, Merge<T> merge) throws Exception {
 		T storedDocument = getDocumentById(newDocument.id);
 
-		if (storedDocument == null && newDocument.labels != null && !newDocument.labels.isEmpty()) {
-			storedDocument = getDocumentByLabels(newDocument.labels);
-		}
+		// TODO: decide when to use this next
+		// if (storedDocument == null && newDocument.labels != null &&
+		// !newDocument.labels.isEmpty()) {
+		// storedDocument = getDocumentByLabels(newDocument.labels);
+		// }
 
-		if (storedDocument != null) {
-			newDocument.id = storedDocument.id;
-			if (merge) {
-				// TODO: logic to merge the fields here
-			}
+		if (storedDocument != null && merge != null && !newDocument.equals(storedDocument)) {
+			merge.apply(newDocument, storedDocument);
 		}
 
 		if (storedDocument == null) {
