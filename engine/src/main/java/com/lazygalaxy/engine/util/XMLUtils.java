@@ -21,14 +21,10 @@ public class XMLUtils {
 
 	}
 
-	public static String[] handleStringArray(Element element, String tagName, String regexSplitter) {
+	public static String[] handleStringArray(Element element, String tagName, String regex) {
 		String text = handleString(element, tagName);
 		if (text != null) {
-			String[] tokens = text.split(regexSplitter);
-			for (int i = 0; i < tokens.length; i++) {
-				tokens[i] = tokens[i].trim();
-			}
-			return tokens;
+			return GeneralUtil.split(text, regex);
 		}
 		return null;
 	}

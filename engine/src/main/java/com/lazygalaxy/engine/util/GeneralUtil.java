@@ -22,4 +22,12 @@ public class GeneralUtil {
 	public static String alphify(String str) {
 		return StringUtils.stripAccents(str).toLowerCase().replaceAll("[^a-z]", "");
 	}
+
+	public static String[] split(String str, String regex) {
+		String[] tokens = str.split(regex);
+		for (int i = 0; i < tokens.length; i++) {
+			tokens[i] = tokens[i].trim();
+		}
+		return tokens;
+	}
 }

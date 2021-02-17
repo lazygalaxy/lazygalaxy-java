@@ -2,6 +2,7 @@ package com.lazygalaxy.game.main;
 
 import java.lang.reflect.Field;
 import java.util.Arrays;
+import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
@@ -53,9 +54,29 @@ public class A_RunRetroArchGameXMLLoad {
 			Integer year = XMLUtils.handleInteger(element, "releasedate", 4);
 			String developer = XMLUtils.handleString(element, "developer");
 			String publisher = XMLUtils.handleString(element, "publisher");
-			String genre = XMLUtils.handleString(element, "genre");
+			Set<String> genre = new LinkedHashSet<String>();
 			Set<Integer> players = new TreeSet<Integer>();
 			Boolean hide = XMLUtils.handleBoolean(element, "hide");
+
+			String genreString = XMLUtils.handleString(element, "genre");
+			if (genreString != null) {
+				genreString = genreString.toLowerCase();
+				genreString = genreString.replaceAll("plateform", "platform");
+				genreString = genreString.replaceAll(" and ", " ");
+				String[] genreArray = GeneralUtil.split(genreString, "[/,]");
+
+				for (String token : genreArray) {
+					String[] genreDetailArray = GeneralUtil.split(token, "-");
+					if (genreDetailArray.length == 1) {
+						genre.add(token);
+					} else if (genreDetailArray.length == 2
+							&& StringUtils.equals(genreDetailArray[0], genreDetailArray[1])) {
+						genre.add(genreDetailArray[0]);
+					} else {
+						genre.add(token);
+					}
+				}
+			}
 
 			String[] playerArray = XMLUtils.handleStringArray(element, "players", "-");
 			if (playerArray != null) {
@@ -78,7 +99,8 @@ public class A_RunRetroArchGameXMLLoad {
 	}
 
 	private static class GameMerge extends FieldMerge<Game> {
-		public static final List<String> EXCLUDE_FIELDS = Arrays.asList("name", "updateDateTime", "labels", "players");
+		public static final List<String> EXCLUDE_FIELDS = Arrays.asList("name", "updateDateTime", "labels", "players",
+				"genre");
 
 		@Override
 		public void apply(Game newDocument, Game storedDocument) throws Exception {
@@ -86,21 +108,17 @@ public class A_RunRetroArchGameXMLLoad {
 			super.apply(newDocument, storedDocument);
 
 			for (Field field : Game.class.getFields()) {
+				if (StringUtils.equals(field.getName(), "genre")) {
+					if (storedDocument.genre.size() > newDocument.genre.size()) {
+						newDocument.genre = storedDocument.genre;
+					}
+				}
 				if (!EXCLUDE_FIELDS.contains(field.getName())) {
 					Object newValue = field.get(newDocument);
 					Object storedValue = field.get(storedDocument);
 					if (newValue != null && storedValue != null) {
-						boolean merge = false;
 						if (!newValue.equals(storedValue)) {
-							if (StringUtils.equals(field.getName(), "genre")) {
-								String[] newTokens = newDocument.genre.split("/");
-								String[] storedTokens = newDocument.genre.split("/");
-								if (storedTokens.length > newTokens.length) {
-									newDocument.genre = storedDocument.genre;
-									merge = true;
-								}
-							}
-							if (!merge && (storedValue.toString().length() > newValue.toString().length())) {
+							if (storedValue.toString().length() > newValue.toString().length()) {
 								field.set(newDocument, storedValue);
 							}
 						}

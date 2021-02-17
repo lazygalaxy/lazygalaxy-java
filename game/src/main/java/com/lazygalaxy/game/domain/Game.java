@@ -16,7 +16,7 @@ public class Game extends MongoDocument {
 	public Integer year;
 	public String developer;
 	public String publisher;
-	public String genre;
+	public Set<String> genre;
 	public Set<Integer> players;
 	public Boolean hide;
 
@@ -24,7 +24,7 @@ public class Game extends MongoDocument {
 	}
 
 	public Game(String id, String name, String[] labels, String system, String path, String description, Double rating,
-			Integer year, String developer, String publisher, String genre, Set<Integer> players, Boolean hide)
+			Integer year, String developer, String publisher, Set<String> genre, Set<Integer> players, Boolean hide)
 			throws Exception {
 		super(id, name, labels);
 		this.system = system;
