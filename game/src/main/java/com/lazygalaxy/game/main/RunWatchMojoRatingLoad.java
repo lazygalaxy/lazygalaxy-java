@@ -41,7 +41,7 @@ public class RunWatchMojoRatingLoad {
 			String system = GeneralUtil.alphanumerify(tokens[3]);
 
 			List<Game> games = MongoHelper.getHelper(Game.class).getDocumentByFilters(Filters.in("labels", name),
-					Filters.eq("year", year), Filters.eq("system", system));
+					Filters.eq("year", year), Filters.eq("system", system), Filters.ne("hide", true));
 			if (games.size() == 0) {
 				LOGGER.warn("game not found: " + name);
 				return null;

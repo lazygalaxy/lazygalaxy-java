@@ -22,8 +22,4 @@ public class PropertiesUtil {
 	public static String getURI() {
 		return properties.getProperty("mongodb.uri");
 	}
-
-	public static String getDatabase() {
-		return properties.getProperty("mongodb.database");
-	}
 }

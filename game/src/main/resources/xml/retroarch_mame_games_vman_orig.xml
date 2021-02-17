@@ -638,7 +638,7 @@ If a player earns at least 60,000 points, two things happen to increase the chal
 		<video>./snap/centiped.mp4</video>
 		<marquee>./wheel/centiped.png</marquee>
 		<rating>0.7</rating>
-		<releasedate>19800101T000000</releasedate>
+		<releasedate>19810101T000000</releasedate>
 		<developer>Atari</developer>
 		<publisher>Atari</publisher>
 		<genre>Shooter-Shooter / Space Invaders Like</genre>
@@ -16923,9 +16923,8 @@ Space Harrier has a total of 18 stages, each with a boss fight at the end. Three
 	</game>
 	<game>
 		<path>./invaders.zip</path>
-		<name>Space Invaders / Space Invaders M</name>
-		<desc>The Space Invaders phenomenon stunned many conservative adults of the time who were convinced that video-games soured the minds of their youngsters. Residents of Mesquite, Texas, pushed the issue all the way to the Supreme Court in their efforts to ban the illicit machines from their Bible-belt community. A number of reported incidents of juvenile crime began to surface shortly after the game's release, adding to its 'controversy'. A girl was caught stealing $5,000 from her parents and gangs of youths were reported to have robbed grocery stores just so they would have money to play the game.
-</desc>
+		<name>Space Invaders</name>
+		<desc>The Space Invaders phenomenon stunned many conservative adults of the time who were convinced that video-games soured the minds of their youngsters. Residents of Mesquite, Texas, pushed the issue all the way to the Supreme Court in their efforts to ban the illicit machines from their Bible-belt community. A number of reported incidents of juvenile crime began to surface shortly after the game's release, adding to its 'controversy'. A girl was caught stealing $5,000 from her parents and gangs of youths were reported to have robbed grocery stores just so they would have money to play the game.</desc>
 		<image>./mixart/invaders.png</image>
 		<video>./snap/invaders.mp4</video>
 		<marquee>./wheel/invaders.png</marquee>
@@ -17643,7 +17642,7 @@ Platform graphics (resembling the medal ceremonies in the Olympics) are added to
 	</game>
 	<game>
 		<path>./sf2ce.zip</path>
-		<name>Street Fighter II' : Champion Edition</name>
+		<name>Street Fighter II : Champion Edition</name>
 		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
 		<image>./mixart/sf2ce.png</image>
 		<video>./snap/sf2ce.mp4</video>
@@ -19003,7 +19002,7 @@ Yet again, Konami's mastery of the genre was in evidence as the manic energy and
 	</game>
 	<game>
 		<path>./tmnt22p.zip</path>
-		<name>Teenage Mutant Ninja Turtles - Turtles in Time 2P</name>
+		<name>Teenage Mutant Ninja Turtles - Turtles in Time</name>
 		<desc>The sequel to 1989's hugely successful original, 'Turtles in Time' once more sees the four heroes taking on Shredder and his army. Gameplay remains similar to the original game, but the experience is enhanced further with the obligatory improved graphics and sound effects. 'Turtles in Time' also features a larger variety of levels, as now the battle between good and evil rages across time as the Turtles travel to prehistoric, pirate and Wild West times in their pursuit of the elusive Splinter. 
 
 Yet again, Konami's mastery of the genre was in evidence as the manic energy and humour of the cartoon and comic-book series upon which the game is based was captured perfectly.</desc>
@@ -19014,6 +19013,7 @@ Yet again, Konami's mastery of the genre was in evidence as the manic energy and
 		<releasedate>19910918T000000</releasedate>
 		<publisher>Konami</publisher>
 		<players>1-2</players>
+		<hide>true</hide>
 	</game>
 	<game>
 		<path>./tempest.zip</path>
@@ -25423,7 +25423,7 @@ In fact, only with sinisite can you manufacture sinibombs to eradicate the Sinis
 	</game>
 	<game>
 		<path>./galagamf.zip</path>
-		<name>Galaga MF</name>
+		<name>Galaga</name>
 		<desc>Galaga is a single-screen shoot-em-up in which the player controls a 'Fighter' spaceship and must defend the home planet against the on-coming hordes of alien invaders called "Galagans". The Fighter can only move left and right along the bottom of the screen. 
 
 Galagans fly onto the screen in a variety of formations before forming troop lines at the top of the screen. Once all troop lines are formed the Galagans separate and start attacking the player's Fighter in ones, twos and threes. The top-line Boss Galaga need to be shot twice before they are destroyed. </desc>
@@ -25436,6 +25436,7 @@ Galagans fly onto the screen in a variety of formations before forming troop lin
 		<publisher>Midway</publisher>
 		<genre>Shooter-Shooter / Space Invaders Like</genre>
 		<players>1-2</players>
+		<hide>true</hide>
 	</game>
 	<game>
 		<path>./astdelux.zip</path>

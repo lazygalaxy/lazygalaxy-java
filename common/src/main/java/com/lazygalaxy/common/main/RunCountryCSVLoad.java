@@ -1,10 +1,13 @@
 package com.lazygalaxy.common.main;
 
+import java.util.Arrays;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import com.lazygalaxy.common.load.CountryCSVLoad;
+import com.lazygalaxy.common.domain.Country;
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
+import com.lazygalaxy.engine.load.CSVLoad;
 
 public class RunCountryCSVLoad {
 	private static final Logger LOGGER = LogManager.getLogger(RunCountryCSVLoad.class);
@@ -16,5 +19,18 @@ public class RunCountryCSVLoad {
 		} finally {
 			MongoConnectionHelper.INSTANCE.close();
 		}
+	}
+
+	private static class CountryCSVLoad extends CSVLoad<Country> {
+
+		public CountryCSVLoad() throws Exception {
+			super(Country.class);
+		}
+
+		@Override
+		protected Country getMongoDocument(String[] tokens) throws Exception {
+			return new Country(tokens[0], Arrays.copyOfRange(tokens, 4, tokens.length), tokens[1], tokens[2]);
+		}
+
 	}
 }

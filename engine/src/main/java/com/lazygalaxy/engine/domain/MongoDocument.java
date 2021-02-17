@@ -57,6 +57,10 @@ public abstract class MongoDocument {
 		this.labels.add(GeneralUtil.alphanumerify(label));
 	}
 
+	public void removeLabel(String label) {
+		this.labels.remove(GeneralUtil.alphanumerify(label));
+	}
+
 	@Override
 	public int hashCode() {
 		return HashCodeBuilder.reflectionHashCode(this, EXCLUDE_FIELDS);

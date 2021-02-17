@@ -2,8 +2,6 @@ package com.lazygalaxy.engine.merge;
 
 import java.lang.reflect.Field;
 
-import org.apache.commons.lang3.StringUtils;
-
 import com.lazygalaxy.engine.domain.MongoDocument;
 
 public class FieldMerge<T extends MongoDocument> implements Merge<T> {
@@ -17,10 +15,6 @@ public class FieldMerge<T extends MongoDocument> implements Merge<T> {
 
 				if (newValue == null && storedValue != null) {
 					field.set(newDocument, storedValue);
-					if (StringUtils.equals(field.getName(), "name")) {
-						newDocument.labels.clear();
-						newDocument.addLabel(newDocument.name);
-					}
 				}
 			}
 		}

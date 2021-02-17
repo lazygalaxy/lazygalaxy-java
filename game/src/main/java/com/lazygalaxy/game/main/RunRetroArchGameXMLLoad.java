@@ -1,6 +1,7 @@
 package com.lazygalaxy.game.main;
 
 import java.lang.reflect.Field;
+import java.util.Arrays;
 import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
@@ -8,7 +9,6 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.w3c.dom.Element;
 
-import com.lazygalaxy.engine.domain.MongoDocument;
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.XMLLoad;
 import com.lazygalaxy.engine.merge.FieldMerge;
@@ -42,7 +42,7 @@ public class RunRetroArchGameXMLLoad {
 
 		@Override
 		protected Game getMongoDocument(Element element, List<String> extraTagValues) throws Exception {
-			String name = XMLUtils.handleString(element, "name");
+			String name = XMLUtils.handleString(element, "name").replaceAll(" - ", ": ");
 			String[] labels = new String[0];
 			String system = GeneralUtil.alphanumerify(extraTagValues.get(0));
 			String path = XMLUtils.handleString(element, "path");
@@ -53,13 +53,15 @@ public class RunRetroArchGameXMLLoad {
 			String publisher = XMLUtils.handleString(element, "publisher");
 			String genre = XMLUtils.handleString(element, "genre");
 			String players = XMLUtils.handleString(element, "players");
+			Boolean hide = XMLUtils.handleBoolean(element, "hide");
 
 			return new Game(system + path, name, labels, system, path, description, rating, year, developer, publisher,
-					genre, players);
+					genre, players, hide);
 		}
 	}
 
 	private static class GameMerge extends FieldMerge<Game> {
+		public static final List<String> EXCLUDE_FIELDS = Arrays.asList("name", "updateDateTime", "labels");
 
 		@Override
 		public void apply(Game newDocument, Game storedDocument) throws Exception {
@@ -67,7 +69,7 @@ public class RunRetroArchGameXMLLoad {
 			super.apply(newDocument, storedDocument);
 
 			for (Field field : Game.class.getFields()) {
-				if (!MongoDocument.EXCLUDE_FIELDS.contains(field.getName())) {
+				if (!EXCLUDE_FIELDS.contains(field.getName())) {
 					Object newValue = field.get(newDocument);
 					Object storedValue = field.get(storedDocument);
 					if (newValue != null && storedValue != null) {

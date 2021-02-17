@@ -21,7 +21,7 @@ public abstract class CSVLoad<T extends MongoDocument> {
 	}
 
 	public void load(String file) throws Exception {
-		load(file);
+		load(file, null);
 	}
 
 	public void load(String file, Merge<T> merge) throws Exception {

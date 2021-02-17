@@ -16,12 +16,14 @@ public class Game extends MongoDocument {
 	public String publisher;
 	public String genre;
 	public String players;
+	public Boolean hide;
 
 	public Game() {
 	}
 
 	public Game(String id, String name, String[] labels, String system, String path, String description, Double rating,
-			Integer year, String developer, String publisher, String genre, String players) throws Exception {
+			Integer year, String developer, String publisher, String genre, String players, Boolean hide)
+			throws Exception {
 		super(id, name, labels);
 		this.system = system;
 		this.path = path;
@@ -32,6 +34,7 @@ public class Game extends MongoDocument {
 		this.publisher = publisher;
 		this.genre = genre;
 		this.players = players;
+		this.hide = hide;
 	}
 
 	@Override
