@@ -21,6 +21,18 @@ public class XMLUtils {
 
 	}
 
+	public static String[] handleStringArray(Element element, String tagName, String regexSplitter) {
+		String text = handleString(element, tagName);
+		if (text != null) {
+			String[] tokens = text.split(regexSplitter);
+			for (int i = 0; i < tokens.length; i++) {
+				tokens[i] = tokens[i].trim();
+			}
+			return tokens;
+		}
+		return null;
+	}
+
 	public static Double handleDouble(Element element, String tagName) {
 		String text = handleString(element, tagName);
 		if (text != null) {

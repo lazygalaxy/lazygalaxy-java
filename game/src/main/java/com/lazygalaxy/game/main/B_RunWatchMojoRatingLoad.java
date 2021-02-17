@@ -14,9 +14,9 @@ import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.Ratings;
 import com.mongodb.client.model.Filters;
 
-public class RunWatchMojoRatingLoad {
+public class B_RunWatchMojoRatingLoad {
 
-	private static final Logger LOGGER = LogManager.getLogger(RunWatchMojoRatingLoad.class);
+	private static final Logger LOGGER = LogManager.getLogger(B_RunWatchMojoRatingLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {

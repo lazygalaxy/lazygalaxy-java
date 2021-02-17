@@ -3,6 +3,8 @@ package com.lazygalaxy.game.main;
 import java.lang.reflect.Field;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Set;
+import java.util.TreeSet;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
@@ -17,8 +19,8 @@ import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.engine.util.XMLUtils;
 import com.lazygalaxy.game.domain.Game;
 
-public class RunRetroArchGameXMLLoad {
-	private static final Logger LOGGER = LogManager.getLogger(RunRetroArchGameXMLLoad.class);
+public class A_RunRetroArchGameXMLLoad {
+	private static final Logger LOGGER = LogManager.getLogger(A_RunRetroArchGameXMLLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {
@@ -52,8 +54,23 @@ public class RunRetroArchGameXMLLoad {
 			String developer = XMLUtils.handleString(element, "developer");
 			String publisher = XMLUtils.handleString(element, "publisher");
 			String genre = XMLUtils.handleString(element, "genre");
-			String players = XMLUtils.handleString(element, "players");
+			Set<Integer> players = new TreeSet<Integer>();
 			Boolean hide = XMLUtils.handleBoolean(element, "hide");
+
+			String[] playerArray = XMLUtils.handleStringArray(element, "players", "-");
+			if (playerArray != null) {
+				if (playerArray.length == 1) {
+					players.add(Integer.parseInt(playerArray[0]));
+				} else if (playerArray.length == 2) {
+					for (int i = Integer.parseInt(playerArray[0]); i <= Integer.parseInt(playerArray[1]); i++) {
+						players.add(i);
+					}
+				} else {
+					throw new Exception("unexpected players " + XMLUtils.handleString(element, "players"));
+				}
+			} else {
+				players.add(1);
+			}
 
 			return new Game(system + path, name, labels, system, path, description, rating, year, developer, publisher,
 					genre, players, hide);
@@ -61,7 +78,7 @@ public class RunRetroArchGameXMLLoad {
 	}
 
 	private static class GameMerge extends FieldMerge<Game> {
-		public static final List<String> EXCLUDE_FIELDS = Arrays.asList("name", "updateDateTime", "labels");
+		public static final List<String> EXCLUDE_FIELDS = Arrays.asList("name", "updateDateTime", "labels", "players");
 
 		@Override
 		public void apply(Game newDocument, Game storedDocument) throws Exception {

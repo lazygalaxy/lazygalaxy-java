@@ -14,9 +14,9 @@ import com.lazygalaxy.engine.util.XMLUtils;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.Ratings;
 
-public class RunScreenScrapperFrRatingLoad {
+public class B_RunScreenScrapperFrRatingLoad {
 
-	private static final Logger LOGGER = LogManager.getLogger(RunScreenScrapperFrRatingLoad.class);
+	private static final Logger LOGGER = LogManager.getLogger(B_RunScreenScrapperFrRatingLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {

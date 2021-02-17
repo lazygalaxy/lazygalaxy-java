@@ -1,5 +1,7 @@
 package com.lazygalaxy.game.domain;
 
+import java.util.Set;
+
 import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
 
 import com.lazygalaxy.engine.domain.MongoDocument;
@@ -15,14 +17,14 @@ public class Game extends MongoDocument {
 	public String developer;
 	public String publisher;
 	public String genre;
-	public String players;
+	public Set<Integer> players;
 	public Boolean hide;
 
 	public Game() {
 	}
 
 	public Game(String id, String name, String[] labels, String system, String path, String description, Double rating,
-			Integer year, String developer, String publisher, String genre, String players, Boolean hide)
+			Integer year, String developer, String publisher, String genre, Set<Integer> players, Boolean hide)
 			throws Exception {
 		super(id, name, labels);
 		this.system = system;
