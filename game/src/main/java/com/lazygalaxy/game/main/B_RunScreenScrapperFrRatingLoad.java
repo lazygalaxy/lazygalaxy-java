@@ -20,8 +20,16 @@ public class B_RunScreenScrapperFrRatingLoad {
 
 	public static void main(String[] args) throws Exception {
 		try {
+			new ScrapperFrRatingLoad().load("xml/retroarch_atomiswave_games_vman_orig.xml", "game",
+					new FieldMerge<Ratings>(), "System");
+			new ScrapperFrRatingLoad().load("xml/retroarch_daphne_games_vman_orig.xml", "game",
+					new FieldMerge<Ratings>(), "System");
 			new ScrapperFrRatingLoad().load("xml/retroarch_mame_games_vman_orig.xml", "game", new FieldMerge<Ratings>(),
 					"System");
+			new ScrapperFrRatingLoad().load("xml/retroarch_naomi_games_vman_orig.xml", "game",
+					new FieldMerge<Ratings>(), "System");
+			new ScrapperFrRatingLoad().load("xml/retroarch_neogeo_games_vman_orig.xml", "game",
+					new FieldMerge<Ratings>(), "System");
 			LOGGER.info("xml load completed!");
 		} finally {
 			MongoConnectionHelper.INSTANCE.close();
@@ -39,6 +47,9 @@ public class B_RunScreenScrapperFrRatingLoad {
 			String system = extraTagValues.get(0);
 			String path = XMLUtils.handleString(element, "path");
 			Double rating = XMLUtils.handleDouble(element, "rating");
+			if (rating == null) {
+				rating = 0.0;
+			}
 			String id = system + path;
 
 			Game game = MongoHelper.getHelper(Game.class).getDocumentById(id);
