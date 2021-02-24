@@ -55,7 +55,6 @@ public class MongoHelper<T extends MongoDocument> {
 	}
 
 	public T getDocumentById(String id) {
-		id = GeneralUtil.alphanumerify(id);
 		return getDocumentByField("_id", id);
 	}
 

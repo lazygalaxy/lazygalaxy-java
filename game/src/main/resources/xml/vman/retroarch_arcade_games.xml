@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <gameList>
 	<provider>
-		<System>Mame</System>
+		<System>Arcade</System>
 		<software>Skraper</software>
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
@@ -3372,7 +3372,7 @@ The game's levels force-scroll from right to left, although the vehicle's speed 
 		<rating>0.7</rating>
 		<releasedate>19860101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East USA</publisher>
+		<publisher>Data East</publisher>
 		<genre>Shooter-Shooter / Vehicle, Horizontal</genre>
 		<players>1-2</players>
 	</game>
@@ -6566,7 +6566,7 @@ Our 'fishy' protagonist must attack groups of small fish that are defending a mo
 		<rating>0.6</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East (Mitchell license)</publisher>
+		<publisher>Data East</publisher>
 		<genre>Platform-Plateform / Run Jump</genre>
 		<players>1-2</players>
 	</game>
@@ -7308,7 +7308,7 @@ The game's three different playable characters are an Amazonian warrior named Ty
 		<rating>0.5</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East USA</publisher>
+		<publisher>Data East</publisher>
 		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
 		<players>1-2</players>
 	</game>
@@ -8169,7 +8169,7 @@ The name of the game is from an in-game weapon. The Heavy Barrel is found in six
 		<rating>0.6</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East USA</publisher>
+		<publisher>Data East</publisher>
 		<genre>Shooter-Shooter / Run and Shoot</genre>
 		<players>1-2</players>
 	</game>
@@ -8318,7 +8318,7 @@ Abyss: Pon the Giant</desc>
 		<rating>0.3</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East USA</publisher>
+		<publisher>Data East</publisher>
 		<genre>Fight-Fight / Versus</genre>
 		<players>1-2</players>
 	</game>
@@ -9430,7 +9430,7 @@ While in no way original (drawing most of its inspiration from Capcom's "Final F
 		<rating>0.7</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East USA</publisher>
+		<publisher>Data East</publisher>
 		<genre>Plateform / Shooter Scrolling-Platform</genre>
 		<players>1-2</players>
 	</game>
@@ -10167,7 +10167,7 @@ The player assumes the role of an space pilot who has been exiled from their hom
 		<rating>0.7</rating>
 		<releasedate>19860101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East USA</publisher>
+		<publisher>Data East</publisher>
 		<genre>Shooter</genre>
 		<players>1-2</players>
 	</game>
@@ -10371,7 +10371,7 @@ A platform game where the player has to designate certain lemmings for certain t
 		<rating>0.9</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East USA</publisher>
+		<publisher>Data East</publisher>
 		<genre>Various-Puzzle-Game</genre>
 		<players>1-2</players>
 	</game>
@@ -16317,7 +16317,7 @@ The game is over once you have lost all of your lives.</desc>
 		<rating>0.5</rating>
 		<releasedate>19850101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East USA</publisher>
+		<publisher>Data East</publisher>
 		<genre>Shooter-Shooter / 3rd person</genre>
 		<players>1-2</players>
 	</game>
@@ -21155,7 +21155,7 @@ Pinball has some many bonnus and also had a secondary Breakout like mode, which 
 	<game>
 		<path>./starlstr.zip</path>
 		<name>Vs. Star Luster</name>
-		<desc>Vs. Star Luster (c) 1985 Namco.  - TECHNICAL -  Main CPU : N2A03 (@ 1.789772 Mhz) Sound Chips : N2A03 (@ 1.789772 Mhz), DAC (@ 1.789772 Mhz)  Screen orientation : Horizontal Video resolution : 256 x 240 pixels Screen refresh : 60.00 Hz Palette colors : 64</desc>
+    	<desc>Star Luster is a first-person shooter and space combat simulator video game developed and published by Namco in 1985 in Japan. It is an arcade-style, combat-dedicated, science fiction flight simulator that was released for the Family Computer. That same year, Namco adapted the title for play in the arcade as part of the Nintendo VS. System. A sequel game, titled Star Ixiom, was released for the PlayStation in 1999 and featured several selectable fighters and an expanded story.</desc>
 		<image>./mixart/starlstr.png</image>
 		<video>./snap/starlstr.mp4</video>
 		<marquee>./wheel/starlstr.png</marquee>
@@ -22153,7 +22153,7 @@ R?Type / Irem Game Music [Alfa Records - 28XA-199 - Jan 25, 1988]</desc>
 		<rating>0.3</rating>
 		<releasedate>19820101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East USA</publisher>
+		<publisher>Data East</publisher>
 		<genre>Shoot'em Up-Shoot'em up / Vertical</genre>
 		<players>1-2</players>
 	</game>
@@ -22831,7 +22831,7 @@ The players take control of up to three of four characters: Dutch, Linn, a Preda
 		<rating>0.5</rating>
 		<releasedate>19860101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East USA</publisher>
+		<publisher>Data East</publisher>
 		<genre>Action / Labyrinth-Shooter Large-Action</genre>
 		<players>1-2</players>
 	</game>
@@ -25833,7 +25833,7 @@ A seminal 1-on-1 fighting game set over the course of a karate tournament, Karat
 		<rating>0.9</rating>
 		<releasedate>19840101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East USA</publisher>
+		<publisher>Data East</publisher>
 		<genre>Fight / Versus-Fight</genre>
 		<players>1-2</players>
 		<favorite>true</favorite>

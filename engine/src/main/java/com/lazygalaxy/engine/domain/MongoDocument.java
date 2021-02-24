@@ -17,16 +17,6 @@ import com.lazygalaxy.engine.util.GeneralUtil;
 public abstract class MongoDocument {
 	public static final List<String> EXCLUDE_FIELDS = Arrays.asList("updateDateTime");
 
-	@Deprecated
-	protected static String buildId(String seperator, String... parts) {
-		for (Object part : parts) {
-			if (part == null) {
-				return null;
-			}
-		}
-		return String.join(seperator, parts);
-	}
-
 	public String id;
 	public String name;
 	public Set<String> labels;

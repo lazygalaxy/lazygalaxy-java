@@ -8,35 +8,32 @@ import com.lazygalaxy.engine.domain.MongoDocument;
 
 public class Game extends MongoDocument {
 	public static final String DATABASE = "game";
+	public static final String[] EMPTY_LIST = new String[0];
 
-	public String system;
-	public String path;
-	public String description;
-	public Double rating;
+	public String gameId;
+	public String systemId;
 	public Integer year;
+	public String path;
 	public String developer;
 	public String publisher;
+	public String description;
+
 	public Set<String> genre;
 	public Set<Integer> players;
+
+	public Boolean isVeritcal;
+	public Double rating;
 	public Boolean hide;
 
 	public Game() {
 	}
 
-	public Game(String id, String name, String[] labels, String system, String path, String description, Double rating,
-			Integer year, String developer, String publisher, Set<String> genre, Set<Integer> players, Boolean hide)
-			throws Exception {
+	public Game(String id, String name) throws Exception {
+		super(id, name, EMPTY_LIST);
+	}
+
+	public Game(String id, String name, String[] labels) throws Exception {
 		super(id, name, labels);
-		this.system = system;
-		this.path = path;
-		this.description = description;
-		this.rating = rating;
-		this.year = year;
-		this.developer = developer;
-		this.publisher = publisher;
-		this.genre = genre;
-		this.players = players;
-		this.hide = hide;
 	}
 
 	@Override

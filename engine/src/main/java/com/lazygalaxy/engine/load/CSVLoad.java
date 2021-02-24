@@ -21,15 +21,17 @@ public abstract class CSVLoad<T extends MongoDocument> {
 	}
 
 	public void load(String file) throws Exception {
-		load(file, null);
+		load(file, 0, null);
 	}
 
-	public void load(String file, Merge<T> merge) throws Exception {
-		Stream<String> lines = Files.lines(Paths.get(ClassLoader.getSystemResource(file).toURI()));
+	public void load(String file, long skipLines, Merge<T> merge) throws Exception {
+		Stream<String> lines = Files.lines(Paths.get(ClassLoader.getSystemResource(file).toURI())).skip(skipLines);
 		lines.forEach(s -> {
-			String[] tokens = s.split(",");
+			String[] tokens = s.split(",(?=([^\"]*\"[^\"]*\")*[^\"]*$)");
+			// String[] tokens = split(",(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)");
 			for (int i = 0; i < tokens.length; i++) {
 				tokens[i] = tokens[i].trim();
+				tokens[i] = tokens[i].replaceAll("[\\\"]", "");
 			}
 			try {
 				T document = getMongoDocument(tokens);
@@ -37,7 +39,6 @@ public abstract class CSVLoad<T extends MongoDocument> {
 			} catch (Exception e) {
 				LOGGER.error("could not process: " + s, e);
 			}
-
 		});
 		lines.close();
 	}

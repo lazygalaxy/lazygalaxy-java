@@ -35,13 +35,13 @@ public class C_RunGameRatingsLoad {
 			game.id = ratings.id;
 
 			if (ratings.screenScrapperFr != null) {
-				game.rating = ratings.screenScrapperFr * 0.8;
+				game.rating = ratings.screenScrapperFr;
 			} else {
 				game.rating = 0.0;
 			}
 
 			if (ratings.watchMojo != null) {
-				game.rating += (1.0 - (ratings.watchMojo / 24.0)) * 0.2;
+				game.rating += (1.0 - ((ratings.watchMojo - 1) / 24.0));
 			}
 
 			return game;

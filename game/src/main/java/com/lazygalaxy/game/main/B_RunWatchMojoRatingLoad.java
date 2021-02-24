@@ -20,7 +20,7 @@ public class B_RunWatchMojoRatingLoad {
 
 	public static void main(String[] args) throws Exception {
 		try {
-			new WatchMojoRatingLoad().load("csv/watchmojo_mame_ratings.csv", new FieldMerge<Ratings>());
+			new WatchMojoRatingLoad().load("csv/watchmojo_mame_ratings.csv", 0, new FieldMerge<Ratings>());
 			LOGGER.info("xml load completed!");
 		} finally {
 			MongoConnectionHelper.INSTANCE.close();
