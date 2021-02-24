@@ -1,6 +1,5 @@
 package com.lazygalaxy.game.main;
 
-import java.util.Arrays;
 import java.util.List;
 import java.util.TreeSet;
 
@@ -107,8 +106,9 @@ public class A_RunVManGameLoad {
 	}
 
 	private static class GameMerge extends FieldMerge<Game> {
-		public static final List<String> EXCLUDE_FIELDS = Arrays.asList("name", "updateDateTime", "labels", "players",
-				"genre", "year");
+		// public static final List<String> EXCLUDE_FIELDS = Arrays.asList("name",
+		// "updateDateTime", "labels", "players",
+		// "genre", "year");
 
 		@Override
 		public void apply(Game newDocument, Game storedDocument) throws Exception {

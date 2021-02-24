@@ -8,10 +8,10 @@ import com.lazygalaxy.engine.load.MongoLoad;
 import com.lazygalaxy.engine.merge.FieldMerge;
 import com.lazygalaxy.engine.merge.Merge;
 import com.lazygalaxy.game.domain.Game;
-import com.lazygalaxy.game.domain.Ratings;
+import com.lazygalaxy.game.domain.Scores;
 
-public class C_RunGameRatingsLoad {
-	private static final Logger LOGGER = LogManager.getLogger(C_RunGameRatingsLoad.class);
+public class D_RunGameRatingsLoad {
+	private static final Logger LOGGER = LogManager.getLogger(D_RunGameRatingsLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {
@@ -23,25 +23,24 @@ public class C_RunGameRatingsLoad {
 		}
 	}
 
-	private static class GameRatingsLoad extends MongoLoad<Ratings, Game> {
+	private static class GameRatingsLoad extends MongoLoad<Scores, Game> {
 
 		public GameRatingsLoad() throws Exception {
-			super(Ratings.class, Game.class);
+			super(Scores.class, Game.class);
 		}
 
 		@Override
-		protected Game getMongoDocument(Ratings ratings) throws Exception {
+		protected Game getMongoDocument(Scores scores) throws Exception {
 			Game game = new Game();
-			game.id = ratings.id;
+			game.id = scores.id;
+			game.rating = 0.0;
 
-			if (ratings.screenScrapperFr != null) {
-				game.rating = ratings.screenScrapperFr;
-			} else {
-				game.rating = 0.0;
+			if (scores.vman != null) {
+				game.rating += scores.vman;
 			}
 
-			if (ratings.watchMojo != null) {
-				game.rating += (1.0 - ((ratings.watchMojo - 1) / 24.0));
+			if (scores.watchMojo != null) {
+				game.rating += scores.watchMojo;
 			}
 
 			return game;
