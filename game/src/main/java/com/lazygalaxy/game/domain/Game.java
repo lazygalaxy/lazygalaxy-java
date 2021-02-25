@@ -10,7 +10,8 @@ public class Game extends MongoDocument {
 	public static final String DATABASE = "game";
 	public static final String[] EMPTY_LIST = new String[0];
 
-	public String gameId;
+	public String romId;
+	public String parentId;
 	public String systemId;
 	public Integer year;
 	public String path;

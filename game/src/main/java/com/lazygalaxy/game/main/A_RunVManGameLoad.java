@@ -43,22 +43,35 @@ public class A_RunVManGameLoad {
 		protected Game getMongoDocument(Element element, List<String> extraTagValues) throws Exception {
 
 			String path = XMLUtils.handleString(element, "path");
-			String gameId = StringUtils.substring(path, 0, StringUtils.lastIndexOf(path, "."));
+			String romId = GeneralUtil
+					.alphanumerify(StringUtils.substring(path, 0, StringUtils.lastIndexOf(path, ".")));
 			String systemId = GeneralUtil.alphanumerify(extraTagValues.get(0));
 
 			String name = XMLUtils.handleString(element, "name");
 			name = GeneralUtil.pretify(name);
-			Game game = new Game(gameId + systemId, name);
+			Game game = new Game(romId + "_" + systemId, name);
 
-			game.addLabel(gameId);
-			game.gameId = gameId;
+			game.addLabel(romId);
+
+			String image = XMLUtils.handleString(element, "image");
+			if (image != null) {
+				String parentId = StringUtils.substring(image, 0, StringUtils.lastIndexOf(image, "."));
+				parentId = StringUtils.substring(parentId, StringUtils.lastIndexOf(parentId, "/") + 1,
+						parentId.length());
+
+				if (!StringUtils.equals(parentId, romId)) {
+					game.addLabel(parentId);
+					game.parentId = parentId;
+				}
+			}
+
+			game.romId = romId;
 			game.systemId = systemId;
 			game.year = XMLUtils.handleInteger(element, "releasedate", 4);
 			game.path = path;
 			game.developer = XMLUtils.handleString(element, "developer");
 			game.publisher = XMLUtils.handleString(element, "publisher");
-			game.description = XMLUtils.handleString(element, "desc");
-			game.description = GeneralUtil.pretify(game.description);
+			game.description = GeneralUtil.pretify(XMLUtils.handleString(element, "desc"));
 
 			// genre
 			game.genre = new TreeSet<String>();

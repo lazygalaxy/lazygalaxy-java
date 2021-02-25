@@ -1,14 +1,18 @@
 package com.lazygalaxy.game.main;
 
+import java.util.List;
+
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
+import com.lazygalaxy.engine.helper.MongoHelper;
 import com.lazygalaxy.engine.load.CSVLoad;
 import com.lazygalaxy.engine.merge.FieldMerge;
 import com.lazygalaxy.engine.merge.Merge;
 import com.lazygalaxy.game.domain.Game;
+import com.mongodb.client.model.Filters;
 
 public class B_RunArcadeItaliaGameLoad {
 	private static final Logger LOGGER = LogManager.getLogger(B_RunArcadeItaliaGameLoad.class);
@@ -30,21 +34,45 @@ public class B_RunArcadeItaliaGameLoad {
 		}
 
 		@Override
-		protected Game getMongoDocument(String[] tokens) throws Exception {
-			Game game = new Game(tokens[0], tokens[1]);
-			if (!StringUtils.contains(tokens[2], "?")) {
-				game.year = Integer.parseInt(tokens[2]);
-			}
-			game.developer = tokens[3];
-			game.publisher = tokens[3];
-			if (!StringUtils.equals(tokens[4], "-")) {
-				game.systemId = tokens[4];
-			} else {
-				game.systemId = "arcade";
-			}
-			game.isVeritcal = StringUtils.equals("VERTICAL", tokens[18]);
+		protected List<Game> getMongoDocument(String[] tokens) throws Exception {
+			String gameId = tokens[0];
 
-			return game;
+			List<Game> games = MongoHelper.getHelper(Game.class)
+					.getDocumentsByFilters(Filters.or(Filters.in("romId", gameId), Filters.in("parentId", gameId)));
+
+			if (games.size() == 0) {
+				// LOGGER.warn("game not found: " + gameId);
+				return null;
+			} else if (games.size() > 1) {
+				int unhiddenCounter = 0;
+				for (Game game : games) {
+					if (game.hide == null || !game.hide) {
+						unhiddenCounter += 1;
+					}
+				}
+
+				int arcadeNeoGeo = 0;
+				if (unhiddenCounter == 2) {
+					for (Game game : games) {
+						if ((game.hide == null || !game.hide) && (StringUtils.equals(game.systemId, "arcade")
+								|| StringUtils.equals(game.systemId, "neogeo"))) {
+							arcadeNeoGeo += 1;
+						}
+					}
+				}
+
+				if (unhiddenCounter == 1 || (unhiddenCounter == 2 && arcadeNeoGeo == 2)) {
+					// all good
+				} else {
+					LOGGER.warn("multiple games found: " + gameId);
+				}
+			}
+
+			for (Game game : games) {
+				game.isVeritcal = StringUtils.equals("VERTICAL", tokens[18]);
+			}
+
+			return games;
 		}
 	}
 }

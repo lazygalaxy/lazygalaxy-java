@@ -43,6 +43,10 @@ public class D_RunGameRatingsLoad {
 				game.rating += scores.watchMojo;
 			}
 
+			if (scores.antopisa != null) {
+				game.rating += scores.antopisa;
+			}
+
 			return game;
 		}
 	}

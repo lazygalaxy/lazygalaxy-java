@@ -12,12 +12,12 @@ import com.lazygalaxy.engine.domain.MongoDocument;
 import com.lazygalaxy.engine.helper.MongoHelper;
 import com.lazygalaxy.engine.merge.Merge;
 
-public abstract class CSVLoad<T extends MongoDocument> {
-	private static final Logger LOGGER = LogManager.getLogger(CSVLoad.class);
+public abstract class TextFileLoad<T extends MongoDocument> {
+	private static final Logger LOGGER = LogManager.getLogger(TextFileLoad.class);
 
 	private final MongoHelper<T> helper;
 
-	public CSVLoad(Class<T> clazz) throws Exception {
+	public TextFileLoad(Class<T> clazz) throws Exception {
 		this.helper = MongoHelper.getHelper(clazz);
 	}
 
@@ -28,14 +28,9 @@ public abstract class CSVLoad<T extends MongoDocument> {
 	public void load(String file, long skipLines, Merge<T> merge) throws Exception {
 		Stream<String> lines = Files.lines(Paths.get(ClassLoader.getSystemResource(file).toURI())).skip(skipLines);
 		lines.forEach(s -> {
-			String[] tokens = s.split(",(?=([^\"]*\"[^\"]*\")*[^\"]*$)");
-			// String[] tokens = split(",(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)");
-			for (int i = 0; i < tokens.length; i++) {
-				tokens[i] = tokens[i].trim();
-				tokens[i] = tokens[i].replaceAll("[\\\"]", "");
-			}
+
 			try {
-				List<T> documents = getMongoDocument(tokens);
+				List<T> documents = getMongoDocument(s);
 				if (documents != null) {
 					for (T document : documents) {
 						helper.upsert(document, merge);
@@ -48,5 +43,5 @@ public abstract class CSVLoad<T extends MongoDocument> {
 		lines.close();
 	}
 
-	protected abstract List<T> getMongoDocument(String[] tokens) throws Exception;
+	protected abstract List<T> getMongoDocument(String line) throws Exception;
 }
