@@ -5,6 +5,7 @@
 		<software>Skraper</software>
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
+		<collection>vman</collection>
 	</provider>
 	<game>
 		<path>./alpilot.zip</path>
@@ -1974,7 +1975,7 @@
 		<lastplayed>20200515T230235</lastplayed>
 	</game>
 	<game>
-		<path>./vtennis2.bin</path>
+		<path>./vtennis2.zip</path>
 		<name>Virtua Tennis 2 (Rev A, GDS-0015A)</name>
 		<desc>Virtua Tennis 2 builds on the gameplay found in its predecessor, and adds the option to play as female professional tennis players and mixed doubles matches.</desc>
 		<image>./mixart/vtennis2.png</image>

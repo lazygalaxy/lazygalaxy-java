@@ -23,14 +23,18 @@ public abstract class MongoLoad<T1 extends MongoDocument, T2 extends MongoDocume
 	}
 
 	public void load(Merge<T2> merge, Bson... filters) throws Exception {
-		List<T1> documents = readHelper.getDocumentsByFilters(filters);
-		for (T1 storedDocument : documents) {
-			T2 document = getMongoDocument(storedDocument);
-			writeHelper.upsert(document, merge);
+		List<T1> readDocuments = readHelper.getDocumentsByFilters(filters);
+		for (T1 readDocument : readDocuments) {
+			List<T2> writeDocuments = getMongoDocument(readDocument);
+			if (writeDocuments != null) {
+				for (T2 writeDocument : writeDocuments) {
+					writeHelper.upsert(writeDocument, merge);
+				}
+			}
 		}
 
 	}
 
-	protected abstract T2 getMongoDocument(T1 storedDocument) throws Exception;
+	protected abstract List<T2> getMongoDocument(T1 storedDocument) throws Exception;
 
 }

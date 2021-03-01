@@ -1,5 +1,8 @@
 package com.lazygalaxy.game.main;
 
+import java.util.Arrays;
+import java.util.List;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -30,7 +33,7 @@ public class D_RunGameRatingsLoad {
 		}
 
 		@Override
-		protected Game getMongoDocument(Scores scores) throws Exception {
+		protected List<Game> getMongoDocument(Scores scores) throws Exception {
 			Game game = new Game();
 			game.id = scores.id;
 			game.rating = 0.0;
@@ -47,7 +50,7 @@ public class D_RunGameRatingsLoad {
 				game.rating += scores.antopisa;
 			}
 
-			return game;
+			return Arrays.asList(game);
 		}
 	}
 

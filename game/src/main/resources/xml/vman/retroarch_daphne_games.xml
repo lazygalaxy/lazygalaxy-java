@@ -2,6 +2,7 @@
 <gameList>
 	<provider>
 		<System>Daphne</System>
+		<collection>vman</collection>
 	</provider>
 	<game>
 		<path>./lair2.daphne</path>

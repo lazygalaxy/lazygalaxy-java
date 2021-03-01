@@ -11,16 +11,16 @@ public class Game extends MongoDocument {
 	public static final String[] EMPTY_LIST = new String[0];
 
 	public String romId;
-	public String parentId;
+	public String alternativeId;
 	public String systemId;
 	public Integer year;
-	public String path;
 	public String developer;
 	public String publisher;
 	public String description;
 
 	public Set<String> genre;
 	public Set<Integer> players;
+	public Set<String> collections;
 
 	public Boolean isVeritcal;
 	public Double rating;

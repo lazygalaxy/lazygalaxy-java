@@ -17,12 +17,12 @@ public class LeagueCSVLoad extends CSVLoad<League> {
 	}
 
 	@Override
-	protected League getMongoDocument(String[] tokens) throws Exception {
+	protected List<League> getMongoDocument(String[] tokens) throws Exception {
 		List<Country> country = countryHelper.getDocumentsByLabel(tokens[1]);
 		League league = new League(tokens[0], Arrays.copyOfRange(tokens, 3, tokens.length), country.get(0),
 				Integer.parseInt(tokens[2]));
 
-		return league;
+		return null;
 	}
 
 }

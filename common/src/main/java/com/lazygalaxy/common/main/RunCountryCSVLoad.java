@@ -1,6 +1,7 @@
 package com.lazygalaxy.common.main;
 
 import java.util.Arrays;
+import java.util.List;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -28,8 +29,9 @@ public class RunCountryCSVLoad {
 		}
 
 		@Override
-		protected Country getMongoDocument(String[] tokens) throws Exception {
-			return new Country(tokens[0], Arrays.copyOfRange(tokens, 4, tokens.length), tokens[1], tokens[2]);
+		protected List<Country> getMongoDocument(String[] tokens) throws Exception {
+			return Arrays
+					.asList(new Country(tokens[0], Arrays.copyOfRange(tokens, 4, tokens.length), tokens[1], tokens[2]));
 		}
 
 	}

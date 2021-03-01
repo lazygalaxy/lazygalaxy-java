@@ -5,6 +5,7 @@
 		<software>Skraper</software>
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
+		<collection>vman</collection>
 	</provider>
 	<game id="40130" source="ScreenScraper.fr">
 		<path>./drgninja.zip</path>
@@ -638,7 +639,7 @@ If a player earns at least 60,000 points, two things happen to increase the chal
 		<video>./snap/centiped.mp4</video>
 		<marquee>./wheel/centiped.png</marquee>
 		<rating>0.7</rating>
-		<releasedate>19810101T000000</releasedate>
+		<releasedate>19800101T000000</releasedate>
 		<developer>Atari</developer>
 		<publisher>Atari</publisher>
 		<genre>Shooter-Shooter / Space Invaders Like</genre>
@@ -3372,7 +3373,7 @@ The game's levels force-scroll from right to left, although the vehicle's speed 
 		<rating>0.7</rating>
 		<releasedate>19860101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East</publisher>
+		<publisher>Data East USA</publisher>
 		<genre>Shooter-Shooter / Vehicle, Horizontal</genre>
 		<players>1-2</players>
 	</game>
@@ -6424,9 +6425,9 @@ The player, as Charley Chuck, must dodge all kinds of flying fruit and vegetable
 		<path>./freezeat.zip</path>
 		<name>Freeze</name>
 		<desc>Freeze is a highly addictive, head-to-head, 3-D action-puzzle game where players join a wild cast of characters on an underwater fish sorting adventure. Players sort combos out of cute little fishies that swim, smile and wink. Challenge and strategy build as players learn different characters each possessing a unique special weapon. An exciting quiz game offers players an opportunity to race against time solving a multitude of colorful fishie puzzles. Combining these playful characters with the simple addictive gameplay will have players sorting fish in their sleep. The true challenge of any puzzle game.</desc>
-		<image>./mixart/freeze.png</image>
-		<video>./snap/freeze.mp4</video>
-		<marquee>./wheel/freeze.png</marquee>
+		<image>./mixart/freezeat.png</image>
+		<video>./snap/freezeat.mp4</video>
+		<marquee>./wheel/freezeat.png</marquee>
 		<rating>0.6</rating>
 		<releasedate>19960101T000000</releasedate>
 		<developer>Cinematronics</developer>
@@ -6566,7 +6567,7 @@ Our 'fishy' protagonist must attack groups of small fish that are defending a mo
 		<rating>0.6</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East</publisher>
+		<publisher>Data East (Mitchell license)</publisher>
 		<genre>Platform-Plateform / Run Jump</genre>
 		<players>1-2</players>
 	</game>
@@ -7308,7 +7309,7 @@ The game's three different playable characters are an Amazonian warrior named Ty
 		<rating>0.5</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East</publisher>
+		<publisher>Data East USA</publisher>
 		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
 		<players>1-2</players>
 	</game>
@@ -8169,7 +8170,7 @@ The name of the game is from an in-game weapon. The Heavy Barrel is found in six
 		<rating>0.6</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East</publisher>
+		<publisher>Data East USA</publisher>
 		<genre>Shooter-Shooter / Run and Shoot</genre>
 		<players>1-2</players>
 	</game>
@@ -8318,7 +8319,7 @@ Abyss: Pon the Giant</desc>
 		<rating>0.3</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East</publisher>
+		<publisher>Data East USA</publisher>
 		<genre>Fight-Fight / Versus</genre>
 		<players>1-2</players>
 	</game>
@@ -9430,7 +9431,7 @@ While in no way original (drawing most of its inspiration from Capcom's "Final F
 		<rating>0.7</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East</publisher>
+		<publisher>Data East USA</publisher>
 		<genre>Plateform / Shooter Scrolling-Platform</genre>
 		<players>1-2</players>
 	</game>
@@ -10167,7 +10168,7 @@ The player assumes the role of an space pilot who has been exiled from their hom
 		<rating>0.7</rating>
 		<releasedate>19860101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East</publisher>
+		<publisher>Data East USA</publisher>
 		<genre>Shooter</genre>
 		<players>1-2</players>
 	</game>
@@ -10371,7 +10372,7 @@ A platform game where the player has to designate certain lemmings for certain t
 		<rating>0.9</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East</publisher>
+		<publisher>Data East USA</publisher>
 		<genre>Various-Puzzle-Game</genre>
 		<players>1-2</players>
 	</game>
@@ -16317,7 +16318,7 @@ The game is over once you have lost all of your lives.</desc>
 		<rating>0.5</rating>
 		<releasedate>19850101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East</publisher>
+		<publisher>Data East USA</publisher>
 		<genre>Shooter-Shooter / 3rd person</genre>
 		<players>1-2</players>
 	</game>
@@ -16924,7 +16925,8 @@ Space Harrier has a total of 18 stages, each with a boss fight at the end. Three
 	<game>
 		<path>./invaders.zip</path>
 		<name>Space Invaders</name>
-		<desc>The Space Invaders phenomenon stunned many conservative adults of the time who were convinced that video-games soured the minds of their youngsters. Residents of Mesquite, Texas, pushed the issue all the way to the Supreme Court in their efforts to ban the illicit machines from their Bible-belt community. A number of reported incidents of juvenile crime began to surface shortly after the game's release, adding to its 'controversy'. A girl was caught stealing $5,000 from her parents and gangs of youths were reported to have robbed grocery stores just so they would have money to play the game.</desc>
+		<desc>The Space Invaders phenomenon stunned many conservative adults of the time who were convinced that video-games soured the minds of their youngsters. Residents of Mesquite, Texas, pushed the issue all the way to the Supreme Court in their efforts to ban the illicit machines from their Bible-belt community. A number of reported incidents of juvenile crime began to surface shortly after the game's release, adding to its 'controversy'. A girl was caught stealing $5,000 from her parents and gangs of youths were reported to have robbed grocery stores just so they would have money to play the game.
+</desc>
 		<image>./mixart/invaders.png</image>
 		<video>./snap/invaders.mp4</video>
 		<marquee>./wheel/invaders.png</marquee>
@@ -17642,7 +17644,7 @@ Platform graphics (resembling the medal ceremonies in the Olympics) are added to
 	</game>
 	<game>
 		<path>./sf2ce.zip</path>
-		<name>Street Fighter II : Champion Edition</name>
+		<name>Street Fighter II' : Champion Edition</name>
 		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
 		<image>./mixart/sf2ce.png</image>
 		<video>./snap/sf2ce.mp4</video>
@@ -19013,7 +19015,6 @@ Yet again, Konami's mastery of the genre was in evidence as the manic energy and
 		<releasedate>19910918T000000</releasedate>
 		<publisher>Konami</publisher>
 		<players>1-2</players>
-		<hide>true</hide>
 	</game>
 	<game>
 		<path>./tempest.zip</path>
@@ -19627,6 +19628,22 @@ The Simpsons was designed to Konami's typically-high production standards and wa
 		<publisher>Konami</publisher>
 		<genre>Fight / 2.5D-Fight</genre>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./simpsons.zip</path>
+		<name>The Simpsons</name>
+		<desc>A jewel heist gone wrong sees Mr Burns's sidekick, Smithers, kidnapping Maggie and making his escape. Between one and four players take on the role of either Homer, Marge, Lisa, or Bart in this colorful, horizontally-scrolling beat-em-up from Konami. Each Simpsons character possesses an attacking move specific to them; Marge is armed with a vacuum cleaner, Lisa has a skipping rope, Bart has his skateboard, and Homer fights with his fists. The players must battle their way through a variety of Simpsons-themed levels - such as Springfield and Krustyland - fighting goons, thugs, zombies, drunks, firemen, and several Simpsons regulars. Many Simpsons characters that don't appear as enemies have 'cameo' scenes in the game (Otto working at a burgerstand in Krustyland, for example). The archetypal 'boss' character awaits the players at the end of every stage. The game ends with a final showdown with the evil Mr. Burns in his luxurious mansion.
+
+The Simpsons was designed to Konami's typically-high production standards and was, like the 'Ninja Turtles' games that appeared a couple of years' earlier, very faithful to its source material. The colorful, smoothly-animated sprites captured the spirit of the legendary cartoon superbly, and the game's many humorous touches were timed to perfection.</desc>
+		<image>./mixart/simpsons.png</image>
+		<video>./snap/simpsons.mp4</video>
+		<marquee>./wheel/simpsons.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19910403T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fight / 2.5D-Fight</genre>
+		<players>1-4</players>
 	</game>
 	<game>
 		<path>./3stooges.zip</path>
@@ -22153,7 +22170,7 @@ R?Type / Irem Game Music [Alfa Records - 28XA-199 - Jan 25, 1988]</desc>
 		<rating>0.3</rating>
 		<releasedate>19820101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East</publisher>
+		<publisher>Data East USA</publisher>
 		<genre>Shoot'em Up-Shoot'em up / Vertical</genre>
 		<players>1-2</players>
 	</game>
@@ -22831,7 +22848,7 @@ The players take control of up to three of four characters: Dutch, Linn, a Preda
 		<rating>0.5</rating>
 		<releasedate>19860101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East</publisher>
+		<publisher>Data East USA</publisher>
 		<genre>Action / Labyrinth-Shooter Large-Action</genre>
 		<players>1-2</players>
 	</game>
@@ -25436,7 +25453,6 @@ Galagans fly onto the screen in a variety of formations before forming troop lin
 		<publisher>Midway</publisher>
 		<genre>Shooter-Shooter / Space Invaders Like</genre>
 		<players>1-2</players>
-		<hide>true</hide>
 	</game>
 	<game>
 		<path>./astdelux.zip</path>
@@ -25833,7 +25849,7 @@ A seminal 1-on-1 fighting game set over the course of a karate tournament, Karat
 		<rating>0.9</rating>
 		<releasedate>19840101T000000</releasedate>
 		<developer>Data East</developer>
-		<publisher>Data East</publisher>
+		<publisher>Data East USA</publisher>
 		<genre>Fight / Versus-Fight</genre>
 		<players>1-2</players>
 		<favorite>true</favorite>
@@ -26455,7 +26471,6 @@ Dazzler</desc>
 		<genre>Fight-Fight / 2.5D</genre>
 		<players>1-2</players>
 		<favorite>true</favorite>
-		<hide>true</hide>
 	</game>
 	<game>
 		<path>./zeroteam.zip</path>
@@ -28510,20 +28525,6 @@ As you make progress and fight of helicopters, airships, various planes, tanks, 
     <marquee>./wheel/fourtrax.png</marquee>
     <video>./snap/fourtrax.mp4</video>
   </game>
-  <game id="41276" source="ScreenScraper.fr">
-    <path>./freeze.zip</path>
-    <name>Freeze</name>
-    <desc>Freeze is a highly addictive, head-to-head, 3-D action-puzzle game where players join a wild cast of characters on an underwater fish sorting adventure. Players sort combos out of cute little fishies that swim, smile and wink. Challenge and strategy build as players learn different characters each possessing a unique special weapon. An exciting quiz game offers players an opportunity to race against time solving a multitude of colorful fishie puzzles. Combining these playful characters with the simple addictive gameplay will have players sorting fish in their sleep. The true challenge of any puzzle game.</desc>
-    <rating>0.6</rating>
-    <releasedate>19960101T000000</releasedate>
-    <developer>Cinematronics</developer>
-    <publisher>Atari</publisher>
-    <genre>Action/Maze</genre>
-    <players>1-2</players>
-    <image>./mixart/freeze.png</image>
-    <marquee>./wheel/freeze.png</marquee>
-    <video>./snap/freeze.mp4</video>
-  </game>
   <game id="41305" source="ScreenScraper.fr">
     <path>./funkyjet.zip</path>
     <name>Funky Jet</name>
@@ -29093,7 +29094,7 @@ From easy to expert, IQ-Blox includes 120 challenges that are easy to set up ...
     <releasedate>19890101T000000</releasedate>
     <developer>Namco</developer>
     <publisher>Namco</publisher>
-	<genre>Plateform / Fighter Scrolling-Platform</genre>
+    <genre>Platform/Action</genre>
     <players>1-2</players>
     <image>./mixart/marvland.png</image>
     <marquee>./wheel/marvland.png</marquee>
@@ -31629,7 +31630,7 @@ Toy Pop is a top-down multi-directional shooter that can be played both single-p
   </game>
   <game id="44160" source="ScreenScraper.fr">
     <path>./xmen.zip</path>
-    <name>X-Men</name>
+    <name>X-Men (4 Players)</name>
     <desc>X-Men is a side-scrolling beat-em-up for up to four players. The X-Men's mission is to find and rescue Professor X, who has been captured by evil mutants and is now being held prisoner by Magneto.    Each X-Man character has an 'Attack', 'Jump' and 'Mutant Power' button. The mutant power attack is a powerful special move unique to each X-Man. While it inflicts a lot of damage on the enemies, the trade-off is that each usage removes 3 bars from the players health meter (a full meter has 10 bars). Each level ends with a face-off against a powerful mutant boss character.    The game has six stages, with the final one set on 'Asteroid M', Magneto's base. The defeated mutant bosses from the previous levels each make an appearance (albeit in a less powerful form) before the final encounter with Magneto himself.    Players can chose from 6 X-Men characters, they are:  Cyclops   Colossus   Wolverine   Storm   Nightcrawler   Dazzler</desc>
     <rating>0.9</rating>
     <releasedate>19920101T000000</releasedate>

@@ -393,7 +393,7 @@ blueshrk,"Blue Shark","1978",Midway,-,-,-,YES,NO,NO,NO,NO,"mw8080bw.cpp",INCOMPL
 bjourney,"Blue's Journey / Raguy (ALM-001 ~ ALH-001)","1990","Alpha Denshi Co.",neogeo,-,-,YES,NO,NO,NO,NO,neogeo.cpp,BUONO,RASTER,"0",320,224,HORIZONTAL,neogeo.cpp
 bballoon,"BnB Arcade","2003",Eolith,-,-,-,YES,NO,NO,NO,NO,ghosteo.cpp,INCOMPLETO,RASTER,"0",320,256,HORIZONTAL,ghosteo.cpp
 bodyslam,"Body Slam (8751 317-0015)","1986",Sega,-,-,-,YES,NO,NO,NO,NO,"segas16a.cpp",BUONO,RASTER,"0",320,224,HORIZONTAL,"segas16a.cpp"
-bogeyman,"Bogey Manor","1985","Technos Japan",-,-,-,YES,NO,NO,NO,NO,bogeyman.cpp,INCOMPLETO,RASTER,"0",256,240,HORIZONTAL,bogeyman.cpp
+bogeyman,"Bogey Manor","1985","Technos Japan",-,-,-,YES,NO,NO,NO,NO,bogeyman.cpp,INCOMPLETO,RASTER,"180",256,240,HORIZONTAL,bogeyman.cpp
 "boggy84","Boggy '84","1983",Kaneko,-,-,-,YES,NO,NO,NO,NO,fastfred.cpp,BUONO,RASTER,"90",256,224,VERTICAL,fastfred.cpp
 bombbee,"Bomb Bee","1979",Namco,-,-,-,YES,NO,NO,NO,NO,warpwarp.cpp,BUONO,RASTER,"90",272,224,VERTICAL,warpwarp.cpp
 bombjack,"Bomb Jack (set 1)","1984",Tehkan,-,-,-,YES,NO,NO,NO,NO,bombjack.cpp,BUONO,RASTER,"90",256,224,VERTICAL,bombjack.cpp
@@ -1076,6 +1076,7 @@ sqbert,"Faster, Harder, More Challenging Q*bert (prototype)","1983",Mylstar,-,-,
 "fatfury1","Fatal Fury - King of Fighters / Garou Densetsu - Shukumei no Tatakai (NGM-033 ~ NGH-033)","1991",SNK,neogeo,-,-,YES,NO,NO,NO,NO,neogeo.cpp,BUONO,RASTER,"0",320,224,HORIZONTAL,neogeo.cpp
 "fatfury2","Fatal Fury 2 / Garou Densetsu 2 - Arata-naru Tatakai (NGM-047 ~ NGH-047)","1992",SNK,neogeo,-,-,YES,NO,NO,NO,NO,neogeo.cpp,BUONO,RASTER,"0",320,224,HORIZONTAL,neogeo.cpp
 "fatfury3","Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - Haruka-naru Tatakai (NGM-069 ~ NGH-069)","1995",SNK,neogeo,-,-,YES,NO,NO,NO,NO,neogeo.cpp,BUONO,RASTER,"0",320,224,HORIZONTAL,neogeo.cpp
+fatfurspb,"Fatal Fury Special (SNES bootleg)","199?",bootleg,-,-,-,YES,NO,NO,NO,NO,snesb.cpp,PRELIMINARE,RASTER,"0",512,225,HORIZONTAL,snesb.cpp
 fatfursp,"Fatal Fury Special / Garou Densetsu Special (NGM-058 ~ NGH-058, set 1)","1993",SNK,neogeo,-,-,YES,NO,NO,NO,NO,neogeo.cpp,BUONO,RASTER,"0",320,224,HORIZONTAL,neogeo.cpp
 fatfurwa,"Fatal Fury: Wild Ambition (rev.A)","1998",SNK,"hng64",-,-,YES,NO,NO,NO,NO,"hng64.cpp",PRELIMINARE,RASTER,"0",512,448,HORIZONTAL,"hng64.cpp"
 fateulc,"Fate: Unlimited Codes (FUD1 ver. A)","2008","Capcom / Namco","sys246",-,-,YES,NO,NO,NO,YES,"namcops2.cpp",PRELIMINARE,RASTER,"0",640,480,HORIZONTAL,"namcops2.cpp"
@@ -1187,7 +1188,7 @@ fhboxers,"Funky Head Boxers (JUETBKAL 951218 V1.000)","1995",Sega,stvbios,-,-,YE
 funkyjet,"Funky Jet (World, rev 1)","1992",Mitchell,-,-,-,YES,NO,NO,NO,NO,funkyjet.cpp,INCOMPLETO,RASTER,"0",320,240,HORIZONTAL,funkyjet.cpp
 funybubl,"Funny Bubble","1999","In Chang Electronic Co",-,-,-,YES,NO,NO,NO,NO,funybubl.cpp,BUONO,RASTER,"0",320,224,HORIZONTAL,funybubl.cpp
 funystrp,"Funny Strip","199?","Microhard / MagicGames",-,-,-,YES,NO,NO,NO,NO,splash.cpp,PRELIMINARE,RASTER,"0",384,240,HORIZONTAL,splash.cpp
-futflash,"Future Flash","1980",Hoei,-,-,-,YES,NO,NO,NO,NO,laserbas.cpp,INCOMPLETO,RASTER,"270",256,256,VERTICAL,laserbas.cpp
+futflash,"Future Flash","1980",Hoei,-,-,-,YES,NO,NO,NO,NO,laserbas.cpp,INCOMPLETO,RASTER,"270",256,224,VERTICAL,laserbas.cpp
 futspy,"Future Spy (315-5061)","1984",Sega,-,-,zaxxon,YES,NO,NO,NO,NO,zaxxon.cpp,INCOMPLETO,RASTER,"90",256,224,VERTICAL,zaxxon.cpp
 "gdarius2","G-Darius Ver.2 (Ver 2.03J)","1997",Taito,"coh1000t",-,-,YES,NO,NO,NO,NO,zn.cpp,INCOMPLETO,RASTER,"0",640,480,HORIZONTAL,zn.cpp
 gloc,"G-LOC Air Battle (World)","1990",Sega,-,-,-,YES,NO,NO,NO,NO,segaybd.cpp,BUONO,RASTER,"0",320,224,HORIZONTAL,segaybd.cpp
@@ -1263,6 +1264,7 @@ gemini,"Gemini Wing (World)","1987",Tecmo,-,-,-,YES,NO,NO,NO,NO,tecmo.cpp,BUONO,
 "genius6","Genius 6 (V110F)","1998",IGS,-,-,-,YES,NO,NO,NO,NO,"igs017.cpp",BUONO,RASTER,"0",512,240,HORIZONTAL,"igs017.cpp"
 genix,"Genix Family","1994",NIX,-,-,-,YES,NO,NO,NO,NO,pirates.cpp,BUONO,RASTER,"0",288,224,HORIZONTAL,pirates.cpp
 genpeitd,"Genpei ToumaDen","1986",Namco,-,-,-,YES,NO,NO,NO,NO,"namcos86.cpp",BUONO,RASTER,"0",288,224,HORIZONTAL,"namcos86.cpp"
+getaway,"Get A Way","1979",Universal,-,-,-,YES,NO,NO,NO,NO,getaway.cpp,PRELIMINARE,RASTER,"270",256,240,VERTICAL,getaway.cpp
 denseib,"Ghost Chaser Densei (SNES bootleg, set 1)","1996",bootleg,-,-,-,YES,NO,NO,NO,NO,snesb.cpp,INCOMPLETO,RASTER,"0",512,225,HORIZONTAL,snesb.cpp
 ghoshunt,"Ghost Hunter","1996","Hanaho Games",-,-,-,YES,NO,NO,NO,NO,tickee.cpp,BUONO,RASTER,"0",320,200,HORIZONTAL,tickee.cpp
 gpilots,"Ghost Pilots (NGM-020 ~ NGH-020)","1991",SNK,neogeo,-,-,YES,NO,NO,NO,NO,neogeo.cpp,BUONO,RASTER,"0",320,224,HORIZONTAL,neogeo.cpp
@@ -1669,9 +1671,9 @@ keith,"Keith Courage In Alpha Zones (United Amusements PC Engine)","1989","Hudso
 kenseim,"Ken Sei Mogura: Street Fighter II (Japan 940418, Ver 1.00)","1994","Capcom / Togo / Sigma",-,-,-,YES,NO,NO,NO,NO,kenseim.cpp,BUONO,RASTER,"0",384,224,HORIZONTAL,kenseim.cpp
 keroppi,"Kero Kero Keroppi's Let's Play Together (USA, Version 2.0)","1995","American Sammy",-,-,-,YES,NO,NO,NO,NO,seta.cpp,BUONO,RASTER,"0",320,240,HORIZONTAL,seta.cpp
 ket,"Ketsui: Kizuna Jigoku Tachi (2003/01/01. Master Ver.)","2002","Cave (AMI license)",-,-,-,YES,NO,NO,NO,NO,pgm.cpp,INCOMPLETO,RASTER,"270",448,224,VERTICAL,pgm.cpp
-kbm,Keyboardmania,"2000",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"270",640,480,VERTICAL,firebeat.cpp
-"kbm2nd","Keyboardmania 2nd Mix","2000",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"270",640,480,VERTICAL,firebeat.cpp
-"kbm3rd","Keyboardmania 3rd Mix","2001",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"270",640,480,VERTICAL,firebeat.cpp
+kbm,Keyboardmania,"2000",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"270",512,384,VERTICAL,firebeat.cpp
+"kbm2nd","Keyboardmania 2nd Mix","2000",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"270",512,384,VERTICAL,firebeat.cpp
+"kbm3rd","Keyboardmania 3rd Mix","2001",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"270",512,384,VERTICAL,firebeat.cpp
 "kick4csh","Kick '4' Cash (Export)","2004",Sega,naomi,-,-,YES,NO,NO,NO,NO,naomi.cpp,PRELIMINARE,RASTER,"0",640,480,HORIZONTAL,naomi.cpp
 kick,"Kick (upright)","1981",Midway,-,-,-,YES,NO,NO,NO,NO,mcr.cpp,BUONO,RASTER,"90",512,480,VERTICAL,mcr.cpp
 kicknrun,"Kick and Run (World)","1986","Taito Corporation",-,-,-,YES,NO,NO,NO,NO,kikikai.cpp,BUONO,RASTER,"0",256,224,HORIZONTAL,kikikai.cpp
@@ -2158,6 +2160,7 @@ namcostr,"Namco Stars","2000",Namco,-,-,-,YES,NO,NO,NO,NO,"seta2.cpp",PRELIMINAR
 nameclub,"Name Club (J 960315 V1.000)","1996",Sega,stvbios,-,-,YES,NO,NO,NO,NO,stv.cpp,PRELIMINARE,RASTER,"0",352,224,HORIZONTAL,stv.cpp
 "nclubv2","Name Club Ver.2 (J 960315 V1.000)","1996",Sega,stvbios,-,-,YES,NO,NO,NO,NO,stv.cpp,PRELIMINARE,RASTER,"0",352,224,HORIZONTAL,stv.cpp
 "nclubv3","Name Club Ver.3 (J 970723 V1.000)","1997",Sega,stvbios,-,-,YES,NO,NO,NO,NO,stv.cpp,PRELIMINARE,RASTER,"0",352,224,HORIZONTAL,stv.cpp
+namenayo,"Namennayo (Japan)","1982",Cat's,-,-,-,YES,NO,NO,NO,NO,galaxian.cpp,BUONO,RASTER,"0",768,224,HORIZONTAL,galaxian.cpp
 naname,"Naname de Magic! (Japan)","1994",Atlus,-,-,-,YES,NO,NO,NO,NO,ohmygod.cpp,BUONO,RASTER,"0",320,240,HORIZONTAL,ohmygod.cpp
 nndmseal,"Nandemo Seal Iinkai","1997","I'Max / Jaleco",-,-,-,YES,NO,NO,NO,NO,"tetrisp2.cpp",PRELIMINARE,RASTER,"0",384,240,HORIZONTAL,"tetrisp2.cpp"
 narc,"Narc (rev 7.00)","1988",Williams,-,-,-,YES,NO,NO,NO,NO,midyunit.cpp,BUONO,RASTER,"0",512,400,HORIZONTAL,midyunit.cpp
@@ -2216,7 +2219,7 @@ nrallyx,"New Rally X","1981",Namco,-,-,rallyx,YES,NO,NO,NO,NO,rallyx.cpp,INCOMPL
 nyny,"New York! New York!","1980","Sigma Enterprises Inc.",-,-,-,YES,NO,NO,NO,NO,nyny.cpp,INCOMPLETO,RASTER,"270",256,224,VERTICAL,nyny.cpp
 news,"News (set 1)","1993","Poby / Virus",-,-,-,YES,NO,NO,NO,NO,news.cpp,BUONO,RASTER,"0",256,224,HORIZONTAL,news.cpp
 "blitz99","NFL Blitz '99 (ver 1.30, Sep 22 1998)","1998","Midway Games",-,-,-,YES,NO,NO,NO,YES,seattle.cpp,BUONO,RASTER,"0",640,480,HORIZONTAL,seattle.cpp
-blitz,"NFL Blitz (boot ROM 1.2)","1997","Midway Games",-,-,-,YES,NO,NO,NO,YES,seattle.cpp,BUONO,RASTER,"0",640,480,HORIZONTAL,seattle.cpp
+blitz,"NFL Blitz (ver 1.21, Dec 5 1987)","1997","Midway Games",-,-,-,YES,NO,NO,NO,YES,seattle.cpp,BUONO,RASTER,"0",640,480,HORIZONTAL,seattle.cpp
 "blitz2k","NFL Blitz 2000 Gold Edition (ver 1.2, Sep 22 1999)","1999","Midway Games",-,-,-,YES,NO,NO,NO,YES,seattle.cpp,BUONO,RASTER,"0",640,480,HORIZONTAL,seattle.cpp
 nflclsfb,"NFL Classic Football (US, NCF3 Ver.A.)","2003",Namco,-,-,-,YES,NO,NO,NO,NO,"namcos10.cpp",PRELIMINARE,RASTER,"0",640,480,HORIZONTAL,"namcos10.cpp"
 nflfoot,"NFL Football","1983","Bally Midway",-,-,-,YES,NO,NO,NO,YES,mcr.cpp,PRELIMINARE,RASTER,"0",512,480,HORIZONTAL,mcr.cpp
@@ -2357,10 +2360,10 @@ paradise,"Paradise (set 1)","1994","Yun Sung",-,-,-,YES,NO,NO,NO,NO,paradise.cpp
 paradlx,"Paradise Deluxe","199?","Yun Sung",-,-,-,YES,NO,NO,NO,NO,paradise.cpp,INCOMPLETO,RASTER,"90",256,224,VERTICAL,paradise.cpp
 pturn,"Parallel Turn","1984",Jaleco,-,-,-,YES,NO,NO,NO,NO,pturn.cpp,INCOMPLETO,RASTER,"90",256,224,VERTICAL,pturn.cpp
 paranoia,Paranoia,"1990","Naxat Soft",-,-,-,YES,NO,NO,NO,NO,paranoia.cpp,PRELIMINARE,RASTER,"0",1088,242,HORIZONTAL,paranoia.cpp
-ppd,ParaParaDancing,"2000",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",640,480,HORIZONTAL,firebeat.cpp
-ppp,ParaParaParadise,"2000",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",640,480,HORIZONTAL,firebeat.cpp
-"ppp2nd","ParaParaParadise 2nd Mix","2001",Konami,kviper,-,-,YES,NO,NO,NO,YES,viper.cpp,PRELIMINARE,RASTER,"0",1024,768,HORIZONTAL,viper.cpp
-"ppp11","ParaParaParadise v1.1","2000",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",640,480,HORIZONTAL,firebeat.cpp
+ppd,ParaParaDancing,"2000",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",512,384,HORIZONTAL,firebeat.cpp
+ppp,ParaParaParadise,"2000",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",512,384,HORIZONTAL,firebeat.cpp
+"ppp2nd","ParaParaParadise 2nd Mix (JAA)","2001",Konami,kviper,-,-,YES,NO,NO,NO,YES,viper.cpp,PRELIMINARE,RASTER,"0",1024,768,HORIZONTAL,viper.cpp
+"ppp11","ParaParaParadise v1.1","2000",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",512,384,HORIZONTAL,firebeat.cpp
 mt_parlg,"Parlour Games (Mega-Tech, SMS based)","1987",Sega,megatech,-,-,YES,NO,NO,NO,NO,megatech.cpp,PRELIMINARE,RASTER,"0",256,224,HORIZONTAL,megatech.cpp
 parodius,"Parodius DA! (World, set 1)","1990",Konami,-,-,-,YES,NO,NO,NO,NO,parodius.cpp,BUONO,RASTER,"0",288,224,HORIZONTAL,parodius.cpp
 prtytime,"Party Time: Gonta the Diver II / Ganbare! Gonta!! 2 (World Release)","1995",Mitchell,-,-,-,YES,NO,NO,NO,NO,"simpl156.cpp",BUONO,RASTER,"90",320,240,VERTICAL,"simpl156.cpp"
@@ -2475,6 +2478,7 @@ plygonet,"Polygonet Commanders (ver UAA)","1993",Konami,-,-,-,YES,NO,NO,NO,NO,pl
 pong,"Pong (Rev E) external [TTL]","1972",Atari,-,-,-,YES,NO,NO,NO,NO,pong.cpp,BUONO,RASTER,"0",454,262,HORIZONTAL,pong.cpp
 pongd,"Pong Doubles [TTL]","1973",Atari,-,-,-,YES,NO,NO,NO,NO,pong.cpp,BUONO,RASTER,"0",454,262,HORIZONTAL,pong.cpp
 ponpoko,Ponpoko,"1982","Sigma Enterprises Inc.",-,-,-,YES,NO,NO,NO,NO,pacman.cpp,BUONO,RASTER,"0",288,224,HORIZONTAL,pacman.cpp
+kpontoon,"Pontoon (Konami)","1993",Konami,-,-,-,YES,NO,NO,NO,NO,kpontoon.cpp,PRELIMINARE,RASTER,"0",528,424,HORIZONTAL,kpontoon.cpp
 poolshrk,Poolshark,"1977",Atari,-,-,-,YES,NO,NO,NO,NO,poolshrk.cpp,BUONO,RASTER,"0",255,232,HORIZONTAL,poolshrk.cpp
 poosho,"Poosho Poosho","1999","F2 System",-,-,-,YES,NO,NO,NO,NO,vamphalf.cpp,BUONO,RASTER,"0",320,236,HORIZONTAL,vamphalf.cpp
 pooyan,Pooyan,"1982",Konami,-,-,-,YES,NO,NO,NO,NO,pooyan.cpp,BUONO,RASTER,"90",256,224,VERTICAL,pooyan.cpp
@@ -2485,13 +2489,13 @@ popshot,"Pop Shot (prototype)","1991",Dynamo,-,-,-,YES,NO,NO,NO,YES,skeetsht.cpp
 "popn1","Pop'n Music 1 (ver AA-A, HDD 1.00)","1998",Konami,-,-,-,YES,NO,NO,NO,YES,djmain.cpp,INCOMPLETO,RASTER,"0",488,384,HORIZONTAL,djmain.cpp
 "popn2","Pop'n Music 2 (ver JA-A)","1999",Konami,-,-,-,YES,NO,NO,NO,YES,djmain.cpp,INCOMPLETO,RASTER,"0",488,384,HORIZONTAL,djmain.cpp
 "popn3","Pop'n Music 3 (ver JA-A)","1999",Konami,-,-,-,YES,NO,NO,NO,YES,djmain.cpp,INCOMPLETO,RASTER,"0",488,384,HORIZONTAL,djmain.cpp
-"popn4","Pop'n Music 4","2000",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",640,480,HORIZONTAL,firebeat.cpp
-"popn5","Pop'n Music 5","2000",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",640,480,HORIZONTAL,firebeat.cpp
-"popn6","Pop'n Music 6","2001",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",640,480,HORIZONTAL,firebeat.cpp
-"popn7","Pop'n Music 7","2001",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",640,480,HORIZONTAL,firebeat.cpp
-"popn8","Pop'n Music 8","2002",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",640,480,HORIZONTAL,firebeat.cpp
+"popn4","Pop'n Music 4","2000",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",512,384,HORIZONTAL,firebeat.cpp
+"popn5","Pop'n Music 5","2000",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",512,384,HORIZONTAL,firebeat.cpp
+"popn6","Pop'n Music 6","2001",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",512,384,HORIZONTAL,firebeat.cpp
+"popn7","Pop'n Music 7","2001",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",512,384,HORIZONTAL,firebeat.cpp
+"popn8","Pop'n Music 8","2002",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",512,384,HORIZONTAL,firebeat.cpp
 "popn9","Pop'n Music 9 (ver JAB)","2003",Konami,kpython,-,-,YES,NO,NO,NO,YES,kpython.cpp,PRELIMINARE,RASTER,"0",640,480,HORIZONTAL,kpython.cpp
-"popnanm2","Pop'n Music Animelo 2","2001",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",640,480,HORIZONTAL,firebeat.cpp
+"popnanm2","Pop'n Music Animelo 2","2001",Konami,-,-,-,YES,NO,NO,NO,YES,firebeat.cpp,PRELIMINARE,RASTER,"0",512,384,HORIZONTAL,firebeat.cpp
 popnpop,"Pop'n Pop (Ver 2.07O 1998/02/09)","1997","Taito Corporation",-,-,-,YES,NO,NO,NO,NO,"taito_f3.cpp",INCOMPLETO,RASTER,"0",320,232,HORIZONTAL,"taito_f3.cpp"
 popnrun,"Pop'n Run - The Videogame (set 1)","1987","Seibu Kaihatsu / Yukai Tsukai",-,-,-,YES,NO,NO,NO,NO,deadang.cpp,PRELIMINARE,RASTER,"0",256,224,HORIZONTAL,deadang.cpp
 popnstex,"Pop'n Stage EX (ver JB-A)","1999",Konami,-,-,-,YES,NO,NO,NO,YES,djmain.cpp,INCOMPLETO,RASTER,"0",488,384,HORIZONTAL,djmain.cpp
@@ -2669,7 +2673,7 @@ radm,"Rad Mobile (World)","1990",Sega,-,-,-,YES,NO,NO,NO,NO,"segas32.cpp",INCOMP
 pc_radrc,"Rad Racer (PlayChoice-10)","1987",Square,"playch10",-,-,YES,NO,NO,NO,NO,"playch10.cpp",BUONO,RASTER,"0",256,240,HORIZONTAL,"playch10.cpp"
 "pc_radr2","Rad Racer II (PlayChoice-10)","1990","Square (Nintendo of America license)","playch10",-,-,YES,NO,NO,NO,NO,"playch10.cpp",BUONO,RASTER,"0",256,240,HORIZONTAL,"playch10.cpp"
 radr,"Rad Rally (World)","1991",Sega,-,-,-,YES,NO,NO,NO,NO,"segas32.cpp",INCOMPLETO,RASTER,"0",416,224,HORIZONTAL,"segas32.cpp"
-radarscp,"Radar Scope","1980",Nintendo,-,-,-,YES,NO,NO,NO,NO,dkong.cpp,BUONO,RASTER,"270",256,224,VERTICAL,dkong.cpp
+radarscp,"Radar Scope (TRS02, rev. D)","1980",Nintendo,-,-,-,YES,NO,NO,NO,NO,dkong.cpp,BUONO,RASTER,"270",256,224,VERTICAL,dkong.cpp
 radarzon,"Radar Zone","1982","Century Electronics",-,-,-,YES,NO,NO,NO,NO,cvs.cpp,INCOMPLETO,RASTER,"90",240,248,VERTICAL,cvs.cpp
 rsgun,"Radiant Silvergun (JUET 980523 V1.000)","1998",Treasure,stvbios,-,-,YES,NO,NO,NO,NO,stv.cpp,INCOMPLETO,RASTER,"0",352,224,HORIZONTAL,stv.cpp
 radrad,"Radical Radial (US)","1982","Nichibutsu USA",-,-,-,YES,NO,NO,NO,NO,seicross.cpp,BUONO,RASTER,"0",256,224,HORIZONTAL,seicross.cpp
@@ -2967,7 +2971,7 @@ shocktro,"Shock Troopers (set 1)","1997",Saurus,neogeo,-,-,YES,NO,NO,NO,NO,neoge
 shocking,Shocking,"1997","Yun Sung",-,-,-,YES,NO,NO,NO,NO,"yunsun16.cpp",BUONO,RASTER,"0",380,224,HORIZONTAL,"yunsun16.cpp"
 shogwarr,"Shogun Warriors (World)","1992",Kaneko,-,-,-,YES,NO,NO,NO,NO,"kaneko16.cpp",BUONO,RASTER,"0",256,224,HORIZONTAL,"kaneko16.cpp"
 "shootaw2","Shoot Away II","1996",Namco,-,-,-,YES,NO,NO,NO,NO,"shootaway2.cpp",PRELIMINARE,RASTER,"0",320,240,HORIZONTAL,"shootaway2.cpp"
-shootout,"Shoot Out (US)","1985","Data East USA",-,-,-,YES,NO,NO,NO,NO,shootout.cpp,BUONO,RASTER,"0",256,240,HORIZONTAL,shootout.cpp
+shootout,"Shoot Out (US)","1985","Data East USA",-,-,-,YES,NO,NO,NO,NO,shootout.cpp,BUONO,RASTER,"180",256,240,HORIZONTAL,shootout.cpp
 shootbul,"Shoot the Bull","1985","Bally Midway",-,-,-,YES,NO,NO,NO,NO,pacman.cpp,BUONO,RASTER,"90",288,224,VERTICAL,pacman.cpp
 shootgal,"Shooting Gallery","1984","Seatongrove Ltd (Zaccaria license)",-,-,-,YES,NO,NO,NO,NO,dkong.cpp,INCOMPLETO,RASTER,"0",256,224,HORIZONTAL,dkong.cpp
 "sl2007","Shooting Love 2007 (Japan)","2007","Triangle Service",naomi,-,-,YES,NO,NO,NO,NO,naomi.cpp,PRELIMINARE,RASTER,"270",640,480,VERTICAL,naomi.cpp
@@ -4043,7 +4047,7 @@ wndrplnt,"Wonder Planet (Japan)","1987","Data East Corporation",-,-,-,YES,NO,NO,
 wondstck,"Wonder Stick (set 1)",????,"Yun Sung",-,-,-,YES,NO,NO,NO,NO,"nmg5.cpp",BUONO,RASTER,"0",320,240,HORIZONTAL,"nmg5.cpp"
 woodpeck,"Woodpecker (set 1)","1981","Amenip (Palcom Queen River)",-,-,-,YES,NO,NO,NO,NO,pacman.cpp,BUONO,RASTER,"90",288,224,VERTICAL,pacman.cpp
 worldadv,"World Adventure","1999","Logic / F2 System",-,-,-,YES,NO,NO,NO,NO,vamphalf.cpp,PRELIMINARE,RASTER,"0",320,236,HORIZONTAL,vamphalf.cpp
-wbeachvl,"World Beach Volley (set 1)","1995",Playmark,-,-,-,YES,NO,NO,NO,NO,playmark.cpp,INCOMPLETO,RASTER,"0",320,240,HORIZONTAL,playmark.cpp
+wbeachvl,"World Beach Volley (set 1, PIC16C57 audio CPU)","1995",Playmark,-,-,-,YES,NO,NO,NO,NO,playmark.cpp,INCOMPLETO,RASTER,"0",320,240,HORIZONTAL,playmark.cpp
 mt_wcsoc,"World Championship Soccer (Mega-Tech)","1989",Sega,megatech,-,-,YES,NO,NO,NO,NO,megatech.cpp,PRELIMINARE,RASTER,"0",256,224,HORIZONTAL,megatech.cpp
 wcbowl,"World Class Bowling (v1.66)","1995","Incredible Technologies",-,-,-,YES,NO,NO,NO,NO,"itech32.cpp",BUONO,RASTER,"0",384,240,HORIZONTAL,"itech32.cpp"
 "wccf310j","World Club Champion Football European Clubs 2004-2005 (Asia) (CDV-10013)","2005",Sega,naomigd,-,-,YES,NO,NO,NO,YES,naomi.cpp,PRELIMINARE,RASTER,"0",640,480,HORIZONTAL,naomi.cpp
