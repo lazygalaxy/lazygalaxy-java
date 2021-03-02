@@ -15,6 +15,7 @@ import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.engine.util.XMLUtils;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.merge.GameMerge;
+import com.lazygalaxy.game.util.GameUtil;
 
 public class A_RunVManGameLoad {
 	private static final Logger LOGGER = LogManager.getLogger(A_RunVManGameLoad.class);
@@ -50,7 +51,7 @@ public class A_RunVManGameLoad {
 			String systemId = GeneralUtil.alphanumerify(extraTagValues.get(0));
 
 			String name = XMLUtils.handleString(element, "name");
-			name = GeneralUtil.pretify(name);
+			name = GameUtil.pretify(name);
 			Game game = new Game(romId + "_" + systemId, name);
 
 			game.addLabel(romId);
@@ -78,7 +79,7 @@ public class A_RunVManGameLoad {
 			if (StringUtils.startsWith(game.publisher, "Data East")) {
 				game.publisher = "Data East";
 			}
-			game.description = GeneralUtil.pretify(XMLUtils.handleString(element, "desc"));
+			game.description = GameUtil.pretify(XMLUtils.handleString(element, "desc"));
 
 			// genre
 			game.genre = new TreeSet<String>();

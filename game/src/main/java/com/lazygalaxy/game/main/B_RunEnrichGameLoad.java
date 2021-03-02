@@ -28,7 +28,7 @@ public class B_RunEnrichGameLoad {
 					Filters.or(Filters.in("systemId", "neogeo"), Filters.in("systemId", "naomi")));
 			LOGGER.info("hiding duplicates completed!");
 
-			new CustomHideGameLoad().load("txt/custom_hide_games.txt");
+			new CustomHideGameLoad().load("txt/custom_hide_games.txt", 0, merge);
 			LOGGER.info("hiding custom completed!");
 
 			new ArcadeItaliaEnrichGameLoad().load("csv/arcadeitalia_games.csv", 1, merge);
@@ -99,7 +99,7 @@ public class B_RunEnrichGameLoad {
 		protected List<Game> getMongoDocument(String[] tokens) throws Exception {
 			String gameId = tokens[0];
 
-			List<Game> games = GameUtil.getGames(false, gameId,
+			List<Game> games = GameUtil.getGames(false, true, gameId,
 					Filters.or(Filters.in("romId", gameId), Filters.in("alternativeId", gameId)));
 
 			if (games != null) {

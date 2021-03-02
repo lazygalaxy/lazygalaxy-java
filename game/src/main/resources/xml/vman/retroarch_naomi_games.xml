@@ -1975,22 +1975,6 @@
 		<lastplayed>20200515T230235</lastplayed>
 	</game>
 	<game>
-		<path>./vtennis2.zip</path>
-		<name>Virtua Tennis 2 (Rev A, GDS-0015A)</name>
-		<desc>Virtua Tennis 2 builds on the gameplay found in its predecessor, and adds the option to play as female professional tennis players and mixed doubles matches.</desc>
-		<image>./mixart/vtennis2.png</image>
-		<video>./snap/vtennis2.mp4</video>
-		<marquee>./wheel/vtennis2.png</marquee>
-		<rating>1</rating>
-		<releasedate>20010101T000000</releasedate>
-		<developer>Hitmaker</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports-Sports / Tennis</genre>
-		<players>1-4</players>
-		<playcount>3</playcount>
-		<lastplayed>20200516T170159</lastplayed>
-	</game>
-	<game>
 		<path>./vtennis2.bin</path>
 		<name>Virtua Tennis 2 (Rev A, GDS-0015A)</name>
 		<desc>Virtua Tennis 2 builds on the gameplay found in its predecessor, and adds the option to play as female professional tennis players and mixed doubles matches.</desc>

@@ -30,25 +30,4 @@ public class GeneralUtil {
 		}
 		return tokens;
 	}
-
-	public static String pretify(String str) {
-		String result = str;
-		if (result != null) {
-			result = result.replaceAll("\n", " ");
-			result = result.replaceAll("\r", " ");
-			result = result.replaceAll("\\.", ". ");
-			result = result.replaceAll("&amp;", "&");
-
-			result = result.replaceAll(" : ", ": ");
-			result = result.replaceAll(":", ": ");
-
-			result = result.replaceAll(" - ", ": ");
-			result = result.replaceAll("- ", ": ");
-
-			while (StringUtils.contains(result, "  ")) {
-				result = result.replaceAll("  ", " ");
-			}
-		}
-		return result;
-	}
 }

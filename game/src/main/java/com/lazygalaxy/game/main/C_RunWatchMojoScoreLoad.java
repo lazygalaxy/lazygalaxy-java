@@ -40,7 +40,7 @@ public class C_RunWatchMojoScoreLoad {
 			String name = GeneralUtil.alphanumerify(tokens[1]);
 			Integer year = Integer.parseInt(tokens[2]);
 
-			List<Game> games = GameUtil.getGames(true, name + " " + year, Filters.in("labels", name),
+			List<Game> games = GameUtil.getGames(true, true, name + " " + year, Filters.in("labels", name),
 					Filters.eq("year", year));
 
 			if (games != null) {
