@@ -20,6 +20,10 @@ public class GameUtil {
 				result = StringUtils.substring(result, 0, result.lastIndexOf("(")).trim();
 			}
 
+			if (StringUtils.endsWith(result, "]")) {
+				result = StringUtils.substring(result, 0, result.lastIndexOf("[")).trim();
+			}
+
 			result = result.replaceAll("\n", " ");
 			result = result.replaceAll("\r", " ");
 			result = result.replaceAll("'", "");

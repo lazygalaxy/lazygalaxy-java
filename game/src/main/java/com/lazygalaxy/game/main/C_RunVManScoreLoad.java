@@ -12,7 +12,7 @@ import com.lazygalaxy.engine.helper.MongoHelper;
 import com.lazygalaxy.engine.load.XMLLoad;
 import com.lazygalaxy.engine.merge.FieldMerge;
 import com.lazygalaxy.engine.util.GeneralUtil;
-import com.lazygalaxy.engine.util.XMLUtils;
+import com.lazygalaxy.engine.util.XMLUtil;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.Scores;
 
@@ -42,11 +42,11 @@ public class C_RunVManScoreLoad {
 
 		@Override
 		protected Scores getMongoDocument(Element element, List<String> extraTagValues) throws Exception {
-			String path = XMLUtils.handleString(element, "path");
+			String path = XMLUtil.getTagAsString(element, "path");
 			String romId = StringUtils.substring(path, 0, StringUtils.lastIndexOf(path, "."));
 			String systemId = GeneralUtil.alphanumerify(extraTagValues.get(0));
 
-			Double rating = XMLUtils.handleDouble(element, "rating");
+			Double rating = XMLUtil.getTagAsDouble(element, "rating");
 			if (rating == null) {
 				rating = 0.0;
 			}

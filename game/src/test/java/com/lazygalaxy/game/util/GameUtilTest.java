@@ -19,5 +19,7 @@ public class GameUtilTest extends TestCase {
 
 		assertEquals("Street Fighter II: Hyper Fighting", GameUtil.pretify("Street Fighter II' - Hyper Fighting"));
 
+		assertEquals("Dungeons & Dragons: Shadow over Mystara",
+				GameUtil.pretify("Dungeons & Dragons -           Shadow over Mystara     [ USA]"));
 	}
 }

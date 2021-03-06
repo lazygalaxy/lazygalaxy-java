@@ -1,0 +1,128 @@
+<mame build="0.229 (Feb 24 2021)" debug="no" mameconfig="10">
+	<machine name="offroad" sourcefile="leland.cpp">
+		<description>Ironman Ivan Stewart's Super Off-Road (rev 4)</description>
+		<year>1989</year>
+		<manufacturer>Leland Corporation</manufacturer>
+		<rom name="03-22121-04.u58t" size="65536" crc="c5790988" sha1="a6bae6b024d86b49a23805037b77d15a3c7913ef" region="master" offset="0"/>
+		<rom name="03-22122-03.u59t" size="65536" crc="ae862fdc" sha1="ac31630cff5850409f87bfa5a7303eeedf8a895d" region="master" offset="10000"/>
+		<rom name="03-22120-01.u57t" size="65536" crc="e9f0f175" sha1="db8c55015d1e8230f1fb27dfac6b8b364b0718a2" region="master" offset="20000"/>
+		<rom name="03-22119-02.u56t" size="65536" crc="38642f22" sha1="9167bbc7ed8a8a0b913ead3b8b5a7749a29f15cb" region="master" offset="30000"/>
+		<rom name="03-22100-02.u3" size="8192" crc="08c96a4b" sha1="7d93dd918a5733c190b2668811d161f5f6339cf0" region="slave" offset="0"/>
+		<rom name="03-22108-02.u4t" size="65536" crc="0d72780a" sha1="634b87e7afff4ac2e8e3b98554364c5f3c4d9176" region="slave" offset="30000"/>
+		<rom name="03-22109-02.u5t" size="65536" crc="5429ce2c" sha1="73e543796629ac719928f4fe48442f1975db5092" region="slave" offset="40000"/>
+		<rom name="03-22110-02.u6t" size="65536" crc="f97bad5c" sha1="c68f8022c86bfc5c0480e5ce426fe2f985dc255f" region="slave" offset="50000"/>
+		<rom name="03-22111-01.u7t" size="65536" crc="f79157a1" sha1="a5731aa92f805123cb00c6ef93a0aed3dc84dae4" region="slave" offset="60000"/>
+		<rom name="03-22112-01.u8t" size="65536" crc="3eef38d3" sha1="9131960592a44c8567ab483f72955d2cc8898445" region="slave" offset="70000"/>
+		<rom name="03-22116-03.u25t" size="65536" crc="95bb31d3" sha1="e7bc43b63126fd33663865b2e41bacc58e962628" region="custom:audiocpu" offset="40001"/>
+		<rom name="03-22113-03.u13t" size="65536" crc="71b28df6" sha1="caf8e4c98a1650dbaedf83f4d38da920d0976f78" region="custom:audiocpu" offset="40000"/>
+		<rom name="03-22117-03.u26t" size="65536" crc="703d81ce" sha1="caf5363fb468a461a260e0ec636b0a7a8dc9cd3d" region="custom:audiocpu" offset="60001"/>
+		<rom name="03-22114-03.u14t" size="65536" crc="f8b31bf8" sha1="cb8133effe5484c5b4c40b77769f6ec72441c333" region="custom:audiocpu" offset="60000"/>
+		<rom name="03-22118-03.u27t" size="65536" crc="806ccf8b" sha1="7335a85fc84d5c2f7537548c3856c9cd2f267609" region="custom:audiocpu" offset="e0001"/>
+		<rom name="03-22115-03.u15t" size="65536" crc="c8439a7a" sha1="9a8bb1fca8d3414dcfd4839bc0c4289e4d810943" region="custom:audiocpu" offset="e0000"/>
+		<rom name="03-22105-02.u93" size="32768" crc="4426e367" sha1="298203112d724feb9a75a7bfc34b3dbb4d7fffe7" region="bg_gfx" offset="0"/>
+		<rom name="03-22106-02.u94" size="32768" crc="687dc1fc" sha1="876c72561d942ebc5f3a148d3d3efdceb39c9e2e" region="bg_gfx" offset="8000"/>
+		<rom name="03-22107-02.u95" size="32768" crc="cee6ee5f" sha1="3f1c6e8d9eb9de207cabca7c9d6d8d633bd69681" region="bg_gfx" offset="10000"/>
+		<rom name="03-22104-01.u92" size="16384" crc="03e0497d" sha1="bffd870251d51cce262961b77f1953f360f9607b" region="bg_prom" offset="4000"/>
+		<rom name="03-22102-01.u69" size="16384" crc="c3f2e443" sha1="82f22dabc99b3aaa94acaa303735a155ac13e592" region="bg_prom" offset="8000"/>
+		<rom name="03-22103-02.u90" size="16384" crc="2266757a" sha1="22aaf4b14f11198ffd14c9830c7997fd47ee14b6" region="bg_prom" offset="14000"/>
+		<rom name="03-22101-02.u67" size="16384" crc="ecab0527" sha1="6bbf8243d9b2ea775897719592212b51998f1b01" region="bg_prom" offset="18000"/>
+		<rom name="eeprom-offroad.bin" size="128" crc="57955248" sha1="d8cc09ff57c9de01c1b247a3f1d4555fcb0c2e45" region="eeprom" offset="0"/>
+		<device_ref name="z80"/>
+		<device_ref name="z80"/>
+		<device_ref name="93c46_16"/>
+		<device_ref name="nvram"/>
+		<device_ref name="gfxdecode"/>
+		<device_ref name="palette"/>
+		<device_ref name="screen"/>
+		<device_ref name="speaker"/>
+		<device_ref name="ay8910"/>
+		<device_ref name="dac_8bit_bw"/>
+		<device_ref name="dac_8bit_bw"/>
+		<device_ref name="leland_80186_sound"/>
+		<device_ref name="i80186"/>
+		<device_ref name="speaker"/>
+		<device_ref name="ad7524"/>
+		<device_ref name="dac_8bit_bw"/>
+		<device_ref name="ad7524"/>
+		<device_ref name="dac_8bit_bw"/>
+		<device_ref name="ad7524"/>
+		<device_ref name="dac_8bit_bw"/>
+		<device_ref name="ad7524"/>
+		<device_ref name="dac_8bit_bw"/>
+		<device_ref name="ad7524"/>
+		<device_ref name="dac_8bit_bw"/>
+		<device_ref name="ad7524"/>
+		<device_ref name="dac_8bit_bw"/>
+		<device_ref name="ad7533"/>
+		<device_ref name="pit8254"/>
+		<device_ref name="pit_counter"/>
+		<device_ref name="pit_counter"/>
+		<device_ref name="pit_counter"/>
+		<device_ref name="pit8254"/>
+		<device_ref name="pit_counter"/>
+		<device_ref name="pit_counter"/>
+		<device_ref name="pit_counter"/>
+		<device_ref name="generic_latch_16"/>
+		<chip type="cpu" tag="master" name="Zilog Z80" clock="6000000"/>
+		<chip type="cpu" tag="slave" name="Zilog Z80" clock="6000000"/>
+		<chip type="cpu" tag="custom:audiocpu" name="Intel 80186" clock="16000000"/>
+		<chip type="audio" tag="speaker" name="Speaker"/>
+		<chip type="audio" tag="ay8910" name="AY-3-8910A PSG" clock="1666666"/>
+		<chip type="audio" tag="dac0" name="8-Bit Binary Weighted DAC"/>
+		<chip type="audio" tag="dac1" name="8-Bit Binary Weighted DAC"/>
+		<chip type="audio" tag="custom:speaker" name="Speaker"/>
+		<chip type="audio" tag="custom:dac1" name="AD7524 DAC"/>
+		<chip type="audio" tag="custom:dac1vol" name="8-Bit Binary Weighted DAC"/>
+		<chip type="audio" tag="custom:dac2" name="AD7524 DAC"/>
+		<chip type="audio" tag="custom:dac2vol" name="8-Bit Binary Weighted DAC"/>
+		<chip type="audio" tag="custom:dac3" name="AD7524 DAC"/>
+		<chip type="audio" tag="custom:dac3vol" name="8-Bit Binary Weighted DAC"/>
+		<chip type="audio" tag="custom:dac4" name="AD7524 DAC"/>
+		<chip type="audio" tag="custom:dac4vol" name="8-Bit Binary Weighted DAC"/>
+		<chip type="audio" tag="custom:dac5" name="AD7524 DAC"/>
+		<chip type="audio" tag="custom:dac5vol" name="8-Bit Binary Weighted DAC"/>
+		<chip type="audio" tag="custom:dac6" name="AD7524 DAC"/>
+		<chip type="audio" tag="custom:dac6vol" name="8-Bit Binary Weighted DAC"/>
+		<chip type="audio" tag="custom:dac9" name="AD7533 DAC"/>
+		<display tag="screen" type="raster" rotate="0" width="320" height="240" refresh="60.000000" pixclock="4915200" htotal="320" hbend="0" hbstart="320" vtotal="256" vbend="0" vbstart="240" />
+		<sound channels="2"/>
+		<input players="3" coins="3" service="yes">
+			<control type="dial" player="1" buttons="1" minimum="0" maximum="255" sensitivity="100" keydelta="10"/>
+			<control type="pedal" player="1" minimum="0" maximum="255" sensitivity="100" keydelta="10"/>
+			<control type="dial" player="2" buttons="1" minimum="0" maximum="255" sensitivity="100" keydelta="10"/>
+			<control type="pedal" player="2" minimum="0" maximum="255" sensitivity="100" keydelta="10"/>
+			<control type="dial" player="3" buttons="1" minimum="0" maximum="255" sensitivity="100" keydelta="10"/>
+			<control type="pedal" player="3" minimum="0" maximum="255" sensitivity="100" keydelta="10"/>
+		</input>
+		<port tag=":AN0">
+			<analog mask="255"/>
+		</port>
+		<port tag=":AN1">
+			<analog mask="255"/>
+		</port>
+		<port tag=":AN2">
+			<analog mask="255"/>
+		</port>
+		<port tag=":AN3">
+			<analog mask="255"/>
+		</port>
+		<port tag=":AN4">
+			<analog mask="255"/>
+		</port>
+		<port tag=":AN5">
+			<analog mask="255"/>
+		</port>
+		<port tag=":IN0">
+		</port>
+		<port tag=":IN1">
+		</port>
+		<port tag=":IN2">
+		</port>
+		<port tag=":IN3">
+		</port>
+		<driver status="good" emulation="good" savestate="unsupported"/>
+	</machine>
+		<machine name="tilemap" sourcefile="src/emu/tilemap.cpp" isdevice="yes" runnable="no">
+		<description>Tilemap</description>
+	</machine>
+</mame>
