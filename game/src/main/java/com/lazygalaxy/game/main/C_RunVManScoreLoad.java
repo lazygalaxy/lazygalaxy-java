@@ -42,11 +42,11 @@ public class C_RunVManScoreLoad {
 
 		@Override
 		protected Scores getMongoDocument(Element element, List<String> extraTagValues) throws Exception {
-			String path = XMLUtil.getTagAsString(element, "path");
+			String path = XMLUtil.getTagAsString(element, "path", 0);
 			String romId = StringUtils.substring(path, 0, StringUtils.lastIndexOf(path, "."));
 			String systemId = GeneralUtil.alphanumerify(extraTagValues.get(0));
 
-			Double rating = XMLUtil.getTagAsDouble(element, "rating");
+			Double rating = XMLUtil.getTagAsDouble(element, "rating", 0);
 			if (rating == null) {
 				rating = 0.0;
 			}

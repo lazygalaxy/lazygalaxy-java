@@ -46,18 +46,18 @@ public class A_RunVManGameLoad {
 		@Override
 		protected Game getMongoDocument(Element element, List<String> extraTagValues) throws Exception {
 
-			String path = XMLUtil.getTagAsString(element, "path");
+			String path = XMLUtil.getTagAsString(element, "path", 0);
 			String romId = GeneralUtil
 					.alphanumerify(StringUtils.substring(path, 0, StringUtils.lastIndexOf(path, ".")));
 			String systemId = GeneralUtil.alphanumerify(extraTagValues.get(0));
 
-			String name = XMLUtil.getTagAsString(element, "name");
+			String name = XMLUtil.getTagAsString(element, "name", 0);
 			name = GameUtil.pretify(name);
 			Game game = new Game(romId + "_" + systemId, name);
 
 			game.addLabel(romId);
 
-			String image = XMLUtil.getTagAsString(element, "image");
+			String image = XMLUtil.getTagAsString(element, "image", 0);
 			if (image != null) {
 				String alternativeId = StringUtils.substring(image, 0, StringUtils.lastIndexOf(image, "."));
 				alternativeId = StringUtils.substring(alternativeId, StringUtils.lastIndexOf(alternativeId, "/") + 1,
@@ -74,19 +74,19 @@ public class A_RunVManGameLoad {
 			game.year = XMLUtil.getTagAsInteger(element, "releasedate", 4);
 			game.manufacturers = new TreeSet<String>();
 
-			String manufacturer = XMLUtil.getTagAsString(element, "developer");
+			String manufacturer = XMLUtil.getTagAsString(element, "developer", 0);
 			if (StringUtils.startsWith(manufacturer, "Data East")) {
 				game.manufacturers.add("Data East");
 			}
-			manufacturer = XMLUtil.getTagAsString(element, "publisher");
+			manufacturer = XMLUtil.getTagAsString(element, "publisher", 0);
 			if (StringUtils.startsWith(manufacturer, "Data East")) {
 				game.manufacturers.add("Data East");
 			}
-			game.description = GameUtil.pretify(XMLUtil.getTagAsString(element, "desc"));
+			game.description = GameUtil.pretify(XMLUtil.getTagAsString(element, "desc", 0));
 
 			// genre
 			game.genre = new TreeSet<String>();
-			String genreString = XMLUtil.getTagAsString(element, "genre");
+			String genreString = XMLUtil.getTagAsString(element, "genre", 0);
 			if (genreString != null) {
 				genreString = genreString.toLowerCase();
 				genreString = genreString.replaceAll("plateform", "platform");
@@ -101,28 +101,11 @@ public class A_RunVManGameLoad {
 				}
 			}
 
-			// players
-			game.players = new TreeSet<Integer>();
-			String[] playerArray = XMLUtil.getTagAsStringArray(element, "players", "-");
-			if (playerArray != null) {
-				if (playerArray.length == 1) {
-					game.players.add(Integer.parseInt(playerArray[0]));
-				} else if (playerArray.length == 2) {
-					for (int i = Integer.parseInt(playerArray[0]); i <= Integer.parseInt(playerArray[1]); i++) {
-						game.players.add(i);
-					}
-				} else {
-					throw new Exception("unexpected players " + XMLUtil.getTagAsString(element, "players"));
-				}
-			} else {
-				game.players.add(1);
-			}
-
 			String collection = GeneralUtil.alphanumerify(extraTagValues.get(1));
 			game.collections = new TreeSet<String>();
 			game.collections.add(collection);
 
-			game.hide = XMLUtil.getTagAsBoolean(element, "hide");
+			game.hide = XMLUtil.getTagAsBoolean(element, "hide", 0);
 
 			return game;
 		}
