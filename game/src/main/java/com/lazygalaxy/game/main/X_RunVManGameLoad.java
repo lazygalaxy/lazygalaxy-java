@@ -1,5 +1,6 @@
 package com.lazygalaxy.game.main;
 
+import java.util.Arrays;
 import java.util.List;
 import java.util.TreeSet;
 
@@ -18,8 +19,8 @@ import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.merge.GameMerge;
 import com.lazygalaxy.game.util.GameUtil;
 
-public class A_RunVManGameLoad {
-	private static final Logger LOGGER = LogManager.getLogger(A_RunVManGameLoad.class);
+public class X_RunVManGameLoad {
+	private static final Logger LOGGER = LogManager.getLogger(X_RunVManGameLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {
@@ -44,32 +45,30 @@ public class A_RunVManGameLoad {
 		}
 
 		@Override
-		protected Game getMongoDocument(Element element, List<String> extraTagValues) throws Exception {
+		protected List<Game> getMongoDocument(Element element, List<String> extraTagValues) throws Exception {
 
 			String path = XMLUtil.getTagAsString(element, "path", 0);
-			String romId = GeneralUtil
-					.alphanumerify(StringUtils.substring(path, 0, StringUtils.lastIndexOf(path, ".")));
+			String rom = GeneralUtil.alphanumerify(StringUtils.substring(path, 0, StringUtils.lastIndexOf(path, ".")));
 			String systemId = GeneralUtil.alphanumerify(extraTagValues.get(0));
 
 			String name = XMLUtil.getTagAsString(element, "name", 0);
 			name = GameUtil.pretify(name);
-			Game game = new Game(romId + "_" + systemId, name);
+			Game game = new Game(rom + "_" + systemId, name);
 
-			game.addLabel(romId);
+			game.addLabel(rom);
 
 			String image = XMLUtil.getTagAsString(element, "image", 0);
 			if (image != null) {
-				String alternativeId = StringUtils.substring(image, 0, StringUtils.lastIndexOf(image, "."));
-				alternativeId = StringUtils.substring(alternativeId, StringUtils.lastIndexOf(alternativeId, "/") + 1,
-						alternativeId.length());
+				String romOf = StringUtils.substring(image, 0, StringUtils.lastIndexOf(image, "."));
+				romOf = StringUtils.substring(romOf, StringUtils.lastIndexOf(romOf, "/") + 1, romOf.length());
 
-				if (!StringUtils.equals(alternativeId, romId)) {
-					game.addLabel(alternativeId);
-					game.alternativeId = alternativeId;
+				if (!StringUtils.equals(romOf, rom)) {
+					game.addLabel(romOf);
+					game.romOf = romOf;
 				}
 			}
 
-			game.romId = romId;
+			game.rom = rom;
 			game.systemId = systemId;
 			game.year = XMLUtil.getTagAsInteger(element, "releasedate", 4);
 			game.manufacturers = new TreeSet<String>();
@@ -107,7 +106,7 @@ public class A_RunVManGameLoad {
 
 			game.hide = XMLUtil.getTagAsBoolean(element, "hide", 0);
 
-			return game;
+			return Arrays.asList(game);
 		}
 	}
 }

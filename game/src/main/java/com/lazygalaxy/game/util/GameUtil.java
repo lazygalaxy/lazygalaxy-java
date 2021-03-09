@@ -55,9 +55,11 @@ public class GameUtil {
 			return null;
 		} else if (games.size() > 1) {
 			int unhiddenCounter = 0;
+			String ids = "";
 			for (Game game : games) {
 				if (game.hide == null || !game.hide) {
 					unhiddenCounter += 1;
+					ids += " " + game.id;
 				}
 			}
 
@@ -65,7 +67,7 @@ public class GameUtil {
 				// all good
 			} else {
 				if (multipleGamesFound) {
-					LOGGER.warn("multiple games found: " + identifier);
+					LOGGER.warn("multiple games found: " + identifier + " with ids" + ids);
 				}
 				return null;
 			}

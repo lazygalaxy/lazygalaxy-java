@@ -16,7 +16,10 @@ public class GeneralUtil {
 	}
 
 	public static String numerify(String str, String other, String replacement) {
-		return str.toLowerCase().replaceAll("[^0-9" + other + "]", replacement);
+		if (str != null) {
+			return str.toLowerCase().replaceAll("[^0-9" + other + "]", replacement);
+		}
+		return null;
 	}
 
 	public static String alphify(String str) {

@@ -13,9 +13,13 @@ public class Game extends MongoDocument {
 
 	// derived from master mame file
 	public String rom;
+	public String sourceFile;
+	public Set<String> clones;
 	public String romOf;
+
 	public String systemId;
 	public Integer year;
+	public String status;
 	public Set<String> manufacturers;
 	public Boolean isVeritcal;
 	public Integer players;
@@ -24,17 +28,10 @@ public class Game extends MongoDocument {
 	public Integer buttons;
 
 	// derived from other sources
-	public String romId;
-	public String alternativeId;
-
 	public String description;
-
 	public Set<String> genre;
-
 	public Set<String> collections;
-
 	public String genreLabel;
-
 	public Double rating;
 	public Boolean hide;
 

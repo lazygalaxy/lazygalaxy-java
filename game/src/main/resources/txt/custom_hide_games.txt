@@ -1,4 +1,3 @@
-xmen2pe
-tmnt22p
-galagamf
-simpsons2pj
+cfrogger
+pbobblen
+tetris

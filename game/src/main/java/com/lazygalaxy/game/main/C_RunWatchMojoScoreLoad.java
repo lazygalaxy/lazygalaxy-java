@@ -49,7 +49,7 @@ public class C_RunWatchMojoScoreLoad {
 				for (Game game : games) {
 					Scores scores = new Scores(game.id);
 					// (max*2) - 1
-					scores.watchMojo = (int) Math.round(((47 - rating) / 46.0) * 100.0);
+					scores.watchMojo = (int) Math.round(((46 - rating) / 45.0) * 100.0);
 					scoresList.add(scores);
 				}
 

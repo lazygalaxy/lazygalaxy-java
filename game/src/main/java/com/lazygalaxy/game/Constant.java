@@ -14,10 +14,10 @@ public class Constant {
 		public static String SPORT = "sport";
 	}
 
-	public static class System {
+	public static class GameSystem {
 		public static String ARCADE = "arcade";
-		public static String ATOMISWAVE = "atomiswave";
 		public static String NAOMI = "naomi";
 		public static String NEOGEO = "neogeo";
+		public static String PLAYCHOICE10 = "playchoice10";
 	}
 }

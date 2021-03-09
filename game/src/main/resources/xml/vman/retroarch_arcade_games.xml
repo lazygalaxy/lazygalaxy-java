@@ -294,7 +294,7 @@ In 2020 Super Baseball is a fast-paced game with new rules, where you can select
 		<image>./mixart/2020bb.png</image>
 		<video>./snap/2020bb.mp4</video>
 		<marquee>./wheel/2020bb.png</marquee>
-		<rating>0.6</rating>
+		<rating>0.8</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Pallas</developer>
 		<publisher>SNK</publisher>
@@ -1267,7 +1267,7 @@ As with "Smash TV", Total Carnage features the infamous 'Pleasuredome'; accessib
 		<path>./mvsc2.zip</path>
 		<name>Marvel vs. Capcom 2: New Age of Heroes</name>
 		<desc>The best of the best are back! Fight with 28 characters and unlock 28 extra fighters on 3 on 3 tag battles. Learn to master the new 'Delayed hyper combo system' to combine your 3 characters hyper moves and defeat the mighty Abyss.</desc>
-		<rating>0</rating>
+		<rating>1.0</rating>
 		<releasedate>20000301T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -24904,10 +24904,6 @@ As one of three Ninja Commandos, you must fight your opponents through different
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./cthd2003.zip</path>
-		<name>Crouching Tiger Hidden Dragon 2003 (The King of Fighters 2001 bootleg)</name>
-	</game>
-	<game>
 		<path>./blkhole.zip</path>
 		<name>Black Hole</name>
 		<desc>Black Hole is a space-themed shoot'em up. The point of the game is to shoot all of the terrain, go through the "point ships" for extra points, and finally shoot the moving figure on top of everything.</desc>
@@ -26796,7 +26792,7 @@ Boogie Wings features highly detailed and completely destructible scenery, with 
 		<image>./mixart/irrmaze.png</image>
 		<video>./snap/irrmaze.mp4</video>
 		<marquee>./wheel/irrmaze.png</marquee>
-		<rating>0.7</rating>
+		<rating>0.8</rating>
 		<releasedate>19970101T000000</releasedate>
 		<developer>Saurus</developer>
 		<publisher>SNK</publisher>

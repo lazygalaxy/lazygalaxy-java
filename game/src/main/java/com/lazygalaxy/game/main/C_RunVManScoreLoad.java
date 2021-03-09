@@ -1,5 +1,6 @@
 package com.lazygalaxy.game.main;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
@@ -8,13 +9,13 @@ import org.apache.logging.log4j.Logger;
 import org.w3c.dom.Element;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
-import com.lazygalaxy.engine.helper.MongoHelper;
 import com.lazygalaxy.engine.load.XMLLoad;
 import com.lazygalaxy.engine.merge.FieldMerge;
-import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.engine.util.XMLUtil;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.Scores;
+import com.lazygalaxy.game.util.GameUtil;
+import com.mongodb.client.model.Filters;
 
 public class C_RunVManScoreLoad {
 
@@ -41,25 +42,35 @@ public class C_RunVManScoreLoad {
 		}
 
 		@Override
-		protected Scores getMongoDocument(Element element, List<String> extraTagValues) throws Exception {
+		protected List<Scores> getMongoDocument(Element element, List<String> extraTagValues) throws Exception {
 			String path = XMLUtil.getTagAsString(element, "path", 0);
-			String romId = StringUtils.substring(path, 0, StringUtils.lastIndexOf(path, "."));
-			String systemId = GeneralUtil.alphanumerify(extraTagValues.get(0));
+			String rom = StringUtils.substring(path, 0, StringUtils.lastIndexOf(path, "."));
+			rom = StringUtils.substring(rom, StringUtils.lastIndexOf(rom, "/") + 1, rom.length());
 
+			String image = XMLUtil.getTagAsString(element, "image", 0);
+			String romOf = null;
+			if (image != null) {
+				romOf = StringUtils.substring(image, 0, StringUtils.lastIndexOf(image, "."));
+				romOf = StringUtils.substring(romOf, StringUtils.lastIndexOf(romOf, "/") + 1, romOf.length());
+			}
 			Double rating = XMLUtil.getTagAsDouble(element, "rating", 0);
 			if (rating == null) {
 				rating = 0.0;
 			}
-			String id = romId + "_" + systemId;
 
-			Game game = MongoHelper.getHelper(Game.class).getDocumentById(id);
-			if (game == null) {
-				throw new Exception("game not found: " + id);
+			List<Game> games = GameUtil.getGames(true, true, rom + " " + romOf, Filters.or(Filters.in("rom", rom),
+					Filters.in("rom", romOf), Filters.in("romOf", rom), Filters.in("romOf", romOf)));
+			if (games != null) {
+				List<Scores> scoresList = new ArrayList<Scores>();
+				for (Game game : games) {
+					Scores scores = new Scores(game.id);
+					scores.vman = (int) Math.round(rating * 100.0);
+					scoresList.add(scores);
+				}
+
+				return scoresList;
 			}
-
-			Scores scores = new Scores(game.id);
-			scores.vman = (int) Math.round(rating * 100.0);
-			return scores;
+			return null;
 		}
 	}
 

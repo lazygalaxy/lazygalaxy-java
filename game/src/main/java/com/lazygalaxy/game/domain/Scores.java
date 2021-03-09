@@ -8,6 +8,7 @@ public class Scores extends MongoDocument {
 	public Integer vman;
 	public Integer watchMojo;
 	public Integer antopisa;
+	public Integer lazygalaxy;
 
 	public Scores() {
 	}

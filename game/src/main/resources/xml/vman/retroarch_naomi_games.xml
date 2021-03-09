@@ -1116,7 +1116,7 @@
 		<image>./mixart/mvsc2.png</image>
 		<video>./snap/mvsc2.mp4</video>
 		<marquee>./wheel/mvsc2.png</marquee>
-		<rating>1</rating>
+		<rating>1.0</rating>
 		<releasedate>20000301T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>

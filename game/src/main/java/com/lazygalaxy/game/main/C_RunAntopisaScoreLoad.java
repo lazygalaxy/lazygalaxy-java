@@ -45,7 +45,8 @@ public class C_RunAntopisaScoreLoad {
 			if (lastScore != null) {
 				String rom = GeneralUtil.alphanumerify(line);
 
-				List<Game> games = GameUtil.getGames(false, true, rom, Filters.or(Filters.in("rom", rom)));
+				List<Game> games = GameUtil.getGames(true, true, rom,
+						Filters.or(Filters.eq("rom", rom), Filters.in("clones", rom)));
 
 				if (games != null) {
 					List<Scores> scoresList = new ArrayList<Scores>();

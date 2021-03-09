@@ -12,7 +12,7 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
 public class XMLUtil {
-	private static final List<String> TRUE_OPTIONS = Arrays.asList("true", "t", "yes");
+	private static final List<String> TRUE_OPTIONS = Arrays.asList("true", "t", "yes", "1");
 
 	private static NodeList getNodes(Element element, String tagName) {
 		NodeList nodeList = element.getElementsByTagName(tagName);
@@ -29,6 +29,17 @@ public class XMLUtil {
 			String text = node.getTextContent().trim();
 			if (!StringUtils.isBlank(text)) {
 				return text;
+			}
+		}
+		return null;
+	}
+
+	public static Boolean getAttributeAsBoolean(Node element, String attribute) {
+		Node node = element.getAttributes().getNamedItem(attribute);
+		if (node != null) {
+			String text = node.getTextContent().trim().toLowerCase();
+			if (!StringUtils.isBlank(text)) {
+				return TRUE_OPTIONS.contains(text);
 			}
 		}
 		return null;

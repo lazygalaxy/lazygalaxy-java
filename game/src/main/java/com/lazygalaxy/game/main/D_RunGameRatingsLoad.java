@@ -50,6 +50,10 @@ public class D_RunGameRatingsLoad {
 				game.rating += scores.antopisa;
 			}
 
+			if (scores.lazygalaxy != null) {
+				game.rating += scores.lazygalaxy;
+			}
+
 			return Arrays.asList(game);
 		}
 	}

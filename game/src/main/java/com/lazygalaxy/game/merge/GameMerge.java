@@ -36,7 +36,7 @@ public class GameMerge extends FieldMerge<Game> {
 			if (newDocument.genre.size() == 1) {
 				newDocument.genreLabel = Genre.SPORT + " > " + newDocument.genre.toArray()[0];
 			} else {
-				LOGGER.warn(newDocument.romId + " unexpected genre " + newDocument.genre);
+				LOGGER.warn(newDocument.rom + " unexpected genre " + newDocument.genre);
 			}
 			newDocument.genre.add(Genre.SPORT);
 		}
