@@ -25,6 +25,7 @@ public class A_RunMameGameLoad {
 	public static void main(String[] args) throws Exception {
 		try {
 			Merge<Game> merge = new FieldMerge<Game>();
+
 			new MameGameLoad().load("xml/mame229.xml", "machine", merge);
 			LOGGER.info("game load completed!");
 
@@ -46,14 +47,12 @@ public class A_RunMameGameLoad {
 			String cloneOf = XMLUtil.getAttributeAsString(element, "cloneof");
 			Game game = null;
 			if (cloneOf == null) {
-				Boolean isMechanical = XMLUtil.getAttributeAsBoolean(element, "ismechanical");
 				Boolean isBios = XMLUtil.getAttributeAsBoolean(element, "isbios");
 				Integer rotate = XMLUtil.getTagAttributeAsInteger(element, "display", "rotate", 0);
 				boolean hasInput = XMLUtil.containsTag(element, "input");
 
 				// we only want to store high quality games with complete info
-				if ((isMechanical == null || !isMechanical) && (isBios == null || !isBios) && rotate != null
-						&& hasInput) {
+				if ((isBios == null || !isBios) && rotate != null && hasInput) {
 
 					Set<String> extraInfo = new TreeSet<>();
 					String prettyDescription = GameUtil.pretify(XMLUtil.getTagAsString(element, "description", 0),
@@ -66,6 +65,7 @@ public class A_RunMameGameLoad {
 
 					game.sourceFile = XMLUtil.getAttributeAsString(element, "sourcefile");
 					game.romOf = XMLUtil.getAttributeAsString(element, "romof");
+					game.isMechanical = XMLUtil.getAttributeAsBoolean(element, "ismechanical");
 
 					for (int i = 1; i < descriptionSplit.length; i++) {
 						extraInfo.add(descriptionSplit[i]);

@@ -11,6 +11,8 @@ import org.w3c.dom.Element;
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.XMLLoad;
 import com.lazygalaxy.engine.merge.FieldMerge;
+import com.lazygalaxy.engine.merge.Merge;
+import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.engine.util.XMLUtil;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.Scores;
@@ -23,21 +25,23 @@ public class C_RunVManScoreLoad {
 
 	public static void main(String[] args) throws Exception {
 		try {
-			new VManScoreLoad().load("xml/vman/retroarch_atomiswave_games.xml", "game", new FieldMerge<Scores>(),
-					"System");
-			new VManScoreLoad().load("xml/vman/retroarch_daphne_games.xml", "game", new FieldMerge<Scores>(), "System");
-			new VManScoreLoad().load("xml/vman/retroarch_arcade_games.xml", "game", new FieldMerge<Scores>(), "System");
-			new VManScoreLoad().load("xml/vman/retroarch_naomi_games.xml", "game", new FieldMerge<Scores>(), "System");
-			new VManScoreLoad().load("xml/vman/retroarch_neogeo_games.xml", "game", new FieldMerge<Scores>(), "System");
+			Merge<Scores> merge = new FieldMerge<Scores>();
+
+			new VManExtensiveScoreLoad().load("xml/vman/retroarch_atomiswave_games.xml", "game",
+					new FieldMerge<Scores>(), "System");
+			new VManExtensiveScoreLoad().load("xml/vman/retroarch_daphne_games.xml", "game", merge, "System");
+			new VManExtensiveScoreLoad().load("xml/vman/retroarch_arcade_games.xml", "game", merge, "System");
+			new VManExtensiveScoreLoad().load("xml/vman/retroarch_naomi_games.xml", "game", merge, "System");
+			new VManExtensiveScoreLoad().load("xml/vman/retroarch_neogeo_games.xml", "game", merge, "System");
 			LOGGER.info("xml load completed!");
 		} finally {
 			MongoConnectionHelper.INSTANCE.close();
 		}
 	}
 
-	private static class VManScoreLoad extends XMLLoad<Scores> {
+	private static class VManExtensiveScoreLoad extends XMLLoad<Scores> {
 
-		public VManScoreLoad() throws Exception {
+		public VManExtensiveScoreLoad() throws Exception {
 			super(Scores.class);
 		}
 
@@ -54,14 +58,23 @@ public class C_RunVManScoreLoad {
 				alternativeRom = StringUtils.substring(alternativeRom, StringUtils.lastIndexOf(alternativeRom, "/") + 1,
 						alternativeRom.length());
 			}
+			String name = GeneralUtil.alphanumerify(GameUtil.pretify(XMLUtil.getTagAsString(element, "name", 0)));
+			String year = StringUtils.left(XMLUtil.getTagAsString(element, "releasedate", 0), 4);
+
 			Double rating = XMLUtil.getTagAsDouble(element, "rating", 0);
 			if (rating == null) {
 				rating = 0.0;
 			}
 
-			List<Game> games = GameUtil.getGames(true, true, rom + " " + alternativeRom,
-					Filters.or(Filters.eq("rom", rom), Filters.eq("rom", alternativeRom), Filters.in("clones", rom),
-							Filters.in("clones", alternativeRom)));
+			List<Game> games = GameUtil.getGames(false, false, name + " " + year,
+					Filters.and(Filters.in("labels", name), Filters.eq("year", year)));
+
+			if (games == null) {
+				games = GameUtil.getGames(true, true, rom + " " + alternativeRom,
+						Filters.or(Filters.eq("rom", rom), Filters.eq("rom", alternativeRom), Filters.in("clones", rom),
+								Filters.in("clones", alternativeRom)));
+			}
+
 			if (games != null) {
 				List<Scores> scoresList = new ArrayList<Scores>();
 				for (Game game : games) {

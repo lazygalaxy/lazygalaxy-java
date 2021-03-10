@@ -9,6 +9,7 @@ import org.apache.logging.log4j.Logger;
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.TextFileLoad;
 import com.lazygalaxy.engine.merge.FieldMerge;
+import com.lazygalaxy.engine.merge.Merge;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.Scores;
@@ -21,7 +22,9 @@ public class C_RunAntopisaScoreLoad {
 
 	public static void main(String[] args) throws Exception {
 		try {
-			new AntopisaScoreLoad().load("txt/antopisa_score.ini", 8, new FieldMerge<Scores>());
+			Merge<Scores> merge = new FieldMerge<Scores>();
+
+			new AntopisaScoreLoad().load("txt/antopisa_score.ini", 8, merge);
 			LOGGER.info("xml load completed!");
 		} finally {
 			MongoConnectionHelper.INSTANCE.close();
@@ -41,8 +44,7 @@ public class C_RunAntopisaScoreLoad {
 			String[] tokens = GeneralUtil.split(line, " ");
 			if (tokens.length >= 4) {
 				lastScore = Integer.parseInt(tokens[2]);
-			}
-			if (lastScore != null) {
+			} else if (lastScore != null) {
 				String rom = GeneralUtil.alphanumerify(line);
 
 				List<Game> games = GameUtil.getGames(true, true, rom,

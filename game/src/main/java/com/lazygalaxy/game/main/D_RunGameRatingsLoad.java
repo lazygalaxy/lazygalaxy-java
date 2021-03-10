@@ -19,6 +19,7 @@ public class D_RunGameRatingsLoad {
 	public static void main(String[] args) throws Exception {
 		try {
 			Merge<Game> merge = new FieldMerge<Game>();
+
 			new GameRatingsLoad().load(merge);
 			LOGGER.info("xml load completed!");
 		} finally {

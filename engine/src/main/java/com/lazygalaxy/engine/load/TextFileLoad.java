@@ -5,6 +5,7 @@ import java.nio.file.Paths;
 import java.util.List;
 import java.util.stream.Stream;
 
+import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -28,12 +29,13 @@ public abstract class TextFileLoad<T extends MongoDocument> {
 	public void load(String file, long skipLines, Merge<T> merge) throws Exception {
 		Stream<String> lines = Files.lines(Paths.get(ClassLoader.getSystemResource(file).toURI())).skip(skipLines);
 		lines.forEach(s -> {
-
 			try {
-				List<T> documents = getMongoDocument(s);
-				if (documents != null) {
-					for (T document : documents) {
-						helper.upsert(document, merge);
+				if (!StringUtils.isBlank(s)) {
+					List<T> documents = getMongoDocument(s);
+					if (documents != null) {
+						for (T document : documents) {
+							helper.upsert(document, merge);
+						}
 					}
 				}
 			} catch (Exception e) {

@@ -37,7 +37,6 @@ public class GameUtil {
 
 			result = result.replaceAll("\n", " ");
 			result = result.replaceAll("\r", " ");
-			result = result.replaceAll("'", "");
 			result = result.replaceAll("\\.", ". ");
 			result = result.replaceAll("&amp;", "&");
 

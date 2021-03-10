@@ -3,7 +3,6 @@ package com.lazygalaxy.game.main;
 import java.util.Arrays;
 import java.util.List;
 
-import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -75,12 +74,21 @@ public class B_RunEnrichGameLoad {
 				break;
 			case "playch10.cpp":
 				game.systemId = GameSystem.PLAYCHOICE10;
+				game.hide = true;
+				break;
+			case "megatech.cpp":
+				game.systemId = GameSystem.MEGATECH;
+				game.hide = true;
+				break;
+			case "cedar_magnet.cpp":
+				game.systemId = GameSystem.MAGNETSYSTEM;
+				game.hide = true;
 				break;
 			default:
 				game.systemId = GameSystem.ARCADE;
 			}
 
-			if (StringUtils.equals(game.systemId, GameSystem.PLAYCHOICE10)) {
+			if (game.isMechanical != null && game.isMechanical) {
 				game.hide = true;
 			}
 			return Arrays.asList(game);

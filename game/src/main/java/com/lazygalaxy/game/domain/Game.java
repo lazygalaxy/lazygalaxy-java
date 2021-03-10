@@ -16,6 +16,7 @@ public class Game extends MongoDocument {
 	public String sourceFile;
 	public Set<String> clones;
 	public String romOf;
+	public Boolean isMechanical;
 	public Set<String> extraInfo;
 
 	public String year;

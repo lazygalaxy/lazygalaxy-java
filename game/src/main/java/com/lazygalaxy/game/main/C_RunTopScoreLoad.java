@@ -24,6 +24,7 @@ public class C_RunTopScoreLoad {
 	public static void main(String[] args) throws Exception {
 		try {
 			Merge<Scores> merge = new FieldMerge<Scores>();
+
 			new WatchMojoScoreLoad().load("csv/watchmojo_score.csv", 0, merge);
 			LOGGER.info("watch mojo load completed!");
 
