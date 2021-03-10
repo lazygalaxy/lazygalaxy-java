@@ -17,27 +17,26 @@ import com.lazygalaxy.game.Constant.GameSystem;
 import com.lazygalaxy.game.domain.Game;
 import com.mongodb.client.model.Filters;
 
-public class B_RunHideGameLoad {
-	private static final Logger LOGGER = LogManager.getLogger(B_RunHideGameLoad.class);
+public class B_RunEnrichGameLoad {
+	private static final Logger LOGGER = LogManager.getLogger(B_RunEnrichGameLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {
 			Merge<Game> merge = new FieldMerge<Game>();
 
-			new CustomHideGameLoad().load("txt/custom_hide_games.txt", 0, merge);
-			LOGGER.info("hiding custom completed!");
+			new DerivedEnrichGameLoad().load(merge);
+			LOGGER.info("derived enrich completed!");
 
-			new SystemHideGameLoad().load(merge);
-			LOGGER.info("hiding system completed!");
-
+			new CustomEnrichGameLoad().load("txt/custom_hide_games.txt", 0, merge);
+			LOGGER.info("custom enrich completed!");
 		} finally {
 			MongoConnectionHelper.INSTANCE.close();
 		}
 	}
 
-	private static class CustomHideGameLoad extends TextFileLoad<Game> {
+	private static class CustomEnrichGameLoad extends TextFileLoad<Game> {
 
-		public CustomHideGameLoad() throws Exception {
+		public CustomEnrichGameLoad() throws Exception {
 			super(Game.class);
 		}
 
@@ -59,19 +58,32 @@ public class B_RunHideGameLoad {
 		}
 	}
 
-	private static class SystemHideGameLoad extends MongoLoad<Game, Game> {
+	private static class DerivedEnrichGameLoad extends MongoLoad<Game, Game> {
 
-		public SystemHideGameLoad() throws Exception {
+		public DerivedEnrichGameLoad() throws Exception {
 			super(Game.class, Game.class);
 		}
 
 		@Override
 		protected List<Game> getMongoDocument(Game game) throws Exception {
+			switch (game.sourceFile) {
+			case "naomi.cpp":
+				game.systemId = GameSystem.NAOMI;
+				break;
+			case "neogeo.cpp":
+				game.systemId = GameSystem.NEOGEO;
+				break;
+			case "playch10.cpp":
+				game.systemId = GameSystem.PLAYCHOICE10;
+				break;
+			default:
+				game.systemId = GameSystem.ARCADE;
+			}
+
 			if (StringUtils.equals(game.systemId, GameSystem.PLAYCHOICE10)) {
 				game.hide = true;
-				return Arrays.asList(game);
 			}
-			return null;
+			return Arrays.asList(game);
 		}
 	}
 }

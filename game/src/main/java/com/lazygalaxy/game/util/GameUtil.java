@@ -1,6 +1,7 @@
 package com.lazygalaxy.game.util;
 
 import java.util.List;
+import java.util.Set;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
@@ -14,14 +15,24 @@ public class GameUtil {
 	private static final Logger LOGGER = LogManager.getLogger(GameUtil.class);
 
 	public static String pretify(String str) {
+		return pretify(str, null);
+	}
+
+	public static String pretify(String str, Set<String> extraInfo) {
 		String result = str;
 		if (result != null) {
 			if (StringUtils.endsWith(result, ")")) {
-				result = StringUtils.substring(result, 0, result.lastIndexOf("(")).trim();
+				if (extraInfo != null) {
+					extraInfo.add(StringUtils.substring(result, result.indexOf("("), result.length()).trim());
+				}
+				result = StringUtils.substring(result, 0, result.indexOf("(")).trim();
 			}
 
 			if (StringUtils.endsWith(result, "]")) {
-				result = StringUtils.substring(result, 0, result.lastIndexOf("[")).trim();
+				if (extraInfo != null) {
+					extraInfo.add(StringUtils.substring(result, result.indexOf("["), result.length()).trim());
+				}
+				result = StringUtils.substring(result, 0, result.indexOf("[")).trim();
 			}
 
 			result = result.replaceAll("\n", " ");

@@ -1302,7 +1302,7 @@ After Burner's straightforward shoot-em-up gameplay is simple and repetitive, bu
 		<image>./mixart/aburner2.png</image>
 		<video>./snap/aburner2.mp4</video>
 		<marquee>./wheel/aburner2.png</marquee>
-		<rating>0.7</rating>
+		<rating>0.8</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
@@ -9457,7 +9457,7 @@ While in no way original (drawing most of its inspiration from Capcom's "Final F
 		<image>./mixart/kengo.png</image>
 		<video>./snap/kengo.mp4</video>
 		<marquee>./wheel/kengo.png</marquee>
-		<rating>0</rating>
+		<rating>0.6</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Irem</developer>
 		<publisher>Irem</publisher>
@@ -13170,7 +13170,7 @@ The controls change when wielding a weapon; the knife is thrown by pressing the 
 		<image>./mixart/pacman.png</image>
 		<video>./snap/pacman.mp4</video>
 		<marquee>./wheel/pacman.png</marquee>
-		<rating>0.8</rating>
+		<rating>0.9</rating>
 		<releasedate>19810101T000000</releasedate>
 		<developer>Coleco</developer>
 		<publisher>Coleco</publisher>
@@ -21661,7 +21661,7 @@ When you reach the end of each level, a boss appears and has to be defeated to u
 		<image>./mixart/wcbowl.png</image>
 		<video>./snap/wcbowl.mp4</video>
 		<marquee>./wheel/wcbowl.png</marquee>
-		<rating>0.8</rating>
+		<rating>0.75</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Incredible Technologies</developer>
 		<publisher>Incredible Technologies</publisher>
@@ -21677,7 +21677,7 @@ When you reach the end of each level, a boss appears and has to be defeated to u
 		<image>./mixart/wcbowldx.png</image>
 		<video>./snap/wcbowldx.mp4</video>
 		<marquee>./wheel/wcbowldx.png</marquee>
-		<rating>0.7</rating>
+		<rating>0.75</rating>
 		<releasedate>19990101T000000</releasedate>
 		<developer>Incredible Technologies</developer>
 		<publisher>Incredible Technologies</publisher>
@@ -21705,7 +21705,7 @@ When you reach the end of each level, a boss appears and has to be defeated to u
 		<image>./mixart/wgp.png</image>
 		<video>./snap/wgp.mp4</video>
 		<marquee>./wheel/wgp.png</marquee>
-		<rating>0</rating>
+		<rating>0.7</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Taito</developer>
 		<publisher>Taito</publisher>
@@ -27827,7 +27827,7 @@ A map on the right side of the screen shows remaining flags through yellow squar
     <path>./aburner.zip</path>
     <name>After Burner</name>
     <desc>After Burner is another 3-D Sega game rendered with their superb sprite-scaling technology; this time putting the player into the seat of a powerful jet fighter.    A number of colorful, fast-moving environments await the player, as he or she takes on the hordes of enemy planes intent on the player's destruction.</desc>
-    <rating>0.8</rating>
+    <rating>0.85</rating>
     <releasedate>19870101T000000</releasedate>
     <developer>Yu Suzuki</developer>
     <publisher>Sega</publisher>

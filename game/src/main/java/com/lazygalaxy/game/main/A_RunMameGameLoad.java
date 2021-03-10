@@ -2,9 +2,9 @@ package com.lazygalaxy.game.main;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.Set;
 import java.util.TreeSet;
 
-import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.w3c.dom.Element;
@@ -16,7 +16,6 @@ import com.lazygalaxy.engine.merge.FieldMerge;
 import com.lazygalaxy.engine.merge.Merge;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.engine.util.XMLUtil;
-import com.lazygalaxy.game.Constant.GameSystem;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.util.GameUtil;
 
@@ -27,6 +26,7 @@ public class A_RunMameGameLoad {
 		try {
 			Merge<Game> merge = new FieldMerge<Game>();
 			new MameGameLoad().load("xml/mame229.xml", "machine", merge);
+			LOGGER.info("game load completed!");
 
 		} finally {
 			MongoConnectionHelper.INSTANCE.close();
@@ -48,7 +48,6 @@ public class A_RunMameGameLoad {
 			if (cloneOf == null) {
 				Boolean isMechanical = XMLUtil.getAttributeAsBoolean(element, "ismechanical");
 				Boolean isBios = XMLUtil.getAttributeAsBoolean(element, "isbios");
-				String year = GeneralUtil.numerify(XMLUtil.getTagAsString(element, "year", 0));
 				Integer rotate = XMLUtil.getTagAttributeAsInteger(element, "display", "rotate", 0);
 				boolean hasInput = XMLUtil.containsTag(element, "input");
 
@@ -56,31 +55,27 @@ public class A_RunMameGameLoad {
 				if ((isMechanical == null || !isMechanical) && (isBios == null || !isBios) && rotate != null
 						&& hasInput) {
 
-					String name = GeneralUtil
-							.split(GameUtil.pretify(XMLUtil.getTagAsString(element, "description").get(0)), "/")[0];
-					game = new Game(rom + "_mame", name);
+					Set<String> extraInfo = new TreeSet<>();
+					String prettyDescription = GameUtil.pretify(XMLUtil.getTagAsString(element, "description", 0),
+							extraInfo);
+					String[] descriptionSplit = GeneralUtil.split(prettyDescription, "/");
+
+					game = new Game(rom + "_mame", GameUtil.pretify(descriptionSplit[0], extraInfo));
 					game.addLabel(rom);
 					game.rom = rom;
+
 					game.sourceFile = XMLUtil.getAttributeAsString(element, "sourcefile");
 					game.romOf = XMLUtil.getAttributeAsString(element, "romof");
 
-					switch (game.sourceFile) {
-					case "naomi.cpp":
-						game.systemId = GameSystem.NAOMI;
-						break;
-					case "neogeo.cpp":
-						game.systemId = GameSystem.NEOGEO;
-						break;
-					case "playch10.cpp":
-						game.systemId = GameSystem.PLAYCHOICE10;
-						break;
-					default:
-						game.systemId = GameSystem.ARCADE;
+					for (int i = 1; i < descriptionSplit.length; i++) {
+						extraInfo.add(descriptionSplit[i]);
+					}
+					if (!extraInfo.isEmpty()) {
+						game.extraInfo = new TreeSet<String>();
+						game.extraInfo.addAll(extraInfo);
 					}
 
-					if (StringUtils.length(year) == 4) {
-						game.year = Integer.parseInt(year);
-					}
+					game.year = XMLUtil.getTagAsString(element, "year", 0);
 					game.status = XMLUtil.getTagAttributeAsString(element, "driver", "status", 0);
 					game.manufacturers = XMLUtil.getTagAsStringSet(element, "manufacturer", "/");
 
@@ -94,6 +89,7 @@ public class A_RunMameGameLoad {
 					game.coins = XMLUtil.getTagAttributeAsInteger(element, "input", "coins", 0);
 					game.input = XMLUtil.getTagAttributeAsStringSet(element, "control", "type");
 					game.buttons = XMLUtil.getTagAttributeAsInteger(element, "control", "buttons", 0);
+					return Arrays.asList(game);
 				}
 			} else {
 				game = MongoHelper.getHelper(Game.class).getDocumentById(cloneOf + "_mame");
@@ -101,12 +97,11 @@ public class A_RunMameGameLoad {
 					if (game.clones == null) {
 						game.clones = new TreeSet<String>();
 					}
-					game.clones.add(rom);
+					if (!game.clones.contains(rom)) {
+						game.clones.add(rom);
+						return Arrays.asList(game);
+					}
 				}
-			}
-
-			if (game != null) {
-				return Arrays.asList(game);
 			}
 
 			return null;

@@ -70,7 +70,7 @@ public class X_RunVManGameLoad {
 
 			game.rom = rom;
 			game.systemId = systemId;
-			game.year = XMLUtil.getTagAsInteger(element, "releasedate", 4);
+			game.year = XMLUtil.getTagAsString(element, "releasedate", 0);
 			game.manufacturers = new TreeSet<String>();
 
 			String manufacturer = XMLUtil.getTagAsString(element, "developer", 0);

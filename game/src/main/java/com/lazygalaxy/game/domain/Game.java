@@ -11,14 +11,14 @@ public class Game extends MongoDocument {
 	public static final String DATABASE = "game";
 	public static final String[] EMPTY_LIST = new String[0];
 
-	// derived from master mame file
+	// master mame file
 	public String rom;
 	public String sourceFile;
 	public Set<String> clones;
 	public String romOf;
+	public Set<String> extraInfo;
 
-	public String systemId;
-	public Integer year;
+	public String year;
 	public String status;
 	public Set<String> manufacturers;
 	public Boolean isVeritcal;
@@ -27,7 +27,10 @@ public class Game extends MongoDocument {
 	public Set<String> input;
 	public Integer buttons;
 
-	// derived from other sources
+	// derived from master mame file
+	public String systemId;
+
+	// enriched from other sources
 	public String description;
 	public Set<String> genre;
 	public Set<String> collections;

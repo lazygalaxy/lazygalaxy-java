@@ -1,5 +1,5 @@
 atetris
-bubblebobl
+bublbobl
 ddragon
 dkong
 frogger

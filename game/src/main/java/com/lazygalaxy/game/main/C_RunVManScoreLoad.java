@@ -48,18 +48,20 @@ public class C_RunVManScoreLoad {
 			rom = StringUtils.substring(rom, StringUtils.lastIndexOf(rom, "/") + 1, rom.length());
 
 			String image = XMLUtil.getTagAsString(element, "image", 0);
-			String romOf = null;
+			String alternativeRom = null;
 			if (image != null) {
-				romOf = StringUtils.substring(image, 0, StringUtils.lastIndexOf(image, "."));
-				romOf = StringUtils.substring(romOf, StringUtils.lastIndexOf(romOf, "/") + 1, romOf.length());
+				alternativeRom = StringUtils.substring(image, 0, StringUtils.lastIndexOf(image, "."));
+				alternativeRom = StringUtils.substring(alternativeRom, StringUtils.lastIndexOf(alternativeRom, "/") + 1,
+						alternativeRom.length());
 			}
 			Double rating = XMLUtil.getTagAsDouble(element, "rating", 0);
 			if (rating == null) {
 				rating = 0.0;
 			}
 
-			List<Game> games = GameUtil.getGames(true, true, rom + " " + romOf, Filters.or(Filters.in("rom", rom),
-					Filters.in("rom", romOf), Filters.in("romOf", rom), Filters.in("romOf", romOf)));
+			List<Game> games = GameUtil.getGames(true, true, rom + " " + alternativeRom,
+					Filters.or(Filters.eq("rom", rom), Filters.eq("rom", alternativeRom), Filters.in("clones", rom),
+							Filters.in("clones", alternativeRom)));
 			if (games != null) {
 				List<Scores> scoresList = new ArrayList<Scores>();
 				for (Game game : games) {
