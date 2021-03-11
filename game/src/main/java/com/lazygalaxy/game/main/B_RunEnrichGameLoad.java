@@ -12,6 +12,7 @@ import com.lazygalaxy.engine.load.MongoLoad;
 import com.lazygalaxy.engine.load.TextFileLoad;
 import com.lazygalaxy.engine.merge.FieldMerge;
 import com.lazygalaxy.engine.merge.Merge;
+import com.lazygalaxy.game.Collection;
 import com.lazygalaxy.game.Constant.GameSystem;
 import com.lazygalaxy.game.domain.Game;
 import com.mongodb.client.model.Filters;
@@ -91,6 +92,9 @@ public class B_RunEnrichGameLoad {
 			if (game.isMechanical != null && game.isMechanical) {
 				game.hide = true;
 			}
+
+			game.collections = Collection.get(game);
+
 			return Arrays.asList(game);
 		}
 	}
