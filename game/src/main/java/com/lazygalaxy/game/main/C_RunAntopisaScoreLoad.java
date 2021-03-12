@@ -40,13 +40,11 @@ public class C_RunAntopisaScoreLoad {
 		}
 
 		@Override
-		protected List<Scores> getMongoDocument(String line) throws Exception {
-			String[] tokens = GeneralUtil.split(line, " ");
+		protected List<Scores> getMongoDocument(String rom) throws Exception {
+			String[] tokens = GeneralUtil.split(rom, " ");
 			if (tokens.length >= 4) {
 				lastScore = Integer.parseInt(tokens[2]);
 			} else if (lastScore != null) {
-				String rom = GeneralUtil.alphanumerify(line);
-
 				List<Game> games = GameUtil.getGames(true, true, rom,
 						Filters.or(Filters.eq("rom", rom), Filters.in("clones", rom)));
 

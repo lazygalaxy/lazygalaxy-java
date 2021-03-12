@@ -21,14 +21,14 @@ public class GameUtil {
 	public static String pretify(String str, Set<String> extraInfo) {
 		String result = str;
 		if (result != null) {
-			if (StringUtils.endsWith(result, ")")) {
+			if (StringUtils.contains(result, ")")) {
 				if (extraInfo != null) {
 					extraInfo.add(StringUtils.substring(result, result.indexOf("("), result.length()).trim());
 				}
 				result = StringUtils.substring(result, 0, result.indexOf("(")).trim();
 			}
 
-			if (StringUtils.endsWith(result, "]")) {
+			if (StringUtils.contains(result, "]")) {
 				if (extraInfo != null) {
 					extraInfo.add(StringUtils.substring(result, result.indexOf("["), result.length()).trim());
 				}

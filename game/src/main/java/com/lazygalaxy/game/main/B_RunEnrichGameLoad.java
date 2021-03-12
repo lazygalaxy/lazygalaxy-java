@@ -67,22 +67,26 @@ public class B_RunEnrichGameLoad {
 		@Override
 		protected List<Game> getMongoDocument(Game game) throws Exception {
 			switch (game.sourceFile) {
-			case "naomi.cpp":
-				game.systemId = GameSystem.NAOMI;
-				break;
-			case "neogeo.cpp":
-				game.systemId = GameSystem.NEOGEO;
-				break;
-			case "playch10.cpp":
-				game.systemId = GameSystem.PLAYCHOICE10;
+			case "cedar_magnet.cpp":
+				game.systemId = GameSystem.MAGNETSYSTEM;
 				game.hide = true;
 				break;
 			case "megatech.cpp":
 				game.systemId = GameSystem.MEGATECH;
 				game.hide = true;
 				break;
-			case "cedar_magnet.cpp":
-				game.systemId = GameSystem.MAGNETSYSTEM;
+			case "naomi.cpp":
+				game.systemId = GameSystem.NAOMI;
+				break;
+			case "neogeo.cpp":
+				game.systemId = GameSystem.NEOGEO;
+				break;
+			case "neopcb.cpp":
+				game.systemId = GameSystem.NEOGEO;
+				game.hide = true;
+				break;
+			case "playch10.cpp":
+				game.systemId = GameSystem.PLAYCHOICE10;
 				game.hide = true;
 				break;
 			default:

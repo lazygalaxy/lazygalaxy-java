@@ -29,5 +29,14 @@ public class GameUtilTest extends TestCase {
 		assertEquals("Dungeons & Dragons: Shadow over Mystara",
 				GameUtil.pretify("Dungeons & Dragons -           Shadow over Mystara     [ USA]", extraInfo));
 		assertEquals("[ USA]", extraInfo.toArray()[0]);
+
+		extraInfo.clear();
+		assertEquals("Pong", GameUtil.pretify("Pong (Rev E) external [TTL]", extraInfo));
+		assertEquals("(Rev E) external [TTL]", extraInfo.toArray()[0]);
+
+		extraInfo.clear();
+		assertEquals("Pong", GameUtil.pretify("Pong [Rev E] external (TTL)", extraInfo));
+		assertEquals("(TTL)", extraInfo.toArray()[0]);
+		assertEquals("[Rev E] external", extraInfo.toArray()[1]);
 	}
 }

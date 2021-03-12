@@ -8,7 +8,7 @@ public class GeneralUtil {
 	}
 
 	public static String alphanumerify(String str, String other, String replacement) {
-		return StringUtils.stripAccents(str).toLowerCase().replaceAll("[^a-z0-9_" + other + "]", replacement);
+		return StringUtils.stripAccents(str).toLowerCase().replaceAll("[^a-z0-9" + other + "]", replacement);
 	}
 
 	public static String numerify(String str) {

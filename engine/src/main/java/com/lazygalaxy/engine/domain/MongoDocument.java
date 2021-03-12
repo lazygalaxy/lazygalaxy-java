@@ -37,7 +37,7 @@ public abstract class MongoDocument {
 
 	public MongoDocument(String id, String name, String[] labels) throws Exception {
 		if (!StringUtils.isBlank(id)) {
-			this.id = GeneralUtil.alphanumerify(id);
+			this.id = GeneralUtil.alphanumerify(id, "_", "");
 		} else {
 			this.id = UUID.randomUUID().toString();
 		}

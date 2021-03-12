@@ -30,12 +30,11 @@ public class Game extends MongoDocument {
 
 	// derived from master mame file
 	public String systemId;
+	public Set<String> collections;
 
 	// enriched from other sources
 	public String description;
-	public Set<String> genre;
-	public Set<String> collections;
-	public String genreLabel;
+	public Set<String> genres;
 	public Double rating;
 	public Boolean hide;
 
@@ -51,7 +50,7 @@ public class Game extends MongoDocument {
 	}
 
 	public void addGenre(String genre) {
-		this.genre.add(GeneralUtil.alphanumerify(genre));
+		this.genres.add(GeneralUtil.alphanumerify(genre));
 	}
 
 	@Override

@@ -60,7 +60,6 @@ public class A_RunMameGameLoad {
 					String[] descriptionSplit = GeneralUtil.split(prettyDescription, "/");
 
 					game = new Game(rom + "_mame", GameUtil.pretify(descriptionSplit[0], extraInfo));
-					game.addLabel(rom);
 					game.rom = rom;
 
 					game.sourceFile = XMLUtil.getAttributeAsString(element, "sourcefile");
