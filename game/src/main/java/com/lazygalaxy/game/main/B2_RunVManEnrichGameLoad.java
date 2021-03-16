@@ -1,7 +1,6 @@
 package com.lazygalaxy.game.main;
 
 import java.util.List;
-import java.util.TreeSet;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
@@ -10,7 +9,6 @@ import org.w3c.dom.Element;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.XMLLoad;
-import com.lazygalaxy.engine.merge.Merge;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.engine.util.XMLUtil;
 import com.lazygalaxy.game.Constant.Genre;
@@ -19,12 +17,12 @@ import com.lazygalaxy.game.merge.GameMerge;
 import com.lazygalaxy.game.util.GameUtil;
 import com.mongodb.client.model.Filters;
 
-public class B_RunVManEnrichGameLoad {
-	private static final Logger LOGGER = LogManager.getLogger(B_RunVManEnrichGameLoad.class);
+public class B2_RunVManEnrichGameLoad {
+	private static final Logger LOGGER = LogManager.getLogger(B2_RunVManEnrichGameLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {
-			Merge<Game> merge = new GameMerge();
+			GameMerge merge = new GameMerge();
 
 			new RetroArchGameLoad().load("xml/vman/retroarch_arcade_games.xml", "game", merge);
 			new RetroArchGameLoad().load("xml/vman/retroarch_atomiswave_games.xml", "game", merge);
@@ -64,7 +62,7 @@ public class B_RunVManEnrichGameLoad {
 					Filters.and(Filters.in("labels", name), Filters.eq("year", year)));
 
 			if (games == null) {
-				games = GameUtil.getGames(true, true, rom + " " + alternativeRom,
+				games = GameUtil.getGames(false, true, rom + " " + alternativeRom,
 						Filters.or(Filters.eq("rom", rom), Filters.eq("rom", alternativeRom), Filters.in("clones", rom),
 								Filters.in("clones", alternativeRom)));
 			}
@@ -75,7 +73,6 @@ public class B_RunVManEnrichGameLoad {
 
 					String genreString = XMLUtil.getTagAsString(element, "genre", 0);
 					if (genreString != null) {
-						game.genres = new TreeSet<String>();
 						genreString = genreString.toLowerCase();
 						genreString = genreString.replaceAll("plateform", "platform");
 						genreString = genreString.replaceAll(" and ", " ");

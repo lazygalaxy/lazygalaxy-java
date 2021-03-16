@@ -18,8 +18,10 @@ public class Constant {
 		public static String ARCADE = "arcade";
 		public static String NAOMI = "naomi";
 		public static String NEOGEO = "neogeo";
-		public static String MAGNETSYSTEM = "magnetsystem";
-		public static String MEGATECH = "megatech";
-		public static String PLAYCHOICE10 = "playchoice10";
+	}
+
+	public static class RomSet {
+		public static String MAME2003 = "mame2003";
+		public static String MAME2003B = "mame2003b";
 	}
 }

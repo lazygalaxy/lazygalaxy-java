@@ -1,4 +1,1 @@
-cfrogger
 pbobblen
-tetris
-tetrisse

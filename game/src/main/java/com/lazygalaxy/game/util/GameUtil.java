@@ -1,7 +1,6 @@
 package com.lazygalaxy.game.util;
 
 import java.util.List;
-import java.util.Set;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
@@ -15,23 +14,13 @@ public class GameUtil {
 	private static final Logger LOGGER = LogManager.getLogger(GameUtil.class);
 
 	public static String pretify(String str) {
-		return pretify(str, null);
-	}
-
-	public static String pretify(String str, Set<String> extraInfo) {
 		String result = str;
 		if (result != null) {
 			if (StringUtils.contains(result, ")")) {
-				if (extraInfo != null) {
-					extraInfo.add(StringUtils.substring(result, result.indexOf("("), result.length()).trim());
-				}
 				result = StringUtils.substring(result, 0, result.indexOf("(")).trim();
 			}
 
 			if (StringUtils.contains(result, "]")) {
-				if (extraInfo != null) {
-					extraInfo.add(StringUtils.substring(result, result.indexOf("["), result.length()).trim());
-				}
 				result = StringUtils.substring(result, 0, result.indexOf("[")).trim();
 			}
 
@@ -54,7 +43,7 @@ public class GameUtil {
 		return result;
 	}
 
-	public static List<Game> getGames(boolean printNoGameFound, boolean multipleGamesFound, String identifier,
+	public static List<Game> getGames(boolean printNoGameFound, boolean printMultipleGamesFound, String identifier,
 			Bson... filters) throws Exception {
 		List<Game> games = MongoHelper.getHelper(Game.class).getDocumentsByFilters(filters);
 
@@ -65,19 +54,17 @@ public class GameUtil {
 			return null;
 		} else if (games.size() > 1) {
 			int unhiddenCounter = 0;
-			String ids = "";
+			String roms = "";
 			for (Game game : games) {
 				if (game.hide == null || !game.hide) {
 					unhiddenCounter += 1;
-					ids += " " + game.id;
+					roms += " " + game.rom;
 				}
 			}
 
-			if (unhiddenCounter == 1) {
-				// all good
-			} else {
-				if (multipleGamesFound) {
-					LOGGER.warn("multiple games found: " + identifier + " with ids" + ids);
+			if (unhiddenCounter > 1) {
+				if (printMultipleGamesFound) {
+					LOGGER.warn("multiple games found: " + identifier + " with roms: " + roms);
 				}
 				return null;
 			}

@@ -12,4 +12,6 @@ mspacman
 pbobble
 phoenix
 sf2ce
+simpsons
+tmnt
 trackfld

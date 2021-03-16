@@ -2,7 +2,6 @@ package com.lazygalaxy.game;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
 import java.util.TreeSet;
 
 import org.apache.commons.lang3.StringUtils;
@@ -18,16 +17,17 @@ public enum Collection {
 	GOLDEN_AXE("Golden Axe"), //
 	METAL_SLUG("Metal Slug"), //
 	MORTAL_KOMBAT("Mortal Kombat"), //
+	MOVIES("RoboCop", "Terminator"), //
 	PACMAN("Pac-Man", "Puckman"), //
 	RAMPAGE("Rampage"), //
 	STAR_WARS("Star Wars"), //
 	STREET_FIGHTER("Street Fighter"), //
 	SUPER_MARIO("Super Mario", "Mario Bro"), //
-	SUPER_HEROES("Super Heroes", "Batman", "Captain America", "Spider-Man", "Superman", "The Punisher", "X-Men"), //
+	SUPER_HEROES("Batman", "Captain America", "Spider-Man", "Superman", "The Punisher", "X-Men"), //
 	TETRIS("Tetris"); //
 
-	public static Set<String> get(Game game) {
-		Set<String> collections = null;
+	public static TreeSet<String> get(Game game) {
+		TreeSet<String> collections = null;
 		String name = GeneralUtil.alphanumerify(game.name);
 		for (Collection collection : Collection.values()) {
 			for (String label : collection.labelSet) {

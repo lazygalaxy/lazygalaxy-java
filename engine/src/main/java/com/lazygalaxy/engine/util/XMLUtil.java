@@ -3,7 +3,6 @@ package com.lazygalaxy.engine.util;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Set;
 import java.util.TreeSet;
 
 import org.apache.commons.lang3.StringUtils;
@@ -45,10 +44,10 @@ public class XMLUtil {
 		return null;
 	}
 
-	public static Set<String> getTagAttributeAsStringSet(Element element, String tagName, String attribute) {
+	public static TreeSet<String> getTagAttributeAsStringSet(Element element, String tagName, String attribute) {
 		NodeList nodeList = element.getElementsByTagName(tagName);
 		if (nodeList.getLength() > 0) {
-			Set<String> result = new TreeSet<String>();
+			TreeSet<String> result = new TreeSet<String>();
 			for (int i = 0; i < nodeList.getLength(); i++) {
 				String value = getAttributeAsString(nodeList.item(i), attribute);
 				if (!StringUtils.isBlank(value)) {
@@ -146,10 +145,10 @@ public class XMLUtil {
 		return null;
 	}
 
-	public static Set<String> getTagAsStringSet(Element element, String tagName, String regex) {
+	public static TreeSet<String> getTagAsStringSet(Element element, String tagName, String regex) {
 		List<String> list = getTagAsString(element, tagName);
 		if (list != null) {
-			Set<String> result = new TreeSet<String>();
+			TreeSet<String> result = new TreeSet<String>();
 			for (String listItem : list) {
 				for (String tokenItem : GeneralUtil.split(listItem, regex)) {
 					result.add(tokenItem);
