@@ -7,10 +7,9 @@ public class Constant {
 	}
 
 	public static class Genre {
-		public static String POOL = "pool";
+		public static String BASKETBALL = "basketball";
 		public static String LIGHTGUN = "lightgun";
-		public static String SHOOTEMUP = "shootemup";
-		public static String SHOOTER = "shooter";
+		public static String POOL = "pool";
 		public static String SPORT = "sport";
 	}
 

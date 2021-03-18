@@ -27,10 +27,10 @@ public class C3_RunVManScoreLoad {
 		try {
 			Merge<Scores> merge = new FieldMerge<Scores>();
 
+			new VManExtensiveScoreLoad().load("xml/vman/retroarch_arcade_games.xml", "game", merge);
 			new VManExtensiveScoreLoad().load("xml/vman/retroarch_atomiswave_games.xml", "game",
 					new FieldMerge<Scores>(), "System");
 			new VManExtensiveScoreLoad().load("xml/vman/retroarch_daphne_games.xml", "game", merge);
-			new VManExtensiveScoreLoad().load("xml/vman/retroarch_arcade_games.xml", "game", merge);
 			new VManExtensiveScoreLoad().load("xml/vman/retroarch_naomi_games.xml", "game", merge);
 			new VManExtensiveScoreLoad().load("xml/vman/retroarch_neogeo_games.xml", "game", merge);
 			LOGGER.info("xml load completed!");
@@ -77,12 +77,12 @@ public class C3_RunVManScoreLoad {
 								Filters.in("clones", alternativeRom)));
 			}
 
-			if (games != null) {
-				Double rating = XMLUtil.getTagAsDouble(element, "rating", 0);
-				if (rating == null) {
-					rating = 0.0;
-				}
+			Double rating = XMLUtil.getTagAsDouble(element, "rating", 0);
+			if (rating != null && rating == 0.0) {
+				rating = null;
+			}
 
+			if (games != null && rating != null) {
 				List<Scores> scoresList = new ArrayList<Scores>();
 				for (Game game : games) {
 					Scores scores = new Scores(game.id);

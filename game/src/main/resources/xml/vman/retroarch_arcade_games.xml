@@ -293,7 +293,7 @@ In 2020 Super Baseball is a fast-paced game with new rules, where you can select
 		<image>./mixart/2020bb.png</image>
 		<video>./snap/2020bb.mp4</video>
 		<marquee>./wheel/2020bb.png</marquee>
-		<rating>0.6</rating>
+		<rating>0.8</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Pallas</developer>
 		<publisher>SNK</publisher>
@@ -26778,7 +26778,7 @@ Boogie Wings features highly detailed and completely destructible scenery, with 
 		<image>./mixart/irrmaze.png</image>
 		<video>./snap/irrmaze.mp4</video>
 		<marquee>./wheel/irrmaze.png</marquee>
-		<rating>0.7</rating>
+		<rating>0.8</rating>
 		<releasedate>19970101T000000</releasedate>
 		<developer>Saurus</developer>
 		<publisher>SNK</publisher>
@@ -31076,7 +31076,7 @@ It can be considered as the predecessor to the F-1 Grand Prix (video game series
     <path>./tetrisse.zip</path>
     <name>Tetris (Sega)</name>
 	<desc>Tetris is an arcade game published by Sega in 1988. It took Japanese arcades by storm, and is one of the most commonly known versions of the game. Due to its popularity, it became the base of rules for many other Japanese games created later on, both licensed and unlicensed. Such games include the TGM series, Tetris Plus series, Tetris S and Shimizu Tetris. It was one of the first games to have lock delay, greatly improving maneuverability at high speeds.</desc>
-    <rating>0.8</rating>
+    <rating>0.9</rating>
     <releasedate>19881201T000000</releasedate>
     <developer>Sega</developer>
 	<publisher>Sega</publisher>
