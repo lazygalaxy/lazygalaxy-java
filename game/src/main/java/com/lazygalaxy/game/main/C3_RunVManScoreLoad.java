@@ -19,9 +19,9 @@ import com.lazygalaxy.game.domain.Scores;
 import com.lazygalaxy.game.util.GameUtil;
 import com.mongodb.client.model.Filters;
 
-public class C_RunVManScoreLoad {
+public class C3_RunVManScoreLoad {
 
-	private static final Logger LOGGER = LogManager.getLogger(C_RunVManScoreLoad.class);
+	private static final Logger LOGGER = LogManager.getLogger(C3_RunVManScoreLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {
@@ -61,21 +61,28 @@ public class C_RunVManScoreLoad {
 			String name = GeneralUtil.alphanumerify(GameUtil.pretify(XMLUtil.getTagAsString(element, "name", 0)));
 			String year = StringUtils.left(XMLUtil.getTagAsString(element, "releasedate", 0), 4);
 
-			Double rating = XMLUtil.getTagAsDouble(element, "rating", 0);
-			if (rating == null) {
-				rating = 0.0;
+			List<Game> games = null;
+
+			if (!StringUtils.isBlank(name) && !StringUtils.isBlank(year)) {
+				games = GameUtil.getGames(false, true, name + " " + year,
+						Filters.and(Filters.in("labels", name), Filters.eq("year", year)));
 			}
 
-			List<Game> games = GameUtil.getGames(false, true, name + " " + year,
-					Filters.and(Filters.in("labels", name), Filters.eq("year", year)));
-
-			if (games == null) {
-				games = GameUtil.getGames(true, true, rom + " " + alternativeRom,
+			if (games == null && !StringUtils.isBlank(rom)) {
+				if (StringUtils.isBlank(alternativeRom)) {
+					alternativeRom = rom;
+				}
+				games = GameUtil.getGames(false, true, rom + " " + alternativeRom,
 						Filters.or(Filters.eq("rom", rom), Filters.eq("rom", alternativeRom), Filters.in("clones", rom),
 								Filters.in("clones", alternativeRom)));
 			}
 
 			if (games != null) {
+				Double rating = XMLUtil.getTagAsDouble(element, "rating", 0);
+				if (rating == null) {
+					rating = 0.0;
+				}
+
 				List<Scores> scoresList = new ArrayList<Scores>();
 				for (Game game : games) {
 					Scores scores = new Scores(game.id);

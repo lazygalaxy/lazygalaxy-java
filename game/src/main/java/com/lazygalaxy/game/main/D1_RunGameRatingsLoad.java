@@ -13,8 +13,8 @@ import com.lazygalaxy.engine.merge.Merge;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.Scores;
 
-public class D_RunGameRatingsLoad {
-	private static final Logger LOGGER = LogManager.getLogger(D_RunGameRatingsLoad.class);
+public class D1_RunGameRatingsLoad {
+	private static final Logger LOGGER = LogManager.getLogger(D1_RunGameRatingsLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {

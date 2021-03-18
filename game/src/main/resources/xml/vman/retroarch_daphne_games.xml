@@ -1,13 +1,9 @@
 <?xml version="1.0"?>
 <gameList>
-	<provider>
-		<System>Daphne</System>
-		<collection>vman</collection>
-	</provider>
 	<game>
 		<path>./lair2.daphne</path>
-		<name>Dragon's Lair 2: Time Warp</name>
-		<desc>Dragon's Lair 2: Time Warp is a 1991 laserdisc video game by the Leland Corporation. It is regarded as the first "true" sequel to Dragon's Lair. It takes place years after the original Dragon's Lair.</desc>
+		<name>Dragon's Lair II: Time Warp</name>
+		<desc>Dragon's Lair II: Time Warp is a 1991 laserdisc video game by the Leland Corporation. It is regarded as the first "true" sequel to Dragon's Lair. It takes place years after the original Dragon's Lair.</desc>
 		<image>./mixart/lair2.png</image>
 		<video>./snap/lair2.mp4</video>
 		<marquee>./wheel/lair2.png</marquee>
@@ -20,8 +16,8 @@
 	</game>
 	<game>
 		<path>./lair2.daphne</path>
-		<name>Dragon's Lair 2: Time Warp</name>
-		<desc>Dragon's Lair 2: Time Warp is a 1991 laserdisc video game by the Leland Corporation. It is regarded as the first "true" sequel to Dragon's Lair. It takes place years after the original Dragon's Lair.</desc>
+		<name>Dragon's Lair II: Time Warp</name>
+		<desc>Dragon's Lair II: Time Warp is a 1991 laserdisc video game by the Leland Corporation. It is regarded as the first "true" sequel to Dragon's Lair. It takes place years after the original Dragon's Lair.</desc>
 		<image>./mixart/lair2.png</image>
 		<video>./snap/lair2.mp4</video>
 		<marquee>./wheel/lair2.png</marquee>

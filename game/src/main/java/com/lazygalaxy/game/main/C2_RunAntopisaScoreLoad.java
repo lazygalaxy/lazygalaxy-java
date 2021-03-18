@@ -16,16 +16,16 @@ import com.lazygalaxy.game.domain.Scores;
 import com.lazygalaxy.game.util.GameUtil;
 import com.mongodb.client.model.Filters;
 
-public class C_RunAntopisaScoreLoad {
+public class C2_RunAntopisaScoreLoad {
 
-	private static final Logger LOGGER = LogManager.getLogger(C_RunAntopisaScoreLoad.class);
+	private static final Logger LOGGER = LogManager.getLogger(C2_RunAntopisaScoreLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {
 			Merge<Scores> merge = new FieldMerge<Scores>();
 
 			new AntopisaScoreLoad().load("txt/antopisa_score.ini", 8, merge);
-			LOGGER.info("xml load completed!");
+			LOGGER.info("antopisa score load completed!");
 		} finally {
 			MongoConnectionHelper.INSTANCE.close();
 		}
@@ -45,7 +45,7 @@ public class C_RunAntopisaScoreLoad {
 			if (tokens.length >= 4) {
 				lastScore = Integer.parseInt(tokens[2]);
 			} else if (lastScore != null) {
-				List<Game> games = GameUtil.getGames(true, true, rom,
+				List<Game> games = GameUtil.getGames(false, true, rom,
 						Filters.or(Filters.eq("rom", rom), Filters.in("clones", rom)));
 
 				if (games != null) {

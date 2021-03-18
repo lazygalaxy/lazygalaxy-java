@@ -59,6 +59,7 @@ public class A2_MameEnrichGameLoad {
 				game.cloneOf = XMLUtil.getAttributeAsString(element, "cloneof");
 				game.sourceFile = XMLUtil.getAttributeAsString(element, "sourcefile");
 				game.romOf = XMLUtil.getAttributeAsString(element, "romof");
+				game.sampleOf = XMLUtil.getAttributeAsString(element, "sampleof");
 				game.isMechanical = XMLUtil.getAttributeAsBoolean(element, "ismechanical");
 
 				game.year = XMLUtil.getTagAsString(element, "year", 0);

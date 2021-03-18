@@ -9,6 +9,7 @@ import org.apache.logging.log4j.Logger;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.TextFileLoad;
+import com.lazygalaxy.game.Constant.GameSystem;
 import com.lazygalaxy.game.Constant.RomSet;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.merge.GameMerge;
@@ -47,6 +48,7 @@ public class A1_RomSetLoad {
 			Game game = new Game(rom + "_arcade");
 			game.rom = rom;
 			game.addRomSet(romSet);
+			game.systemId = GameSystem.ARCADE;
 
 			return Arrays.asList(game);
 		}

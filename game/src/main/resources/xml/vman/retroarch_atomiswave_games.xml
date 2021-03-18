@@ -5,7 +5,6 @@
 		<software>Skraper</software>
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
-		<collection>vman</collection>
 	</provider>
 	<game>
 		<path>./anmlbskt.zip</path>

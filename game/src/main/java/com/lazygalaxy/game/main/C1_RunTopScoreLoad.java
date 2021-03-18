@@ -17,9 +17,9 @@ import com.lazygalaxy.game.domain.Scores;
 import com.lazygalaxy.game.util.GameUtil;
 import com.mongodb.client.model.Filters;
 
-public class C_RunTopScoreLoad {
+public class C1_RunTopScoreLoad {
 
-	private static final Logger LOGGER = LogManager.getLogger(C_RunTopScoreLoad.class);
+	private static final Logger LOGGER = LogManager.getLogger(C1_RunTopScoreLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {

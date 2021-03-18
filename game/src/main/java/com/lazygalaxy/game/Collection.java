@@ -10,21 +10,23 @@ import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.game.domain.Game;
 
 public enum Collection {
-
 	ARKANOID("Arkanoid"), //
 	BUBBLE_BOBBLE("Bubble Bobble"), //
 	DOUBLE_DRAGON("Double Dragon"), //
+	FOUR_PLAYER(false, "4 Player"), //
 	GOLDEN_AXE("Golden Axe"), //
 	METAL_SLUG("Metal Slug"), //
 	MORTAL_KOMBAT("Mortal Kombat"), //
-	MOVIES("RoboCop", "Terminator"), //
+	MOVIES(false, "Movies", "RoboCop", "Terminator"), //
 	PACMAN("Pac-Man", "Puckman"), //
 	RAMPAGE("Rampage"), //
 	STAR_WARS("Star Wars"), //
 	STREET_FIGHTER("Street Fighter"), //
 	SUPER_MARIO("Super Mario", "Mario Bro"), //
-	SUPER_HEROES("Batman", "Captain America", "Spider-Man", "Superman", "The Punisher", "X-Men"), //
-	TETRIS("Tetris"); //
+	SUPER_HEROES(false, "Super Heroes", "Batman", "Captain America", "Spider-Man", "Superman", "The Punisher", "X-Men"), //
+	TETRIS("Tetris"), //
+	THREE_PLAYER(false, "3 Player"), //
+	VERTICAL(false, "Vertical"); //
 
 	public static TreeSet<String> get(Game game) {
 		TreeSet<String> collections = null;
@@ -39,19 +41,49 @@ public enum Collection {
 				}
 			}
 		}
+
+		if (game.isVeritcal) {
+			if (collections == null) {
+				collections = new TreeSet<String>();
+			}
+			collections.add(VERTICAL.getMainLabel());
+		}
+
+		if (game.players >= 3) {
+			if (collections == null) {
+				collections = new TreeSet<String>();
+			}
+			collections.add(THREE_PLAYER.getMainLabel());
+		}
+
+		if (game.players >= 4) {
+			if (collections == null) {
+				collections = new TreeSet<String>();
+			}
+			collections.add(FOUR_PLAYER.getMainLabel());
+		}
+
 		return collections;
 	}
 
 	private List<String> labelSet = new ArrayList<String>();
+	private String mainLabel;
+	private boolean considerMainLabel;
 
 	Collection(String... labels) {
-		for (String label : labels) {
-			addLabel(label);
+		this(true, labels);
+	}
+
+	Collection(boolean considerMainLabel, String... labels) {
+		this.considerMainLabel = considerMainLabel;
+		this.mainLabel = labels[0];
+		for (int i = considerMainLabel ? 0 : 1; i < labels.length; i++) {
+			addLabel(labels[i]);
 		}
 	}
 
 	String getMainLabel() {
-		return this.labelSet.get(0);
+		return mainLabel;
 	}
 
 	void addLabel(String label) {

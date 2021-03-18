@@ -14,8 +14,8 @@ import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.util.GameUtil;
 import com.mongodb.client.model.Filters;
 
-public class X_CheckGameDuplicates {
-	private static final Logger LOGGER = LogManager.getLogger(B1_RunCustomEnrichGameLoad.class);
+public class XX_CheckGameDuplicates {
+	private static final Logger LOGGER = LogManager.getLogger(B1_RunHideEnrichGameLoad.class);
 	private static int counter = 0;
 
 	public static void main(String[] args) throws Exception {

@@ -5,7 +5,6 @@
 		<software>Skraper</software>
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
-		<collection>vman</collection>
 	</provider>
 	<game>
 		<path>./aodk.zip</path>
@@ -1415,7 +1414,7 @@ On offense you can perform short or long passes with the A and C buttons, respec
 		<image>./mixart/irrmaze.png</image>
 		<video>./snap/irrmaze.mp4</video>
 		<marquee>./wheel/irrmaze.png</marquee>
-		<rating>0.8</rating>
+		<rating>0.9</rating>
 		<releasedate>19970101T000000</releasedate>
 		<developer>Saurus</developer>
 		<publisher>SNK</publisher>
@@ -1969,7 +1968,7 @@ In 2020 Super Baseball is a fast-paced game with new rules, where you can select
 		<image>./mixart/2020bb.png</image>
 		<video>./snap/2020bb.mp4</video>
 		<marquee>./wheel/2020bb.png</marquee>
-		<rating>0.8</rating>
+		<rating>1</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Pallas</developer>
 		<publisher>SNK</publisher>

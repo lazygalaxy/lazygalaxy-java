@@ -58,10 +58,17 @@ public class B2_RunVManEnrichGameLoad {
 			String name = GeneralUtil.alphanumerify(GameUtil.pretify(XMLUtil.getTagAsString(element, "name", 0)));
 			String year = StringUtils.left(XMLUtil.getTagAsString(element, "releasedate", 0), 4);
 
-			List<Game> games = GameUtil.getGames(false, true, name + " " + year,
-					Filters.and(Filters.in("labels", name), Filters.eq("year", year)));
+			List<Game> games = null;
 
-			if (games == null) {
+			if (!StringUtils.isBlank(name) && !StringUtils.isBlank(year)) {
+				games = GameUtil.getGames(false, true, name + " " + year,
+						Filters.and(Filters.in("labels", name), Filters.eq("year", year)));
+			}
+
+			if (games == null && !StringUtils.isBlank(rom)) {
+				if (StringUtils.isBlank(alternativeRom)) {
+					alternativeRom = rom;
+				}
 				games = GameUtil.getGames(false, true, rom + " " + alternativeRom,
 						Filters.or(Filters.eq("rom", rom), Filters.eq("rom", alternativeRom), Filters.in("clones", rom),
 								Filters.in("clones", alternativeRom)));

@@ -1,11 +1,10 @@
 <?xml version="1.0"?>
 <gameList>
 	<provider>
-		<System>Arcade</System>
+		<System>Mame</System>
 		<software>Skraper</software>
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
-		<collection>vman</collection>
 	</provider>
 	<game id="40130" source="ScreenScraper.fr">
 		<path>./drgninja.zip</path>
@@ -294,7 +293,7 @@ In 2020 Super Baseball is a fast-paced game with new rules, where you can select
 		<image>./mixart/2020bb.png</image>
 		<video>./snap/2020bb.mp4</video>
 		<marquee>./wheel/2020bb.png</marquee>
-		<rating>0.8</rating>
+		<rating>0.6</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Pallas</developer>
 		<publisher>SNK</publisher>
@@ -1267,7 +1266,7 @@ As with "Smash TV", Total Carnage features the infamous 'Pleasuredome'; accessib
 		<path>./mvsc2.zip</path>
 		<name>Marvel vs. Capcom 2: New Age of Heroes</name>
 		<desc>The best of the best are back! Fight with 28 characters and unlock 28 extra fighters on 3 on 3 tag battles. Learn to master the new 'Delayed hyper combo system' to combine your 3 characters hyper moves and defeat the mighty Abyss.</desc>
-		<rating>1.0</rating>
+		<rating>0</rating>
 		<releasedate>20000301T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -1302,7 +1301,7 @@ After Burner's straightforward shoot-em-up gameplay is simple and repetitive, bu
 		<image>./mixart/aburner2.png</image>
 		<video>./snap/aburner2.mp4</video>
 		<marquee>./wheel/aburner2.png</marquee>
-		<rating>0.85</rating>
+		<rating>0.7</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
@@ -6425,9 +6424,9 @@ The player, as Charley Chuck, must dodge all kinds of flying fruit and vegetable
 		<path>./freezeat.zip</path>
 		<name>Freeze</name>
 		<desc>Freeze is a highly addictive, head-to-head, 3-D action-puzzle game where players join a wild cast of characters on an underwater fish sorting adventure. Players sort combos out of cute little fishies that swim, smile and wink. Challenge and strategy build as players learn different characters each possessing a unique special weapon. An exciting quiz game offers players an opportunity to race against time solving a multitude of colorful fishie puzzles. Combining these playful characters with the simple addictive gameplay will have players sorting fish in their sleep. The true challenge of any puzzle game.</desc>
-		<image>./mixart/freezeat.png</image>
-		<video>./snap/freezeat.mp4</video>
-		<marquee>./wheel/freezeat.png</marquee>
+		<image>./mixart/freeze.png</image>
+		<video>./snap/freeze.mp4</video>
+		<marquee>./wheel/freeze.png</marquee>
 		<rating>0.6</rating>
 		<releasedate>19960101T000000</releasedate>
 		<developer>Cinematronics</developer>
@@ -9457,7 +9456,7 @@ While in no way original (drawing most of its inspiration from Capcom's "Final F
 		<image>./mixart/kengo.png</image>
 		<video>./snap/kengo.mp4</video>
 		<marquee>./wheel/kengo.png</marquee>
-		<rating>0.6</rating>
+		<rating>0</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Irem</developer>
 		<publisher>Irem</publisher>
@@ -13170,7 +13169,7 @@ The controls change when wielding a weapon; the knife is thrown by pressing the 
 		<image>./mixart/pacman.png</image>
 		<video>./snap/pacman.mp4</video>
 		<marquee>./wheel/pacman.png</marquee>
-		<rating>0.9</rating>
+		<rating>0.8</rating>
 		<releasedate>19810101T000000</releasedate>
 		<developer>Coleco</developer>
 		<publisher>Coleco</publisher>
@@ -16924,7 +16923,7 @@ Space Harrier has a total of 18 stages, each with a boss fight at the end. Three
 	</game>
 	<game>
 		<path>./invaders.zip</path>
-		<name>Space Invaders</name>
+		<name>Space Invaders / Space Invaders M</name>
 		<desc>The Space Invaders phenomenon stunned many conservative adults of the time who were convinced that video-games soured the minds of their youngsters. Residents of Mesquite, Texas, pushed the issue all the way to the Supreme Court in their efforts to ban the illicit machines from their Bible-belt community. A number of reported incidents of juvenile crime began to surface shortly after the game's release, adding to its 'controversy'. A girl was caught stealing $5,000 from her parents and gangs of youths were reported to have robbed grocery stores just so they would have money to play the game.
 </desc>
 		<image>./mixart/invaders.png</image>
@@ -19627,22 +19626,6 @@ The Simpsons was designed to Konami's typically-high production standards and wa
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
 		<genre>Fight / 2.5D-Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./simpsons.zip</path>
-		<name>The Simpsons</name>
-		<desc>A jewel heist gone wrong sees Mr Burns's sidekick, Smithers, kidnapping Maggie and making his escape. Between one and four players take on the role of either Homer, Marge, Lisa, or Bart in this colorful, horizontally-scrolling beat-em-up from Konami. Each Simpsons character possesses an attacking move specific to them; Marge is armed with a vacuum cleaner, Lisa has a skipping rope, Bart has his skateboard, and Homer fights with his fists. The players must battle their way through a variety of Simpsons-themed levels - such as Springfield and Krustyland - fighting goons, thugs, zombies, drunks, firemen, and several Simpsons regulars. Many Simpsons characters that don't appear as enemies have 'cameo' scenes in the game (Otto working at a burgerstand in Krustyland, for example). The archetypal 'boss' character awaits the players at the end of every stage. The game ends with a final showdown with the evil Mr. Burns in his luxurious mansion.
-
-The Simpsons was designed to Konami's typically-high production standards and was, like the 'Ninja Turtles' games that appeared a couple of years' earlier, very faithful to its source material. The colorful, smoothly-animated sprites captured the spirit of the legendary cartoon superbly, and the game's many humorous touches were timed to perfection.</desc>
-		<image>./mixart/simpsons.png</image>
-		<video>./snap/simpsons.mp4</video>
-		<marquee>./wheel/simpsons.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19910403T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Fight / 2.5D-Fight</genre>
 		<players>1-4</players>
 	</game>
 	<game>
@@ -21172,7 +21155,7 @@ Pinball has some many bonnus and also had a secondary Breakout like mode, which 
 	<game>
 		<path>./starlstr.zip</path>
 		<name>Vs. Star Luster</name>
-    	<desc>Star Luster is a first-person shooter and space combat simulator video game developed and published by Namco in 1985 in Japan. It is an arcade-style, combat-dedicated, science fiction flight simulator that was released for the Family Computer. That same year, Namco adapted the title for play in the arcade as part of the Nintendo VS. System. A sequel game, titled Star Ixiom, was released for the PlayStation in 1999 and featured several selectable fighters and an expanded story.</desc>
+		<desc>Vs. Star Luster (c) 1985 Namco.  - TECHNICAL -  Main CPU : N2A03 (@ 1.789772 Mhz) Sound Chips : N2A03 (@ 1.789772 Mhz), DAC (@ 1.789772 Mhz)  Screen orientation : Horizontal Video resolution : 256 x 240 pixels Screen refresh : 60.00 Hz Palette colors : 64</desc>
 		<image>./mixart/starlstr.png</image>
 		<video>./snap/starlstr.mp4</video>
 		<marquee>./wheel/starlstr.png</marquee>
@@ -21661,7 +21644,7 @@ When you reach the end of each level, a boss appears and has to be defeated to u
 		<image>./mixart/wcbowl.png</image>
 		<video>./snap/wcbowl.mp4</video>
 		<marquee>./wheel/wcbowl.png</marquee>
-		<rating>0.75</rating>
+		<rating>0.8</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Incredible Technologies</developer>
 		<publisher>Incredible Technologies</publisher>
@@ -21677,7 +21660,7 @@ When you reach the end of each level, a boss appears and has to be defeated to u
 		<image>./mixart/wcbowldx.png</image>
 		<video>./snap/wcbowldx.mp4</video>
 		<marquee>./wheel/wcbowldx.png</marquee>
-		<rating>0.75</rating>
+		<rating>0.7</rating>
 		<releasedate>19990101T000000</releasedate>
 		<developer>Incredible Technologies</developer>
 		<publisher>Incredible Technologies</publisher>
@@ -21705,7 +21688,7 @@ When you reach the end of each level, a boss appears and has to be defeated to u
 		<image>./mixart/wgp.png</image>
 		<video>./snap/wgp.mp4</video>
 		<marquee>./wheel/wgp.png</marquee>
-		<rating>0.7</rating>
+		<rating>0</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Taito</developer>
 		<publisher>Taito</publisher>
@@ -24904,6 +24887,10 @@ As one of three Ninja Commandos, you must fight your opponents through different
 		<players>1-2</players>
 	</game>
 	<game>
+		<path>./cthd2003.zip</path>
+		<name>Crouching Tiger Hidden Dragon 2003 (The King of Fighters 2001 bootleg)</name>
+	</game>
+	<game>
 		<path>./blkhole.zip</path>
 		<name>Black Hole</name>
 		<desc>Black Hole is a space-themed shoot'em up. The point of the game is to shoot all of the terrain, go through the "point ships" for extra points, and finally shoot the moving figure on top of everything.</desc>
@@ -26465,7 +26452,7 @@ Dazzler</desc>
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
 		<genre>Fight-Fight / 2.5D</genre>
-		<players>1-2</players>
+		<players>1-4</players>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -26475,11 +26462,10 @@ Dazzler</desc>
 		<image>./mixart/zeroteam.png</image>
 		<video>./snap/zeroteam.mp4</video>
 		<marquee>./wheel/zeroteam.png</marquee>
-		<rating>0.75</rating>
+		<rating>0.8</rating>
 		<releasedate>19930101T000000</releasedate>
 		<publisher>Seibu Kaihatsu</publisher>
 		<genre>Fight-Fight / 2.5D</genre>
-		<players>1-2</players>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -26792,7 +26778,7 @@ Boogie Wings features highly detailed and completely destructible scenery, with 
 		<image>./mixart/irrmaze.png</image>
 		<video>./snap/irrmaze.mp4</video>
 		<marquee>./wheel/irrmaze.png</marquee>
-		<rating>0.8</rating>
+		<rating>0.7</rating>
 		<releasedate>19970101T000000</releasedate>
 		<developer>Saurus</developer>
 		<publisher>SNK</publisher>
@@ -27827,7 +27813,7 @@ A map on the right side of the screen shows remaining flags through yellow squar
     <path>./aburner.zip</path>
     <name>After Burner</name>
     <desc>After Burner is another 3-D Sega game rendered with their superb sprite-scaling technology; this time putting the player into the seat of a powerful jet fighter.    A number of colorful, fast-moving environments await the player, as he or she takes on the hordes of enemy planes intent on the player's destruction.</desc>
-    <rating>0.85</rating>
+    <rating>0.8</rating>
     <releasedate>19870101T000000</releasedate>
     <developer>Yu Suzuki</developer>
     <publisher>Sega</publisher>
@@ -28520,6 +28506,20 @@ As you make progress and fight of helicopters, airships, various planes, tanks, 
     <image>./mixart/fourtrax.png</image>
     <marquee>./wheel/fourtrax.png</marquee>
     <video>./snap/fourtrax.mp4</video>
+  </game>
+  <game id="41276" source="ScreenScraper.fr">
+    <path>./freeze.zip</path>
+    <name>Freeze</name>
+    <desc>Freeze is a highly addictive, head-to-head, 3-D action-puzzle game where players join a wild cast of characters on an underwater fish sorting adventure. Players sort combos out of cute little fishies that swim, smile and wink. Challenge and strategy build as players learn different characters each possessing a unique special weapon. An exciting quiz game offers players an opportunity to race against time solving a multitude of colorful fishie puzzles. Combining these playful characters with the simple addictive gameplay will have players sorting fish in their sleep. The true challenge of any puzzle game.</desc>
+    <rating>0.6</rating>
+    <releasedate>19960101T000000</releasedate>
+    <developer>Cinematronics</developer>
+    <publisher>Atari</publisher>
+    <genre>Action/Maze</genre>
+    <players>1-2</players>
+    <image>./mixart/freeze.png</image>
+    <marquee>./wheel/freeze.png</marquee>
+    <video>./snap/freeze.mp4</video>
   </game>
   <game id="41305" source="ScreenScraper.fr">
     <path>./funkyjet.zip</path>
@@ -31684,7 +31684,7 @@ Toy Pop is a top-down multi-directional shooter that can be played both single-p
     <path>./zeroteam.zip</path>
     <name>Zero Team USA</name>
     <desc>A side scrolling beat-em-up that uses Japanese superhero-type characters. Characters are able to throw and break background objects and use them against their enemies. The goal is to progress past the end-of-level bosse</desc>
-    <rating>0.75</rating>
+    <rating>0.7</rating>
     <releasedate>19930101T000000</releasedate>
 	<developer>Seibu Kaihatsu</developer>
     <publisher>Seibu Kaihatsu</publisher>

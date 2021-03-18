@@ -23,6 +23,7 @@ public class Game extends MongoDocument {
 	public String cloneOf;
 	public TreeSet<String> clones;
 	public String romOf;
+	public String sampleOf;
 	public Boolean isMechanical;
 
 	public String year;
