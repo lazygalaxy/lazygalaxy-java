@@ -21,6 +21,5 @@ public class Constant {
 
 	public static class RomSet {
 		public static String MAME2003 = "mame2003";
-		public static String MAME2003B = "mame2003b";
 	}
 }

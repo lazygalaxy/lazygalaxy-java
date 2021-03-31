@@ -77,6 +77,9 @@ public class A2_MameEnrichGameLoad {
 				game.coins = XMLUtil.getTagAttributeAsInteger(element, "input", "coins", 0);
 				game.input = XMLUtil.getTagAttributeAsStringSet(element, "control", "type");
 				game.buttons = XMLUtil.getTagAttributeAsInteger(element, "control", "buttons", 0);
+				if (game.buttons == null) {
+					game.buttons = 0;
+				}
 
 				if (game.cloneOf != null) {
 					Game parentGame = MongoHelper.getHelper(Game.class).getDocumentById(game.cloneOf + "_arcade");

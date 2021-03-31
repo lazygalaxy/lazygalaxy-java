@@ -8,6 +8,7 @@ goldnaxe
 mpatrol
 mslug
 offroad
+outrun
 mspacman
 pbobble
 phoenix

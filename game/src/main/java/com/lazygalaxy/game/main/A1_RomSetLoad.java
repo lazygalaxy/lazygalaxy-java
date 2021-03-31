@@ -22,11 +22,8 @@ public class A1_RomSetLoad {
 		try {
 			GameMerge merge = new GameMerge();
 
-			new RomSetLoad(RomSet.MAME2003).load("txt/mame_2003_roms.txt", 0, merge);
-			LOGGER.info("mame 2003 romset load completed!");
-
-			new RomSetLoad(RomSet.MAME2003B).load("txt/mame_2003b_roms.txt", 0, merge);
-			LOGGER.info("mame 2003b rom set load completed!");
+			new RomSetLoad(RomSet.MAME2003).load("txt/mame2003_roms.txt", 0, merge);
+			LOGGER.info("mame2003 rom set load completed!");
 		} finally {
 			MongoConnectionHelper.INSTANCE.close();
 		}
