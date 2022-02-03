@@ -2,20 +2,21 @@ package com.lazygalaxy.canvas.points;
 
 import com.lazygalaxy.canvas.Canvas;
 import com.lazygalaxy.canvas.PointCanvas;
+import com.lazygalaxy.canvas.main.WireFrameCreate;
 
 public class RandomCanvasPoints extends PointCanvas {
 
-	private int randomSize;
+	private int sample;
 
-	public RandomCanvasPoints(int width, int height, int randomSize) {
+	public RandomCanvasPoints(int width, int height, int sample) {
 		super(width, height);
-		this.randomSize = randomSize;
+		this.sample = sample;
 	}
 
 	@Override
 	public PointCanvas apply(Canvas canvas) throws Exception {
-		while (points.size() < randomSize) {
-			points.add(canvas.getPoint((int) (Math.random() * canvas.getSize())));
+		while (points.size() < sample) {
+			points.add(canvas.getPoint((int) (WireFrameCreate.RANDOM.nextInt(canvas.getSize()))));
 		}
 		return this;
 	}

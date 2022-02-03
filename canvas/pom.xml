@@ -17,9 +17,9 @@
 
 	<dependencies>
 		<dependency>
-		<groupId>com.lazygalaxy</groupId>
-		<artifactId>engine</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+			<groupId>com.lazygalaxy</groupId>
+			<artifactId>engine</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 </project>

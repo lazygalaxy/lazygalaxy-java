@@ -1,7 +1,19 @@
 package com.lazygalaxy.canvas.common;
 
-public interface Gene {
-	public void randomize();
+public abstract class Gene<T> {
+	final protected String name;
+	protected T value;
 
-	public Object getValue();
+	public Gene(String name) {
+		this.name = name;
+	}
+
+	public abstract T randomize();
+
+	public abstract T getValue();
+
+	@Override
+	public String toString() {
+		return name + ": " + value;
+	}
 }

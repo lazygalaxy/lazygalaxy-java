@@ -6,13 +6,15 @@ import java.awt.GradientPaint;
 import com.lazygalaxy.canvas.Canvas;
 import com.lazygalaxy.canvas.common.Point;
 
-public class PixelJoinerCanvasLayer implements CanvasLayer {
+public class LineJoinerCanvasLayer implements CanvasLayer {
 
 	private Canvas inputCanvas;
 	private int distanceThreshold;
+	private float thickness;
 
-	public PixelJoinerCanvasLayer(int distanceThreshold, Canvas inputCanvas) {
+	public LineJoinerCanvasLayer(int distanceThreshold, float thickness, Canvas inputCanvas) {
 		this.distanceThreshold = distanceThreshold;
+		this.thickness = thickness;
 		this.inputCanvas = inputCanvas;
 	}
 
@@ -26,7 +28,7 @@ public class PixelJoinerCanvasLayer implements CanvasLayer {
 					GradientPaint gradient = new GradientPaint(point1.getX(), point1.getY(), point1.getData(),
 							point2.getX(), point2.getY(), point2.getData());
 
-					canvas.drawLine(point1.getX(), point1.getY(), point2.getX(), point2.getY(), gradient);
+					canvas.drawLine(point1.getX(), point1.getY(), point2.getX(), point2.getY(), gradient, thickness);
 				}
 			}
 		}

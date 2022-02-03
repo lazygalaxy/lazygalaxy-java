@@ -1,22 +1,25 @@
 package com.lazygalaxy.canvas.common;
 
-public class IntegerGene implements Gene {
+import com.lazygalaxy.canvas.main.WireFrameCreate;
+
+public class IntegerGene extends Gene<Integer> {
 	final private int minValue;
 	final private int maxValue;
 
-	private int value;
+	public IntegerGene(String name, int minValue, int maxValue) {
+		super(name);
 
-	public IntegerGene(int minValue, int maxValue) {
 		this.minValue = minValue;
 		this.maxValue = maxValue;
-		randomize();
+
+		this.value = randomize();
 	}
 
-	public void randomize() {
-		this.value = (int) ((Math.random() * (maxValue - minValue)) + minValue);
+	public Integer randomize() {
+		return WireFrameCreate.RANDOM.nextInt(maxValue - minValue + 1) + minValue;
 	}
 
-	public Object getValue() {
+	public Integer getValue() {
 		return value;
 	}
 }

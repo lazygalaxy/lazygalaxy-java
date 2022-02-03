@@ -21,7 +21,7 @@ public abstract class Canvas {
 		throw new Exception("method not supported");
 	}
 
-	public void drawLine(int x1, int y1, int x2, int y2, GradientPaint gradient) throws Exception {
+	public void drawLine(int x1, int y1, int x2, int y2, GradientPaint gradient, float width) throws Exception {
 		throw new Exception("method not supported");
 	}
 

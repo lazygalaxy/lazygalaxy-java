@@ -19,7 +19,7 @@ public class Chromosome {
 	public String toString() {
 		String string = "";
 		for (int i = 0; i < genes.length; i++) {
-			string += genes[i].getValue() + " ";
+			string += genes[i].toString() + ", ";
 		}
 		return string;
 	}
