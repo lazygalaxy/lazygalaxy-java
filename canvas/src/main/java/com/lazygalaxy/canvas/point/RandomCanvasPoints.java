@@ -1,8 +1,8 @@
-package com.lazygalaxy.canvas.points;
+package com.lazygalaxy.canvas.point;
 
 import com.lazygalaxy.canvas.Canvas;
 import com.lazygalaxy.canvas.PointCanvas;
-import com.lazygalaxy.canvas.main.WireFrameCreate;
+import com.lazygalaxy.canvas.main.WireFrameGeneticAlgorithmCreate;
 
 public class RandomCanvasPoints extends PointCanvas {
 
@@ -16,7 +16,7 @@ public class RandomCanvasPoints extends PointCanvas {
 	@Override
 	public PointCanvas apply(Canvas canvas) throws Exception {
 		while (points.size() < sample) {
-			points.add(canvas.getPoint((int) (WireFrameCreate.RANDOM.nextInt(canvas.getSize()))));
+			points.add(canvas.getPoint((int) (WireFrameGeneticAlgorithmCreate.RANDOM.nextInt(canvas.getSize()))));
 		}
 		return this;
 	}

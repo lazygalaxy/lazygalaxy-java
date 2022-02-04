@@ -4,6 +4,7 @@ import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.GradientPaint;
 import java.awt.Graphics2D;
+import java.awt.Image;
 import java.awt.RenderingHints;
 import java.awt.image.BufferedImage;
 import java.io.File;
@@ -31,6 +32,11 @@ public class BufferedImageCanvas extends Canvas {
 		bufferedImage = new BufferedImage(width, height, BufferedImage.TYPE_INT_RGB);
 		getGraphics2D().setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON);
 		getGraphics2D().setStroke(basicStroke);
+	}
+
+	@Override
+	public Image getImage() throws Exception {
+		return bufferedImage;
 	}
 
 	@Override

@@ -1,4 +1,4 @@
-package com.lazygalaxy.canvas.points;
+package com.lazygalaxy.canvas.point;
 
 import java.awt.Color;
 

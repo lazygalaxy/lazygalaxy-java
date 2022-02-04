@@ -1,6 +1,6 @@
 package com.lazygalaxy.canvas.common;
 
-import com.lazygalaxy.canvas.main.WireFrameCreate;
+import com.lazygalaxy.canvas.main.WireFrameGeneticAlgorithmCreate;
 
 public class IntegerGene extends Gene<Integer> {
 	final private int minValue;
@@ -16,7 +16,7 @@ public class IntegerGene extends Gene<Integer> {
 	}
 
 	public Integer randomize() {
-		return WireFrameCreate.RANDOM.nextInt(maxValue - minValue + 1) + minValue;
+		return WireFrameGeneticAlgorithmCreate.RANDOM.nextInt(maxValue - minValue + 1) + minValue;
 	}
 
 	public Integer getValue() {

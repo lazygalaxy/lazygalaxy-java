@@ -1,6 +1,6 @@
 package com.lazygalaxy.canvas.common;
 
-import com.lazygalaxy.canvas.main.WireFrameCreate;
+import com.lazygalaxy.canvas.main.WireFrameGeneticAlgorithmCreate;
 
 public class FloatGene extends Gene<Float> {
 	final private float minValue;
@@ -16,7 +16,7 @@ public class FloatGene extends Gene<Float> {
 	}
 
 	public Float randomize() {
-		return (WireFrameCreate.RANDOM.nextFloat() * (maxValue - minValue)) + minValue;
+		return (WireFrameGeneticAlgorithmCreate.RANDOM.nextFloat() * (maxValue - minValue)) + minValue;
 	}
 
 	public Float getValue() {

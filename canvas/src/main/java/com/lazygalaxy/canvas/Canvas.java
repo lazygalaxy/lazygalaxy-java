@@ -2,6 +2,7 @@ package com.lazygalaxy.canvas;
 
 import java.awt.Color;
 import java.awt.GradientPaint;
+import java.awt.Image;
 
 import com.lazygalaxy.canvas.common.Point;
 
@@ -12,6 +13,10 @@ public abstract class Canvas {
 	public abstract int getWidth();
 
 	public abstract int getSize();
+
+	public Image getImage() throws Exception {
+		throw new Exception("method not supported");
+	}
 
 	public Color getColor(int x, int y) throws Exception {
 		throw new Exception("method not supported");
