@@ -1,10 +1,11 @@
-package com.lazygalaxy.canvas.common;
+package com.lazygalaxy.ci.ga;
 
 import java.awt.Dimension;
 import java.awt.Frame;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.Image;
+import java.util.Random;
 
 import javax.swing.JPanel;
 
@@ -14,6 +15,9 @@ import org.apache.logging.log4j.Logger;
 import com.lazygalaxy.canvas.BufferedImageCanvas;
 import com.lazygalaxy.canvas.Canvas;
 import com.lazygalaxy.canvas.layer.WireFrameLayer;
+import com.lazygalaxy.ci.ga.gene.FloatGene;
+import com.lazygalaxy.ci.ga.gene.IntegerGene;
+import com.lazygalaxy.ci.ga.gene.LongGene;
 
 public class GeneticAlgorithmThread extends Thread {
 	private static final Logger LOGGER = LogManager.getLogger(GeneticAlgorithmThread.class);
@@ -39,17 +43,20 @@ public class GeneticAlgorithmThread extends Thread {
 				Canvas outputCanvas = new BufferedImageCanvas(size, size);
 
 				try {
-					IntegerGene removeThreshold = new IntegerGene("removeThreshold", 1, 150);
-					IntegerGene randomSample = new IntegerGene("randomSample", 500, 7500);
-					IntegerGene lineJoinDistanceThreshold = new IntegerGene("lineJoinDistanceThreshold", 10, 200);
-					FloatGene lineJoinThickness = new FloatGene("lineJoinThickness", 0.1f, 5f);
+					Chromosome chromosome = new Chromosome(new Random(), null);
 
-					Chromosome chromosome = new Chromosome(removeThreshold, randomSample, lineJoinDistanceThreshold,
-							lineJoinThickness);
+					IntegerGene removeThreshold = chromosome.addIntegerGene("removeThreshold", 1, 150);
+					LongGene randomSeed = chromosome.addLongGene("randomSeed", 0, Long.MAX_VALUE);
+					IntegerGene randomSample = chromosome.addIntegerGene("randomSample", 500, 7500);
+					IntegerGene lineJoinDistanceThreshold = chromosome.addIntegerGene("lineJoinDistanceThreshold", 10,
+							200);
+					FloatGene lineJoinThickness = chromosome.addFloatGene("lineJoinThickness", 0.1f, 5f);
+
 					LOGGER.info(chromosome);
 
-					new WireFrameLayer(inputCanvas, removeThreshold.getValue(), randomSample.getValue(),
-							lineJoinDistanceThreshold.getValue(), lineJoinThickness.getValue()).apply(outputCanvas);
+					new WireFrameLayer(inputCanvas, removeThreshold.getValue(), randomSeed.getValue(),
+							randomSample.getValue(), lineJoinDistanceThreshold.getValue(), lineJoinThickness.getValue())
+									.apply(outputCanvas);
 
 					CanvasPanel canvasPanel = new CanvasPanel(outputCanvas, 512);
 					canvasWallPanel.add(canvasPanel);

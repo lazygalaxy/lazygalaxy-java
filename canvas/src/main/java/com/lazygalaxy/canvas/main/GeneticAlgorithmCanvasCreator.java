@@ -17,7 +17,7 @@ import javax.swing.UIManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import com.lazygalaxy.canvas.common.GeneticAlgorithmThread;
+import com.lazygalaxy.ci.ga.GeneticAlgorithmThread;
 
 public class GeneticAlgorithmCanvasCreator {
 

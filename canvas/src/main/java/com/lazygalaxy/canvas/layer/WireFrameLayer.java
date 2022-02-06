@@ -11,13 +11,15 @@ public class WireFrameLayer implements CanvasLayer {
 
 	private Canvas inputCanvas;
 	private int removeThreshold;
+	private long randomSeed;
 	private int randomSample;
 	private int lineJoinDistanceThreshold;
 	private float lineJoinThickness;
 
-	public WireFrameLayer(Canvas inputCanvas, int removeThreshold, int randomSample, int lineJoinDistanceThreshold,
-			float lineJoinThickness) {
+	public WireFrameLayer(Canvas inputCanvas, int removeThreshold, long randomSeed, int randomSample,
+			int lineJoinDistanceThreshold, float lineJoinThickness) {
 		this.inputCanvas = inputCanvas;
+		this.randomSeed = randomSeed;
 		this.removeThreshold = removeThreshold;
 		this.randomSample = randomSample;
 		this.lineJoinDistanceThreshold = lineJoinDistanceThreshold;
@@ -36,8 +38,8 @@ public class WireFrameLayer implements CanvasLayer {
 			removeColorCanvasPoints = new RemoveCanvasPoints(inputCanvas.getWidth(), inputCanvas.getHeight(),
 					removeThreshold, Color.BLACK).apply(inputCanvas);
 
-			randomCanvasPoints = new RandomCanvasPoints(inputCanvas.getWidth(), inputCanvas.getHeight(), randomSample)
-					.apply(removeColorCanvasPoints);
+			randomCanvasPoints = new RandomCanvasPoints(inputCanvas.getWidth(), inputCanvas.getHeight(), randomSeed,
+					randomSample).apply(removeColorCanvasPoints);
 
 			transformCanvasPoints = new TransformCanvasPoints(canvas.getWidth(), canvas.getWidth())
 					.apply(randomCanvasPoints);

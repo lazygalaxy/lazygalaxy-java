@@ -1,10 +1,14 @@
-package com.lazygalaxy.canvas.common;
+package com.lazygalaxy.ci.ga.gene;
+
+import com.lazygalaxy.ci.ga.Chromosome;
 
 public abstract class Gene<T> {
+	final protected Chromosome chromosome;
 	final protected String name;
 	protected T value;
 
-	public Gene(String name) {
+	public Gene(Chromosome chromosome, String name) {
+		this.chromosome = chromosome;
 		this.name = name;
 	}
 

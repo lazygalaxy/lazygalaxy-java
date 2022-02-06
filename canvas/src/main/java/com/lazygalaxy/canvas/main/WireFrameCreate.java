@@ -27,7 +27,7 @@ public class WireFrameCreate {
 			inputCanvas = new BufferedImageCanvas(pathname);
 			outputCanvas = new BufferedImageCanvas(size, size);
 
-			new WireFrameLayer(inputCanvas, 10, 5000, 100, 0.2f).apply(outputCanvas);
+			new WireFrameLayer(inputCanvas, 10, 4, 5000, 100, 0.2f).apply(outputCanvas);
 
 			outputCanvas.saveAsPng("/Users/vangos/Development/digiart/process/lost_love");
 		} finally {

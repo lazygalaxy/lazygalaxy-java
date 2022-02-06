@@ -7,15 +7,15 @@ import org.apache.logging.log4j.Logger;
 
 import com.lazygalaxy.canvas.BufferedImageCanvas;
 import com.lazygalaxy.canvas.Canvas;
-import com.lazygalaxy.canvas.common.Chromosome;
-import com.lazygalaxy.canvas.common.FloatGene;
-import com.lazygalaxy.canvas.common.IntegerGene;
 import com.lazygalaxy.canvas.layer.WireFrameLayer;
+import com.lazygalaxy.ci.ga.Chromosome;
+import com.lazygalaxy.ci.ga.gene.FloatGene;
+import com.lazygalaxy.ci.ga.gene.IntegerGene;
+import com.lazygalaxy.ci.ga.gene.LongGene;
 
-public class WireFrameGeneticAlgorithmCreate {
+public class WireFrameRandomCreate {
 
-	private static final Logger LOGGER = LogManager.getLogger(WireFrameGeneticAlgorithmCreate.class);
-	public static final Random RANDOM = new Random(4);
+	private static final Logger LOGGER = LogManager.getLogger(WireFrameRandomCreate.class);
 
 	public static void main(String[] args) throws Exception {
 		long startTime = System.currentTimeMillis();
@@ -27,16 +27,17 @@ public class WireFrameGeneticAlgorithmCreate {
 		Canvas outputCanvas = new BufferedImageCanvas(size, size);
 
 		try {
-			IntegerGene removeThreshold = new IntegerGene("removeThreshold", 1, 150);
-			IntegerGene randomSample = new IntegerGene("randomSample", 500, 7500);
-			IntegerGene lineJoinDistanceThreshold = new IntegerGene("lineJoinDistanceThreshold", 10, 200);
-			FloatGene lineJoinThickness = new FloatGene("lineJoinThickness", 0.1f, 5f);
+			Chromosome chromosome = new Chromosome(new Random(), null);
 
-			Chromosome chromosome = new Chromosome(removeThreshold, randomSample, lineJoinDistanceThreshold,
-					lineJoinThickness);
+			IntegerGene removeThreshold = chromosome.addIntegerGene("removeThreshold", 1, 150);
+			LongGene randomSeed = chromosome.addLongGene("randomSeed", 0, Long.MAX_VALUE);
+			IntegerGene randomSample = chromosome.addIntegerGene("randomSample", 500, 7500);
+			IntegerGene lineJoinDistanceThreshold = chromosome.addIntegerGene("lineJoinDistanceThreshold", 10, 200);
+			FloatGene lineJoinThickness = chromosome.addFloatGene("lineJoinThickness", 0.1f, 5f);
+
 			LOGGER.info(chromosome);
 
-			new WireFrameLayer(inputCanvas, removeThreshold.getValue(), randomSample.getValue(),
+			new WireFrameLayer(inputCanvas, removeThreshold.getValue(), randomSeed.getValue(), randomSample.getValue(),
 					lineJoinDistanceThreshold.getValue(), lineJoinThickness.getValue()).apply(outputCanvas);
 
 			outputCanvas.saveAsPng("/Users/vangos/Development/digiart/process/lost_love");
