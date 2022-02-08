@@ -1,23 +1,29 @@
 package com.lazygalaxy.ci.ga.gene;
 
 import com.lazygalaxy.ci.ga.Chromosome;
+import com.lazygalaxy.ci.parameter.Parameter;
 
-public abstract class Gene<T> {
+public abstract class Gene<T, S extends Parameter<T>> {
 	final protected Chromosome chromosome;
-	final protected String name;
-	protected T value;
+	final protected S parameter;
 
-	public Gene(Chromosome chromosome, String name) {
+	public Gene(Chromosome chromosome, S parameter) {
 		this.chromosome = chromosome;
-		this.name = name;
+		this.parameter = parameter;
 	}
 
-	public abstract T randomize();
+	public S getParameter() {
+		return parameter;
+	}
 
-	public abstract T getValue();
+	protected abstract T getRandomValue();
+
+	public abstract void mutate(float mutationRate);
+
+	public abstract Gene<T, S> getClone();
 
 	@Override
 	public String toString() {
-		return name + ": " + value;
+		return parameter.getName() + ": " + parameter.getValue();
 	}
 }

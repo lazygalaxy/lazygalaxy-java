@@ -1,26 +1,28 @@
 package com.lazygalaxy.ci.ga.gene;
 
 import com.lazygalaxy.ci.ga.Chromosome;
+import com.lazygalaxy.ci.parameter.LongParameter;
 
-public class LongGene extends Gene<Long> {
-	final private long minValue;
-	final private long maxValue;
+public class LongGene extends Gene<Long, LongParameter> {
 
-	public LongGene(Chromosome chromosome, String name, long minValue, long maxValue) {
-		super(chromosome, name);
-
-		this.minValue = minValue;
-		this.maxValue = maxValue;
-
-		this.value = randomize();
+	public LongGene(Chromosome chromosome, LongParameter parameter) {
+		super(chromosome, parameter);
+		this.parameter.setValue(getRandomValue());
 	}
 
-	public Long randomize() {
-		// TODO: implement the min/max crrectly here
+	@Override
+	protected Long getRandomValue() {
 		return chromosome.getRandom().nextLong();
 	}
 
-	public Long getValue() {
-		return value;
+	@Override
+	public void mutate(float mutationRate) {
+		Long diffValue = getRandomValue() - parameter.getValue();
+		parameter.setValue(parameter.getValue() + Math.round(diffValue * Double.valueOf(mutationRate)));
+	}
+
+	@Override
+	public Gene<Long, LongParameter> getClone() {
+		return new LongGene(chromosome, parameter.getClone());
 	}
 }

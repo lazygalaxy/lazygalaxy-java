@@ -1,25 +1,29 @@
 package com.lazygalaxy.ci.ga.gene;
 
 import com.lazygalaxy.ci.ga.Chromosome;
+import com.lazygalaxy.ci.parameter.IntegerParameter;
 
-public class IntegerGene extends Gene<Integer> {
-	final private int minValue;
-	final private int maxValue;
+public class IntegerGene extends Gene<Integer, IntegerParameter> {
 
-	public IntegerGene(Chromosome chromosome, String name, int minValue, int maxValue) {
-		super(chromosome, name);
-
-		this.minValue = minValue;
-		this.maxValue = maxValue;
-
-		this.value = randomize();
+	public IntegerGene(Chromosome chromosome, IntegerParameter parameter) {
+		super(chromosome, parameter);
+		this.parameter.setValue(getRandomValue());
 	}
 
-	public Integer randomize() {
-		return chromosome.getRandom().nextInt(maxValue - minValue + 1) + minValue;
+	@Override
+	protected Integer getRandomValue() {
+		return chromosome.getRandom().nextInt(parameter.getMaxValue() - parameter.getMinValue() + 1)
+				+ parameter.getMinValue();
 	}
 
-	public Integer getValue() {
-		return value;
+	@Override
+	public void mutate(float mutationRate) {
+		Integer diffValue = getRandomValue() - parameter.getValue();
+		parameter.setValue(parameter.getValue() + Math.round(diffValue * mutationRate));
+	}
+
+	@Override
+	public Gene<Integer, IntegerParameter> getClone() {
+		return new IntegerGene(chromosome, parameter.getClone());
 	}
 }

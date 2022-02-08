@@ -33,12 +33,14 @@ public class WireFrameRandomCreate {
 			LongGene randomSeed = chromosome.addLongGene("randomSeed", 0, Long.MAX_VALUE);
 			IntegerGene randomSample = chromosome.addIntegerGene("randomSample", 500, 7500);
 			IntegerGene lineJoinDistanceThreshold = chromosome.addIntegerGene("lineJoinDistanceThreshold", 10, 200);
-			FloatGene lineJoinThickness = chromosome.addFloatGene("lineJoinThickness", 0.1f, 5f);
+			FloatGene lineJoinThickness = chromosome.addFloatGene("lineJoinThickness", 0.1f, 5f, 1);
 
 			LOGGER.info(chromosome);
 
-			new WireFrameLayer(inputCanvas, removeThreshold.getValue(), randomSeed.getValue(), randomSample.getValue(),
-					lineJoinDistanceThreshold.getValue(), lineJoinThickness.getValue()).apply(outputCanvas);
+			new WireFrameLayer(inputCanvas, removeThreshold.getParameter().getValue(),
+					randomSeed.getParameter().getValue(), randomSample.getParameter().getValue(),
+					lineJoinDistanceThreshold.getParameter().getValue(), lineJoinThickness.getParameter().getValue())
+							.apply(outputCanvas);
 
 			outputCanvas.saveAsPng("/Users/vangos/Development/digiart/process/lost_love");
 			LOGGER.info("writing artwork");
