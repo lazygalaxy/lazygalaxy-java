@@ -4,7 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import com.lazygalaxy.ci.ga.function.FitnessFunction;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+import com.lazygalaxy.ci.ga.fitness.Fitness;
 import com.lazygalaxy.ci.ga.gene.FloatGene;
 import com.lazygalaxy.ci.ga.gene.Gene;
 import com.lazygalaxy.ci.ga.gene.IntegerGene;
@@ -14,15 +17,16 @@ import com.lazygalaxy.ci.parameter.IntegerParameter;
 import com.lazygalaxy.ci.parameter.LongParameter;
 
 public class Chromosome implements Comparable<Chromosome> {
+	private static final Logger LOGGER = LogManager.getLogger(Chromosome.class);
 
 	private final Random random;
-	private final FitnessFunction fitnessFunction;
+	private final Fitness fitness;
 	private final List<Gene> genes = new ArrayList<Gene>();
-	private Float fitness = null;
+	private Float fitnessValue = null;
 
-	public Chromosome(Random random, FitnessFunction fitnessFunction) {
+	public Chromosome(Random random, Fitness fitness) {
 		this.random = random;
-		this.fitnessFunction = fitnessFunction;
+		this.fitness = fitness;
 	}
 
 	public Random getRandom() {
@@ -39,8 +43,8 @@ public class Chromosome implements Comparable<Chromosome> {
 		return gene;
 	}
 
-	public LongGene addLongGene(String name, long minValue, long maxValue) {
-		LongGene gene = new LongGene(this, new LongParameter(name, minValue, maxValue));
+	public LongGene addLongGene(String name) {
+		LongGene gene = new LongGene(this, new LongParameter(name));
 		genes.add(gene);
 		return gene;
 	}
@@ -68,7 +72,7 @@ public class Chromosome implements Comparable<Chromosome> {
 	}
 
 	public Chromosome crossOver(Chromosome parent) {
-		Chromosome newChromosome = new Chromosome(random, fitnessFunction);
+		Chromosome newChromosome = new Chromosome(random, fitness);
 		for (int i = 0; i < genes.size(); i++) {
 			newChromosome.addGene(random.nextBoolean() ? genes.get(i).getClone() : parent.getGene(i).getClone());
 		}
@@ -78,28 +82,38 @@ public class Chromosome implements Comparable<Chromosome> {
 	public void mutate(float mutationRate) {
 		for (int i = 0; i < genes.size(); i++) {
 			genes.get(i).mutate(mutationRate);
-			fitness = null;
+			fitnessValue = null;
 		}
 	}
 
-	public Float getFitness() {
-		if (fitness == null && fitnessFunction != null) {
-			fitness = fitnessFunction.apply(this);
+	public Float getFitnessValue() throws Exception {
+		if (fitnessValue == null && fitness != null) {
+			fitnessValue = fitness.apply(this);
 		}
-		return fitness;
+		return fitnessValue;
 	}
 
 	@Override
 	public int compareTo(Chromosome chromosome) {
-		return this.getFitness().compareTo(chromosome.getFitness());
+		try {
+			return this.getFitnessValue().compareTo(chromosome.getFitnessValue());
+		} catch (Exception e) {
+			LOGGER.error(e);
+			return -1;
+		}
 	}
 
 	@Override
 	public String toString() {
-		String string = "fitness: " + getFitness() + " ";
-		for (int i = 0; i < genes.size(); i++) {
-			string += genes.get(i).toString() + ", ";
+		try {
+			String string = "fitness: " + getFitnessValue() + " ";
+			for (int i = 0; i < genes.size(); i++) {
+				string += genes.get(i).toString() + ", ";
+			}
+			return string;
+		} catch (Exception e) {
+			LOGGER.error(e);
+			return "error";
 		}
-		return string;
 	}
 }

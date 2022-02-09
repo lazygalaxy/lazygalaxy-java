@@ -30,15 +30,15 @@ public class WireFrameRandomCreate {
 			Chromosome chromosome = new Chromosome(new Random(), null);
 
 			IntegerGene removeThreshold = chromosome.addIntegerGene("removeThreshold", 1, 150);
-			LongGene randomSeed = chromosome.addLongGene("randomSeed", 0, Long.MAX_VALUE);
-			IntegerGene randomSample = chromosome.addIntegerGene("randomSample", 500, 7500);
+			LongGene randomSeed = chromosome.addLongGene("randomSeed");
+			IntegerGene randomSampleSize = chromosome.addIntegerGene("randomSample", 500, 7500);
 			IntegerGene lineJoinDistanceThreshold = chromosome.addIntegerGene("lineJoinDistanceThreshold", 10, 200);
 			FloatGene lineJoinThickness = chromosome.addFloatGene("lineJoinThickness", 0.1f, 5f, 1);
 
 			LOGGER.info(chromosome);
 
 			new WireFrameLayer(inputCanvas, removeThreshold.getParameter().getValue(),
-					randomSeed.getParameter().getValue(), randomSample.getParameter().getValue(),
+					randomSeed.getParameter().getValue(), randomSampleSize.getParameter().getValue(),
 					lineJoinDistanceThreshold.getParameter().getValue(), lineJoinThickness.getParameter().getValue())
 							.apply(outputCanvas);
 

@@ -1,9 +1,9 @@
 package com.lazygalaxy.canvas.common;
 
 public class Point<T> {
-	final private int x;
-	final private int y;
-	final private T data;
+	private final int x;
+	private final int y;
+	private final T data;
 
 	public Point(int x, int y, T data) {
 		this.x = x;

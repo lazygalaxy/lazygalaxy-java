@@ -6,26 +6,12 @@ import com.lazygalaxy.ci.ga.gene.LongGene;
 
 public class LongParameter extends Parameter<Long> {
 
-	private final long minValue;
-	private final long maxValue;
-
-	public LongParameter(String name, long minValue, long maxValue) {
-		this(name, null, minValue, maxValue);
+	public LongParameter(String name) {
+		this(name, null);
 	}
 
-	public LongParameter(String name, Long value, long minValue, long maxValue) {
+	public LongParameter(String name, Long value) {
 		super(name, value);
-
-		this.minValue = minValue;
-		this.maxValue = maxValue;
-	}
-
-	public long getMinValue() {
-		return minValue;
-	}
-
-	public long getMaxValue() {
-		return maxValue;
 	}
 
 	@Override
@@ -35,6 +21,6 @@ public class LongParameter extends Parameter<Long> {
 
 	@Override
 	public LongParameter getClone() {
-		return new LongParameter(name, minValue, maxValue);
+		return new LongParameter(name);
 	}
 }

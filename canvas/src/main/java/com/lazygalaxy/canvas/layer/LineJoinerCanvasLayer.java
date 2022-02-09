@@ -8,9 +8,9 @@ import com.lazygalaxy.canvas.common.Point;
 
 public class LineJoinerCanvasLayer implements CanvasLayer {
 
-	private Canvas inputCanvas;
-	private int distanceThreshold;
-	private float thickness;
+	private final Canvas inputCanvas;
+	private final int distanceThreshold;
+	private final float thickness;
 
 	public LineJoinerCanvasLayer(int distanceThreshold, float thickness, Canvas inputCanvas) {
 		this.distanceThreshold = distanceThreshold;
@@ -18,13 +18,16 @@ public class LineJoinerCanvasLayer implements CanvasLayer {
 		this.inputCanvas = inputCanvas;
 	}
 
-	public void apply(Canvas canvas) throws Exception {
+	public Float apply(Canvas canvas) throws Exception {
+		int[] connectionSize = new int[inputCanvas.getSize()];
 		for (int i = 0; i < inputCanvas.getSize(); i++) {
 			for (int j = i + 1; j < inputCanvas.getSize(); j++) {
 				Point<Color> point1 = inputCanvas.getPoint(i);
 				Point<Color> point2 = inputCanvas.getPoint(j);
 
 				if (point1.getDistance(point2) < distanceThreshold) {
+					connectionSize[i]++;
+					connectionSize[j]++;
 					GradientPaint gradient = new GradientPaint(point1.getX(), point1.getY(), point1.getData(),
 							point2.getX(), point2.getY(), point2.getData());
 
@@ -32,5 +35,10 @@ public class LineJoinerCanvasLayer implements CanvasLayer {
 				}
 			}
 		}
+		float total = 0;
+		for (int i = 0; i < connectionSize.length; i++) {
+			total += connectionSize[i];
+		}
+		return total / connectionSize.length;
 	}
 }

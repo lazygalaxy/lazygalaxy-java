@@ -36,5 +36,10 @@ public abstract class PointCanvas extends Canvas {
 		return points.get(index);
 	}
 
-	public abstract PointCanvas apply(Canvas canvas) throws Exception;
+	@Override
+	public Point<Color> removePoint(int index) throws Exception {
+		return points.remove(index);
+	}
+
+	public abstract Canvas apply(Canvas canvas) throws Exception;
 }

@@ -2,32 +2,37 @@ package com.lazygalaxy.canvas.layer;
 
 import java.awt.Color;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import com.lazygalaxy.canvas.Canvas;
+import com.lazygalaxy.canvas.main.WireFrameCreate;
 import com.lazygalaxy.canvas.point.RandomCanvasPoints;
 import com.lazygalaxy.canvas.point.RemoveCanvasPoints;
 import com.lazygalaxy.canvas.point.TransformCanvasPoints;
 
 public class WireFrameLayer implements CanvasLayer {
+	private static final Logger LOGGER = LogManager.getLogger(WireFrameCreate.class);
 
-	private Canvas inputCanvas;
-	private int removeThreshold;
-	private long randomSeed;
-	private int randomSample;
-	private int lineJoinDistanceThreshold;
-	private float lineJoinThickness;
+	private final Canvas inputCanvas;
+	private final int removeThreshold;
+	private final long randomSeed;
+	private final int randomSampleSize;
+	private final int lineJoinDistanceThreshold;
+	private final float lineJoinThickness;
 
-	public WireFrameLayer(Canvas inputCanvas, int removeThreshold, long randomSeed, int randomSample,
+	public WireFrameLayer(Canvas inputCanvas, int removeThreshold, long randomSeed, int randomSampleSize,
 			int lineJoinDistanceThreshold, float lineJoinThickness) {
 		this.inputCanvas = inputCanvas;
 		this.randomSeed = randomSeed;
 		this.removeThreshold = removeThreshold;
-		this.randomSample = randomSample;
+		this.randomSampleSize = randomSampleSize;
 		this.lineJoinDistanceThreshold = lineJoinDistanceThreshold;
 		this.lineJoinThickness = lineJoinThickness;
 	}
 
 	@Override
-	public void apply(Canvas canvas) throws Exception {
+	public Float apply(Canvas canvas) throws Exception {
 		Canvas removeColorCanvasPoints = null;
 		Canvas randomCanvasPoints = null;
 		Canvas transformCanvasPoints = null;
@@ -39,13 +44,20 @@ public class WireFrameLayer implements CanvasLayer {
 					removeThreshold, Color.BLACK).apply(inputCanvas);
 
 			randomCanvasPoints = new RandomCanvasPoints(inputCanvas.getWidth(), inputCanvas.getHeight(), randomSeed,
-					randomSample).apply(removeColorCanvasPoints);
+					randomSampleSize).apply(removeColorCanvasPoints);
+			int canvasPointSize = randomCanvasPoints.getSize();
 
 			transformCanvasPoints = new TransformCanvasPoints(canvas.getWidth(), canvas.getWidth())
 					.apply(randomCanvasPoints);
 
-			new LineJoinerCanvasLayer(lineJoinDistanceThreshold, lineJoinThickness, transformCanvasPoints)
-					.apply(canvas);
+			float averageConnections = new LineJoinerCanvasLayer(lineJoinDistanceThreshold, lineJoinThickness,
+					transformCanvasPoints).apply(canvas);
+
+			float fitness = Math.abs(averageConnections - 50.0f);
+			LOGGER.debug("fitness: " + fitness + ", canvasPointSize: " + canvasPointSize + ", averageConnections: "
+					+ averageConnections);
+			return fitness;
+
 		} finally {
 			removeColorCanvasPoints.close();
 			randomCanvasPoints.close();

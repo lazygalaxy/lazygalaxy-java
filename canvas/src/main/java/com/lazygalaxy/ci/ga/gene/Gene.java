@@ -4,8 +4,8 @@ import com.lazygalaxy.ci.ga.Chromosome;
 import com.lazygalaxy.ci.parameter.Parameter;
 
 public abstract class Gene<T, S extends Parameter<T>> {
-	final protected Chromosome chromosome;
-	final protected S parameter;
+	protected final Chromosome chromosome;
+	protected final S parameter;
 
 	public Gene(Chromosome chromosome, S parameter) {
 		this.chromosome = chromosome;

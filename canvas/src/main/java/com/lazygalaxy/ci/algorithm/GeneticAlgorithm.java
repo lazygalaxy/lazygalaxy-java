@@ -9,7 +9,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.lazygalaxy.ci.ga.Chromosome;
-import com.lazygalaxy.ci.ga.function.FitnessFunction;
+import com.lazygalaxy.ci.ga.fitness.Fitness;
 import com.lazygalaxy.ci.parameter.Parameter;
 
 public class GeneticAlgorithm {
@@ -18,21 +18,23 @@ public class GeneticAlgorithm {
 	private final Random random;
 	private final int geneartionSize;
 	private final int epochs;
-	private FitnessFunction fitnessFunction;
+	private Fitness fitness;
 
 	private List<Chromosome> generation = new ArrayList<Chromosome>();
 
-	public GeneticAlgorithm(Random random, int geneartionSize, int epochs, FitnessFunction fitnessFunction) {
+	public GeneticAlgorithm(Random random, int geneartionSize, int epochs, Fitness fitness) {
 		this.random = random;
 		this.geneartionSize = geneartionSize;
 		this.epochs = epochs;
-		this.fitnessFunction = fitnessFunction;
+		this.fitness = fitness;
 
 		for (int c = 0; c < geneartionSize; c++) {
-			Chromosome chromosome = new Chromosome(random, fitnessFunction);
-			for (Parameter paramter : fitnessFunction.getParameters()) {
+			Chromosome chromosome = new Chromosome(random, fitness);
+			for (Parameter paramter : fitness.getParameters()) {
 				chromosome.addGene(paramter.getGene(chromosome));
 			}
+			LOGGER.info("initialized: " + c);
+
 			generation.add(chromosome);
 		}
 		Collections.sort(generation);
@@ -41,7 +43,8 @@ public class GeneticAlgorithm {
 	}
 
 	public void run() {
-		for (int e = 0; e < epochs; e++) {
+		for (int e = 1; e <= epochs; e++) {
+			LOGGER.info("epoch: " + e);
 			float mutationRate = 1.0f - (e / (epochs * 1.0f));
 
 			List<Chromosome> newGeneration = new ArrayList<Chromosome>();

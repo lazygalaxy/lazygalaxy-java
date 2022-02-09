@@ -1,4 +1,4 @@
-package com.lazygalaxy.ci.ga;
+package com.lazygalaxy.canvas.main;
 
 import java.awt.Dimension;
 import java.awt.Frame;
@@ -15,6 +15,7 @@ import org.apache.logging.log4j.Logger;
 import com.lazygalaxy.canvas.BufferedImageCanvas;
 import com.lazygalaxy.canvas.Canvas;
 import com.lazygalaxy.canvas.layer.WireFrameLayer;
+import com.lazygalaxy.ci.ga.Chromosome;
 import com.lazygalaxy.ci.ga.gene.FloatGene;
 import com.lazygalaxy.ci.ga.gene.IntegerGene;
 import com.lazygalaxy.ci.ga.gene.LongGene;
@@ -46,8 +47,8 @@ public class GeneticAlgorithmThread extends Thread {
 					Chromosome chromosome = new Chromosome(new Random(), null);
 
 					IntegerGene removeThreshold = chromosome.addIntegerGene("removeThreshold", 1, 150);
-					LongGene randomSeed = chromosome.addLongGene("randomSeed", 0, Long.MAX_VALUE);
-					IntegerGene randomSample = chromosome.addIntegerGene("randomSample", 500, 7500);
+					LongGene randomSeed = chromosome.addLongGene("randomSeed");
+					IntegerGene randomSampleSize = chromosome.addIntegerGene("randomSampleSize", 500, 7500);
 					IntegerGene lineJoinDistanceThreshold = chromosome.addIntegerGene("lineJoinDistanceThreshold", 10,
 							200);
 					FloatGene lineJoinThickness = chromosome.addFloatGene("lineJoinThickness", 0.1f, 5f, 1);
@@ -55,7 +56,7 @@ public class GeneticAlgorithmThread extends Thread {
 					LOGGER.info(chromosome);
 
 					new WireFrameLayer(inputCanvas, removeThreshold.getParameter().getValue(),
-							randomSeed.getParameter().getValue(), randomSample.getParameter().getValue(),
+							randomSeed.getParameter().getValue(), randomSampleSize.getParameter().getValue(),
 							lineJoinDistanceThreshold.getParameter().getValue(),
 							lineJoinThickness.getParameter().getValue()).apply(outputCanvas);
 

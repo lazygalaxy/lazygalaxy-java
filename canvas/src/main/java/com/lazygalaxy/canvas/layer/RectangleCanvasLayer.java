@@ -6,11 +6,11 @@ import com.lazygalaxy.canvas.Canvas;
 
 public class RectangleCanvasLayer implements CanvasLayer {
 
-	private int x;
-	private int y;
-	private int width;
-	private int height;
-	private Color color;
+	private final int x;
+	private final int y;
+	private final int width;
+	private final int height;
+	private final Color color;
 
 	public RectangleCanvasLayer(int width, int height, Color color) {
 		this(0, 0, width, height, color);
@@ -24,7 +24,8 @@ public class RectangleCanvasLayer implements CanvasLayer {
 		this.color = color;
 	}
 
-	public void apply(Canvas canvas) throws Exception {
+	public Float apply(Canvas canvas) throws Exception {
 		canvas.drawRectangle(x, y, width, height, color);
+		return null;
 	}
 }

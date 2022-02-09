@@ -1,17 +1,17 @@
-package com.lazygalaxy.ci.ga.function;
+package com.lazygalaxy.ci.ga.fitness;
 
 import com.lazygalaxy.ci.ga.Chromosome;
 import com.lazygalaxy.ci.parameter.FloatParameter;
 import com.lazygalaxy.ci.parameter.Parameter;
 
-public class EquationFitnessFunction implements FitnessFunction {
+public class EquationFitness implements Fitness {
 
-	public EquationFitnessFunction() {
+	public EquationFitness() {
 
 	}
 
 	@Override
-	public Float apply(Chromosome chromosome) {
+	public Float apply(Chromosome chromosome) throws Exception {
 		return Math.abs((chromosome.getGeneAsFloat(0) * 2) + (chromosome.getGeneAsFloat(1) * 4) - 6);
 	}
 

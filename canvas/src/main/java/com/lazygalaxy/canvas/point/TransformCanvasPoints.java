@@ -13,7 +13,7 @@ public class TransformCanvasPoints extends PointCanvas {
 	}
 
 	@Override
-	public PointCanvas apply(Canvas inputCanvas) throws Exception {
+	public Canvas apply(Canvas inputCanvas) throws Exception {
 		for (int i = 0; i < inputCanvas.getSize(); i++) {
 			Point<Color> colorPoint = inputCanvas.getPoint(i);
 			points.add(new Point<Color>(((colorPoint.getX() * width) / inputCanvas.getWidth()),

@@ -4,7 +4,7 @@ import com.lazygalaxy.ci.ga.Chromosome;
 import com.lazygalaxy.ci.parameter.FloatParameter;
 
 public class FloatGene extends Gene<Float, FloatParameter> {
-	final private float decimalPointFactor;
+	private final float decimalPointFactor;
 
 	public FloatGene(Chromosome chromosome, FloatParameter parameter) {
 		super(chromosome, parameter);

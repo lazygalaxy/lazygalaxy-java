@@ -8,8 +8,8 @@ import com.lazygalaxy.canvas.common.Point;
 
 public class RemoveCanvasPoints extends PointCanvas {
 
-	private int colorThreshold;
-	private Color color;
+	private final int colorThreshold;
+	private final Color color;
 
 	public RemoveCanvasPoints(int width, int height, int colorThreshold, Color color) {
 		super(width, height);
@@ -18,7 +18,7 @@ public class RemoveCanvasPoints extends PointCanvas {
 	}
 
 	@Override
-	public PointCanvas apply(Canvas canvas) throws Exception {
+	public Canvas apply(Canvas canvas) throws Exception {
 		for (int x = 0; x < canvas.getWidth(); x++) {
 			for (int y = 0; y < canvas.getHeight(); y++) {
 				Color readColor = canvas.getColor(x, y);
