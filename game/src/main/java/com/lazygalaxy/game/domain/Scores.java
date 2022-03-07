@@ -6,6 +6,7 @@ public class Scores extends MongoDocument {
 	public static final String DATABASE = "game";
 
 	public Integer vman;
+	public Integer rickDangerous;
 	public Integer watchMojo;
 	public Integer antopisa;
 	public Integer lazygalaxy;

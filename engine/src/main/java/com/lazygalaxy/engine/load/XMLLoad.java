@@ -1,5 +1,6 @@
 package com.lazygalaxy.engine.load;
 
+import java.io.File;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
@@ -31,8 +32,12 @@ public abstract class XMLLoad<T extends MongoDocument> {
 	}
 
 	public void load(String file, String gameTagName, Merge<T> merge, String... extraTagNames) throws Exception {
+		load(Paths.get(ClassLoader.getSystemResource(file).toURI()).toFile(), gameTagName, merge, extraTagNames);
+	}
+
+	public void load(File file, String gameTagName, Merge<T> merge, String... extraTagNames) throws Exception {
 		DocumentBuilder dBuilder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
-		Document xmlDocument = dBuilder.parse(Paths.get(ClassLoader.getSystemResource(file).toURI()).toFile());
+		Document xmlDocument = dBuilder.parse(file);
 		List<String> extraTagValues = new ArrayList<String>();
 		for (String tagName : extraTagNames) {
 			extraTagValues.add(xmlDocument.getElementsByTagName(tagName).item(0).getTextContent());

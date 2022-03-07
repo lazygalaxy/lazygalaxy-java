@@ -1,5 +1,0 @@
-//find duplicates
-{"rom":{$in:["invds","invho2","invinco"]}}
-
-//find games to use
-{$and:[{name:{$ne:null}},{hide:{$eq:null}}]}

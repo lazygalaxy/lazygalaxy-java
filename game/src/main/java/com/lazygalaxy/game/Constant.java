@@ -9,7 +9,6 @@ public class Constant {
 	public static class Genre {
 		public static String BASKETBALL = "basketball";
 		public static String LIGHTGUN = "lightgun";
-		public static String POOL = "pool";
 		public static String SPORT = "sport";
 	}
 
@@ -21,5 +20,7 @@ public class Constant {
 
 	public static class RomSet {
 		public static String MAME2003 = "mame2003";
+		public static String MAME2010 = "mame2010";
+		public static String FBNEO = "fbneo";
 	}
 }

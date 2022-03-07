@@ -1,8 +1,6 @@
 package com.lazygalaxy.engine.domain;
 
 import java.time.LocalDateTime;
-import java.util.Arrays;
-import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
 import java.util.UUID;
@@ -15,7 +13,7 @@ import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
 import com.lazygalaxy.engine.util.GeneralUtil;
 
 public abstract class MongoDocument {
-	public static final List<String> EXCLUDE_FIELDS = Arrays.asList("updateDateTime");
+	public static final String EXCLUDE_FIELD = "updateDateTime";
 
 	@Deprecated
 	protected static String buildId(String seperator, String... parts) {
@@ -36,8 +34,14 @@ public abstract class MongoDocument {
 	}
 
 	public MongoDocument(String id, String name, String[] labels) throws Exception {
+		this(id, true, name, labels);
+	}
+
+	public MongoDocument(String id, boolean normalizeId, String name, String[] labels) throws Exception {
 		if (!StringUtils.isBlank(id)) {
-			this.id = GeneralUtil.alphanumerify(id, "_", "");
+			if (normalizeId) {
+				this.id = GeneralUtil.alphanumerify(id, "_", "");
+			}
 		} else {
 			this.id = UUID.randomUUID().toString();
 		}
@@ -63,12 +67,12 @@ public abstract class MongoDocument {
 
 	@Override
 	public int hashCode() {
-		return HashCodeBuilder.reflectionHashCode(this, EXCLUDE_FIELDS);
+		return HashCodeBuilder.reflectionHashCode(this, EXCLUDE_FIELD);
 	}
 
 	@Override
 	public boolean equals(Object obj) {
-		return EqualsBuilder.reflectionEquals(this, obj, EXCLUDE_FIELDS);
+		return EqualsBuilder.reflectionEquals(this, obj, false, null, true, EXCLUDE_FIELD);
 	}
 
 	@Override

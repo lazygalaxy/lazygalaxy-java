@@ -8,7 +8,6 @@ import org.apache.commons.lang3.StringUtils;
 
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.game.Constant.Control;
-import com.lazygalaxy.game.Constant.Genre;
 import com.lazygalaxy.game.domain.Game;
 
 public enum Collection {
@@ -57,42 +56,42 @@ public enum Collection {
 			collections.add(VERTICAL.getMainLabel());
 		}
 
-		if (game.players != null && game.players >= 3) {
-			if (collections == null) {
-				collections = new TreeSet<String>();
-			}
-			collections.add(THREE_PLAYER.getMainLabel());
-		}
+//		if (game.players != null && game.players >= 3) {
+//			if (collections == null) {
+//				collections = new TreeSet<String>();
+//			}
+//			collections.add(THREE_PLAYER.getMainLabel());
+//		}
+//
+//		if (game.players != null && game.players >= 4) {
+//			if (collections == null) {
+//				collections = new TreeSet<String>();
+//			}
+//			collections.add(FOUR_PLAYER.getMainLabel());
+//		}
 
-		if (game.players != null && game.players >= 4) {
-			if (collections == null) {
-				collections = new TreeSet<String>();
-			}
-			collections.add(FOUR_PLAYER.getMainLabel());
-		}
+//		if (game.genres.contains(Genre.SPORT)) {
+//			if (collections == null) {
+//				collections = new TreeSet<String>();
+//			}
+//			collections.add(SPORT.getMainLabel());
+//		}
+//
+//		if (game.genres.contains(Genre.BASKETBALL)) {
+//			if (collections == null) {
+//				collections = new TreeSet<String>();
+//			}
+//			collections.add(BASKETBALL.getMainLabel());
+//		}
+//
+//		if (game.genres.contains(Genre.LIGHTGUN)) {
+//			if (collections == null) {
+//				collections = new TreeSet<String>();
+//			}
+//			collections.add(LIGHTGUN.getMainLabel());
+//		}
 
-		if (game.genres != null && game.genres.contains(Genre.SPORT)) {
-			if (collections == null) {
-				collections = new TreeSet<String>();
-			}
-			collections.add(SPORT.getMainLabel());
-		}
-
-		if (game.genres != null && game.genres.contains(Genre.BASKETBALL)) {
-			if (collections == null) {
-				collections = new TreeSet<String>();
-			}
-			collections.add(BASKETBALL.getMainLabel());
-		}
-
-		if (game.genres != null && game.genres.contains(Genre.LIGHTGUN)) {
-			if (collections == null) {
-				collections = new TreeSet<String>();
-			}
-			collections.add(LIGHTGUN.getMainLabel());
-		}
-
-		if (game.input != null && game.input.contains(Control.LIGHTGUN)) {
+		if (game.input.contains(Control.LIGHTGUN)) {
 			if (collections == null) {
 				collections = new TreeSet<String>();
 			}

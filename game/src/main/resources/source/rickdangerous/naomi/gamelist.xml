@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Naomi</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./azumanga.zip</path>
+		<name>Azumanga Daiō: Puzzle Bobble</name>
+		<desc>Azumanga Daiō: Puzzle Bobble is a spin-off of the Bust-a-Move/Puzzle Bobble series starring characters from the Azumanga Daioh anime/manga series. As with other installments in the series, the object of the game is match colored bubbles to clear the screen of bubbles.</desc>
+		<rating>0.5</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>MOSS</developer>
+		<publisher>Taito</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<hash />
+		<image>./boxart/azumanga.jpg</image>
+		<video>./snaps/azumanga.mp4</video>
+		<genreid>2816</genreid>
+	</game>
+	<game>
+		<path>./senko.zip</path>
+		<name>Senkō no Ronde: WarTech</name>
+		<desc>Senkō no Ronde: WarTech is an oppositional fighting game set in space. Players must try to shoot the enemy's plane and then once the enemy plane is close, the battle changes to hand-to-hand combat and players fight each other directly.</desc>
+		<releasedate>20050101T000000</releasedate>
+		<developer>G.Rev</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<hash />
+		<image>./boxart/senko.jpg</image>
+		<video>./snaps/senko.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game>
+		<path>./fotns.zip</path>
+		<name>Fist of the North Star</name>
+		<desc>Fist of the North Star is a 2D competitive fighting game produced by Sega and developed by Arc System Works, based on the manga series of the same name. It was originally released in 2005 as a coin-operated arcade game for the Atomiswave hardware.</desc>
+		<image>./boxart/fotns.jpg</image>
+		<video>./snaps/fotns.mp4</video>
+		<rating>0.95</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./rumblef2.zip</path>
+		<name>Rumble Fish 2, The</name>
+		<desc>Rumble Fish 2 uses all of the elements from the first game and adds some new ones. The Offense and Defense gauges have been divided into three sections each, allowing for more usage of Offensive and Defensive Arts, as well as techniques tied to each gauge. An addition to the system is the Boost Dive, which puts each character into a powered-up state according to their style. Most characters have had modifications to their movelists in some way, such as new moves, new commands for old moves, and so forth.</desc>
+		<image>./boxart/rumblef2.jpg</image>
+		<video>./snaps/rumblef2.mp4</video>
+		<rating>0.85</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./kov7sprt.zip</path>
+		<name>Knights of Valour: The Seven Spirits</name>
+		<desc>Knights of Valour is a side-scrolling Beat 'em up action arcade game released by International Games System in 1999. The plot is loosely adapted from the Chinese historical novel Romance of the Three Kingdoms and features the Five Tiger Generals, Zhuge Liang, Diaochan and others as playable characters. The gameplay involves the use of magical powers that are not featured in other games also based on the novel.</desc>
+		<image>./boxart/kov7sprt.jpg</image>
+		<video>./snaps/kov7sprt.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>International Games System</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ftspeed.zip</path>
+		<name>Faster Than Speed</name>
+		<desc>Enter the exciting street-racing world of FASTER THAN SPEED where the winner rules and the loser walks! Hit the street with the most addictive driving experience of your life! Pick from 8 customized rides. FASTER THAN SPEED will take your players into the exotic, dim-lit, back streets of over 6 tracks challenging the quickest, the fastest, the baddest, and the most stocked racer conquers the asphalt! To take down your challenger, you need to burn the street with a variety of high-speed tricks.</desc>
+		<image>./boxart/ftspeed.jpg</image>
+		<video>./snaps/ftspeed.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./ggxxsla.zip</path>
+		<name>Guilty Gear XX Slash</name>
+		<sortname>Guilty Gear XX 2</sortname>
+		<desc>The second Japan-exclusive revision of Guilty Gear XX adds new balance changes and stage modifications while adding two characters: A.B.A. and Order-Sol.</desc>
+		<image>./boxart/ggxxsla.jpg</image>
+		<video>./snaps/ggxxsla.mp4</video>
+		<rating>0.9</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ggxxac.zip</path>
+		<name>Guilty Gear XX Accent Core</name>
+		<sortname>Guilty Gear XX 3</sortname>
+		<desc>This is the 4th edition under the XX banner and allows players to once again get their fill of fast paced intense 2-D anime mayhem. In this version Force Breaks are added which are power moves that use up a quarter of tension gauge. Parrying is another addition, where the fighter flashing gold while parrying. If successful the opponent is vulnerable, if not the fighter cannot block for a limited time. Other changes include the air moves cancels to air dash, throw breaks, additional character moves and story arcs.</desc>
+		<image>./boxart/ggxxac.jpg</image>
+		<video>./snaps/ggxxac.mp4</video>
+		<rating>0.75</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./rumblef.zip</path>
+		<name>Rumble Fish, The </name>
+		<sortname>Rumble Fish 1</sortname>
+		<desc>The Rumble Fish is a fighting game created by Dimps for the Atomiswave arcade platform. Its most distinguishing quality is its graphics engine, which animates the characters' limbs separately.</desc>
+		<image>./boxart/rumblef.jpg</image>
+		<video>./snaps/rumblef.mp4</video>
+		<rating>0.85</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ggxx.zip</path>
+		<name>Guilty Gear XX</name>
+		<desc>A newly discovered form of energy has been used to create devastating bio-weapons with fused human and animal DNA. Known as the Gears, they are now self-aware and amok. They threaten human dominance on the planet.</desc>
+		<image>./boxart/ggxx.jpg</image>
+		<video>./snaps/ggxx.mp4</video>
+		<rating>0.85</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220108T172538</lastplayed>
+	</game>
+	<game>
+		<path>./dygolf.zip</path>
+		<name>Virtua Golf</name>
+		<desc>Dynamic Golf is a challenging golf video game for up to four players. Compete in several different sessions including stroke play, match play and skins. The game features precise ball control including backspin, topspin and shot shaping. Players can start at any hole. There are Nearest to the Pin and Longest Drive contests within the multiplayer games.</desc>
+		<image>./boxart/dygolf.jpg</image>
+		<video>./snaps/dygolf.mp4</video>
+		<rating>0.9</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Wow Entertainment</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220108T164237</lastplayed>
+	</game>
+	<game>
+		<path>./virnba.zip</path>
+		<name>Virtua NBA</name>
+		<desc>Virtua NBA presents its basketball action on a 3D court, but it essentially maintains a 2D perspective for most of the viewing, save for its replay sequences. Essentially, it looks like a highly detailed 3D version of NBA Showtime. Because Sega opted to allow only five preselected characters per team, it could focus on making sure those players look very life-like (rather than attempt to bring every NBA player into the game).</desc>
+		<image>./boxart/virnba.jpg</image>
+		<video>./snaps/virnba.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220108T164335</lastplayed>
+	</game>
+	<game>
+		<path>./monkeyba.zip</path>
+		<name>Monkey Ball</name>
+		<desc>Monkey Ball is a Sega NAOMI GD-ROM arcade game, originally released in 2001. It is the first game in the Super Monkey Ball series. The arcade cabinet of Monkey Ball is unique for its banana-shaped joystick. All the bananas in the game are sponsored by Dole, a practise that would carry through to its successor, Super Monkey Ball and Super Monkey Ball 2. There are three characters, AiAi, MeeMee and Baby, three difficulty levels and numerous puzzles to complete.</desc>
+		<image>./boxart/monkeyba.jpg</image>
+		<video>./snaps/monkeyba.mp4</video>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>SEGA</publisher>
+		<genre>Puzzle</genre>
+		<playcount>3</playcount>
+		<lastplayed>20220109T095440</lastplayed>
+	</game>
+	<game>
+		<path>./asndynmt.zip</path>
+		<name>Asian Dynamite</name>
+		<desc>Asian Dynamite is a Sega NAOMI arcade beat-'em-up game. It is known as Dynamite Deka EX in Japan, and is a direct sequel to Dynamite Deka, meaning in its localised form, Asian Dynamite is a direct sequel to Die Hard Arcade, with the references to the movie franchise removed.nnnnThe game has not been ported to home platforms, nor has it even seen a US release. It is extremely similar to Dynamite Cop in design, simply sporting an updated Asian aesthetic and replacing Jean Ivy and Eddie Brown with Caroline Powell and Jennifer Genuine, respectively. Caroline is the president's daughter from the first game grown up.</desc>
+		<image>./boxart/asndynmt.jpg</image>
+		<video>./snaps/asndynmt.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220111T170904</lastplayed>
+	</game>
+</gameList>

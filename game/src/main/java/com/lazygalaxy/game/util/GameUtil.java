@@ -58,7 +58,7 @@ public class GameUtil {
 			for (Game game : games) {
 				if (game.hide == null || !game.hide) {
 					unhiddenCounter += 1;
-					roms += " " + game.rom;
+					roms += " " + game.romId;
 				}
 			}
 

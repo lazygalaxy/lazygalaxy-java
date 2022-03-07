@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Daphne</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="51173" source="ScreenScraper.fr">
+		<path>./ace.daphne</path>
+		<name>Space Ace</name>
+		<desc>Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems (later renamed RDI Video Systems). It was unveiled in October 1983, just four months after the Dragon's Lair game, then released in Spring 1984, and like its predecessor featured film-quality animation played back from a laserdisc. 
+ 
+The gameplay is also similar, requiring the player to move the joystick or press the fire button at key moments in the animated sequences to govern the hero's actions. However, the game's action was more varied with the player occasionally given the temporary option to either have the character he is controlling transform back into his adult form, or remain as a boy with different styles of challenges.</desc>
+		<image>./media/images/ace.png</image>
+		<video>./media/videos/ace.mp4</video>
+		<marquee>./media/wheel/ace.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19840424T000000</releasedate>
+		<developer>Advanced Microcomputer Systems</developer>
+		<publisher>Cinematronics</publisher>
+		<genre>Platform / Run Jump-Platform-Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>257</genreid>
+	</game>
+	<game id="51165" source="ScreenScraper.fr">
+		<path>./dle21.daphne</path>
+		<name>Dragon's Lair</name>
+		<desc>Originally released in the arcades as a laserdisc game, Dragon's Lair is an interactive cartoon movie. Players control Dirk the Daring as he struggles his way through a dungeon to fight Singe, the Dragon, and rescue the beautiful Princess Daphne. The game consists of animated scenes, during which the player has to press direction buttons or the sword button in the right moment to trigger the next segment of the movie.</desc>
+		<image>./media/images/dle21.png</image>
+		<video>./media/videos/dle21.mp4</video>
+		<marquee>./media/wheel/dle21.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830601T000000</releasedate>
+		<developer>Sullivan Bluth Interactive</developer>
+		<publisher>Cinematronics</publisher>
+		<genre>Action-Action / Adventure-Platform / Run Jump-Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>257</genreid>
+	</game>
+</gameList>
