@@ -1,9 +1,8 @@
-package com.lazygalaxy.game.main_old;
+package com.lazygalaxy.game.main;
 
 import java.util.Arrays;
 import java.util.List;
 
-import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -14,8 +13,8 @@ import com.lazygalaxy.engine.load.TextFileLoad;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.merge.GameMerge;
 
-public class B1_RunHideEnrichGameLoad {
-	private static final Logger LOGGER = LogManager.getLogger(B1_RunHideEnrichGameLoad.class);
+public class B2_RunHideEnrichGameLoad {
+	private static final Logger LOGGER = LogManager.getLogger(B2_RunHideEnrichGameLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {
@@ -24,8 +23,8 @@ public class B1_RunHideEnrichGameLoad {
 			new DerivedHideEnrichGameLoad().load(merge);
 			LOGGER.info("derived enrich completed!");
 
-			// new CustomHideEnrichGameLoad().load("txt/custom_hide_games.txt", 0, merge);
-			// LOGGER.info("hide enrich completed!");
+			new CustomHideEnrichGameLoad().load("hide/custom_hide.txt", 0, merge);
+			LOGGER.info("custom hide enrich completed!");
 		} finally {
 			MongoConnectionHelper.INSTANCE.close();
 		}
@@ -39,25 +38,10 @@ public class B1_RunHideEnrichGameLoad {
 
 		@Override
 		protected List<Game> getMongoDocument(Game game) throws Exception {
-			if (!StringUtils.isBlank(game.name)) {
-				if (game.cloneOfRomId != null || (game.sampleOf != null && !StringUtils.equals(game.romId, game.sampleOf))) {
-					game.hide = true;
-				} else {
-					game.hide = false;
-				}
-
-				switch (game.sourceFile) {
-				case "decocass.cpp":
-				case "megatech.cpp":
-				case "playch10.cpp":
-					game.hide = true;
-				}
+			if (game.cloneOfRomId != null && !game.parentMissing) {
+				game.hide = true;
 			} else {
-				if (game.hide == null || !game.hide) {
-					game.hide = true;
-				} else {
-					return null;
-				}
+				game.hide = false;
 			}
 			return Arrays.asList(game);
 		}
@@ -70,17 +54,16 @@ public class B1_RunHideEnrichGameLoad {
 		}
 
 		@Override
-		protected List<Game> getMongoDocument(String rom) throws Exception {
-			Game game = MongoHelper.getHelper(Game.class).getDocumentById(rom + "_arcade");
-
-			if (game == null) {
-				LOGGER.info("No game found: " + rom);
-			} else {
+		protected List<Game> getMongoDocument(String gameId) throws Exception {
+			Game game = MongoHelper.getHelper(Game.class).getDocumentById(gameId);
+			if (game != null) {
 				game.hide = true;
 				return Arrays.asList(game);
+			} else {
+				LOGGER.warn("game id not found:" + gameId);
 			}
-
 			return null;
+
 		}
 	}
 }

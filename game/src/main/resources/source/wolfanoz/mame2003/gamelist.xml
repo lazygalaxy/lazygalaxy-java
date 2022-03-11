@@ -2776,9 +2776,9 @@ A seminal 1-on-1 fighting game set over the course of a karate tournament, Karat
 		<genre>Fight / Versus-Fight</genre>
 		<players>1-2</players>
 		<hash />
-		<image>./media/images/kchampvs.png</image>
-		<marquee>./media/wheel/kchampvs.png</marquee>
-		<video>./media/videos/kchampvs.mp4</video>
+		<image>./media/images/kchamp.png</image>
+		<marquee>./media/wheel/kchamp.png</marquee>
+		<video>./media/videos/kchamp.mp4</video>
 		<genreid>262</genreid>
 	</game>
 	<game id="41955" source="ScreenScraper.fr">

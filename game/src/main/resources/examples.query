@@ -1,0 +1,8 @@
+// no name game info
+{"sourceFile":null}
+
+//or
+{ $or: [ { "romId":"simpsons" }, { "cloneOfRomId":"simpsons" }] }
+
+//no source info
+{ $and: [ { "sourceFile":null }, { "systemId": { $ne: "openbor" } }, { "systemId": { $ne: "neogeocd" } }] }

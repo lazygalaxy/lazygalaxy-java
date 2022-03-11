@@ -12,15 +12,18 @@ public class Constant {
 		public static String SPORT = "sport";
 	}
 
-	public static class GameSystem {
+	public static class System {
 		public static String ARCADE = "arcade";
+		public static String ATOMISWAVE = "atomiswave";
 		public static String NAOMI = "naomi";
 		public static String NEOGEO = "neogeo";
+		public static String NEOGEOCD = "neogeocd";
+		public static String OPENBOR = "openbor";
 	}
 
-	public static class RomSet {
-		public static String MAME2003 = "mame2003";
-		public static String MAME2010 = "mame2010";
-		public static String FBNEO = "fbneo";
+	public static class Emulator {
+		public final static String MAME2003 = "mame2003";
+		public final static String MAME2010 = "mame2010";
+		public final static String FBNEO = "fbneo";
 	}
 }

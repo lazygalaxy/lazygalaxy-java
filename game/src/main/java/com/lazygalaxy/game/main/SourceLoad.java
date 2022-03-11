@@ -4,6 +4,8 @@ import java.io.File;
 import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Set;
+import java.util.TreeSet;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
@@ -12,6 +14,7 @@ import org.w3c.dom.Element;
 
 import com.lazygalaxy.engine.load.XMLLoad;
 import com.lazygalaxy.engine.util.XMLUtil;
+import com.lazygalaxy.game.Constant;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
 import com.lazygalaxy.game.merge.GameMerge;
@@ -29,13 +32,27 @@ public class SourceLoad {
 	}
 
 	private static class GameListLoad extends XMLLoad<Game> {
-		private String source;
-		private String systemId;
+		private final String source;
+		private final String systemId;
+		private final String emulator;
 
 		public GameListLoad(String source, String systemId) throws Exception {
 			super(Game.class);
 			this.source = source;
-			this.systemId = systemId;
+
+			switch (systemId) {
+			case Constant.Emulator.FBNEO:
+			case Constant.Emulator.MAME2003:
+			case Constant.Emulator.MAME2010:
+				this.emulator = systemId;
+				this.systemId = Constant.System.ARCADE;
+				break;
+			default:
+				this.emulator = null;
+				this.systemId = systemId;
+				break;
+			}
+
 		}
 
 		@Override
@@ -60,11 +77,37 @@ public class SourceLoad {
 				String[] playerArray = XMLUtil.getTagAsString(element, "players", 0).split("-");
 				players = Integer.parseInt(playerArray[playerArray.length - 1]);
 			}
+
+			Set<String> manufacturers = null;
 			String developer = XMLUtil.getTagAsString(element, "developer", 0);
 			String publisher = XMLUtil.getTagAsString(element, "publisher", 0);
+			if (!StringUtils.isBlank(developer) || !StringUtils.isBlank(publisher)) {
+				manufacturers = new TreeSet<String>();
+				if (!StringUtils.isBlank(developer)) {
+					manufacturers.add(developer);
+				}
+				if (!StringUtils.isBlank(publisher)) {
+					manufacturers.add(publisher);
+				}
+			}
 
-			Game.class.getField(source + "GameInfo").set(game, new GameInfo(path, name, year, description, genre, image,
-					video, marquee, rating, players, developer, publisher));
+			Game.class.getField(source + "GameInfo").set(game,
+					new GameInfo(path, name, year, description, genre, image, video, marquee,
+							rating != null && rating > 0 ? rating : null, players, manufacturers,
+							!StringUtils.isBlank(emulator) ? new TreeSet<String>(Arrays.asList(emulator)) : null));
+
+			// defaults
+			if (game.isVeritcal == null) {
+				game.isVeritcal = false;
+			}
+
+			if (game.hide == null) {
+				game.hide = false;
+			}
+
+			if (game.parentMissing == null) {
+				game.parentMissing = false;
+			}
 
 			return Arrays.asList(game);
 		}

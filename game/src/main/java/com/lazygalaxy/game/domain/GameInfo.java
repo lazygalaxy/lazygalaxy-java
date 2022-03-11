@@ -1,6 +1,12 @@
 package com.lazygalaxy.game.domain;
 
+import java.util.Set;
+
+import org.apache.commons.lang3.builder.EqualsBuilder;
+import org.apache.commons.lang3.builder.HashCodeBuilder;
 import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
+
+import com.lazygalaxy.game.util.SetUtil;
 
 public class GameInfo {
 
@@ -14,15 +20,15 @@ public class GameInfo {
 	public String marquee;
 	public Double rating;
 	public Integer players;
-	public String developer;
-	public String publisher;
+	public Set<String> manufacturers;
+	public Set<String> emulators;
 
 	public GameInfo() {
 
 	}
 
 	public GameInfo(String path, String name, String year, String description, String genre, String image, String video,
-			String marquee, Double rating, Integer players, String developer, String publisher) {
+			String marquee, Double rating, Integer players, Set<String> manufacturers, Set<String> emulators) {
 		this.path = path;
 		this.name = name;
 		this.year = year;
@@ -33,8 +39,18 @@ public class GameInfo {
 		this.marquee = marquee;
 		this.rating = rating;
 		this.players = players;
-		this.developer = developer;
-		this.publisher = publisher;
+		this.manufacturers = SetUtil.addValue(this.manufacturers, manufacturers);
+		this.emulators = SetUtil.addValue(this.emulators, emulators);
+	}
+
+	@Override
+	public int hashCode() {
+		return HashCodeBuilder.reflectionHashCode(this);
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		return EqualsBuilder.reflectionEquals(this, obj);
 	}
 
 	@Override

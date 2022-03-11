@@ -46,10 +46,9 @@ public abstract class MongoDocument {
 			this.id = UUID.randomUUID().toString();
 		}
 		this.name = name;
+		addLabel(name);
 
 		if (labels != null) {
-			this.labels = new TreeSet<String>();
-			addLabel(name);
 			for (String label : labels) {
 				addLabel(label);
 			}
@@ -58,7 +57,12 @@ public abstract class MongoDocument {
 	}
 
 	public void addLabel(String label) {
-		this.labels.add(GeneralUtil.alphanumerify(label));
+		if (!StringUtils.isBlank(label)) {
+			if (this.labels == null) {
+				this.labels = new TreeSet<String>();
+			}
+			this.labels.add(GeneralUtil.alphanumerify(label));
+		}
 	}
 
 	public void removeLabel(String label) {
@@ -72,7 +76,7 @@ public abstract class MongoDocument {
 
 	@Override
 	public boolean equals(Object obj) {
-		return EqualsBuilder.reflectionEquals(this, obj, false, null, true, EXCLUDE_FIELD);
+		return EqualsBuilder.reflectionEquals(this, obj, EXCLUDE_FIELD);
 	}
 
 	@Override
