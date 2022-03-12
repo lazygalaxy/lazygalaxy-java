@@ -13,7 +13,7 @@ import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.XMLLoad;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.engine.util.XMLUtil;
-import com.lazygalaxy.game.Constant.System;
+import com.lazygalaxy.game.Constant.GameSystem;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
 import com.lazygalaxy.game.merge.GameMerge;
@@ -50,7 +50,7 @@ public class B1_MameGameInfoLoad {
 
 			String romId = XMLUtil.getAttributeAsString(element, "name");
 			List<Game> games = GameUtil.getGames(false, false, romId, Filters.eq("romId", romId),
-					Filters.in("systemId", System.ARCADE, System.ATOMISWAVE, System.NAOMI, System.NEOGEO));
+					Filters.in("systemId", GameSystem.ARCADE, GameSystem.ATOMISWAVE, GameSystem.NAOMI, GameSystem.NEOGEO));
 
 			if (games != null) {
 				for (Game game : games) {
@@ -98,7 +98,7 @@ public class B1_MameGameInfoLoad {
 			if (!StringUtils.isBlank(game.cloneOfRomId)) {
 				List<Game> parentGames = GameUtil.getGames(false, false, game.cloneOfRomId,
 						Filters.eq("romId", game.cloneOfRomId),
-						Filters.in("systemId", System.ARCADE, System.ATOMISWAVE, System.NAOMI, System.NEOGEO));
+						Filters.in("systemId", GameSystem.ARCADE, GameSystem.ATOMISWAVE, GameSystem.NAOMI, GameSystem.NEOGEO));
 
 				if (parentGames != null) {
 					game.parentMissing = false;

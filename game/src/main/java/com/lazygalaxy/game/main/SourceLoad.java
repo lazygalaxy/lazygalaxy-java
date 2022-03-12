@@ -1,12 +1,18 @@
 package com.lazygalaxy.game.main;
 
 import java.io.File;
+import java.net.URL;
+import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 import java.util.TreeSet;
+import java.util.stream.Stream;
 
+import org.apache.commons.lang3.RegExUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -24,31 +30,55 @@ public class SourceLoad {
 
 	protected static void sourceLoad(String source) throws Exception {
 		GameMerge merge = new GameMerge();
-		File scrapeDir = Paths.get(ClassLoader.getSystemResource("source/" + source).toURI()).toFile();
+		File scrapeDir = Paths.get(ClassLoader.getSystemResource("source/" + source + "/roms").toURI()).toFile();
 		for (File systemFile : scrapeDir.listFiles()) {
-			new GameListLoad(source, systemFile.getName()).load(new File(systemFile, "gamelist.xml"), "game", merge);
-			LOGGER.info(source + " " + systemFile.getName() + " enrich load completed!");
+			if (systemFile.isDirectory()) {
+				new GameListLoad(source, systemFile.getName()).load(new File(systemFile, "gamelist.xml"), "game",
+						merge);
+				LOGGER.info(source + " " + systemFile.getName() + " enrich load completed!");
+			}
 		}
 	}
 
 	private static class GameListLoad extends XMLLoad<Game> {
-		private final String source;
-		private final String systemId;
-		private final String emulator;
+		private String source;
+		private String systemId;
+		private String defaultEmulator = null;
+		private Map<String, String> emulatorMap = new HashMap<String, String>();
 
 		public GameListLoad(String source, String systemId) throws Exception {
 			super(Game.class);
 			this.source = source;
 
 			switch (systemId) {
-			case Constant.Emulator.FBNEO:
-			case Constant.Emulator.MAME2003:
-			case Constant.Emulator.MAME2010:
-				this.emulator = systemId;
-				this.systemId = Constant.System.ARCADE;
+			case Constant.GameEmulator.FBNEO:
+			case Constant.GameEmulator.MAME2003:
+			case Constant.GameEmulator.MAME2010:
+				this.defaultEmulator = systemId;
+				this.systemId = Constant.GameSystem.ARCADE;
 				break;
 			default:
-				this.emulator = null;
+				URL fileURL = ClassLoader
+						.getSystemResource("source/" + source + "/roms/" + systemId + "/emulators.cfg");
+				if (fileURL != null) {
+					Stream<String> lines = Files.lines(Paths.get(fileURL.toURI()));
+					lines.forEach(line -> {
+						if (line.startsWith("default")) {
+							defaultEmulator = RegExUtils.removeAll(StringUtils.split(line, "=")[1], "\"").trim();
+						}
+					});
+					lines.close();
+				}
+				fileURL = ClassLoader.getSystemResource("source/" + source + "/roms/emulators.cfg");
+				if (fileURL != null) {
+					Stream<String> lines = Files.lines(Paths.get(fileURL.toURI()));
+					lines.forEach(line -> {
+						String[] tokens = StringUtils.split(line, "=");
+						emulatorMap.put(tokens[0].trim(), RegExUtils.removeAll(tokens[1], "\"").trim());
+					});
+					lines.close();
+				}
+
 				this.systemId = systemId;
 				break;
 			}
@@ -94,7 +124,7 @@ public class SourceLoad {
 			Game.class.getField(source + "GameInfo").set(game,
 					new GameInfo(path, name, year, description, genre, image, video, marquee,
 							rating != null && rating > 0 ? rating : null, players, manufacturers,
-							!StringUtils.isBlank(emulator) ? new TreeSet<String>(Arrays.asList(emulator)) : null));
+							emulatorMap.containsKey(game.id) ? emulatorMap.get(game.id) : defaultEmulator));
 
 			// defaults
 			if (game.isVeritcal == null) {

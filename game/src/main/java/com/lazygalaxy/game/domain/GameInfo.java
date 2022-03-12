@@ -28,7 +28,7 @@ public class GameInfo {
 	}
 
 	public GameInfo(String path, String name, String year, String description, String genre, String image, String video,
-			String marquee, Double rating, Integer players, Set<String> manufacturers, Set<String> emulators) {
+			String marquee, Double rating, Integer players, Set<String> manufacturers, String emulator) {
 		this.path = path;
 		this.name = name;
 		this.year = year;
@@ -40,7 +40,7 @@ public class GameInfo {
 		this.rating = rating;
 		this.players = players;
 		this.manufacturers = SetUtil.addValue(this.manufacturers, manufacturers);
-		this.emulators = SetUtil.addValue(this.emulators, emulators);
+		this.emulators = SetUtil.addValue(this.emulators, emulator);
 	}
 
 	@Override

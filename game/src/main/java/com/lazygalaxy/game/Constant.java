@@ -12,7 +12,7 @@ public class Constant {
 		public static String SPORT = "sport";
 	}
 
-	public static class System {
+	public static class GameSystem {
 		public static String ARCADE = "arcade";
 		public static String ATOMISWAVE = "atomiswave";
 		public static String NAOMI = "naomi";
@@ -21,7 +21,7 @@ public class Constant {
 		public static String OPENBOR = "openbor";
 	}
 
-	public static class Emulator {
+	public static class GameEmulator {
 		public final static String MAME2003 = "mame2003";
 		public final static String MAME2010 = "mame2010";
 		public final static String FBNEO = "fbneo";
