@@ -12,12 +12,12 @@
 		<desc>A 2D fighting forces with all great characeters from BattleToads and Double Dragon</desc>
 		<image>./mixart/Battletoads Double Dragon IV - The Return of the Dark Forces.png</image>
 		<video>./snap/Battletoads Double Dragon IV - The Return of the Dark Forces.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<marquee>./wheel/Battletoads Double Dragon IV - The Return of the Dark Forces.png</marquee>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
+		<genre>Plateform / Fighter Scrolling-Fight / 2D-Platform-Fight</genre>
 		<players>1-2</players>
 	</game>
 	<game>
@@ -27,7 +27,7 @@
 		<image>./mixart/Beats of Rage - Rhythm of Destruction 2 Street Fighter Edition.png</image>
 		<video>./snap/Beats of Rage - Rhythm of Destruction 2 Street Fighter Edition.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -41,7 +41,7 @@
 		<image>./mixart/Crisis Evil 2.png</image>
 		<video>./snap/Crisis Evil 2.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -55,7 +55,7 @@
 		<image>./mixart/GI JOE - Attack On Cobra Island.png</image>
 		<video>./snap/GI JOE - Attack On Cobra Island.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -69,7 +69,7 @@
 		<image>./mixart/Hyper Final Fight 3 (v2.5).png</image>
 		<video>./snap/Hyper Final Fight 3 (v2.5).mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -83,7 +83,7 @@
 		<image>./mixart/Justice League United.png</image>
 		<video>./snap/Justice League United.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -97,7 +97,7 @@
 		<image>./mixart/Maplevania.png</image>
 		<video>./snap/Maplevania.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -111,7 +111,7 @@
 		<image>./mixart/Metal Slug Beat em up.png</image>
 		<video>./snap/Metal Slug Beat em up.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -125,7 +125,7 @@
 		<image>./mixart/Mortal Kombat Unlimited.png</image>
 		<video>./snap/Mortal Kombat Unlimited.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -139,7 +139,7 @@
 		<image>./mixart/Night Slashers X.png</image>
 		<video>./snap/Night Slashers X.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -153,7 +153,7 @@
 		<image>./mixart/Power Rangers - Beats of Power.png</image>
 		<video>./snap/Power Rangers - Beats of Power.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -167,7 +167,7 @@
 		<image>./mixart/Pretty Soldier Sailor Moon - R Plus.png</image>
 		<video>./snap/Pretty Soldier Sailor Moon - R Plus.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -181,21 +181,7 @@
 		<image>./mixart/Rage of the Dragons.png</image>
 		<video>./snap/Rage of the Dragons.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Return of the Double Dragon.pak</path>
-		<name>Return of the Double Dragon</name>
-		<desc>A 2D fighting forces with all great characeters from Double Dragon</desc>
-		<image>./mixart/Return of the Double Dragon.png</image>
-		<video>./snap/Return of the Double Dragon.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -209,21 +195,7 @@
 		<image>./mixart/Simpsons - Treehouse of Horror.png</image>
 		<video>./snap/Simpsons - Treehouse of Horror.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Splatterhouse 3 - Back to Light.pak</path>
-		<name>Splatterhouse 3 - Back to Light</name>
-		<desc>A 2D fighting forces with all great characeters from Splatterhouse</desc>
-		<image>./mixart/Splatterhouse 3 - Back to Light.png</image>
-		<video>./snap/Splatterhouse 3 - Back to Light.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -237,7 +209,7 @@
 		<image>./mixart/Streets of Rage 2X.png</image>
 		<video>./snap/Streets of Rage 2X.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -251,7 +223,7 @@
 		<image>./mixart/Streets of Rage - Zombies.png</image>
 		<video>./snap/Streets of Rage - Zombies.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -265,7 +237,7 @@
 		<image>./mixart/Streets of Russia.png</image>
 		<video>./snap/Streets of Russia.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -279,7 +251,7 @@
 		<image>./mixart/Super Mario Brawl.png</image>
 		<video>./snap/Super Mario Brawl.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -293,21 +265,7 @@
 		<image>./mixart/World Heroes - Supreme Justice Extra.png</image>
 		<video>./snap/World Heroes - Supreme Justice Extra.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./X-Men.pak</path>
-		<name>X-Men</name>
-		<desc>A 2D fighting forces with all great characeters from X-Men</desc>
-		<image>./mixart/X-Men.png</image>
-		<video>./snap/X-Men.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -321,7 +279,7 @@
 		<image>./mixart/BK Marvel.png</image>
 		<video>./snap/BK Marvel.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -335,7 +293,7 @@
 		<image>./mixart/Warrior Frenzy - Warriors Of Doom.png</image>
 		<video>./snap/Warrior Frenzy - Warriors Of Doom.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -349,7 +307,7 @@
 		<image>./mixart/Rocket Viper 2.png</image>
 		<video>./snap/Rocket Viper 2.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -363,7 +321,7 @@
 		<image>./mixart/Art of Fighting - Beats Of Rage Remix III.png</image>
 		<video>./snap/Art of Fighting - Beats Of Rage Remix III.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -377,7 +335,7 @@
 		<image>./mixart/Batman - Gotham Knight.png</image>
 		<video>./snap/Batman - Gotham Knight.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -391,7 +349,7 @@
 		<image>./mixart/Vampire Hunters.png</image>
 		<video>./snap/Vampire Hunters.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -405,7 +363,7 @@
 		<image>./mixart/Evil Dead.png</image>
 		<video>./snap/Evil Dead.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -419,7 +377,7 @@
 		<image>./mixart/Golden Axe Death Adder Curse.png</image>
 		<video>./snap/Golden Axe Death Adder Curse.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -433,7 +391,7 @@
 		<image>./mixart/Saint Seiya death and rebirth PS2.png</image>
 		<video>./snap/Saint Seiya death and rebirth PS2.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -446,7 +404,7 @@
 		<image>./mixart/Armored Warriors Cyberbots.png</image>
 		<video>./snap/Armored Warriors Cyberbots.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -460,7 +418,7 @@
 		<image>./mixart/Castlevania Moonlit Nocturne.png</image>
 		<video>./snap/Castlevania Moonlit Nocturne.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -474,7 +432,7 @@
 		<image>./mixart/Marvel First Alliance 2.png</image>
 		<video>./snap/Marvel First Alliance 2.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -488,7 +446,7 @@
 		<image>./mixart/Marvel Infinity War.png</image>
 		<video>./snap/Marvel Infinity War.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -502,7 +460,7 @@
 		<image>./mixart/Marvel Super Heroes - War of the Gems.png</image>
 		<video>./snap/Marvel Super Heroes - War of the Gems.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -516,7 +474,7 @@
 		<image>./mixart/Metal Gear Origin.png</image>
 		<video>./snap/Metal Gear Origin.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -530,7 +488,7 @@
 		<image>./mixart/Mortal Kombat Outworlds Assassins.png</image>
 		<video>./snap/Mortal Kombat Outworlds Assassins.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -544,7 +502,7 @@
 		<image>./mixart/Never Ending Story.png</image>
 		<video>./snap/Never Ending Story.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -557,7 +515,7 @@
 		<image>./mixart/Shiva and Lisa III.png</image>
 		<video>./snap/Shiva and Lisa III.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -571,7 +529,7 @@
 		<image>./mixart/HE-MAN.png</image>
 		<video>./snap/HE-MAN.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -585,7 +543,7 @@
 		<image>./mixart/Sega Brawlers Mega Mix.png</image>
 		<video>./snap/Sega Brawlers Mega Mix.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -599,7 +557,7 @@
 		<image>./mixart/Super Fightin' Spirit.png</image>
 		<video>./snap/Super Fightin' Spirit.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -613,7 +571,7 @@
 		<image>./mixart/Golden Axe Legend.png</image>
 		<video>./snap/Golden Axe Legend.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -627,7 +585,7 @@
 		<image>./mixart/Teenage Mutant Ninja Turtles - Red Sky Battle.png</image>
 		<video>./snap/Teenage Mutant Ninja Turtles - Red Sky Battle.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -641,7 +599,7 @@
 		<image>./mixart/A Tale of Vengeance.png</image>
 		<video>./snap/A Tale of Vengeance.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -655,7 +613,7 @@
 		<image>./mixart/Crime Buster.png</image>
 		<video>./snap/Crime Buster.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -669,7 +627,7 @@
 		<image>./mixart/Battletoads.png</image>
 		<video>./snap/Battletoads.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -683,7 +641,7 @@
 		<image>./mixart/X-Men - Clone Wars.png</image>
 		<video>./snap/X-Men - Clone Wars.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -697,7 +655,7 @@
 		<image>./mixart/Castlevania - Legacy Of Dracula.png</image>
 		<video>./snap/Castlevania - Legacy Of Dracula.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -711,7 +669,7 @@
 		<image>./mixart/Urban Lockdown.png</image>
 		<video>./snap/Urban Lockdown.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -725,7 +683,7 @@
 		<image>./mixart/Contra - Locked 'N Loaded.png</image>
 		<video>./snap/Contra - Locked 'N Loaded.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -739,7 +697,7 @@
 		<image>./mixart/Bruce Lee - Revenge of the Dragon.png</image>
 		<video>./snap/Bruce Lee - Revenge of the Dragon.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -754,7 +712,7 @@
 		<image>./mixart/Ninja.png</image>
 		<video>./snap/Ninja.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -769,7 +727,7 @@
 		<image>./mixart/Streets of Rage 4 HD.png</image>
 		<video>./snap/Streets of Rage 4 HD.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -784,7 +742,7 @@
 		<image>./mixart/The City of Kaos.png</image>
 		<video>./snap/The City of Kaos.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -799,7 +757,7 @@
 		<image>./mixart/Teenage Mutant Ninja Turtles - Shell Shocked.png</image>
 		<video>./snap/Teenage Mutant Ninja Turtles - Shell Shocked.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.9</rating>
+		<rating>1</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -814,7 +772,7 @@
 		<image>./mixart/Kill Bill.png</image>
 		<video>./snap/Kill Bill.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -828,7 +786,7 @@
 		<image>./mixart/City of Heroes - Episode 1.png</image>
 		<video>./snap/City of Heroes - Episode 1.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -839,7 +797,7 @@
 		<path>./Art Of Fighting -Remix III.pak</path>
 		<name>Art Of Fighting -bor Remix 3</name>
 		<desc>This is based off of the original fighting game Art of Fighting that comes to a Beat Em Up tradition.    Ryo Sakazaki hears that his father, Takuma, is killed (supposedly), and missing. Even his sister, Yuri, is kidnapped. So he contacts Robert Garcia and talked to him about it.  </desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20120730T000000</releasedate>
 		<developer>Mr.Q!</developer>
 		<image>./mixart/Art Of Fighting -Remix III.png</image>
@@ -849,7 +807,7 @@
 	<game id="191607" source="ScreenScraper.fr">
 		<path>./Castlevania Deluxe Edition.PAK</path>
 		<name>Castlevania Lcd Chronicles</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Castlevania LCD Chronicles.png</image>
 		<marquee>./wheel/Castlevania LCD Chronicles.png</marquee>
@@ -859,7 +817,7 @@
 		<path>./City of Heroes.pak</path>
 		<name>City Of Heroes</name>
 		<desc>In City of Heroes, play as a superhero and fight the bad guys. Sometimes the DC comics universe, sometimes from the Marvel universe, choose between around twenty crime fighters and let justice prevail!</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<genre>Fight / 2D-Fight</genre>
 		<image>./mixart/City of Heroes.png</image>
@@ -870,7 +828,7 @@
 		<path>./Marvel vs DC Comics and Image (Chapter 1 Hydra).pak</path>
 		<name>City Of Heroes</name>
 		<desc>In City of Heroes, play as a superhero and fight the bad guys. Sometimes the DC comics universe, sometimes from the Marvel universe, choose between around twenty crime fighters and let justice prevail!</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<genre>Fight / 2D-Fight</genre>
 		<image>./mixart/City of Heroes.png</image>
@@ -881,7 +839,7 @@
 		<path>./Contra.pak</path>
 		<name>Contra - Locked N Loaded</name>
 		<desc>This mod is an attempt to remake Contra, one of top classic games, with OpenBoR. It's not 100% remade but at least basic and important gameplay is remade    Modes: 3 missions, 1 locked mission &amp; 1 locked boss rush mode    Soldiers : Bill Rizer, Brad Fang, Probotector, Sheena Etranzi, Mad Dog, Bahamut &amp; Lucia    Abilities:  - Shoot in 8 direction  - Slide (no invincibility though)  - Platform drop (disabled in some levels)  - Free and fixed shooting mode  - Carry 2 weapons but only use one everytime    Disabilities:  - Unable to climb walls  - Unable to hang to railing  - Unable to fire 2 weapons at same time    Features:  - 12 different weapons  - Health bar which gives 3 hit points for player  - Health item to restore health  - Motorbike mode  - Plenty pseudo travel levels both horizontal and vertical  - Challenging bosses and subbosses  - Save game is enabled for all missions but Boss Rush    This mod uses 4 buttons, don't forget to define key for each!    Bahamut has similar ability as the other soldiers for balance. His sprites are made by slash128</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20131103T000000</releasedate>
 		<developer>DarkBloodbane</developer>
 		<genre>Fight / 2D-Fight</genre>
@@ -893,7 +851,7 @@
 		<path>./Double Dragon 3 - The Rosetta Stone.pak</path>
 		<name>Double Dragon 3 - The Dragon Stone</name>
 		<desc>An enjoyable game developed by gabo hanzo , this open bor game is full of special moves that make the old double dragon 3 a decent game to have fun!  So what add this remake to the old technos saga?  3 characters gameplay  lots of new skills  rearranged graphics from the past double dragon games  arranged music  </desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<genre>Beat'em Up</genre>
 		<players>1-3</players>
@@ -904,25 +862,16 @@
 	<game id="191577" source="ScreenScraper.fr">
 		<path>./Double Dragon Advance.pak</path>
 		<name>Double Dragon Advance</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Double Dragon Advance.png</image>
 		<marquee>./wheel/Double Dragon Advance.png</marquee>
 		<video>./snap/Double Dragon Advance.mp4</video>
 	</game>
-	<game id="191562" source="ScreenScraper.fr">
-		<path>./Double Dragon Unleashed.pak</path>
-		<name>Double Dragon Unleashed</name>
-		<rating>4</rating>
-		<releasedate />
-		<image>./mixart/Double Dragon Unleashed.png</image>
-		<marquee>./wheel/Double Dragon Unleashed.png</marquee>
-		<video>./snap/Double Dragon Unleashed.mp4</video>
-	</game>
 	<game id="191560" source="ScreenScraper.fr">
 		<path>./Dragons of Rage.pak</path>
 		<name>Dragons Of Rage</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Dragons of Rage EX.png</image>
 		<marquee>./wheel/Dragons of Rage EX.png</marquee>
@@ -931,7 +880,7 @@
 	<game id="191494" source="ScreenScraper.fr">
 		<path>./Knights and dragons.pak</path>
 		<name>Dungeons And Dragons - Knights And Dragons - The Endless Quest</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Dungeons &amp; Dragons - Knights &amp; Dragons.png</image>
 		<marquee>./wheel/Dungeons &amp; Dragons - Knights &amp; Dragons.png</marquee>
@@ -940,7 +889,7 @@
 	<game id="191557" source="ScreenScraper.fr">
 		<path>./Dungeons &amp; Dragons.pak</path>
 		<name>Dungeons And Dragons - Rise Of Warduke</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Dungeons &amp; Dragons.png</image>
 		<marquee>./wheel/Dungeons &amp; Dragons.png</marquee>
@@ -950,7 +899,7 @@
 		<path>./Final Fight - The Last Raund Special.PAK</path>
 		<name>Final Fight - The Last Round</name>
 		<desc>There are three versions (only 3rd version is 4player):    The first version contains characters from Final Fight 1 &amp; 2:  Guy, Cody, Haggar, Maki &amp; Carlos    The second version features the complete character cast from Final Fight 3:  Guy, Haggar, Lucia &amp; Dean  In the original Final Fight: The Last Round all of these were hidden extra characters.    The third version was a Dreamcast exclusive 4 player version of Final Fight: The Last Round that features the Street Fighter characters (players &amp; bosses!) from Hyper Final Fight 1 &amp; 2:    Guy, Cody, Cammy, Guile, DeeJay &amp; Fei Long  Bosses: Vega, Bison, Sagat, Balrog &amp; Rolento  </desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<developer>Mr.Q!</developer>
 		<players>1-4</players>
@@ -961,7 +910,7 @@
 	<game id="191537" source="ScreenScraper.fr">
 		<path>./Final Fight DC].PAK</path>
 		<name>Final Fight Dc</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Final Fight DC (Alteration).png</image>
 		<marquee>./wheel/Final Fight DC (Alteration).png</marquee>
@@ -971,7 +920,7 @@
 		<path>./Hyper Final Fight.pak</path>
 		<name>Final Fight Hyper 1</name>
 		<desc>An excellent mod featuring all the nice graphics, sounds and characters from Final Fight.</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20130404T000000</releasedate>
 		<developer>Mr.Q!</developer>
 		<players>1-2</players>
@@ -982,7 +931,7 @@
 	<game id="191532" source="ScreenScraper.fr">
 		<path>./Luta Final Fight [v.3.0 Build 3366].pak</path>
 		<name>Final Fight Luta</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Luta Final Fight [v.3.0 Build 3366].png</image>
 		<marquee>./wheel/Luta Final Fight [v.3.0 Build 3366].png</marquee>
@@ -991,7 +940,7 @@
 	<game id="191524" source="ScreenScraper.fr">
 		<path>./Fists of Legendary Heroes v1.PAK</path>
 		<name>Fists Of The Legendary Heroes</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Fists of Legendary Heroes v1.png</image>
 		<marquee>./wheel/Fists of Legendary Heroes v1.png</marquee>
@@ -1000,7 +949,7 @@
 	<game id="191489" source="ScreenScraper.fr">
 		<path>./Super Mario Bros.pak</path>
 		<name>Mario Bros Weather Edit</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Super Mario Bros.png</image>
 		<marquee>./wheel/Super Mario Bros.png</marquee>
@@ -1008,7 +957,7 @@
 	<game id="191478" source="ScreenScraper.fr">
 		<path>./Mega Sonic.pak</path>
 		<name>Mega Sonic</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Mega Sonic.png</image>
 		<marquee>./wheel/Mega Sonic.png</marquee>
@@ -1018,7 +967,7 @@
 		<path>./Megaman Power War 1.PAK</path>
 		<name>Megaman - The Power War (ep1)</name>
 		<desc>The first of a series of mods. Classic MegaMan style gameplay, arcade style fun! Fight your way to Wily in this MegaMan: Power Battle/Fighters inspired mod. Includes 5 playable characters, each with helpers that can be summoned. Based on MegaMan 1.</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20150118T000000</releasedate>
 		<developer>NickyP</developer>
 		<players>1-2</players>
@@ -1030,7 +979,7 @@
 		<path>./MegaMan - War of the Past.pak</path>
 		<name>Megaman - War Of The Past</name>
 		<desc>Megaman: War Of The Past has the unique distinction of being the first fully completed Beats of Rage mod. Created by DCSteve in 2004, the mod displayed many features which would lead the way for even more enhancements to the original game module. The mod also influenced the further development of the Beats of Rage game engine, which eventually became OpenBoR.</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20040101T000000</releasedate>
 		<developer>DCSteve</developer>
 		<players>1-2</players>
@@ -1041,7 +990,7 @@
 	<game id="191480" source="ScreenScraper.fr">
 		<path>./MegaMan - Xtreme Legend.pak</path>
 		<name>Megaman - Xtreme Legend</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/MegaMan - Xtreme Legend.png</image>
 		<marquee>./wheel/MegaMan - Xtreme Legend.png</marquee>
@@ -1051,7 +1000,7 @@
 		<path>./MegaMan Armada.pak</path>
 		<name>Megaman Armada</name>
 		<desc>MegaMan Armada is a MegaMan game by fans, for fans! Grab three friends and jump-and-shoot your way through several familiar levels--remixed for 4-player arcade action! Tired of playing as the Blue Bomber? Then take on the Robot Masters as Mario, Solid Snake, Vegeta, and many other characters!</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<developer>NickyP</developer>
 		<players>1-4</players>
@@ -1062,7 +1011,7 @@
 	<game id="192043" source="ScreenScraper.fr">
 		<path>./Melty Blood Stimulate.pak</path>
 		<name>Melty Blood Stimulate</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Melty Blood Stimulate.png</image>
 		<marquee>./wheel/Melty Blood Stimulate.png</marquee>
@@ -1072,7 +1021,7 @@
 		<path>./Metal Slug - Resistance.PAK</path>
 		<name>Metal Slug - Resistance</name>
 		<desc>Choose between two characters from the Metal Slug saga and battle a horde of enemies in this Beat'Em-Up / Run and Gun created by fans, for fans. Explosive atmosphere at the rendezvous.</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<genre>Beat'em Up</genre>
 		<players>1-2</players>
@@ -1083,7 +1032,7 @@
 	<game id="191475" source="ScreenScraper.fr">
 		<path>./MixMasters.pak</path>
 		<name>Mix Masters</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/MixMasters.png</image>
 		<marquee>./wheel/MixMasters.png</marquee>
@@ -1092,7 +1041,7 @@
 	<game id="192345" source="ScreenScraper.fr">
 		<path>./Mortal Kombat - The Chosen One.pak</path>
 		<name>Mortal Kombat - The Chosen One</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Mortal Kombat - The Chosen One.png</image>
 		<marquee>./wheel/Mortal Kombat - The Chosen One.png</marquee>
@@ -1101,7 +1050,7 @@
 	<game id="191472" source="ScreenScraper.fr">
 		<path>./Mortal Kombat Adventure.pak</path>
 		<name>Mortal Kombat Adventure</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Mortal Kombat Adventure.png</image>
 		<marquee>./wheel/Mortal Kombat Adventure.png</marquee>
@@ -1110,7 +1059,7 @@
 	<game id="191471" source="ScreenScraper.fr">
 		<path>./Mortal Kombat Beat em Up.PAK</path>
 		<name>Mortal Kombat Beat Em Up</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Mortal Kombat Beat em Up.png</image>
 		<marquee>./wheel/Mortal Kombat Beat em Up.png</marquee>
@@ -1119,7 +1068,7 @@
 	<game id="191467" source="ScreenScraper.fr">
 		<path>./Mortal Kombat Konquest.pak</path>
 		<name>Mortal Kombat Konquest</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Mortal Kombat Konquest.png</image>
 		<marquee>./wheel/Mortal Kombat Konquest.png</marquee>
@@ -1128,7 +1077,7 @@
 	<game id="191470" source="ScreenScraper.fr">
 		<path>./Mortal Kombat.pak</path>
 		<name>Mortal Kombat</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Mortal Kombat.png</image>
 		<marquee>./wheel/Mortal Kombat.png</marquee>
@@ -1137,7 +1086,7 @@
 	<game id="191465" source="ScreenScraper.fr">
 		<path>./Naruto.PAK</path>
 		<name>Naruto</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Naruto.png</image>
 		<marquee>./wheel/Naruto.png</marquee>
@@ -1146,7 +1095,7 @@
 	<game id="192011" source="ScreenScraper.fr">
 		<path>./Nelsoncomica.PAK</path>
 		<name>Nelsoncomica</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Nelsoncomica.png</image>
 		<marquee>./wheel/Nelsoncomica.png</marquee>
@@ -1156,7 +1105,7 @@
 		<path>./Neon Lightning Force.pak</path>
 		<name>Neon Lightning Force</name>
 		<desc>The year is 2044. After the events of world war 3, the United States and European Union are no more, so utterly devastated they were by the nuclear fallout. the power vacuum in northern America gave rise to the "Pacific Union", with Neopolis as it's capital in South America.    While the world is still at peace, the Neopolis police still fights the crimes in it's city, even as they are getting more violent by the day.    They send a special agent, Isolde Shinwara, to investigate those cases finding traces of drako, a drug that makes a person stronger and aggressive. As follows the case, she will find it leads to a much more dangerous, and corrupt, path that was originally thought...</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20160618T000000</releasedate>
 		<developer>True Role Dreams</developer>
 		<players>1-2</players>
@@ -1167,7 +1116,7 @@
 	<game id="191459" source="ScreenScraper.fr">
 		<path>./Ninja Warriors vs Marvel.pak</path>
 		<name>Ninja Warriors Vs Marvel</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Ninja Warriors vs Marvel.png</image>
 		<marquee>./wheel/Ninja Warriors vs Marvel.png</marquee>
@@ -1176,7 +1125,7 @@
 	<game id="191457" source="ScreenScraper.fr">
 		<path>./One Piece - Grand Line Bout!.PAK</path>
 		<name>One Piece - Grandline Bout</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/One Piece - Grand Line Bout!.png</image>
 		<marquee>./wheel/One Piece - Grand Line Bout!.png</marquee>
@@ -1185,7 +1134,7 @@
 	<game id="191455" source="ScreenScraper.fr">
 		<path>./Overload.PAK</path>
 		<name>Overload</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Overload.png</image>
 		<marquee>./wheel/Overload.png</marquee>
@@ -1194,7 +1143,7 @@
 	<game id="191453" source="ScreenScraper.fr">
 		<path>./Panda Warriors.PAK</path>
 		<name>Panda Warriors</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Panda Warriors.png</image>
 		<marquee>./wheel/Panda Warriors.png</marquee>
@@ -1203,7 +1152,7 @@
 	<game id="191451" source="ScreenScraper.fr">
 		<path>./Phantasy Star Online.PAK</path>
 		<name>Phantasy Star Online</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Phantasy Star Online.png</image>
 		<marquee>./wheel/Phantasy Star Online.png</marquee>
@@ -1213,7 +1162,7 @@
 		<path>./Pocket Dimensional Clash.pak</path>
 		<name>Pocket Dimensional Clash</name>
 		<desc>Pocket Dimensional Clash is a 2D action fighting beat-'em-up that features characters from the Capcom, Sega, and Nintendo universes.</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20090101T000000</releasedate>
 		<developer>O Ilusionista</developer>
 		<players>1-4</players>
@@ -1224,7 +1173,7 @@
 	<game id="191450" source="ScreenScraper.fr">
 		<path>./Pokemon Rumble 2D.Pak</path>
 		<name>Pokemon Rumble 2d</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<players>1-4</players>
 		<image>./mixart/Pokemon Rumble 2D.png</image>
@@ -1234,7 +1183,7 @@
 	<game id="191449" source="ScreenScraper.fr">
 		<path>./Prisoners of War 2010.pak</path>
 		<name>Pow 2010</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Prisoners of War 2010.png</image>
 		<marquee>./wheel/Prisoners of War 2010.png</marquee>
@@ -1243,7 +1192,7 @@
 	<game id="191448" source="ScreenScraper.fr">
 		<path>./Prisoners of War remake.pak</path>
 		<name>Pow Remake</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Prisoners of War remake.png</image>
 		<marquee>./wheel/Prisoners of War remake.png</marquee>
@@ -1253,7 +1202,7 @@
 		<path>./Beats Of Rage I.pak</path>
 		<name>Power Rangers - Beats Of Power</name>
 		<desc>The game is designed as a retro throwback to classic 1990s Power Rangers games such as the Mighty Morphin Power Rangers games for the SNES and the Genesis and Power Rangers: The Fighting Edition. In March of 2017, the game was updated with a Special Edition version released.</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<developer>mersox</developer>
 		<genre>Beat'em Up</genre>
@@ -1264,7 +1213,7 @@
 	<game id="191446" source="ScreenScraper.fr">
 		<path>./Project R.pak</path>
 		<name>Project R</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Project R.png</image>
 		<marquee>./wheel/Project R.png</marquee>
@@ -1273,7 +1222,7 @@
 	<game id="191447" source="ScreenScraper.fr">
 		<path>./Rael - The Redemption.pak</path>
 		<name>Rael The Redemption</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Rael - The Redemption.png</image>
 		<marquee>./wheel/Rael - The Redemption.png</marquee>
@@ -1282,7 +1231,7 @@
 	<game id="191444" source="ScreenScraper.fr">
 		<path>./Rage of the Streets.pak</path>
 		<name>Rage Of The Streets</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Rage of the Streets.png</image>
 		<marquee>./wheel/Rage of the Streets.png</marquee>
@@ -1291,7 +1240,7 @@
 	<game id="191443" source="ScreenScraper.fr">
 		<path>./Rage of the Wolves.pak</path>
 		<name>Rage Of The Wolves</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Rage of the Wolves.png</image>
 		<marquee>./wheel/Rage of the Wolves.png</marquee>
@@ -1301,7 +1250,7 @@
 		<path>./Rainbow.pak</path>
 		<name>Rainbow</name>
 		<desc>Fly your way through shape based dungeons and shoot colored shapes with same colored beam. Correct beam will destroy them while wrong one will have side effect depending on the shape. Avoid the shapes, get powerups and survive!  Can you destroy the shapes and survive 5 stages in this challenging colorful adventure?    Version1 was made for Shoot'em up Jam. Version 2 is the post jam and updated version</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20150101T000000</releasedate>
 		<developer>Dark Bloodbane</developer>
 		<players>1-2</players>
@@ -1312,7 +1261,7 @@
 	<game id="191406" source="ScreenScraper.fr">
 		<path>./Red Cyclone Zangief.PAK</path>
 		<name>Red Cyclone Zangief</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Red Cyclone Zangief.png</image>
 		<marquee>./wheel/Red Cyclone Zangief.png</marquee>
@@ -1321,17 +1270,17 @@
 	<game id="192348" source="ScreenScraper.fr">
 		<path>./Red Earth.pak</path>
 		<name>Red Earth</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Red Earth.png</image>
 		<marquee>./wheel/Red Earth.png</marquee>
 		<video>./snap/Red Earth.mp4</video>
 	</game>
 	<game id="191570" source="ScreenScraper.fr">
-		<path>./Return of the Double Dragon.PAK</path>
+		<path>./Return of the Double Dragon.pak</path>
 		<name>Return Of The Double Dragon</name>
 		<desc>Return of Double Dragon is a Beats of Rage Mod tribute to the Technos Japan series of beat 'em up games that originated back in 1987. The original Double Dragon games spanned over some classic consoles including the Nintendo Entertainment System (NES), Sega Master System (SMS), Atari 2600, Nintendo Game Boy, Sega Genesis / Mega Drive and Atari Lynx.    "This really is a must-have; even for people who never played Double Dragon before. It features the original plot that this game was supposed to have, but sadly got cut into the versions we all know..." - Mr.Q    </desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20130730T000000</releasedate>
 		<developer>Mr.Q!</developer>
 		<players>1-2</players>
@@ -1343,7 +1292,7 @@
 		<path>./Beats of Rage - Remix.pak</path>
 		<name>Rhythm Of Destruction 1 Black</name>
 		<desc>Also known as Beats of Rage Remix, this is a BoR mod created by Mr.Q!. It is based on the original Beats of Rage and contains new music, different stages and different characters.</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20120722T000000</releasedate>
 		<developer>Mr.Q!</developer>
 		<players>1-2</players>
@@ -1355,7 +1304,7 @@
 		<path>./Rhythm of Destruction 2 - Street Fighter Edition.pak</path>
 		<name>Rhythm Of Destruction 2 - Street Fighter Edition</name>
 		<desc>Rhythm of Destruction comes in four different PAKs and uses the original BoR engine, not OpenBoR. It took almost 7 months to complete and features a total of 16 playable characters.    Street Fighter Version - Featuring SF Remixes (KH &amp; Q)  Ryu  Ken  Guile  Dhalsim  Chun Li  Yun</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20130125T000000</releasedate>
 		<developer>Mr. Q! /  KingHerb</developer>
 		<players>1-2</players>
@@ -1367,7 +1316,7 @@
 		<path>./Street Fighter - Beats of Rage Remix II.pak</path>
 		<name>Rhythm Of Destruction 2 - Street Fighter Edition</name>
 		<desc>Rhythm of Destruction comes in four different PAKs and uses the original BoR engine, not OpenBoR. It took almost 7 months to complete and features a total of 16 playable characters.    Street Fighter Version - Featuring SF Remixes (KH &amp; Q)  Ryu  Ken  Guile  Dhalsim  Chun Li  Yun</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20130125T000000</releasedate>
 		<developer>Mr. Q! /  KingHerb</developer>
 		<players>1-2</players>
@@ -1379,7 +1328,7 @@
 		<path>./Rhythm of Destruction 2 - Blue Edition - Beats of Rage.pak</path>
 		<name>Rhythm Of Destruction 2 Blue</name>
 		<desc>Rhythm of Destruction comes in four different PAKs and uses the original BoR engine, not OpenBoR. It took almost 7 months to complete and features a total of 16 playable characters.    Blue Version - Featuring More Trance (Mr.Q®)  Evy (Vanessa 2k2)  Sunrai (Athena 2k2)  Mina Inferno (Kula - Fire Edit)  Clint (Clark 2k2)  Kim (2k2)</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20130301T000000</releasedate>
 		<developer>Mr. Q / Kingherb</developer>
 		<players>1-2</players>
@@ -1391,7 +1340,7 @@
 		<path>./Rhythm of Destruction 2 - Green Edition - Beats of Rage.pak</path>
 		<name>Rhythm Of Destruction 3 Green</name>
 		<desc>Rhythm of Destruction comes in four different PAKs and uses the original BoR engine, not OpenBoR. It took almost 7 months to complete and features a total of 16 playable characters.    Green Version - Featuring Classic SNK Arcade Tunes  Axel Stone (Edit)  Keith (Terry 2k3)  Sunrei (Athena 2k2)  Clint (Clark 2k2)  Kim (2k2)</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20121209T000000</releasedate>
 		<developer>Mr.Q! / Krauser</developer>
 		<image>./mixart/Rhythm of Destruction 2 - Green Edition - Beats of Rage.png</image>
@@ -1402,7 +1351,7 @@
 		<path>./Rhythm of Destruction 2 - Red Edition.pak</path>
 		<name>Rhythm Of Destruction 4 Red</name>
 		<desc>Rhythm of Destruction comes in four different PAKs and uses the original BoR engine, not OpenBoR. It took almost 7 months to complete and features a total of 16 playable characters.    Red Version - Featuring Trance Music (kingherb)  Axel Stone (Edit)  Aki (Shiki)  Shinryu (Jhun)  Mai Frost (Kula - Ice Edit)  Keith (Terry 2k3)</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20130103T000000</releasedate>
 		<developer>Mr. Q! /  KingHerb</developer>
 		<players>1-2</players>
@@ -1414,7 +1363,7 @@
 		<path>./Road Rash Revolution.PAK</path>
 		<name>Road Rash Revolution</name>
 		<desc>Road Rash Revolution is a Beats of Rage mod created by Predator002 and is based on the classic Road Rash videogame series for Mega Drive / Genesis. The mod put a unique twist to the conventional BoR games being created at the time - it turned the mod world on its side, literally.</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<developer>Predator002</developer>
 		<players>1-2</players>
@@ -1425,25 +1374,16 @@
 	<game id="191435" source="ScreenScraper.fr">
 		<path>./Rocket Viper.PAK</path>
 		<name>Rocket Viper 1</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Rocket Viper.png</image>
 		<marquee>./wheel/Rocket Viper.png</marquee>
 		<video>./snap/Rocket Viper.mp4</video>
 	</game>
-	<game id="191436" source="ScreenScraper.fr">
-		<path>./Rocket Viper 2.pak</path>
-		<name>Rocket Viper 2</name>
-		<rating>4</rating>
-		<releasedate />
-		<image>./mixart/Rocket Viper 2.png</image>
-		<marquee>./wheel/Rocket Viper 2.png</marquee>
-		<video>./snap/Rocket Viper 2.mp4</video>
-	</game>
 	<game id="192059" source="ScreenScraper.fr">
 		<path>./Rocko's Modern.PAK</path>
 		<name>Rocko's Modern Game</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Rocko's Modern.png</image>
 		<marquee>./wheel/Rocko's Modern.png</marquee>
@@ -1452,7 +1392,7 @@
 	<game id="191434" source="ScreenScraper.fr">
 		<path>./Roy Streets.PAK</path>
 		<name>Roy Streets</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Roy Streets.png</image>
 		<marquee>./wheel/Roy Streets.png</marquee>
@@ -1461,7 +1401,7 @@
 	<game id="191431" source="ScreenScraper.fr">
 		<path>./Ryuko No Ken Nekketsu.PAK</path>
 		<name>Ryuko No Ken Nekketsu</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Ryuko No Ken Nekketsu.png</image>
 		<marquee>./wheel/Ryuko No Ken Nekketsu.png</marquee>
@@ -1470,7 +1410,7 @@
 	<game id="191430" source="ScreenScraper.fr">
 		<path>./Sailormoon Alternate Story Clone Attack.PAK</path>
 		<name>Sailor Moon Alternate Story - Clone Attack</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Sailormoon Alternate Story Clone Attack.png</image>
 		<marquee>./wheel/Sailormoon Alternate Story Clone Attack.png</marquee>
@@ -1479,7 +1419,7 @@
 	<game id="191428" source="ScreenScraper.fr">
 		<path>./Sailor Moon Plus.pak</path>
 		<name>Sailor Moon Plus</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Sailor Moon R Plus.png</image>
 		<marquee>./wheel/Sailor Moon R Plus.png</marquee>
@@ -1488,7 +1428,7 @@
 	<game id="191428" source="ScreenScraper.fr">
 		<path>./Sailor Moon R Plus.pak</path>
 		<name>Sailor Moon Plus</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Sailor Moon R Plus.png</image>
 		<marquee>./wheel/Sailor Moon R Plus.png</marquee>
@@ -1497,7 +1437,7 @@
 	<game id="191424" source="ScreenScraper.fr">
 		<path>./Cavaleiros do Zodiaco.pak</path>
 		<name>Saint Seiya Death And Rebirth</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Cavaleiros do Zodiaco.png</image>
 		<marquee>./wheel/Cavaleiros do Zodiaco.png</marquee>
@@ -1506,7 +1446,7 @@
 	<game id="191423" source="ScreenScraper.fr">
 		<path>./Shiva &amp; Lisa I.pak</path>
 		<name>Shiva And Lisa 1</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Shiva &amp; Lisa I.png</image>
 		<marquee>./wheel/Shiva &amp; Lisa I.png</marquee>
@@ -1515,7 +1455,7 @@
 	<game id="191422" source="ScreenScraper.fr">
 		<path>./Shiva &amp; Lisa II.PAK</path>
 		<name>Shiva And Lisa 2</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Shiva &amp; Lisa II.png</image>
 		<marquee>./wheel/Shiva &amp; Lisa II.png</marquee>
@@ -1524,7 +1464,7 @@
 	<game id="191420" source="ScreenScraper.fr">
 		<path>./Shodown Revenge.pak</path>
 		<name>Shodown Revenge</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Shodown Revenge.png</image>
 		<marquee>./wheel/Shodown Revenge.png</marquee>
@@ -1533,7 +1473,7 @@
 	<game id="191416" source="ScreenScraper.fr">
 		<path>./Silent Hill 2 [8 Chars][v.3.0 Build 4086].PAK</path>
 		<name>Silent Hill 2</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Silent Hill 2 [8 Chars][v.3.0 Build 4086].png</image>
 		<marquee>./wheel/Silent Hill 2 [8 Chars][v.3.0 Build 4086].png</marquee>
@@ -1542,7 +1482,7 @@
 		<path>./Skull Kingz Remake.PAK</path>
 		<name>Skull Kingz Remake</name>
 		<desc>- 4 player co-op  - 5 playable characters  - Brand New Story  - More Boss Fights  - Unlockable Gallery Mode/ with hand drawn artwork!  - 10 chapters  - New Gameplay with more combos!  - Complete Story/Ending  - new sprite edits</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20121118T000000</releasedate>
 		<developer>Skull Kingz</developer>
 		<players>1-4</players>
@@ -1553,7 +1493,7 @@
 	<game id="192350" source="ScreenScraper.fr">
 		<path>./Snestalgia.PAK</path>
 		<name>Snestalgia</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Snestalgia.png</image>
 		<marquee>./wheel/Snestalgia.png</marquee>
@@ -1562,7 +1502,7 @@
 	<game id="192351" source="ScreenScraper.fr">
 		<path>./Sonic Defense.pak</path>
 		<name>Sonic Defense</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Sonic Defense.png</image>
 		<marquee>./wheel/Sonic Defense.png</marquee>
@@ -1572,7 +1512,7 @@
 		<path>./Sonic SatAM Liberations.pak</path>
 		<name>Sonic Liberations (saturday Morning Cartoon)</name>
 		<desc>Sonic SatAM Liberations is a 4-player fan game based on the 1993 American TV series, Sonic The Hedgehog--better known as Sonic SatAM. It's primarily developed by NickyP, and co-developed by DJGameFreakTheIguana (developer of Sega Brawlers Megamix). The game features six playable characters, several Zones with two Acts each, and clips from the actual TV series as cutscenes in-game.    There are three game modes: Story, Arcade, and Character Profiles. Story Mode is the game as it was intended, with cutscenes and all. Arcade Mode is identical to Story, but without the cutscenes. And Character Profiles will let you view a brief history of the main cast to familiarize yourself with the series.</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<developer>NickyP</developer>
 		<players>1-4</players>
@@ -1583,7 +1523,7 @@
 	<game id="192063" source="ScreenScraper.fr">
 		<path>./Sonic Revolution.pak</path>
 		<name>Sonic Revolution</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Sonic Revolution.png</image>
 		<marquee>./wheel/Sonic Revolution.png</marquee>
@@ -1592,7 +1532,7 @@
 	<game id="191409" source="ScreenScraper.fr">
 		<path>./Sonic X - Battle.pak</path>
 		<name>Sonic X Battle</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Sonic X - Battle.png</image>
 		<marquee>./wheel/Sonic X - Battle.png</marquee>
@@ -1601,7 +1541,7 @@
 	<game id="191407" source="ScreenScraper.fr">
 		<path>./Soul Calibur II.PAK</path>
 		<name>Soul Edge 2</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Soul Calibur II.png</image>
 		<marquee>./wheel/Soul Calibur II.png</marquee>
@@ -1611,7 +1551,7 @@
 		<path>./Splatterhouse - Deception of the Mask.pak</path>
 		<name>Splatterhouse 1 Deception Of The Mask</name>
 		<desc>4 playable characters  new moves and specials for every Rick version  10 stages, 19 substages  19 different enemies + 10 Bosses</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<developer>Krauser</developer>
 		<image>./mixart/Splatterhouse - Deception of the Mask.png</image>
@@ -1622,7 +1562,7 @@
 		<path>./Splatterhouse 2 - Journey Through Hell.pak</path>
 		<name>Splatterhouse 2 Journey Through Hell</name>
 		<desc>4 playable characters  new moves and specials for every Rick version  6 long stages  23 different enemies + 6 Bosses</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<developer>Krauser</developer>
 		<image>./mixart/Splatterhouse 2 - Journey Through Hell.png</image>
@@ -1633,17 +1573,18 @@
 		<path>./Splatterhouse 3 - Back to Light.pak</path>
 		<name>Splatterhouse 3 Back To Light</name>
 		<desc>4 playable characters  new moves and specials for every Rick version  6 long stages  28 different enemies + 6 Bosses</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<developer>Krauser</developer>
 		<image>./mixart/Splatterhouse 3 - Back to Light.png</image>
 		<marquee>./wheel/Splatterhouse 3 - Back to Light.png</marquee>
 		<video>./snap/Splatterhouse 3 - Back to Light.mp4</video>
+		<players>1-4</players>
 	</game>
 	<game id="191412" source="ScreenScraper.fr">
 		<path>./Stains of Deception.PAK</path>
 		<name>Stains Of Deception</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Stains of Deception.png</image>
 		<marquee>./wheel/Stains of Deception.png</marquee>
@@ -1652,7 +1593,7 @@
 	<game id="192369" source="ScreenScraper.fr">
 		<path>./Zombie - Streest of Rage.PAK</path>
 		<name>Streest Of Rage - Zombie</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Zombie - Streest of Rage.png</image>
 		<marquee>./wheel/Zombie - Streest of Rage.png</marquee>
@@ -1661,7 +1602,7 @@
 	<game id="192021" source="ScreenScraper.fr">
 		<path>./Street Fighter Victory.pak</path>
 		<name>Street Fighter - Victory</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Street Fighter Victory.png</image>
 		<marquee>./wheel/Street Fighter Victory.png</marquee>
@@ -1670,7 +1611,7 @@
 	<game id="191411" source="ScreenScraper.fr">
 		<path>./Street Fighter Legends WIP.PAK</path>
 		<name>Street Fighter Legends</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Street Fighter Legends WIP.png</image>
 		<marquee>./wheel/Street Fighter Legends WIP.png</marquee>
@@ -1680,7 +1621,7 @@
 		<path>./Street Fighter Ultimate Collection.PAK</path>
 		<name>Street Fighter Ultimate Collection</name>
 		<desc>Street Fighter Ultimate Collection is considered to be one of the best fan made games in the origin series. There are over 12 character can be selectable include Namco's bonuhttps://streetfighter.fandom.com/wiki/Forum:Street_Fighter_Ultimate_Collections character is added in the bonus game. The download only available for the members since it was the 10th collectors of Ericard Production game made.</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20130515T000000</releasedate>
 		<developer>Ericard</developer>
 		<players>1-2</players>
@@ -1691,7 +1632,7 @@
 	<game id="191547" source="ScreenScraper.fr">
 		<path>./Street Fury.PAK</path>
 		<name>Street Fury</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Street Fury.png</image>
 		<marquee>./wheel/Street Fury.png</marquee>
@@ -1700,7 +1641,7 @@
 	<game id="191401" source="ScreenScraper.fr">
 		<path>./Street Knightz.PAK</path>
 		<name>Street Knightz</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Street Knightz.png</image>
 		<marquee>./wheel/Street Knightz.png</marquee>
@@ -1709,7 +1650,7 @@
 	<game id="192353" source="ScreenScraper.fr">
 		<path>./Street of Rage XXX.pak</path>
 		<name>Street Of Rage Xxx</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Street of Rage XXX.png</image>
 		<marquee>./wheel/Street of Rage XXX.png</marquee>
@@ -1718,7 +1659,7 @@
 	<game id="191397" source="ScreenScraper.fr">
 		<path>./Streets Of Rage IV.pak</path>
 		<name>Streets Of Rage 4</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Streets Of Rage IV.png</image>
 		<marquee>./wheel/Streets Of Rage IV.png</marquee>
@@ -1726,7 +1667,7 @@
 	<game id="191396" source="ScreenScraper.fr">
 		<path>./Streets of Rage v1.pak</path>
 		<name>Streets Of Rage 5</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Streets of Rage v1.png</image>
 		<marquee>./wheel/Streets of Rage v1.png</marquee>
@@ -1735,7 +1676,7 @@
 	<game id="191402" source="ScreenScraper.fr">
 		<path>./Bare Knuckle Next Generation.pak</path>
 		<name>Streets Of Rage Next Generation</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Bare Knuckle Next Generation.png</image>
 		<marquee>./wheel/Bare Knuckle Next Generation.png</marquee>
@@ -1744,7 +1685,7 @@
 	<game id="191398" source="ScreenScraper.fr">
 		<path>./Streets of Rage v3.pak</path>
 		<name>Streets Of Rage V3</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Streets of Rage v3.png</image>
 		<marquee>./wheel/Streets of Rage v3.png</marquee>
@@ -1752,7 +1693,7 @@
 	<game id="192077" source="ScreenScraper.fr">
 		<path>./Streets of Rage Z Return of the Hero.pak</path>
 		<name>Streets Of Rage Z - Return Of The Hero</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Streets of Rage Z Return of the Hero.png</image>
 		<marquee>./wheel/Streets of Rage Z Return of the Hero.png</marquee>
@@ -1761,7 +1702,7 @@
 	<game id="191394" source="ScreenScraper.fr">
 		<path>./Strider 2.pak</path>
 		<name>Strider 2</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Strider 2.png</image>
 		<marquee>./wheel/Strider 2.png</marquee>
@@ -1770,25 +1711,16 @@
 	<game id="192354" source="ScreenScraper.fr">
 		<path>./Super Final Fight GOLD.pak</path>
 		<name>Super Final Fight Gold</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Super Final Fight GOLD.png</image>
 		<marquee>./wheel/Super Final Fight GOLD.png</marquee>
 		<video>./snap/Super Final Fight GOLD.mp4</video>
 	</game>
-	<game id="192041" source="ScreenScraper.fr">
-		<path>./Super Mario Brawl.pak</path>
-		<name>Super Mario Brawl</name>
-		<rating>4</rating>
-		<releasedate />
-		<image>./mixart/Super Mario Brawl.png</image>
-		<marquee>./wheel/Super Mario Brawl.png</marquee>
-		<video>./snap/Super Mario Brawl.mp4</video>
-	</game>
 	<game id="192355" source="ScreenScraper.fr">
 		<path>./Super Street Fighter II Turbo HD Remix.pak</path>
 		<name>Super Street Fighter 2 Turbo Hd Remix</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Super Street Fighter II Turbo HD Remix.png</image>
 		<marquee>./wheel/Super Street Fighter II Turbo HD Remix.png</marquee>
@@ -1797,7 +1729,7 @@
 	<game id="192356" source="ScreenScraper.fr">
 		<path>./Super Thundercats - The Lost Eye of Thundera.pak</path>
 		<name>Super Thundercats - The Lost Eye Of Thundera</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Super Thundercats - The Lost Eye of Thundera.png</image>
 		<marquee>./wheel/Super Thundercats - The Lost Eye of Thundera.png</marquee>
@@ -1806,7 +1738,7 @@
 	<game id="191392" source="ScreenScraper.fr">
 		<path>./Super Tokusatsu Onore v3.pak</path>
 		<name>Super Tokusatsu Onore</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20130514T000000</releasedate>
 		<developer>lagarto</developer>
 		<players>1-2</players>
@@ -1817,7 +1749,7 @@
 	<game id="191388" source="ScreenScraper.fr">
 		<path>./Tales of Phantasia.PAK</path>
 		<name>Tales Of Phantasia</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Tales of Phantasia.png</image>
 		<marquee>./wheel/Tales of Phantasia.png</marquee>
@@ -1826,7 +1758,7 @@
 	<game id="192359" source="ScreenScraper.fr">
 		<path>./Teenage Mutant Ninja Turtles - The Wrath of Shredder.pak</path>
 		<name>Teenage Mutant Ninja Turtles - The Wrath Of Shredder</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<developer>BonusJZ</developer>
 		<image>./mixart/Teenage Mutant Ninja Turtles - The Wrath of Shredder.png</image>
@@ -1836,7 +1768,7 @@
 	<game id="191382" source="ScreenScraper.fr">
 		<path>./Teenage Mutant Ninja Turtles III The Manhattan Project.pak</path>
 		<name>Teenage Mutant Ninja Turtles 3 - The Manhattan Project</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Teenage Mutant Ninja Turtles III The Manhattan Project.png</image>
 		<marquee>./wheel/Teenage Mutant Ninja Turtles III The Manhattan Project.png</marquee>
@@ -1845,7 +1777,7 @@
 	<game id="191381" source="ScreenScraper.fr">
 		<path>./Teenage Mutant Ninja Turtles 8 bit.PAK</path>
 		<name>Teenage Mutant Ninja Turtles 8-bit</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<players>1-4</players>
 		<image>./mixart/Teenage Mutant Ninja Turtles 8 bit.png</image>
@@ -1855,7 +1787,7 @@
 	<game id="191385" source="ScreenScraper.fr">
 		<path>./Tekkaman Blade.PAK</path>
 		<name>Tekkaman Blade</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Tekkaman Blade.png</image>
 		<marquee>./wheel/Tekkaman Blade.png</marquee>
@@ -1864,7 +1796,7 @@
 	<game id="192361" source="ScreenScraper.fr">
 		<path>./Terminator.pak</path>
 		<name>Terminator</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Terminator.png</image>
 		<marquee>./wheel/Terminator.png</marquee>
@@ -1873,7 +1805,7 @@
 	<game id="191383" source="ScreenScraper.fr">
 		<path>./RETURN OF TNE KYO.PAK</path>
 		<name>The Return Of Kyo</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/RETURN OF TNE KYO.png</image>
 		<marquee>./wheel/RETURN OF TNE KYO.png</marquee>
@@ -1882,7 +1814,7 @@
 	<game id="191384" source="ScreenScraper.fr">
 		<path>./Search for Athena.PAK</path>
 		<name>The Search For Athena</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/The Search for Athena.png</image>
 		<marquee>./wheel/The Search for Athena.png</marquee>
@@ -1891,7 +1823,7 @@
 	<game id="191384" source="ScreenScraper.fr">
 		<path>./The Search for Athena.PAK</path>
 		<name>The Search For Athena</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/The Search for Athena.png</image>
 		<marquee>./wheel/The Search for Athena.png</marquee>
@@ -1900,7 +1832,7 @@
 	<game id="192029" source="ScreenScraper.fr">
 		<path>./Valdivia city ransom.pak</path>
 		<name>Valdivia City Ransom</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20120925T000000</releasedate>
 		<developer>Die_In_Fire</developer>
 		<players>1-3</players>
@@ -1911,7 +1843,7 @@
 	<game id="191376" source="ScreenScraper.fr">
 		<path>./Castlevania - Vampire_Hunters.pak</path>
 		<name>Vampire Hunters</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Castlevania - Vampire_Hunters.png</image>
 		<marquee>./wheel/Castlevania - Vampire_Hunters.png</marquee>
@@ -1919,7 +1851,7 @@
 	<game id="191374" source="ScreenScraper.fr">
 		<path>./Vampire Rage Hide.pak</path>
 		<name>Vampire Rage Hide</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Vampire Rage Hide.png</image>
 		<marquee>./wheel/Vampire Rage Hide.png</marquee>
@@ -1928,7 +1860,7 @@
 	<game id="191370" source="ScreenScraper.fr">
 		<path>./The Vengance of Kyo.PAK</path>
 		<name>Vengance Of Kyo</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/The Vengance of Kyo.png</image>
 		<marquee>./wheel/The Vengance of Kyo.png</marquee>
@@ -1937,7 +1869,7 @@
 	<game id="192028" source="ScreenScraper.fr">
 		<path>./Vermilion Sword.pak</path>
 		<name>Vermilion Sword - The Legend Of Calibur</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Vermilion Sword.png</image>
 		<marquee>./wheel/Vermilion Sword.png</marquee>
@@ -1946,7 +1878,7 @@
 	<game id="191371" source="ScreenScraper.fr">
 		<path>./Village of Rage.PAK</path>
 		<name>Village Of Rage</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Village of Rage.png</image>
 		<marquee>./wheel/Village of Rage.png</marquee>
@@ -1956,7 +1888,7 @@
 		<path>./World Heroes Supreme Justice.PAK</path>
 		<name>World Heroes - Supreme Justice Extra</name>
 		<desc>World Heroes Supreme Justice Extra is a classic side scroller arcade beat 'em up where you fight against the forces of Zeus and Neo-Dio.  World Heroes Supreme Justice Extra has five playable characters + 6 secret characters to unlock plus features two player co-op.  The game uses 4 buttons to punch, kick, jump and block as well as a lot of special moves, combos, and Kick/Punch combos.</desc>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<genre>Beat'em Up</genre>
 		<players>1-2</players>
@@ -1967,7 +1899,7 @@
 	<game id="192366" source="ScreenScraper.fr">
 		<path>./X-men Hunter for Mutants.pak</path>
 		<name>X-men - Hunter For Mutants</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<developer>K of evil / Kerubin Sutein</developer>
 		<players>1-4</players>
@@ -1978,7 +1910,7 @@
 	<game id="191364" source="ScreenScraper.fr">
 		<path>./X-Men Sagas.pak</path>
 		<name>X-men Sagas</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/X-Men Sagas.png</image>
 		<marquee>./wheel/X-Men Sagas.png</marquee>
@@ -1987,30 +1919,18 @@
 	<game id="191363" source="ScreenScraper.fr">
 		<path>./X-Men vs Street Fighter.PAK</path>
 		<name>X-men Vs Street Fighter</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/X-Men vs Street Fighter.png</image>
 		<marquee>./wheel/X-Men vs Street Fighter.png</marquee>
 		<video>./snap/X-Men vs Street Fighter.mp4</video>
 	</game>
 	<game id="191368" source="ScreenScraper.fr">
-		<path>./X-Men (M).pak</path>
-		<name>X-men</name>
-		<desc>X-Men is a Beats of Rage mod created by VicViper &amp; Kungpow, it features the Marvel superhero team which includes Iceman, Jean Grey, Psylocke and Wolverine.</desc>
-		<rating>4</rating>
-		<releasedate />
-		<developer>VicViper / Kungpow</developer>
-		<players>1-2</players>
-		<image>./mixart/X-Men (M).png</image>
-		<marquee>./wheel/X-Men (M).png</marquee>
-		<video>./snap/X-Men (M).mp4</video>
-	</game>
-	<game id="191368" source="ScreenScraper.fr">
 		<path>./X-Men.pak</path>
-		<name>X-men</name>
+		<name>X-Men</name>
 		<desc>X-Men is a Beats of Rage mod created by VicViper &amp; Kungpow, it features the Marvel superhero team which includes Iceman, Jean Grey, Psylocke and Wolverine.</desc>
-		<rating>4</rating>
-		<releasedate />
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
 		<developer>VicViper / Kungpow</developer>
 		<players>1-2</players>
 		<image>./mixart/X-Men (M).png</image>
@@ -2020,7 +1940,7 @@
 	<game id="192367" source="ScreenScraper.fr">
 		<path>./Xopowo For Hentaiers Custom.pak</path>
 		<name>Xopowo For Hentaiers Custom</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Xopowo For Hentaiers Custom.png</image>
 		<marquee>./wheel/Xopowo For Hentaiers Custom.png</marquee>
@@ -2029,7 +1949,7 @@
 	<game id="191641" source="ScreenScraper.fr">
 		<path>./X-Men - Beats of Rage.pak</path>
 		<name>ZZZ(notgame):Marvel Demo</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/X-Men - Beats of Rage.png</image>
 	</game>
@@ -2039,7 +1959,7 @@
 		<image>./mixart/The M@skaku.png</image>
 		<marquee>./wheel/The M@skaku.png</marquee>
 		<video>./snap/The M@skaku.mp4</video>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 	</game>
 	<game>
@@ -2048,7 +1968,7 @@
 		<image>./mixart/Rage of the Streets.png</image>
 		<video>./snap/Rage of the Streets.mp4</video>
 		<marquee>./wheel/Rage of the Streets.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 	</game>
 	<game>
@@ -2057,7 +1977,7 @@
 		<image>./mixart/Sailormoon Alternate Story Clone Attack.png</image>
 		<video>./snap/Sailormoon Alternate Story Clone Attack.mp4</video>
 		<marquee>./wheel/Sailormoon Alternate Story Clone Attack.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 	</game>
 	<game>
@@ -2066,7 +1986,7 @@
 		<image>./mixart/Super Tokusatsu Onore v3.png</image>
 		<video>./snap/Super Tokusatsu Onore v3.mp4</video>
 		<marquee>./wheel/Super Tokusatsu Onore v3.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20130514T000000</releasedate>
 		<developer>lagarto</developer>
 		<players>1-2</players>
@@ -2078,7 +1998,7 @@
 		<image>./mixart/Vampires Rage.png</image>
 		<video>./snap/Vampires Rage.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -2092,7 +2012,7 @@
 		<image>./mixart/X-men Guerra dos Clones.png</image>
 		<video>./snap/X-men Guerra dos Clones.mp4</video>
 		<marquee>./wheel/X-men Guerra dos Clones.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>20130508T000000</releasedate>
 		<developer>Kmilloz</developer>
 		<players>1-2</players>
@@ -2104,7 +2024,7 @@
 		<image>./mixart/Airgallet Fighters Wing.png</image>
 		<video>./snap/Airgallet Fighters Wing.mp4</video>
 		<marquee>./wheel/Airgallet Fighters Wing.png</marquee>
-		<rating>4.6</rating>
+		<rating>0.8</rating>
 		<releasedate>19700101T010000</releasedate>
 		<developer>kyo83</developer>
 	</game>
@@ -2198,17 +2118,6 @@
 		<marquee>./wheel/BattleManiacs BareKnuckle.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.pak</path>
-		<name>Battletoads And Double Dragon Iv - The Return Of The Dark Forces</name>
-		<desc>Faraway, at the very end of this galaxy there is another world race of the galaxy “Canis Major” corporation ruled by Queen of Dark. Defeated Queen of Dark is full of rage and makes up new evil plans of revenge and conquest. She destroyed all fighting units in Oxnard, where battle toads live. She did this with the help of magic and her faithful warriors. The city was at Queen's feet after that. Battletoads and Double Dragon mean the last hope. You must make your way to the Queen of Dark and destroy her with the help of set of fighting skills of each fighter.  You are going to experience a hurricane beat'em up with classic characters, improved graphics and nice sound effects. There are also extra game modes available: boss battle and air motorbike races.</desc>
-		<image>./mixart/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.png</image>
-		<video>./snap/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.mp4</video>
-		<marquee>./wheel/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-		<genre>Plateform / Fighter Scrolling-Fight / 2D-Platform-Fight</genre>
 	</game>
 	<game>
 		<path>./Battletoads Double Dragon - The Revenge.PAK</path>
@@ -3230,7 +3139,7 @@
 	<game id="192025" source="ScreenScraper.fr">
 		<path>./TMNT Rescue-Palooza!.pak</path>
 		<name>Tmnt Rescue-palooza!</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/TMNT Rescue-Palooza!.png</image>
 		<marquee>./wheel/TMNT Rescue-Palooza!.png</marquee>
@@ -3242,7 +3151,7 @@
 		<image>./mixart/Strider.png</image>
 		<video>./snap/Strider.mp4</video>
 		<marquee>./wheel/Strider.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 	</game>
 	<game>
@@ -3252,7 +3161,7 @@
 		<image>./mixart/Strider X.png</image>
 		<video>./snap/Strider X.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -3266,7 +3175,7 @@
 		<image>./mixart/Bad School Girls.png</image>
 		<video>./snap/Bad School Girls.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -3280,7 +3189,7 @@
 		<image>./mixart/Ninja - Stealth Assassins.png</image>
 		<video>./snap/Ninja - Stealth Assassins.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -3294,7 +3203,7 @@
 		<image>./mixart/RC_GAMA_(Remake).png</image>
 		<video>./snap/RC_GAMA_(Remake).mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -3358,7 +3267,7 @@
 		<image>./mixart/Masters of the Universe.png</image>
 		<video>./snap/Masters of the Universe.mp4</video>
 		<marquee>./wheel/Masters of the Universe.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<favorite>true</favorite>
 	</game>
@@ -3369,7 +3278,7 @@
 		<image>./mixart/HD_Monster_Girl_Dimensions.png</image>
 		<video>./snap/HD_Monster_Girl_Dimensions.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -3383,7 +3292,7 @@
 		<image>./mixart/Silent Hill 2 [8 Chars][v.3.0 Build 4086].png</image>
 		<video>./snap/Silent Hill 2 [8 Chars][v.3.0 Build 4086].mp4</video>
 		<marquee>./wheel/Silent Hill 2 [8 Chars][v.3.0 Build 4086].png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<favorite>true</favorite>
 	</game>
@@ -3393,14 +3302,14 @@
 		<image>./mixart/Teenage Mutant Ninja Turtles.png</image>
 		<video>./snap/Teenage Mutant Ninja Turtles.mp4</video>
 		<marquee>./wheel/Teenage Mutant Ninja Turtles.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<favorite>true</favorite>
 	</game>
 	<game id="192052" source="ScreenScraper.fr">
 		<path>./Beast &amp; Blanka in the Violent World [v.3.0 Build 4153].pak</path>
 		<name>Beast And Blanka In The Violent World</name>
-		<rating>3</rating>
+		<rating>0.6</rating>
 		<releasedate />
 		<image>./mixart/Beast and Blanka in the Violent World [v.3.0 Build 4153].png</image>
 		<marquee>./wheel/Beast and Blanka in the Violent World [v.3.0 Build 4153].png</marquee>
@@ -3409,7 +3318,7 @@
 	<game id="192339" source="ScreenScraper.fr">
 		<path>./Infection [v.3.0 Build 2720].pak</path>
 		<name>Infection</name>
-		<rating>3</rating>
+		<rating>0.6</rating>
 		<releasedate />
 		<image>./mixart/Infection [v.3.0 Build 2720].png</image>
 		<marquee>./wheel/Infection [v.3.0 Build 2720].png</marquee>
@@ -3419,7 +3328,7 @@
 		<path>./Maximum Carnage Return [English][Ver.  1.4][v.3.0 Build 4287].pak</path>
 		<name>Spider-Man &amp; Venom – Maximum Carnage Returns</name>
 		<desc>Spider-Man &amp; Venom – Maximum Carnage Returns features the Spider-Man, Venom and Deadpool characters as well as various ninemics from the classic Spider-Man &amp; Venom – Maximum Carnage, originally released in 1994 for Super Nintendo and Mega Drive / SEGA Genesis.</desc>
-		<rating>3</rating>
+		<rating>0.6</rating>
 		<releasedate />
 		<developer>HeatGames</developer>
 		<players>1-3</players>
@@ -3430,7 +3339,7 @@
 	<game id="191402" source="ScreenScraper.fr">
 		<path>./Bare Knuckle Next Generation [v.3.0 Build 4086].pak</path>
 		<name>Streets Of Rage Next Generation</name>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<image>./mixart/Bare Knuckle Next Generation [v.3.0 Build 4086].png</image>
 		<marquee>./wheel/Bare Knuckle Next Generation [v.3.0 Build 4086].png</marquee>
@@ -3439,7 +3348,7 @@
 	<game id="192362" source="ScreenScraper.fr">
 		<path>./Bruiser Brigade, The.pak</path>
 		<name>The Bruiser Brigade</name>
-		<rating>3</rating>
+		<rating>0.6</rating>
 		<releasedate />
 		<image>./mixart/Bruiser Brigade, The.png</image>
 		<marquee>./wheel/Bruiser Brigade, The.png</marquee>
@@ -3448,7 +3357,7 @@
 	<game id="192363" source="ScreenScraper.fr">
 		<path>./The Burning Fox Game [v.3.0 Build 4086].pak</path>
 		<name>The Burning Fox Game</name>
-		<rating>3</rating>
+		<rating>0.6</rating>
 		<releasedate />
 		<image>./mixart/The Burning Fox Game [v.3.0 Build 4086].png</image>
 		<marquee>./wheel/The Burning Fox Game [v.3.0 Build 4086].png</marquee>
@@ -3460,7 +3369,7 @@
 		<image>./mixart/The Fearless Warriors [v.3.0 Build 4086].png</image>
 		<video>./snap/The Fearless Warriors [v.3.0 Build 4086].mp4</video>
 		<marquee>./wheel/The Fearless Warriors [v.3.0 Build 4086].png</marquee>
-		<rating>3</rating>
+		<rating>0.6</rating>
 		<releasedate />
 	</game>
 	<game>
@@ -3469,7 +3378,7 @@
 		<image>./mixart/Ninja Jiraya [v.3.0 Build 4086].png</image>
 		<video>./snap/Ninja Jiraya [v.3.0 Build 4086].mp4</video>
 		<marquee>./wheel/Ninja Jiraya [v.3.0 Build 4086].png</marquee>
-		<rating>3</rating>
+		<rating>0.6</rating>
 		<releasedate />
 	</game>
 	<game>
@@ -3478,7 +3387,7 @@
 		<image>./mixart/Legend of Korr [Alpha Ver. 29.08.2018][v.3.0 Build 4432].png</image>
 		<video>./snap/Legend of Korr [Alpha Ver. 29.08.2018][v.3.0 Build 4432].mp4</video>
 		<marquee>./wheel/Legend of Korr [Alpha Ver. 29.08.2018][v.3.0 Build 4432].png</marquee>
-		<rating>3</rating>
+		<rating>0.6</rating>
 		<releasedate />
 		<players>1-2</players>
 	</game>
@@ -3488,7 +3397,7 @@
 		<image>./mixart/Bare Knuckle Next Generation.png</image>
 		<video>./snap/Bare Knuckle Next Generation.mp4</video>
 		<marquee>./wheel/Bare Knuckle Next Generation.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 	</game>
 	<game>
@@ -3497,7 +3406,7 @@
 		<image>./mixart/The Burning Fox Game.png</image>
 		<video>./snap/The Burning Fox Game.mp4</video>
 		<marquee>./wheel/The Burning Fox Game.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 	</game>
 	<game>
@@ -3507,7 +3416,7 @@
 		<image>./mixart/Bishojo Dimensional Chaos [v.3.0 Build 4453].png</image>
 		<video>./snap/Bishojo Dimensional Chaos [v.3.0 Build 4453].mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -3521,7 +3430,7 @@
 		<image>./mixart/Dynasty Assassin [v.3.0 Build 4153].png</image>
 		<video>./snap/Dynasty Assassin [v.3.0 Build 4153].mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -3535,7 +3444,7 @@
 		<image>./mixart/Samurai Warriors HD [Ver. Beta][v3.0 Build 4453].png</image>
 		<video>./snap/Samurai Warriors HD [Ver. Beta][v3.0 Build 4453].mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -3549,7 +3458,7 @@
 		<image>./mixart/The King of Fighters Beat 'Em UP Plus [01.02.2018][v.3.0 Build 4054].png</image>
 		<video>./snap/The King of Fighters Beat 'Em UP Plus [01.02.2018][v.3.0 Build 4054].mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -3563,7 +3472,7 @@
 		<image>./mixart/Women's War [v.3.0 Build 4153].png</image>
 		<video>./snap/Women's War [v.3.0 Build 4153].mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -3577,7 +3486,7 @@
 		<image>./mixart/Memory Loss.png</image>
 		<video>./snap/Memory Loss.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -3591,7 +3500,7 @@
 		<image>./mixart/Project FGC.png</image>
 		<video>./snap/Project FGC.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -3605,7 +3514,7 @@
 		<image>./mixart/Super Karate Kid.png</image>
 		<video>./snap/Super Karate Kid.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -3620,7 +3529,7 @@
 		<image>./mixart/Sreet Fighter Rage - World Olympic Tour.png</image>
 		<video>./snap/Sreet Fighter Rage - World Olympic Tour.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -3634,7 +3543,7 @@
 		<image>./mixart/Turtles Ninjas and Battletoads.png</image>
 		<video>./snap/Turtles Ninjas and Battletoads.mp4</video>
 		<marquee>./wheel/Turtles Ninjas and Battletoads.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 	</game>
 	<game>
@@ -3643,7 +3552,7 @@
 		<image>./mixart/Vendetta v2.png</image>
 		<video>./snap/Vendetta v2.mp4</video>
 		<marquee>./wheel/Vendetta v2.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 	</game>
 	<game>
@@ -3652,7 +3561,7 @@
 		<image>./mixart/Bare Knuckle V [v.3.0 Build 4086].png</image>
 		<video>./snap/Bare Knuckle V [v.3.0 Build 4086].mp4</video>
 		<marquee>./wheel/Bare Knuckle V [v.3.0 Build 4086].png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 	</game>
 	<game>
@@ -3662,7 +3571,7 @@
 		<image>./mixart/Avengers [v.3.0 Build 4086].png</image>
 		<video>./snap/Avengers [v.3.0 Build 4086].mp4</video>
 		<marquee>./wheel/Avengers [v.3.0 Build 4086].png</marquee>
-		<rating>3.95</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<developer>O Ilusionista / Doom</developer>
 		<players>1-2</players>
@@ -3703,7 +3612,7 @@
 		<image>./mixart/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].png</image>
 		<video>./snap/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].mp4</video>
 		<marquee>./wheel/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 		<favorite>true</favorite>
 	</game>
@@ -3714,7 +3623,7 @@
 		<image>./mixart/Rescue_Command_II.png</image>
 		<video>./snap/Rescue_Command_II.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -3728,7 +3637,7 @@
 		<image>./mixart/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].png</image>
 		<video>./snap/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
@@ -3743,7 +3652,7 @@
 		<image>./mixart/Alien vs Predator Aftermath.png</image>
 		<video>./snap/Alien vs Predator Aftermath.mp4</video>
 		<marquee>./wheel/Alien vs Predator Aftermath.png</marquee>
-		<rating>4.8</rating>
+		<rating>0.8</rating>
 		<releasedate>19700101T010000</releasedate>
 		<players>1-2</players>
 	</game>
@@ -3753,7 +3662,7 @@
 		<image>./mixart/Ultimate Super Mega Beatdown.png</image>
 		<video>./snap/Ultimate Super Mega Beatdown.mp4</video>
 		<marquee>./wheel/Ultimate Super Mega Beatdown.png</marquee>
-		<rating>4</rating>
+		<rating>0.8</rating>
 		<releasedate />
 	</game>
 	<game id="204383" source="ScreenScraper.fr">

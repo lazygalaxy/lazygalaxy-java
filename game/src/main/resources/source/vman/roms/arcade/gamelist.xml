@@ -6975,20 +6975,6 @@ Giga Wing is a shoot-em-up set during a fictional war. The player controls one o
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./sgladiat.zip</path>
-		<name>Gladiator 1984</name>
-		<desc>Ride on your horse and jump over obstacles or avoid them with your chariot.</desc>
-		<image>./mixart/sgladiat.png</image>
-		<video>./snap/sgladiat.mp4</video>
-		<marquee>./wheel/sgladiat.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Platform-Plateform / Run Jump</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./yamagchi.zip</path>
 		<name>Go Go Mr. Yamaguchi / Yuke Yuke Yamaguchi-kun</name>
 		<desc>In Go Go Mr. Yamaguchi - Jungle Survival, you control a jungle explorer named Mr. Yamaguchi who shoots at natives and other enemies.</desc>
@@ -11165,20 +11151,6 @@ Knock-Out The Competitions! 10 typical fighters battle against each other in a t
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./marvland.zip</path>
-		<name>Marvel Land</name>
-		<desc>Great horizontal platform game that takes place in a fantasy amusement park. You play as Prince Paco, who is on a quest to save Princess Luxy from the evil Mole King.</desc>
-		<image>./mixart/marvland.png</image>
-		<video>./snap/marvland.mp4</video>
-		<marquee>./wheel/marvland.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Plateform / Fighter Scrolling-Platform</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./msh.zip</path>
 		<name>Marvel Super Heroes</name>
 		<image>./mixart/msh.png</image>
@@ -14533,46 +14505,6 @@ A vertical pool game where you can play either 9-ball or rotation.</desc>
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./radarscp.zip</path>
-		<name>Radar Scope</name>
-		<desc>As captain of the Sonic Spaceport, players must defend their station against enemy spaceships called Gamma Raiders, which attack with vengeance and swiftly retreat to formation. The object of the game is to destroy 48 enemy Gamma Raiders before there is total disintegration of all the Spaceports on the player's side.
-
-Players can counterattack with the Rapid-Fire Laser Blaster which zooms the lasers over the three-dimensional-esque field of curving vectors, while it intercepts enemies. The lower on the radar screen that you destroy a Gamma Raider, the more points will be earned. If exploding decoys damage the Sonic Spaceport, the Laser Blaster's firing speed will reduce. The Laser Blaster's "Damage Meter" will light up as damage is incurred and when fully illuminated, will weaken the Laser Blaster's offensive powers. To reverse this, the players must attack and destroy all remaining Gamma Raiders.
-
-Players are given a wide range of flexibility in controlling the difficulty levels of the game. Extra Spaceports are awarded at 7,000, 10,000, 15,000 and 20,000 points, as determined by the players. The initial number of Spaceports may also be pre-programmed at 3, 4, 5 or 6. When the required number of spaceships is destroyed, players receive an extra point bonus.</desc>
-		<image>./mixart/radarscp.png</image>
-		<video>./snap/radarscp.mp4</video>
-		<marquee>./wheel/radarscp.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shooter-Shooter / Space Invaders Like</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./radrad.zip</path>
-		<name>Radical Radial</name>
-		<desc>This is an interesting take on the shooter genre, with three unique sections in each stage. You control a tire with the ability to jump and shoot. When you jump, you can only be hit by the enemies in the first stage.
-
-In the first level, you need to dodge or jump over rocks as bat-like enemies rush down the screen, weaving across it. Occasionally a string of enemies will appear that give a bonus of 1000 if you hit them all. You can also pick up bonus items worth 300 points each.
-
-In the second level, you are driving down a busy road. You need to doge cars as they erratically move across the screen. Occasionally an ambulance will drive up the screen, and if it hits a vehicle it will go flying across the screen. Watch out for the blue trucks in this section. Midway through this part, a green truck appears which drops stars. They are worth 500 each. There are broken down vehicles on the road, along with oil slicks. The pickups worth 300 points make a return.
-
-The third level is a bonus round. You continue driving down the road, but now there are only oil slicks. You need to collect as many point pickups as possible. If you die in this section, it jumps to the next level, and you do not lose a life. You get a bonus if you get every pickup. You are then given a bonus based on your time for the last stage.
-
-There is a difficulty spike at the third stage. The extra life is at 50000. You only get one extra life during the course of the game. The game is infinite.</desc>
-		<image>./mixart/radrad.png</image>
-		<video>./snap/radrad.mp4</video>
-		<marquee>./wheel/radrad.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Nichibutsu</developer>
-		<publisher>Nichibutsu</publisher>
-		<genre>Shooter-Shooter / Vehicle, Vertical</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./raflesia.zip</path>
 		<name>Rafflesia</name>
 		<desc>Rafflesia is a deep space shooter from Coreland - it has a similar eerie feel to it as in other space shooters such as "Brain" and "4-D Warriors".
@@ -17180,19 +17112,6 @@ Points are scored for driving on the road and for destroying enemy vehicles. The
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Puzzle-Game-Puzzle-Game / Fall</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./stadhero.zip</path>
-		<name>Stadium Hero</name>
-		<image>./mixart/stadhero.png</image>
-		<video>./snap/stadhero.mp4</video>
-		<marquee>./wheel/stadhero.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Sports-Sports / Baseball</genre>
 		<players>1-2</players>
 	</game>
 	<game>
@@ -20460,20 +20379,6 @@ A "Bubble Bobble" clone.</desc>
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./utoukond.zip</path>
-		<name>Ultra Toukon Densetsu</name>
-		<desc>Horizontal beat'em up featuring, in SD (Super Deformed), Ultraman and his comrades who fight evil monsters.</desc>
-		<image>./mixart/utoukond.png</image>
-		<video>./snap/utoukond.mp4</video>
-		<marquee>./wheel/utoukond.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Banpresto</developer>
-		<publisher>Banpresto</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./ultrax.zip</path>
 		<name>Ultra X Weapons</name>
 		<desc>This game is based on 'Ultraman', a famous Japanese live-action superhero series that has had numerous sequels and spin-offs since its debut in the 1960s. Generally, the main character is a normal human who uses an alien device to transform into a giant red-and-silver (sometimes with blue) creature called an Ultraman to combat alien monsters with the help of a special military team. Some of the subsequent shows in the series include 'Ultraseven', 'Ultraman Leo', 'Ultraman Taroh', and 'Ultraman Tiga'.</desc>
@@ -20961,18 +20866,6 @@ Pinball has some many bonnus and also had a secondary Breakout like mode, which 
 		<publisher>Nintendo</publisher>
 		<genre>Pinball-Pinball</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./starlstr.zip</path>
-		<name>Vs. Star Luster</name>
-		<desc>Vs. Star Luster (c) 1985 Namco.  - TECHNICAL -  Main CPU : N2A03 (@ 1.789772 Mhz) Sound Chips : N2A03 (@ 1.789772 Mhz), DAC (@ 1.789772 Mhz)  Screen orientation : Horizontal Video resolution : 256 x 240 pixels Screen refresh : 60.00 Hz Palette colors : 64</desc>
-		<image>./mixart/starlstr.png</image>
-		<video>./snap/starlstr.mp4</video>
-		<marquee>./wheel/starlstr.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19850101T000000</releasedate>
-		<publisher>Namco</publisher>
-		<genre>Shooter-Shooter / Plane, 1st person</genre>
 	</game>
 	<game>
 		<path>./suprmrio.zip</path>
@@ -21599,19 +21492,6 @@ Players maneuver their way through hairpin curves, jumps, bridges, puddles, and 
 		<publisher>Cinematronics</publisher>
 		<genre>Sports-Sports / Baseball</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./wsf.zip</path>
-		<name>World Soccer Finals</name>
-		<image>./mixart/wsf.png</image>
-		<video>./snap/wsf.mp4</video>
-		<marquee>./wheel/wsf.png</marquee>
-		<rating>0.3</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Leland Corp.</developer>
-		<publisher>Leland Corp.</publisher>
-		<genre>Sports-Sports / Soccer</genre>
-		<players>1-4</players>
 	</game>
 	<game>
 		<path>./ws.zip</path>
@@ -26116,19 +25996,6 @@ Dazzler</desc>
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./zeroteam.zip</path>
-		<name>Zero Team USA</name>
-		<desc>A side scrolling beat-em-up that uses Japanese superhero-type characters. Characters are able to throw and break background objects and use them against their enemies. The goal is to progress past the end-of-level bosse</desc>
-		<image>./mixart/zeroteam.png</image>
-		<video>./snap/zeroteam.mp4</video>
-		<marquee>./wheel/zeroteam.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19930101T000000</releasedate>
-		<publisher>Seibu Kaihatsu</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./88games.zip</path>
 		<name>'88 Games</name>
 		<desc>Konami '88 (also known as '88 Games or Hyper Sports Special) is the third in the Track &amp; Field game series by Konami, where you test your Olympic skills against other world-class athletes. As the name implies, it is loosely based on (and not licensed by) the 1988 Summer Olympics in Seoul, South Korea. Bronze or silver medals are not good enough - you have to go for the gold to get to the next event. However, you must at least qualify in each event in order to compete in the next event.</desc>
@@ -28102,20 +27969,6 @@ As you make progress and fight of helicopters, airships, various planes, tanks, 
 		<marquee>./wheel/freeze.png</marquee>
 		<video>./snap/freeze.mp4</video>
 	</game>
-	<game id="41305" source="ScreenScraper.fr">
-		<path>./funkyjet.zip</path>
-		<name>Funky Jet</name>
-		<desc>In this game, you play with a character who has a jet-pack on his back (enabling him to fly in the air), while he is punching the badguys.</desc>
-		<rating>0.6</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Platform</genre>
-		<players>1-2</players>
-		<image>./mixart/funkyjet.png</image>
-		<marquee>./wheel/funkyjet.png</marquee>
-		<video>./snap/funkyjet.mp4</video>
-	</game>
 	<game id="41324" source="ScreenScraper.fr">
 		<path>./gaiapols.zip</path>
 		<name>Gaiapolis</name>
@@ -28143,20 +27996,6 @@ As you make progress and fight of helicopters, airships, various planes, tanks, 
 		<image>./mixart/galaga.png</image>
 		<marquee>./wheel/galaga.png</marquee>
 		<video>./snap/galaga.mp4</video>
-	</game>
-	<game id="37580" source="ScreenScraper.fr">
-		<path>./galaxyfg.zip</path>
-		<name>Galaxy Fight: Universal Warriors</name>
-		<desc>People have prayed to the gods, but the devil descends from the sky. Your mission is to defeat Felden Kryse, ruler of the underworld. The fantastic challenge ferociously unfolds on eight different planets. Screen image changes on-the-fly to zoom in and out based on how the battle unfolds. Use Dash to your utmost advantage, and speed through the field of infinity.</desc>
-		<rating>0.75</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fighting 2D</genre>
-		<players>1-2</players>
-		<image>./mixart/galaxyfg.png</image>
-		<marquee>./wheel/galaxyfg.png</marquee>
-		<video>./snap/galaxyfg.mp4</video>
 	</game>
 	<game id="41442" source="ScreenScraper.fr">
 		<path>./ghoxj.zip</path>
@@ -28395,20 +28234,6 @@ As you make progress and fight of helicopters, airships, various planes, tanks, 
 		<marquee>./wheel/helifire.png</marquee>
 		<video>./snap/helifire.mp4</video>
 	</game>
-	<game id="41681" source="ScreenScraper.fr">
-		<path>./hippodrm.zip</path>
-		<name>Hippodrome</name>
-		<desc>The brave knight takes on a slew of medieval opponents. Money won during fights can be used to purchase fighter upgrades.    The game has 9 different selectable colosseums, each with a different opponent to face:  Pandemonium: Cawnus the Lamia Noble  Gehenna: Gran the Gargoyle  Tarterus: Norfolk the Lizard Man  Gadsheim: Sharon the Armor Dragon  Archeron: Daldnoa the Scorpion Man  Elysium: Solomon the Wizard  Twin Paradises: Charry Steve The Assassins  Abyss: Pon the Giant</desc>
-		<rating>0.3</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Fighting 2D</genre>
-		<players>1-2</players>
-		<image>./mixart/hippodrm.png</image>
-		<marquee>./wheel/hippodrm.png</marquee>
-		<video>./snap/hippodrm.mp4</video>
-	</game>
 	<game id="41767" source="ScreenScraper.fr">
 		<path>./hyprduel.zip</path>
 		<name>Hyper Duel</name>
@@ -28608,20 +28433,6 @@ From easy to expert, IQ-Blox includes 120 challenges that are easy to set up ...
 		<image>./mixart/levers.png</image>
 		<marquee>./wheel/levers.png</marquee>
 		<video>./snap/levers.mp4</video>
-	</game>
-	<game id="57919" source="ScreenScraper.fr">
-		<path>./magmax.zip</path>
-		<name>Mag Max</name>
-		<desc>Mag Max is a horizontally scrolling shoot-em-up in which a single player takes control of the 'Maxcraft' hover-ship and must battle their way through an packed enemy installation to find and destroy the invading alien 'Dragonia' fleet.    The action takes place both above and below ground and transporters appear throughout the game that allows the Maxcraft warp between the two as players search for the three-headed 'Dragonship'.    At various points the player will come across robot components - either a torso, a pair of legs or a plasma gun - and collecting these will eventually see the player's hover-ship become a towering robot, vastly increasing its firepower in the process.    If the Maxcraft takes an enemy hit when additional components are attached, a component is lost. If the ship is hit when only in basic form, however, a life is lost.</desc>
-		<rating>0.7</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Nichibutsu</developer>
-		<publisher>Nichibutsu</publisher>
-		<genre>Shoot 'Em Up</genre>
-		<players>1-2</players>
-		<image>./mixart/magmax.png</image>
-		<marquee>./wheel/magmax.png</marquee>
-		<video>./snap/magmax.mp4</video>
 	</game>
 	<game id="57924" source="ScreenScraper.fr">
 		<path>./magspot.zip</path>

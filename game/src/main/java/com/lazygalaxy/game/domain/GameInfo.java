@@ -2,6 +2,7 @@ package com.lazygalaxy.game.domain;
 
 import java.util.Set;
 
+import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.builder.EqualsBuilder;
 import org.apache.commons.lang3.builder.HashCodeBuilder;
 import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
@@ -20,7 +21,8 @@ public class GameInfo {
 	public String marquee;
 	public Double rating;
 	public Integer players;
-	public Set<String> manufacturers;
+	public String developer;
+	public String publisher;
 	public Set<String> emulators;
 
 	public GameInfo() {
@@ -28,10 +30,14 @@ public class GameInfo {
 	}
 
 	public GameInfo(String path, String name, String year, String description, String genre, String image, String video,
-			String marquee, Double rating, Integer players, Set<String> manufacturers, String emulator) {
+			String marquee, Double rating, Integer players, String developer, String publisher, String emulator) {
 		this.path = path;
 		this.name = name;
-		this.year = year;
+
+		if (!StringUtils.equals(year, "1970")) {
+			this.year = year;
+		}
+
 		this.description = description;
 		this.genre = genre;
 		this.image = image;
@@ -39,7 +45,19 @@ public class GameInfo {
 		this.marquee = marquee;
 		this.rating = rating;
 		this.players = players;
-		this.manufacturers = SetUtil.addValue(this.manufacturers, manufacturers);
+
+		if (StringUtils.equals(developer, "Data East USA")) {
+			developer = "Data East";
+		}
+		if (StringUtils.equals(publisher, "Data East USA")) {
+			publisher = "Data East";
+		}
+		this.developer = developer;
+		this.publisher = publisher;
+		if (StringUtils.equals(developer, publisher)) {
+			this.publisher = null;
+		}
+
 		this.emulators = SetUtil.addValue(this.emulators, emulator);
 	}
 

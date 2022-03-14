@@ -37,10 +37,12 @@ public abstract class MongoDocument {
 		this(id, true, name, labels);
 	}
 
-	public MongoDocument(String id, boolean normalizeId, String name, String[] labels) throws Exception {
+	public MongoDocument(String id, boolean mustAlphanumerify, String name, String[] labels) throws Exception {
 		if (!StringUtils.isBlank(id)) {
-			if (normalizeId) {
+			if (mustAlphanumerify) {
 				this.id = GeneralUtil.alphanumerify(id, "_", "");
+			} else {
+				this.id = id;
 			}
 		} else {
 			this.id = UUID.randomUUID().toString();

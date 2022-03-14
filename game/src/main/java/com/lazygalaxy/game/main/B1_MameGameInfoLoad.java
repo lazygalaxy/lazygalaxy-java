@@ -2,7 +2,6 @@ package com.lazygalaxy.game.main;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
@@ -48,9 +47,9 @@ public class B1_MameGameInfoLoad {
 		protected List<Game> getMongoDocument(Element element, List<String> extraTagValues) throws Exception {
 			List<Game> gameList = new ArrayList<Game>();
 
-			String romId = XMLUtil.getAttributeAsString(element, "name");
-			List<Game> games = GameUtil.getGames(false, false, romId, Filters.eq("romId", romId),
-					Filters.in("systemId", GameSystem.ARCADE, GameSystem.ATOMISWAVE, GameSystem.NAOMI, GameSystem.NEOGEO));
+			String romId = GeneralUtil.alphanumerify(XMLUtil.getAttributeAsString(element, "name"));
+			List<Game> games = GameUtil.getGames(false, false, romId, Filters.eq("romId", romId), Filters.in("systemId",
+					GameSystem.ARCADE, GameSystem.ATOMISWAVE, GameSystem.DAPHNE, GameSystem.NAOMI, GameSystem.NEOGEO));
 
 			if (games != null) {
 				for (Game game : games) {
@@ -68,10 +67,10 @@ public class B1_MameGameInfoLoad {
 			String name = XMLUtil.getTagAsString(element, "description", 0);
 			String year = XMLUtil.getTagAsString(element, "year", 0);
 			Integer players = XMLUtil.getTagAttributeAsInteger(element, "input", "players", 0);
-			Set<String> manufacturers = XMLUtil.getTagAsStringSet(element, "manufacturer", "/");
+			String developer = XMLUtil.getTagAsString(element, "manufacturer", 0);
 
-			game.mameGameInfo = new GameInfo(null, name, year, null, null, null, null, null, null, players,
-					manufacturers, null);
+			game.mameGameInfo = new GameInfo(null, name, year, null, null, null, null, null, null, players, developer,
+					null, null);
 
 			game.name = GameUtil.pretify(GeneralUtil.split(GameUtil.pretify(name), "/")[0]);
 			game.addLabel(game.name);
@@ -97,8 +96,9 @@ public class B1_MameGameInfoLoad {
 
 			if (!StringUtils.isBlank(game.cloneOfRomId)) {
 				List<Game> parentGames = GameUtil.getGames(false, false, game.cloneOfRomId,
-						Filters.eq("romId", game.cloneOfRomId),
-						Filters.in("systemId", GameSystem.ARCADE, GameSystem.ATOMISWAVE, GameSystem.NAOMI, GameSystem.NEOGEO));
+						Filters.eq("romId", GeneralUtil.alphanumerify(game.cloneOfRomId)),
+						Filters.in("systemId", GameSystem.ARCADE, GameSystem.ATOMISWAVE, GameSystem.DAPHNE,
+								GameSystem.NAOMI, GameSystem.NEOGEO));
 
 				if (parentGames != null) {
 					game.parentMissing = false;

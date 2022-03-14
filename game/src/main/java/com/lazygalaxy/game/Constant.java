@@ -15,6 +15,7 @@ public class Constant {
 	public static class GameSystem {
 		public static String ARCADE = "arcade";
 		public static String ATOMISWAVE = "atomiswave";
+		public static String DAPHNE = "daphne";
 		public static String NAOMI = "naomi";
 		public static String NEOGEO = "neogeo";
 		public static String NEOGEOCD = "neogeocd";

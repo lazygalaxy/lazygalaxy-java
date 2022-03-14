@@ -88,7 +88,7 @@ public class MongoHelper<T extends MongoDocument> {
 				LOGGER.info("inserting  id: " + newDocument.id + " " + newDocument);
 				collection.insertOne(newDocument);
 			} else if (!newDocument.equals(storedDocument)) {
-				LOGGER.info("replacing id: " + newDocument.id + " " + newDocument);
+				LOGGER.info("replacing id: " + newDocument.id + " " + newDocument + " from: " + storedDocument);
 				collection.replaceOne(Filters.eq("_id", newDocument.id), newDocument);
 			}
 		}

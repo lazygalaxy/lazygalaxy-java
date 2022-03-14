@@ -40,9 +40,9 @@ public class Game extends MongoDocument {
 
 	}
 
-	public Game(String romId, String systemId) throws Exception {
-		super(systemId + "_" + romId, null, null);
-		this.romId = romId;
+	public Game(String systemId, String romId) throws Exception {
+		super(systemId + "_" + romId, false, null, new String[] { romId });
 		this.systemId = systemId;
+		this.romId = romId;
 	}
 }

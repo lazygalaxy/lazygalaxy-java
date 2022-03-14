@@ -19,7 +19,10 @@ public class SetUtil {
 				}
 			}
 		}
-		return valueSet;
+		if (valueSet.size() > 0) {
+			return valueSet;
+		}
+		return null;
 	}
 
 	public static Set<String> addValue(Set<String> valueSet, Set<String> values) {
