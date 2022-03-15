@@ -93,7 +93,7 @@ public class SourceLoad {
 			Game game = new Game(GeneralUtil.alphanumerify(systemId), GeneralUtil.alphanumerify(romFile));
 
 			String name = XMLUtil.getTagAsString(element, "name", 0);
-			String year = StringUtils.left(XMLUtil.getTagAsString(element, "releasedate", 0), 4);
+			String year = XMLUtil.getTagAsString(element, "releasedate", 0);
 			String description = XMLUtil.getTagAsString(element, "desc", 0);
 			String genre = XMLUtil.getTagAsString(element, "genre", 0);
 			String image = XMLUtil.getTagAsString(element, "image", 0);

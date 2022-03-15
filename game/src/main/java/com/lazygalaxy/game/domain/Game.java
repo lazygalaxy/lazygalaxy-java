@@ -14,6 +14,8 @@ public class Game extends MongoDocument {
 	public String year;
 	public Integer players;
 	public String description;
+	public String developer;
+	public String publisher;
 
 	public GameInfo mameGameInfo;
 	public GameInfo vmanGameInfo;

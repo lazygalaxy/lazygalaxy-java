@@ -34,8 +34,8 @@ public class GameInfo {
 		this.path = path;
 		this.name = name;
 
-		if (!StringUtils.equals(year, "1970")) {
-			this.year = year;
+		if (year != null && !StringUtils.equals(year, "1970")) {
+			this.year = StringUtils.left(year, 4);
 		}
 
 		this.description = description;

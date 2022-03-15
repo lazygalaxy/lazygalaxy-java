@@ -20,8 +20,8 @@ import com.lazygalaxy.game.util.GameUtil;
 import com.lazygalaxy.game.util.SetUtil;
 import com.mongodb.client.model.Filters;
 
-public class B1_MameGameInfoLoad {
-	private static final Logger LOGGER = LogManager.getLogger(B1_MameGameInfoLoad.class);
+public class B1_MameGameInfoSourceLoad {
+	private static final Logger LOGGER = LogManager.getLogger(B1_MameGameInfoSourceLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {
@@ -29,7 +29,7 @@ public class B1_MameGameInfoLoad {
 
 			// further enrich the exiting roms with information from the latest mame/arcade
 			// database
-			new ArcadeEnrichGameLoad().load("source/mame/mame240.xml", "machine", merge);
+			new MameGameInfoLoad().load("source/mame/mame240.xml", "machine", merge);
 			LOGGER.info("mame enrich game completed!");
 
 		} finally {
@@ -37,9 +37,9 @@ public class B1_MameGameInfoLoad {
 		}
 	}
 
-	private static class ArcadeEnrichGameLoad extends XMLLoad<Game> {
+	private static class MameGameInfoLoad extends XMLLoad<Game> {
 
-		public ArcadeEnrichGameLoad() throws Exception {
+		public MameGameInfoLoad() throws Exception {
 			super(Game.class);
 		}
 
@@ -72,9 +72,6 @@ public class B1_MameGameInfoLoad {
 			game.mameGameInfo = new GameInfo(null, name, year, null, null, null, null, null, null, players, developer,
 					null, null);
 
-			game.name = GameUtil.pretify(GeneralUtil.split(GameUtil.pretify(name), "/")[0]);
-			game.addLabel(game.name);
-			game.year = year;
 			game.cloneOfRomId = XMLUtil.getAttributeAsString(element, "cloneof");
 			game.sourceFile = XMLUtil.getAttributeAsString(element, "sourcefile");
 			game.sampleOf = XMLUtil.getAttributeAsString(element, "sampleof");

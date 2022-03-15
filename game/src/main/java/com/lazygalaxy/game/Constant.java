@@ -27,4 +27,13 @@ public class Constant {
 		public final static String MAME2010 = "mame2010";
 		public final static String FBNEO = "fbneo";
 	}
+
+	public static class GameSource {
+		public final static String MAME = "mame";
+		public final static String RICKDANGEROUS = "rickdangerous";
+		public final static String WOLFANOZ = "wolfanoz";
+		public final static String VMAN = "vman";
+
+		public final static String[] ALL = new String[] { MAME, RICKDANGEROUS, WOLFANOZ, VMAN };
+	}
 }
