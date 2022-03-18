@@ -1,0 +1,1410 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>PC Engine</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Air Zonk (USA).zip</path>
+		<name>Air Zonk</name>
+		<sortname />
+		<desc>In 1992, Hudson Soft expanded upon the Bonk's Adventure franchise they had built by creating Air Zonk, a 2D side-scrolling "cute 'em up" shooter set in a cyberpunk-esque future. While Air Zonk differed from its successor in terms of gameplay, the cartoonish style of the Bonk series could still be seen all throughout the game, especially in the graphics, the characters, &amp; of course, Zonk himself.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Air Zonk (USA).jpg</image>
+		<video>./snaps/Air Zonk (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Blazing Lazers (USA).zip</path>
+		<name>Blazing Lazers</name>
+		<sortname />
+		<desc>Blazing Lazers is a top-down shooter featuring 9 levels of varied and fast-paced action. The story here is the usual save-the-world variety. You must pilot your ship against 8 super-weapons and ultimately destroy the menace once and for all. The power-up system in Blazing Lazers deserves special mention. There are four main types of weapons, and each type of weapon can be upgraded several times to produce an incredible amount of firepower. In addition, there are secondary weapons systems that provide you with shields, homing missiles, multi-fire units, or super weapon power.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>NEC</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Blazing Lazers (USA).jpg</image>
+		<video>./snaps/Blazing Lazers (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Double Dungeons (USA).zip</path>
+		<name>Double Dungeons</name>
+		<sortname />
+		<desc>Double Dungeons is a solo dungeon crawler in the strictest sense. One or two players can explore pseudo-3D, maze-like dungeons (without auto-map feature, but with directions displayed on the screen) and fight the monsters populating them. The player(s) can choose to venture into any of the available 20 dungeons. The dungeons have the same textures, but their layout varies; the higher is the number of the chosen dungeon, the more dangerous are its enemies.</desc>
+		<rating>0.45</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>NCS Corporation</developer>
+		<publisher>Masaya Games</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Double Dungeons (USA).jpg</image>
+		<video>./snaps/Double Dungeons (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dungeon Explorer (USA).zip</path>
+		<name>Dungeon Explorer</name>
+		<sortname />
+		<desc>The former king of Oddesia has entrusted you with an important, dangerous task. You must find the sacred ORA stone, which possesses the powers of life, light and happiness, and retrieve it before the king of the alien race, Natas, does. He has conquered this land and plunged it into an age of terror and despair, plagued with violence. It is up to you to stand against him and return your world to its former glory.</desc>
+		<rating>0.65</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>NEC</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-5</players>
+		<image>./boxart/Dungeon Explorer (USA).jpg</image>
+		<video>./snaps/Dungeon Explorer (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Fighting Run (Japan).zip</path>
+		<name>Fighting Run</name>
+		<sortname />
+		<desc>Fighting Run is an action game by Nihon Bussan that features an unusual mix of racing and fighting. The player takes control of a humanoid biped robot engaged in a series of deadly races against other opponents. But these races have a twist - each racer can attack the opposing player in order to win the race and score points.</desc>
+		<rating>0.55</rating>
+		<releasedate>19911129T000000</releasedate>
+		<developer>Nichibutsu</developer>
+		<publisher>Nichibutsu</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Fighting Run (Japan).jpg</image>
+		<video>./snaps/Fighting Run (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Galaga '90 (USA).zip</path>
+		<name>Galaga '90</name>
+		<sortname />
+		<desc>Galaga '90 takes the basic gameplay of Galaga and adds higher-quality graphics, triple ship abilities, parsec progression, power-ups, asteroids, bosses and other enhancements. Periodically the player encounters Challenging Stages, which are set to music and feature "dancing" enemies. The objective is to shoot all 40 enemies before they disappear, for a bonus of at least 10,000 points. There are a total of 29 stages.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>NEC</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Galaga '90 (USA).jpg</image>
+		<video>./snaps/Galaga '90 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Gekisha Boy (Japan) [En by Zatos v0.99] (_Photograph Boy).zip</path>
+		<name>Gekibo: Gekisha Bōi </name>
+		<sortname />
+		<desc>A Novel game in which you have to earn points by taking photographs of the most newsworthy happenings as you walk down the street. These involve people falling over, planes crashing, UFOs and many other bizarre events.</desc>
+		<rating>0.75</rating>
+		<releasedate>19921002T000000</releasedate>
+		<developer>Tomcat System</developer>
+		<publisher>Irem</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Gekisha Boy (Japan) [En by Zatos v0.99] (_Photograph Boy).jpg</image>
+		<video>./snaps/Gekisha Boy (Japan) [En by Zatos v0.99] (_Photograph Boy).mp4</video>
+	</game>
+	<game>
+		<path>./Maerchen Maze (Japan).zip</path>
+		<name>Märchen Maze</name>
+		<sortname />
+		<desc>The player takes control of Alice who must shoot bubbles at enemies to knock them off platforms. Unlike the arcade original which was in isometric perspective, Märchen Maze on the PC Engine is an overhead game. This version features different stages than the arcade game, and because of the lack of a time limit, many of the stages are much more expansive. The chequered platforms at the end of a level are static rather than moving, hopping on to them automatically takes you to the boss. Also, instead of starting from a checkpoint when you die, your lives are represented by balloons. Should Alice fall, you'll be respawned on the spot.</desc>
+		<rating>0.8</rating>
+		<releasedate>19901211T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Maerchen Maze (Japan).jpg</image>
+		<video>./snaps/Maerchen Maze (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Magical Chase (USA).zip</path>
+		<name>Magical Chase</name>
+		<sortname />
+		<desc>Ripple is a student of magic, and her teacher is a terrifying witch. Ripple's particulary afraid of her teacher right now, because she's just broken a promise she made to the witch: Ripple took a peek inside the forbidden book Sleeping Demons! No sooner had she opened the cover than out jumped six demons, which raced away! Unless she can catch all six demons and get them back inside the book, the witch will turn Ripple into a frog for breaking her promise! Ripple sets off on her quest with her two Elf-Star friends, Topsy and Turvy. Good luck, Ripple!!</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Quest</developer>
+		<publisher>NEC</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Magical Chase (USA).jpg</image>
+		<video>./snaps/Magical Chase (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Military Madness (USA).zip</path>
+		<name>Military Madness</name>
+		<sortname />
+		<desc>Military Madness is a futuristic turn-based strategy war game. The year is 2089 and the setting is Earth?s moon, which yields many important resources. While the governments of Earth bicker over their staked claims on the moon, the evil Axis Empire launches a lunar military campaign and takes over the moon, using its factories to produce advanced weaponry, the most devastating of which is the SAM (Supreme Atomic Missile).</desc>
+		<rating>0.75</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Military Madness (USA).jpg</image>
+		<video>./snaps/Military Madness (USA).mp4</video>
+	</game>
+	<game>
+		<path>./New Adventure Island (USA).zip</path>
+		<name>New Adventure Island</name>
+		<sortname />
+		<desc>Somewhere on the peaceful Adventure Island, Master Higgins weds Tina, the new "Miss Island". Everyone who was invited to the wedding begins to celebrate when, suddenly, the evil Baron Bronsky appears and snatches Tina away, while his henchmen take the six children away. To reach his castle and rescue Tina, Master Higgins must first rescue the six children, each of whom is hidden on a separate island.</desc>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/New Adventure Island (USA).jpg</image>
+		<video>./snaps/New Adventure Island (USA).mp4</video>
+	</game>
+	<game>
+		<path>./R-Type (USA).zip</path>
+		<name>R-Type</name>
+		<sortname />
+		<desc>R-Type is a side scrolling shoot 'em up best known for its extremely tough and strategic gameplay. You control the R-9 spaceship as it launches a last-ditch effort to repel the evil Bydo empire. The R-9 comes equipped as standard with a small gun which can only take down the smallest of enemies without firing several shots. By holding down the fire button, it can be loaded up so as to release a large burst of energy, eliminating all but the strongest enemies in its path. From time to time, pods will come flying in your direction. Upon being shot, they release an upgrade.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>NEC</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/R-Type (USA).jpg</image>
+		<video>./snaps/R-Type (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Soldier Blade (USA).zip</path>
+		<name>Soldier Blade</name>
+		<sortname />
+		<desc>A top down sci-fi shooter in which you take to the skies of several planets in an advanced starfighter in order to eradicate an alien invasion. Soldier Blade puts you in direct control of a starfighter as you make your way through each enemy-infested stage. You are not alone in the fight this time however, as a small mecha follows your fighter at all times, and provides cover and supporting firepower at regular intervals.</desc>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Soldier Blade (USA).jpg</image>
+		<video>./snaps/Soldier Blade (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Somer Assault (USA).zip</path>
+		<name>Somer Assault</name>
+		<sortname />
+		<desc>Somer Assault is a difficult to describe game. In it you control a pink slinky character with guns attached to it. You move around mazes, climbing on walls, on the ceiling, through shortcuts, and attempt to find you way to the end. Along the way, you have to shoot out many, many enemies. And at the end, you will find a nasty boss surprise. The story is bizarre, which fits the concept of the game. A sorceress has plans to rule the world. To do so, she has summoned 12 beasts, each based on a sign of the zodiac. It up to you, pink slinky, to defeat the 12 astrological signs.</desc>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Somer Assault (USA).jpg</image>
+		<video>./snaps/Somer Assault (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Die Hard (Japan).zip</path>
+		<name>Die Hard</name>
+		<sortname />
+		<desc>John McClane decides to visit his wife Holly in Nakatomi Plaza, only to discover that she is taken hostage on the 30th floor, along with a number of other hostages. The terrorist leader, Hans Gruber, is after the money locked away in a safe on the 30th floor. His hacker, Theo, is slowly breaking the locks into the vault. McClane decides to fight the terrorists on his own, ascending the building as he does so.</desc>
+		<rating>0.65</rating>
+		<releasedate>19900928T000000</releasedate>
+		<developer>Pack In Video</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Die Hard (Japan).jpg</image>
+		<video>./snaps/Die Hard (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Download (Japan).zip</path>
+		<name>Download</name>
+		<sortname />
+		<desc>Download is a horizontal shoot 'em up set in a dystopian cyberpunk future in which the main character, Syd, is haunted by memories of his friend Ohala falling to a cybernetic menace. Meanwhile, he receives a call from his contact/partner Deva and must rush to her rescue when she is abducted by the Kabukicho police force. The game's story is depicted in a series of animated vignettes before each stage, similar to Ninja Gaiden. Beginning with the mean streets of Kabukicho, Syd will eventually jack into the internet and fights in a similar manner through cyberspace.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900622T000000</releasedate>
+		<developer>Alfa System</developer>
+		<publisher>NEC</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Download (Japan).jpg</image>
+		<video>./snaps/Download (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Final Blaster (Japan).zip</path>
+		<name>Final Blaster</name>
+		<sortname />
+		<desc>Final Blaster is a vertically scrolling shooter with seven levels. As usual, the player mans a space ship, has to kill the enemy opposition and a powerful boss enemy at the end of each level. A speciality is the dynamic difficulty: if the player offers a</desc>
+		<rating>0.65</rating>
+		<releasedate>19900928T000000</releasedate>
+		<developer>Aisystem Tokyo</developer>
+		<publisher>Namco</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Final Blaster (Japan).jpg</image>
+		<video>./snaps/Final Blaster (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Ninja Spirit (USA).zip</path>
+		<name>Ninja Spirit</name>
+		<sortname />
+		<desc>A ninja-based action game that has the player leading Moonlight through numerous enemy-riddled levels on a quest to exact revenge against his father's murderer. To accomplish this task Moonlight is armed with a katana, shurikens, bombs, and a sickle and chain weapon. Each weapon offers its own advantages and must be used at certain times to overcome specific obstacles or opponents. The game's coin-op origins are evident in the fact that that the home versions do not have passwords or saves. To compensate for this, however, adjustable difficulty settings were added.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Ninja Spirit (USA).jpg</image>
+		<video>./snaps/Ninja Spirit (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Sinistron (USA).zip</path>
+		<name>Sinistron</name>
+		<sortname />
+		<desc>Sinistron is a side scrolling shooter similar to R-Type, but has a unique weapons system in which you can open and close your shields to improve your fire power at the expense of making your ship vulnerable. There are also several different powerups you can pick up such as missiles and different types of lasers.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>NEC</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Sinistron (USA).jpg</image>
+		<video>./snaps/Sinistron (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tatsujin (Japan).zip</path>
+		<name>Tatsujin</name>
+		<sortname />
+		<desc>Power on! All systems go! Takeoff! Meet the alien attack head-on in your Super Fighter! Before the Gidans overrun your planet, destroy them in an explosive scramble in space. You are the one pilot alive with the guts to do it! The Gidans have blown up your planet's cargo barge and are on their way to Borogo with a swarm of flying fortresses - asteroids loaded with tanks, guns, and explosives for an all-points takeover!</desc>
+		<rating>0.6</rating>
+		<releasedate>19920724T000000</releasedate>
+		<developer>Sting</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Tatsujin (Japan).jpg</image>
+		<video>./snaps/Tatsujin (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Final Lap Twin (USA).zip</path>
+		<name>Final Lap Twin</name>
+		<sortname />
+		<desc>Final Lap Twin is an open-wheel F1-style racing game loosely based on Namco's Final Lap arcade game. The game display is always in split screen mode, even if only one player is playing. The other display shows your nearest rival if you are racing against the computer. There are two basic modes: Grand Prix and Quest. Grand Prix consists of a multi-race points championship. There are two car types for this mode: F-3000 and F1. Grand Prix mode can be played with one or two players. Quest mode has more depth and forms the core of Final Lap Twin.</desc>
+		<rating>0.95</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>NEC</developer>
+		<publisher>Namco</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Final Lap Twin (USA).jpg</image>
+		<video>./snaps/Final Lap Twin (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Battle Lode Runner (Japan).zip</path>
+		<name>Battle Lode Runner</name>
+		<sortname />
+		<desc>Originally released only in Japan on the PC Engine (TurboGrafx-16), Battle Lode Runner is a sequel to Lode Runner and its major draw is a 5 player mode. Players move around several platforms collecting gold. Various enemies inhabit the levels, and the player, armed with a drill, attempts to drill holes to capture the enemies. Unfortunately, this does not defeat the enemies, only disables them for a short time. After a few seconds, the enemies respawn and resume their chase of the player. The five-player option was new to any incarnation of Lode Runner, and operates in a very similar manner to Bomberman, except with hole drilling instead of bombing.</desc>
+		<rating>0.6</rating>
+		<releasedate>19930210T000000</releasedate>
+		<developer>Broderbund Software</developer>
+		<publisher>Broderbund Software</publisher>
+		<genre>Platform</genre>
+		<players>1-5</players>
+		<image>./boxart/Battle Lode Runner (Japan).jpg</image>
+		<video>./snaps/Battle Lode Runner (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Bloody Wolf (USA).zip</path>
+		<name>Bloody Wolf</name>
+		<sortname />
+		<desc>Snake and Eagle, two commandos of the Bloody Wolf special forces, receive instructions from their commander to destroy the enemy's heavily armed base to rescue the President and any allies who have been reported as MIA. Based off the 1988 arcade game, this single-player, top-down, run and gun shooter takes a nod to Contra-style gameplay, allowing one of the two mercenaries to blast their way through eight levels of enemy opposition armed with only a knife and a machine gun. Along the way, new weapons such as shotguns, bazookas, flash bombs and grenades grenades can be added to the arsenal, as well as health and defensive power-ups.</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Bloody Wolf (USA).jpg</image>
+		<video>./snaps/Bloody Wolf (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Chew-Man-Fu (USA).zip</path>
+		<name>Chew-Man-Fu</name>
+		<sortname />
+		<desc>Chew-Man-Fu has set a curse to rob the world of fried rice, egg rolls and all its other favourite foods. To stop him you must work through 550 rounds, clearing them by placing four different coloured balls into the appropriately-coloured hole. Gameplay is something of a Pengo variant, as the single-screen levels are inhabited by enemies, who can be killed by firing one of the balls at them at speed. When it hits one it will continue moving in the same direction, rebounding off walls if neccessary, and pushing you backwards slightly if it comes back to you - but it can be instantaneously brought back under control. Blocks can also be moved at a more casual speed, including round corners.</desc>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Now Production</developer>
+		<publisher>NEC</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Chew-Man-Fu (USA).jpg</image>
+		<video>./snaps/Chew-Man-Fu (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Detana!! TwinBee (Japan).zip</path>
+		<name>Detana!! TwinBee</name>
+		<sortname />
+		<desc>Another top-down shooter in the TwinBee series of "cute'em ups". Detana!! Introduces for the first time the characters behind the TwinBee &amp; WinBee fighters, Pastel and Light, and chronicles their journey to save Princess Melora from an evil force that threatens the world. Nevertheless its still all about shooting the heck out of surreal and cute enemies through 6 stages of vertically-scrolling action. Power-ups and upgrades can be gained by shooting the colored bells that some enemies leave behind until they stay the color you want them to, with many combinations possible. A new charge-shot feature has been added to your basic arsenal, and the game features single and 2-player cooperative gameplay.</desc>
+		<rating>0.65</rating>
+		<releasedate>19920228T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Detana!! TwinBee (Japan).jpg</image>
+		<video>./snaps/Detana!! TwinBee (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Final Soldier - Special Version (Japan) (En).zip</path>
+		<name>Final Soldier</name>
+		<sortname />
+		<desc>A sci-fi top-down shooter, sequel to the Star Soldier games. Once again its your job to protect the Galactic Empire from an alien invasion using nothing but your trusty starfighter. The game is divided in several stages in which enemies attack you in several waves until you reach the stage boss and proceed to the next one. Final Soldier incorporates four different gun pods mapped to each button, which can be fired independently or in conjunction. What you equip in each pod is up to you however as not only you get to select weapon loadouts between levels, but also shooting power-ups cycles to the available weapon types that you can incorporate mid-game.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910705T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Final Soldier - Special Version (Japan) (En).jpg</image>
+		<video>./snaps/Final Soldier - Special Version (Japan) (En).mp4</video>
+	</game>
+	<game>
+		<path>./Genji Tsuushin Agedama (Japan).zip</path>
+		<name>Genji Tsūshin Agedama</name>
+		<sortname />
+		<desc>Genji Tsūshin Agedama is a 4th grader boy in elementary school, and a hero on the training from 'Hero Planet.' Though the cheerful kid is no one special in appearance, he can transforms into a superhero called "Agedaman" by combining himself with his computer friend called Wapuro. He believes in Kiai power and he tries to handle all the problems that he encounters with that, so his father decided to let him go training on the earth accompanied by only Wapuro on summer vacation.</desc>
+		<rating>0.8</rating>
+		<releasedate>19911213T000000</releasedate>
+		<developer>NEC</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Genji Tsuushin Agedama (Japan).jpg</image>
+		<video>./snaps/Genji Tsuushin Agedama (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Jackie Chan's Action Kung Fu (USA).zip</path>
+		<name>Jackie Chan's Action Kung Fu</name>
+		<sortname />
+		<desc>Jackie Chan and his twin sister Josephine were great kung fu fighters in China and trained under a great master. One day when Jackie and Josephine were out walking, the Master's great enemy, The Sorcerer, appeared. The Sorcerer had come to rule over China and knew the twins would stand in his way, so he cast a spell to make Josephine disappear. Now it's up to Jackie Chan to follow after the Sorcerer and battle his minions in order to rescue his sister and save China.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Jackie Chan's Action Kung Fu (USA).jpg</image>
+		<video>./snaps/Jackie Chan's Action Kung Fu (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Kiki Kaikai (Japan).zip</path>
+		<name>KiKi KaiKai</name>
+		<sortname />
+		<desc>Sayo-chan/Pocky makes her way across various levels, changing directions occasionally, and using either a wand or scrolls to exorcise the unruly spirits she meets. She can only get hit once before dying, though some enemies will grab her instead to slow her down.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900327T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Kiki Kaikai (Japan).jpg</image>
+		<video>./snaps/Kiki Kaikai (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Hero Tonma (USA).zip</path>
+		<name>Legend of Hero Tonma</name>
+		<sortname />
+		<desc>A little caped hero called Tommy must fight his way to the boss' castle through a cute world to rescue a princess, but stopping him from his rescue mission will be several enemies, which he has to deal with by launching little fireballs at them. Tommy may also jump on their heads to stun them for a moment. Getting power-ups will make the fireball soon increase to a bouncing fireball, which will deal more damage to enemies. Treasure chests can be busted open, allowing Tommy to collect coins. Tommy's journey will have him explore ruins, cliffs, statues, dungeons, and finally the castle. At the end of each level, there is a boss that must be defeated in order to proceed to the next stage.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Legend of Hero Tonma (USA).jpg</image>
+		<video>./snaps/Legend of Hero Tonma (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mizubaku Daibouken (Japan).zip</path>
+		<name>Mizubaku Daibōken</name>
+		<sortname />
+		<desc>In Mizubaku Daibōken, you play Hipopo the Hippopotamus who must venture through a large number of enemy-packed levels in search for his missing girlfriend, as well as rescuing other hippo-like creatures along the way.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920117T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Mizubaku Daibouken (Japan).jpg</image>
+		<video>./snaps/Mizubaku Daibouken (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Moto Roader II (Japan).zip</path>
+		<name>Moto Roader II</name>
+		<sortname />
+		<desc>Moto Roader II is a racing game shown in a top-down perspective. Five vehicles compete on a course with the goal to finish first. However, the screen always follows the leading vehicle and if a vehicle is left behind, it gets replaced on the current scree</desc>
+		<rating>0.75</rating>
+		<releasedate>19910329T000000</releasedate>
+		<developer>NCS Corporation</developer>
+		<publisher>NCS Corporation</publisher>
+		<genre>Racing</genre>
+		<players>1-5</players>
+		<image>./boxart/Moto Roader II (Japan).jpg</image>
+		<video>./snaps/Moto Roader II (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Mr. Heli no Daibouken (Japan).zip</path>
+		<name>Mr. Heli no Daibouken</name>
+		<sortname />
+		<desc>It is 2999 and Mr Muddy threatens your planet. Fortunately you have a fully armed large helicopter with which to attack his sadistic minions. You hop aboard and fly through four side-view levels, primiarly scrolling left to right but with some variant, each of which ends with a boss. As well as enemies, there are many blocks on the levels. The weapon upgrade system is build into these, which function in two different ways. Most will drop crystals, which if collected are added to your cash total. The others reveal a picture of a weapon with a price - make contact with it while carrying enough credits and you will buy this weapon. When your energy bar runs out you lose a life; when this happens you lose all your money.</desc>
+		<rating>0.8</rating>
+		<releasedate>19891201T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Mr. Heli no Daibouken (Japan).jpg</image>
+		<video>./snaps/Mr. Heli no Daibouken (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Neutopia (USA).zip</path>
+		<name>Neutopia</name>
+		<sortname />
+		<desc>The princess Aurora was kidnapped by the evil Dirth, and the king send a warrior named Jazeta on a mission to rescue her. It appears that once Dirth way sealed by eight wise men who used the power of eight sacred medallions. Princess Aurora is the only one who knows how to use those medallions, and that is why Dirth abducted her. The hero must explore the land, descend to the dangerous labyrinths, retrieve the eight medallions, rescue the princess, and defeat Dirth. Very similar to Zelda games, Neutopia allows the player to freely roam the vast land, fighting many different monsters in wilderness areas as well as in dungeons. Dungeons also require some puzzle-solving (pushing stones, blowing walls with bombs, etc.).</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Neutopia (USA).jpg</image>
+		<video>./snaps/Neutopia (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Neutopia II (USA).zip</path>
+		<name>Neutopia II</name>
+		<sortname />
+		<desc>Some years have passed since the brave hero Jazeta destroyed Dirth, the Emperor of Darkness. Peace has returned to the land of Neutopia. But there are still monsters roaming the countryside, and some of them were spotted near Yurius Shrine. Jazeta went there to find out what exactly had happened. But he didn't return. You are Jazeta's son, and you must first of all find your missing father! Can it be that the shadow of Emperor of Darkness threatens the peaceful land again? The sequel to "Neutopia" is similar to the predecessor in every way.</desc>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Neutopia II (USA).jpg</image>
+		<video>./snaps/Neutopia II (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ninja Ryuukenden (Japan) (En,Ja,Zh).zip</path>
+		<name>Ninja Ryūkenden</name>
+		<sortname />
+		<desc>Ninja Ryūkenden begins with a cinematic animation in which two ninjas duel to the death and one goes down. It is then revealed that the doomed ninja is the father of Ryu Hayabusa. When Ryu learns of this, he embarks on a quest to find out who killed his father and why. This quest takes him to America to find an archaeologist with whom his father was working. From there, Ryu becomes embroiled in an evil, supernatural conspiracy involving a villain named Jaquio who has plans to use an ancient castle and some relics to unleash a terrifying evil upon the world.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920124T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Ninja Ryuukenden (Japan) (En,Ja,Zh).jpg</image>
+		<video>./snaps/Ninja Ryuukenden (Japan) (En,Ja,Zh).mp4</video>
+	</game>
+	<game>
+		<path>./Parasol Stars - The Story of Bubble Bobble III (USA).zip</path>
+		<name>Parasol Stars: The Story of Bubble Bobble III</name>
+		<sortname />
+		<desc>This sequel to Rainbow Islands sees a return to the gameplay of Bubble Bobble, but with Bub and Bob in their now-human forms. The boys must clear a series of screens of bad guys - who take slightly more esoteric forms than the angry caterpillars from Rainbow Islands - and again pick up a whole bunch of power-ups. But this time they're armed with umbrellas! Oh, okay then, parasols.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910502T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Parasol Stars - The Story of Bubble Bobble III (USA).jpg</image>
+		<video>./snaps/Parasol Stars - The Story of Bubble Bobble III (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Power Drift (Japan).zip</path>
+		<name>Power Drift</name>
+		<sortname />
+		<desc>Ever wanted to race dune buggies at high speed on a variety of tracks? Power Drift is an arcade racer that gives you the chance to do just that. There are 5 tracks to choose from, each with 5 stages. The stages range from cities, to deserts to tracks over water. There are also 12 drivers to pick from, from businessmen to skinheads and mohicans.</desc>
+		<rating>0.55</rating>
+		<releasedate>19900413T000000</releasedate>
+		<developer>Asmik</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Power Drift (Japan).jpg</image>
+		<video>./snaps/Power Drift (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Rastan Saga II (Japan).zip</path>
+		<name>Rastan Saga II</name>
+		<sortname />
+		<desc>The "Rastania" was a sacred place, in which the sacred temple, "Skyscraper", soared into the sky. It is said that whoever conquer the "Skyscraper" would rule the "Rastania". A wicked group has invaded the "Skyscraper" and has tried to make it their own. If the situation is left as it is, the place would eventually be controlled by the wicked group. Rastan Saga II is the sequel to Rastan, containing the same hack-em'/slash-'em gameplay as the original. You are a warrior who must get through a number of levels, and trying to collect gems which can only be obtained by defeating the end-of-level bosses. Collecting power-ups along the way awards you with extra life or better weapons.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900706T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Rastan Saga II (Japan).jpg</image>
+		<video>./snaps/Rastan Saga II (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Skweek (Japan).zip</path>
+		<name>Skweek</name>
+		<sortname />
+		<desc>The Skweeks lived in harmony for centuries, being a naturally peaceful peoples, until Pitark arrived. He ruined their bright pink land by removing the colour, and it was only after he died that they had the opportunity to clean the land up. Your job is to travel through the 99 continents and clean each one in sequence.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910802T000000</releasedate>
+		<developer>Loriciel SA</developer>
+		<publisher>Victor Entertainment</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Skweek (Japan).jpg</image>
+		<video>./snaps/Skweek (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Space Harrier (USA).zip</path>
+		<name>Space Harrier</name>
+		<sortname />
+		<desc>Run? fly? dodge those obstacles, but return fire on wave after wave of attacking aliens. Armed with a really big gun, you have to defend yourself against the alien hordes using your wits to navigate around the screen. But watch out for those end of level bosses! Originating in the arcades, Space Harrier is a third-person rail shooter with pseudo-3D graphics, set in the same world as Fantasy Zone. The lone titular hero fights aliens with a fireball-launching cannon, which can also be used to transform the hero into a flying rocket. The protagonist is constantly in motion, but the speed of his movement can be regulated by the player.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>AM R&amp;D Dept. #2</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Space Harrier (USA).jpg</image>
+		<video>./snaps/Space Harrier (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Splatterhouse (Japan) (En).7z</path>
+		<name>Splatterhouse</name>
+		<sortname />
+		<desc>Splatterhouse is the first game in the series, but only the second game to appear on a home console (after Splatterhouse: Wanpaku Graffiti on the NES), which was later continued on the SEGA Genesis. Rick and his girlfriend Jennifer enter West Mansion (known as Splatterhouse) to study Dr. West's parapsychology teachings for a school project. After a flash of lightning and a scream, Jennifer is gone, and Rick is left wearing the Terror Mask, which gives the wearer great strength. Rick must survive seven blood-soaked levels full of corpses, demons, and other disturbing creatures in this arcade side-scrolling beat-em-up.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900403T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>NEC</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+		<image>./boxart/Splatterhouse (Japan) (En).jpg</image>
+		<video>./snaps/Splatterhouse (Japan) (En).mp4</video>
+	</game>
+	<game>
+		<path>./Super Star Soldier (USA).zip</path>
+		<name>Super Star Soldier</name>
+		<sortname />
+		<desc>Super Star Soldier takes place in the far future, where you are the last hope for planet Earth, which is being attacked by an alien race. The game features top-down view with vertical scrolling levels, similar to its predecessor Star Soldier. The game features the following game play modes: normal play, score play, 2 minutes play and 5 minutes play. Each level has its own tough boss at the end.</desc>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Inter State</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Super Star Soldier (USA).jpg</image>
+		<video>./snaps/Super Star Soldier (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Legendary Axe II (USA).zip</path>
+		<name>Legendary Axe II</name>
+		<sortname />
+		<desc>The Axe is back with twice the force and twice the fury of 1989's "Videogame of the Year"! This time it's brother against brother locked in deadly combat. Your older brother has summoned unspeakable forces of evil to take control of the kingdom. Treachery rules! Your only hope is the legendary royal sword! But will its power be enough to overcome the Cliffs of Chaos? The Skull Dungeons? And the treacherous Crypts of Slime? Only your courage, your fighting skill, and the Legendary Axe can answer!.</desc>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Legendary Axe II (USA).jpg</image>
+		<video>./snaps/Legendary Axe II (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tiger Road (USA).zip</path>
+		<name>Tiger Road</name>
+		<sortname />
+		<desc>This arcade conversion is a beat 'em up in which you (as Lee Wong) must rescue the village children from the evil Ryo Ken Oh. Many levels are horizontally scrolling, although with high ledges to jump onto and follow for a slightly different path. Magic urns containing improved weapons appear frequently. Most enemies are easy to attack and only need one hit to kill, although they come at you in large hordes. Once you get to the indoor sections you will find big enemies with the ability to kill you with one hit, in sections set on multiple levels complete with stairways.</desc>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Go!</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Tiger Road (USA).jpg</image>
+		<video>./snaps/Tiger Road (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Toilet Kids (Japan).zip</path>
+		<name>Toilet Kids</name>
+		<sortname />
+		<desc>One night, while visiting the bathroom, the protagonist suddenly finds himself flushed down the toilet and transported to a mysterious realm filled with strange monsters. Piloting a flying vehicle, the protagonist is tasked to defeat the the inhabitants of the mysterious world and find a way to return home. Toilet Kids is an Japanese exclusive PC Engine vertical-scrolling shooter very similar in gameplay to Xevious. The game has only four stages and makes heavy use of toilet humor and scatological references.</desc>
+		<rating>0.45</rating>
+		<releasedate>19920306T000000</releasedate>
+		<developer>Bits Laboratory</developer>
+		<publisher>Media Rings</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Toilet Kids (Japan).jpg</image>
+		<video>./snaps/Toilet Kids (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Valkyrie no Densetsu (Japan).zip</path>
+		<name>Valkyrie no Densetsu</name>
+		<sortname />
+		<desc>Legend of Valkyrie puts you in the shoes of a young Valkyrie of Norse mythology as she sets out to reclaim the fabled golden seed, which has been stolen by an evil god. The game plays as a top-down action/adventure title with some RPG and platformer elements. You must navigate the many levels that compose Valhalla and defeat all the enemies in your path while sorting out chasms and other platformer-styled obstacles. You can also find several NPCs in each stage, who offer gameplay hints, clues and items to buy with the gold stolen from fallen enemies. You can buy health power-ups, improved weapons and even magic spells for added fire-power.</desc>
+		<rating>0.85</rating>
+		<releasedate>19900809T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Valkyrie no Densetsu (Japan).jpg</image>
+		<video>./snaps/Valkyrie no Densetsu (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Zipang (Japan).zip</path>
+		<name>Zipang</name>
+		<sortname />
+		<desc>Zipang is a puzzle game released exclusively for the PC Engine in 1990. It is based on the movie of the same name (which in turn is an antiquated word for the nation of Japan): a comedy action movie from director Kaizo Hayashi that was loosely based on Japanese mythology and was also released in 1990. The same movie would also be the inspiration for the NES game Kabuki Quantum Fighter, which in Japan was named Jigoku Gokurakumaru: the name of the movie's protagonist.</desc>
+		<rating>0.7</rating>
+		<releasedate>19901214T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>Pack In Video</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Zipang (Japan).jpg</image>
+		<video>./snaps/Zipang (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Atomic Robo-Kid Special (Japan).zip</path>
+		<name>Atomic Robo-Kid Special</name>
+		<sortname />
+		<desc>Atomic Robo-Kid Special is a PC Engine adaptation of Atomic Robo-Kid, originally released by UPL for the Arcade in 1988. Unlike the versions released for other systems, which were all straight Arcade conversions, the PC Engine was rebuilt from scratch and thus carries the "Special" modifier in its title.</desc>
+		<rating>0.65</rating>
+		<releasedate>19900119T000000</releasedate>
+		<developer>UPL</developer>
+		<publisher>UPL</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Atomic Robo-Kid Special (Japan).jpg</image>
+		<video>./snaps/Atomic Robo-Kid Special (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Coryoon - Child of Dragon (Japan).zip</path>
+		<name>Coryoon: Child of Dragon</name>
+		<sortname />
+		<desc>Horizontal shoot 'em up that casts you as a baby dragon out to free a princess from the clutches of an evil well, you get the idea. Gameplay is traditional, with power-up weapons that include multi-way shot and 'miniature' mode and a sort of reverse R-Type beam where you don't shoot to power it up. Also contains 2 minute and 5 minute time attack modes.</desc>
+		<rating>0.7</rating>
+		<releasedate>19911129T000000</releasedate>
+		<developer>Naxat Soft</developer>
+		<publisher>Naxat Soft</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Coryoon - Child of Dragon (Japan).jpg</image>
+		<video>./snaps/Coryoon - Child of Dragon (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Bomber Man '93 (USA).zip</path>
+		<name>Bomberman '93</name>
+		<sortname />
+		<desc>Black Bomberman has cut power to the galaxy's own power station, which resulted in disputes between seven planets, and it is up to White Bomberman to restore power to the station and bring peace to the planets again. The objective is the same as in Dyna Blaster: use bombs to destroy all enemies in a level. Once you have destroyed them all, find the exit hidden in a block so you can be transported to the next level. A block will also flash yellow to let you know that a power-up can be obtained there. Power-ups include more bombs, manual detonation, extra lives, and extended flames.</desc>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>NEC</developer>
+		<publisher>Hudson</publisher>
+		<genre>Puzzle</genre>
+		<players>1-5</players>
+		<image>./boxart/Bomber Man '93 (USA).jpg</image>
+		<video>./snaps/Bomber Man '93 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Cratermaze (USA).zip</path>
+		<name>Cratermaze</name>
+		<sortname />
+		<desc>Cratermaze is an action puzzle game viewed from an overhead perspective. Each stage consists of a maze filled with various enemies and items. You must collect all of the keys on the stage to open the exit door while avoiding or eliminating enemies. Your primary method of dealing with enemies is to dig holes; if an enemy walks into a hole, they are momentarily trapped and you can then fill the hole to kill the enemy.</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Cratermaze (USA).jpg</image>
+		<video>./snaps/Cratermaze (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Gomola Speed (Japan).zip</path>
+		<name>Gomola Speed</name>
+		<sortname />
+		<desc>Gomola Speed is an action game featuring a robot snake. You must find the pieces of your body strewn about each maze-like stage, which increase your size, and use your length to surround items, food, and enemies in order to eliminate them. You can also use bombs to stun more dangerous enemies.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900928T000000</releasedate>
+		<developer>UPL</developer>
+		<publisher>UPL</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Gomola Speed (Japan).jpg</image>
+		<video>./snaps/Gomola Speed (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./After Burner II (Japan).zip</path>
+		<name>After Burner II</name>
+		<sortname />
+		<desc>Similar to its predecessor, the premise of After Burner II is to get on the F-14 Tomcat and fly mission after mission of shooting planes out of the sky. At your disposal is a vulcan cannon (basically a machine gun) and a limited number of missiles. In some versions of the game the guns fire automatically all the time. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles. The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. You also can speed up and slow down to deal with enemies which appear behind you.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900928T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>NEC</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/After Burner II (Japan).jpg</image>
+		<video>./snaps/After Burner II (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Cadash (USA).zip</path>
+		<name>Cadash</name>
+		<sortname />
+		<desc>Trouble is in the kingdom of Dilsarl: the young, beautiful princess Salasa was abducted by the evil arch-mage Balrog. The king seeks help from the four best warriors of the country. The task is clear, but not so simple: find Balrog, destroy his evil minions and other monsters roaming the land, and rescue the princess.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Cadash (USA).jpg</image>
+		<video>./snaps/Cadash (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Alien Crush (USA).zip</path>
+		<name>Alien Crush</name>
+		<sortname />
+		<desc>Alien Crush is an alien-themed video pinball game. The graphics feature strong similarities to the art from the Alien movies, and everything has a dark and sinister look. The main table has numerous moving targets and ball locks and is two screens high. There are at least three bonus games that are accessible from the top screen. Bonus games consist of knocking out moving targets on a separate single-screen bonus table.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>NEC</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Alien Crush (USA).jpg</image>
+		<video>./snaps/Alien Crush (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Devil's Crush (USA).zip</path>
+		<name>Devil's Crush</name>
+		<sortname />
+		<desc>Imagine an adventure game in the format of pinball, and you get Dragon's Fury. Your hero is a small silver ball, and your battlefield is a three-tiered pinball machine. Using your ball, you can defeat monsters, rack up points, and enter bonus stages. If you play with enough skill, you can trigger all sorts of point-accumulating bonuses. If you get one billion points, you get to fight the final boss and view the ending to the game.</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>NEC</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
+		<image>./boxart/Devil's Crush (USA).jpg</image>
+		<video>./snaps/Devil's Crush (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Time Cruise (USA).zip</path>
+		<name>Time Cruise</name>
+		<sortname />
+		<desc>Time Cruise is a pinball game with a story. The story has a scientist by the name of Eric who one day hears a voice claiming to be an extraterrestrial and through this voice learns the secret to time travel. After several years of building his creation, he is finally finished and crawls in to his round metal time machine and is off on a quest to travel through time and meet his extraterrestrial friend. The goal of the game, much like many others in the genre, is to reach and certain amount of points in one of several different pinball tables that range in different time periods including prehistoric times and up to the future.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>FACE</developer>
+		<publisher>NEC</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Time Cruise (USA).jpg</image>
+		<video>./snaps/Time Cruise (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Hanii on the Road (Japan).zip</path>
+		<name>Hanii on the Road</name>
+		<sortname />
+		<desc>Also known as "Hany on the Road". He might look like a condom, but Hany is one active little guy. Following on from Hany in the Sky (released the year before), Hany on the Road is a scrolling action game and bears a strong resemblance to Shockway Rider,</desc>
+		<rating>0.65</rating>
+		<releasedate>19900914T000000</releasedate>
+		<developer>FACE</developer>
+		<publisher>FACE</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Hanii on the Road (Japan).jpg</image>
+		<video>./snaps/Hanii on the Road (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Kyuukyoku Tiger (Japan).zip</path>
+		<name>Kyūkyoku Taigā</name>
+		<sortname />
+		<desc>Kyūkyoku Taigā is a vertically scrolling shoot-em-up. You pilot the TC-17 Twin Cobra assault helicopter to fight the forces of Commander Anziga, the myopic leader of the nation of Kaban.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890331T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Kyuukyoku Tiger (Japan).jpg</image>
+		<video>./snaps/Kyuukyoku Tiger (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Keith Courage in Alpha Zones (USA).zip</path>
+		<name>Keith Courage in Alpha Zones</name>
+		<sortname />
+		<desc>As a member of N.I.C.E. (Nations for International Citizens of Earth), Keith Courage takes up the fight against the aliens of B.A.D. (Bad Alien Dudes) through seven levels in this side-scrolling action platformer. As Keith Courage makes his way through the various zones, he attacks various forms of enemies in order to gain coins. The coins can be used in the shops for various power-ups, equipment, and other helpful items.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Keith Courage in Alpha Zones (USA).jpg</image>
+		<video>./snaps/Keith Courage in Alpha Zones (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tricky Kick (USA).zip</path>
+		<name>Tricky Kick</name>
+		<sortname />
+		<desc>Tricky Kick is a sliding block puzzle game for the TurboGrafix-16. You have to kick two of the same item together, and they disappear, until you clear the board of pieces. You can bump one item with another unless the way is blocked. There are also enemies that you have to kick into bumpers to destroy them. The game has a regular mode and a special mode with 60 puzzles each. Many of the puzzles are quite difficult even in regular mode.</desc>
+		<rating>0.45</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Tricky Kick (USA).jpg</image>
+		<video>./snaps/Tricky Kick (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Victory Run (USA).zip</path>
+		<name>Victory Run</name>
+		<sortname />
+		<desc>Victory Run is an arcade racer based on the Paris-Dakar rally. The gameplay is similar to OutRun, with your car appearing near the bottom of the screen, and a course made of scaling sprites laid out ahead. At the start of the race, you choose how many spare engines, tires, brakes, and so on to take with you on the rally. As you finish each segment, you have to decide to use those parts so that you can repair your car so you can complete the race.</desc>
+		<rating>0.6</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Victory Run (USA).jpg</image>
+		<video>./snaps/Victory Run (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Wonder Momo (Japan).zip</path>
+		<name>Wandā Momo</name>
+		<sortname />
+		<desc>In Wandā Momo you play as Momo, an actress playing the lead role in a kid's show about a crime-fighting heroine that puts the hurt on several alien monsters and assorted criminals. Set in the stage of the "Namco Theater", the game plays as an action side-scroller in which you progress across each stage kicking the snot out of all the enemies you run across. By collecting the right power-up you can transform into Wonder Momo for a limited time, who can perform ranged attacks with a hoola-hoop and is more powerful than regular Momo.</desc>
+		<rating>0.35</rating>
+		<releasedate>19890421T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+		<image>./boxart/Wonder Momo (Japan).jpg</image>
+		<video>./snaps/Wonder Momo (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Aoi Blink (Japan).zip</path>
+		<name>Aoi Blink</name>
+		<sortname />
+		<desc>Aoi Blink is a side-scrolling platformer based on the TV anime series of the same name. The five levels are similarly built as the ones in Super Mario Bros. 3: they are divided into various areas which are reached through a map screen with branching paths. Those areas need to be solved to be able to walk further on the map.</desc>
+		<rating>0.6</rating>
+		<releasedate>19900427T000000</releasedate>
+		<developer>West One</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Aoi Blink (Japan).jpg</image>
+		<video>./snaps/Aoi Blink (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Dead Moon (USA).zip</path>
+		<name>Dead Moon</name>
+		<sortname />
+		<desc>About 200 years in the future, a comet is detected at the edge of the solar system. Astronomers determine that it will pass near the earth, and send probes to examine it. When the probes near the comet, it abruptly changes directions and heads towards earth. At the last moment, the people of earth are able to launch surface-to-comet missiles and deflect its impact into the moon. At the center of the impact crater, alien war machines are gathering! The U.N. sends a lone spaceship to the moon to destroy the alien threat.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Studio Ducks</developer>
+		<publisher>Natsume</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Dead Moon (USA).jpg</image>
+		<video>./snaps/Dead Moon (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Egg! (Japan).zip</path>
+		<name>Dragon Egg!</name>
+		<sortname />
+		<desc>Dragon Egg! is a platform game by NCS. The land of Kēnisuto and all the dragon warriors were living in harmony until an evil demon appeared and waged a relentless war against them.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910927T000000</releasedate>
+		<developer>Masaya Games</developer>
+		<publisher>NCS Corporation</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Dragon Egg! (Japan).jpg</image>
+		<video>./snaps/Dragon Egg! (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Naxat Open (Japan).zip</path>
+		<name>Naxat Open</name>
+		<sortname />
+		<desc>Naxat's first foray into golf games features a full 18-hole course and lots of top professional opponents. You choose your clubs before starting play, and the game automatically chooses what it feels is the best club for each shot. Before each shot you can view either a fly-by of the course or a close-up of the green and its contours. The game's courses scroll in multiple directions form an overhead view, and feature bunkers, trees, water hazards and all the rest. A three-press control system is used for playing shots, switching to a two-click once you reach the green (as draw and fade become irrelevant).</desc>
+		<rating>0.55</rating>
+		<releasedate>19890530T000000</releasedate>
+		<developer>Naxat Soft</developer>
+		<publisher>Naxat Soft</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Naxat Open (Japan).jpg</image>
+		<video>./snaps/Naxat Open (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Street Fighter II' - Champion Edition (Japan).zip</path>
+		<name>Street Fighter II': Champion Edition</name>
+		<sortname />
+		<desc>This version of Street Fighter II is similar in most aspects to the original, save that all 12 characters are selectable from the get-go (the boss characters were originally locked), and the game engine has been revamped.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930612T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>NEC</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Street Fighter II' - Champion Edition (Japan).jpg</image>
+		<video>./snaps/Street Fighter II' - Champion Edition (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Parodius Da! - Shinwa kara Owarai e (Japan).zip</path>
+		<name>Parodius Da! Shinwa kara Owarai e</name>
+		<sortname />
+		<desc>One day, our octopus friend gets into a fight to the death with his old rival, the bug. Our octopus wins and people start to call him Mr. Parodius. On his paid vacation he goes to the countryside to enjoy a little farming. Returning to our ready-made octopus pot, he reads the "People of the Universe" newspaper and nearly falls off his chopping board in surprise. There now is a picture of the mysterious Great Octopus with the Earth in his arms. "father?," he stutters. It was his father, who had disappeared just two years before, never to return home. So Octopus sets out on a search for the truth and with his companions begins to travel the world!</desc>
+		<rating>0.8</rating>
+		<releasedate>19920221T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Parodius Da! - Shinwa kara Owarai e (Japan).jpg</image>
+		<video>./snaps/Parodius Da! - Shinwa kara Owarai e (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./S.C.I. - Special Criminal Investigation (Japan).zip</path>
+		<name>S.C.I.: Special Criminal Investigation</name>
+		<sortname />
+		<desc>Three girls have been reported missing including the mayor's daughter, and Chase Special Investigations has asked you to track down five vehicles, mentioned in the mission briefing, who are believed to be involved in the kidnapping. Using a heavy-designed machine with a V6 DOHC 3000CC Twin Turbo Engine, five sets of nitro-fuel boosts, and a gun attached to the steering wheel (which you can use to damage the target vehicle).</desc>
+		<rating>0.8</rating>
+		<releasedate>19910125T000000</releasedate>
+		<developer>Taito</developer>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/S.C.I. - Special Criminal Investigation (Japan).jpg</image>
+		<video>./snaps/S.C.I. - Special Criminal Investigation (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Dragon's Curse (USA).zip</path>
+		<name>Dragon's Curse</name>
+		<sortname />
+		<desc>Poor Hu-Man! he just isn't his old self. Trying to escape from the evil dragon Mecha, he's transformed into the horrific Lizard Man! Get ready to kick some serious dragon tail, because 5 more are waiting to stop you. Each is more vicious than the last. And each turns Hu-Man into a different kind of total gross out! Slash 'em, burn 'em, and blow 'em away! Then capture the Salamander Cross to break the DRAGON'S CURSE.</desc>
+		<rating>0.9</rating>
+		<releasedate>19901231T000000</releasedate>
+		<developer>Westone</developer>
+		<publisher>NEC</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Dragon's Curse (USA).jpg</image>
+		<video>./snaps/Dragon's Curse (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Bonk's Revenge (USA).zip</path>
+		<name>Bonk's Revenge</name>
+		<sortname>Bonk 2</sortname>
+		<desc>Bonk has his revenge on King Drool III in his second game for the TurboGrafx. It's not exactly clear why Bonk is so vengeful, but it appears that King Drool is responsible. Bonk uses his over-sized cranium as a lethal weapon in this sequel. The gameplay in this adventure is very similar to the first game. Bonk has head-butting, head-stomping, and fire-breathing moves when he eats some spicy meat.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Red Company</developer>
+		<publisher>NEC</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Bonk's Revenge (USA).jpg</image>
+		<video>./snaps/Bonk's Revenge (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Bonk 3 - Bonk's Big Adventure (USA).zip</path>
+		<name>Bonk 3: Bonk's Big Adventure</name>
+		<sortname />
+		<desc>Bonk's Big Adventure is the third instalment in the side-scrolling platformer series. As in previous games, the player assumes the role of a caveman named Bonk who headbutts his way through various enemies in order to defeat King Drool. Familiar moves inc</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Platform</genre>
+		<players>1-5</players>
+		<image>./boxart/Bonk 3 - Bonk's Big Adventure (USA).jpg</image>
+		<video>./snaps/Bonk 3 - Bonk's Big Adventure (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Legendary Axe, The (USA).zip</path>
+		<name>Legendary Axe, The</name>
+		<sortname>Legendary Axe 1</sortname>
+		<desc>You are the mighty warrior Gogan, whose village has been required by the Jagu tribe to give a human sacrifice each year. Flare, your childhood friend, has been chosen as the sacrifice. Your task is to rescue Flare and destroy the Jagu and their leader. To help you complete your mission, you are given the Legendary Axe, which is said to possess tremendous power that is usable only to its wielder.</desc>
+		<rating>0.6</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Marvelous Interactive</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Legendary Axe, The (USA).jpg</image>
+		<video>./snaps/Legendary Axe, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Aero Blasters (USA).zip</path>
+		<name>Aero Blasters</name>
+		<sortname />
+		<desc>Aero Blasters is a fast side-scrolling shooter. The player controls a small craft through different levels with many enemies. Every level ends with a boss and some sections speed up the gameplay, offering fast obstacle courses both horizontally and vertically scrolling. Flying orange pods release many power-ups at once, enhancing the ships with new or more powerful lasers, wing men and shields.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Aero Blasters (USA).jpg</image>
+		<video>./snaps/Aero Blasters (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Bomberman (USA).zip</path>
+		<name>Bomberman</name>
+		<sortname />
+		<desc>The black spaceman kidnapped your beloved and brought her to his chambers in the castle, far beyond your reach, over the rivers, forest and mountains. Your job is to save her, battling the sea of the enemies, with only bombs at your disposal. The range of explosion can be upgraded with time, but if you die, the range resets to minimum and you loose your previous skills, though. Some updates can make you walk through the walls, increase your speed, and give you some other assets to aid you in your quest to save the woman you love.</desc>
+		<rating>0.8</rating>
+		<releasedate>19901207T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1-5</players>
+		<image>./boxart/Bomberman (USA).jpg</image>
+		<video>./snaps/Bomberman (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Bonk's Adventure (USA).zip</path>
+		<name>Bonk's Adventure</name>
+		<sortname>Bonk 1</sortname>
+		<desc>Bonk's Adventure is a prehistoric platform game where you are in control of a large bald headed caveman, guiding him through the levels taking out all manner of strange prehistoric creatures that get in your way including King Drools henchmen - all in effort to free the captured/controlled residents of Moonland (bosses) - including the Princess Za from King Drool attempted take over.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Bonk's Adventure (USA).jpg</image>
+		<video>./snaps/Bonk's Adventure (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Psychosis (USA).zip</path>
+		<name>Psychosis</name>
+		<sortname />
+		<desc>There is something wrong with your brain. It is being taken over by the Devil Ugar himself! Your only recourse is to fight back against this hostile invasion. Thankfully your mind has created the ultimate weapon: a ship with which you can navigate the five causes (stages) and blast back the Devil's evil minions. It is your only hope, your one last chance to free your mind from this evil influence.</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Naxat Soft</developer>
+		<publisher>NEC</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Psychosis (USA).jpg</image>
+		<video>./snaps/Psychosis (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Puzzle Boy (Japan) [T-En by KingMike's Translations v1.0].zip</path>
+		<name>Puzzle Boy</name>
+		<sortname />
+		<desc>Puzzle Boy is a port of the Game Boy title Kwirk, but features more and different levels along with changed graphics. In contrast to the original version, the perspective is straight top-down and there is no undo-function.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Telenet</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Puzzle Boy (Japan) [T-En by KingMike's Translations v1.0].jpg</image>
+		<video>./snaps/Puzzle Boy (Japan) [T-En by KingMike's Translations v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Bomberman '94 (Japan).zip</path>
+		<name>Bomberman '94</name>
+		<sortname />
+		<desc>Never one to leave a good thing to be forgotten, Hudson are back with the third installment of the ever present Bomber Man series, and with this one comes a few changes. Apart from our dumpy little hero having lost a little weight since '93, the gameplay has also been altered significantly. While still retaining the basic bombing action, completing a level now no longer requires you to destroy all enemies on screen. Instead, you have to find and destroy a set of pillars on each level and these will unlock a broken piece of amulet from its protected dome.</desc>
+		<rating>0.8</rating>
+		<releasedate>19931210T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Puzzle</genre>
+		<players>1-5</players>
+		<image>./boxart/Bomberman '94 (Japan).jpg</image>
+		<video>./snaps/Bomberman '94 (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./1943 Kai (Japan).zip</path>
+		<name>1943 Kai</name>
+		<sortname />
+		<desc>This is an enhanced version of 1943: The Battle of Midway, with most of the graphics and sounds reworked. There are also changes in the weapons and the inclusion of anachronical items such as laser-firing WWII planes and ships that run on ground. The player controls a biplane Boeing Stearman E75 N68828 instead of the P-38. The PC Engine adaptation adds some original levels to those from the arcade version, as well as animated intermissions.</desc>
+		<rating>0.65</rating>
+		<releasedate>19910322T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Naxat Soft</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/1943 Kai (Japan).jpg</image>
+		<video>./snaps/1943 Kai (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Bikkuriman World (Japan).zip</path>
+		<name>Bikkuriman World</name>
+		<sortname />
+		<desc>Eleven years have gone by since Tom-Tom rescued his girlfriend Tanya from the clutches of the evil King. Word of Tom-Tom's dangerous adventure soon spread throughout Wonder Land. The people were very proud of him and gave Tom-Tom the highest honor of all - the legendary name of Wonder Boy. With the evil King defeated, Wonder Land returned to its peaceful state, and for over one decade, the kingdom was a paradise, and everything and everyone lived happily together. Eventually, the peace was broken when a ferocious fire-breathing dragon appeared out of nowhere and took over Wonder Land with an army of evil, monsterous henchmen, causing Wonder Land was immediately thrown into utter chaos.</desc>
+		<rating>0.75</rating>
+		<releasedate>19871030T000000</releasedate>
+		<developer>Westone Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Bikkuriman World (Japan).jpg</image>
+		<video>./snaps/Bikkuriman World (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Burning Angels (Japan).zip</path>
+		<name>Burning Angels</name>
+		<sortname />
+		<desc>The Burning Angels are two scarcely clothed women who fight with space ships. Their current goal is to rescue the head of a science project who was kidnapped by aliens. Now they head into their ships, fly through the vertically scrolling levels and kill everything they see, including several boss enemies. Killed enemies leave behind power ups which reward five extra weapons, e.g. missiles or drones, which can be used simultaneously or a smart bomb equivalent. The player has a health bar which decreases when the ship is hit by enemies and when it is completely empty, the game is over because there are no continues or extra lives.</desc>
+		<rating>0.7</rating>
+		<releasedate>19901207T000000</releasedate>
+		<developer>ZAP Corporation</developer>
+		<publisher>Naxat Soft</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Burning Angels (Japan).jpg</image>
+		<video>./snaps/Burning Angels (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Circus Lido (Japan).zip</path>
+		<name>Circus Lido</name>
+		<sortname />
+		<desc>You play as a little chameleon who must clean up around forty levels. To move, you can't jump. You have to use your language to achieve your ends. The first button allows you to swallow monsters and spit them out, like in Bubble Bobble. Except this time you have to send them to carnivorous plants to eradicate them for good. In Circus Lido impossible to jump, you have to use the other button to stick your tongue out once more in order to pull yourself up via ropes. It follows a rather original handling, but which does not manage to depart from the shadow of Taito's hit. It's a shame, because throughout the levels we take pleasure in finding solutions. Indeed, the game is more of a puzzle game than an action game.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910406T000000</releasedate>
+		<developer>Uni Post Company</developer>
+		<publisher>Uni Post Company</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Circus Lido (Japan).jpg</image>
+		<video>./snaps/Circus Lido (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Columns (Japan).zip</path>
+		<name>Columns</name>
+		<sortname />
+		<desc>Columns is loosely derived from Tetris, as it involves arranging falling blocks in such a way as to clear them. However, in columns they are groups of 3 same-size but varying color blocks, which must be arranged into sequences of 3 or more, either horizontally, vertically or diagonally. Sequences of 4 or 5 count for double or triple points, and diagonal sequences score the most. The real trick is to set up 'combos' - where one line causes other blocks to drop so as to create other lines. As well as the normal game mode, there is also a 'flash' mode, in which the aim is simply to remove a particular block from the base of the pre-formed pile of bricks.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910329T000000</releasedate>
+		<developer>Laser Soft</developer>
+		<publisher>Telenet</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Columns (Japan).jpg</image>
+		<video>./snaps/Columns (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Don Doko Don! (Japan).zip</path>
+		<name>Don Doko Don!</name>
+		<sortname />
+		<desc>Don Doko Don is a Japanese action platformer first developed and published for arcades by Taito in 1989. One or two players control bearded dwarves as they make their way through fifty platforming and puzzle-like levels in an attempt to save their kidnapped girlfriend.</desc>
+		<rating>0.6</rating>
+		<releasedate>19900531T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Don Doko Don! (Japan).jpg</image>
+		<video>./snaps/Don Doko Don! (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Fushigi no Yume no Alice (Japan).zip</path>
+		<name>Fushigi no Yume no Alice</name>
+		<sortname />
+		<desc>Based on Lewis Carrol's Alice in Wonderland novels, Fushigi no Yume no Alice is a cute 2-D platformer which casts you as Alice, a blond-haired girl wearing a pink dress. Your job is to make your way through forests and caves, defeating enemies that you come across by either jumping on their heads or shouting 'IYA' at them. Some enemies will drop eggs which will explode. You can kick these eggs and use them to destroy the enemies themselves. There are three levels in each area, and each level ends with you defeating a boss.</desc>
+		<rating>0.6</rating>
+		<releasedate>19901207T000000</releasedate>
+		<developer>FACE</developer>
+		<publisher>FACE</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Fushigi no Yume no Alice (Japan).jpg</image>
+		<video>./snaps/Fushigi no Yume no Alice (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Gradius (Japan).zip</path>
+		<name>Gradius</name>
+		<sortname />
+		<desc>The people of Gradius are in trouble. The ameoboid Bacterions have launched an all out attack against the planet, and it's up to you to fly into battle and save them. Along the way you'll be able to power up your ship with hyper speed, force fields, lasers, missiles, double beam cannons and more to help you battle. Based on the arcade game, Gradius is a side scrolling shooter. Shooting certain enemies will leave a power up pod behind which can be collected to add more power to your ship. Each level features a wide variety of enemies trying to stop you, with a large boss at the end. Gameplay is for one player or two players alternating.</desc>
+		<rating>0.75</rating>
+		<releasedate>19911115T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Gradius (Japan).jpg</image>
+		<video>./snaps/Gradius (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Out Run (Japan).zip</path>
+		<name>Out Run</name>
+		<sortname />
+		<desc>Brace yourself for the most realistic racing experience yet. And to play, you've got to have what it takes: NERVE, SKILL and BRAINS. NERVE - you're behind the wheel of a supertuned race car with one speed only: fast. SKILL - you're maneuvering a car that can nearly reach a simulated 270 KMH. BRAINS - because you're in control of your car's speed and handling at a dangerous pace, you have to use your head and not just your hands to survive. So get geared for the ride of your life and stay alert. The track may look terrific, but at these speeds anything can turn into a danger zone.</desc>
+		<rating>0.65</rating>
+		<releasedate>19901221T000000</releasedate>
+		<developer>NEC</developer>
+		<publisher>SEGA</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Out Run (Japan).jpg</image>
+		<video>./snaps/Out Run (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Salamander (Japan).zip</path>
+		<name>Salamander</name>
+		<sortname />
+		<desc>Salamander (or LifeForce on other media) is a shoot'em up on PC Engine. Aboard your severely armed ship, you must progress through the levels by shooting everything that moves up to the final boss. A multiplayer option allows you to play two at the same time.</desc>
+		<rating>0.85</rating>
+		<releasedate>19911206T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Salamander (Japan).jpg</image>
+		<video>./snaps/Salamander (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Space Invaders - Fukkatsu no Hi (Japan).zip</path>
+		<name>Space Invaders: Fukkatsu no Hi</name>
+		<sortname />
+		<desc>The Invaders are back and tougher than ever! Space Invaders: Fukkatsu no Hi (Day of Resurrection) is an update of the iconic game from Taito. The game features updated graphics and nearly a dozen different weapon types, as well as a much wider variety of enemy Invaders to shoot down. Also included is a conversion of the original 1978 coin-op.</desc>
+		<rating>0.65</rating>
+		<releasedate>19900302T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Space Invaders - Fukkatsu no Hi (Japan).jpg</image>
+		<video>./snaps/Space Invaders - Fukkatsu no Hi (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Cyber Core (USA).zip</path>
+		<name>Cyber-Core</name>
+		<desc>Cyber-Core is a vertically scrolling shooter in which the player fights insects. The basic idea is traditional: shooting everything before they can shoot/touch the player: after three hits the chitin armor breaks and a life is lost. Besides flying enemies which are disposed of with the standard gun, the player also has to deal with enemies on the ground which need to be hit with one of the unlimited bomb.</desc>
+		<image>./boxart/Cyber Core (USA).jpg</image>
+		<video>./snaps/Cyber Core (USA).mp4</video>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Alfa System</developer>
+		<publisher>NEC</publisher>
+		<genre>Shoot'em up</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220212T202554</lastplayed>
+	</game>
+	<game>
+		<path>./Dragon Spirit (USA).zip</path>
+		<name>Dragon Spirit</name>
+		<desc>Amur, the spirit of the dragon, lives within you. As the winged creature that breathes mega-tons of fire, your mission is revealed. Rescue Princess Alicia from Zowel, Demon of Darkness. So take to the skies and destroy enemy creatures with breath and fireballs. Add dragon heads and incredible power-ups. Confront Zowel in a Super Battle of Beasts. (Careful not to breathe on Alicia).</desc>
+		<image>./boxart/Dragon Spirit (USA).jpg</image>
+		<video>./snaps/Dragon Spirit (USA).mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>NEC</publisher>
+		<genre>Shoot'em up</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220212T202811</lastplayed>
+	</game>
+	<game>
+		<path>./Fantasy Zone (USA).zip</path>
+		<name>Fantasy Zone</name>
+		<desc>The Fantasy Zone is a solar system consisting of eight brightly colored, fantastic planets. The evil Menons are trying to take over all of the planets in the Fantasy Zone by using misappropriated foreign currency to build their forces. It is the player's job to recover all of the coins and save the solar system!</desc>
+		<image>./boxart/Fantasy Zone (USA).jpg</image>
+		<video>./snaps/Fantasy Zone (USA).mp4</video>
+		<rating>0.65</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Bits Laboratory</developer>
+		<publisher>NEC</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220212T202942</lastplayed>
+	</game>
+	<game>
+		<path>./J.J. &amp; Jeff (USA).zip</path>
+		<name>J.J. &amp; Jeff</name>
+		<desc>Kato &amp; Ken Detective Agency are assigned the task of locating a missing rich man, and you can choose either Kato or Ken to go on the mission. Your partner doesn't like this one bit, so he decides to make a nuisance of himself along the way. Similar to Adventure Island, you must make your way through several levels, destroying wildlife along the way, but instead of using a hammer, you have three different ways to kill them: jump on or kick them, or when they are walking on the ground, blow gas out of them.</desc>
+		<image>./boxart/J.J. &amp; Jeff (USA).jpg</image>
+		<video>./snaps/J.J. &amp; Jeff (USA).mp4</video>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220212T203218</lastplayed>
+	</game>
+	<game>
+		<path>./Ordyne (USA).zip</path>
+		<name>Ordyne</name>
+		<desc>Ordyne is a horizontal side-scrolling shoot 'em up (also considered a "cute 'em up" due to its lighter tone) that puts players in the role of Yûichirô Tomari, a genius scientist, and Sunday Chin, his faithful assistant. The two heroes must rescue Tomari's fiancee Kana Aibara from the evil Dr. Kubota.</desc>
+		<image>./boxart/Ordyne (USA).jpg</image>
+		<video>./snaps/Ordyne (USA).mp4</video>
+		<rating>0.55</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>NEC</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220212T203331</lastplayed>
+	</game>
+	<game>
+		<path>./Pac-Land (USA).zip</path>
+		<name>Pac-Land</name>
+		<desc>Pac-Land is a side-scrolling 1-2 player game with a cartoony feel to it. Now equipped with arms, face, and legs, Pac must guide a fairy back to her home in Fairy Land, but this task will not be easy because Inky, Blinky, Pinky, Clyde, and Sue will pursue Pac-Man as he travels through Pac-Land. When he finally transports the fairy back to her home, Pac is given some magic shoes, which will help him get to his own home, where he will be greeted by his family: Ms. Pac-Man, Baby Pac-Man, Chomp Chomp, and Sourpuss.</desc>
+		<image>./boxart/Pac-Land (USA).jpg</image>
+		<video>./snaps/Pac-Land (USA).mp4</video>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220212T203438</lastplayed>
+	</game>
+	<game>
+		<path>./Son Son II (Japan) [En by Sgt. Bow v1.0b].zip</path>
+		<name>Son Son II</name>
+		<desc>In this platformer, loosely based on the classic Chinese novel Xi You Ji, players take control of Son Goku who has to rescue his friends from a mysterious villain. In seven levels, Son Goku has to survive various jumping puzzles, fight off enemies with his staff and collect money in form of fruit.</desc>
+		<image>./boxart/Son Son II (Japan) [En by Sgt. Bow v1.0b].jpg</image>
+		<video>./snaps/Son Son II (Japan) [En by Sgt. Bow v1.0b].mp4</video>
+		<rating>0.75</rating>
+		<releasedate>19890127T000000</releasedate>
+		<developer>NEC</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220212T203544</lastplayed>
+	</game>
+	<game>
+		<path>./World Court Tennis (USA).zip</path>
+		<name>World Court Tennis</name>
+		<desc>World Court Tennis is a tennis game with a twist. The action itself features no big surprises: the players control their characters over the scrolling tennis field and try to counter balls from their opponents. It is possible to perform typical tennis actions like cross, smash or lob and the hit performance depends on the timing.</desc>
+		<image>./boxart/World Court Tennis (USA).jpg</image>
+		<video>./snaps/World Court Tennis (USA).mp4</video>
+		<rating>0.65</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>NEC</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<playcount>1</playcount>
+		<lastplayed>20220212T203707</lastplayed>
+	</game>
+</gameList>

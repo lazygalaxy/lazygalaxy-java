@@ -1,0 +1,424 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Colecovision</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Cabbage Patch Kids - Adventures in the Park (USA, Europe).zip</path>
+		<name>Cabbage Patch Kids: Adventures in the Park</name>
+		<sortname />
+		<desc>Your player is a Cabbage Patch kid with pigtails who is having a day at the park. A day that includes jumping onto vines and leaping over holes and bouncing onto correct platforms. A misplaced jump will lose a life and additionally there are a few creatures such as bees who end the player's turn when touched.</desc>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Cabbage Patch Kids - Adventures in the Park (USA, Europe).jpg</image>
+		<video>./snaps/Cabbage Patch Kids - Adventures in the Park (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Digger (2014 Mystery Man).rom</path>
+		<name>Digger</name>
+		<sortname />
+		<desc>Guiding a motorized Digger Mobile around the screen, players tunnel underground to scoop up emeralds (similar to the cherries in Mr. Do!), creating mazes in the process. As you gather emeralds, little creatures called Nobbins will chase you through the maze pathways.</desc>
+		<releasedate />
+		<developer>Mystery Man</developer>
+		<publisher>CollectorVision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Digger (2014 Mystery Man).jpg</image>
+		<video>./snaps/Digger (2014 Mystery Man).mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Junior (USA, Europe).zip</path>
+		<name>Donkey Kong Junior</name>
+		<sortname />
+		<desc>Donkey Kong Junior was originally released in the arcades in 1982 as a sequel to Donkey Kong. In this game, Mario plays the antagonist, finally having captured Donkey Kong, and has put the ape in a locked cage. As Donkey Kong Jr., players will have to make their way through four different levels (Vines, Springboard, Chains and Mario's Hideout) in an attempt to find keys to free the little monkey's Father.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Donkey Kong Junior (USA, Europe).jpg</image>
+		<video>./snaps/Donkey Kong Junior (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Fortune Builder (USA).zip</path>
+		<name>Fortune Builder</name>
+		<sortname />
+		<desc>Your community will be laid out on a map of undeveloped land, consisting of a seacoast with beachfront. two mountain ranges, midlands, a river and a lake, with a main highway running north and south. You'll start with a fixed amount of cash, enabling you to buy and build a large variety of proper-ties: hotels, condos, marinas, factories, malls, gas stations and numerous other facilities.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Coleco Industries, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
+		<image>./boxart/Fortune Builder (USA).jpg</image>
+		<video>./snaps/Fortune Builder (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Frenzy (USA, Europe).zip</path>
+		<name>Frenzy</name>
+		<sortname />
+		<desc>You are chased around a maze of rooms by various robots and your player must avoid their lasers and shoot them back to destroy them. There's only so much time the player can stay in a room before a "Robot Attacks" occurs and a smiley face of death moves in on the player. In Frenzy there are also reflective mirrors in place of certain walls which reflects shots back and allow you to ricochet your fire. Also unique to Frenzy are four "device rooms" with a special icon in the center of the room that may be destroyed for bonus points and a special effect within that room.</desc>
+		<rating>0.85</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Stern Electronics, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Frenzy (USA, Europe).jpg</image>
+		<video>./snaps/Frenzy (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Galaxian (USA).zip</path>
+		<name>Galaxian</name>
+		<sortname />
+		<desc>Galaxian is a shoot 'em up in which the player is at the bottom of the screen, with an arrangement of aliens at the top. The player moves left and right to aim at an alien, then shoots a bullet up the screen, and the alien it hits is killed. The aliens are classed as Drones, Emissaries, Hornets and Commanders, with those higher up the screen scoring more points when destroyed. At set intervals an enemy will move down the screen towards you, escorting a bomber, which is a moment of high danger. Clear a wave and another is generated.</desc>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Galaxian (USA).jpg</image>
+		<video>./snaps/Galaxian (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Gorf (USA, Europe).zip</path>
+		<name>Gorf</name>
+		<sortname />
+		<desc>Gorf is a fixed shooter in which the players take control of an unnamed starship from the Interstellar Space Force, capable of moving freely on all directions around the lower third of the screen, in an attempt to prevent the Gorfian Empire from conquering Earth.</desc>
+		<rating>0.85</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>CBS Electronics</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Gorf (USA, Europe).jpg</image>
+		<video>./snaps/Gorf (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Jumpman Junior (USA, Europe).zip</path>
+		<name>Jumpman Junior</name>
+		<sortname />
+		<desc>Jumpman Junior is the sequel to Jumpman and features similar gameplay with all new levels. As Jumpman, your goal is to disarm all of the bombs on the level before time runs out. Each level consists of a variety of platforms, ladders, and ropes you will need to jump and climb to reach the bombs.</desc>
+		<rating>0.85</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Jumpman Junior (USA, Europe).jpg</image>
+		<video>./snaps/Jumpman Junior (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Lady Bug (USA, Europe).zip</path>
+		<name>Lady Bug</name>
+		<sortname />
+		<desc>Players control a ladybug who must venture around different mazes collecting all of the food pellet "x"'s. In addition to there being regular lines of wall in the maze, there are also several rotating doors that can be used to trap enemies and escape. In fact these rotating doors are the key to survival in this game. In the center of each maze is a different enemy insect hive that will spawn out enemy creatures. An new enemy creature is spawned every time the border around the screen makes a complete "lap". Timers for the border vary upon the level, so later levels will generate new enemies faster, thus progression through the game brings smarter, faster and more quickly spawning enemies.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Universal </developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Lady Bug (USA, Europe).jpg</image>
+		<video>./snaps/Lady Bug (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1).zip</path>
+		<name>Miner 2049er</name>
+		<sortname />
+		<desc>You play the part of Bounty Bob, and it is your mission to explore every inch of an abandoned mine. As you walk over floor sections in the mine, the floor will change color. When all of the floor sections have been changed in color, you can move on to the next, more challenging level. To reach all of the floor sections, you will need to figure out how to get there! You can jump (be careful not to fall too far though, or you will be squished).</desc>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Big Five Software</developer>
+		<publisher>Micro Fun</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1).jpg</image>
+		<video>./snaps/Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1).mp4</video>
+	</game>
+	<game>
+		<path>./Mr. Do! (USA, Europe).zip</path>
+		<name>Mr. Do!</name>
+		<sortname />
+		<desc>You control Mr. Do has he tries to harvest all of the cherries on the screen. However, there are numerous bad guys out to get him! Mr. Do can defend himself from the badguys in two ways: first he can push the apples located throughout the playfield on top of the enemies and crush them. Secondly, Mr. Do is armed with a power ball. This can be thrown to destroy an enemy. Mr. Do has only one power ball, though, so he will need to wait for it to return to him before it can be used again.</desc>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Universal </developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Mr. Do! (USA, Europe).jpg</image>
+		<video>./snaps/Mr. Do! (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Pepper II (USA, Europe).zip</path>
+		<name>Pepper II</name>
+		<sortname />
+		<desc>Pepper II is a maze game with zip! The object of Pepper II is simple enough, all you do is zip closed sections of the maze and they will become filled with color. Zip in all the sections of the maze and it's complete. However if you back track you might unzip your path, so be careful! Each stage has four mazes you must complete to move on, but you can move from maze to maze by using the exits located at the top, bottom and sides of the screen. And don't forget about the bad guys trying to take you out all the while.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Exidy, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Pepper II (USA, Europe).jpg</image>
+		<video>./snaps/Pepper II (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Pitfall II - Lost Caverns (USA).zip</path>
+		<name>Pitfall II: Lost Caverns</name>
+		<sortname />
+		<desc>You play Pitfall Harry searching for the Raj diamond, his niece Rhonda, and a variety of treasures somewhere in the Andes. Poisonous frogs, eels, scorpions, bats and other hazards get in the way. Pitfall II is the sequel to Pitfall, the original platform game. Gameplay has remained pretty much the same, with each screen presenting a side view of obstacles to get past, and potentially treasures to collect. The landscape is more maze like, with a variety of paths and dead ends to search. Along the way there are checkpoints the player will encounter. When the player dies, Pitfall Harry will be sent back to the most recently crossed checkpoint.</desc>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Pitfall II - Lost Caverns (USA).jpg</image>
+		<video>./snaps/Pitfall II - Lost Caverns (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Q-bert (USA).zip</path>
+		<name>Q*Bert</name>
+		<sortname />
+		<desc>The goal is to change all of the tiles on a pyramid to the target color. To do this you guide Qbert around the pyramid, and every tile he hops on will change color. On early levels, a single hop will change the tile to the desired color, but on later levels you may need to hop on a tile multiple times or even avoid hopping on a tile multiple times!.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>D. Gottlieb &amp; Co.</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Q-bert (USA).jpg</image>
+		<video>./snaps/Q-bert (USA).mp4</video>
+	</game>
+	<game>
+		<path>./River Raid (USA).zip</path>
+		<name>River Raid</name>
+		<sortname />
+		<desc>River Raid is a vertically scrolling action game. You fly a jet up a river in an attempt to destroy bridges which are vital to the enemy. The river is heavily guarded, however, with balloons, ships, choppers, and enemy aircraft trying to stop you. Along the way you will need to fly over fuel stations to refuel your jet and keep flying.</desc>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/River Raid (USA).jpg</image>
+		<video>./snaps/River Raid (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Turbo (USA, Europe).zip</path>
+		<name>Turbo</name>
+		<sortname />
+		<desc>It's you and several other cars racing through a variety of landscapes in Turbo. From the starting line onward, you need to maneuver around and pass various cars in your way while racing towards the finish line. Some of the landscapes you'll travel through include city streets, long roads in the country, seaside highways and dark tunnels.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Turbo (USA, Europe).jpg</image>
+		<video>./snaps/Turbo (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./WarGames (USA, Europe).zip</path>
+		<name>War Games</name>
+		<sortname />
+		<desc>This strategic game is based on the popular 1983 movie of the same name, starring Matthew Broderick. It might remind people of Missile Command but the action is slower and spread over six screens which represent different areas of the U.S.A. Enemy missiles, planes, and subs will attack and you must direct your own forces.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Coleco Industries, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/WarGames (USA, Europe).jpg</image>
+		<video>./snaps/WarGames (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Zaxxon (USA, Europe).zip</path>
+		<name>Zaxxon</name>
+		<sortname />
+		<desc>The Zaxxon defence system must be destroyed in this isometric-viewed shoot 'em up which was originally hugely successful in the arcades. The game has 3 stages.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Zaxxon (USA, Europe).jpg</image>
+		<video>./snaps/Zaxxon (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Gyruss (USA).zip</path>
+		<name>Gyruss</name>
+		<sortname />
+		<desc>The entire solar system is being attacked by the vicious Gyrusians, and it's up to you to save the day! You will need to fly your spaceship to each of the nine planets and then clear three stages of enemies to rid that planet of the Gyrusians. You start the game with a single canon, and can gain a double canon after shooting a power up satelite. After clearing each planet, there is another bonus stage where additional weapons and bonus points can be collected.</desc>
+		<rating>0.45</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Gyruss (USA).jpg</image>
+		<video>./snaps/Gyruss (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Spy Hunter (USA).zip</path>
+		<name>Spy Hunter</name>
+		<sortname />
+		<desc>Your car is equipped with machine guns to help you get past the numerous enemies out on the road (be careful not to shoot any civilians, though!) Occasionally you will come across a weapons van, and if you drive into the back of the van your car becomes equipped with a second weapon (such as smoke screen, oil slick, or missiles.) At several points the road splits and you can enter a boathouse which transforms your car into a boat temporarily.</desc>
+		<rating>0.35</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Spy Hunter (USA).jpg</image>
+		<video>./snaps/Spy Hunter (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tutankham (USA).zip</path>
+		<name>Tutankham</name>
+		<sortname />
+		<desc>Tutankham is an arcade action game played from a top down point of view. You are an explorer in King Tut's tomb on a mission to retrieve as many of the valuable treasures as you can find. In addition to the treasures, you will also find a key in each of the chambers. This is needed in order to unlock the entrance to the next, more difficult chamber. Be careful, for the tomb is guarded by many dangerous creatures! Cobras, bats, scorpions, and more all appear in the maze and will cause you to lose a life if you're caught!</desc>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Tutankham (USA).jpg</image>
+		<video>./snaps/Tutankham (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Up 'n Down (USA).zip</path>
+		<name>Up'n Down</name>
+		<sortname />
+		<desc>The object is to drive around a twisty course and collect all the colored flags. You can jump over gaps and over or onto other cars. If you land on another car, you kill them and collect points. You can also collect things like balloons and ice cream cones for bonus points. The faster you collect all the flags, the bigger a time bonus you get.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Up 'n Down (USA).jpg</image>
+		<video>./snaps/Up 'n Down (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Venture (USA, Europe).zip</path>
+		<name>Venture</name>
+		<sortname />
+		<desc>Venture is a conversion of the popular arcade game. You control Winky, the heroic adventurer. Your goal is to collect as many treasures as you can which are scattered throughout numerous dungeons. In each dungeon, there are several chambers which each contain a treasure. Armed only with your crossbow, you need to get past the varied creatures which guard the chamber, snag the treasure, and make it out again. When you collect the treasure from each of the chambers in a dungeon, you can then move on to the next, more difficult dungeon.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Exidy, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Venture (USA, Europe).jpg</image>
+		<video>./snaps/Venture (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Frogger (USA).zip</path>
+		<name>Frogger</name>
+		<sortname />
+		<desc>Your task in this arcade conversion is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Frogger (USA).jpg</image>
+		<video>./snaps/Frogger (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Centipede (USA).zip</path>
+		<name>Centipede</name>
+		<sortname />
+		<desc>In Centipede, the player is trapped in the Enchanted Forest. Armed with only a magic wand to ward off the forest's insect denizens, all of which apparently are attacking in the player in continuous waves.</desc>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Centipede (USA).jpg</image>
+		<video>./snaps/Centipede (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Q-bert's Qubes (USA).zip</path>
+		<name>Q*Bert's Qubes</name>
+		<sortname />
+		<desc>Q*Bert's Qubes is the sequel to the game Q*Bert and features similar gameplay, but is now in three dimensions. Once again your goal is to change multicolored blocks to a target color, but now you must make sure all three visible sides of the blocks match the target color. You control Q*Bert on the playfield of blocks.</desc>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Mylstar Electronics, Inc.</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Q-bert's Qubes (USA).jpg</image>
+		<video>./snaps/Q-bert's Qubes (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong (USA).zip</path>
+		<name>Donkey Kong</name>
+		<sortname />
+		<desc>Donkey Kong is a platform-action game that has Mario scale four different industrial themed levels (construction zone, cement factory, an elevator-themed level, and removing rivets from girders) in an attempt to save the damsel in distress, Pauline, from the big ape before the timer runs out. Once the rivets are removed from the final level, Donkey Kong falls, and the two lovers are reunited. From there, the levels start over at a higher difficulty.</desc>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Donkey Kong (USA).jpg</image>
+		<video>./snaps/Donkey Kong (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tarzan (USA, Europe).zip</path>
+		<name>Tarzan</name>
+		<sortname />
+		<desc>Cruel hunters and the Beastmen of Opar have abducted Tarzan's tribe of Great Apes and imprisoned them in cages throughout the jungle. Its up to you to save the apes from being shipped out of their jungle home to zoos First, rescue Tarzan's faithful monkey companion, Nkima, from the hunters' camp. Once freed. Nkima accompanies you on your mission and alerts you to hidden snakes and treacherous pit traps with his shrill cry!</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Coleco Industries, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Tarzan (USA, Europe).jpg</image>
+		<video>./snaps/Tarzan (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Boulder Dash (USA).zip</path>
+		<name>Boulder Dash</name>
+		<sortname />
+		<desc>You're Rockford and have to dig through monster infested caves in search of diamonds. In each level you must collect a certain number of these diamonds, in order to open a portal to the next stage. Enemies can be squashed by falling boulders, which are released when the ground below them is removed or they are pushed onto empty ground, but be careful because these can also squash you. In later levels, difficulty is increased by many puzzle elements and shorter time limits.</desc>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>First Star Software</developer>
+		<publisher>Micro Fun</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Boulder Dash (USA).jpg</image>
+		<video>./snaps/Boulder Dash (USA).mp4</video>
+	</game>
+	<game>
+		<path>./BurgerTime (USA, Europe).zip</path>
+		<name>BurgerTime</name>
+		<desc>You play as Chef Pepper and your goal is to make giant hamburgers while evil eggs, sausages and pickles chase you around the game area.</desc>
+		<image>./boxart/BurgerTime (USA, Europe).jpg</image>
+		<video>./snaps/BurgerTime (USA, Europe).mp4</video>
+		<rating>0.85</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220222T085915</lastplayed>
+	</game>
+</gameList>

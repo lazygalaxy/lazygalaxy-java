@@ -1,0 +1,381 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Atari 8bit</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Canyon_Climber.zip</path>
+		<name>Canyon Climber</name>
+		<sortname />
+		<desc>In Canyon Climber you try to climb to the top of the Grand Canyon, while avoiding various obstacles. There are three levels, each a single screen: In Level 1 you set bombs on each side of three bridges and then push the plunger at the top to blow them up, all while jumping or outrunning charging sheep. In Level 2 you climb ladders and run up long paths to reach the top of the screen while jumping over arrows shot by indians. In Level 3 you jump pits and climb ladders to reach the top while avoiding birds that drop bricks.</desc>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Datasoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Canyon_Climber.jpg</image>
+		<video>./snaps/Canyon_Climber.mp4</video>
+	</game>
+	<game>
+		<path>./Caverns of Mars (1981)(Atari).zip</path>
+		<name>Caverns of Mars</name>
+		<sortname />
+		<desc>Martian galactic fleets surround the planet and are demanding its surrender! The Terra IV High Command knows that your space fighter, the HELICON VII, is he only craft equipped to invade the Martian Headquarters deep within the Caverns of Mars. Your mission: Sabotage the Martian defense system by activating their deadly fusion bomb.</desc>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Caverns of Mars (1981)(Atari).jpg</image>
+		<video>./snaps/Caverns of Mars (1981)(Atari).mp4</video>
+	</game>
+	<game>
+		<path>./Crumble's Crisis.zip</path>
+		<name>Crumble's Crisis</name>
+		<sortname />
+		<desc>This is a version of the Atari coin-op game Warlords, designed to look and play as much like the coin-op version as possible. Use your shield to deflect fireballs away from your castle and towards your opponents. You can also capture fireballs and launch them at your opponents with even greater force.</desc>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Red Rat Software</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Crumble's Crisis.jpg</image>
+		<video>./snaps/Crumble's Crisis.mp4</video>
+	</game>
+	<game>
+		<path>./Crystal Raider (19xx)(Mastertronic).zip</path>
+		<name>Crystal Raider</name>
+		<sortname />
+		<desc>50 rooms full of treasures await the brave yet thoughtful explorer in this platform game. Using limited thrusting ability, you must collect as many crystals as possible before moving on to the next level. Rooms have multiple exits, leading the player to different segments of the screens.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Mastertronic</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Crystal Raider (19xx)(Mastertronic).jpg</image>
+		<video>./snaps/Crystal Raider (19xx)(Mastertronic).mp4</video>
+	</game>
+	<game>
+		<path>./Encounter! (1983)(Synapse Software)[Req OSb][k-file].zip</path>
+		<name>Encounter!</name>
+		<sortname />
+		<desc>Encounter contains eight environments with three difficulty levels and includes 3-D graphics and sound effects to indicate the approach of enemy kamikaze aliens. The game contains two level types: a shooting level where alien saucers and drones attack the player in a 3-D plane with regularly placed columns and a flying level where the player must navigate a 3-D star field by avoiding contact with any foreign objects.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Synapse Software</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Encounter! (1983)(Synapse Software)[Req OSb][k-file].jpg</image>
+		<video>./snaps/Encounter! (1983)(Synapse Software)[Req OSb][k-file].mp4</video>
+	</game>
+	<game>
+		<path>./Mission (1991)(Zeppelin)[k-file].zip</path>
+		<name>Mission Shark</name>
+		<sortname />
+		<desc>Moving around the game world, the agent must watch out for enemy soldiers, landmines, electric fields and defense turrets. Getting shot or touched by those hazards results in losing health, which can be replenished by collecting the appropriate power-up. The agent is armed with a gun and some grenades; ammo is limited, but more of it can be found.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<publisher>Zeppelin Games</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Mission (1991)(Zeppelin)[k-file].jpg</image>
+		<video>./snaps/Mission (1991)(Zeppelin)[k-file].mp4</video>
+	</game>
+	<game>
+		<path>./Mouse Trap (19xx)(MicroValue).zip</path>
+		<name>Mouse Trap</name>
+		<sortname />
+		<desc>This platform game challenges the player to guide a mouse around a screen collecting goodies - varying from cheese to cakes to balloons. Once they have all been collected you must reach the door, doing all of this within the time limit.</desc>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Microvalue</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Mouse Trap (19xx)(MicroValue).jpg</image>
+		<video>./snaps/Mouse Trap (19xx)(MicroValue).mp4</video>
+	</game>
+	<game>
+		<path>./Nightmares.zip</path>
+		<name>Nightmares</name>
+		<sortname />
+		<desc>Nameless Faerie charged with dispatching insects called Airflits while fight off a horde of well-defined, but hardly scary monstrositites.</desc>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Red Rat Software</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Nightmares.jpg</image>
+		<video>./snaps/Nightmares.mp4</video>
+	</game>
+	<game>
+		<path>./Pacific Coast Hwy (1982)(Datasoft).zip</path>
+		<name>Pacific Coast Hwy</name>
+		<sortname />
+		<desc>Each player starts at the bottom of the screen and the goal is to reach the top. Player one is a rabbit and player two, if present, is a tortoise. Both creatures play the same, and the tortoise and hare theme is not present elsewhere.</desc>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Datasoft</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Pacific Coast Hwy (1982)(Datasoft).jpg</image>
+		<video>./snaps/Pacific Coast Hwy (1982)(Datasoft).mp4</video>
+	</game>
+	<game>
+		<path>./Pastfinder.zip</path>
+		<name>Pastfinder</name>
+		<sortname />
+		<desc>In Pathfinder, your job is to clear a large scrolling maze of the radioactive waste strewn about. Complicating this, radioactive creatures will attempt to stop you.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Activision</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Pastfinder.jpg</image>
+		<video>./snaps/Pastfinder.mp4</video>
+	</game>
+	<game>
+		<path>./Rainbow Walker (1983)(Synapse)[k-file].zip</path>
+		<name>Rainbow Walker</name>
+		<sortname />
+		<desc>This game is about a baby owl tasked with coloring of the rainbow high above the clouds. The rainbow is organized as stripes of colors, which initially appear as different shades of gray. The stripes themselves are split into smaller squares.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Synapse Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Rainbow Walker (1983)(Synapse)[k-file].jpg</image>
+		<video>./snaps/Rainbow Walker (1983)(Synapse)[k-file].mp4</video>
+	</game>
+	<game>
+		<path>./Rescue on Fractalus (1985)(Lucasfilm).zip</path>
+		<name>Rescue on Fractalus!</name>
+		<sortname />
+		<desc>Rescue on Fractalus! is an action game played from a 3D first person point of view. Your mission is to rescue stranded pilots on the planet of Fractalus.</desc>
+		<releasedate>19870101T000000</releasedate>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Rescue on Fractalus (1985)(Lucasfilm).jpg</image>
+		<video>./snaps/Rescue on Fractalus (1985)(Lucasfilm).mp4</video>
+	</game>
+	<game>
+		<path>./Rocket Repairman - The Further Adventures of Cavern Commander (1986)(Red Rat Software).zip</path>
+		<name>Rocket Repair Man</name>
+		<sortname />
+		<desc>Based on the Dave Stevens' original comic book series and the movie made by the Walt Disney Company. Participate in several action sequences that mimic the same sequences in the movie, like racing a plane, a shootout in a warehouse, and hand-to-hand combat on top of a flying blimp.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Red Rat Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Rocket Repairman - The Further Adventures of Cavern Commander (1986)(Red Rat Software).jpg</image>
+		<video>./snaps/Rocket Repairman - The Further Adventures of Cavern Commander (1986)(Red Rat Software).mp4</video>
+	</game>
+	<game>
+		<path>./Space Lobsters (1987)(Red Rat Software)(GB)[k-file].zip</path>
+		<name>Space Lobsters</name>
+		<sortname />
+		<desc>An arcade adventure set inside the huge colony-ship, Colossus, which has been drifting in space for eons as a result of the continuing war between Mankind and the Space Lobsters. Captain Crumble - latest product of Red Rat's active imagination - has the unenviable task of salvaging the ship and returning it to Earth. Is there a fearsome Space Lobster on board?</desc>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Red Rat Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Space Lobsters (1987)(Red Rat Software)(GB)[k-file].jpg</image>
+		<video>./snaps/Space Lobsters (1987)(Red Rat Software)(GB)[k-file].mp4</video>
+	</game>
+	<game>
+		<path>./Twilight World (1986)(Matthew Trimby)[k-file].zip</path>
+		<name>Twilight World</name>
+		<sortname />
+		<desc>Twilight World is a platform game set in a dungeon. The aim is to reach the exit of each of eleven levels, while collecting crystals, keys for opening doors, and avoiding roving monsters or other obstacles.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Twilight World (1986)(Matthew Trimby)[k-file].jpg</image>
+		<video>./snaps/Twilight World (1986)(Matthew Trimby)[k-file].mp4</video>
+	</game>
+	<game>
+		<path>./Yoomp!.zip</path>
+		<name>Yoomp!</name>
+		<sortname />
+		<desc>Yoomp! is the winner of the 2007 ABBUC software competition. Like a combination of Trailblazer and an often-seen demoscene effect, you fall down a tube, landing on each square progressively in a rhythmic manner.</desc>
+		<releasedate />
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Yoomp!.jpg</image>
+		<video>./snaps/Yoomp!.mp4</video>
+	</game>
+	<game>
+		<path>./Heart Break (1988)(Atari)(GB)[k-file].zip</path>
+		<name>Heartache</name>
+		<sortname />
+		<desc>When you first play this game, you'll be forgiven for thinking that your Atari's collision detection has failed. The space-suited character you control moves through enemies, walls and other hazards without losing any of his five lives. It also moves past the heart which starts next to you, and even across the screen's borders.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Heart Break (1988)(Atari)(GB)[k-file].jpg</image>
+		<video>./snaps/Heart Break (1988)(Atari)(GB)[k-file].mp4</video>
+	</game>
+	<game>
+		<path>./BC's Quest For Tires (1983)(Sierra).zip</path>
+		<name>BC's Quest for Tires</name>
+		<sortname />
+		<desc>B.C.'s Quest for Tires is an action game taking place on several consecutive levels. The levels start out simple, with Thor having to jump over potholes or duck under tree branches.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/BC's Quest For Tires (1983)(Sierra).jpg</image>
+		<video>./snaps/BC's Quest For Tires (1983)(Sierra).mp4</video>
+	</game>
+	<game>
+		<path>./Bounty Bob Strikes Back! (1985)(Big Five Software)(PAL).zip</path>
+		<name>Bounty Bob Strikes Back!</name>
+		<sortname />
+		<desc>Bounty Bob Strikes Back! is the sequel to Miner 2049er and features similar gameplay. As Bounty Bob, your goal is to claim every inch of 25 challenging mines. To do this, you must walk over each segment of the framework in the mines. To reach each segment of framework, you will need to figure out a way to jump, climb, or use one of the many devices occasionally available to get there.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Aackosoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Bounty Bob Strikes Back! (1985)(Big Five Software)(PAL).jpg</image>
+		<video>./snaps/Bounty Bob Strikes Back! (1985)(Big Five Software)(PAL).mp4</video>
+	</game>
+	<game>
+		<path>./Zone X.zip</path>
+		<name>Zone X</name>
+		<sortname />
+		<desc>Zone X is an Action game, developed and published by Gremlin Graphics, which was released in Europe in 1985.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Gremlin Graphics Software</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Zone X.jpg</image>
+		<video>./snaps/Zone X.mp4</video>
+	</game>
+	<game>
+		<path>./StarRaiders.zip</path>
+		<name>Star Raiders</name>
+		<sortname />
+		<desc>As the pilot of an interstellar starship, your mission is to destroy all enemy spacecraft on the galactic chart and prevent them from destroying your starbases.</desc>
+		<releasedate>19790101T000000</releasedate>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/StarRaiders.jpg</image>
+		<video>./snaps/StarRaiders.mp4</video>
+	</game>
+	<game>
+		<path>./Dreadnaught Factor, The (1984)(Activision)[k-file].zip</path>
+		<name>The Dreadnaught Factor</name>
+		<sortname />
+		<desc>The Zorban Dreadnaughts are spaceships that are 140,000 feet long and weigh 970 megatons, making them the largest, most heavily armoured spaceships ever created. A fleet of these large battlecraft are now heading towards your home planet, and it is your job to stop them!.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Activision</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Dreadnaught Factor, The (1984)(Activision)[k-file].jpg</image>
+		<video>./snaps/Dreadnaught Factor, The (1984)(Activision)[k-file].mp4</video>
+	</game>
+	<game>
+		<path>./Eidolon, The (1985)(Lucasfilm).zip</path>
+		<name>The Eidolon</name>
+		<sortname />
+		<desc>You discover the Eidolon, a strange 19th century vehicle, in an abandoned laboratory. Investigating this device, you are accidentally transported to another dimension and trapped in a vast, maze-like cave. The creatures in this cave, sensing the energy emanating from the Eidolon, are woken from a long slumber, and you soon finds that his only chance of survival lies in this mysterious vehicle and its powerful energy weapon.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Epyx</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Eidolon, The (1985)(Lucasfilm).jpg</image>
+		<video>./snaps/Eidolon, The (1985)(Lucasfilm).mp4</video>
+	</game>
+	<game>
+		<path>./Caverns of Khafka (1983)(Cosmi).zip</path>
+		<name>Caverns of Khafka</name>
+		<sortname />
+		<desc>The plot is familiar; facing the treacherous caverns of rolling boulders and deadly insects, you set out on a search for the five seals to unlock and raid the king's chambers. Be prepared for a trying time as the tools at your disposal include only your trusty grapple-action whip and gravity defying jump.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Cosmi</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Caverns of Khafka (1983)(Cosmi).jpg</image>
+		<video>./snaps/Caverns of Khafka (1983)(Cosmi).mp4</video>
+	</game>
+	<game>
+		<path>./Cavelord (1985)(Ariolasoft - Axis Komputerkunst)(DE)[tr en Jeff Kyle].zip</path>
+		<name>Cavelord</name>
+		<sortname />
+		<desc>The player controls the hero Telos on his winged horse Pegamis and has to explore two caves within a large scrolling playfield. While exploring the caves the player is threatened by flying creatures called "Nemesides" that appear occasionally. The player must explore caves to find the three pieces of the crown for the king.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Ariolasoft - Axis Komputerkunst</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Cavelord (1985)(Ariolasoft - Axis Komputerkunst)(DE)[tr en Jeff Kyle].jpg</image>
+		<video>./snaps/Cavelord (1985)(Ariolasoft - Axis Komputerkunst)(DE)[tr en Jeff Kyle].mp4</video>
+	</game>
+	<game>
+		<path>./Boulder Dash (1984)(First Star).zip</path>
+		<name>Boulder Dash</name>
+		<sortname />
+		<desc>In Boulder Dash, the player controls Rockford, who must dig through caves collecting gems and diamonds and reach the exit within a time limit, while avoiding various types of dangerous creatures as well as falling rocks and the constant danger of being crushed or trapped by an avalanche, or killed by an underground explosion.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Chris Gray, Peter Liepa</developer>
+		<publisher>First Star Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Boulder Dash (1984)(First Star).jpg</image>
+		<video>./snaps/Boulder Dash (1984)(First Star).mp4</video>
+	</game>
+	<game>
+		<path>./Aztec Challenge (1983)(Cosmi).zip</path>
+		<name>Aztec Challenge</name>
+		<sortname />
+		<desc>In the Aztec empire you were chosen for sacrifice so there's no time.. you must escape. Is a side-scrolling platform-jumping game created by Robert Tegel Bonifacio and released in 1982 for the Atari 8-bit family. The games have 7 Phases, good sounds and a good 8-bit color palette.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Cosmi</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Aztec Challenge (1983)(Cosmi).jpg</image>
+		<video>./snaps/Aztec Challenge (1983)(Cosmi).mp4</video>
+	</game>
+	<game>
+		<path>./Cavernia (1990)(Zeppelin).zip</path>
+		<name>Cavernia</name>
+		<sortname />
+		<desc>Cavernia is a platform game, set in a cave. As Teddy Arklethorpe, the player has to complete sixteen levels; finishing each level requires Teddy to collect all the treasures scattered throughout, then grabbing the key and getting to the exit. The gameplay is typical for the genre, with leaping across gaps, riding on moving platforms and leaping up to grab ledges. Monsters such as ghosts and mutants, and dangerous environment such as spikes and falling stalactites await throughout; contact with them means losing a life.</desc>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>Zeppelin Games</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Cavernia (1990)(Zeppelin).jpg</image>
+		<video>./snaps/Cavernia (1990)(Zeppelin).mp4</video>
+	</game>
+	<game>
+		<path>./Defender (1982)(Atari).zip</path>
+		<name>Defender*</name>
+		<desc>Defender* is a two-dimensional side-scrolling shooting game set on the surface of an unnamed planet (or, in the Atari VCS version, an unnamed city). The player controls a spaceship as it navigates the terrain, flying either to the left or right.</desc>
+		<image>./boxart/Defender (1982)(Atari).jpg</image>
+		<video>./snaps/Defender (1982)(Atari).mp4</video>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<playcount>3</playcount>
+		<lastplayed>20220223T125639</lastplayed>
+	</game>
+	<game>
+		<path>./Dropzone (1984)(U.S. Gold).zip</path>
+		<name>Drop Zone</name>
+		<desc>It's the year 2085. Only a handful of people have survived the robot wars that rocket the Solar System. In a final desperate bid for survival a Tacheon propelled star cruiser has been developed on Earth to transport survivors to new star system. But the cruiser relies on rare Ionian crystals for its power crystals which are only abundant on Jupiter's second moon Io. It is your mission to escort the men and their precious crystals safety from the surface of Io the the Dropzone where the landing pad is located.</desc>
+		<image>./boxart/Dropzone (1984)(U.S. Gold).jpg</image>
+		<video>./snaps/Dropzone (1984)(U.S. Gold).mp4</video>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Archer MacLean</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Shoot'em up</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220223T125833</lastplayed>
+	</game>
+	<game>
+		<path>./Henry's House (1987)(Mastertronic)[h Mr. Bacardi].zip</path>
+		<name>Henry's House</name>
+		<desc>In this platformer, the player has to guide Henry through the numerous rooms of his house. Each room is a screen-sized level filled with deadly household-items such as toothbrushes, teapots, flying toast or coffee machines.</desc>
+		<image>./boxart/Henry's House (1987)(Mastertronic)[h Mr. Bacardi].jpg</image>
+		<video>./snaps/Henry's House (1987)(Mastertronic)[h Mr. Bacardi].mp4</video>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Mastertronic</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220223T130108</lastplayed>
+	</game>
+</gameList>

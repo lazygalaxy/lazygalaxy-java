@@ -1,0 +1,519 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Nintendo 64</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Banjo-Kazooie (USA) (Rev 1).v64</path>
+		<name>Banjo-Kazooie</name>
+		<sortname />
+		<desc>Banjo-Kazooie's fairy tale back story is reminiscent of Snow White's. A gnarled, ugly witch named Gruntilda asks her magical cauldron who is the fairest of them all. Of course, the pot's answer doesn't please the hag-- he singles out Banjo's sister, Tooty. When Tooty turns up missing, Banjo and his birdie buddy Kazooie set out to find her. The worlds in Banjo-Kazooie are gigantic, and chock full of crazy items to collect. Musical Notes, Puzzle Pieces ("Jiggies"), Mumbo Tokens, and Jinjoes are just some of the swag that Banjo must stuff in his backpack to complete his adventure.</desc>
+		<rating>0.8</rating>
+		<releasedate>19980629T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Banjo-Kazooie (USA) (Rev 1).jpg</image>
+		<video>./snaps/Banjo-Kazooie (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Banjo-Tooie (USA).v64</path>
+		<name>Banjo-Tooie</name>
+		<sortname />
+		<desc>After two years under the rock, Gruntilda is finally set free from her death bed by her two sisters. As nothing but a skeleton, Grunty and her sisters plan a way of curing her looks by sucking the life out of the land so as to restore her body to its old self. On hearing this news, our two champs Banjo and Kazooie with the aid of Mumbo set out to stop the evil plan and seek revenge for the passing away of Bottles the mole.</desc>
+		<rating>0.8</rating>
+		<releasedate>20001120T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Banjo-Tooie (USA).jpg</image>
+		<video>./snaps/Banjo-Tooie (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Blast Corps (U) (V1.1) [!].z64</path>
+		<name>Blast Corps</name>
+		<sortname />
+		<desc>Get out of the way! A nuclear missile carrier is out of control on a one way-set path, and unless that path is cleared, it will explode as soon as it makes contact with anything, destroying the world. It is up to you to clear the path so that nothing gets in the way of the Carrier.</desc>
+		<rating>0.75</rating>
+		<releasedate>19970324T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Blast Corps (U) (V1.1) [!].jpg</image>
+		<video>./snaps/Blast Corps (U) (V1.1) [!].mp4</video>
+	</game>
+	<game>
+		<path>./Body Harvest (U) [!].z64</path>
+		<name>Body Harvest</name>
+		<sortname />
+		<desc>In 2050 AD, the earth has been taken over by horrible aliens, who long ago planted the humans there to later devour, and the last remains of humanity are working on a desperate plan - to send a genetically engineered soldier back into the past, and help hold back the invasion. But, as the final preparations for this Alpha Command operation are underway, alarms light up in the orbital control-station where the last humans hide the aliens are back for dinner.</desc>
+		<rating>0.7</rating>
+		<releasedate>19981020T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Body Harvest (U) [!].jpg</image>
+		<video>./snaps/Body Harvest (U) [!].mp4</video>
+	</game>
+	<game>
+		<path>./Conker's Bad Fur Day (USA).z64</path>
+		<name>Conker's Bad Fur Day</name>
+		<sortname />
+		<desc>Unlike every other Nintendo game ever made, Conker sees his first outing on the N64 with a mature audience in mind. But don't let the violence get in your way of playing this title, which is much like other Rare platformers including Banjo-Kazooie, with a twist. In this case, Conker has had one hell of a night, and when he wakes up not only does he have a huge hangover, but something just doesn't feel right. So it's up to Conker and his many skills to clean things up.</desc>
+		<rating>0.8</rating>
+		<releasedate>20010305T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Rareware</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Conker's Bad Fur Day (USA).jpg</image>
+		<video>./snaps/Conker's Bad Fur Day (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong 64 (USA).v64</path>
+		<name>Donkey Kong 64</name>
+		<sortname />
+		<desc>K. Rool has kidnapped the Kongs! Can Donkey Kong rescue his friends, reclaim the Golden Bananas and save his homeland from certain doom? Take out some Kremlings with Chunky's Pineapple Launcher or Lanky's Trombone. Float through the air using Tiny's Ponytail Twirl. Even rocket to the sky with Diddy's Jetbarrel!</desc>
+		<rating>0.75</rating>
+		<releasedate>19991122T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-4</players>
+		<image>./boxart/Donkey Kong 64 (USA).jpg</image>
+		<video>./snaps/Donkey Kong 64 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Harvest Moon 64 (USA).z64</path>
+		<name>Harvest Moon 64</name>
+		<sortname />
+		<desc>Your objective is to restore a run-down farm that you've inherited from your grandfather, who has died recently. In the village many people help you out on your long journey. During this time you can attend festivals, race in horse races, farm, tend to your livestock, add to your house, get married, or maybe even have a child. There are 5 beautiful women to be chosen from, each having their own jobs and personalities. At the end the player's parents come by and rate them after 2 and a half years of performance. The option then exists either to keep going or stop there. The real question is if you're up for the challenge.</desc>
+		<rating>0.75</rating>
+		<releasedate>19991222T000000</releasedate>
+		<developer>Pack In Video</developer>
+		<publisher>Natsume</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Harvest Moon 64 (USA).jpg</image>
+		<video>./snaps/Harvest Moon 64 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Jet Force Gemini (U) [!].z64</path>
+		<name>Jet Force Gemini</name>
+		<sortname />
+		<desc>Twins Juno and Vela, and their dog Lupus, are Jet Force Gemini, intergalactic police. Their mission? Stop the evil space bug, Mizar, from his goal of galactic conquest with his seemingly-infinite army of Drones. They'll have to stop along multiple planets along the way, and assisting King Jeff and rescuing his subjects, the Tribals.</desc>
+		<rating>0.75</rating>
+		<releasedate>19991011T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Jet Force Gemini (U) [!].jpg</image>
+		<video>./snaps/Jet Force Gemini (U) [!].mp4</video>
+	</game>
+	<game>
+		<path>./Micro Machines 64 Turbo (USA).n64</path>
+		<name>Micro Machines 64 Turbo</name>
+		<sortname />
+		<desc>With a quirky mix of toy car racers and sophisticated gameplay, Micro Machines 64 Turbo guarantees to be a refreshing addition to the stable of standard racing games. The wide variety of vehicles featured includes Formula 1 racers, speed boats, monster trucks, tanks, and ice cream trucks. Choose from 25 whimsical tracks, which run the gamut from a kitchen table to a chemistry lab, each including the appropriate props to match the d¿cor. Such detail rich touches keep this game interesting, even to the most jaded gamer. Belying the kiddie car appearance, the game requires you to plan strategically if you want to emerge the winner, making good use of the weapons at your disposal.</desc>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Racing</genre>
+		<players>1-8</players>
+		<image>./boxart/Micro Machines 64 Turbo (USA).jpg</image>
+		<video>./snaps/Micro Machines 64 Turbo (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pilotwings 64 (U) [!].z64</path>
+		<name>Pilotwings 64</name>
+		<sortname />
+		<desc>PilotWings 64 is the update to the original PilotWings for SNES. The gameplay is somewhere between a flight simulation and an action/arcade experience. Players start with a limited number of craft and earn access to other craft and bonuses upon successful completion of set criteria.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960929T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Pilotwings 64 (U) [!].jpg</image>
+		<video>./snaps/Pilotwings 64 (U) [!].mp4</video>
+	</game>
+	<game>
+		<path>./SpaceStation Silicon Valley (USA).z64</path>
+		<name>SpaceStation Silicon Valley</name>
+		<sortname />
+		<desc>Long ago, scientists created a living space station, full of animals. After its launch into space, the station vanished, never to be seen again.</desc>
+		<rating>0.9</rating>
+		<releasedate>19981021T000000</releasedate>
+		<developer>Rockstar North</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/SpaceStation Silicon Valley (USA).jpg</image>
+		<video>./snaps/SpaceStation Silicon Valley (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Star Fox 64 (USA) (Rev 1).v64</path>
+		<name>Star Fox 64</name>
+		<sortname />
+		<desc>The Lylat system has been invaded! Join Fox McCloud and his Star Fox team as they fight to save the galaxy from the clutches of the evil Andross. Travel to many different 3-D worlds. Battle the enemy in the air and on the ground and listen in as Fox McCloud interacts with a cast of characters.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970630T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-4</players>
+		<image>./boxart/Star Fox 64 (USA) (Rev 1).jpg</image>
+		<video>./snaps/Star Fox 64 (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario 64 (USA).v64</path>
+		<name>Super Mario 64</name>
+		<sortname />
+		<desc>Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive sound track, Super Mario 64 becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch nemesis - Bowser, King of the Koopas!</desc>
+		<rating>0.8</rating>
+		<releasedate>19960926T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Super Mario 64 (USA).jpg</image>
+		<video>./snaps/Super Mario 64 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mario Kart 64 (USA).v64</path>
+		<name>Mario Kart 64</name>
+		<sortname />
+		<desc>Eight familiar faces, including Mario, Bowser and Yoshi, on four progressively tougher four-track circuits. Wide curves and gentle banks mark the Mushroom Cup tracks. Your commute gets notably tougher on the Flower Cup, though. The player will have to dodge semis rumbling on Toad's Turnpike and bounding boulders on fogbound Choco Mountain! Star Cup tracks range from the icy surfaces of Sherbet Land to the lava lakes of Bowser's Castle. The true test of karting competence, though, comes on the four tracks in Special Cup.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970210T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>1-4</players>
+		<image>./boxart/Mario Kart 64 (USA).jpg</image>
+		<video>./snaps/Mario Kart 64 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Diddy Kong Racing (USA) (En,Fr) (Rev A).z64</path>
+		<name>Diddy Kong Racing</name>
+		<sortname />
+		<desc>It's an island takeover when the evil space wizard, Wizpig, discovers Tiger Island! After the islands prized racetracks become sealed up, Timber Tiger contacts his friend Diddy Kong to help him reclaim the racetracks and save the island before his parents return. Along for the ride are the Kremling spy Krunch, Bumper Badger, Banjo (prior to meeting Kazooie in Banjo-Kazooie), pre-sweary Conker, Tiptup Turtle, and Pipsy Mouse.</desc>
+		<rating>0.75</rating>
+		<releasedate>19971124T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>1-4</players>
+		<image>./boxart/Diddy Kong Racing (USA) (En,Fr) (Rev A).jpg</image>
+		<video>./snaps/Diddy Kong Racing (USA) (En,Fr) (Rev A).mp4</video>
+	</game>
+	<game>
+		<path>./Kirby 64 - The Crystal Shards (U) [!].z64</path>
+		<name>Kirby 64: The Crystal Shards</name>
+		<sortname />
+		<desc>Dart past enemies, soar the skies and swim the depths of the ocean as Kirby takes on Dark Matter in an all-new adventure. Inhale, exhale and swallow your enemies, then copy and combine their abilities and use them as your own! Team up with familiar friends and foes - like Waddle Dee and King Dedede - as you travel through dreamy worlds in search of the lost Crystal Shards.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Kirby 64 - The Crystal Shards (U) [!].jpg</image>
+		<video>./snaps/Kirby 64 - The Crystal Shards (U) [!].mp4</video>
+	</game>
+	<game>
+		<path>./Rocket - Robot on Wheels (U) [!].z64</path>
+		<name>Rocket: Robot on Wheels</name>
+		<sortname />
+		<desc>Whoopie World, the greatest amusement park ever, is ready to open, but second-banana park mascot, Jojo the Raccoon, has gone nuts. He's taken over the park! Can Rocket, the most advanced amusement park robot ever, save the day? Rocket's a one wheel wonder with double-jump booster rockets and 7 cool cars to drive. He's got a tractor beam that can pick up almost anything, swing from ledges, trees, even toss freeze &amp; smash objects. Rocket's got the moves &amp; he's got the tools to make things right.</desc>
+		<rating>0.8</rating>
+		<releasedate>19991031T000000</releasedate>
+		<developer>Sucker Punch Productions</developer>
+		<publisher>Sucker Punch Productions</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Rocket - Robot on Wheels (U) [!].jpg</image>
+		<video>./snaps/Rocket - Robot on Wheels (U) [!].mp4</video>
+	</game>
+	<game>
+		<path>./Star Wars - Rogue Squadron (USA) (Rev 1).v64</path>
+		<name>Star Wars: Rogue Squadron</name>
+		<sortname />
+		<desc>Fly against the evil Empire! As Luke Skywalker, co-founder of the Rebel Alliance's elite Rogue Squadron, you must combat the evil Galactic Empire! Engage in intense, fast-paced planetary air-to-ground and air-to-air missions - dogfights, search and destroy, reconnaissance, bombing runs, rescue assignments and more! Pilot X-wings, Y-wings, A-wings, V-wings and Snowspeeders with powerful weapons in over 15 missions battling TIE fighters, TIE bombers, Imperial shuttles, AT-AT walkers, AT-STs and other challenging foes.</desc>
+		<rating>0.9</rating>
+		<releasedate>19981207T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Star Wars - Rogue Squadron (USA) (Rev 1).jpg</image>
+		<video>./snaps/Star Wars - Rogue Squadron (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Snowboard Kids (U) [!].z64</path>
+		<name>Snowboard Kids</name>
+		<sortname />
+		<desc>A racing game where you control one of five cutesy snowboarders competing against each other. Being a snowboarding game, each track is a downhill slalom with a ski lift at the bottom which takes you back to the start for however many laps a track has.</desc>
+		<rating>0.85</rating>
+		<releasedate>19980315T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Snowboard Kids (U) [!].jpg</image>
+		<video>./snaps/Snowboard Kids (U) [!].mp4</video>
+	</game>
+	<game>
+		<path>./Resident Evil 2 (USA) (Rev A).z64</path>
+		<name>Resident Evil 2</name>
+		<sortname />
+		<desc>Ready or not, the terror of Resident Evil 2 is here. In chapter one, the case of the disastrous T-virus outbreak--a mutagenic toxin designed for biological weapons--was eventually closed but the experiments were far from over. Control the destiny of Leon Kennedy or Claire Redfield as their nightmare begins when a biotech terror runs rampant in Raccoon City. Relentless zombies and hideous monsters are all out for a taste of your blood. If the suspense doesn't kill you, something else will.</desc>
+		<rating>0.9</rating>
+		<releasedate>19991031T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Resident Evil 2 (USA) (Rev A).jpg</image>
+		<video>./snaps/Resident Evil 2 (USA) (Rev A).mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).v64</path>
+		<name>The Legend of Zelda: Ocarina of Time</name>
+		<sortname>The Legend of Zelda 1</sortname>
+		<desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule. He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce. As the young hero Link, it is your destiny to thwart Ganondorf's evil schemes. Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora's Domain.</desc>
+		<rating>0.95</rating>
+		<releasedate>19981123T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).jpg</image>
+		<video>./snaps/Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Majora's Mask (USA).v64</path>
+		<name>The Legend of Zelda: Majora's Mask</name>
+		<sortname>The Legend of Zelda 2</sortname>
+		<desc>Thrown into a parallel world by the mischievous actions of a possessed Skull Kid, Link finds a land in grave danger. The dark power of a relic called Majora's Mask has wreaked havoc on the citizens of Termina, but their most urgent problem is a suicidal moon crashing toward the world. Link has only 72 hours to find a way to stop its descent.</desc>
+		<rating>0.95</rating>
+		<releasedate>20001026T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Legend of Zelda, The - Majora's Mask (USA).jpg</image>
+		<video>./snaps/Legend of Zelda, The - Majora's Mask (USA).mp4</video>
+	</game>
+	<game>
+		<path>./International Superstar Soccer 2000 (USA) (En,Es) (Rev 1).z64</path>
+		<name>International Superstar Soccer 2000</name>
+		<sortname />
+		<desc>The undisputed king of football returns, experience the new Career Mode, bring youngsters through the ranks to create individual star players. Smoother animations and gameplay. ISS 2000 is the choice of champions and nothing gets as close to the beautiful game.</desc>
+		<rating>0.7</rating>
+		<releasedate>20000803T000000</releasedate>
+		<developer>KCEO</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/International Superstar Soccer 2000 (USA) (En,Es) (Rev 1).jpg</image>
+		<video>./snaps/International Superstar Soccer 2000 (USA) (En,Es) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Mario Party 2 (USA).z64</path>
+		<name>Mario Party 2</name>
+		<sortname />
+		<desc>Mario and a range of well known Nintendo characters, including Yoshi, Bowser, Luigi, and Wario return for some more party action. The second edition includes 5 new boards, each with a specific theme, such as Space Land, Western Land, Horror Land, and Mystery Land. Each board includes unique attributes in relation to the theme, but the main goal is the same: complete the board game over a certain amount of moves and be the player to have the most coins and/or stars at the end.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000124T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Mario Party 2 (USA).jpg</image>
+		<video>./snaps/Mario Party 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mario Tennis (USA).z64</path>
+		<name>Mario Tennis</name>
+		<sortname />
+		<desc>Choose your favourite Nintendo character and take to the world of tennis. Game types include ring shot (where you must shoot the ball through golden hoops that are suspended above the play area, gaining bonus points as you play), bomb tennis (simply put Tennis with Bombs) and Piranha Challenge (much like the tennis machines which chuck balls at you, but in this case they are replaced with Piranha plants). Of course, there is your normal tournament mode, with up to 4 players in on the action, and some crazy arenas, especially Bowser's Castle, which is suspended above a lava pit.</desc>
+		<rating>0.75</rating>
+		<releasedate>20000828T000000</releasedate>
+		<developer>Camelot Software</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Mario Tennis (USA).jpg</image>
+		<video>./snaps/Mario Tennis (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mickey's Speedway USA (USA).z64</path>
+		<name>Disney's Mickey's Speedway USA</name>
+		<sortname />
+		<desc>The Weasels have kidnapped Pluto while he was wearing his diamond collar! All that was left of him was a ransom note showing the Weasels driving him away in a van. Mickey rounds up all of his friends (and even Pete wants to get in on the action!), and Professor Von Drake soups up their race cars so that they can catch up with the Weasels as they go on a cross-country tour of the United States. The Weasels have also stolen four parts of the Professor's top-secret racer, and hidden them in four of the tracks. Once players find all these pieces, they can catch up with the Weasels in the final showdown.</desc>
+		<rating>0.8</rating>
+		<releasedate>20001113T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Rareware</publisher>
+		<genre>Racing</genre>
+		<players>1-4</players>
+		<image>./boxart/Mickey's Speedway USA (USA).jpg</image>
+		<video>./snaps/Mickey's Speedway USA (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon Snap (USA).z64</path>
+		<name>Pokémon Snap</name>
+		<sortname />
+		<desc>The Professor has asked you to capture the Wild Pokemon of Pokémon island on film! Tour the island in your ZERO-ONE vehicle and snap pictures of Pokémon in their natural habitat. Wild Pokémon are often camera-shy, so you'll have to use special items to bring them out in the open. Only the best shots will do for the Professor's Pokémon Report, so sharpen your photography skills and get ready to SNAP!</desc>
+		<rating>0.7</rating>
+		<releasedate>19990630T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Pokemon Snap (USA).jpg</image>
+		<video>./snaps/Pokemon Snap (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Gauntlet Legends (USA).z64</path>
+		<name>Gauntlet Legends</name>
+		<sortname />
+		<desc>Sumner's brother Garm releases Skorne from the Underworld. Sumner has summoned the four mighty heroes (a warrior, a valkyrie, a wizard, and an archer) to stop Skorne from taking over the land. They must travel to the four realms of the land and free them from Skorne's four guardians. Once the guardians are destroyed, their keys unlock a desecrated temple, where the heroes battle Skorne. After facing defeat, however, Skorne flees back to the Underworld. The heroes must then find the 13 runestones that will open the Underworld, where they face Skorne again and destroy him for good.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990831T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Midway</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-4</players>
+		<image>./boxart/Gauntlet Legends (USA).jpg</image>
+		<video>./snaps/Gauntlet Legends (USA).mp4</video>
+	</game>
+	<game>
+		<path>./WWF No Mercy (USA) (Rev 1).v64</path>
+		<name>WWF No Mercy</name>
+		<sortname />
+		<desc>The last wrestling title made by the team of THQ and AKI allows players to compete for 7 different WWF Titles with each belt getting its own unique story. Stories can be replayed, allowing players to defend their title in a storyline. Upon successful completion of a story mode, players will unlock the title they were competing for in Exhibition mode where titles can be won and defended as the players see fit.</desc>
+		<rating>0.75</rating>
+		<releasedate>20001117T000000</releasedate>
+		<developer>AKI Corporation</developer>
+		<publisher>THQ</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/WWF No Mercy (USA) (Rev 1).jpg</image>
+		<video>./snaps/WWF No Mercy (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Super Smash Bros. (USA).v64</path>
+		<name>Super Smash Bros.</name>
+		<sortname />
+		<desc>Super Smash Brothers takes familiar Nintendo characters such as Mario, Kirby and Donkey Kong, and puts them into battle! There are 8 fully-interactive landscapes, with one for each character and noticeable links to their games. Controls are analogue-based, with different moves executed depending on the direction and how firmly the stick is pressed. Items like baseball bats, Bob-ombs, and healing items drop into the arenas at random, aiding any nearby characters than can make use of them. The game uses a fixed viewpoint which scrolls, although characters are rendered in 3D.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990426T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Fighting</genre>
+		<players>1-4</players>
+		<image>./boxart/Super Smash Bros. (USA).jpg</image>
+		<video>./snaps/Super Smash Bros. (USA).mp4</video>
+	</game>
+	<game>
+		<path>./1080 TenEighty Snowboarding (Japan, USA) (En,Ja).n64</path>
+		<name>1080° TenEighty Snowboarding</name>
+		<desc>1080° Snowboarding is a snowboard racing game. The player will find 6 downhill slopes and a half-pipe as courses, several characters to choose from, and be able to perform more than 25 tricks. After choosing a character and a board among the available eight, the player can compete in a variety of events.</desc>
+		<image>./boxart/1080 TenEighty Snowboarding (Japan, USA) (En,Ja).jpg</image>
+		<video>./snaps/1080 TenEighty Snowboarding (Japan, USA) (En,Ja).mp4</video>
+		<rating>0.85</rating>
+		<releasedate>19980401T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<playcount>6</playcount>
+		<lastplayed>20220223T113254</lastplayed>
+	</game>
+	<game>
+		<path>./F-Zero X (USA).v64</path>
+		<name>F-Zero X</name>
+		<desc>Famed SNES racer F-Zero got this N64 update. Gameplay remains essentially unchanged, race in a futuristic racing tournament on tracks levitated miles up in the air, against a selection of devious opponents.</desc>
+		<image>./boxart/F-Zero X (USA).jpg</image>
+		<video>./snaps/F-Zero X (USA).mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19981026T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>1-4</players>
+		<playcount>1</playcount>
+		<lastplayed>20220223T113424</lastplayed>
+	</game>
+	<game>
+		<path>./GoldenEye 007 (USA).v64</path>
+		<name>GoldenEye 007</name>
+		<desc>The name is Bond. James Bond. The famous hero of Ian Fleming's novels returns in this first-person shooter, which is based on the movie of the same name. Agent 007 and his friend Alec Trevalyan (a.k.a. Agent 006) were sent to Soviet Union on a secret mission. But everything goes wrong, James Bond barely escapes, and his friend is presumed dead.</desc>
+		<image>./boxart/GoldenEye 007 (USA).jpg</image>
+		<video>./snaps/GoldenEye 007 (USA).mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19970825T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<playcount>1</playcount>
+		<lastplayed>20220223T113654</lastplayed>
+	</game>
+	<game>
+		<path>./Perfect Dark (USA) (Rev 1).v64</path>
+		<name>Perfect Dark</name>
+		<desc>Joanna Dark is an agent for the Carrington Institute, a secret organization funded by anonymous sources and dedicated to protecting the world. Through their highly trained operatives and special devices (gadgets), Carrington keeps an eye on terrorists, world powers, and strange happenings. The speed in which the dataDyne corporation has established itself through the development of new technologies is starting to worry the institute. So when Carrington receives a message from Dr. Caroll, a scientist wishing to escape dataDyne, they send their best agent, Joanna, to infiltrate the company headquarters.</desc>
+		<image>./boxart/Perfect Dark (USA) (Rev 1).jpg</image>
+		<video>./snaps/Perfect Dark (USA) (Rev 1).mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20000522T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<playcount>1</playcount>
+		<lastplayed>20220223T113445</lastplayed>
+	</game>
+	<game>
+		<path>./Wave Race 64 (USA) (Rev A).z64</path>
+		<name>Wave Race 64</name>
+		<desc>Wave Race 64 is sure to provide some of the most exciting racing you've ever experienced. Feel the pounding and crashing of the waves as you accelerate into straight-aways, whip around the marker buoys and go airborne on the jump ramps. Don't race alone - challenge a friend! Take control in three different modes of play - Championship, Time Trials and Stunt Mode. Nine challenging courses set in exotic locales - race conditions change and the wave action responds to the way both you and your opponents race!</desc>
+		<image>./boxart/Wave Race 64 (USA) (Rev A).jpg</image>
+		<video>./snaps/Wave Race 64 (USA) (Rev A).mp4</video>
+		<rating>0.85</rating>
+		<releasedate>19961101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>1-4</players>
+		<playcount>1</playcount>
+		<lastplayed>20220223T113504</lastplayed>
+	</game>
+	<game>
+		<path>./WCW-nWo Revenge (USA).n64</path>
+		<name>WCW/nWo Revenge</name>
+		<desc>WCW/nWo Revenge is the much anticipated sequel to THQ's smash "WCW Vs NWO: World Tour". With greatly improved graphics, animation, roster, control and much anticipated 40 man 'battle royal', Revenge is a definite step up over it's predecessor. Take control of one of 50 WCW wrestlers (and 10+ fictional wrestlers) such as Sting or Hollywood Hogan and battle through for any of the 5 different title belts with full statistical tracking of wins/losses/draws and new replay mode you can gloat in your victory or powerful move over and over again.</desc>
+		<image>./boxart/WCW-nWo Revenge (USA).jpg</image>
+		<video>./snaps/WCW-nWo Revenge (USA).mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19981030T000000</releasedate>
+		<developer>Asmik</developer>
+		<publisher>Asmik</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<playcount>1</playcount>
+		<lastplayed>20220223T113522</lastplayed>
+	</game>
+</gameList>

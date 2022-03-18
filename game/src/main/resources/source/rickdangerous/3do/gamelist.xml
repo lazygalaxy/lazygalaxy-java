@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>3DO</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Immercenary - Combat in a Digital World (USA).chd</path>
+		<name>Immercenary: Combat in a Digital World</name>
+		<sortname />
+		<desc>In the future, mankind has been enslaved in a virtual reality simulation known as Perfect. This simulation is controlled by an entity known as Perfect1 and it has to be destroyed in order to shut down the system. You are Immercenary Number Five, and it's your job to do it.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Five Miles Out</developer>
+		<publisher>EA Games</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Immercenary - Combat in a Digital World (USA).jpg</image>
+		<video>./snaps/Immercenary - Combat in a Digital World (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Lucienne's Quest (USA).chd</path>
+		<name>Lucienne's Quest</name>
+		<sortname />
+		<desc>Follow the story of an absent-minded young sorceress Lucienne and her gang of misfit monsters, as they try to stop the evil mage Death Shadow from destroying the world.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Panasonic</developer>
+		<publisher>MicroCabin</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Lucienne's Quest (USA).jpg</image>
+		<video>./snaps/Lucienne's Quest (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Space Hulk - Vengeance of the Blood Angels (USA).chd</path>
+		<name>Space Hulk: Vengeance of the Blood Angels</name>
+		<sortname />
+		<desc>Space Hulk: Vengeance of the Blood Angels is a mix of a First-Person-Shooter and a tactical fighting game. It is placed in the Warhammer 40k background of the Games Workshop table top games. It is the successor of the PC game Space Hulk from 1993 and it tells of the fight between the imperial Terminator Chapters and the Tyranid Gene Stealers. You control up to ten Terminators. You give them orders in a tactical screen and/or take over one of them and then move in a 3D environment and fight the Gene Stealers just as in a First- Person-Shooter. So the game includes tactical planning and fighting in a good balance.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Key Game</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Space Hulk - Vengeance of the Blood Angels (USA).jpg</image>
+		<video>./snaps/Space Hulk - Vengeance of the Blood Angels (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Star Control II (USA).chd</path>
+		<name>Star Control II</name>
+		<sortname />
+		<desc>Following the on-going war of the first Star Control game, the Alliance has lost. The Ur-Quan armada systematically hunts down the alliance races and imprisons them onto their homeworlds, including Earth. However unknown to the Ur-Quan, during the war, a small research vessel had been lost while sent to a distant star system looking for evidence of the ancient Precursor race. The survivors of this research team had come across the controls to a Starship factory and used it to build a Precursor supply vessel: one of the largest vessels in the galaxy. It's time for these Terrans to return to Earth.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Accolade</developer>
+		<publisher>Crystal Dynamics</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Star Control II (USA).jpg</image>
+		<video>./snaps/Star Control II (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Horde, The (USA).chd</path>
+		<name>Horde, The</name>
+		<sortname />
+		<desc>You are Chauncey, a serving lad who saves his monarch from choking on his meal. The King rewards you with his magical sword, Grimthwacker, and a village, and the mission to go forth and prosper by felling waves of Hordlings, who are bent on eating everything in the province. The better you get at defending villagers, crops, and cows from Hordlings, the better equipped you become. Success wins you further favor from the King, along with bigger challenges and more enmity from the evil High Chancellor. There are several types of Hordlings, each with their peculiar style of picking through the edibles under your care. Success is measured by how many villagers and crops survive each season's gluttonous attacks.</desc>
+		<rating>0.65</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Toys For Bob</developer>
+		<publisher>Crystal Dynamics</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Horde, The (USA).jpg</image>
+		<video>./snaps/Horde, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Incredible Machine, The (USA).chd</path>
+		<name>Incredible Machine, The</name>
+		<sortname />
+		<desc>The Incredible Machine is a puzzle game where the player has to assemble a Rube Goldberg-type contraption to solve a simple puzzle.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Dynamix</developer>
+		<publisher>Dynamix</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Incredible Machine, The (USA).jpg</image>
+		<video>./snaps/Incredible Machine, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Starblade (Canada).chd</path>
+		<name>Starblade</name>
+		<sortname />
+		<desc>Sitting in the gunner position of a "GeoSword" fightercraft, you must shoot your way through the enemy armada and bring the fight to their base planet, Redeye. Altogether you'll have around 10 missions to get through before the galaxy is safe and your wingmen will help you along the way. And during those missions, you'll be expected to shoot out the sides of huge enemy battlecruisers, travel inside of enemy carriers and travel through the canyons of Redeye to deliver your payload.</desc>
+		<rating>0.95</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Panasonic</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Starblade (Canada).jpg</image>
+		<video>./snaps/Starblade (Canada).mp4</video>
+	</game>
+	<game>
+		<path>./Road Rash (USA).chd</path>
+		<name>Road Rash</name>
+		<sortname />
+		<desc>This is a remake of the original Road Rash from the early nineties. For those who have not played the original, you are competing against thirteen other "Road Rashers" who will stop at nothing to win 1st, 2nd, or 3rd place. During the race, you have two options available to you: you can either do your best to cross the finish line, or use your weapon to bring the Rashers to the ground if they are giving you trouble. If you do the latter, your opponents will do the same to you during the next race that takes place.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Monkey Do Productions</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Road Rash (USA).jpg</image>
+		<video>./snaps/Road Rash (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Flashback - The Quest for Identity (USA) (En,Fr).chd</path>
+		<name>Flashback: The Quest for Identity</name>
+		<sortname />
+		<desc>Flashback is a platform action adventure. You navigate Conrad over the platforms, performing various moves. You can simply jump or do a longer run-and-jump, run, climb, hang off ledges, and pick up objects lying on the ground. To defend yourself, you shoot enemies with your gun and also use various objects (such as stones) to harm or to distract them.</desc>
+		<rating>0.85</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>Delphine Software International</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Flashback - The Quest for Identity (USA) (En,Fr).jpg</image>
+		<video>./snaps/Flashback - The Quest for Identity (USA) (En,Fr).mp4</video>
+	</game>
+	<game>
+		<path>./Jurassic Park Interactive (USA).chd</path>
+		<name>Jurassic Park Interactive</name>
+		<sortname />
+		<desc>Based on its namesake film, Jurassic Park Interactive places you as a park security guard and tasks you with guiding five to eleven visitors (based on the skill level you chose) to the safety of the helipad. You select each visitor from an overhead map, and must play one of three randomly-selected minigames to determine if they successfully make it to the next safe house.</desc>
+		<rating>0.55</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>3DO</developer>
+		<publisher>Universal</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Jurassic Park Interactive (USA).jpg</image>
+		<video>./snaps/Jurassic Park Interactive (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Captain Quazar (USA).chd</path>
+		<name>Captain Quazar</name>
+		<sortname />
+		<desc>The idea behind Captain Quazar is simple, from a 3/4 overhead view control the Captain, kill the bad guys and save the day. Everything in this huge galaxy can be blown away, but be careful where you lay waste, because you have to manage your resources to survive.</desc>
+		<rating>1</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Cyclone Studios</developer>
+		<publisher>Panasonic</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Captain Quazar (USA).jpg</image>
+		<video>./snaps/Captain Quazar (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Killing Time (USA) (RE1).chd</path>
+		<name>Killing Time</name>
+		<sortname />
+		<desc>In the early 1930's, Tess Conway, obsessed with ancient Egypt, and her guests vanished without trace, right in the middle of a wild party on the Conway island estate. Sixty years after this events it's your mission to investigate the strange events that took place in those days.</desc>
+		<rating>0.95</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Panasonic</developer>
+		<publisher>Panasonic</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Killing Time (USA) (RE1).jpg</image>
+		<video>./snaps/Killing Time (USA) (RE1).mp4</video>
+	</game>
+	<game>
+		<path>./Star Fighter (USA, Europe).chd</path>
+		<name>Star Fighter</name>
+		<sortname />
+		<desc>3037. FedNet is now in control of the federation, and at an attempt to gain trust of the population following decades of corruption and warfare, the FedNet Space Corps were sent to the outermost planets to crush the small-time warlords still running the show there. After being "convinced" to join them in a tour of duty, he is assigned to an elite flight group with the only purpose of testing the most cutting edge technology.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>The World Federation Entertainments Network</developer>
+		<publisher>3DO</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Star Fighter (USA, Europe).jpg</image>
+		<video>./snaps/Star Fighter (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D (USA).chd</path>
+		<name>Wolfenstein 3D</name>
+		<sortname />
+		<desc>Inspired by the top-down infiltration game Castle Wolfenstein, this episodic first-person shooter (FPS) puts the player in the boots of B.J. Blazkowicz, an allied spy. There are six episodes (the first distributed complete as shareware), the second, and the third available after registration and the three final missions (which happen before the events of the first episode) available in the "Nocturnal Missions" pack. However, they do not need to be played in sequence to be enjoyed!</desc>
+		<rating>0.9</rating>
+		<releasedate>19951019T000000</releasedate>
+		<developer>Interplay</developer>
+		<publisher>id Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Wolfenstein 3D (USA).jpg</image>
+		<video>./snaps/Wolfenstein 3D (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Return Fire (USA).chd</path>
+		<name>Return Fire</name>
+		<sortname />
+		<desc>Return Fire is the spiritual successor to Fire Power and it fits in both the strategy and action genres. You can take control of one of 4 vehicles, a jeep, helicopter, tank and a missile launching vehicle (but actually called The Armoured Support Vehicle (ASV).</desc>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Silent Software</developer>
+		<publisher>Time Warner Interactive</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Return Fire (USA).jpg</image>
+		<video>./snaps/Return Fire (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Out of this World (USA) (3DO Maniac Pack) (RE).chd</path>
+		<name>Out of this World</name>
+		<sortname />
+		<desc>Another World (Out of This World in the US) combines shooting, platforming, and puzzle-solving elements. The game is divided into stages; some of them are straightforward and can only be accessed one time, while others are connected to each other, constituting a larger environment. Exploration and problem-solving are emphasized. Many levels include challenges not seen in the previous ones. Tasks may involve environmental puzzles, timed sequences, precise jumping, and combat.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>Interplay</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Out of this World (USA) (3DO Maniac Pack) (RE).jpg</image>
+		<video>./snaps/Out of this World (USA) (3DO Maniac Pack) (RE).mp4</video>
+	</game>
+	<game>
+		<path>./Super Street Fighter II Turbo (USA).chd</path>
+		<name>Super Street Fighter II Turbo</name>
+		<sortname />
+		<desc>Fighting game ported from the classic and wildly popular "Street Fighter 2" franchise. Choose from a variety of characters and use their fighting skills to beat opponents and become the world champion fighter.</desc>
+		<rating>0.85</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Street Fighter II Turbo (USA).jpg</image>
+		<video>./snaps/Super Street Fighter II Turbo (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Gex (USA, Europe).chd</path>
+		<name>Gex</name>
+		<sortname />
+		<desc>Enter your television to defeat the evil Rez by collecting remotes to open worlds inside your tv. You are a gecko with all the usual platform hero skills such as jump, fire and close range attack, but also suction cups to help you scale walls, a tongue to pick up those tricky to get power-ups and plenty of wise-cracks to keep you amused. Use them all to make your way through TV land searching for the remotes, collecting pickups, power-ups and killing TVs.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Crystal Dynamics</developer>
+		<publisher>Crystal Dynamics</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Gex (USA, Europe).jpg</image>
+		<video>./snaps/Gex (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./BattleSport (USA).chd</path>
+		<name>Battlesport</name>
+		<sortname />
+		<desc>Battlesport simulates the sport of the future. Choose your vehicle and enter the arena to face your computer opponents to see who scores the most goals before the clock runs out.</desc>
+		<rating>0.95</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Cyclone Studios</developer>
+		<publisher>Panasonic</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/BattleSport (USA).jpg</image>
+		<video>./snaps/BattleSport (USA).mp4</video>
+	</game>
+	<game>
+		<path>./D (USA, Europe) (Disc 1).chd</path>
+		<name>D (Disc 1)</name>
+		<sortname />
+		<desc>D is an interactive movie which features adventure game elements, a horror genre storyline, and heavy use of full motion video. The player takes on the role of Laura Harris, played by a digital actress named Laura that appears in games by Warp, although the stories are unrelated. The player directs Laura's movements as she explores the game's environment, solves puzzles, and unravels the story.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Panasonic</developer>
+		<publisher>WARP</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/D (USA, Europe) (Disc 1).jpg</image>
+		<video>./snaps/D (USA, Europe) (Disc 1).mp4</video>
+	</game>
+	<game>
+		<path>./D (USA, Europe) (Disc 2).chd</path>
+		<name>D (Disc 2)</name>
+		<sortname />
+		<desc>D is an interactive movie which features adventure game elements, a horror genre storyline, and heavy use of full motion video. The player takes on the role of Laura Harris, played by a digital actress named Laura that appears in games by Warp, although the stories are unrelated. The player directs Laura's movements as she explores the game's environment, solves puzzles, and unravels the story.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Panasonic</developer>
+		<publisher>WARP</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/D (USA, Europe) (Disc 2).jpg</image>
+		<video>./snaps/D (USA, Europe) (Disc 2).mp4</video>
+	</game>
+	<game>
+		<path>./Shockwave 2 - Beyond the Gate (USA) (Disc 01).chd</path>
+		<name>Shockwave 2: Beyond the Gate (Disc 1)</name>
+		<desc>It has been twenty years since the invading aliens have been driven back through the jumpgate. On a planet close to the dormant gate, an alien artifact is found. When unknown aliens steal the artifact, privateer Captain Flint of the spaceship Cortez and his crew follow their ship through the jumpgate, which leaves them stranded in an unknown star system. To find their way back, they have to find the artifact and the aliens.</desc>
+		<image>./boxart/Shockwave 2 - Beyond the Gate (USA) (Disc 01).jpg</image>
+		<video>./snaps/Shockwave 2 - Beyond the Gate (USA) (Disc 01).mp4</video>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220222T134710</lastplayed>
+	</game>
+	<game>
+		<path>./Shockwave 2 - Beyond the Gate (USA) (Disc 02).chd</path>
+		<name>Shockwave 2: Beyond the Gate (Disc 2)</name>
+		<desc>It has been twenty years since the invading aliens have been driven back through the jumpgate. On a planet close to the dormant gate, an alien artifact is found. When unknown aliens steal the artifact, privateer Captain Flint of the spaceship Cortez and his crew follow their ship through the jumpgate, which leaves them stranded in an unknown star system. To find their way back, they have to find the artifact and the aliens.</desc>
+		<image>./boxart/Shockwave 2 - Beyond the Gate (USA) (Disc 02).jpg</image>
+		<video>./snaps/Shockwave 2 - Beyond the Gate (USA) (Disc 02).mp4</video>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220222T134528</lastplayed>
+	</game>
+	<game>
+		<path>./SnowJob (Europe) (Disc 1).chd</path>
+		<name>Snow Job Starring Tracy Scoggins (Disc 1)</name>
+		<desc>Murder. Drugs. Sex. Gangs. Guns. Welcome to the Big Apple. Your name is Jock LaMonte, a retired New York Cop. You are living peacefully in New Mexico when you find out your ex girlfriend, Lara Calabreze, assistant DA of the city, is on the hit list on a notorious mob boss who goes only by the name Snow Man. It is up to you to use your wits, guts, and charm to save Lara and put away the evil of New York City.</desc>
+		<image>./boxart/SnowJob (Europe) (Disc 1).jpg</image>
+		<video>./snaps/SnowJob (Europe) (Disc 1).mp4</video>
+		<rating>0.4</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>3DO</developer>
+		<publisher>3DO</publisher>
+		<genre>Adventure</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220222T134618</lastplayed>
+	</game>
+	<game>
+		<path>./SnowJob (Europe) (Disc 2).chd</path>
+		<name>Snow Job Starring Tracy Scoggins (Disc 2)</name>
+		<desc>Murder. Drugs. Sex. Gangs. Guns. Welcome to the Big Apple. Your name is Jock LaMonte, a retired New York Cop. You are living peacefully in New Mexico when you find out your ex girlfriend, Lara Calabreze, assistant DA of the city, is on the hit list on a notorious mob boss who goes only by the name Snow Man. It is up to you to use your wits, guts, and charm to save Lara and put away the evil of New York City.</desc>
+		<image>./boxart/SnowJob (Europe) (Disc 2).jpg</image>
+		<video>./snaps/SnowJob (Europe) (Disc 2).mp4</video>
+		<rating>0.4</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>3DO</developer>
+		<publisher>3DO</publisher>
+		<genre>Adventure</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220222T134645</lastplayed>
+	</game>
+	<game>
+		<path>./Cannon Fodder (Europe).chd</path>
+		<name>Cannon Fodder</name>
+		<desc>Guide a team of up to four soldiers through 72 levels of combat in this top-down action/strategy hybrid, best thought of as Lemmings crossed with Commando crossed with Dune 2. The characters are controlled indirectly using the mouse, as you activate each soldier or group of them by highlighting them, click the left button to move them to a particular spot, and the right button for them to fire guns at an enemy. You can also pick up grenades, which can be used to destroy groups of enemies or buildings (by pressing both buttons at once).</desc>
+		<image>./boxart/Cannon Fodder (Europe).jpg</image>
+		<video>./snaps/Cannon Fodder (Europe).mp4</video>
+		<rating>0.65</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sensible Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Strategy</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220226T201646</lastplayed>
+	</game>
+</gameList>

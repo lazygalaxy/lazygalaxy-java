@@ -1,0 +1,1092 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>PSP</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Shin_Megami_Tensei_Persona_3_Portable_USA_PSP-PSPKiNG.iso</path>
+		<name>Shin Megami Tensei: Persona 3 Portable</name>
+		<sortname />
+		<desc>A teenager who was orphaned as a young child returns to the city of his/her childhood. Shortly after transferring to Gekkoukan High School, he/she is attacked by Shadows--creatures that feed on the minds of their victims. The assault awakens his/her Persona, Orpheus, his/her only chance at defeating these creatures of the night.</desc>
+		<rating>0.9</rating>
+		<releasedate>20100706T000000</releasedate>
+		<developer>Ghostlight</developer>
+		<publisher>Atlus</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Shin_Megami_Tensei_Persona_3_Portable_USA_PSP-PSPKiNG.jpg</image>
+		<video>./snaps/Shin_Megami_Tensei_Persona_3_Portable_USA_PSP-PSPKiNG.mp4</video>
+	</game>
+	<game>
+		<path>./The_Sims_2_USA_PSP-ARTiSAN.iso</path>
+		<name>Sims 2, The</name>
+		<sortname />
+		<desc>A world created, customized and controlled by you is in your hands now that the Sims 2 is coming to the PSP! Explore Strangetown and uncover the secrets of this classic Sims destination as you work to build out your mansion. Keep your Sanity Meter high by fulfilling your wants and fears so that you don't have a nervous breakdown.</desc>
+		<rating>0.7</rating>
+		<releasedate>20051207T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/The_Sims_2_USA_PSP-ARTiSAN.jpg</image>
+		<video>./snaps/The_Sims_2_USA_PSP-ARTiSAN.mp4</video>
+	</game>
+	<game>
+		<path>./Ghosts_N_Goblins_EUR_PROPER_PSP-pSyPSP.iso</path>
+		<name>Ultimate Ghosts'n Goblins</name>
+		<sortname />
+		<desc>Once again, the brave knight Arthur is called into action to face the Dark Lord in order to rescue the princess.The fourth title in the series, Arthur must make numerous ghouls and monsters on his quest to save Princess Prin Prin before her life is taken by the newest Dark Lord's evil plan.Possessing the familiar moves that Arthur is known for, he must go throughout numerous levels in this latest 2D quest with new 3D rendered elements. New abilities and upgrades allow Arthur a new set of moves to face this difficult platformer, and Warp Keys allow Arthur to go back and revisit completed worlds in order to find more secrets and weapons.</desc>
+		<rating>0.8</rating>
+		<releasedate>20060908T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Ghosts_N_Goblins_EUR_PROPER_PSP-pSyPSP.jpg</image>
+		<video>./snaps/Ghosts_N_Goblins_EUR_PROPER_PSP-pSyPSP.mp4</video>
+	</game>
+	<game>
+		<path>./Ridge.Racer.PAL.PSP-PGS.iso</path>
+		<name>Ridge Racer</name>
+		<sortname />
+		<desc>Ridge Racer is about speed and cool power sliding. The game features a nice selection of 24 tracks, 58 cars and music from all previous RR-games and in all aspects is faithful to the series' spirit. There are many game modes in the game, like a world tour-mode where player competes on the courses in order to earn new cars and tracks, Time Attack where one races around the tracks against time and also a multiplayer mode, which supports the ad-hoc, meaning that up to eight players can race against each other with only one game disc, with one player hosting, and others joining.</desc>
+		<rating>0.8</rating>
+		<releasedate>20050901T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Ridge.Racer.PAL.PSP-PGS.jpg</image>
+		<video>./snaps/Ridge.Racer.PAL.PSP-PGS.mp4</video>
+	</game>
+	<game>
+		<path>./Tekken_Dark_Resurrection_USA_PSP-ARTiSAN.iso</path>
+		<name>Tekken: Dark Resurrection</name>
+		<sortname />
+		<desc>As an update, the same story as Tekken 5 is featured, with the addition of three new characters. Emilie de Rochefort seeks to destroy the Mishima Zaibatsu and end her father's financial problems. Sergei Dragunov is a member of Spetsnaz who has been ordered to capture Jin Kazama. Finally Armor King II, the brother of the original Armor King who seeks revenge on Craig Marduk for his brother's death.</desc>
+		<rating>0.85</rating>
+		<releasedate>20060725T000000</releasedate>
+		<developer>Thunder Mountain</developer>
+		<publisher>Thunder Mountain</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<image>./boxart/Tekken_Dark_Resurrection_USA_PSP-ARTiSAN.jpg</image>
+		<video>./snaps/Tekken_Dark_Resurrection_USA_PSP-ARTiSAN.mp4</video>
+	</game>
+	<game>
+		<path>./Crisis_Core_Final_Fantasy_VII_USA_READNFO_PSP-Googlecus.iso</path>
+		<name>Crisis Core: Final Fantasy VII</name>
+		<sortname />
+		<desc>The story takes place seven years before the story of Final Fantasy VII. The world is so influenced by the Shinra Company that holds all energy resources Mako and exerts unprecedented military authority. His army is composed of, among other outstanding fighters with exceptional capabilities together under the tutelage of SOLDIER. The first classes, the elite SOLDIER are icons of Shinra that crowds respect and admire.</desc>
+		<rating>0.9</rating>
+		<releasedate>20080325T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Crisis_Core_Final_Fantasy_VII_USA_READNFO_PSP-Googlecus.jpg</image>
+		<video>./snaps/Crisis_Core_Final_Fantasy_VII_USA_READNFO_PSP-Googlecus.mp4</video>
+	</game>
+	<game>
+		<path>./Lemmings_EUR_PSP-pSyPSP.iso</path>
+		<name>Lemmings</name>
+		<sortname />
+		<desc>The original Lemmings has been remade for the PSP, with new graphics. In this puzzle game, you guide a group of lemmings through increasingly complex levels. The creatures cannot be controlled directly, but you can assign skills to them, such as diving, bashing, building to make them reach the end of the level unharmed.</desc>
+		<rating>0.8</rating>
+		<releasedate>20060315T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Sony</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Lemmings_EUR_PSP-pSyPSP.jpg</image>
+		<video>./snaps/Lemmings_EUR_PSP-pSyPSP.mp4</video>
+	</game>
+	<game>
+		<path>./Dissidia_012_Duodecim_Final_Fantasy_USA_PSP-PSPKiNG.iso</path>
+		<name>Dissidia 012 [Duodecim]: Final Fantasy</name>
+		<sortname />
+		<desc>The divine conflict between harmony and discord rages, the world challenge of destiny. Fight to protect the brave souls invoked in this unique design. They are champions, cut in another fabric that constitutes the fabric of our world.</desc>
+		<rating>0.85</rating>
+		<releasedate>20110322T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<image>./boxart/Dissidia_012_Duodecim_Final_Fantasy_USA_PSP-PSPKiNG.jpg</image>
+		<video>./snaps/Dissidia_012_Duodecim_Final_Fantasy_USA_PSP-PSPKiNG.mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy - 20th Anniversary Edition (USA) (En,Ja) (FW6.00).iso</path>
+		<name>Final Fantasy: 20th Anniversary Edition</name>
+		<sortname />
+		<desc>Back in 1987, Hironobu Sakaguchi's Final Fantasy was supposed to be the last game in the Fantasy role-playing game series. However, destiny had other plans for Hironobu Sakaguchi and his creation. After twenty years and more than a dozen of canonical games the Final Fantasy franchise is still going strong and reaping the rewards of the original IP.</desc>
+		<rating>0.8</rating>
+		<releasedate>20070626T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Final Fantasy - 20th Anniversary Edition (USA) (En,Ja) (FW6.00).jpg</image>
+		<video>./snaps/Final Fantasy - 20th Anniversary Edition (USA) (En,Ja) (FW6.00).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy II - 20th Anniversary Edition (USA) (En,Ja).iso</path>
+		<name>Final Fantasy II</name>
+		<sortname />
+		<desc>This is re-release of the original Final Fantasy II game for PSP. Like the previously re-released Final Fantasy it also has been built upon the Game Boy Advance version of the game. It has all bonuses from the Game Boy version including Soul of Rebirth, but also features new improved graphics, 16:9 screen format with easy to read texts and better quality of music and general sounds. The CG intro from the PlayStation version has also been redone in 16:9. It also includes art galleries of Yoshitaka Amano's illustrations.</desc>
+		<rating>0.7</rating>
+		<releasedate>20070724T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Final Fantasy II - 20th Anniversary Edition (USA) (En,Ja).jpg</image>
+		<video>./snaps/Final Fantasy II - 20th Anniversary Edition (USA) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Final_Fantasy_III_USA_PSN_PSP-PLAYASiA.iso</path>
+		<name>Final Fantasy III</name>
+		<sortname />
+		<desc>First released in 1990, FINAL FANTASY III introduced series hallmarks such as the job system and summon spells, and became the first in the series to sell over a million copies. Reborn in full 3D in 2006, this classic installment of the FINAL FANTASY series is now available for the PSP (PlayStation Portable) system! Graphics have been re-adjusted to fit the 16:9 aspect ratio, and new features such as the sound and image gallery, an option to switch to the original BGM and an 'auto-battle' system that doubles the speed of combat, have been added!</desc>
+		<rating>0.85</rating>
+		<releasedate>20120925T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Final_Fantasy_III_USA_PSN_PSP-PLAYASiA.jpg</image>
+		<video>./snaps/Final_Fantasy_III_USA_PSN_PSP-PLAYASiA.mp4</video>
+	</game>
+	<game>
+		<path>./Final_Fantasy_IV_The_Complete_Collection_USA_PSP-BAHAMUT.iso</path>
+		<name>Final Fantasy IV: The Complete Collection</name>
+		<sortname />
+		<desc>After 20 years, Final Fantasy IV and its acclaimed sequel, The After Years, are now combined into one package as the ultimate role-playing game experience. A cast of unforgettable characters fight through one of the grandest stories ever told with stunning new graphics, a re-arranged, award-winning soundtrack, and bonus game features that provide the absolute Final Fantasy IV experience. Experience vibrant visuals and unforgettable melodies - includes all-new 2-D graphics designed for the PSP system's 16:9 format. Also includes a new arrangement of one of the most acclaimed video game soundtracks of all time!</desc>
+		<rating>0.95</rating>
+		<releasedate>20110422T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Final_Fantasy_IV_The_Complete_Collection_USA_PSP-BAHAMUT.jpg</image>
+		<video>./snaps/Final_Fantasy_IV_The_Complete_Collection_USA_PSP-BAHAMUT.mp4</video>
+	</game>
+	<game>
+		<path>./Half_Minute_Hero_USA_PSP-pSyPSP.iso</path>
+		<name>Half-Minute Hero</name>
+		<sortname />
+		<desc>Half-Minute Hero is a direct sequel to Half-Minute Hero. It was originally developed for the Sony PSP as Yuusha 30 Second and released on August 4, 2011. It was localized by Marvelous USA and released on Steam for the PC platform on April 4, 2014. Unlike Half-Minute Hero, the sequel's episodes all consist of RPG gameplay similar to the Hero 30 mode of the original. However, they have been expanded with additional features more similar to a typical RPG, such as an explorable world, leveling outside of battle, weapon combining, formations, special classes, a more developed plot line and a home base, the Hero Castle, that doubles as a giant mecha.</desc>
+		<rating>0.8</rating>
+		<releasedate>20091013T000000</releasedate>
+		<developer>Xseed Games</developer>
+		<publisher>Marvelous Interactive</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Half_Minute_Hero_USA_PSP-pSyPSP.jpg</image>
+		<video>./snaps/Half_Minute_Hero_USA_PSP-pSyPSP.mp4</video>
+	</game>
+	<game>
+		<path>./Prinny_Can_I_Really_Be_The_Hero_EUR_PSP-ZER0.iso</path>
+		<name>Prinny: Can I Really Be the Hero?</name>
+		<sortname />
+		<desc>In Prinny: Can I Really Be The Hero? players are treated to a single player spin-off from the popular role-playing universe of Disgaea. Here players step into the unlucky shoes of a penguin called a Prinny and 999 of his comrades as you slash your way through various Netherworld areas in side-scrolling service to the Demon Lord Etna. Although the mission that you are saddled with, finding ingredients for the ultimate desert, is ridiculously comic, the action you face is not, so you're given 1,000 lives to work with and you can use everything you find on the battlefield to help you survive and succeed.</desc>
+		<rating>0.75</rating>
+		<releasedate>20090626T000000</releasedate>
+		<developer>Nippon Ichi Software</developer>
+		<publisher>Nippon Ichi Software</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Prinny_Can_I_Really_Be_The_Hero_EUR_PSP-ZER0.jpg</image>
+		<video>./snaps/Prinny_Can_I_Really_Be_The_Hero_EUR_PSP-ZER0.mp4</video>
+	</game>
+	<game>
+		<path>./Valkyrie_Profile_Lenneth_USA_PSP-ARTiSAN.iso</path>
+		<name>Valkyrie Profile: Lenneth</name>
+		<sortname />
+		<desc>Asgard, the realm of the gods, remains locked in an eternal struggle between the benevolent Aesir and the demonic Vanir. With the end of the world approaching, Odin, Lord of Asgard, summons Lenneth Valkyrie to his side. Possessing the ability to hear the thoughts and feelings of men and women in their dying moments, he charges Valkyrie to search Midgard, the world of mortals, to recruit and train the souls of worthy warriors to join the ranks of the Aesir in the Sacred War.</desc>
+		<rating>0.9</rating>
+		<releasedate>20060718T000000</releasedate>
+		<developer>Tri-Ace</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Valkyrie_Profile_Lenneth_USA_PSP-ARTiSAN.jpg</image>
+		<video>./snaps/Valkyrie_Profile_Lenneth_USA_PSP-ARTiSAN.mp4</video>
+	</game>
+	<game>
+		<path>./Castlevania_Dracula_X_Chronicles_USA_INTERNAL_READNFO_PSP-pSyPSP.iso</path>
+		<name>Castlevania: The Dracula X Chronicles</name>
+		<sortname />
+		<desc>Count Dracula has returned and captured the young woman close to the famous vampire hunter, Richter Belmont. Will Richter be able to defeat Dracula and rescue his girlfriend in this new 3D adventure for PSP?</desc>
+		<rating>0.85</rating>
+		<releasedate>20071023T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Castlevania_Dracula_X_Chronicles_USA_INTERNAL_READNFO_PSP-pSyPSP.jpg</image>
+		<video>./snaps/Castlevania_Dracula_X_Chronicles_USA_INTERNAL_READNFO_PSP-pSyPSP.mp4</video>
+	</game>
+	<game>
+		<path>./Ys_The_Ark_Of_Napishtim_EUR_PSP-pSyPSP.iso</path>
+		<name>Ys: The Ark of Napishtim</name>
+		<sortname />
+		<desc>The story begins after Adol's ship is attacked by a fleet of Romun ships. Forced to sail into an unknown area, they encounter a large storm. Adol is swept off the vessel while trying to rescue a fellow sailor and washed ashore by the vortex that surrounds the Canaan Islands. He is found, unconscious, by the daughters of the chieftain of the nearby Rehda village, Olha and Isha. The girls take him to their village and lay him to rest in their father's house. Adol hears them talking about him and wakes up briefly, afterwards going back to sleep because of his exhaustion. His adventure then begins.</desc>
+		<rating>0.7</rating>
+		<releasedate>20060929T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Ys_The_Ark_Of_Napishtim_EUR_PSP-pSyPSP.jpg</image>
+		<video>./snaps/Ys_The_Ark_Of_Napishtim_EUR_PSP-pSyPSP.mp4</video>
+	</game>
+	<game>
+		<path>./Ys_The_Oath_In_Felghana_USA_PSP-PSPKiNG.iso</path>
+		<name>Ys: The Oath in Felghana</name>
+		<sortname />
+		<desc>Ys: The Oath in Felghana is a re-imagined remake celebrating the 20th anniversary of the classic third game from the long-running Ys series, Ys III: Wanderers From Ys. Its rebirth on PSP includes a complete graphical overhaul, fully revamped gameplay, intense 3D action, and additional story elements culminating with full voice-overs during story sequences. Other additional features include a rearranged soundtrack, adjustable difficulty levels, and an art gallery, all ensuring that this beautifully re-imagined classic can be enjoyed equally by Wanderers veterans and series newcomers alike.</desc>
+		<rating>0.7</rating>
+		<releasedate>20101102T000000</releasedate>
+		<developer>Xseed Games</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Ys_The_Oath_In_Felghana_USA_PSP-PSPKiNG.jpg</image>
+		<video>./snaps/Ys_The_Oath_In_Felghana_USA_PSP-PSPKiNG.mp4</video>
+	</game>
+	<game>
+		<path>./Ys_I_And_II_Chronicles_USA_PSP-BAHAMUT.iso</path>
+		<name>Ys I &amp; II Chronicles</name>
+		<sortname />
+		<desc>Ys I &amp; II Chronicles is an upgraded version of Ys I &amp; II Complete, itself an enhanced remake of Ys: Book I &amp; II. This version features completely redone artwork applied to character portraits during cutscenes. The cutscenes themselves have been somewhat expanded as well, and the soundtrack remixed. This release also slightly enhanced the in-game graphics and enlarges the viewing area by removing the large status display that occupied the lower part of the screen in the earlier version.</desc>
+		<rating>0.8</rating>
+		<releasedate>20110223T000000</releasedate>
+		<developer>Xseed Games</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Ys_I_And_II_Chronicles_USA_PSP-BAHAMUT.jpg</image>
+		<video>./snaps/Ys_I_And_II_Chronicles_USA_PSP-BAHAMUT.mp4</video>
+	</game>
+	<game>
+		<path>./Ys_Seven_USA_PSP-BAHAMUT.iso</path>
+		<name>Ys Seven</name>
+		<sortname />
+		<desc>The kingdom of Altago is rebuilding their kingdom around a newfound peace after years of war against the merciless armies of Romn. The classic adventuresome duo, Adol and Dogi, arrive in the harbor of Altago City, and quickly find themselves in a scuffle with the Dragon Knights, the kingdom's military police body, when attempting to save a local girl from harassment by one of their commanding officers. Upset by the interruption and subsequent humiliation, the commander arrests Adol and Dogi, charging them with espionage.</desc>
+		<rating>0.85</rating>
+		<releasedate>20101103T000000</releasedate>
+		<developer>Xseed Games</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Ys_Seven_USA_PSP-BAHAMUT.jpg</image>
+		<video>./snaps/Ys_Seven_USA_PSP-BAHAMUT.mp4</video>
+	</game>
+	<game>
+		<path>./Yuusha 30 Second (Japan) [T-En].iso</path>
+		<name>Yūsha 30 Second</name>
+		<sortname />
+		<desc>Yūsha 30 Second's single player mode features 5 separate episodes, each of which is unlocked after completing the previous episode. Each episode takes place hundreds of years after the previous one, and they all feature the same type of gameplay as the Hero 30 game mode in Half-Minute Hero.</desc>
+		<rating>0</rating>
+		<releasedate>20110704T000000</releasedate>
+		<developer>Opus</developer>
+		<publisher>Marvelous AQL</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Yuusha 30 Second (Japan) [T-En].jpg</image>
+		<video>./snaps/Yuusha 30 Second (Japan) [T-En].mp4</video>
+	</game>
+	<game>
+		<path>./Outrun_2006_Coast_2_Coast_PSP_PAL-CHRONIC.iso</path>
+		<name>OutRun 2006: Coast 2 Coast</name>
+		<sortname />
+		<desc>OutRun 2006: Coast 2 Coast features a choice of 15 fully licensed Ferrari models, featuring the all-new F430 and F430 Spider, as well as the dazzling Superamerica and the stunning 550 Barchetta. Power your way across 15 new American themed environments from the "OutRun2 SP" arcade experience. Race from coast to glorious coast with a fresh new mission structure, a license mode and online play, with up to 6 players for a thrilling head-to-head journey.</desc>
+		<rating>0.75</rating>
+		<releasedate>20060331T000000</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Outrun_2006_Coast_2_Coast_PSP_PAL-CHRONIC.jpg</image>
+		<video>./snaps/Outrun_2006_Coast_2_Coast_PSP_PAL-CHRONIC.mp4</video>
+	</game>
+	<game>
+		<path>./Split_Second_Velocity_EUR_PSP-DARKFORCE.iso</path>
+		<name>Split/Second: Velocity</name>
+		<sortname />
+		<desc>In the game, players take part in a fictional reality television show, consisting of a variety of events, each focusing on destructible environments triggered remotely by driver actions known as "powerplays</desc>
+		<rating>0.8</rating>
+		<releasedate>20101118T000000</releasedate>
+		<developer>Black Rock Studio</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Split_Second_Velocity_EUR_PSP-DARKFORCE.jpg</image>
+		<video>./snaps/Split_Second_Velocity_EUR_PSP-DARKFORCE.mp4</video>
+	</game>
+	<game>
+		<path>./God_Of_War_Ghost_Of_Sparta_USA_PSP-pSyPSP.iso</path>
+		<name>God of War: Ghost of Sparta</name>
+		<sortname />
+		<desc>Set in the realm of Greek mythology, God of War: Ghost of Sparta is a single-player game that allows players to take on the powerful role of Spartan warrior Kratos. This new adventure picks up after God of War concludes, telling the story of Kratos' ascension to power as the God of War. In his quest to rid himself of the nightmares that haunt him, Kratos must embark on a journey that will reveal the origins of lost worlds, and finally answer long-awaited questions about his dark past.</desc>
+		<rating>0.9</rating>
+		<releasedate>20101103T000000</releasedate>
+		<developer>Ready At Dawn Studios</developer>
+		<publisher>Sony</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/God_Of_War_Ghost_Of_Sparta_USA_PSP-pSyPSP.jpg</image>
+		<video>./snaps/God_Of_War_Ghost_Of_Sparta_USA_PSP-pSyPSP.mp4</video>
+	</game>
+	<game>
+		<path>./Jeanne Darc Undub Full + Subtitles (US).iso</path>
+		<name>Jeanne d'Arc</name>
+		<sortname />
+		<desc>It is the 15th century, the time of the Hundred Years' War between England and France. A young French girl from the village of Domremy trying to assist her father with his daily labors discovers a mysterious object: an armlet that binds magically on her wrist. Soon the village is being attacked and finding the first sword she can, she steps forth to encounter the enemy, some humanoid beasts. Taking strength from the armlet, hearing a mysterious voice and having for assistance her close friends, she manages to defeat them and embarks on a long quest to help her countrymen and vanquish the evil forces invading France.</desc>
+		<rating>0.9</rating>
+		<releasedate>20061122T000000</releasedate>
+		<developer>Level-5</developer>
+		<publisher>Sony</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Jeanne Darc Undub Full + Subtitles (US).jpg</image>
+		<video>./snaps/Jeanne Darc Undub Full + Subtitles (US).mp4</video>
+	</game>
+	<game>
+		<path>./Metal_Gear_Solid_Portable_Ops_USA_PSP-ARTiSAN.iso</path>
+		<name>Metal Gear Solid: Portable Ops</name>
+		<sortname />
+		<desc>Metal Gear Solid: Portable Ops jumps into the stealth action genre on the PSP system with an original storyline that follows the events of "Metal Gear Solid 3: Snake Eater" and innovative online play that lets gamers recruit their own comrades to form a unique fighting force. Providing the missing pieces to the puzzle of the Metal Gear saga, players learn more about their favorite characters and how the events of later Metal Gear games were set into motion while experiencing breakthrough online play that lets gamers utilize all aspects of the PSP systems' infrastructure functionality.</desc>
+		<rating>0.85</rating>
+		<releasedate>20061205T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Kojima Productions</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Metal_Gear_Solid_Portable_Ops_USA_PSP-ARTiSAN.jpg</image>
+		<video>./snaps/Metal_Gear_Solid_Portable_Ops_USA_PSP-ARTiSAN.mp4</video>
+	</game>
+	<game>
+		<path>./Megaman_Powered_Up_USA_PSP-DMU.iso</path>
+		<name>Mega Man: Powered Up</name>
+		<sortname />
+		<desc>Dr. Light had an idea: He would build a bunch of good and handy robots to help him and others to make the world a better place. One of these robots is named "Mega" and is designed to help Light around the lab in various tasks. One day, evil Dr. Wily attacks the lab and turn all of the robots evil too. All except Mega. Dr. Light sends Mega to stop these robots and thus, Mega Man is born.</desc>
+		<rating>0.7</rating>
+		<releasedate>20060314T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Megaman_Powered_Up_USA_PSP-DMU.jpg</image>
+		<video>./snaps/Megaman_Powered_Up_USA_PSP-DMU.mp4</video>
+	</game>
+	<game>
+		<path>./Disgaea_Afternoon_of_Darkness_USA_PSP-2CH.iso</path>
+		<name>Disgaea: Afternoon of Darkness</name>
+		<sortname />
+		<desc>Disgaea is a tactical role playing game. Battle gameplay takes place on a map divided into a square grid. The player controls a squad of humanoid units and monsters, which each occupy a single square of the grid and do combat with a group of enemies. Depending on the character and attack selected, the player will be able to deal damage to a specific enemy unit or a designated region of the map. Combat ends when all enemy units or all of the player's units are destroyed.</desc>
+		<rating>0.9</rating>
+		<releasedate>20071030T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Nippon Ichi Software</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Disgaea_Afternoon_of_Darkness_USA_PSP-2CH.jpg</image>
+		<video>./snaps/Disgaea_Afternoon_of_Darkness_USA_PSP-2CH.mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy Tactics The War of the Lions (Wolt USA fast fix by Nexus).iso</path>
+		<name>Final Fantasy Tactics: The War of the Lions</name>
+		<sortname />
+		<desc>Enter a time where the land Ivalice has been divided by the War of the Lions. Play as either Delital Heiral, the hero who stopped the war, or Ramza Beoulve, whose role remains a mystery. These two characters help you to unlock and discover the history of the war and Ivalice.</desc>
+		<rating>0.8</rating>
+		<releasedate>20071005T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Final Fantasy Tactics The War of the Lions (Wolt USA fast fix by Nexus).jpg</image>
+		<video>./snaps/Final Fantasy Tactics The War of the Lions (Wolt USA fast fix by Nexus).mp4</video>
+	</game>
+	<game>
+		<path>./Grand_Theft_Auto_Chinatown_Wars_USA_PSP-NRP.iso</path>
+		<name>Grand Theft Auto: Chinatown Wars</name>
+		<sortname />
+		<desc>Following his father's murder, Huang Lee has a simple mission: deliver an ancient sword to his Uncle Kenny to ensure his family retains control of the Triad gangs of Liberty City. Huang is a spoiled rich kid who expects everything to run smoothly, but his trip does not go exactly as planned. After being robbed and left to die, he will search for honor, riches and revenge in the most dangerous and morally bankrupt city in the world.</desc>
+		<rating>0.75</rating>
+		<releasedate>20091020T000000</releasedate>
+		<developer>Rockstar Games</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Grand_Theft_Auto_Chinatown_Wars_USA_PSP-NRP.jpg</image>
+		<video>./snaps/Grand_Theft_Auto_Chinatown_Wars_USA_PSP-NRP.mp4</video>
+	</game>
+	<game>
+		<path>./Metal_Gear_Solid_Peace_Walker_v2.00_USA_MULTi3_PSP-PUSSYCAT.iso</path>
+		<name>Metal Gear Solid: Peace Walker</name>
+		<sortname />
+		<desc>Peace Walker is set in Costa Rica in November 1974, four years after the events of Portable Ops and ten years after Snake Eater. Snake (Big Boss) returns as the main character and is running his own mercenary unit after he decided to break away from The Patriots group founded by Major Zero. A mysterious group equipped with the latest weapons, called the Peace Sentinels (PS), has been deployed in-country. Despite the PS being equipped with the firepower equivalent to that of a land army, the Costa Rica government cannot do anything about them because the country's constitution does not allow the creation of an armed forces. The PS presence threatens to endanger the balance of power between the East and West.</desc>
+		<rating>0.9</rating>
+		<releasedate>20100617T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Metal_Gear_Solid_Peace_Walker_v2.00_USA_MULTi3_PSP-PUSSYCAT.jpg</image>
+		<video>./snaps/Metal_Gear_Solid_Peace_Walker_v2.00_USA_MULTi3_PSP-PUSSYCAT.mp4</video>
+	</game>
+	<game>
+		<path>./Monster_Hunter_Freedom_EUR_PSP-pSyPSP.iso</path>
+		<name>Monster Hunter Freedom</name>
+		<sortname />
+		<desc>Monster Hunter Freedom is a port of the Japan-only Monster Hunter G, a sort of follow-up to the original Monster Hunter - more of a director's cut of the game. While a good deal of the game mirrors the Playstation 2 original, there have been a large number of additions. There are now more quests, more monsters, more weapons, more armor and more areas around town to use to your advantage.</desc>
+		<rating>0.85</rating>
+		<releasedate>20060512T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Monster_Hunter_Freedom_EUR_PSP-pSyPSP.jpg</image>
+		<video>./snaps/Monster_Hunter_Freedom_EUR_PSP-pSyPSP.mp4</video>
+	</game>
+	<game>
+		<path>./Monster.Hunter.Freedom.2.EUR.PSP-NextLevel.iso</path>
+		<name>Monster Hunter Freedom 2</name>
+		<sortname />
+		<desc>Monster Hunter Freedom 2 is the sequel to Monster Hunter Freedom, based on the PlayStation 2 predecessor Monster Hunter 2, which was never released outside Japan. This game is not a direct port from PlayStation 2 release. New features have been added while others were removed to make the game appropriate for its new portable form. For example, there are item boxes used as global deposits allowing to store items and access them any time without entering "home".</desc>
+		<rating>0.9</rating>
+		<releasedate>20070907T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Monster.Hunter.Freedom.2.EUR.PSP-NextLevel.jpg</image>
+		<video>./snaps/Monster.Hunter.Freedom.2.EUR.PSP-NextLevel.mp4</video>
+	</game>
+	<game>
+		<path>./Street_Fighter_Alpha_3_MAX_USA_PSP-ARTiSAN.iso</path>
+		<name>Street Fighter Alpha 3 Max</name>
+		<sortname />
+		<desc>Street Fighter Alpha 3 MAX is a conversion of the 2D arcade fighter Street Fighter Alpha 3. Featuring a roster of 37 characters, including 3 (Maki, Yun, Eagle) never seen outside of the GBA version, and 1 brand-new character (Ingrid) to the game, all with their own storyline, you can spend a very long time learning the intricacies of all the fighters.</desc>
+		<rating>0.8</rating>
+		<releasedate>20060207T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<image>./boxart/Street_Fighter_Alpha_3_MAX_USA_PSP-ARTiSAN.jpg</image>
+		<video>./snaps/Street_Fighter_Alpha_3_MAX_USA_PSP-ARTiSAN.mp4</video>
+	</game>
+	<game>
+		<path>./Burnout Legends (USA).iso</path>
+		<name>Burnout Legends</name>
+		<sortname />
+		<desc>First installation of the Burnout-series on handheld consoles combines the best features of the first three games: Burnout, Burnout 2: Point of Impact, and Burnout 3: Takedown. Aggressive racing is still the centerpiece attraction of Burnout Legends and the player's task is not only to win the races but also crash opponent cars as much as possible. Opponent takedowns, drifts, and other stunts award Burnout Points which in turn unlock new cars and other awards.</desc>
+		<rating>0.75</rating>
+		<releasedate>20050913T000000</releasedate>
+		<developer>Criterion Studios</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Burnout Legends (USA).jpg</image>
+		<video>./snaps/Burnout Legends (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Grand Theft Auto - Liberty City Stories (USA).iso</path>
+		<name>Grand Theft Auto: Liberty City Stories</name>
+		<sortname />
+		<desc>There are a million stories in Liberty City. This one changes everything. Once a trusted wise guy in the Leone crime family, Toni Cipriani was forced into hiding after killing a made man. Now he's back and it's time for things to be put right. The streets of Liberty City are in turmoil. Warring mafiosi vie for control as the town begins to self-destruct under waves of political corruption, organized crime, drug trafficking and union strikes.</desc>
+		<rating>0.85</rating>
+		<releasedate>20051024T000000</releasedate>
+		<developer>Take 2 Interactive</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Grand Theft Auto - Liberty City Stories (USA).jpg</image>
+		<video>./snaps/Grand Theft Auto - Liberty City Stories (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Grand Theft Auto - Vice City Stories (USA).iso</path>
+		<name>Grand Theft Auto: Vice City Stories</name>
+		<sortname />
+		<desc>Vice City, 1984. Opportunity abounds in a city emerging from the swamps, its growth fueled by the violent power struggle in a lucrative drug trade. Construction is everywhere as a shining metropolis rises from foundations of crime and betrayal.</desc>
+		<rating>0.85</rating>
+		<releasedate>20061031T000000</releasedate>
+		<developer>Rockstar Games</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Grand Theft Auto - Vice City Stories (USA).jpg</image>
+		<video>./snaps/Grand Theft Auto - Vice City Stories (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Kingdom Hearts - Birth by Sleep (USA).iso</path>
+		<name>Kingdom Hearts: Birth by Sleep</name>
+		<sortname />
+		<desc>The Final Mix gives you more challenges and the chance to hear the English voices. The game is based on the upgraded US version, with more boss battles, game modes and even more mini-games. Think you've already become the ultimate Key Blade Master? Think again.</desc>
+		<rating>0.9</rating>
+		<releasedate>20100910T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Kingdom Hearts - Birth by Sleep (USA).jpg</image>
+		<video>./snaps/Kingdom Hearts - Birth by Sleep (USA).mp4</video>
+	</game>
+	<game>
+		<path>./LocoRoco 2 (USA).iso</path>
+		<name>LocoRoco 2</name>
+		<sortname />
+		<desc>TILT, ROLL, BOUNCE! The innovative and critically acclaimed LocoRoco is back! Tilt the world and bounce our colorful heroes through a brand new adventure. The evil Moja army have returned with a deadly song. Help the LocoRoco defend their planet with new abilities and the power of music.</desc>
+		<rating>0.9</rating>
+		<releasedate>20090210T000000</releasedate>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/LocoRoco 2 (USA).jpg</image>
+		<video>./snaps/LocoRoco 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Midnight Club - L.A. Remix (USA).iso</path>
+		<name>Midnight Club: L.A. Remix</name>
+		<sortname />
+		<desc>Race at breakneck speeds through the streets of modern-day L.A. in Midnight Club L.A. Remix, the ultimate racing experience for the PSP. Drive the hottest real-world tuners, muscle and luxury cars, exotics and superbikes on the streets today. Customize your vehicle with the best after-market performance parts and custom kits. And exclusive to Midnight Club L.A. Remix, travel to Tokyo to test your skills against the best racers in the world. Street racing with no track and no rules: Welcome to the Midnight Club</desc>
+		<rating>0.85</rating>
+		<releasedate>20081007T000000</releasedate>
+		<developer>Rockstar Games</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Midnight Club - L.A. Remix (USA).jpg</image>
+		<video>./snaps/Midnight Club - L.A. Remix (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Monster Hunter Freedom Unite (USA).iso</path>
+		<name>Monster Hunter Freedom Unite</name>
+		<sortname />
+		<desc>Monster Hunter Freedom Unite features over 400 quests and claims to provide 500 hours of game play. New environments, monster, weapons, and armor sets are available in this release of the game.</desc>
+		<rating>0.9</rating>
+		<releasedate>20090622T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Monster Hunter Freedom Unite (USA).jpg</image>
+		<video>./snaps/Monster Hunter Freedom Unite (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Patapon (USA).iso</path>
+		<name>Patapon</name>
+		<sortname />
+		<desc>Set among a variety of colorful 2D backgrounds, Patapon unfolds through more than 30 missions with more than 20 different environments, where players are tasked with outfitting the Patapon army, collecting resources, and using strategy to grow the tribe into a devastating fighting force. Incorporating various button-timed drumbeats in real-time to control the Patapons, players will strategically traverse through each environment, battling enemies each step of the way. The game presents a variety of warrior types such as archers, infantry, cavalry, and more that players can unlock, along with a wide selection of more than 100 weapon and shield upgrades, allowing players to customize their forces throughout the funky adventure.</desc>
+		<rating>0.9</rating>
+		<releasedate>20080226T000000</releasedate>
+		<developer>Pyramid</developer>
+		<publisher>Sony</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Patapon (USA).jpg</image>
+		<video>./snaps/Patapon (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man - Maverick Hunter X (USA) (v1.01).iso</path>
+		<name>Mega Man: Maverick Hunter X</name>
+		<sortname />
+		<desc>Set a century after the events in the original Mega Man series, Mega Man Maverick Hunter X is a remake of the original SNES game Mega Man X, and details the story of Dr. Light's greatest creation: X, a robot with free will. Dr. Cain's discovery of X led to the creation of reploids, robots modeled after the design of X. When the maverick virus infects a group of reploids, they band together in a revolt against humanity. The call goes to the maverick hunters, X and Zero, to fight the Mavericks.</desc>
+		<rating>0.9</rating>
+		<releasedate>20060131T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Mega Man - Maverick Hunter X (USA) (v1.01).jpg</image>
+		<video>./snaps/Mega Man - Maverick Hunter X (USA) (v1.01).mp4</video>
+	</game>
+	<game>
+		<path>./Platypus_USA_PSP-pSyPSP.iso</path>
+		<name>Platypus</name>
+		<sortname />
+		<desc>The big city of Collosatropolis has reached the limits of its expansion. The Collostropolan leaders have decided to solve the problem by invading the neighboring country of Mungola. Since Mungolans are simple, earthy types they don’t expect much of a struggle. Mungola’s defense force consists only of a single squadron of fighter planes – the F-27 Platypus.</desc>
+		<rating>0.55</rating>
+		<releasedate>20061114T000000</releasedate>
+		<developer>MumboJumbo</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Platypus_USA_PSP-pSyPSP.jpg</image>
+		<video>./snaps/Platypus_USA_PSP-pSyPSP.mp4</video>
+	</game>
+	<game>
+		<path>./Sid Meiers Pirates Live The Life (USA).iso</path>
+		<name>Sid Meier's Pirates!</name>
+		<sortname />
+		<desc>Sid Meier's Pirates! for the PSP is a mix between the PC and Xbox version that were released two and three years earlier, respectively. As a straight port, not much has changed except for three really notable elements.</desc>
+		<rating>0.8</rating>
+		<releasedate>20070122T000000</releasedate>
+		<developer>Full Fat</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Sid Meiers Pirates Live The Life (USA).jpg</image>
+		<video>./snaps/Sid Meiers Pirates Live The Life (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Space Invaders Extreme (USA).iso</path>
+		<name>Space Invaders Extreme</name>
+		<sortname />
+		<desc>The pixelated aliens are back to celebrate their 30th anniversary! Taking a cue from other recent arcade classic updates, Space Invaders Extreme takes the gameplay of the 1978 classic, and reinvents it, giving power-up blasters, boss aliens, and an electronic soundtrack that plays in sync with the onscreen action.</desc>
+		<rating>0.8</rating>
+		<releasedate>20080617T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Space Invaders Extreme (USA).jpg</image>
+		<video>./snaps/Space Invaders Extreme (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tactics Ogre Let us Cling Together (EUROPE).iso</path>
+		<name>Tactics Ogre: Let Us Cling Together</name>
+		<sortname />
+		<desc>The creators of Final Fantasy Tactics bring you the next evolution in Tactics games from Square Enix in Tactics Ogre: Let Us Cling Together! A dream team lead by Yasumi Matsuno has reunited to bring a perfect vision of their lost tale of political intrigue, conquest, and rebellion to vivid life. Experience an epic story where your choices determine the fate of the Walister Resistance.</desc>
+		<rating>0.85</rating>
+		<releasedate>20110225T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Tactics Ogre Let us Cling Together (EUROPE).jpg</image>
+		<video>./snaps/Tactics Ogre Let us Cling Together (EUROPE).mp4</video>
+	</game>
+	<game>
+		<path>./Test Drive Unlimited (USA).iso</path>
+		<name>Test Drive Unlimited</name>
+		<sortname />
+		<desc>Test Drive Unlimited lets the player choose one of several characters, both male and female, waiting at an airport to check in for their flight to the Caribbean dream island O'ahu located in Hawaii. The characters do not have different statistics, that only applies to the extravagant, licensed cars.</desc>
+		<rating>0.95</rating>
+		<releasedate>20070330T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Melbourne House</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Test Drive Unlimited (USA).jpg</image>
+		<video>./snaps/Test Drive Unlimited (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Valkyria Chronicles 2 (USA).iso</path>
+		<name>Valkyria Chronicles II</name>
+		<sortname />
+		<desc>The game's story takes place two years following the conclusion of Valkyria Chronicles, in which Squad 7 defeats Maximillian in Gallia and destroys the Marmota, ending the Second Europan War. A rebel group of dissatisfied aristocrats and like-minded soldiers and citizens calling themselves the Gallian Revolutionary Army begins a civil war to wage an ethnic cleansing campaign against Gallians of Darcsen descent.[11] However, with the intense fight against the Empire having left Gallia's regular army in an exhausted state, there is initially little to stop the insurrection from gaining momentum.</desc>
+		<rating>0.85</rating>
+		<releasedate>20100903T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Valkyria Chronicles 2 (USA).jpg</image>
+		<video>./snaps/Valkyria Chronicles 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./SSX On Tour (USA).iso</path>
+		<name>SSX: On Tour</name>
+		<sortname />
+		<desc>Create your skier or snowboarder and get on the slopes in this version of the SSX franchise. With a different front end interface to previous versions, which looks like a mix between MTV and a doodle book, you select the challenge you want to take part in rather than boarding your way to the event as previous versions.</desc>
+		<rating>0.65</rating>
+		<releasedate>20051011T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/SSX On Tour (USA).jpg</image>
+		<video>./snaps/SSX On Tour (USA).mp4</video>
+	</game>
+	<game>
+		<path>./The Warriors (EUROPE).iso</path>
+		<name>Warriors, The</name>
+		<sortname />
+		<desc>Based on the 1979 Paramount Pictures film of the same name and voiced by most of the original cast, The Warriors follows the career of a Coney Island street gang. Starting months before the events of the film, The Warriors expand and defend their Coney Island turf, while proving that they are heavy enough players to join The Riffs’ network. With a citywide rep, they can get invited to a major gang meeting where the future of New York street crime will be decided.</desc>
+		<rating>0.8</rating>
+		<releasedate>20070223T000000</releasedate>
+		<developer>Rockstar Games</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+		<image>./boxart/The Warriors (EUROPE).jpg</image>
+		<video>./snaps/The Warriors (EUROPE).mp4</video>
+	</game>
+	<game>
+		<path>./Tony Hawk's Underground 2 Remix (USA).iso</path>
+		<name>Tony Hawk's Underground 2 Remix</name>
+		<sortname />
+		<desc>Tony Hawk's Underground 2 Remix takes players on an all new skating blitzkrieg where they embark on the ultimate road trip from Tony Hawk's Underground 2 in addition to wreaking havoc in four never-before-seen city-levels - Las Vegas, Atlanta, Kyoto and Santa Cruz that feature original goals, level changing events and unlockable characters. For the first time, players can live the Tony Hawk console gaming experience on a handheld device as they join either Tony Hawk or Bam Margera on a World Destruction Tour where they nail insane tricks with lightning speed or slow motion focus control, pull off mischievous pranks, and conquer sick terrain through 13 single-player levels.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050901T000000</releasedate>
+		<developer>Shaba Games</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Tony Hawk's Underground 2 Remix (USA).jpg</image>
+		<video>./snaps/Tony Hawk's Underground 2 Remix (USA).mp4</video>
+	</game>
+	<game>
+		<path>./God_of_War_Chains_of_Olympus_USA_PSN_PSP-PLAYASiA.iso</path>
+		<name>God of War: Chains of Olympus</name>
+		<sortname />
+		<desc>Unleash the power of the Gods and embark on a merciless quest as Kratos, an ex-Spartan warrior driven to destroy Ares, the God of War. Armed with lethal double chainblades, Kratos must carve through mythology's darkest creatures including Medusa, Cyclops, the Hydra and more, while solving intricate puzzles in breathtaking environments. Driven by pure revenge, nothing can stop Kratos from achieving absolution.</desc>
+		<rating>0.85</rating>
+		<releasedate>20080304T000000</releasedate>
+		<developer>Ready At Dawn Studios</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/God_of_War_Chains_of_Olympus_USA_PSN_PSP-PLAYASiA.jpg</image>
+		<video>./snaps/God_of_War_Chains_of_Olympus_USA_PSN_PSP-PLAYASiA.mp4</video>
+	</game>
+	<game>
+		<path>./Crush (Europe).iso</path>
+		<name>Crush</name>
+		<sortname />
+		<desc>Danny is troubled with insomnia. Desperate for sleep and unable to get it, he finds himself a test subject in the mad Dr. Reubens' crowning achievement, C.R.U.S.H. (or Cognitive Regression Utilizing pSychiatric Heuristics, if you prefer). C.R.U.S.H. puts the subject under hypnosis and allows them to explore their psyche and confront their own deep, dark secrets.</desc>
+		<rating>0.95</rating>
+		<releasedate>20070525T000000</releasedate>
+		<developer>Zoë Mode</developer>
+		<publisher>SEGA</publisher>
+		<genre>Puzzle</genre>
+		<image>./boxart/Crush (Europe).jpg</image>
+		<video>./snaps/Crush (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Need for Speed - Most Wanted 5-1-0 (USA).iso</path>
+		<name>Need For Speed: Most Wanted 5-1-0</name>
+		<sortname />
+		<desc>Need for Speed: Most Wanted (commonly abbreviated to as NFS: MW or just Most Wanted) is a racing video game developed by EA Black Box and published by Electronic Arts. It is the ninth installment in the Need for Speed series. The game features street racing-oriented game play, with certain customization options from the Need for Speed: Underground series. The game is succeeded by Need for Speed: Carbon, which serves as a sequel to Most Wanted.</desc>
+		<rating>0.8</rating>
+		<releasedate>20051124T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Need for Speed - Most Wanted 5-1-0 (USA).jpg</image>
+		<video>./snaps/Need for Speed - Most Wanted 5-1-0 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Need for Speed Carbon - Own the City (USA).iso</path>
+		<name>Need for Speed Carbon: Own the City</name>
+		<sortname />
+		<desc>Need for Speed Carbon: Own the City is a handheld released based off of Need for Speed: Carbon. It was released for the PlayStation Portable, Nintendo DS, Gameboy Advance, and Zeebo. Compared to Need for Speed: Carbon, the title greatly differs from gameplay and graphics.</desc>
+		<rating>0.75</rating>
+		<releasedate>20061031T000000</releasedate>
+		<developer>EA Black Box</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Need for Speed Carbon - Own the City (USA).jpg</image>
+		<video>./snaps/Need for Speed Carbon - Own the City (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Winning Eleven - Pro Evolution Soccer 2007 (USA).iso</path>
+		<name>Winning Eleven: Pro Evolution Soccer 2006</name>
+		<sortname />
+		<desc>Winning Eleven: Pro Evolution Soccer 2006 expands upon the series' realism with faster gameplay, more responsive control and improved artificial intelligence. Players will now make intelligent runs without the ball, identifying opportunities and pointing to where they would like the ball to be delivered. Similarly, the game is now more physical, with defenders jockeying for position and strikers working to turn their opponent as they receive the ball.</desc>
+		<rating>0.8</rating>
+		<releasedate>20061102T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Winning Eleven - Pro Evolution Soccer 2007 (USA).jpg</image>
+		<video>./snaps/Winning Eleven - Pro Evolution Soccer 2007 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Syphon Filter - Dark Mirror (USA).iso</path>
+		<name>Syphon Filter: Dark Mirror</name>
+		<sortname />
+		<desc>Assume the role of Gabe Logan, a highly-trained Precision Strike Operative, commanding a black box United States Agency that legally doesn't exist. Gabe finds himself dealing with a beautiful woman from his past who harbors a shocking secret while he battles the Red Section, a para-military group in possession of Project Dark Mirror, a next-generation weapon of mass destruction.</desc>
+		<rating>0.85</rating>
+		<releasedate>20060314T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Syphon Filter - Dark Mirror (USA).jpg</image>
+		<video>./snaps/Syphon Filter - Dark Mirror (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Disney TRON - Evolution (USA).iso</path>
+		<name>Disney's TRON: Evolution</name>
+		<sortname />
+		<desc>Tron: Evolution is a third-person action-adventure, tie-in video game for the film Tron: Legacy by Propaganda Games, published by Disney Interactive. It was officially announced at the Spike Video Game Awards and was released for the Microsoft Windows, PlayStation 3, PlayStation Portable and Xbox 360 platforms on November 26, 2010 in Europe and December 7, 2010 in North America.</desc>
+		<rating>0.4</rating>
+		<releasedate>20110203T000000</releasedate>
+		<developer>SuperVillain Studios</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Disney TRON - Evolution (USA).jpg</image>
+		<video>./snaps/Disney TRON - Evolution (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Up (USA).iso</path>
+		<name>Disney's Up</name>
+		<sortname />
+		<desc>The UP video game takes players on an exotic adventure with Carl Fredricksen and his young sidekick, Wilderness Explorer Russell, as they set off on a wild journey through the undiscovered jungles of South America. Players experience all four main characters from the movie - Carl, Russell, Dug the lovable dog or Kevin the prehistoric bird - while playing as a single-player or with a friend cooperatively throughout the entire game.</desc>
+		<rating>0.7</rating>
+		<releasedate>20090526T000000</releasedate>
+		<developer>Asobo Studio</developer>
+		<publisher>THQ</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Up (USA).jpg</image>
+		<video>./snaps/Up (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Little Big Planet (USA).iso</path>
+		<name>LittleBigPlanet</name>
+		<sortname />
+		<desc>LittleBigPlanet's critically acclaimed - PLAY, CREATE, SHARE - experience, makes its way to the PSP system with a completely new Sackboy adventure. PLAY through 35+ levels and collect prize bubbles, costumes, and - CREATE - materials. CREATE your own levels and challenges with the easy to use POP-IT tool. Once complete, SHARE your creations in ad-hoc mode or post them to the community pool in infrastructure mode.</desc>
+		<rating>0.85</rating>
+		<releasedate>20091117T000000</releasedate>
+		<developer>SCE Studio Cambridge</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Little Big Planet (USA).jpg</image>
+		<video>./snaps/Little Big Planet (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Puzzle Quest Challenge of the Warlords (USA).iso</path>
+		<name>Puzzle Quest: Challenge Of The Warlords</name>
+		<sortname />
+		<desc>Set in the Warlords universe, Puzzle Quest challenges gamers to create, develop and customize the ultimate hero to save the land of Etheria from the evil Lord Bane.</desc>
+		<rating>0.85</rating>
+		<releasedate>20080229T000000</releasedate>
+		<developer>D3 Publisher</developer>
+		<publisher>Infinite Interactive</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Puzzle Quest Challenge of the Warlords (USA).jpg</image>
+		<video>./snaps/Puzzle Quest Challenge of the Warlords (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Velocity (minis) (PSN) [NPUZ00252].iso</path>
+		<name>Velocity</name>
+		<sortname />
+		<desc>Take control of the world's first quantum teleport craft in this innovative shooter, using a range of teleport controls to outsmart enemies, solve action puzzles and rescue survivors from their deep space hideaways. Featuring genre-busting game play and music from Joris de Man (Killzone), Velocity plays like a dream and sounds incredible!</desc>
+		<rating>0.7</rating>
+		<releasedate>20120516T000000</releasedate>
+		<developer>FuturLab</developer>
+		<publisher>FuturLab</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Velocity (minis) (PSN) [NPUZ00252].jpg</image>
+		<video>./snaps/Velocity (minis) (PSN) [NPUZ00252].mp4</video>
+	</game>
+	<game>
+		<path>./Virtua Tennis - World Tour (USA).iso</path>
+		<name>Virtua Tennis: World Tour</name>
+		<sortname />
+		<desc>Virtua Tennis: World Tour is the PSP incarnation of Sega's Virtua Tennis series. You can play as one of many professional tennis players, such as Roger Federer or Maria Sharapova, on courts around the world. In addition to Exhibition and Tournament modes, you can create a custom player and play through World Tour mode. Virtua Tennis: World Tour also lets you play stat-building minigames and challenge up to four other players in Versus mode.</desc>
+		<rating>0.85</rating>
+		<releasedate>20051007T000000</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Virtua Tennis - World Tour (USA).jpg</image>
+		<video>./snaps/Virtua Tennis - World Tour (USA).mp4</video>
+	</game>
+	<game>
+		<path>./The_3rd_Birthday_USA_UNDUB.iso</path>
+		<name>3rd Birthday, The</name>
+		<sortname />
+		<desc>Hideous creatures descend on Manhattan. Ground reports from the squad tasked with containing the pandemonium refer to these life forms as the Twisted. An investigatory team known as the CTI is formed within the year.</desc>
+		<rating>0.8</rating>
+		<releasedate>20110401T000000</releasedate>
+		<developer>Hexa Drive</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Action</genre>
+		<image>./boxart/The_3rd_Birthday_USA_UNDUB.jpg</image>
+		<video>./snaps/The_3rd_Birthday_USA_UNDUB.mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy Type-0 (English Patched v2).iso</path>
+		<name>Final Fantasy Type-0</name>
+		<sortname />
+		<desc>The game is a RPG in which the characters travel to get missions and attack enemy strongholds to complete them. In each mission, three characters out of 14 are selected, each having their own style, weapons and abilities. The battle system is an Active System Battle (ATB) that allows the control of many characters, Characters who were KO'd in battle must be revived in town before being used again. Each character have a unique summon that can be used for 5 minutes in battle and can be levelled-up. The ATB kai, as it is called, allows for up to three players to connect via ad-hoc and send each other emergency back-up.</desc>
+		<rating>0.85</rating>
+		<releasedate />
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Final Fantasy Type-0 (English Patched v2).jpg</image>
+		<video>./snaps/Final Fantasy Type-0 (English Patched v2).mp4</video>
+	</game>
+	<game>
+		<path>./Ratchet_and_Clank_Size_Matters_USA_PSP-pSyPSP.iso</path>
+		<name>Ratchet &amp; Clank: Size Matters</name>
+		<sortname />
+		<desc>Ratchet &amp; Clank: Size Matters (known as Ratchet &amp; Clank 5 in Japan) is a 2007 platformer video game developed by High Impact Games and published by Sony Computer Entertainment for the PlayStation Portable and PlayStation 2. The game is the first Ratchet &amp; Clank title on the PSP handheld. Development company High Impact Games was spawned from the original Ratchet &amp; Clank developer, Insomniac Games. The story is about Ratchet and Clank as they are interrupted from their vacation to search for a kidnapped girl and encounter a forgotten race known as the Technomites</desc>
+		<rating>0.85</rating>
+		<releasedate>20070213T000000</releasedate>
+		<developer>High Impact Games</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Ratchet_and_Clank_Size_Matters_USA_PSP-pSyPSP.jpg</image>
+		<video>./snaps/Ratchet_and_Clank_Size_Matters_USA_PSP-pSyPSP.mp4</video>
+	</game>
+	<game>
+		<path>./Retro City Rampage DX (USA).iso</path>
+		<name>Retro City Rampage DX</name>
+		<sortname />
+		<desc>Retro City Rampage reimagines the open world crime genre in the '80s! Rampage the city, steal cars, or play over 60 story mode missions! This remastered pop culture send-up features a full Story Mode of open world missions, along with Arcade Challenges for quick pick-up-and-play action. Explore the city by foot or by car, and discover minigames, customizations, collectibles, special guest stars, and more.</desc>
+		<rating>0.8</rating>
+		<releasedate>20160719T000000</releasedate>
+		<developer>Vblank Entertainment</developer>
+		<publisher>Vblank Entertainment</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Retro City Rampage DX (USA).jpg</image>
+		<video>./snaps/Retro City Rampage DX (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Heroes - Trails in the Sky, The.iso</path>
+		<name>Legend of Heroes: Trails in the Sky, The</name>
+		<sortname />
+		<desc>In Trails in the Sky, the player controls a cast of characters, embarking on quests to progress the story. There are two different types of maps when navigating the overworld, field maps and town maps. In field maps, enemies roam around and a battle ensues if the player comes into contact with one.</desc>
+		<rating>0.85</rating>
+		<releasedate>20111104T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Xseed Games</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Legend of Heroes - Trails in the Sky, The.jpg</image>
+		<video>./snaps/Legend of Heroes - Trails in the Sky, The.mp4</video>
+	</game>
+	<game>
+		<path>./Silent Hill Origins (USA).iso</path>
+		<name>Silent Hill Origins</name>
+		<sortname />
+		<desc>The renowned Silent Hill survival horror series makes its handheld gaming debut with a brand new adventure that reveals many of the series' most hallowed secrets. Assuming the role of Travis Grady, a lone truck driver trapped in Silent Hill while making a routine delivery, players must escape the city's horrific inhabitants and confront the strange hallucinations that have haunted Travis since childhood. Taking full advantage of the PSP system's graphics, sound, and portability, Silent Hill Origins sets a new standard in handheld gaming terror.</desc>
+		<rating>0.85</rating>
+		<releasedate>20071106T000000</releasedate>
+		<developer>Climax Studios</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Silent Hill Origins (USA).jpg</image>
+		<video>./snaps/Silent Hill Origins (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Star Ocean Second Evolution (Undub).iso</path>
+		<name>Star Ocean: Second Evolution</name>
+		<sortname />
+		<desc>Space Date 366: A young Federation officer finds himself transported to a mystical planet, where he is suddenly anointed as the Hero of Light. He begins a journey to fulfill a prophecy and save a newfound race. Continuing the franchise for Star Ocean fans, this PSP release of the classic RPG delivers the same epic storytelling and dazzling art style. Set 20 years after the events of its predecessor, Star Ocean 2 receives special treatment in its PSP incarnation to further entice gamers to relive the adventure. The title takes the next step with fully animated movies, all-new character designs, extra playable characters, fully voiced dialogue, and more.</desc>
+		<rating>0.7</rating>
+		<releasedate>20090213T000000</releasedate>
+		<developer>Tri-Ace</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Star Ocean Second Evolution (Undub).jpg</image>
+		<video>./snaps/Star Ocean Second Evolution (Undub).mp4</video>
+	</game>
+	<game>
+		<path>./Ape_Escape_On_The_Loose_USA_PSP-DMU.iso</path>
+		<name>Ape Escape: On the Loose</name>
+		<desc>Based on the Ape Escape series, Ape Escape: On the Loose arrives on the PSP with multiplayer functionality and a variety of minigames. The new adventure begins when Specter--a monkey-turned-monster--and his army of monkeys travel back in time to change history and take over the world. Now it's up to you to pursue Specter and capture more than 200 monkeys in eight different worlds, which span more than 20 levels.</desc>
+		<image>./boxart/Ape_Escape_On_The_Loose_USA_PSP-DMU.jpg</image>
+		<video>./snaps/Ape_Escape_On_The_Loose_USA_PSP-DMU.mp4</video>
+		<rating>0.75</rating>
+		<releasedate>20060510T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220222T144228</lastplayed>
+	</game>
+	<game>
+		<path>./Dante's Inferno (USA) (v1.01).iso</path>
+		<name>Dante's Inferno</name>
+		<desc>Dante's Inferno will take gamers to the western world's most definitive view of the afterlife as created by the 13th century Italian poet Dante Alighieri. Each of the nine circles will showcase its own distinct look, with demons, monsters and geography that are crafted straight from the poem's vivid descriptions. Using Death's Scythe and Beatrice's Holy Cross, and a slate of magic powers with a deep, customizable upgrade system, players will experience a fast and fluid 60 frames-per-second gameplay experience.</desc>
+		<image>./boxart/Dante's Inferno (USA) (v1.01).jpg</image>
+		<video>./snaps/Dante's Inferno (USA) (v1.01).mp4</video>
+		<rating>0.75</rating>
+		<releasedate>20100304T000000</releasedate>
+		<developer>A2M</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220222T151236</lastplayed>
+	</game>
+	<game>
+		<path>./Disgaea 2 - Dark Hero Days (USA).iso</path>
+		<name>Disgaea 2: Dark Hero Days</name>
+		<desc>In the peaceful world of Veldime, humans rarely encountered monsters. That was until Overlord Zenon cursed the land and all who reside within. With the curse in place, the humans became monsters and ravaged the world. It is up to Adell, the last remaining human, to oppose Overlord Zenon's tyranny and restore peace and harmony to Veldime. In Disgaea 2, players will take on the role of a young fighter named Adell and travel the Netherworld to defeat the evil overlord Zenon. Battles will take place on a 3D grid-based field. During combat, players will take turns with the enemy to move and attack.</desc>
+		<image>./boxart/Disgaea 2 - Dark Hero Days (USA).jpg</image>
+		<video>./snaps/Disgaea 2 - Dark Hero Days (USA).mp4</video>
+		<rating>0.85</rating>
+		<releasedate>20090908T000000</releasedate>
+		<developer>Nippon Ichi Software</developer>
+		<publisher>Nippon Ichi Software</publisher>
+		<genre>Role Playing Games</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220222T150422</lastplayed>
+	</game>
+	<game>
+		<path>./LocoRoco (USA).iso</path>
+		<name>LocoRoco</name>
+		<desc>LocoRoco is an innovative 2D platform/action game available exclusively for the PSP. Featuring unique controls utilizing the "L" and "R" shoulder buttons, players are tasked with controlling via "tilting or bumping" the landscape of the LocoRoco in order to help them navigate through the level and keep them out of harm's way. With more than 40 stages, players control and guide the LocoRoco through vibrant, thriving and lush worlds filled with slippery slopes, swing ropes , and more. Featuring six different types of LocoRoco that include their own voices and actions, players will be enchanted by captivating music that communicates the joyous world of these LocoRoco.</desc>
+		<image>./boxart/LocoRoco (USA).jpg</image>
+		<video>./snaps/LocoRoco (USA).mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20060905T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<genre>Puzzle</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220222T145933</lastplayed>
+	</game>
+	<game>
+		<path>./Lumines_MULTI5_PSP-LIGHTFORCE.iso</path>
+		<name>Lumines: Puzzle Fusion</name>
+		<desc>Bust blocks, solve puzzles, and play wirelessly with your friends. In Lumines, your objective is to clear the screen by connecting blocks of like colors together. A timeline wipes away your solid-color creations, which can also initiate combos and link moves. See if you have what it takes to advance through 24 levels, each with its own musical theme and sound effects. Lumines features four gameplay modes, including single-player and multiplayer.</desc>
+		<image>./boxart/Lumines_MULTI5_PSP-LIGHTFORCE.jpg</image>
+		<video>./snaps/Lumines_MULTI5_PSP-LIGHTFORCE.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20050901T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Puzzle</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220222T145650</lastplayed>
+	</game>
+	<game>
+		<path>./Wipeout_Pure_Greatest_Hits_USA_READNFO_PSP-Googlecus.iso</path>
+		<name>Wipeout Pure</name>
+		<desc>Wipeout Pure is the first adaptation for the PSP of the long-running Wipeout series. Players take part in a futuristic racing league known as the FX300 Racing League and control a fast hovercrafts on tight, cornering tracks, vying for first place in one of many tournaments. There are ten anti-gravity vehicles available to use (two need to be unlocked), each with their own characteristics in speed, handling and acceleration. Vehicles are further divided into classes that are unlocked gradually. In later classes most of the vehicles become much faster and require more precise steering at fast speeds.</desc>
+		<image>./boxart/Wipeout_Pure_Greatest_Hits_USA_READNFO_PSP-Googlecus.jpg</image>
+		<video>./snaps/Wipeout_Pure_Greatest_Hits_USA_READNFO_PSP-Googlecus.mp4</video>
+		<rating>0.75</rating>
+		<releasedate>20050316T000000</releasedate>
+		<developer>Studio Liverpool</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Racing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220222T150006</lastplayed>
+	</game>
+	<game>
+		<path>./Daxter_USA_PSN_PSP-PLAYASiA.iso</path>
+		<name>Daxter</name>
+		<desc>Daxter stars for the first time on his own in this action-platformer that reveals how he became a hero and freed Jak at the beginning of Jak II. Finally able to explore past the secure boundaries of Haven City, Daxter inadvertently takes on a job as a pest exterminator, a task the Old Sage intuitively knew he was proficient at since the first Jak and Daxter. Armed with a fly swatter and soon afterwards a spray canister that allows him to not only stun bugs but to hover in the air, Daxter unravels to the player the introduction of the upcoming invasion that occurred in Jak II into Haven City.</desc>
+		<image>./boxart/Daxter_USA_PSN_PSP-PLAYASiA.jpg</image>
+		<video>./snaps/Daxter_USA_PSN_PSP-PLAYASiA.mp4</video>
+		<rating>0.7</rating>
+		<releasedate>20060314T000000</releasedate>
+		<developer>Ready At Dawn Studios</developer>
+		<publisher>Sony</publisher>
+		<genre>Platform</genre>
+		<playcount>3</playcount>
+		<lastplayed>20220301T082651</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,411 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Atari 7800</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Joust (USA).zip</path>
+		<name>Joust</name>
+		<sortname />
+		<desc>In Joust, players take control of a knight with a lance who rides their flying ostrich (or stork, for Player 2) to do battle against computer-controlled evil knights who ride atop vultures.</desc>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Joust (USA).jpg</image>
+		<video>./snaps/Joust (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ninja Golf (USA).zip</path>
+		<name>Ninja Golf</name>
+		<sortname />
+		<desc>Ninja Golf is an arcade action game which combines a golf game with a side scrolling fighting game. You are a ninja, and your goal is to survive nine holes of ninja golf! On each of the holes, you alternate between the golf and action parts. First you hit the ball by selecting the direction and distance from the overhead view on the bottom of the screen; next you will need to run to the location your ball was hit while defending yourself from the many enemies.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>BlueSky Software, Inc.</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Ninja Golf (USA).jpg</image>
+		<video>./snaps/Ninja Golf (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Robotron - 2084 (USA).zip</path>
+		<name>Robotron: 2084</name>
+		<sortname />
+		<desc>You are a mutant human, who by some freak of nature has the ability to shoot energy pulses from his body in eight different directions! Your job is simple: save humanity from their own creation -- the ROBOTRONS! The gameplay is pretty unique for the time. You can move and fire in any of eight directions. You get thrown in a room with various evil baddies strewn about, you've got to kill all the robots while at the same time finding some way to grab humans and avoid death.</desc>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Robotron - 2084 (USA).jpg</image>
+		<video>./snaps/Robotron - 2084 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Xenophobe (USA).zip</path>
+		<name>Xenophobe</name>
+		<sortname />
+		<desc>Xenos. The very name strikes fear into every colonist's heart. A distress call is received from space stations orbiting your homeworld, then silence. A single ship escapes, piloted by a battered man who tells the tale of pods that hatch into acid-spitting Xenos.</desc>
+		<rating>0.3</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Xenophobe (USA).jpg</image>
+		<video>./snaps/Xenophobe (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Xevious (USA).zip</path>
+		<name>Xevious</name>
+		<sortname />
+		<desc>It is discovered that the actual aliens on earth are human beings, and the ruthless Xevions want their planet back; but without us. Our only defense is the prototype Solvalou Fighter Plane. With this plane we can fight the deadly Domogram Rovers; the Toroid Patrol Fleets and the Zoshi Death Squads.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Xevious (USA).jpg</image>
+		<video>./snaps/Xevious (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ballblazer (USA).zip</path>
+		<name>Ballblazer</name>
+		<sortname />
+		<desc>In the year 3037, the most competitive sport in the known universe is Ballblazer. For the first time ever, humans from the planet Earth have won the right to compete in the final round of the Ballblazer Championship, to fight for Earth's honor and the title Masterblazer!.</desc>
+		<rating>0.75</rating>
+		<releasedate>19880907T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Ballblazer (USA).jpg</image>
+		<video>./snaps/Ballblazer (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Centipede (USA).zip</path>
+		<name>Centipede</name>
+		<sortname />
+		<desc>In Centipede, the player is trapped in the Enchanted Forest. Armed with only a magic wand to ward off the forest's insect denizens, all of which apparently are attacking in the player in continuous waves.</desc>
+		<rating>0.85</rating>
+		<releasedate>19870601T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Centipede (USA).jpg</image>
+		<video>./snaps/Centipede (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dark Chambers (USA).zip</path>
+		<name>Dark Chambers</name>
+		<sortname />
+		<desc>Dark Chambers is an arcade action game similar to Gauntlet. You are an explorer in an underground maze; your goal is to survive the 26 different levels and collect as many of the hidden treasures as you can. Hidden somewhere in each of the levels is an exit which will take you on to the next level. Trying to stop you from completing your quest are a wide variety of creatures, including zombies, wraiths, skeletons, wizards, and the grim reaper. Each of the creatures in the game has a different strength; when you shoot a creature, it will transform into the next weaker creature.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Dark Chambers (USA).jpg</image>
+		<video>./snaps/Dark Chambers (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Desert Falcon (USA).zip</path>
+		<name>Desert Falcon</name>
+		<sortname />
+		<desc>Desert Falcon is an arcade style shooter. Many of the Pharaoh's great treasures are lost throughout the desert, and your goal is to steal as many as you can to earn points. The game features a scrolling, isometric point of view as you control your falcon through the various desert landscapes. The treasures you are after are guarded of course.</desc>
+		<rating>0.65</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Desert Falcon (USA).jpg</image>
+		<video>./snaps/Desert Falcon (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Food Fight (USA).zip</path>
+		<name>Food Fight</name>
+		<sortname />
+		<desc>You play as Charley trying to eat an ice cream cone. But first you must avoid the chefs that are out to get you: Angelo, Zorba, Oscar, and Jacques. Avoid the food thrown at you by the chefs to get the cone. You can also throw your own food at the chefs to slow them down.</desc>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Food Fight (USA).jpg</image>
+		<video>./snaps/Food Fight (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Galaga (USA).zip</path>
+		<name>Galaga</name>
+		<sortname />
+		<desc>You control a space fighter at the bottom of the screen, scrolling left and right in order to avoid oncoming bombs and kamikaze attacks from alien invaders--and to fire your own missiles to fight back.</desc>
+		<rating>0.65</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Galaga (USA).jpg</image>
+		<video>./snaps/Galaga (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tower Toppler (USA).zip</path>
+		<name>Tower Toppler</name>
+		<sortname />
+		<desc>You play a small green guy who needs to blow up eight towers, because their presence is somehow poisoning the water of planets which could potentially be ideal colonies. You need to get to the top of these towers to blow them up.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hewson</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Tower Toppler (USA).jpg</image>
+		<video>./snaps/Tower Toppler (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Commando (USA).zip</path>
+		<name>Commando</name>
+		<sortname />
+		<desc>Several levels await your super-tough Commando in this arcade conversion. Armed with only a standard rifle and a few grenades you must take on hordes of Nazis. Some are wandering around in the open, while others have picked out hiding places, which you must approach from certain angles. Trees, rivers and bridges create a varied combat-like terrain and must be incorporated into your thinking. Extra grenades can be collected, and will definitely be required, as they allow you to kill form distance and thus avoid some enemy shots.</desc>
+		<rating>0.8</rating>
+		<releasedate>19850919T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Commando (USA).jpg</image>
+		<video>./snaps/Commando (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Asteroids (USA).zip</path>
+		<name>Asteroids</name>
+		<sortname />
+		<desc>Play the role of a spaceship pilot trapped in a gigantic asteroid cloud and pulverize incoming asteroids with the ship's photon cannon. When all asteroids are destroyed, the play can them move to the next round. In addition to asteroid, the player will also face an Alien Robot Saucer which shoots randomly across the screen.</desc>
+		<rating>0.75</rating>
+		<releasedate>19871101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Asteroids (USA).jpg</image>
+		<video>./snaps/Asteroids (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ms. Pac-Man (USA).zip</path>
+		<name>Ms. Pac-Man</name>
+		<sortname />
+		<desc>In 1982, a sequel to the incredibly popular Pac-Man was introduced in the form of his girlfriend, Ms. Pac-Man. This sequel continued on the "eat the dots/avoid the ghosts" gameplay of the original game, but added new features to keep the title fresh.</desc>
+		<rating>0.7</rating>
+		<releasedate>19860501T000000</releasedate>
+		<developer>General Computer Corporation</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Ms. Pac-Man (USA).jpg</image>
+		<video>./snaps/Ms. Pac-Man (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pole Position II (USA).zip</path>
+		<name>Pole Position II</name>
+		<sortname />
+		<desc>In Pole Position II, based on the arcade sequel to Pole Position, you are again driving an F-1 racer in a timed qualifying run, trying to achieve the pole position. Then it is off to the race, in hopes of taking that top spot. The difference in Pole Position II and it's predecessor is that now you have four tracks to select from.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Pole Position II (USA).jpg</image>
+		<video>./snaps/Pole Position II (USA).mp4</video>
+	</game>
+	<game>
+		<path>./SI7800.ZIP</path>
+		<name>Space Invaders</name>
+		<sortname />
+		<desc>Earth is under attack from rows of bomb dropping aliens, and you need to defend it! The rows of aliens begin at the top of the screen, and you control a laser cannon at the bottom of the screen. Your goal is to earn points by shooting the aliens before they can land.</desc>
+		<rating>0.7</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/SI7800.jpg</image>
+		<video>./snaps/SI7800.mp4</video>
+	</game>
+	<game>
+		<path>./Alien Brigade (USA).zip</path>
+		<name>Alien Brigade</name>
+		<sortname />
+		<desc>Alien Brigade is a side scrolling shooter similar to Operation Wolf. Aliens have arrived on earth and have brainwashed both soldiers and civilians in order to take over the world. Your job is to stop them! On each of the five levels you will have a different objective to complete, including saving civilians and destroying alien installations. Throughout the levels there will be numerous aliens and brainwashed people you will need to shoot, as well as attacking tanks, helicopters, and more. After shooting enemies a bonus may sometimes be left behind; if you shoot this, you can earn additional ammo, more powerful weapons, or increased health.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900702T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Alien Brigade (USA).jpg</image>
+		<video>./snaps/Alien Brigade (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Choplifter! (USA).zip</path>
+		<name>Choplifter!</name>
+		<sortname />
+		<desc>Choplifter is a side-scrolling action/arcade game that puts you in command of an attack chopper. Your mission: Go behind enemy lines and rescue up to 16 hostages per level. Be careful, though, because tanks and enemy aircraft will try to stop you and they won't stop shooting while you are rescuing those hostages! Originally released for Apple II home computers, Choplifter was later ported to the arcades and a number of video game consoles. Many imitators and homages would follow.</desc>
+		<rating>0.5</rating>
+		<releasedate>19870701T000000</releasedate>
+		<developer>Broderbund Software</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Choplifter! (USA).jpg</image>
+		<video>./snaps/Choplifter! (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Crossbow (USA).zip</path>
+		<name>Crossbow</name>
+		<sortname />
+		<desc>In Crossbow, you and several friends are trying to cross many treacherous landscapes in order to retrieve stolen treasures from the castle of the Evil Master. All of the members of your party are unarmed, however you carry a crossbow. Using this, you need to shoot any obstacles or hostile enemies that may get in the way of your friends as they cross the screen. You see the landscape from a first person point of view, and one by one each member of the party will walk from the left to right on the screen. There are many different landscapes that need to be crossed, each with its own variety of dangers.</desc>
+		<rating>0.85</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Exidy, Inc.</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Crossbow (USA).jpg</image>
+		<video>./snaps/Crossbow (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dig Dug (USA).zip</path>
+		<name>Dig Dug</name>
+		<sortname />
+		<desc>Dig Dug is a 1-2 player arcade game in which you have to use your shovel to dig your way through the earth. Stopping you from doing this are two monsters, called Pooka and Fygar, who will continually chase you around. The only weapon that you carry is an air pump, which you can use to inflate the monsters to the point where they explode. (if you start to inflate them but stop doing so, the monsters will get turned back to their normal selves.) Furthermore, rocks are scattered throughout the earth, and you can use these rocks to squash them. If the monsters do not find you for several seconds, they will eventually get turned into ghosts, which are able to walk through the earth.</desc>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Dig Dug (USA).jpg</image>
+		<video>./snaps/Dig Dug (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Junior (USA).zip</path>
+		<name>Donkey Kong Junior</name>
+		<sortname />
+		<desc>Donkey Kong Jr. was originally released in the arcades in 1982 as a sequel to Donkey Kong. In this game, Mario plays the antagonist, finally having captured Donkey Kong, and has put the ape in a locked cage. As Donkey Kong Jr., players will have to make their way through four different levels (Vines, Springboard, Chains and Mario's Hideout) in an attempt to find keys to free the little monkey's Father.</desc>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Donkey Kong Junior (USA).jpg</image>
+		<video>./snaps/Donkey Kong Junior (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong (USA).zip</path>
+		<name>Donkey Kong</name>
+		<sortname />
+		<desc>Donkey Kong is a platform-action game that has Mario scale four different industrial themed levels (construction zone, cement factory, an elevator-themed level, and removing rivets from girders) in an attempt to save the damsel in distress, Pauline, from the big ape before the timer runs out. Once the rivets are removed from the final level, Donkey Kong falls, and the two lovers are reunited. From there, the levels start over at a higher difficulty.</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Donkey Kong (USA).jpg</image>
+		<video>./snaps/Donkey Kong (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ikari Warriors (USA).zip</path>
+		<name>Ikari Warriors</name>
+		<sortname />
+		<desc>A conversion of the arcade game, Ikari Warriors is a vertically scrolling action game. One or two players fight their way through a variety of terrain, such as jungles, rivers, and ruins. Along the way different weapons can be found, including machine guns, grenades, and rocket launchers.</desc>
+		<rating>0.6</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Ikari Warriors (USA).jpg</image>
+		<video>./snaps/Ikari Warriors (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mean 18 Ultimate Golf (USA).zip</path>
+		<name>Mean 18: Ultimate Golf</name>
+		<sortname />
+		<desc>Pebbele Beach and St. Andrews are two of the courses on offer in this golf simulation, released in the early years of 16-bit technology. The three-click control system was used, whereby the first click starts the swing, the second sets the power, and the third sets draw or fade.</desc>
+		<rating>0.4</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Accolade</developer>
+		<publisher>Accolade</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Mean 18 Ultimate Golf (USA).jpg</image>
+		<video>./snaps/Mean 18 Ultimate Golf (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Water Ski (USA).zip</path>
+		<name>Water Ski</name>
+		<sortname />
+		<desc>In Water Ski you are water skiing on the Pharonna River. You control both the boat and skier in this vertically scrolling action game. Your goal is to reach the finish line before time runs out and also to earn as many points as possible. The river is quite dangerous, and features many twists and turns along with rocks, logs and other obstacles. For bonus points there are numerous ramps located throughout the river which your skier can jump over (and if you can manage to ski over every ramp on the level, you'll earn even more points!).</desc>
+		<rating>0.4</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Froggo Games Corporation</developer>
+		<publisher>Froggo Games Corporation</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Water Ski (USA).jpg</image>
+		<video>./snaps/Water Ski (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Winter Games (USA).zip</path>
+		<name>Winter Games</name>
+		<sortname />
+		<desc>Another in the series of Epyx Olympic sports games. Compete in many different sporting events like: Ski Jump, Hot Dog, Biathlon, Bobsled, Free Skating, Figure Skating and more.</desc>
+		<rating>0.55</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Action Graphics</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>1-8</players>
+		<image>./boxart/Winter Games (USA).jpg</image>
+		<video>./snaps/Winter Games (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Midnight Mutants (USA).zip</path>
+		<name>Midnight Mutants</name>
+		<sortname />
+		<desc>You play the part of Jimmy visiting Grampa on Halloween. Unfortunately, on this Halloween Dr. Evil has returned from the grave and captured Grampa in a pumpkin, and now you have to save him! Midnight Mutants is an action adventure game. As Jimmy you'll need to explore Grampa's mansion and the surrounding lands in order to find items which can be used to defeat enemies (including Dr. Evil) as well as safely reach new areas. The lands have become cursed, however, and there will be many obstacles on your quest including killer bats, zombies, werewolves and more.</desc>
+		<rating>0.85</rating>
+		<releasedate>19901010T000000</releasedate>
+		<developer>Radioactive Software</developer>
+		<publisher>Atari</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/Midnight Mutants (USA).jpg</image>
+		<video>./snaps/Midnight Mutants (USA).mp4</video>
+	</game>
+	<game>
+		<path>./PACCOLL.ZIP</path>
+		<name>Pac-Man Collection!</name>
+		<desc>Pac-Man Collection! is a round-up of the various official (and some not so official) releases of one of the most popular games in history.</desc>
+		<image>./boxart/PACCOLL.jpg</image>
+		<video>./snaps/PACCOLL.mp4</video>
+		<releasedate>20061205T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>AtariAge</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220222T085706</lastplayed>
+	</game>
+</gameList>

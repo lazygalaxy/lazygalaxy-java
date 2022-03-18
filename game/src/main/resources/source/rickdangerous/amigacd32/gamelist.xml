@@ -1,0 +1,1148 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Amiga CD32</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Alien Breed - Tower Assault (Europe).cue</path>
+		<name>Alien Breed: Tower Assault</name>
+		<sortname />
+		<desc>A scientific outpost on a far off planet has been attacked. Nothing is known about the attackers, since all communications have been destroyed. A team of marines is dispatched to investigate and destroy the unknown invaders. As their dropships enter the atmosphere and approach the base, the defence lasers, damaged in the onslaught, move into action. They launch wild bursts of laser fire at the approaching marines, who are not prepared and take heavy losses. Rookies Nash and Jordan crash-land, and must fight off the alien force.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Alien Breed - Tower Assault (Europe).jpg</image>
+		<video>./snaps/Alien Breed - Tower Assault (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Arcade Pool (Europe) (En,Fr,De,It).cue</path>
+		<name>Arcade Pool</name>
+		<sortname />
+		<desc>Arcade Pool is an overhead viewed pool game designed to be easy to control. The game includes the most standard games of pool (UK and US 8-ball and the fast-paced 9-ball game), each with customisable rules, computer players of variable difficulties, and two-player options. There's also a Survivor mode, which is similar to the early Pool arcade game, in that you're playing alone and have to clear the table without missing more than three times. Speed Pool involved clearing the table as quickly as you can - two minutes can be considered a good time.</desc>
+		<rating>0.6</rating>
+		<releasedate>19941115T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>Sports</genre>
+		<players>1-8</players>
+		<image>./boxart/Arcade Pool (Europe) (En,Fr,De,It).jpg</image>
+		<video>./snaps/Arcade Pool (Europe) (En,Fr,De,It).mp4</video>
+	</game>
+	<game>
+		<path>./Banshee (Europe) (En,Fr,De,Da).cue</path>
+		<name>Banshee</name>
+		<sortname />
+		<desc>A vertically-scrolling shoot 'em up from the old school, with similarities to games like 1942 and SWIV. There are lots of big, brash enemy vehicles to take on, plus individual soldiers (these often lie in a pool of blood afterwards, a gruesome sight making full use of AGA graphics) and civilians. Many of the enemies have good hiding places and can emerge surprisingly, Commando-style.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Banshee (Europe) (En,Fr,De,Da).jpg</image>
+		<video>./snaps/Banshee (Europe) (En,Fr,De,Da).mp4</video>
+	</game>
+	<game>
+		<path>./Beneath a Steel Sky (Europe) (En,Fr,De,It).cue</path>
+		<name>Beneath a Steel Sky</name>
+		<sortname />
+		<desc>In futuristic Australia, there are giant cities owned solely by corporations, separated by a giant wasteland known as The Gap. When Robert Foster's Gap-dwelling tribe is killed by soldiers from Union City who capture him, everything changes for him. After a narrow escape from the helicopter bringing him there as it inexplicably crashes, Robert and his droid Joey must search the decaying city, attempting to befriend both the snobby rich and the frustrated poor as the two attempt to get out of the city, but in the middle of everything they uncover the dark truth about LINC, the bizarre computer which makes the city tick.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Beneath a Steel Sky (Europe) (En,Fr,De,It).jpg</image>
+		<video>./snaps/Beneath a Steel Sky (Europe) (En,Fr,De,It).mp4</video>
+	</game>
+	<game>
+		<path>./Brian the Lion Starring in Rumble in the Jungle (1994)(Psygnosis)(M4)[!].cue</path>
+		<name>Brian the Lion</name>
+		<sortname />
+		<desc>In this game, you play Brian, the lion that closely resembles the Paddle Pop mascot. You must carry out the task of rescuing your friend Chris the Crystal, who has been kidnapped by Geeza the Dragon. His other warped jungle animal friends, Barry the Bear and Graeme the Gorilla, prevent you from getting to him and rescuing your friend.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Reflections Interactive</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Brian the Lion Starring in Rumble in the Jungle (1994)(Psygnosis)(M4)[!].jpg</image>
+		<video>./snaps/Brian the Lion Starring in Rumble in the Jungle (1994)(Psygnosis)(M4)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Brutal Football (Europe).cue</path>
+		<name>Brutal Football</name>
+		<sortname />
+		<desc>Similar to Speedball 2, Brutal Football is an ultra-violent sports game. Matches last 7 minutes, and the aim is to get the ball into the goal, kept by a net-minder. The oval ball can be thrown or kicked, this resulting in frequent up-and-under type kicks.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Teque</developer>
+		<publisher>Millennium Interactive</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Brutal Football (Europe).jpg</image>
+		<video>./snaps/Brutal Football (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bubba 'n' Stix (Europe).cue</path>
+		<name>Bubba 'n' Stix</name>
+		<sortname />
+		<desc>The player controls Bubba, a redneck character, who is accompanied by a sentient stick named Stix. Stix can be used in various ways to help Bubba defeat enemies and get past obstacles: for instance, Stix can be thrust into a hole in the side of a platform so that Bubba can climb higher.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Bubba 'n' Stix (Europe).jpg</image>
+		<video>./snaps/Bubba 'n' Stix (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Cannon Fodder (Europe).cue</path>
+		<name>Cannon Fodder</name>
+		<sortname />
+		<desc>Guide a team of up to six soldiers through 72 levels of combat in this top-down action/strategy hybrid, best thought of as Lemmings crossed with Commando crossed with Dune 2. The characters are controlled indirectly using the mouse, as you activate each soldier or group of them by highlighting them, click the left button to move them to a particular spot, and the right button for them to fire guns at an enemy. You can also pick up grenades or rockets, which can be used to destroy groups of enemies, buildings or some vehicles (by pressing both buttons at once).</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sensible Software</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Cannon Fodder (Europe).jpg</image>
+		<video>./snaps/Cannon Fodder (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Chaos Engine, The (Europe) (En,Fr,De,It).cue</path>
+		<name>Chaos Engine, The</name>
+		<sortname />
+		<desc>A time traveler from the future was stranded in Victorian England, and his knowledge of yet unknown technological inventions was passed to the Royal Society, headed by Baron Fortesque. With the help of this knowledge, Fortesque managed to construct an immensely complex artificial intelligence known as the Chaos Engine. However, creation rebelled against its creator, assimilated its mind, and turned Britain into a war zone populated by mad machines. Mercenaries are willing to enter this dangerous place and put an end to the chaos, hoping for an appropriate reward.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>The Bitmap Brothers</developer>
+		<publisher>Renegade Software</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Chaos Engine, The (Europe) (En,Fr,De,It).jpg</image>
+		<video>./snaps/Chaos Engine, The (Europe) (En,Fr,De,It).mp4</video>
+	</game>
+	<game>
+		<path>./Clockwiser (1994)(Rasputin)[!].cue</path>
+		<name>Clockwiser</name>
+		<sortname />
+		<desc>On each of Clockwiser's levels (100 on Amiga/Amiga CD32 and 110 on DOS), you are presented with a level layout, and a target layout, with the aim being to transform the former to match the target. The levels consist of a collection of cogs, which can be rotated either clockwise or anti-clockwise to achieve this goal.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<publisher>Rasputin Software</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Clockwiser (1994)(Rasputin)[!].jpg</image>
+		<video>./snaps/Clockwiser (1994)(Rasputin)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Clue!, The (1994)(Kompart)[!].cue</path>
+		<name>Clue!, The</name>
+		<sortname />
+		<desc>You play Matt Stuvysant, a man of Polish descent and criminal persuasion. You arrive in London with nothing but the clothes on your back and a desire to become the greatest criminal mind this century. Once getting a room and meeting some accomplices, you must begin your career. Starting with small shops and gradually working your way up to the theft of the Crown Jewels. The game allows you to control almost every aspect of the crime, from choosing the target building and accomplices to actually planning the burglary itself.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<publisher>Kompart</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Clue!, The (1994)(Kompart)[!].jpg</image>
+		<video>./snaps/Clue!, The (1994)(Kompart)[!].mp4</video>
+	</game>
+	<game>
+		<path>./D-Generation (Europe).cue</path>
+		<name>D/Generation</name>
+		<sortname />
+		<desc>The game presents an isometric point of view of different interconnected, maze-like rooms that the player passes through floor by floor. Each room can require brains, brawn or both. All bioweapons present in a room must be killed and all air duct vents that they enter through sealed before proceeding further. The building's paranoid security system has predictably gone haywire, leaving rotating grenade launcher turrets, land mines, electrified floors and laser fences targeting humans. Less hostile puzzle elements are doors, the switches and computers that control them, keycards, infrared electric eyes and teleporters.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Mindscape</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/D-Generation (Europe).jpg</image>
+		<video>./snaps/D-Generation (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Darkseed (Europe).cue</path>
+		<name>Dark Seed</name>
+		<sortname />
+		<desc>Dark Seed is an adventure game which capitalizes on the drawings of famous horror designer H. R. Giger as a source of background artwork and inspiration. You play Mike Dawson, an ad company manager who, in pursuit of his goal in life to become a writer, purchases a solitary mansion in a small town called Woodland Hills. Although the low cost and hush-hush transactions when purchasing the house do raise your suspicion, the solitary environment and sheer beauty of the house crush common sense and you decide to buy the house. That's when trouble begin. Upon reaching the house, you suddenly feel tired. You find a bed and fall asleep.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Cyberdreams</developer>
+		<publisher>Cyberdreams</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Darkseed (Europe).jpg</image>
+		<video>./snaps/Darkseed (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Diggers (1993)(Millennium)(NTSC)[!].cue</path>
+		<name>Diggers</name>
+		<sortname />
+		<desc>The game is set on the planet Zarg, where four races are vying for the gems and ores buried there. The four races are: the Habbish, who dig quickly and have high endurance, yet are impatient and prone to wander off; Grablins, who dig the fastest, have good stamina but are weak fighters; Quarriors, who are slow diggers but strong fighters; and the F'Targs, who are mediocre but regain their health quickly. The player chooses one of the four races, then sends out five man teams to mine a region. There are 34 regions in all, with two accessible at the beginning of the game.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<publisher>Millennium Interactive</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Diggers (1993)(Millennium)(NTSC)[!].jpg</image>
+		<video>./snaps/Diggers (1993)(Millennium)(NTSC)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Disposable Hero (Europe).cue</path>
+		<name>Disposable Hero</name>
+		<sortname />
+		<desc>This horizontally scrolling R-Type-influenced shoot 'em up features 5 levels to blast through, with bosses at the end of each level as well as tough mini-bosses as you go through it. There are four difficulty levels, with the easiest acting as a trainer, as you can't reach the final level or complete the game properly with it. You can customize exactly how loud the music and sound effects are relative to each other, and there lots of subtle visual effects, such as a smoke haze coming off your ship as it incurs gradual damage.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Euphoria</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Disposable Hero (Europe).jpg</image>
+		<video>./snaps/Disposable Hero (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Flink (Europe).cue</path>
+		<name>Flink</name>
+		<sortname />
+		<desc>Disaster strikes Imagica Island and Wicked Wainwright's taken over! He's kidnapped the four island leaders, separated them, and has them under the watchful eyes of the Demon Guardians. Excited by his newfound control, he's gone absolutely crazy! He's casting dark clouds of smoke across the land, bringing unpleasant weather and much sadness to the people of Imagica. In a huge panic, the islanders appoint Flink, an apprentice wizard, to challenge Wicked Wainwright and to force the Demon Guardians to release the island leaders. Locate the leaders, bring their powers together, and help make Flink the full-fledged wizard he's always wanted to be!</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Psygnosis</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Flink (Europe).jpg</image>
+		<video>./snaps/Flink (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Fly Harder (Europe).cue</path>
+		<name>Fly Harder</name>
+		<sortname />
+		<desc>Your homeland's precious limited energy is being taken advantage of by the evil Thargoid Empire, and you and your spaceship must do something about it. There are 8 bases to enter, with the aim of using energy pods to cause the reactors to overload and thus malfunction.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Starbyte Software</developer>
+		<publisher>Krisalis Software</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Fly Harder (Europe).jpg</image>
+		<video>./snaps/Fly Harder (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Fury of the Furries (1994)(Kalisto - Mindscape)[!].cue</path>
+		<name>Fury of the Furries</name>
+		<sortname />
+		<desc>In Fury of the Furries, you control a cute, round creature called Tiny, who must defeat "the wicked one" who has captured the King, and turned all the Tinies into mindless monsters. Fortunately your Tiny has special powers. It can transform himself into a swimmer, rock eater, fireball spitter, or rope swinger during its quest.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Atreid Concept</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Fury of the Furries (1994)(Kalisto - Mindscape)[!].jpg</image>
+		<video>./snaps/Fury of the Furries (1994)(Kalisto - Mindscape)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Gloom (Europe).cue</path>
+		<name>Gloom</name>
+		<sortname />
+		<desc>This first person shooter for Amiga &amp; Amiga CD32 is very much in the style of Doom. Game play consists of walking through corridors and shooting bad guys, dinosaurs and aliens.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Acid</developer>
+		<publisher>Guildhall Leisure Services</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Gloom (Europe).jpg</image>
+		<video>./snaps/Gloom (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Heimdall 2 - Into the Hall of Worlds (Europe).cue</path>
+		<name>Heimdall 2: Into the Hall of Worlds</name>
+		<sortname />
+		<desc>Heimdall 2: Into the Hall of Worlds is an isometric action-adventure video game developed by The 8th Day and published by Core Design for Amiga, Amiga CD32 and MS-DOS platforms in 1994. It is set in a world based on Norse mythology and is the sequel to Heimdall, released in 1992. The CD-ROM versions contain a CD audio soundtrack composed by Martin Iveson.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>8th Day</developer>
+		<publisher>Core Design</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Heimdall 2 - Into the Hall of Worlds (Europe).jpg</image>
+		<video>./snaps/Heimdall 2 - Into the Hall of Worlds (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./HeroQuest II - Legacy of Sorasil (Europe) (En,Fr,De).cue</path>
+		<name>HeroQuest II: Legacy of Sorasil</name>
+		<sortname />
+		<desc>HeroQuest II: Legacy of Sorasil is an isometric role-playing game that was released on Amiga 1200 and CD32 in 1994 by Gremlin Graphics. The game is the sequel to HeroQuest.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/HeroQuest II - Legacy of Sorasil (Europe) (En,Fr,De).jpg</image>
+		<video>./snaps/HeroQuest II - Legacy of Sorasil (Europe) (En,Fr,De).mp4</video>
+	</game>
+	<game>
+		<path>./James Pond 2 - Robocod (Europe).cue</path>
+		<name>James Pond 2: Robocod</name>
+		<sortname />
+		<desc>In his second adventure James Pond must retrieve the toys Dr Maybe has stolen. Pond has been armed with an Inspector Gadget-style stretch device, which he can use to view higher areas or claw onto ceilings so as to slide across them.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Vectordean</developer>
+		<publisher>Millennium Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/James Pond 2 - Robocod (Europe).jpg</image>
+		<video>./snaps/James Pond 2 - Robocod (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Jungle Strike - The Sequel to Desert Strike (Europe).cue</path>
+		<name>Jungle Strike</name>
+		<sortname />
+		<desc>Some time after Operation Desert Strike, Ibn Kilbaba, son of Kilbaba S.R, threatens to annihilate America. After his father was killed, the people who were under his control, sent his son running off, along with his father's money and nuclear weapons program. Kilbaba, more ruthless than his father, longs for revenge of his father's death and decides to shed the blood of those who killed him, the Americans. Already armed, Kilbaba hires Carlos Ortega to help him set up his Nuclear Weapons program, deep in South America. Carlos Ortega, the world's most notorious druglord, also yearns to seek revenge. With his own private army, armed with the most hi-tech weapons, he's ready to fight America at all costs.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Ocean</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Jungle Strike - The Sequel to Desert Strike (Europe).jpg</image>
+		<video>./snaps/Jungle Strike - The Sequel to Desert Strike (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Lemmings (1994)(Psygnosis)[!].cue</path>
+		<name>Lemmings</name>
+		<sortname />
+		<desc>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Lemmings (1994)(Psygnosis)[!].jpg</image>
+		<video>./snaps/Lemmings (1994)(Psygnosis)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Naughty Ones (Europe).cue</path>
+		<name>Naughty Ones</name>
+		<sortname />
+		<desc>The Naughty Ones come under your control in this old-fashioned platform game. Each screen is separate from the others, and involves trying to collect a key and then progress through the exit. Enemies are best dealt with by shooting one of your longer-range weapons towards them and waiting for it to hit them - this will release at least one coin, for points. Improved weapons can be collected, each of which functions for a limited number of shots.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Melon Dezign</developer>
+		<publisher>Interactivision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Naughty Ones (Europe).jpg</image>
+		<video>./snaps/Naughty Ones (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./PGA European Tour (Europe).cue</path>
+		<name>PGA European Tour</name>
+		<sortname />
+		<desc>PGA European Tour is best thought of as a remake of the original game, rather than a sequel as such. It features 5 courses from across Europe, and 60 top European pros, rather than the US-leaned lineup of the original. The graphics are much more detailed and colorful, as you'd expect considering the intervening years of advances in programming skill.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>The Dome Software Developments</developer>
+		<publisher>Ocean</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/PGA European Tour (Europe).jpg</image>
+		<video>./snaps/PGA European Tour (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Pierre Le Chef Is ... Out to Lunch (Europe).cue</path>
+		<name>Pierre le Chef is... Out to Lunch</name>
+		<sortname />
+		<desc>Pierre le Chef is touring the world preparing his dishes, but his ingredients have escaped and he must capture them. Pierre must watch out for bacteria, insects, and his arch-rival, Le Chef Noir. Noir, an evil chef jealous of Pierre's success, wants to ruin his career by releasing all of his gathered ingredients.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Mindscape</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Pierre Le Chef Is ... Out to Lunch (Europe).jpg</image>
+		<video>./snaps/Pierre Le Chef Is ... Out to Lunch (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Pinball Illusions (Europe).cue</path>
+		<name>Pinball Illusions</name>
+		<sortname />
+		<desc>Pinball Illusions is the successor to the Pinball Fantasies, using an upgraded game engine. The tables are Babewatch, Law &amp; Justice, Extreme Sports and (on PC CD versions) The Vikings. These contain ramps, bonus areas and combo sequences to set up. All the artwork were produced in true 256 colors from the ground up for AGA Amigas and the PC, rather than originating in 32 colors on older Amigas. New to this version is multi-ball: Pinball Illusions supports up to six balls simultaneously, in which case it switches to high resolution mode. CD versions use CD audio for music.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Digital Illusions</developer>
+		<publisher>20th Century Fox</publisher>
+		<genre>Simulation</genre>
+		<players>1-8</players>
+		<image>./boxart/Pinball Illusions (Europe).jpg</image>
+		<video>./snaps/Pinball Illusions (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Pirates! Gold (Europe) (En,De).cue</path>
+		<name>Pirates! Gold</name>
+		<sortname />
+		<desc>As with the original, this is a blend of strategy, action and adventure. Pirates! Gold lets you play the role of a beginning buccaneer in the 17th century Spanish Main, in search of fame and fortune. Each town in this untamed raw region has different surprises and dangers. How you acquire stature is up to you; you can make your living through honest trade and the search for hidden treasure, or you can be a little more daring and attack and plunder ships. As you can choose a specific skill to stand out in, the game can vary each time. Sword fighting is played out in side-view action sequences.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>MicroProse</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Pirates! Gold (Europe) (En,De).jpg</image>
+		<video>./snaps/Pirates! Gold (Europe) (En,De).mp4</video>
+	</game>
+	<game>
+		<path>./Rise of the Robots (Europe).cue</path>
+		<name>Rise of the Robots</name>
+		<sortname />
+		<desc>Rise of the Robots is a versus fighting game. The player controls the ECO32-5 Cyborg and must fight all the other robots in the plant until finally meeting the Supervisor Droid.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Mirage Technologies</developer>
+		<publisher>Time Warner Interactive</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Rise of the Robots (Europe).jpg</image>
+		<video>./snaps/Rise of the Robots (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Roadkill (Europe).cue</path>
+		<name>Roadkill</name>
+		<sortname />
+		<desc>Set in the future, Roadkill is a racing game featuring all manner of gruesome additions. There are 9 computer opponents in each race, and you must finish in the top 3 every time. Rockets and homing missiles can be collected so as to shoot the rival cars out. The tracks feature in-built hazards and treacherous shortcuts. Money is a big factor in all of this - the higher you finish in a race, the more you get; each car you destroy gives you more money than the previous one, as you go for the Jackpot and then the Super Jackpot.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Vision Software</developer>
+		<publisher>Acid</publisher>
+		<genre>Racing</genre>
+		<image>./boxart/Roadkill (Europe).jpg</image>
+		<video>./snaps/Roadkill (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Simon the Sorcerer (Europe).cue</path>
+		<name>Simon the Sorcerer</name>
+		<sortname />
+		<desc>The story begins with an ordinary teenager, called Simon, who hears his dog, "Chippy", up in in the loft of his house Seeking to investigate, Simon finds that the dog had discovered a spellbook titled "Ye Olde Spellbooke" in an old chest; both the dog and the book had turned up sometime before the story from an unknown location. Simon throws the book onto the floor in contempt, not believing in magic, only for a portal to open above it as a result.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Adventure Soft</developer>
+		<publisher>Adventure Soft</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Simon the Sorcerer (Europe).jpg</image>
+		<video>./snaps/Simon the Sorcerer (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Soccer Kid (1994)(Krisalis)(M5)[!].cue</path>
+		<name>Soccer Kid</name>
+		<sortname />
+		<desc>Aliens attempting to steal the World Cup have crashed as they tried to flee, and the Cup has been broken, its pieces scattered around the globe. As Soccer Kid, you must retrieve it. During your journey you will visit Britain, Italy, Russia, Japan, and finally the States.</desc>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Krisalis Software</developer>
+		<publisher>Krisalis Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Soccer Kid (1994)(Krisalis)(M5)[!].jpg</image>
+		<video>./snaps/Soccer Kid (1994)(Krisalis)(M5)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Speedball 2 (1995)(Renegade)[!].cue</path>
+		<name>Speedball 2: Brutal Deluxe</name>
+		<sortname />
+		<desc>Speedball 2: Brutal Deluxe is no ordinary sports sim. It's a unique blend of extreme violence and stunning gameplay. There's stylish TV-style presentation and slick metal graphics, but when the play starts - the action begins. Train your team, work through the league, beat the other players to a pulp and win through to the championship. With a team management option, one and two player facilities and league, knock out and cup competitions to complete, Speedball 2 is the ideal game for lovers of serious ultra-violence.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>The Bitmap Brothers</developer>
+		<publisher>Renegade Software</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Speedball 2 (1995)(Renegade)[!].jpg</image>
+		<video>./snaps/Speedball 2 (1995)(Renegade)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Super Stardust (Europe).cue</path>
+		<name>Super Stardust</name>
+		<sortname />
+		<desc>Like Stardust, in this Asteroids clone you control your Panther PX-2 ship through successive waves of asteroids and other enemies, which are drawn using ray-tracing techniques. The game features both overhead and 3D sections. In the overhead part, you must eliminate enemy ships and asteroids across several zones in each world. The 3D sections consist of underwater tunnels that link one world to another and they are each defended by a guardian you must defeat.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Bloodhouse</developer>
+		<publisher>Team 17</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Super Stardust (Europe).jpg</image>
+		<video>./snaps/Super Stardust (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Superfrog (Europe).cue</path>
+		<name>Superfrog</name>
+		<sortname />
+		<desc>The story concerns an unnamed prince, who is turned into a frog by a jealous witch. His princess girlfriend is then abducted by the same witch. Subsequently sulking by the "River O' Despair", the prince chances upon a floating bottle of Lucozade, which confers upon him super powers.</desc>
+		<rating>0.5</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Superfrog (Europe).jpg</image>
+		<video>./snaps/Superfrog (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Syndicate (Europe) (En,Fr,It).cue</path>
+		<name>Syndicate</name>
+		<sortname />
+		<desc>In the future, the world is controlled by a handful of global corporations (syndicates). You are the Marketing director (hit man) for one of these companies. It is your job to take control away from the competitors. The job is not one of diplomacy, but one of brute force and physical control. Advance your way to the top of the corporation by successfully completing your missions and managing the money you make from your territories.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Bullfrog</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Syndicate (Europe) (En,Fr,It).jpg</image>
+		<video>./snaps/Syndicate (Europe) (En,Fr,It).mp4</video>
+	</game>
+	<game>
+		<path>./Ultimate Body Blows (Europe).cue</path>
+		<name>Ultimate Body Blows</name>
+		<sortname />
+		<desc>A compilation of the original fighting game "Body Blows" and its sequel, available only for Amiga, "Body Blows Galactic". The game combines everything from its predecessors and adds more colors, improved graphics and music, more backgrounds and endings, giving the player a total of 22 characters (including the invincible Max and his true self, the Terminator T17) and many fixes.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>Fighting</genre>
+		<players>1-4</players>
+		<image>./boxart/Ultimate Body Blows (Europe).jpg</image>
+		<video>./snaps/Ultimate Body Blows (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Worms (2016-01-01)(Ocean-Team 17)[f www.cd32.co.uk].cue</path>
+		<name>Worms</name>
+		<sortname />
+		<desc>Worms is a turn-based strategy game. It features up to 4 teams of 4 worms, aiming to destroy the others on a generated terrain. Each worm has 100 hit points, and dies when his hit points fall to 0. Upon death, a worm explodes, causing damage to everyone around.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Ocean</publisher>
+		<genre>Strategy</genre>
+		<players>1-16</players>
+		<image>./boxart/Worms (2016-01-01)(Ocean-Team 17)[f www.cd32.co.uk].jpg</image>
+		<video>./snaps/Worms (2016-01-01)(Ocean-Team 17)[f www.cd32.co.uk].mp4</video>
+	</game>
+	<game>
+		<path>./Zool - Ninja of the Nth Dimension (Europe).cue</path>
+		<name>Zool: Ninja of the Nth Dimension</name>
+		<sortname>Zool 1</sortname>
+		<desc>His name is Zool, and he is a gremlin-like creature from another dimension. He is forced to land on the Earth, but his sole goal is to attain the prestigious ranking of a Ninja. To do that, Zool will have to travel through six worlds, each divided into three stages, defeat his enemies, and prove himself worthy of that title.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Zool - Ninja of the Nth Dimension (Europe).jpg</image>
+		<video>./snaps/Zool - Ninja of the Nth Dimension (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Zool 2 (Europe).cue</path>
+		<name>Zool 2</name>
+		<sortname>zool 2</sortname>
+		<desc>The intergalactic gremlin ninja Zool returns, and this time his enemies in the game were named Krool and his assistant Mental Block, whose goal is to stifle the world's imagination, causing rampant boredom. In his fight Zool is aided by his female companion, named Zooz (in a red costume), and his faithful dog Zoon. The ending contained a hint at a possible further sequel.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>The Warp Factory</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Zool 2 (Europe).jpg</image>
+		<video>./snaps/Zool 2 (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Benefactor (Europe).cue</path>
+		<name>Benefactor</name>
+		<sortname />
+		<desc>As Ben E. Factor himself, you must travel through the six moons of Minniat, on which the peaceful and good-natured people of Lullyat have been kidnapped. These Merry Men each have their own potential skill once rescued, so releasing them in the right order is often essential for completing a level. Some Merry Men have grey suits - this marks them out as joyless and awkward characters which must be guided through a coloring machine.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Digital Illusions</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Benefactor (Europe).jpg</image>
+		<video>./snaps/Benefactor (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Chuck Rock II - Son of Chuck (Europe).cue</path>
+		<name>Chuck Rock II: Son of Chuck</name>
+		<sortname />
+		<desc>The story in this Chuck Rock game takes up a little while after the end of the first game. As you may remember, Chuck Rock had to rescue his girl, Ophelia from the bad dude Gary Gritter. Well, he was successful in his efforts, and now Chuck and Ophelia are married. Eventually, they have a son, named Junior. Chuck works in a factory, where he develops great skill at carving automobiles out of stone. A rival manufacturer becomes jealous of Chuck's abilities and kidnaps him. Now it is up to Junior to rescue his dad!</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Chuck Rock II - Son of Chuck (Europe).jpg</image>
+		<video>./snaps/Chuck Rock II - Son of Chuck (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Seek &amp; Destroy (Europe).cue</path>
+		<name>Seek &amp; Destroy</name>
+		<sortname />
+		<desc>Seek and Destroy is a 1996 action video game developed by Vision Software and published by Safari Software (then a division of Epic MegaGames). A different version was also released on the Amiga and Amiga CD32 published by Mindscape. This game has classical elements from the Desert Strike: Return to the Gulf as well as ones from Return Fire.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Vision Software</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Seek &amp; Destroy (Europe).jpg</image>
+		<video>./snaps/Seek &amp; Destroy (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Dragonstone (Europe) (En,Fr,De) [CD32].cue</path>
+		<name>Dragonstone</name>
+		<sortname />
+		<desc>The pseudo-sequel to Darkmere, Dragonstone has a look and feel influenced by Zelda games. Agon is the villain whose hordes you must destroy. The game is split across 7 multi-directional levels, taking in forests and caves in a fantasy setting. You are armed with a sword and a special energy-bolt attack, which can be charged up. Some vanquished enemies discard food or gold; there are shops in which to spend this.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Dragonstone (Europe) (En,Fr,De) [CD32].jpg</image>
+		<video>./snaps/Dragonstone (Europe) (En,Fr,De) [CD32].mp4</video>
+	</game>
+	<game>
+		<path>./Guardian (Europe).cue</path>
+		<name>Guardian</name>
+		<sortname />
+		<desc>Guardian is a fast and furious shoot 'em up. You skim over the surface of a planet, shooting enemies down as quickly as you can, with the hope of protecting as may of the installations as possible - the more you save, the quicker you get extra lives.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Acid</developer>
+		<publisher>Acid</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Guardian (Europe).jpg</image>
+		<video>./snaps/Guardian (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Gunship 2000 [CD32].cue</path>
+		<name>Gunship 2000</name>
+		<sortname />
+		<desc>Take the Apache, the new Longbow Apache, The Blackhawk, Comanche Scout, Comanche Gunship, or the MD-500 Defender on campaigns or missions. Updated graphics engine has much more detailed terrain variation with true valleys/hills and even train tunnels that you can fly through. When you are promoted to a sufficient rank you can take along multiple helicopters to accomplish your objectives. The dynamic campaign generates new missions based on multiple maps.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>MicroProse</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Gunship 2000 [CD32].jpg</image>
+		<video>./snaps/Gunship 2000 [CD32].mp4</video>
+	</game>
+	<game>
+		<path>./Whale's Voyage (Europe) [CD32].cue</path>
+		<name>Whale's Voyage</name>
+		<sortname />
+		<desc>Whale's Voyage is a sci-fi role-playing game with trading elements. The story involves a space traveler who has made a bad deal buying a space ship known as Whale, which turned out to be half-wrecked. Stranded on the orbit of a remote planet, the traveler and his crew have to find a way to gain money and outfit the ship so that it will stand a chance in that dangerous area.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<publisher>Flair Software</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Whale's Voyage (Europe) [CD32].jpg</image>
+		<video>./snaps/Whale's Voyage (Europe) [CD32].mp4</video>
+	</game>
+	<game>
+		<path>./Litil Divil (Europe) [CD32].cue</path>
+		<name>Litil Divil</name>
+		<sortname />
+		<desc>The player takes control of a little red devil called Mutt who is trying to retrieve the Mystical Pizza of Plenty from the Labyrinth of Chaos.The dungeon consists of a maze navigated from an over-the-shoulder perspective and rooms where Mutt is facing various riddles.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Litil Divil (Europe) [CD32].jpg</image>
+		<video>./snaps/Litil Divil (Europe) [CD32].mp4</video>
+	</game>
+	<game>
+		<path>./Labyrinth of Time, The (Europe) [CD32].cue</path>
+		<name>The Labyrinth of Time</name>
+		<sortname />
+		<desc>The game begins during player's commute home from work. While aboard the subway, the player and their train car are suddenly sucked into an alternate dimension. An illusion in the form of the mythological character Daedalus explains that King Minos has forced him to oversee the construction of a labyrinth that spans the space-time continuum. Upon its construction, King Minos will invade and conquer all times and places with his supernatural powers. Daedalus pleads for the player to find a way to destroy the labyrinth before Minos can complete his conquest.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Terra Nova Development</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Labyrinth of Time, The (Europe) [CD32].jpg</image>
+		<video>./snaps/Labyrinth of Time, The (Europe) [CD32].mp4</video>
+	</game>
+	<game>
+		<path>./Liberation - Captive II (Europe) (Rev 3) [CD32].cue</path>
+		<name>Captive II: Liberation</name>
+		<sortname />
+		<desc>Liberation is the sequel to Captive, where the main character from the original is now a free man. However, your character is drawn into action once again after a political assassination and a corporate cover-up by BioCorp, one of the ruling multinational companies. With aid from your four droids you are able to search the city for victims, those used in the cover-ups, of BioCorp. With each minor victory your intent becomes clearer - to persuade the Emperor in regaining control over the corporate hegemony.</desc>
+		<rating>0.5</rating>
+		<releasedate>19940210T000000</releasedate>
+		<developer>Mindscape</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Liberation - Captive II (Europe) (Rev 3) [CD32].jpg</image>
+		<video>./snaps/Liberation - Captive II (Europe) (Rev 3) [CD32].mp4</video>
+	</game>
+	<game>
+		<path>./Super Skidmarks (Europe) [CD32].cue</path>
+		<name>Super Skidmarks</name>
+		<sortname />
+		<desc>A vague descendant of Super Sprint with a mass of features, and one of the last multi-format games to have roots on the Amiga. A multitude of cars are available, ranging from F1 cars and Sportscars to Minis and VWs were on offer, with the option to have up to 8 of these on more powerful machines - with up to 3 different models of car.</desc>
+		<rating>0.85</rating>
+		<releasedate>19950801T000000</releasedate>
+		<developer>Guildhall Leisure Service</developer>
+		<publisher>Acid</publisher>
+		<genre>Racing</genre>
+		<players>1-4</players>
+		<image>./boxart/Super Skidmarks (Europe) [CD32].jpg</image>
+		<video>./snaps/Super Skidmarks (Europe) [CD32].mp4</video>
+	</game>
+	<game>
+		<path>./Microcosm (Europe) [CD32].cue</path>
+		<name>Microcosm</name>
+		<sortname />
+		<desc>Set in the year of 2051 AD, the game takes place in a dystopian futuristic setting on an alien planet called Bodor, located in the Bator System.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Psygnosis</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Microcosm (Europe) [CD32].jpg</image>
+		<video>./snaps/Microcosm (Europe) [CD32].mp4</video>
+	</game>
+	<game>
+		<path>./Alien Breed 3D (2016-01-01)(Team 17)[f www.cd32.co.uk].cue</path>
+		<name>Alien Breed 3D</name>
+		<sortname />
+		<desc>Alien Breed 3D is a follow-up to Alien Breed, a Gauntlet-style shooter, and its sequels. Unlike its predecessors, this game is set into a 3D context, making for the Amiga's first big Doom-style game. The 3D engine uses fairly small screen graphics, but these include full floors and ceilings with detailed shading, doors, vertical position variations, lifts and transporters. The CD version includes extra atmospheric sound, while fast processors and extra FastRAM are also supported.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Alien Breed 3D (2016-01-01)(Team 17)[f www.cd32.co.uk].jpg</image>
+		<video>./snaps/Alien Breed 3D (2016-01-01)(Team 17)[f www.cd32.co.uk].mp4</video>
+	</game>
+	<game>
+		<path>./Defender of the Crown II (USA) (En,Fr,De,Es,It).cue</path>
+		<name>Defender of the Crown II</name>
+		<sortname />
+		<desc>Defender of the Crown II is the sequel to Defender of the Crown. It improves over the game by upgrading the arcade sequences. Here, unlike the original game; sword fighting is about method and is not just wild clicking of the mouse button. The siege sequence is also enhanced with different types of ammo (such as Greek fire) to toss into the castle. The jousting is now easier to control and the lance no longer bounces around wildly.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Master Designer Software, Inc.</developer>
+		<publisher>Cinemaware</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Defender of the Crown II (USA) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Defender of the Crown II (USA) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Alfred Chicken (Europe).cue</path>
+		<name>Alfred Chicken</name>
+		<sortname />
+		<desc>Alfred the chicken must rescue his friends and his bird (pardon the pun) Floella from the Meka Chickens. The result is a platform game across differently-themed levels, which are finished by either climbing to the top of the level or killing a boss. Bonus games and secret rooms have been included, and progression sometimes requires solving positional puzzles.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Twilight</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Alfred Chicken (Europe).jpg</image>
+		<video>./snaps/Alfred Chicken (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Base Jumpers (Europe).cue</path>
+		<name>Base Jumpers</name>
+		<sortname />
+		<desc>Base Jumpers was the second release by Aaron and Adam Fothergill's Shadow Software outfit for publisher Rasputin and was very simple in concept. In a 2D platform gaming style, players run up to the top of towers, trying to combine 3 letter pickups to collect plain daft bonuses (there were something like 500 different 3 letter combinations) and then jump off the building and base jump down the outside. The last player to avoid the sticky out bits of the building and successfully open their parachute before becoming pavement art wins the round.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Shadow Software</developer>
+		<publisher>Rasputin Software</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Base Jumpers (Europe).jpg</image>
+		<video>./snaps/Base Jumpers (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bubble and Squeak (Europe).cue</path>
+		<name>Bubble and Squeak</name>
+		<sortname />
+		<desc>Bubble and Squeak starts off similarly to many other platform games. Controlling a bald child, you move through a scrolling array of ledges, avoiding contact with nasties who release coins when shot. There are hidden areas to find as well. Halfway through the first of the 30 levels, you meet Squeak and the full nature of the game starts. Squeak is a blue alien, who must also be guided through the levels. As he can't jump as high as you, he must sometimes be instructed to wait while you flick a switch or otherwise solve the puzzle of how to guide him through. If you stand on top of Squeak you can be launched into an extra-high jump.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Audiogenic Software Ltd.</developer>
+		<publisher>Audiogenic Software Ltd.</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Bubble and Squeak (Europe).jpg</image>
+		<video>./snaps/Bubble and Squeak (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Exile (1995)(Audiogenic)[!].cue</path>
+		<name>Exile</name>
+		<sortname />
+		<desc>When a terraforming team on an unexplored planet sends some disturbing messages back to Earth and then stops responding altogether, a space-adventurer is sent to find out what happened.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Audiogenic Software Ltd.</developer>
+		<publisher>Audiogenic Software Ltd.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Exile (1995)(Audiogenic)[!].jpg</image>
+		<video>./snaps/Exile (1995)(Audiogenic)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Fire &amp; Ice - The Daring Adventures of Cool Coyote (Europe) (En,Fr,De,It).cue</path>
+		<name>Fire &amp; Ice: The Daring Adventures of Cool Coyote</name>
+		<sortname />
+		<desc>The background story of Fire &amp; Ice is quick to tell: A coyote (you) runs, throwing ice cubes, through various worlds. In the levels you must jump on platforms and kill your enemies. The enemies (for example, birds and penguins) can be shot with your ice cubes; they become frozen, so you smash them. Sometimes they leave part of a key behind after they're destroyed. The complete key, assembled from all the pieces, opens the door to the next world.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Graftgold</developer>
+		<publisher>Renegade Software</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Fire &amp; Ice - The Daring Adventures of Cool Coyote (Europe) (En,Fr,De,It).jpg</image>
+		<video>./snaps/Fire &amp; Ice - The Daring Adventures of Cool Coyote (Europe) (En,Fr,De,It).mp4</video>
+	</game>
+	<game>
+		<path>./Humans 3 - Evolution - Lost in Time... (Europe).cue</path>
+		<name>Humans III: Evolution Lost in Time</name>
+		<sortname />
+		<desc>Zoo keepers from an alien world have scoured human history to steal 7 important figures from different epochs, and it is your job to rescue them. First you will have to explore four worlds to find the 6 pieces of their Time Machine, avoiding the chasing aliens.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Imagitec Design</developer>
+		<publisher>GameTek</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Humans 3 - Evolution - Lost in Time... (Europe).jpg</image>
+		<video>./snaps/Humans 3 - Evolution - Lost in Time... (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Humans (Europe) (En,Fr,De,Es,It).cue</path>
+		<name>Humans</name>
+		<sortname />
+		<desc>The Humans is a puzzle game similar to Lemmings whose objective is to manipulate the given number of humans, taking advantage of abilities and tools to achieve the level's goal, usually consisting of finding a certain tool, killing a certain number of dinosaurs or bringing at least one human to the end point, marked by a conspicuous colored tile. Each level is independent of the next, each with its own tools, goal, and set number of humans allowed per level. The only things that carry from level to level are the total number of humans in the player's tribe and the player's total score.</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Imagitec Design</developer>
+		<publisher>GameTek</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Humans (Europe) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Humans (Europe) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Impossible Mission 2025 - The Special Edition (Europe).cue</path>
+		<name>Impossible Mission 2025: The Special Edition</name>
+		<sortname />
+		<desc>As an erstwhile Spectrum and C64 owner, the name Impossible Mission sends all sorts of chills up and down my spine. I can well remember countless days and nights spent searching rooms in a secret underground bunker, looking for the missing parts of a puzzle that would allow me to enter the hidden room and kill the mad professor who is trying to take over the world. "Destroy him my robots," cried the voice of said sanity-challenged intellectual.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>MicroProse</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Impossible Mission 2025 - The Special Edition (Europe).jpg</image>
+		<video>./snaps/Impossible Mission 2025 - The Special Edition (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Kid Chaos (Europe).cue</path>
+		<name>Kid Chaos</name>
+		<sortname />
+		<desc>Kid Chaos (also known as Kid Vicious) is a side-scrolling platform video game that Magnetic Fields developed, and Ocean Software published, for the Amiga and Amiga CD32 in 1994</desc>
+		<rating>1</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Magnetic Fields</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Kid Chaos (Europe).jpg</image>
+		<video>./snaps/Kid Chaos (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Kingpin - Arcade Sports Bowling (Europe) (En,Fr,De,It).cue</path>
+		<name>Kingpin: Arcade Sports Bowling</name>
+		<sortname />
+		<desc>Kingpin: Arcade Sports Bowling is a bowling game with support for up to 6 players, who can be human or CPU-controlled. Player statistics can be built up as you play. On the bottom right of the bowling alley screen there is a power gauge that can be altered pressing the Up and Down keyboard arrow keys / joypad buttons. Pressing the Left and Right keys changes the position of your avatar, and hitting Enter / fire makes a small moving arrow appear in the bowling lane. It shows the direction your character will throw the ball when you hit Enter / fire again.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>Sports</genre>
+		<players>1-6</players>
+		<image>./boxart/Kingpin - Arcade Sports Bowling (Europe) (En,Fr,De,It).jpg</image>
+		<video>./snaps/Kingpin - Arcade Sports Bowling (Europe) (En,Fr,De,It).mp4</video>
+	</game>
+	<game>
+		<path>./Legends (1996)(Guildhall Leisure Services)(M3)[!].cue</path>
+		<name>Legends</name>
+		<sortname />
+		<desc>Legends is an action-adventure with Zelda-inspired gameplay. The player controls a character pertinent to the time period (an American Indian from 1400 A.D. - America, a knight from medieval England, a Chinese warrior from Imperial China, an Egyptian acolyte from ancient Egypt, and Billy in the alien spaceship).</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Krisalis Software</developer>
+		<publisher>Guildhall Leisure Services</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Legends (1996)(Guildhall Leisure Services)(M3)[!].jpg</image>
+		<video>./snaps/Legends (1996)(Guildhall Leisure Services)(M3)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Classic Lotus Trilogy, The (Europe).cue</path>
+		<name>Classic Lotus Trilogy, The</name>
+		<sortname />
+		<desc>First game features lap-based racing against 19 other cars. The second game involves driving to checkpoints against the clock, with 8 distinct settings and a full screen single-player mode. The third game adds the RECS course creator, and combines lap-based racing and checkpoint-based racing from the original, with 5 new settings.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<publisher>Gremlin Graphics Software</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Classic Lotus Trilogy, The (Europe).jpg</image>
+		<video>./snaps/Classic Lotus Trilogy, The (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Manchester United - Premier League Champions v1.0CD (1994)(Krisalis)(M4)[!][CDD5049].cue</path>
+		<name>Manchester United: Premier League Champions</name>
+		<sortname />
+		<desc>After Manchester United won the English League championship for the first time since 1967, it was no surprise that Krisalis re-used their existing license for a third licensed football game. Little did they know that the club was entering an unprecedented run of success that has continued well into the 2010s.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Krisalis Software</developer>
+		<publisher>Krisalis Software</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Manchester United - Premier League Champions v1.0CD (1994)(Krisalis)(M4)[!][CDD5049].jpg</image>
+		<video>./snaps/Manchester United - Premier League Champions v1.0CD (1994)(Krisalis)(M4)[!][CDD5049].mp4</video>
+	</game>
+	<game>
+		<path>./Marvin's Marvellous Adventure (1995)(21st Century Entertainment)(M4)[!].cue</path>
+		<name>Marvin's Marvellous Adventure</name>
+		<sortname />
+		<desc>One of the most console-style platformers ever seen on the Amiga, Marvin has approximately 60 levels to battle through. There are stars to collect, extra lives on offer, slides, tubes, ladders, caterpillars to move across, and bonus fruit to collect. The levels are inhabited by typical enemies, some of which are killed by jumping on their heads, while others must be kicked or shot (once you collect a weapon).</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Infernal Byte Systems</developer>
+		<publisher>20th Century Fox</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Marvin's Marvellous Adventure (1995)(21st Century Entertainment)(M4)[!].jpg</image>
+		<video>./snaps/Marvin's Marvellous Adventure (1995)(21st Century Entertainment)(M4)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Nick Faldos Championship Golf (Europe).cue</path>
+		<name>Nick Faldo's Championship Golf</name>
+		<sortname />
+		<desc>Arc Developments created a 3D game world called Reality3 for this simulation, licensed around one of Britain's top players. There are two courses, plus a hidden 9-hole course on Mars with reduced gravity, with match play and stroke play options against one of 8 varied-difficulty computer players.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<publisher>Grandslam Entertainment Ltd.</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Nick Faldos Championship Golf (Europe).jpg</image>
+		<video>./snaps/Nick Faldos Championship Golf (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Nigel Mansell's World Championship (Europe) (En,Fr,De,It).cue</path>
+		<name>Nigel Mansell's World Championship</name>
+		<sortname />
+		<desc>The player can race a single race, do a season of Formula One, or practice their skills on a particular race track. Either music, sound effects, or both can be shut off on the options menu. The changing of the tires is mandatory on pit road during the middle of each race, and weather can determine whether the player should use hard tires, soft tires, or rain tires. Before the beginning of the race, it is possible to change some aspects of the car, such as spoilers, tires and gearbox.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Nigel Mansell's World Championship (Europe) (En,Fr,De,It).jpg</image>
+		<video>./snaps/Nigel Mansell's World Championship (Europe) (En,Fr,De,It).mp4</video>
+	</game>
+	<game>
+		<path>./Pinball Prelude (1996)(Effigy Software)[!][Amiga-CD32-PC].cue</path>
+		<name>Pinball Prelude</name>
+		<sortname />
+		<desc>The central theme of the pinball game Pinball Prelude is time. The first table is set in the past and features a dinosaur setting, with table elements being not easily recognizable as such since they blend into the environment. The second table is set in the present and at the same time the most conventional of the three design-wise. The third table plays in the future and contains five flippers in total.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Effigy Software</developer>
+		<publisher>Effigy Software</publisher>
+		<genre>Simulation</genre>
+		<players>1-4</players>
+		<image>./boxart/Pinball Prelude (1996)(Effigy Software)[!][Amiga-CD32-PC].jpg</image>
+		<video>./snaps/Pinball Prelude (1996)(Effigy Software)[!][Amiga-CD32-PC].mp4</video>
+	</game>
+	<game>
+		<path>./Sabre Team (1994)(Krisalis)(M5)[!].cue</path>
+		<name>Sabre Team</name>
+		<sortname />
+		<desc>A Sabre Team is a squad of four elite soldiers charged with some of the toughest hostage-rescue, building-storming and the like that Western forces have ever attempted. In this turn-based strategic simulation you must choose a team of four of these from the 8 available, and take them to victory in five increasingly tough missions. Even before you get into the main game-play, there is a lot of strategy involved in choosing weaponry, as they make different amounts of noise when used (reducing the stealth potential) and their ammunition is of varying weight.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Krisalis Software</developer>
+		<publisher>Krisalis Software</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Sabre Team (1994)(Krisalis)(M5)[!].jpg</image>
+		<video>./snaps/Sabre Team (1994)(Krisalis)(M5)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Sensible Soccer - European Champions v1.1 (1993)(Renegade)(M4)[!].cue</path>
+		<name>Sensible Soccer: European Champions</name>
+		<sortname />
+		<desc>La mouture European Champions de Sensible Soccer inclut les noms des joueurs présents en clubs européens lors de la saison 92/93. Vous pouvez aussi participer aux qualifications pour la Coupe du Monde 94. L'un des arguments majeurs du jeu à l'époque était la prise en compte des cartons.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sensible Software</developer>
+		<publisher>Renegade Software</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Sensible Soccer - European Champions v1.1 (1993)(Renegade)(M4)[!].jpg</image>
+		<video>./snaps/Sensible Soccer - European Champions v1.1 (1993)(Renegade)(M4)[!].mp4</video>
+	</game>
+	<game>
+		<path>./International Sensible Soccer - World Champions (Europe) (En,Fr,De,It).cue</path>
+		<name>International Sensible Soccer: World Champions</name>
+		<sortname />
+		<desc>Released alongside the 1994 World Cup, this was the first version of Sensible Soccer to feature teams from outside Europe. The World Cup tournament is featured in full, and you can adjust which 24 teams this features, a particularly crucial feature for English and French fans, as their nations failed to qualify.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sensible Software</developer>
+		<publisher>Renegade Software</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/International Sensible Soccer - World Champions (Europe) (En,Fr,De,It).jpg</image>
+		<video>./snaps/International Sensible Soccer - World Champions (Europe) (En,Fr,De,It).mp4</video>
+	</game>
+	<game>
+		<path>./Shadow Fighter (Europe).cue</path>
+		<name>Shadow Fighter</name>
+		<sortname />
+		<desc>Shadow Fighter was one of the few Mortal Kombat influenced beat 'em ups released for the Amiga. There are 16 fighters, each with their own home country and arena, plus Pupazz, a puppet you could repeatedly attack to practice moves. The usual sequence of best-of-3 fights is on offer, with variable difficulty and optional blood. The control system is designed around a one-button controller, but still offers 25 moves for each player, with special moves executed by spinning the joystick round 180 degrees. Each arena features multi-layer parallax, with up to 80 colors.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>NAPS Team</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Shadow Fighter (Europe).jpg</image>
+		<video>./snaps/Shadow Fighter (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Sleepwalker (1993)(Ocean)[!].cue</path>
+		<name>Sleepwalker</name>
+		<sortname />
+		<desc>Sleepwalker is a platform game developed by CTA Developments and published by Ocean Software for the Amiga, Amiga CD32, Commodore 64 and Atari ST in 1993. It was later ported to MS-DOS. Sleepwalker was later re-released in 1994 using the Eek! The Cat license for the Super Nintendo Entertainment System.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>CTA Developments</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Sleepwalker (1993)(Ocean)[!].jpg</image>
+		<video>./snaps/Sleepwalker (1993)(Ocean)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Star Crusader (1994)(Gametek - Take 2)[!][Amiga-CD32].cue</path>
+		<name>Star Crusader</name>
+		<sortname />
+		<desc>The player assumes the role of Roman Alexandria, a crack pilot for the Gorene Empire in their conquest to assume control of the Ascalon Rift. The five races native to the Rift, previously enemies, join forces to resist the Gorene expansion and as Roman Alexandria, you are confronted with an ethical dilemma in deciding which side to fight for.</desc>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Take 2 Interactive</developer>
+		<publisher>GameTek</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Star Crusader (1994)(Gametek - Take 2)[!][Amiga-CD32].jpg</image>
+		<video>./snaps/Star Crusader (1994)(Gametek - Take 2)[!][Amiga-CD32].mp4</video>
+	</game>
+	<game>
+		<path>./Super Methane Bros. (Europe).cue</path>
+		<name>Super Methane Bros.</name>
+		<sortname />
+		<desc>Super Methane Brothers is a 1993 platform arcade game released for Amiga by Apache Software Ltd.. The gameplay is similar to Taito's Bubble Bobble. Puff and Blow each have a Methane Gas Gun which fires a cloud of immobilising gas. If this comes into contact with a bad guy he will be absorbed into the gas and then float around the screen for a limited time. Bad guys are harmless in this state. Puff and Blow must suck the floating gas clouds into their guns and blast them out against a vertical surface. Bad guys then turn into bonuses which can be collected.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Apache</developer>
+		<publisher>Apache</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Methane Bros. (Europe).jpg</image>
+		<video>./snaps/Super Methane Bros. (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Super Street Fighter II Turbo (1995)(Gametek)[!].cue</path>
+		<name>Super Street Fighter II Turbo</name>
+		<sortname />
+		<desc>Fighting game ported from the classic and wildly popular "Street Fighter 2" franchise. Choose from a variety of characters and use their fighting skills to beat opponents and become the world champion fighter. Advantages over the original Street Fighter 2 include faster fighting speed, 4 new characters, new locations, and more balanced/streamlined moves for the original characters.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>GameTek</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Street Fighter II Turbo (1995)(Gametek)[!].jpg</image>
+		<video>./snaps/Super Street Fighter II Turbo (1995)(Gametek)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Trolls (Europe).cue</path>
+		<name>Trolls</name>
+		<sortname />
+		<desc>This platform game features the small blue-haired cutesy creatures that were popular around the time (although surely not with most computer game buyers?). You play a Troll roaming the levels in the hope of rescuing as many baby trolls as possible - each level gives you a set minimum to retrieve before you can leave via the Pigstop.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Flair Software</developer>
+		<publisher>Flair Software</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Trolls (Europe).jpg</image>
+		<video>./snaps/Trolls (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./UFO - Enemy Unknown (Europe) (En,Fr,De).cue</path>
+		<name>UFO: Enemy Unknown</name>
+		<sortname />
+		<desc>In the year 1998, the amount of reports of UFO sightings has been drastically increased. Stories about abductions and alien attacks became more and more widespread. Finally, after various nations of the world have failed to intercept the UFOs, their representatives met in a conference of global importance in Geneva, Switzerland. It was eventually decided to organize a secret paramilitary group, dubbed Extraterrestrial Combat Unit (X-COM). Starting with one base, two fighters, one transport, and a few soldiers, X-COM must locate the aliens, learn about their origins and technology, find out where their base is, and destroy it.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Mythos Game</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/UFO - Enemy Unknown (Europe) (En,Fr,De).jpg</image>
+		<video>./snaps/UFO - Enemy Unknown (Europe) (En,Fr,De).mp4</video>
+	</game>
+	<game>
+		<path>./Universe (1994)(Core)(M4)[!].cue</path>
+		<name>Universe</name>
+		<sortname />
+		<desc>You are Boris Verne, a normal guy who is been cast in a parallel universe because of your uncle's Virtual Dimension Inducer. There you'll have to find the fabled lost star as well as a way to defeat the Golden King. This is a classic old-style adventure game with a point&amp;click interface. It uses the Rotoscope system to manage game characters and scores really beautiful 256-colour graphic.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Universe (1994)(Core)(M4)[!].jpg</image>
+		<video>./snaps/Universe (1994)(Core)(M4)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Overkill &amp; Lunar-C (Europe).cue</path>
+		<name>Overkill  and  Lunar-C</name>
+		<sortname />
+		<desc>This CD contains two shoot 'em ups: Overkill (a Defender clone), and Lunar-C (a Gradius/Lifeforce clone). Lunar-C is unique in that it was only released in this compilation.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Mindscape</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Overkill &amp; Lunar-C (Europe).jpg</image>
+		<video>./snaps/Overkill &amp; Lunar-C (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Pinball Fantasies (Europe).cue</path>
+		<name>Pinball Fantasies</name>
+		<sortname />
+		<desc>Like Pinball Dreams, Pinball Fantasies contains four themed tables with various difficulty levels. "Party Land", the table included in the shareware release, is oriented around an amusement park, where the letters of either PARTY or CRAZY must be lit to start a high-scoring event. "Speed Devils" is focused on car racing, and the player must overtake cars to take the lead. "Billion Dollar Gameshow" is a game show-style table where the player attempts to win prizes by achieving certain combinations of ramps. "Stones 'N Bones" is based on a haunted house, where the player must light eight successively more rewarding modes by completing a bank of targets marked STONE-BONE and then cycle continuously through the modes.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Digital Illusions</developer>
+		<publisher>20th Century Fox</publisher>
+		<genre>Simulation</genre>
+		<players>1-8</players>
+		<image>./boxart/Pinball Fantasies (Europe).jpg</image>
+		<video>./snaps/Pinball Fantasies (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Skeleton Krew (Europe).cue</path>
+		<name>Skeleton Krew</name>
+		<sortname />
+		<desc>The game takes place in the year 2062. A baddy named Moribund Kadaver has assumed control of a cryogenics plant near Monstro City. Kadaver is apparently a former mortician who has dabbled in cryogenics ever since he purchased Deadly Enforcement Aggressive Destruction Incorporated, aka DEAD Inc. Now he has the power to unleash mutants called Psykogenix on the population of Monstro City! The Military Ascertainment Department (MAD) has decided to call upon the world's most vicious mercenaries: the Skeleton Krew.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Skeleton Krew (Europe).jpg</image>
+		<video>./snaps/Skeleton Krew (Europe).mp4</video>
+	</game>
+</gameList>

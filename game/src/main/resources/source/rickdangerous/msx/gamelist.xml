@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>MSX</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Guardic (Japan).zip</path>
+		<name>Guardic</name>
+		<sortname />
+		<desc>Guardic is a top-down 2d shooter based on the classic premise of pitting a single starfighter against a horde of enemies with the fate of the galaxy at hand. A particularly interesting touch in Guardic is that instead of fighting through a scrolling field filled with enemies, the game places your ship in "rooms" with a fixed amount of opponents that take up the most part of the screen. After defeating every enemy on screen you advance to the next room and so on.</desc>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Compile</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Guardic (Japan).jpg</image>
+		<video>./snaps/Guardic (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Thexder (Japan).zip</path>
+		<name>Thexder: Hyper Dual Armor</name>
+		<sortname />
+		<desc>A platform shooter from Japan, Thexder offers many levels and diverse enemies that gradually increase in difficulty. You pilot a Battletech-style robot capable of switching from a mech into a jet at any time. Your weapon auto-aims, but uses up a fixed amount of rechargeable energy; if you run out of this energy, you'll have to wait a few seconds before you can fire again. Your mech also contains a shield that can be activated to protect you from harm, but this lasts for a few seconds and uses up some of your life energy.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Game Arts Co., Ltd.</developer>
+		<publisher>Game Arts Co., Ltd.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Thexder (Japan).jpg</image>
+		<video>./snaps/Thexder (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Penguin Adventure (Japan, Europe).zip</path>
+		<name>Penguin Adventure</name>
+		<sortname />
+		<desc>In this action packed game, you take control of the male penguin and travel across the lands and seas in search of the Golden Apple, fighting different types of enemies including bats, thunder-striking clouds, and environmental obstacles such as rocks, until finally reaching the princess. The stages feature different types of landscapes such as forests, mountains, caves, and water stages. As you fight your way through, you can also catch flying fish which you can trade at the different types of shops for new equipments and a weapon.</desc>
+		<rating>0.85</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Penguin Adventure (Japan, Europe).jpg</image>
+		<video>./snaps/Penguin Adventure (Japan, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./F-1 Spirit - The Way to Formula-1 (Japan).zip</path>
+		<name>F-1 Spirit: The Way to Formula-1</name>
+		<sortname />
+		<desc>F-1 Spirit: The Way to Formula-1 is a top down Formula One Racing game, developed and published by Konami, which was released for the MSX in Japan and Europe in 1987. The game engine is very similar to Konami's Road Fighter. It also features Konami's custom sound chip called Konami SCC (a five-channel chip that compliments the three-channel PSG chip of the MSX computer system, or in other words, a sound custom chip that brings five voices more to the three voices of the PSG sound chip on the system), and great MSX1 graphics to go with it.</desc>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/F-1 Spirit - The Way to Formula-1 (Japan).jpg</image>
+		<video>./snaps/F-1 Spirit - The Way to Formula-1 (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Zanac (Japan).zip</path>
+		<name>Zanac</name>
+		<sortname />
+		<desc>Millennia ago, a device known as The System was created by an ancient alien race. This device was told to contain ultimate knowledge and wisdom; however, only those aware of its secrets could hope to choose the right approach towards it. Should The System be accessed the wrong way, it would transfer itself into an instrument of immense destruction. Human beings took that risk, and were punished: The System activated its defense mechanism, and used its weapons against the human race. Years have passed, and the humans managed to learn the techniques contained within The System. Now only one task was left: to shut down The System itself.</desc>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Pony Canyon</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Zanac (Japan).jpg</image>
+		<video>./snaps/Zanac (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Knightmare - Majou Densetsu (Japan).zip</path>
+		<name>Knightmare: Majou Densetsu</name>
+		<sortname>Knightmare 1</sortname>
+		<desc>In Knightmare, the player takes control of a brave knight named Popolon, who has to rescue his sweetheart Aphrodite from the clutches of the evil Hudnos. The game is essentially a top-down shooter. Popolon can shoot arrows at his enemies, and at the end of level face bosses, such as witches, etc. Shooting monsters, avoiding obstacles, passing the bridges and collecting upgrades for his weapon leads him to glory. Digitized music and sound add more to the arcade-like gameplay.</desc>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Knightmare - Majou Densetsu (Japan).jpg</image>
+		<video>./snaps/Knightmare - Majou Densetsu (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Knightmare II - The Maze of Galious (Japan).zip</path>
+		<name>Knightmare II: The Maze of Galious</name>
+		<sortname>Knightmare 2</sortname>
+		<desc>Maze of Galious is a game where you have to kill thousands of enemies, collect items in order to obtain new powers, and defeat bosses at the end of each level. You are free to go everywhere you want from the beginning of the game, thus you have to choose very carefully the order in which you visit all the rooms in the huge map if you want to keep your character alive.</desc>
+		<rating>0.85</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Knightmare II - The Maze of Galious (Japan).jpg</image>
+		<video>./snaps/Knightmare II - The Maze of Galious (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Shalom [T-En by SLotman beta 4 + Fixes by MSX Translations].zip</path>
+		<name>Knightmare III: Shalom</name>
+		<sortname>Knightmare 3</sortname>
+		<desc>In this game, you play the role of a Japanese high-school student, the leader of computer club. Above all, you like playing games. One day, you and your girlfriend are playing a game and suddenly get teleported into the game world. This is a fantasy world that resembles ancient Greek civilization. Before long you realize that you are in fact a hero who must save this world from the evil Gog, an ancient demon awaiting resurrection, otherwise you won't ever be able to return home.</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Konami</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Shalom [T-En by SLotman beta 4 + Fixes by MSX Translations].jpg</image>
+		<video>./snaps/Shalom [T-En by SLotman beta 4 + Fixes by MSX Translations].mp4</video>
+	</game>
+	<game>
+		<path>./Eggerland Mystery (1985) (Hal).zip</path>
+		<name>Eggerland Mystery</name>
+		<sortname />
+		<desc>The Eggerland series consists of several puzzle games. You play Lolo, a blue ball-like character with eyes, arms, and legs. The story mainly deals with King Egger, the villain, who has captured princess Lala, who is similar to Lolo, only colored red. It is up to Lolo to rescue Lala by travelling through Egger's domain and solving the puzzle rooms laid out before him.</desc>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Eggerland Mystery (1985) (Hal).jpg</image>
+		<video>./snaps/Eggerland Mystery (1985) (Hal).mp4</video>
+	</game>
+	<game>
+		<path>./Wreck, The (Europe).zip</path>
+		<name>Wreck, The</name>
+		<sortname />
+		<desc>The game requires you to negotiate three mazes, but within those mazes you must kill the guardian jellyfish and you can also stun marker fish to help you to orientate yourself as you move.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Electric Software</developer>
+		<publisher>Electric Software</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Wreck, The (Europe).jpg</image>
+		<video>./snaps/Wreck, The (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bomber Man (1983) (Hudson).zip</path>
+		<name>Bomber Man</name>
+		<sortname />
+		<desc>Bomber Man is a maze-based video game developed by Hudson Soft and released only for home computers. While it is often overlooked, it is a distinct title and the first entry in the Bomberman series. The MSX and ZX Spectrum versions were localized in Europe as Eric and the Floaters.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Puzzle</genre>
+		<image>./boxart/Bomber Man (1983) (Hudson).jpg</image>
+		<video>./snaps/Bomber Man (1983) (Hudson).mp4</video>
+	</game>
+</gameList>

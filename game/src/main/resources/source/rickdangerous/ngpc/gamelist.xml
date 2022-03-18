@@ -1,0 +1,288 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Neo-Geo Pocket Color</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Faselei! (USA, Europe).zip</path>
+		<name>Faselei!</name>
+		<sortname />
+		<desc>Faselei! is one of the last titles to be released for the Neo Geo Pocket Color and even features digitised lyrics to the game's main theme. Heavily story driven, this strategy RPG takes place in a time when mechs known as TS are the weapon of choice for combat. Gameplay revolves around the battles and customising your TS between those battles.</desc>
+		<rating>0.85</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Sacnoth</developer>
+		<publisher>SNK</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Faselei! (USA, Europe).jpg</image>
+		<video>./snaps/Faselei! (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).zip</path>
+		<name>Fatal Fury: First Contact</name>
+		<sortname />
+		<desc>Fatal Fury series to be released on SNK's color handheld. The game is based on its arcade/console counterpart Real Bout Fatal Fury 2: The Newcomers, and has its main characteristics, like the possibility of execute special moves while blocking (a.k.a. Breakshots), the execution of high-strength blows (a.k.a. S. Power and P. Power moves) and the starring of two new combatants (Li Xiangfei and Rick Strowd).</desc>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<image>./boxart/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).jpg</image>
+		<video>./snaps/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Ganbare Neo Poke-kun (Kari) (Japan).zip</path>
+		<name>Ganbare Neo Poke-Kun</name>
+		<sortname />
+		<desc>In this unique game you keep watch on the wacky Neo Poke-kun, a cartoony programmer thing that lives locked in his small Tokyo apartment. You don't have direct control of his actions but instead interact with him indirectly by switching stuff in his apartment on and off, which triggers different reactions from him. More importantly you can invite different characters to visit Neo Poke-kun, which will also trigger different reactions from him. Depending on the time of day and the visitor you may get different reactions from Poke-kun, and if you make him happy enough he'll get to work and code a mini-game for you.</desc>
+		<releasedate>20000101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Ganbare Neo Poke-kun (Kari) (Japan).jpg</image>
+		<video>./snaps/Ganbare Neo Poke-kun (Kari) (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Magical Drop Pocket (USA, Europe).zip</path>
+		<name>Magical Drop Pocket</name>
+		<sortname />
+		<desc>Magical Drop Pocket's core mechanics are similar to those of Magical Drop III. The only exception is that that the battlefield consists of six columns instead of seven, akin to the Super Famicom ports of the first two Magical Drop games.</desc>
+		<rating>0.8</rating>
+		<releasedate>19991205T000000</releasedate>
+		<developer>SAS Sakata</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Magical Drop Pocket (USA, Europe).jpg</image>
+		<video>./snaps/Magical Drop Pocket (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).zip</path>
+		<name>Pocket Tennis Color</name>
+		<sortname />
+		<desc>This sports favorite boasts eight playable characters and enough tennis action to keep any fan happy. Enjoy realistic play that gives you complete array of shots, including lobs, high-speed smashes and more. Exhibition mode sets up a single match against the computer, or, with the NeoGeo Cable Link (sold separately), a friend. Tournament mode pits you against stiff competition to see if you've got what it takes to earn the title. Save your match results so you can brag later. Record mode lets you relax and enjoy your on-court accomplishments by viewing your records and trophies.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).jpg</image>
+		<video>./snaps/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Puyo Pop (World) (En,Ja).zip</path>
+		<name>Puyo Pop</name>
+		<sortname />
+		<desc>The object of this head-to-head puzzle game is to clear your grid of falling patterns called puyos by forming chains of four or more same-colored puyos in a straight line or one of several geometric patterns. What makes this a challenging two-player contest is the fact that when you clear a chain of puyos from your grid, it drops a random piece of filler onto your opponent's grid. The more puyos you clear, the more you fill your opponent's grid, and if you can clutter up his grid enough to fill it to the top, you've won the game.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Puyo Pop (World) (En,Ja).jpg</image>
+		<video>./snaps/Puyo Pop (World) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Puzzle Bobble Mini (Japan, Europe).zip</path>
+		<name>Puzzle Bobble Mini</name>
+		<sortname />
+		<desc>The classic game Bubble Bobble is the ancestor of Puzzle Bobble. Your aim in each stage is to break all the bubbles, by breaking 3 or more of the same color.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Puzzle Bobble Mini (Japan, Europe).jpg</image>
+		<video>./snaps/Puzzle Bobble Mini (Japan, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./SNK Gals' Fighters (USA, Europe).zip</path>
+		<name>SNK Gals Fighters</name>
+		<sortname />
+		<desc>Organized and sponsored by a mysterious fighter nicknamed as "Miss X", the first Queen of Fighters Tournament is officially open, but this competition differs of the others for allowing ONLY women as participants. Meanwhile, after have passed for several and tough fights (including a final showdown with Miss X), the winner will be rewarded with a mystical artifact known as the "K Talisman", that has the capacity to grant any wish. With this rare-unique possibility of accomplish their pessoal dreams and ambitions, 8 powerful femme fatale fighters were invited to face the biggest combat.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/SNK Gals' Fighters (USA, Europe).jpg</image>
+		<video>./snaps/SNK Gals' Fighters (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Dark Arms - Beast Buster 1999 (World) (En,Ja).zip</path>
+		<name>Dark Arms: Beast Buster 1999</name>
+		<sortname />
+		<desc>Parallel to our world we find the Dark Realm. As the player, you find access to this parallel dimension after signing a pact with the Master of the Dark Realm. In his realm, you are supposed to catch monsters. These can be fed to your biological weapons: Dark Arms. You weapons gain abilities from consumed monsters and can evolve into more powerful equipment. You can also find seeds in the Dark Realm that turn into new weapons.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Noise Factory</developer>
+		<publisher>SNK</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Dark Arms - Beast Buster 1999 (World) (En,Ja).jpg</image>
+		<video>./snaps/Dark Arms - Beast Buster 1999 (World) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).zip</path>
+		<name>King of Fighters: R*2</name>
+		<sortname />
+		<desc>Using again the Japanese "SD" (Super-Deformed) artwork style (now reworked), the KOF Series makes your debut in the new SNK's color handheld. The title brings the same gameplay characteristics present in its arcade/console counter-part The King of Fighters '98, like the possibility of choose between two game modes (Advanced or Extra), an identical adaptation of the battle stages, the addition of "Advantage System" (directly related to the power gauges) and the chance to battle with a powered version of the "franchise boss", Rugal Bernstein.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<image>./boxart/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).jpg</image>
+		<video>./snaps/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Metal Slug - 1st Mission (World) (En,Ja).zip</path>
+		<name>Metal Slug: 1st Mission</name>
+		<sortname />
+		<desc>As a member of the elite forces squad "Peregrine Falcons," your mission is to eliminate the evil Colonel Bildegaarn. Using the Metal Slug multifunction tank and the Slug Flyer as well as your wits and handgun blast through up to 17 missions in your quest to make the world safe from tyranny. Multiple stage progressions and a gameplay ranking system give reason to play through more than once. In-game save lets the player on the go turn off the Neo Geo Pocket and not lose progress.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Ukiyotei</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Metal Slug - 1st Mission (World) (En,Ja).jpg</image>
+		<video>./snaps/Metal Slug - 1st Mission (World) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Metal Slug - 2nd Mission (World) (En,Ja).zip</path>
+		<name>Metal Slug: 2nd Mission</name>
+		<sortname />
+		<desc>Take control of the Metal Slug tank on the NGPC once again, this time to defeat the rebel strike force "Phantom." Travel through 38 stages in a non-linear battle path defeating enemy troops and rescuing hostages. Pilot the Metal Slug tank, Slug Flyer combat jet, and the Slug Sub submarine and fire the heavy machine gun, rocket launcher, and fire gun. Two unique playable characters, a list of rescued hostages, and a time attack mode add depth to this side-scroller.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Ukiyotei</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Metal Slug - 2nd Mission (World) (En,Ja).jpg</image>
+		<video>./snaps/Metal Slug - 2nd Mission (World) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).zip</path>
+		<name>Samurai Showdown! 2</name>
+		<sortname />
+		<desc>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half do whatever it takes live by the sword, and die by its blade.</desc>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<image>./boxart/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).jpg</image>
+		<video>./snaps/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).zip</path>
+		<name>SNK vs. Capcom: Card Fighters' Clash - SNK Cardfighter's Version</name>
+		<sortname />
+		<desc>Compete in the SC Card Fighters' Clash tournament with your SNK deck in this NGPC card game. Collect the 300 cards from both SNK and Capcom franchises and duel and trade with your friends using the extensive link mode. With mechanics similar to CCGs such as Yu-Gi-Oh and popular characters from both SNK and Capcom, Card Fighters clash offers both collection and strategy gameplay. This game also allows linking with SNK vs. Capcom: Match of the Millennium to transfer collectible points.</desc>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).jpg</image>
+		<video>./snaps/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).zip</path>
+		<name>SNK vs. Capcom: Card Fighters' Clash - Capcom Cardfighter's Version</name>
+		<sortname />
+		<desc>Compete in the SC Card Fighters' Clash tournament with your Capcom deck in this NGPC card game. Collect the 300 cards from both SNK and Capcom franchises and duel and trade with your friends using the extensive link mode. With mechanics similar to CCGs such as Yu-Gi-Oh and popular characters from both SNK and Capcom, Card Fighters clash offers both collection and strategy gameplay. This game also allows linking with SNK vs. Capcom: Match of the Millennium to transfer collectible points.</desc>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).jpg</image>
+		<video>./snaps/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).zip</path>
+		<name>SNK vs. Capcom: The Match of the Millennium</name>
+		<sortname />
+		<desc>With 18 starting characters (26 total after unlocking), numerous battle modes and varied minigames, this may be the largest fighting game for the Neo Geo Pocket Color. Choose the fighting style that suits you from the available Single, Tag and Team modes. The SC Olympic mode grants access to minigames from a music game featuring Felicia to a whack-a-mole style game with Jubei. The Olympic mode also allows players to compete for gold, silver and bronze medals in various fighting challenges. Link features include NGPC-to-NGPC battles and NGPC-to-Dreamcast data exchange with other SNK titles.</desc>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<image>./boxart/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).jpg</image>
+		<video>./snaps/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Sonic The Hedgehog - Pocket Adventure (World).zip</path>
+		<name>Sonic the Hedgehog: Pocket Adventure</name>
+		<sortname />
+		<desc>Sonic the Hedgehog Pocket Adventure, or Sonic Pocket Adventure for short, is a 1999 platform video game in the Sonic the Hedgehog series developed by SNK. It was released in December 1999 in North America, and May 2000 in Japan, exclusively for the Neo Geo Pocket Color handheld game console. It is also only the second game of the Sonic series ever to be released on a non-Sega video game console, the first being Sonic Jam on the Game.com. The game was praised by critics, receiving perfect scores from multiple reviews.</desc>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Sonic The Hedgehog - Pocket Adventure (World).jpg</image>
+		<video>./snaps/Sonic The Hedgehog - Pocket Adventure (World).mp4</video>
+	</game>
+	<game>
+		<path>./Last Blade, The - Beyond the Destiny (USA, Europe).zip</path>
+		<name>The Last Blade: Beyond the Destiny</name>
+		<sortname />
+		<desc>1863. History's hidden secret is revealed. During the age known as "Bakumatsu", 135 years ago, chaos rules! It's all yours: A new type of weapon fighting game in which Power and Speed weapons, in addition to various Repel moves can be used to experience a new sensation in video game thrills!</desc>
+		<rating>0.75</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Saurus Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<image>./boxart/Last Blade, The - Beyond the Destiny (USA, Europe).jpg</image>
+		<video>./snaps/Last Blade, The - Beyond the Destiny (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Neo Turf Masters (World) (En,Ja).zip</path>
+		<name>Neo Turf Masters</name>
+		<sortname />
+		<desc>Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn "super-clubs" that can only be used once. These can also be traded between friends.</desc>
+		<rating>0.85</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Neo Turf Masters (World) (En,Ja).jpg</image>
+		<video>./snaps/Neo Turf Masters (World) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Biomotor Unitron (USA, Europe).zip</path>
+		<name>Biomotor Unitron</name>
+		<sortname />
+		<desc>After a meteor brings a new source of energy to the world, the construction of giant robots begins. These robots are used for entertainment and fight in arena fights against one-another for the title Master of Masters. You play a duo of characters that participates in these gladiator battles. You can control both characters and have to explore and perform quests to earn money and items to upgrade your Unitron robot with. You can talk to inhabitants of the city and buy new items at stores.</desc>
+		<rating>0.7</rating>
+		<releasedate>19990731T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Biomotor Unitron (USA, Europe).jpg</image>
+		<video>./snaps/Biomotor Unitron (USA, Europe).mp4</video>
+	</game>
+</gameList>

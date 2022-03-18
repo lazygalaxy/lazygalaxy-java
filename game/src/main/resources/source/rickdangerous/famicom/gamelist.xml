@@ -1,0 +1,435 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>NES</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Championship Lode Runner (Japan).nes</path>
+		<name>Championship Lode Runner</name>
+		<sortname />
+		<desc>A follow-up to the original Lode Runner, with identical gameplay. This package contained 50 of the most challenging levels ever designed, and was intended for expert players only. It did not include the level editor, you had to play through the levels in order, but a save-game option was provided (although you lost one life every time you restored).</desc>
+		<rating>0.6</rating>
+		<releasedate>19850401T000000</releasedate>
+		<developer>Broderbund Software</developer>
+		<publisher>Broderbund Software</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Championship Lode Runner (Japan).jpg</image>
+		<video>./snaps/Championship Lode Runner (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Hino Tori - Houou Hen - Gaou no Bouken (Japan).nes</path>
+		<name>Hi no Tori Hououhen: Gaou no Bouken</name>
+		<sortname />
+		<desc>Based on the Osamu Tezuka's manga "Phoenix", this platformer is mostly based on the fifth volume, "Hō-ō" (later called "Karma" when it reached North America in May 2004). Here you play as the bandit Gaou, who lost an arm and eye as a baby and as such was scorned by his peers. Since then he has resorted to various tactics, not least murder, to survive. However, one day he fought a monk who encouraged him to change his ways and follow his unfound natural talent to sculpt, which is thus put to good use in a variety of sculptures unique in their raw emotion.</desc>
+		<releasedate>19870104T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Hino Tori - Houou Hen - Gaou no Bouken (Japan).jpg</image>
+		<video>./snaps/Hino Tori - Houou Hen - Gaou no Bouken (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Holy Diver (Japan) (en).nes</path>
+		<name>Holy Diver</name>
+		<sortname />
+		<desc>Randy, the Holy Diver, is setting out to retrieve the five emblem seals belonging to the King Crimson Family in order to expel the greatest evil, the Black Slayer, back into another dimension.</desc>
+		<rating>0.85</rating>
+		<releasedate>19890428T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Holy Diver (Japan) (en).jpg</image>
+		<video>./snaps/Holy Diver (Japan) (en).mp4</video>
+	</game>
+	<game>
+		<path>./Joy Mech Fight (Japan) (en).nes</path>
+		<name>Joi Meka Faito: Joy Mech Fight</name>
+		<sortname />
+		<desc>The evil scientist Warunachi has hacked all the otherwise peaceful robots in Japan and now plans to launch an attack for world domination the likes of which the world has never seen. Fortunately his former partner, Dr. Eamon, saved one robot from the takeover and has now programmed him to defeat the other robots and foil Dr. Warunachi's evil plans.</desc>
+		<rating>0.65</rating>
+		<releasedate>19930521T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Joy Mech Fight (Japan) (en).jpg</image>
+		<video>./snaps/Joy Mech Fight (Japan) (en).mp4</video>
+	</game>
+	<game>
+		<path>./Moon Crystal (Japan) (en).nes</path>
+		<name>Moon Crystal</name>
+		<sortname />
+		<desc>Moon Crystal is a platform action game where you control Ricky Slater on his mission to free his kidnapped father from the evil Count Crimson. The Count is forcing his father, a great scientist, to use the power of the moon crystal to turn the dead into living and rule the world.</desc>
+		<rating>0.65</rating>
+		<releasedate>19920828T000000</releasedate>
+		<developer>Hect Co. Ltd.</developer>
+		<publisher>Hect Co. Ltd.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Moon Crystal (Japan) (en).jpg</image>
+		<video>./snaps/Moon Crystal (Japan) (en).mp4</video>
+	</game>
+	<game>
+		<path>./Pooyan (Japan).nes</path>
+		<name>Pooyan</name>
+		<sortname />
+		<desc>In this remake of the arcade game Pooyan from the early '80s, you play the role of a pig, protecting its piglets from wolves.</desc>
+		<rating>0.6</rating>
+		<releasedate>19850920T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Pooyan (Japan).jpg</image>
+		<video>./snaps/Pooyan (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Summer Carnival '92 - Recca (Japan).nes</path>
+		<name>Summer Carnival '92: Recca</name>
+		<sortname />
+		<desc>Conceived as an entry for a game development competition, this game would later be published by Naxat Soft in 1992. This frenetic shoot-'em-up taxes the Famicom system and the player's reflexes with huge quantities of enemies while maintaining smooth, fast gameplay!.</desc>
+		<rating>1</rating>
+		<releasedate>19920717T000000</releasedate>
+		<developer>KID Corp.</developer>
+		<publisher>Naxat Soft</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Summer Carnival '92 - Recca (Japan).jpg</image>
+		<video>./snaps/Summer Carnival '92 - Recca (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Samurai Pizza Cats (Japan) [T-En by Vice Translations v1.01] [US adaptation] [n].nes</path>
+		<name>Kyattō Ninden Teyandē</name>
+		<sortname />
+		<desc>Edoropolis is home to a race of Animaloids, anthropomorphic animals which are a combination of flesh and cybernetic body parts. They are ruled by Shogun Tokugawa Lei Lei and his daughter, Tokugawa Usako. Unfortunately for them, the Prime Minister Kitsunezuka Ko'on No Kami is actively trying to depose both of them and wants to assume power by force! He's always got a plan up his sleeves, usually involving attacking the city using an army of Ninja Crows, led by Karamaru and Karasu Gennarisai (who also serves as Ko'on No Kami's advisor).</desc>
+		<rating>0.95</rating>
+		<releasedate>19910719T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Samurai Pizza Cats (Japan) [T-En by Vice Translations v1.01] [US adaptation] [n].jpg</image>
+		<video>./snaps/Samurai Pizza Cats (Japan) [T-En by Vice Translations v1.01] [US adaptation] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Binary Land (Japan).nes</path>
+		<name>Bainarī Rando: Binary Land</name>
+		<sortname />
+		<desc>In this game, you have to guide two penguins, one male and one female, through top-down vertical levels. The penguins are in love with each other and must be re-united! The penguins start on opposite sides, separated by walls, bricks, and other obstacles. You take control of one of the penguins. The other makes exactly the same movements as you, but in the opposite direction.</desc>
+		<rating>0.4</rating>
+		<releasedate>19851219T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Binary Land (Japan).jpg</image>
+		<video>./snaps/Binary Land (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Bio Miracle Bokutte Upa (Japan).nes</path>
+		<name>Baio Mirakuru Bokutte Upa: Bio Miracle</name>
+		<sortname />
+		<desc>In this game, you control a little baby! The baby crawls through imaginary worlds, made of candy, chocolate, toys, and other things a baby would dream of. It has to traverse those platform levels to defeat or avoid various enemies. The way the baby deals with the enemies is quite unusual: it inflates them. When inflated, the enemies lose control and begin to float, until they finally explode. The baby can use this to its advantage, riding the enemies while they are floating, kicking them to various directions, making them bounce off walls, using them as projectiles to hit other enemies, etc. Such strategies are necessary when dealing with the bosses you encounter.</desc>
+		<rating>0.65</rating>
+		<releasedate>19930226T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Bio Miracle Bokutte Upa (Japan).jpg</image>
+		<video>./snaps/Bio Miracle Bokutte Upa (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./BattleCity (Japan).nes</path>
+		<name>Battle City</name>
+		<sortname />
+		<desc>Battle City is a refined version of Namco's old arcade game Tank Battalion. Destroy different enemy tanks, while trying to keep them away from your base. When you have destroyed 20 enemy tanks you advance to the next level with different layout. In each level there's some obstacles which you can use to your advantage.</desc>
+		<rating>0.75</rating>
+		<releasedate>19850909T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/BattleCity (Japan).jpg</image>
+		<video>./snaps/BattleCity (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Crazy Climber.zip</path>
+		<name>Crazy Climber</name>
+		<sortname />
+		<desc>As Crazy Climber, climb your way to the top of a series of buildings, where a helicopter is waiting to pick you up and take you to the next building. As Climber scales a building, he is able to climb up and sideways but he cannot climb down. While climbing a building, windows will open and close simultaneously. If any window closes on either of his hands he will lose his grip. However, if a window closes on both of his hands, he will fall to his death, resulting in the loss of a life. You have three Climbers in total, but you are awarded an extra Climber every 30,000 points.</desc>
+		<rating>0.5</rating>
+		<releasedate>19861226T000000</releasedate>
+		<developer>Nichibutsu</developer>
+		<publisher>Nichibutsu</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Crazy Climber.jpg</image>
+		<video>./snaps/Crazy Climber.mp4</video>
+	</game>
+	<game>
+		<path>./Crisis Force (Japan).nes</path>
+		<name>Crisis Force</name>
+		<sortname />
+		<desc>The year is 199x and a robot army has invaded Tokyo City. A boy and a girl (who remain unnamed) board their ships to fight off the threat.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910827T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Crisis Force (Japan).jpg</image>
+		<video>./snaps/Crisis Force (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Digital Devil Monogatari - Megami Tensei.zip</path>
+		<name>Digital Devil Story: Megami Tensei</name>
+		<sortname />
+		<desc>A high-school student and skillful computer programmer named Akemi Nakajima created a software called "Devil Summoning Program". At first Nakajima intended to use the software to gain revenge on a classmate who bullied him. However, things went out of control and Nakajima summoned malicious demons. Together with his friend Yumiko Shirasagi, a transfer student, he now must fight the demons he unleashed!</desc>
+		<rating>0.6</rating>
+		<releasedate>19870911T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Namco</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Digital Devil Monogatari - Megami Tensei.jpg</image>
+		<video>./snaps/Digital Devil Monogatari - Megami Tensei.mp4</video>
+	</game>
+	<game>
+		<path>./Door Door (Japan).nes</path>
+		<name>Door Door</name>
+		<sortname />
+		<desc>DoorDoor is platform game in which you have to lock up the monster creatures that pursue you. Only one creature can be locked up behind one door. Don't forget to close the door or the creatures will walk out and pursue you again.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Chunsoft</developer>
+		<publisher>Enix</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Door Door (Japan).jpg</image>
+		<video>./snaps/Door Door (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan) (en).nes</path>
+		<name>Downtown Special: Kunio-kun no Jidaigeki Da yo Zenin Shuugou!</name>
+		<sortname />
+		<desc>Downtown Special: Kunio-kun no Jidaigeki da yo - Zenin Shugo! is a Japanese-only sequel to the classic beat 'em up/rpg hybrid Downtown Nekketsu Monogatari aka River City Ransom.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910726T000000</releasedate>
+		<developer>Million</developer>
+		<publisher>Technos Japan Corp.</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan) (en).jpg</image>
+		<video>./snaps/Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan) (en).mp4</video>
+	</game>
+	<game>
+		<path>./Famicom Wars (J) [o2] (en).nes</path>
+		<name>Famicom Wars</name>
+		<sortname />
+		<desc>The Red Star nation and the Blue Moon nation are at war. Each has deployed troops and works to obtain enough funds so as to buy the necessary military hardware to overcome the other side.</desc>
+		<rating>0.9</rating>
+		<releasedate>19880812T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Famicom Wars (J) [o2] (en).jpg</image>
+		<video>./snaps/Famicom Wars (J) [o2] (en).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy III (Japan)(en).nes</path>
+		<name>Final Fantasy III</name>
+		<sortname />
+		<desc>In a remote village of Ur, four orphan boys were raised by the priest Topapa. Once, the Crystal of Wind, guarded by the people of Ur, sank deep into the earth. The four boys decided to retrieve it from there and went down into an underground cave. But when they found the crystal, it spoke to them and from its words they understood they were chosen for a much more important and world-embracing mission.</desc>
+		<rating>0.6</rating>
+		<releasedate>19900427T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Final Fantasy III (Japan)(en).jpg</image>
+		<video>./snaps/Final Fantasy III (Japan)(en).mp4</video>
+	</game>
+	<game>
+		<path>./Ganbare Goemon 2 (J) [!] (en).nes</path>
+		<name>Ganbare Goemon 2</name>
+		<sortname />
+		<desc>Ganbare Goemon 2 is an Action game, developed and published by Konami. It is the third game in the Ganbare Goemon series and a sequel of "Ganbare Goemon! Karakuri Douchou".</desc>
+		<releasedate>19890104T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Ganbare Goemon 2 (J) [!] (en).jpg</image>
+		<video>./snaps/Ganbare Goemon 2 (J) [!] (en).mp4</video>
+	</game>
+	<game>
+		<path>./Getsu Fuuma Den (Japan) (en).nes</path>
+		<name>Getsu Fuuma Den</name>
+		<sortname />
+		<desc>In the first years of the Demon Age, a horrible demon named "Dragon Master" was revived by his minions in hell. To protect the peace of the overworld, the two eldest Fuuma brothers fought the Dragon Master. Both were unable to defeat him and were killed, losing their legendary Wave Swords, also called Hadoukens. To avenge their deaths, the last of the Fuuma brothers vowed to slay the Dragon Master, and take back the Hadoukens.</desc>
+		<releasedate>19870707T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Getsu Fuuma Den (Japan) (en).jpg</image>
+		<video>./snaps/Getsu Fuuma Den (Japan) (en).mp4</video>
+	</game>
+	<game>
+		<path>./Gimmick! (Japan).nes</path>
+		<name>Gimmick!</name>
+		<sortname />
+		<desc>Mr. Gimmick is a little doll with a life of its own, that's given to a girl for her birthday. The girl's other toys quickly become jealous of the attention given to Mr. Gimmick, and they decide to carry her away to a mystical land. Mr. Gimmick goes after them to bring his owner back.</desc>
+		<rating>0.85</rating>
+		<releasedate>19920131T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Gimmick! (Japan).jpg</image>
+		<video>./snaps/Gimmick! (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Gradius II (Japan).nes</path>
+		<name>Gradius II</name>
+		<sortname />
+		<desc>Gradius II is a sequel to Gradius and Life Force, and is a horizontal space shooter composed of seven levels. Like in its predecessor, it is possible to collect power-ups from enemies and choose which type to use and when. This time, this system is enhanced with the option of choosing between four different power-up sequences, allowing the player to use different types of weapons against enemies.</desc>
+		<rating>0.75</rating>
+		<releasedate>19881216T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Gradius II (Japan).jpg</image>
+		<video>./snaps/Gradius II (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Sweet Home (Japan) (en).nes</path>
+		<name>Suwīto Hōmu: Sweet Home</name>
+		<sortname />
+		<desc>"Sweet Home" follows the exploits of five members of an investigation group: Kazuo, Akiko, Taro, Asuka, and Emi. The famous painter Mamiya Ichirou lived many years in a secluded mansion, and rumor says there are some valuable frescos to find inside. Our investigators decide to take some pictures of the frescos. However, upon entering the mansion, a ghost-like figure of Mamiya appears and threatens them. After this, they find themselves trapped in the mansion.</desc>
+		<rating>0.9</rating>
+		<releasedate>19891215T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Sweet Home (Japan) (en).jpg</image>
+		<video>./snaps/Sweet Home (Japan) (en).mp4</video>
+	</game>
+	<game>
+		<path>./Takahashi Meijin no Bouken-jima IV (Japan).nes</path>
+		<name>Takahashi Meijin no Bōken Jima IV (Master Takahashi's Adventure Island IV)</name>
+		<sortname />
+		<desc>The tranquility of the Master Higgins's (or Takahashi as his real name is) island is once again disturbed. This time, some unknown force is causing havoc throughout the island. And what's worse is that Higgins's 5 dinosaur pals are kidnapped.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940624T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Takahashi Meijin no Bouken-jima IV (Japan).jpg</image>
+		<video>./snaps/Takahashi Meijin no Bouken-jima IV (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Goonies, The (Japan).nes</path>
+		<name>The Goonies</name>
+		<sortname />
+		<desc>The Goonies is based on a movie of the same name from 1985. A group of youngsters from a neighborhood called the "Goon Docks" are trying to find the lost treasure of One-Eyed Willie to prevent the foreclosure of their houses. Unfortunately, the treasure is buried under the hide-out of the infamous Fratelli gang, a family of ruthless criminals who are on the run from the law. You play as the asthmatic Mikey, who must find the treasure and save the other Goonies before time runs out.</desc>
+		<rating>0.6</rating>
+		<releasedate>19860221T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Goonies, The (Japan).jpg</image>
+		<video>./snaps/Goonies, The (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Suddenly! Machoman (Japan) [T-En by Pacnsacdave v1.0] [[n].nes</path>
+		<name>Totsuzen! Machoman: Amagon</name>
+		<sortname />
+		<desc>In Amagon, your mission is to investigate a dangerous, monster-infested island. As Amagon, you begin the game with only a machine gun and a limited amount of ammo to protect yourself from the inhabitants of the island. Gameplay is an arcade style platform game with six levels, each with a variety of creatures and a large boss at the end.</desc>
+		<rating>0.5</rating>
+		<releasedate>19881202T000000</releasedate>
+		<developer>Aicom</developer>
+		<publisher>Sammy</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Suddenly! Machoman (Japan) [T-En by Pacnsacdave v1.0] [[n].jpg</image>
+		<video>./snaps/Suddenly! Machoman (Japan) [T-En by Pacnsacdave v1.0] [[n].mp4</video>
+	</game>
+	<game>
+		<path>./Wai Wai World (Japan) (en).nes</path>
+		<name>Wai Wai Wārudo</name>
+		<sortname />
+		<desc>The player starts the game as Konami Man, and can switch between Konami Man and Konami Lady. If two players are gaming, then one will play as Konami Man and the other as Konami Lady. Both players are not able to switch characters until they rescue at least one character from one of the six levels. The player must play through six different selectable levels that take place in different Konami games and save that game's star character with a key who the player can then play as. Each character has different abilities to begin with as well as ones they can eventually gain.</desc>
+		<releasedate>19880114T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Wai Wai World (Japan) (en).jpg</image>
+		<video>./snaps/Wai Wai World (Japan) (en).mp4</video>
+	</game>
+	<game>
+		<path>./Wai Wai World 2 - SOS!! Paseri Jou (Japan) (en).nes</path>
+		<name>Wai Wai Wārudo Tsū: Esuōesu!! Paseri Jō</name>
+		<sortname />
+		<desc>Parsley Castle, an outer space kingdom, has been invaded! And strange beings are to blame. Playing as Rickle, a cyborg built by Dr. Cinnamon from Konami's Twinbee series, and several of his friends from other (mostly Japan-only) Konami games, your objective is to save Parsley Castle and once again bring peace to Konami World.</desc>
+		<releasedate>19910105T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Wai Wai World 2 - SOS!! Paseri Jou (Japan) (en).jpg</image>
+		<video>./snaps/Wai Wai World 2 - SOS!! Paseri Jou (Japan) (en).mp4</video>
+	</game>
+	<game>
+		<path>./Sansara Naga (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.01] [n].nes</path>
+		<name>Samsara Naga</name>
+		<sortname />
+		<desc>Sansara Naga is set in the fantasy-filled lands of India during the Vedic age and also mixes elements of Japanese folklore such as the legend of Brahman Umibozu ("sea bonze"). Many of the NPCs in game will tell you that Cows are sacred animals and a few will mention the Tower of Rta Satya. There is a set of armor in the game called Dharma Armor, which will prevent the player from dealing or being dealt damage. Sansara Naga's gameplay and gameplay mechanics are similar to those of Dragon Quest I, Pokémon and Earthbound.</desc>
+		<releasedate>19900323T000000</releasedate>
+		<developer>Advance Communication Company</developer>
+		<publisher>Victor Interactive</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Sansara Naga (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.01] [n].jpg</image>
+		<video>./snaps/Sansara Naga (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.01] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Arkanoid II (Japan) (En).zip</path>
+		<name>Arkanoid II</name>
+		<sortname />
+		<desc>Revenge of Doh is a direct sequel to the original arcade smash Arkanoid. Along with improved graphic engine, better sound and music, better hardware support and more levels, Revenge of Doh also features a built-in editor and allows you to create your own level sets.</desc>
+		<rating>0.7</rating>
+		<releasedate>19880308T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Arkanoid II (Japan) (En).jpg</image>
+		<video>./snaps/Arkanoid II (Japan) (En).mp4</video>
+	</game>
+	<game>
+		<path>./Akumajou Densetsu (Japan) (Castlevania Anniversary Collection).nes</path>
+		<name>Akumajō Densetsu: Demon Castle Legend</name>
+		<sortname />
+		<desc>Taking place 100 years before the events of Castlevania 1 and Castlevania 2, Dracula the Vampire has risen up to threaten the small village of Warakiya. Citizens who had banished the Belmont family now beg for Trevor Belmont's help in slaying Dracula. In his strange castle, Dracula has been assembling a massive army of undead creatures to sweep the Earth clean of life and bring everlasting darkness. Trevor agrees to help and equips his family's hereditary whip, the "Vampire Slayer", in order to destroy Dracula.</desc>
+		<rating>0.9</rating>
+		<releasedate>19891222T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Akumajou Densetsu (Japan) (Castlevania Anniversary Collection).jpg</image>
+		<video>./snaps/Akumajou Densetsu (Japan) (Castlevania Anniversary Collection).mp4</video>
+	</game>
+</gameList>

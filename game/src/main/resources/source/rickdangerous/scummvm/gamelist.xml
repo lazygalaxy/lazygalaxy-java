@@ -1,0 +1,1866 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>ScummVM</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./eob.svm</path>
+		<name>Eye of the Beholder</name>
+		<sortname />
+		<desc>Jurri the Rogue fingers his lockpicks and deftly slips one into the lock. It's trapped, but Jurri is skilled with a soft click, the trap is disarmed. The door creaks open, revealing a dimly lit corridor. Without warning, skeletons leap from the shadows and slash at the party! Swords flash, spells sizzle, then all is quiet, and the corridor is littered with bones. Legend has it there's a criminal conspiracy hiding in the Waterdeep sewers. Is this true? These locks and traps are too good, and someone sent those skeletons. Well, if someone's hiding down here, we're going to find them and destroy them!</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Strategic Simulations</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/eob.jpg</image>
+		<video>./snaps/eob.mp4</video>
+	</game>
+	<game>
+		<path>./eob2.svm</path>
+		<name>Eye of the Beholder II: The Legend of Darkmoon</name>
+		<sortname />
+		<desc>Through a clearing in the haunted forest, three massive towers rise into the night sky - the dread Temple Darkmoon is just ahead! Like a siren, it inexorably draws you into its nightmarish depths.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Strategic Simulations</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/eob2.jpg</image>
+		<video>./snaps/eob2.mp4</video>
+	</game>
+	<game>
+		<path>./longbow.svm</path>
+		<name>Conquests of the Longbow: The Legend of Robin Hood</name>
+		<sortname />
+		<desc>The year is 1193, and the Third Crusade has just ended. Richard the Lionheart, King of England, returns to Europe from the Holy Land. On the way, he is ambushed and abducted by the soldiers of the Austrian duke Leopold who demands a large ransom to be paid in exchange for the king's freedom. That is when the legendary Robin Hood, one who robs from the rich and gives to the poor, decides to raise the money needed to liberate the king, with the help of his fellow outlaws of Sherwood Forest.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/longbow.jpg</image>
+		<video>./snaps/longbow.mp4</video>
+	</game>
+	<game>
+		<path>./comi.svm</path>
+		<name>Monkey Island 3: The Curse of Monkey Island</name>
+		<sortname />
+		<desc>The Curse Of Monkey Island is the third game in the Monkey Island series. In this game, Guybrush Threepwood, Mighty Pirate has proposed to his girlfriend Elaine, with a cursed diamond ring from the evil pirate LeChuck's ship and she has turned into a gold statue. Now, Guybrush has to find someway to turn Elaine back into a human, where it all leads up to another confrontation with LeChuck.</desc>
+		<rating>0.85</rating>
+		<releasedate>19971031T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/comi.jpg</image>
+		<video>./snaps/comi.mp4</video>
+	</game>
+	<game>
+		<path>./dig.svm</path>
+		<name>Dig, The</name>
+		<sortname />
+		<desc>The Dig is a point-and-click adventure game developed by LucasArts and released in 1995 as a CD-ROM for PC and Macintosh computers. Like other LucasArts adventure games, it uses the SCUMM video game engine. It also features a full voice-acting cast, including notable voice actors Robert Patrick and Steven Blum, and a digital orchestral score.</desc>
+		<rating>0.8</rating>
+		<releasedate>19951130T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/dig.jpg</image>
+		<video>./snaps/dig.mp4</video>
+	</game>
+	<game>
+		<path>./dw-cd.svm</path>
+		<name>Discworld I</name>
+		<sortname />
+		<desc>Atop the flying disk planet known as Discworld, flying along in infinite space, foul things are transpiring in the famous city of Ahnk-Morpork. A dark guild have brought back a great beast, one that no one really believes in. But they will before long. Not standing still, the wizards of Unseen University send their most expendable wizard to destroy the threat. Rincewind, the wizzard, er, I mean wizard, is the worlds most inept wizard. He'd much rather run away from the dragon than confront and destroy it, and it doesn't make things any better that the evil bad guys and even Death him-self are all right on his tail.</desc>
+		<rating>0</rating>
+		<releasedate>19950301T134008</releasedate>
+		<developer>Teeny Weeny Games</developer>
+		<publisher />
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/dw-cd.jpg</image>
+		<video>./snaps/dw-cd.mp4</video>
+	</game>
+	<game>
+		<path>./dw2-gb.svm</path>
+		<name>Discworld II: Mortality Bytes!</name>
+		<sortname />
+		<desc>In Discworld II: Mortality Bytes! the player controls Rincewind the "wizzard" (voiced by Eric Idle, as in the previous game) who has been burdened with the task of coercing Death out of his impromptu retirement and back into his regular duties. The plot borrows from a number of Discworld books, most notably Reaper Man, Moving Pictures and Lords and Ladies.</desc>
+		<rating>0</rating>
+		<releasedate>19960301T134112</releasedate>
+		<developer>Perfect Entertainment</developer>
+		<publisher />
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/dw2-gb.jpg</image>
+		<video>./snaps/dw2-gb.mp4</video>
+	</game>
+	<game>
+		<path>./queen-fallback.svm</path>
+		<name>Flight of the Amazon Queen</name>
+		<sortname />
+		<desc>Flight of the Amazon Queen follows a pilot for hire named Joe King who is hired to fly a famous actress to her next job, but ends up in a lightning storm and crashes deep in the Amazon Jungle. In the jungle, Joe uncovers a plot by a mad scientist to take over the world by creating an army of dinosaur women created from Amazon women.</desc>
+		<rating>0.65</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Interactive Binary Illusions</developer>
+		<publisher>Renegade Software</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/queen-fallback.jpg</image>
+		<video>./snaps/queen-fallback.mp4</video>
+	</game>
+	<game>
+		<path>./freddypharkas-cd.svm</path>
+		<name>Freddy Pharkas: Frontier Pharmacist</name>
+		<sortname />
+		<desc>The year is 1888; the setting, post-Gold Rush California. As Freddy Pharkas, Frontier Pharmacist, you uncover a treacherous plot to turn your once-thriving metropolis into a ghost town. With pestles and pistols, you defend your bucolic burg from one catastrophe after another: arson, stampedes, hired guns, riverboat gamblers, even terminal flatulence! Al Lowe has stolen er, immortalized every Hollywood Western cliché and character, adding his own perverse twists to produce his funniest game yet! You'll meet the pretty-but-shy Schoolmarm, the Madame with a Heart-of-Gold, the faithful Indian sidekick, and a cast of the most memorable characters ever to grace your monitor's silver screen.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/freddypharkas-cd.jpg</image>
+		<video>./snaps/freddypharkas-cd.mp4</video>
+	</game>
+	<game>
+		<path>./gob1cd-us.svm</path>
+		<name>Gobliiins</name>
+		<sortname />
+		<desc>A voodoo doll has turned King Angoulafre mad. You control a team of three Goblins - Oups, Ignatius and Asgard (Hooter, Dwayne, and BoBo in the US release), who must find four magic components to track down Niak the Wizard, who is the only one who can put things right. They all have different skills - one can cast powerful but erratic spells, another can collect and use objects, and the last can hit things. You switch between them to solve puzzles in this point-and-click game.</desc>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/gob1cd-us.jpg</image>
+		<video>./snaps/gob1cd-us.mp4</video>
+	</game>
+	<game>
+		<path>./gob2cd-us.svm</path>
+		<name>Gobliins 2: The Prince Buffoon</name>
+		<sortname />
+		<desc>Someone has kidnapped the prince and it's up to you and two hilarious sidekicks, Winkle and Fingus, to rescue him. Winkle is a reckless jokester, while Fingus is careful and has a gift for solving puzzles. Luckily, they're blessed with extraordinary vitality. In other words, they never die. That'll sure come in handy when you're up against Wily Wizard's traps, maniacal monsters, and twisted and perplexing puzzles.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/gob2cd-us.jpg</image>
+		<video>./snaps/gob2cd-us.mp4</video>
+	</game>
+	<game>
+		<path>./gob3cd.svm</path>
+		<name>Goblins 3</name>
+		<sortname />
+		<desc>In this game, there is only one goblin, Blount, rather than the previous three and two goblins found in the first and second game (hence the name having one "i" instead of two or three). The hero gets assistance from a number of sidekicks throughout the game including Chump the parrot, Ooya the magician, and Fulbert the snake. Blount is also eaten by a wolf early in the game and after escaping from the afterlife must contend with semi-frequent changes into a super-strong but uncouth werewolf alter ego. Most areas in Goblins 3 are larger than the screen and thus scroll. It is also possible to travel back and forth between rooms.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/gob3cd.jpg</image>
+		<video>./snaps/gob3cd.mp4</video>
+	</game>
+	<game>
+		<path>./atlantis.svm</path>
+		<name>Indiana Jones and the Fate of Atlantis</name>
+		<sortname />
+		<desc>Indiana Jones and the Fate of Atlantis is a point-and-click adventure game by LucasArts originally released in 1992. Almost a year later, it was reissued on CD-ROM as an enhanced talkie edition with full voice acting and digitized sound effects. In 2009, this version was also released as an unlockable extra of the Wii action game Indiana Jones and the Staff of Kings, and as a digitally distributed Steam title. The seventh game to use the script language SCUMM, Fate of Atlantis has the player explore environments and interact with objects and characters by using commands constructed with predetermined verbs.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/atlantis.jpg</image>
+		<video>./snaps/atlantis.mp4</video>
+	</game>
+	<game>
+		<path>./indy3-vga.svm</path>
+		<name>Indiana Jones and the Last Crusade</name>
+		<sortname />
+		<desc>Europe, 1938. The Lost Ark was just a warm-up! Now Adolf Hitler is after the most powerful talisman of all - the Holy Grail. A few brave men stand in his way. Fortunately, one of them is Indiana Jones. And this time, he has his dad with him. The bad guys are in your face all the way - Nazis, mercenaries, traitors and spies. Not to mention everything the Luftwaffe can throw at you. Can you handle the heat? If you can, you just might earn a higher I.Q. (Indy Quotient) than the man with the whip and the hat.</desc>
+		<rating>0.75</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/indy3-vga.jpg</image>
+		<video>./snaps/indy3-vga.mp4</video>
+	</game>
+	<game>
+		<path>./lsl3.svm</path>
+		<name>Leisure Suit Larry 3: Passionate Patti In Pursuit of the Pulsating Pectorals</name>
+		<sortname />
+		<desc>Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals is the third entry in the Leisure Suit Larry series of graphical adventure games published by Sierra On-Line. It was developed for multiple platforms including DOS, Atari ST and Amiga. The game utilizes Sierras Creative Interpreter (SCI0), resulting in a graphic style similar to its immediate predecessor, as well as a larger repertoire of MIDI music.</desc>
+		<rating>0.65</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/lsl3.jpg</image>
+		<video>./snaps/lsl3.mp4</video>
+	</game>
+	<game>
+		<path>./lsl6hires.svm</path>
+		<name>Leisure Suit Larry 6: Shape Up or Slip Out!</name>
+		<sortname />
+		<desc>Leisure Suit Larry 6: Shape Up or Slip Out! is the fifth game in Al Lowes Leisure Suit Larry series. All the events from the previous games are forgotten. Larry is once again single, and again his goal is to capture the interest of various ladies. By sheer coincidence, Larry finds himself on a TV Game Show called Stallions. He wins a weekend at the Spa Resort, La Costa Lotta. Naturally, there are some beautiful women in the spa who are just dreaming about such a wonderful, handsome man as Larry! Uh or is it really so? It is the players goal to find out!.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/lsl6hires.jpg</image>
+		<video>./snaps/lsl6hires.mp4</video>
+	</game>
+	<game>
+		<path>./lsl7.svm</path>
+		<name>Leisure Suit Larry 7: Love for Sail!</name>
+		<sortname />
+		<desc>Shamara reveals herself to be turned on be only one thing: money. Leaving Larry, handcuffed on the bed and with a cigaret in his mouth, the penthouse soon catches fire. After a miraculous escape, involving a jump from the 40th floor, Larry had just about enough and decides to go on a cruise on the PMS Bouncy. The cruise ship has a weekly contest, involving various games ranging from a cooking competition to a best-dressed competition and even a sexual performance competition. The big prize? Spending a week under the hot curvy captain in her cabin. Of course Larry wants the big prize, and hell win it too.</desc>
+		<rating>0.75</rating>
+		<releasedate>19961031T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/lsl7.jpg</image>
+		<video>./snaps/lsl7.mp4</video>
+	</game>
+	<game>
+		<path>./lsl2.svm</path>
+		<name>Leisure Suit Larry 2: Looking for Love (in Several Wrong Places)</name>
+		<sortname />
+		<desc>Continuing the plot of the previous game, the swinging single Larry Laffer has finally found his true love and is happily living with her. Right? Wrong!.. Because Larry is mercilessly thrown out by his great love and is left all alone, penniless, and womanless, in Los Angeles. Accidentally, Larry comes into contact with KGB agents who will pursue him all over the globe from now on. And there is also the evil doctor Noontonyt plotting evil schemes on a remote tropical island. Looks like Larry will have to forget about his women-related problems for now..or is it so?. *Copy Protection Guide* home/pi/retropie/RDmanuals</desc>
+		<rating>0.65</rating>
+		<releasedate>19881027T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/lsl2.jpg</image>
+		<video>./snaps/lsl2.mp4</video>
+	</game>
+	<game>
+		<path>./loom-vga.svm</path>
+		<name>Loom</name>
+		<sortname />
+		<desc>Loom is based on a serious and complex fantasy story. With its experimental interface, it eschewed the traditional paradigm of graphical adventures, where puzzles usually involve interactions between the game character, the environment, and multiple items the character can take into their possession. Loom's gameplay centers instead around magical four-note tunes (drafts) that the protagonist, Bobbin Threadbare, can play on his distaff. Each draft is a spell that has an effect of a certain type, such as "Opening" or "Night Vision". Drafts can be learned by observing an object that possess the qualities of the relevant draft; for example, examining a blade while it is being sharpened gives the player the "Sharpening" draft.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/loom-vga.jpg</image>
+		<video>./snaps/loom-vga.mp4</video>
+	</game>
+	<game>
+		<path>./lit-gb.svm</path>
+		<name>Lost in Time</name>
+		<sortname />
+		<desc>In 1992, a woman exploring a shipwreck has mysteriously been transported back in time to 1840 when the ship was still intact, she has no choice but to explore. Her sleuthing leads to revelations about her past.</desc>
+		<rating>0.65</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Coktel Vision</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/lit-gb.jpg</image>
+		<video>./snaps/lit-gb.mp4</video>
+	</game>
+	<game>
+		<path>./pq2.svm</path>
+		<name>Police Quest 2: The Vengeance</name>
+		<sortname />
+		<desc>A cold-blooded murderer is on the loose. He has killed once, and he's not afraid to kill again. In fact, he's stalking someone this very moment and that someone is you!! Fast and furious, Police Quest II is police drama on the razor's edge as you race against time in pursuit of a ruthless cop killer bent on revenge. Face the tension of split-second decisions as you call the shots, you make the moves. Take plenty of target practice, because every shot counts when you hit the streets to face the most violent criminal this city has witnessed - Jessie Bains, "The Death Angel!" *Copy Protection Guide* home/pi/retropie/RDmanuals</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/pq2.jpg</image>
+		<video>./snaps/pq2.mp4</video>
+	</game>
+	<game>
+		<path>./simon1-cd-win.svm</path>
+		<name>Simon the Sorcerer</name>
+		<sortname />
+		<desc>The story begins with the protagonist, Simon, as an ordinary teenager. His dog, "Chippy", discovers a chest in the loft of his house containing a spellbook titled "Ye Olde Spellbooke" (which Simon derisively reads as "Ye old-ee spellbook-ee"). Simon throws the book onto the floor in contempt, but a portal opens above it. Chippy goes through the portal and Simon follows. After entering the portal, Simon finds himself in another world. After escaping from some goblins who intended to eat him, he discovers that he has been brought on a quest to rescue the wizard Calypso from the evil sorcerer Sordid.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930102T000000</releasedate>
+		<developer>Adventure Soft</developer>
+		<publisher>Adventure Soft</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/simon1-cd-win.jpg</image>
+		<video>./snaps/simon1-cd-win.mp4</video>
+	</game>
+	<game>
+		<path>./simon2-cd-win.svm</path>
+		<name>Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe</name>
+		<sortname />
+		<desc>The Evil wizard Sordid is brought back to life when a magic-book of his is set ablaze and thrown into the middle of a chalkboard pentagram by the father of Runt, a young boy wanting to become a mighty sorcerer. Sordid promises him that he can become his apprentice if he helps him exact his vengeance on Simon. Several months later, Sordid's Fortress of Doom is reconstructed and Sordid has a new robotic body. He sends a magical wardrobe to fetch Simon but it accidentally ends up on the doorstep of Calypso, the wizard Simon had to save in the last game.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950102T000000</releasedate>
+		<developer>Adventure Soft</developer>
+		<publisher>Adventure Soft</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/simon2-cd-win.jpg</image>
+		<video>./snaps/simon2-cd-win.mp4</video>
+	</game>
+	<game>
+		<path>./sq4-cd-win.svm</path>
+		<name>Space Quest IV: Roger Wilco and the Time Rippers</name>
+		<sortname />
+		<desc>In contrast to the first three games, Space Quest IV uses a point-and-click interface, featuring icons for different actions. The icons are an eye, a talking head, a walking person, a hand, a mouth, and a nose, representing look, talk, walk to, use, taste, and smell, respectively. The last two almost never do anything other than provoke a humorous response from the game.</desc>
+		<rating>0</rating>
+		<releasedate>19910331T151448</releasedate>
+		<developer />
+		<publisher />
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/sq4-cd-win.jpg</image>
+		<video>./snaps/sq4-cd-win.mp4</video>
+	</game>
+	<game>
+		<path>./toon.svm</path>
+		<name>Toonstruck</name>
+		<sortname />
+		<desc>Toonstruck is an graphic adventure video game developed by Burst Studios, published by Virgin Interactive Entertainment and released in 1996 for DOS. In the game, a live-action protagonist Drew Blanc, played and voiced by Christopher Lloyd, is transported into the cartoon world he created while suffering from a creative block. Blanc is accompanied by his animated sidekick Flux Wildly, voiced by Dan Castellanata.</desc>
+		<rating>0.8</rating>
+		<releasedate>19961031T000000</releasedate>
+		<developer>Burst</developer>
+		<publisher>Virgin</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/toon.jpg</image>
+		<video>./snaps/toon.mp4</video>
+	</game>
+	<game>
+		<path>./torin.svm</path>
+		<name>Torin's Passage</name>
+		<sortname />
+		<desc>Torin is a young boy who lives in a little country house on a planet called Strata with his parents and with his purple cat-like friend Boogle. One day he returns home, only to find out his parents were imprisoned in a magical spell. Apparently, the spell was cast by a sorceress named Lycentia. He must now travel to distant lands to find a way to remove the spell and confront the sorceress. What he doesn't know is that this journey will also help him to discover his true origins and his true purpose in life.</desc>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/torin.jpg</image>
+		<video>./snaps/torin.mp4</video>
+	</game>
+	<game>
+		<path>./urban-us.svm</path>
+		<name>Urban Runner</name>
+		<sortname />
+		<desc>Urban Runner (originally subtitled Lost In Town) is a French produced computer game developed by Coktel Vision and published by Sierra On-line.</desc>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/urban-us.jpg</image>
+		<video>./snaps/urban-us.mp4</video>
+	</game>
+	<game>
+		<path>./islandbrain.svm</path>
+		<name>Island of Dr. Brain, The</name>
+		<sortname />
+		<desc>In the sequel to Castle of Dr. Brain, you will have to assist Dr. Brain in retrieving a battery for one of his experiments - the plans for which were stolen by Dr. Brain's archrival scientist. In order to beat the scientist, you will have to tour the Island of Dr. Brain in search of the elusive battery. On your way you will have to solve a plethora of puzzles in various difficulty levels, and even find use for a bunch of pink flamingoes!</desc>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/islandbrain.jpg</image>
+		<video>./snaps/islandbrain.mp4</video>
+	</game>
+	<game>
+		<path>./tucker.svm</path>
+		<name>Bud Tucker in Double Trouble</name>
+		<sortname />
+		<desc>This wacky adventure puts the player in the shoes of Bud Tucker, a pizza delivery boy during the day and lab assistant at nights. One day, Bud found the Professor missing and later learns he's been kidnapped by the evil Dick Tate! Tate, an insane, whiny sob wishes to create a world filled with the people he loves most himself. To do that, he plans to use one of the Professor's invention and clone a billion versions of himself to populate the world.</desc>
+		<rating>0.6</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Merit Studios Limited</developer>
+		<publisher>Topware Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/tucker.jpg</image>
+		<video>./snaps/tucker.mp4</video>
+	</game>
+	<game>
+		<path>./castlebrain.svm</path>
+		<name>Castle of Dr. Brain</name>
+		<sortname />
+		<desc>Your problem-solving skills will be stretched to the limits as you try to think your way through a gauntlet of science stampers, mazes, logic problems, codes, and math games on your quest to become Dr. Brain's assistant. If you succeed without blowing a mental fuse, you just might be as smart as you think you are.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/castlebrain.jpg</image>
+		<video>./snaps/castlebrain.mp4</video>
+	</game>
+	<game>
+		<path>./fascination.svm</path>
+		<name>Fascination</name>
+		<sortname />
+		<desc>Fascination is the third and final game from Coktel Vision containing (somewhat) erotic content. In 1992, it was also the first game Coktel Vision created on CD. The main character is Doralice, who reappears in Lost in Time.</desc>
+		<rating>0.8</rating>
+		<releasedate />
+		<developer>Coktel Vision</developer>
+		<publisher>Coktel Vision</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/fascination.jpg</image>
+		<video>./snaps/fascination.mp4</video>
+	</game>
+	<game>
+		<path>./kq1sci.svm</path>
+		<name>King's Quest I: Quest for the Crown</name>
+		<sortname />
+		<desc>This is the remake of King's Quest: Quest for the Crown, written and designed by Roberta Williams, the first game to use Sierra's first AGI game, which saved the company from imminent bankruptcy in 1984. Using Sierra's newer SCI engine, the re-release supports brand new and more detailed graphics, soundcard and mouse support.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/kq1sci.jpg</image>
+		<video>./snaps/kq1sci.mp4</video>
+	</game>
+	<game>
+		<path>./kq2-amiga.svm</path>
+		<name>King's Quest II: Romancing the Throne</name>
+		<sortname />
+		<desc>King's Quest II resembles King's Quest I in appearance and interface. Like in King's Quest I, the game world has 'wrap around' allowing player to travel infinitely in the directions of the north or south. (The King's Quest Companion which represented a novelized walkthrough explains that the western side of Kolyma folds back upon itself to both the north and south, forever bringing travelers back to where they started.</desc>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/kq2-amiga.jpg</image>
+		<video>./snaps/kq2-amiga.mp4</video>
+	</game>
+	<game>
+		<path>./kq3-amiga.svm</path>
+		<name>King's Quest III: To Heir is Human</name>
+		<sortname />
+		<desc>Become Gwydion, young slave to the evil wizard Manannan of Llewdor. Discover the wizard's secret spells and use his magic to free yourself from his thrall. Embark upon a dangerous voyage to another land. Scale snowy peaks and brave a terrible monster to free a kingdom from its ravages!</desc>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+		<image>./boxart/kq3-amiga.jpg</image>
+		<video>./snaps/kq3-amiga.mp4</video>
+	</game>
+	<game>
+		<path>./kq5-cd-win.svm</path>
+		<name>King's Quest V: Absence Makes the Heart Go Yonder!</name>
+		<sortname />
+		<desc>When king Graham returns from a walk, he finds his castle and family missing. Luckily a talking owl, named Cedric, has witnessed what happened. He tells Graham that an evil wizard, Mordack, has kidnapped his family, and decides to help Graham. Cedric takes Graham to his master Crispin in Serenia. Crispin, a good wizard, gives Graham his old wand and tells Cedric to join Graham on his quest.</desc>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/kq5-cd-win.jpg</image>
+		<video>./snaps/kq5-cd-win.mp4</video>
+	</game>
+	<game>
+		<path>./kq7-win.svm</path>
+		<name>King's Quest VII: The Princeless Bride</name>
+		<sortname />
+		<desc>The name of this entry, The Princeless Bride, is a pun on the title of the novel and film The Princess Bride. Like most Kings Quest titles, it is also a reference to the plot: Princess Rosella is soon to be a bride, but ends up in another world shortly before her marriage.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/kq7-win.jpg</image>
+		<video>./snaps/kq7-win.mp4</video>
+	</game>
+	<game>
+		<path>./qfg2-amiga.svm</path>
+		<name>Quest for Glory II: Trial by Fire</name>
+		<sortname />
+		<desc>Trial by Fire is the sequel to Hero's Quest: So You Want To Be A Hero. It takes place in the town Shapeir and the desert surrounding it, in a Middle East-like environment. It seems that the powerful elemental spirits have been troubling the Shapeir folk recently. Something, or someone, is behind those troubles. It is the hero's task to find out what is going on, get acquainted with the many inhabitants of Shapeir, and prove once more that he is worthy of his heroic title.</desc>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/qfg2-amiga.jpg</image>
+		<video>./snaps/qfg2-amiga.mp4</video>
+	</game>
+	<game>
+		<path>./qfg3.svm</path>
+		<name>Quest for Glory III: Wages of War</name>
+		<sortname />
+		<desc>Wages of War is the third game in the Quest for Glory series. It is set in the Africa-like world of Tarna, where the hero travels with paladin Rakeesh, his new Liontaur friend he has met in the previous game. Shortly after his arrival, the hero learns about the conflict between the human Simbani tribe and the seemingly malevolent neighboring Leopardmen. It is now time for our hero to become a skillful diplomat and prevent an upcoming war between the two nations.</desc>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/qfg3.jpg</image>
+		<video>./snaps/qfg3.mp4</video>
+	</game>
+	<game>
+		<path>./sq1sci.svm</path>
+		<name>Space Quest I: Roger Wilco in the Sarien Encounter</name>
+		<sortname />
+		<desc>Space Quest I: Roger Wilco in the Sarien Encounter is a remake of the original release of Space Quest: Chapter I - The Sarien Encounter. The new version has enhanced graphics (256 color VGA) and soundblaster support. It uses the SCI game engine (point-and-click interface, icons along the top) rather than the AGI engine (mixed point-and-click with text parser). Some of the puzzles have been slightly changed to accommodate the new interface and it is also possible to skip the arcade part. There are a few additional scenes and more elaborate text descriptions, mostly enhancing the humorous effect.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/sq1sci.jpg</image>
+		<video>./snaps/sq1sci.mp4</video>
+	</game>
+	<game>
+		<path>./sq2-amiga.svm</path>
+		<name>Space Quest II: Vohaul's Revenge</name>
+		<sortname />
+		<desc>The ace janitor Roger Wilco thought he'd seen the last of Sludge Vohaul. However, like every evil scientist is supposed to, Vohaul returns with an even meaner scheme. This time he intends to infest the planet Xenon with thousands of genetically engineered door-to-door life insurance salesmen. The last thing he wants is Roger messing things up, and so the brave janitor is captured and brought to the planet Labion to spend the rest of his days working in Vohaul's mines. Fortunately, the shuttle that takes him to the mines crashes, and Roger is the only survivor. He will have to survive the dangers of the jungle planet Labion, and eventually stop Vohaul from executing his mad plan.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/sq2-amiga.jpg</image>
+		<video>./snaps/sq2-amiga.mp4</video>
+	</game>
+	<game>
+		<path>./sq3-amiga.svm</path>
+		<name>Space Quest III: The Pirates of Pestulon</name>
+		<sortname />
+		<desc>Narrowly escaping the events of Space Quest II: Vohaul's Revenge, Roger Wilco's escape pod floats through space. As just another metallic item of junk, it's soon picked up by an interstellar garbage hauler. Waking up in a pile of trash, quite familiar for this janitor-turned-hero, Roger Wilco must somehow escape. Once given access to the rest of the galaxy, he'll soon find himself having to avoid a collections cyborg for payments overdue, dealing with the corporate prison of software company Scummsoft, and having to digest the greasy food from the galaxy's finest hamburger joint.</desc>
+		<rating>0.75</rating>
+		<releasedate>19890322T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/sq3-amiga.jpg</image>
+		<video>./snaps/sq3-amiga.mp4</video>
+	</game>
+	<game>
+		<path>./sq6.svm</path>
+		<name>Space Quest VI: Roger Wilco in The Spinal Frontier</name>
+		<sortname />
+		<desc>Roger Wilco, the brave interstellar janitor who has already saved the universe from many great dangers, is now in a very embarrassing position. His commanders show no respect for his courageous actions in the previous game. Instead, he is being accused of all kinds of violations against the galactic law, is deprived of all the honors he got in the previous game, and as a token of mercy, is allowed to return to his old job - cleaning closets. But those unfortunate events are just the beginning of much bigger troubles Roger will get into.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/sq6.jpg</image>
+		<video>./snaps/sq6.mp4</video>
+	</game>
+	<game>
+		<path>./spyozon-win-gb.svm</path>
+		<name>Spy Fox 3: "Operation Ozone"</name>
+		<sortname />
+		<desc>The player takes the role of Spy Fox, an international man of action. As a top secret agent Spy Fox, with help from Professor Quacks high tech gizmos, must find a way to stop the mad genius Poodles Galore from realizing her plan to destroy the Earths ozone layer.</desc>
+		<rating>0.75</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/spyozon-win-gb.jpg</image>
+		<video>./snaps/spyozon-win-gb.mp4</video>
+	</game>
+	<game>
+		<path>./bc.svm</path>
+		<name>Disney's The Black Cauldron</name>
+		<sortname />
+		<desc>The Black Cauldron, a 3D animated adventure game. Loaded with great features such as: Over 1,000 cells of animation, including 30 animated characters that walk, talk, run, climb and even swim; 70 3D screens more detailed than any seen before, in up to 16 colors; Six built-in arcade sequences and mazes.</desc>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/bc.jpg</image>
+		<video>./snaps/bc.mp4</video>
+	</game>
+	<game>
+		<path>./tony-win.svm</path>
+		<name>Tony Tough and the Night of Roasted Moths</name>
+		<sortname />
+		<desc>A dastardly alien is stealing all of the childrens Halloween candy! Tony Tough P.I. will not stand for this. He sets out to stop the fiend before its to late, and the alien takes over the world! Tony Tough is a traditional 2D point and click adventure with a crazy story. The humor and style are reminiscent of old LucasArts games, like Day of the Tentacle.</desc>
+		<releasedate>20030809T000000</releasedate>
+		<developer>Prograph Research</developer>
+		<publisher>Focus</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/tony-win.jpg</image>
+		<video>./snaps/tony-win.mp4</video>
+	</game>
+	<game>
+		<path>./voyeur.svm</path>
+		<name>Voyeur</name>
+		<sortname />
+		<desc>Reed Hawke is the CEO of a powerful corporation known as Hawke Industries. He has gathered his extended family together for a weekend, preparing for an official announcement that he will be competing in the election for the President of the United States.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Entertainment Software Partners</developer>
+		<publisher>Interplay</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/voyeur.jpg</image>
+		<video>./snaps/voyeur.mp4</video>
+	</game>
+	<game>
+		<path>./jones-cd-win.svm</path>
+		<name>Jones in the Fast Lane</name>
+		<sortname />
+		<desc>Jones in the Fast Lane is a life simulation game. The game is setup like a board game. The player can move about the board freely within the time allotted per turn. Time is used by moving to a new location and by doing things such as working or resting. Each turn represents one week in the player's life. The goal of the game is to attain the level of money, happiness, status, and education as chosen by the player before the game began.</desc>
+		<rating>0.85</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/jones-cd-win.jpg</image>
+		<video>./snaps/jones-cd-win.mp4</video>
+	</game>
+	<game>
+		<path>./lighthouse.svm</path>
+		<name>Lighthouse: The Dark Being</name>
+		<sortname />
+		<desc>In this game, the player controls a writer who had just moved into a cottage located on the coastal area of the state Oregon. Near the cottage is a lighthouse, inhabited by the eccentric Dr. Jeremiah Krick and his daughter Amanda. One day, glancing out of the window, the hero(ine) notices that the lighthouse has been struck by lightning. Dr. Krick has also left an unclear message on the answering machine, imploring the protagonist to come as soon as possible.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/lighthouse.jpg</image>
+		<video>./snaps/lighthouse.mp4</video>
+	</game>
+	<game>
+		<path>./pepper.svm</path>
+		<name>Pepper's Adventures in Time</name>
+		<sortname />
+		<desc>This point n' click adventure game is actually an edutainment (entertainment leading to education) title developed by Sierra, who were also responsible for other games such as the EcoQuest and Dr. Brain series. The object of this game is to help a little girl called Pepper, solve puzzles based on history and logic, so that she can fix the mess caused by Dr. Fred's time machine. At certain points in the game, the player is even allowed to control her pet dog, Lockjaw.The game consists of an educational factor where the player can learn about many important facts concerning the colonial times of the US.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/pepper.jpg</image>
+		<video>./snaps/pepper.mp4</video>
+	</game>
+	<game>
+		<path>./sq5.svm</path>
+		<name>Space Quest V: The Next Mutation</name>
+		<sortname />
+		<desc>After travelling back and forth through time in the previous game, Roger Wilco is back in the Starfleet Acadamy, serving as both a cadet and a janitor. Cheating his way through the Starfleet Aptitude Test, Roger is finally given the rank of captain, his own ship (a garbage scow) and a mission: to explore strange new worlds (which no man in his right mind would explore), to seek out new life and new civilizations (which grew out of the massive amounts of trash Roger will collect on his way), to boldly go where no man has gone before.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/sq5.jpg</image>
+		<video>./snaps/sq5.mp4</video>
+	</game>
+	<game>
+		<path>./dreamweb-cd.svm</path>
+		<name>DreamWeb</name>
+		<sortname />
+		<desc>Ryan, a bartender from a dystopian future can't sleep peacefully for months. His nights are sequences of nightmares and strange dreams, days with frequent black-outs with strange visions.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Creative Reality</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/dreamweb-cd.jpg</image>
+		<video>./snaps/dreamweb-cd.mp4</video>
+	</game>
+	<game>
+		<path>./qfg1vga.svm</path>
+		<name>Quest for Glory I: So You Want to Be a Hero</name>
+		<sortname />
+		<desc>he player selects dialogue choices from a dialogue menu, as opposed to typing in conversation topics in the earlier release. A few changes have been made to the dialogue, adding (or altering) some of the easter eggs and references to other games. Combat now features clay models for the enemies and stop-motion animation. The perspective has been switched to an over-the-shoulder view farther away from the player. Battle commands (two types of attacks, parry, and dodge) are displayed as icons on a shield in the corner of the screen.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>AGD Interactive</developer>
+		<publisher>AGD Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/qfg1vga.jpg</image>
+		<video>./snaps/qfg1vga.mp4</video>
+	</game>
+	<game>
+		<path>./woodruff-gb.svm</path>
+		<name>Bizarre Adventures of Woodruff and the Schnibble, The</name>
+		<sortname />
+		<desc>Woodruff and the Schnibble of Azimuth (marketed in North America as The Bizarre Adventures of Woodruff and the Schnibble) is a 1994 French adventure game developed by Coktel Vision. The game was created and written by artist Pierre Gilhodes, the creator of the Gobliiins series, of which Woodruff shares its visual style, gameplay and offbeat humor, though is not an official part of the Gobliiins series or canon.</desc>
+		<rating>0</rating>
+		<releasedate>19950407T000000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/woodruff-gb.jpg</image>
+		<video>./snaps/woodruff-gb.mp4</video>
+	</game>
+	<game>
+		<path>./bladerunner-win.svm</path>
+		<name>Blade Runner</name>
+		<sortname />
+		<desc>Set in 2019 Los Angeles, the game tells the story of Ray McCoy, an elite detective charged with hunting down a group of dangerous replicants (bioengineered androids designed to look and act like humans). Although several of the film's characters appear in the game, with some of the original actors returning to voice them, the film's protagonist, Rick Deckard, does not appear in a speaking role. Instead, he is referred to on multiple occasions, is seen several times, and his activities as depicted in the film are mentioned.</desc>
+		<rating>0</rating>
+		<releasedate>19971031T000000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Virgin</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/bladerunner-win.jpg</image>
+		<video>./snaps/bladerunner-win.mp4</video>
+	</game>
+	<game>
+		<path>./blueforce-cd.svm</path>
+		<name>Blue Force</name>
+		<sortname />
+		<desc>In 1995, Jake Ryan is a rookie police officer. Jake's father was a police officer, which prompted Jake to join the force. Jake's father was killed in the line of duty in 1984 and his case has not yet been solved. While playing the game, Jake uncovers clues to his father's murder.</desc>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>TSUNAMI</developer>
+		<publisher>Tsunami Media</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/blueforce-cd.jpg</image>
+		<video>./snaps/blueforce-cd.mp4</video>
+	</game>
+	<game>
+		<path>./neverhood.svm</path>
+		<name>Neverhood, The</name>
+		<sortname />
+		<desc>You are Klaymen. Klaymen wakes up in a building in the strangely empty world of Neverhood. Initially, he does not know where he is or what he has to do, but as he explores the area, he finds mysterious disks. Each disk contains a fragment of a recording; gradually, the backstory is revealed as Klaymen finds more and more disks. It would spoil too much to reveal the exact plot, as finding it out is part of the game.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Neverhood, Inc., The</developer>
+		<publisher>DreamWorks</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/neverhood.jpg</image>
+		<video>./snaps/neverhood.mp4</video>
+	</game>
+	<game>
+		<path>./grim-win.svm</path>
+		<name>Grim Fandango</name>
+		<sortname />
+		<desc>Grim Fandango takes place in the Land of the Dead, where recently departed souls make their way to the Ninth Underworld. For sinners, this is a four-year journey made on foot, and many do not complete it, being eaten, "sprouted," or ending up taking jobs at way-points along the route. However, more virtuous souls receive assistance, the most virtuous getting passage on the "Number Nine" train ("Double N") that cuts the journey down to four minutes.</desc>
+		<releasedate>19981030T000000</releasedate>
+		<developer>LucasArts Entertainment Company LLC</developer>
+		<publisher>LucasArts Entertainment Company LLC</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/grim-win.jpg</image>
+		<video>./snaps/grim-win.mp4</video>
+	</game>
+	<game>
+		<path>./feeble-win.svm</path>
+		<name>Feeble Files, The</name>
+		<sortname />
+		<desc>The player is in control of the main character, Feeble, and must solve various puzzles to advance through the game and complete his quest.</desc>
+		<rating>0.7</rating>
+		<releasedate>19970401T000000</releasedate>
+		<developer>Adventure Soft</developer>
+		<publisher>Adventure Soft</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/feeble-win.jpg</image>
+		<video>./snaps/feeble-win.mp4</video>
+	</game>
+	<game>
+		<path>./lol-cd.svm</path>
+		<name>Lands of Lore: The Throne of Chaos</name>
+		<sortname />
+		<desc>The Dark Army is on the move again, led by the evil sorceress Scotia. Her goal is obvious: to destroy Gladstone Keep and its ruler King Richard. Scotia herself has recently become more powerful after acquiring "the Mask" from the Urban Mines, gaining the ability to shape-shift. She is virtually unstoppable and able to infiltrate Gladstone Keep, poisoning King Richard. If it were not for the intervention of Sorceress Dawn, the monarch would surely be dead. In order to find a cure for the King's illness, a band of heroes must set out on an adventure, and keep themselves alive from the Dark Army forces.Lands of Lore.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Westwood Studios, Inc.</developer>
+		<publisher>Virgin</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/lol-cd.jpg</image>
+		<video>./snaps/lol-cd.mp4</video>
+	</game>
+	<game>
+		<path>./tlj-win.svm</path>
+		<name>Longest Journey, The</name>
+		<sortname />
+		<desc>Between science and magic, between order and chaos, between Stark and Arcadia, there is an ancient balance.For thousands of years, the Guardian of the Balance has perserved the Divide between the twin worlds. But now the Guardian has abandoned his tower, the armies of Chaos are advancing, and the fate of the worlds is in the hands of one person. Her name is April Ryan. She is eighteen years old, and she has no idea that her destiny has already been foretold in hundred tales.</desc>
+		<releasedate>20001116T000000</releasedate>
+		<developer>Funcom</developer>
+		<publisher>Funcom Productions A/S</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/tlj-win.jpg</image>
+		<video>./snaps/tlj-win.mp4</video>
+	</game>
+	<game>
+		<path>./pn-amiga.svm</path>
+		<name>Personal Nightmare</name>
+		<sortname />
+		<desc>Your father is the pastor of your village. A strange letter from him made you decide to return to your village, only to find out your father is no where to be found, and everyone is being hostile and strange. After a while you will find out evil forces have taken over the people of the village and your job is to find out how to kill some devil creatures and figure out what truly is going on.</desc>
+		<rating>0.3</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Horror Soft Ltd.</developer>
+		<publisher>Horror Soft Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/pn-amiga.jpg</image>
+		<video>./snaps/pn-amiga.mp4</video>
+	</game>
+	<game>
+		<path>./monkey2.svm</path>
+		<name>Monkey Island 2: LeChuck's Revenge</name>
+		<sortname />
+		<desc>LeChucks Revenge is set in the fictional Tri-Island Area of the Caribbean, several months after The Secret of Monkey Island. The game opens in medias res as Guybrush Threepwood hangs on a rope above a hole, narrating to Elaine Marley on a separate rope the events that led to this situation. The flashback sequence starts on Scabb Island and constitutes most of the playable games setting. During it, Guybrush also visits Phatt Island, Booty Island, and Dinky Island, voyaging on two different pirate ships.</desc>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/monkey2.jpg</image>
+		<video>./snaps/monkey2.mp4</video>
+	</game>
+	<game>
+		<path>./zak-fm.svm</path>
+		<name>Zak McKracken and the Alien Mindbenders</name>
+		<sortname />
+		<desc>Zak McKracken and the Alien Mindbenders is a 1988 graphic adventure game by Lucasfilm Games. It was the second game to use the SCUMM engine, after Maniac Mansion. The project was led by David Fox, with Matthew Alan Kane as the co-designer and co-programmer.</desc>
+		<rating>0.8</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/zak-fm.jpg</image>
+		<video>./snaps/zak-fm.mp4</video>
+	</game>
+	<game>
+		<path>./kq4sci.svm</path>
+		<name>King's Quest IV: The Perils of Rosella</name>
+		<sortname />
+		<desc>King Graham and Queen Valanice were glad to have their children back. Graham thinks that it is time to pass onto them his old adventurers' hat. When he throws it across the room, he suffers a heart attack and collapses on the floor, and he is carried off to bed. The only way that Graham's health can be restored is by retrieving the magic fruit in the faraway land of Tamir. A beautiful fairy called Genesta offers Rosella the chance to be transported to the land, and find the fruit. But once she gets transported, she cannot be sent back unless she helps the fairy regain her talisman that was stolen by the witch, Lolotte. *Copy Protection Guide* home/pi/retropie/RDmanuals</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/kq4sci.jpg</image>
+		<video>./snaps/kq4sci.mp4</video>
+	</game>
+	<game>
+		<path>./lsl1sci.svm</path>
+		<name>Leisure Suit Larry 1: The Land of the Lounge Lizards</name>
+		<sortname />
+		<desc>Leisure Suit Larry 1: In the Land of the Lounge Lizards is a remake of the first game in the Leisure Suit Larry series. It introduces a new interface. Instead of typing commands, the player performs the desired actions by choosing appropriate icons, and then clicking on objects on the screen to interact with them. The graphics are now 256 color VGA. There is also much more music than in the original version, and it supports more advanced sound formats. *Copy Protection Guide* home/pi/retropie/RDmanuals</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/lsl1sci.jpg</image>
+		<video>./snaps/lsl1sci.mp4</video>
+	</game>
+	<game>
+		<path>./lgop2.svm</path>
+		<name>Leather Goddesses of Phobos! 2</name>
+		<sortname />
+		<desc>Almost twenty years passed since the inhabitants of Earth defeated the Leather Goddesses of Phobos. The year now is 1958, and the scientific world is excited at the news of the discovery of a new planet in the Solar System, a so-called "Planet X". One night, a spaceship crash-lands in the small town of Atom City, Nevada, home to a military base and a nuclear power plant. The alien Barth, a self-described "Pulsating Inconvenience" from Planet X, brings terrible news to the people of Earth: the Goddesses have conquered Planet X and forced its denizens to become sex slaves.</desc>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Infocom</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/lgop2.jpg</image>
+		<video>./snaps/lgop2.mp4</video>
+	</game>
+	<game>
+		<path>./mh2.svm</path>
+		<name>Manhunter 2: San Francisco</name>
+		<sortname />
+		<desc>Manhunter 2: San Francisco is a post-apocalyptic adventure game designed by Barry Murry, Dave Murry, and Dee Dee Murry of Evryware and published in 1989 by Sierra On-Line. It is the sequel to Manhunter: New York, developed by the same authors.</desc>
+		<rating>0.65</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Evryware</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/mh2.jpg</image>
+		<video>./snaps/mh2.mp4</video>
+	</game>
+	<game>
+		<path>./myst-win.svm</path>
+		<name>Myst III: Exile</name>
+		<sortname />
+		<desc>In Myst III: Exile, you must track a new villain through several surrealistic Ages. Only by exploring the landscape and solving puzzles will you uncover the truth behind this new adversary. This chapter in the Myst series lets you pan 360 degrees within the environments, giving you more freedom than ever before. Console versions of Myst III: Exile also include improved visuals, ambient sound, and a behind-the-scenes look at the making of Myst.</desc>
+		<releasedate>20010508T000000</releasedate>
+		<developer>Presto Studios</developer>
+		<publisher>Ubisoft Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/myst-win.jpg</image>
+		<video>./snaps/myst-win.mp4</video>
+	</game>
+	<game>
+		<path>./riven.svm</path>
+		<name>Riven: The Sequel to Myst</name>
+		<sortname />
+		<desc>After the Stranger has rescued Atrus, the master of "linking books", from the imprisonment caused by his sons, a new task awaits the hero. Atrus's wife, Catherine, has been taken by Gehn, his own father. Gehn has appointed himself as the one to rule the Age of Riven, and has driven his world to collapse. Now he holds Catherine hostage on Riven, hoping that his son will restore the book link to the Age and free him from there. The Stranger is requested by Atrus to travel to Riven and find a way to rescue Catherine.</desc>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Cyan Productions</developer>
+		<publisher>Red Orb Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/riven.jpg</image>
+		<video>./snaps/riven.mp4</video>
+	</game>
+	<game>
+		<path>./rosetattoo.svm</path>
+		<name>The Lost Files of Sherlock Holmes: Case of the Rose Tattoo</name>
+		<sortname />
+		<desc>The brother of Sherlock Holmes, Mycroft, is caught in an explosion when his club, the Diogenes, is blown up. Doctor Watson and Sherlock Holmes are both playable characters, who go about investigating the explosion to discover the truth. They come to realize that the explosion was caused by a bomb, rather than a gas leak as previously assumed, leading the investigation towards a case of espionage and the unusual death of an unidentified man.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Mythos Software, Inc.</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/rosetattoo.jpg</image>
+		<video>./snaps/rosetattoo.mp4</video>
+	</game>
+	<game>
+		<path>./scalpel.svm</path>
+		<name>The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel</name>
+		<sortname />
+		<desc>This adventure game follows Sherlock Holmes, who helps Scotland Yard with the murder investigation of a young actress. The method of her death looks to be another murder committed by Jack the Ripper, however Sherlock Holmes suspects someone else had committed the crime.</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Mythos Software, Inc.</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/scalpel.jpg</image>
+		<video>./snaps/scalpel.mp4</video>
+	</game>
+	<game>
+		<path>./bbvs.svm</path>
+		<name>Beavis and Butt-Head in Virtual Stupidity</name>
+		<sortname />
+		<desc>Beavis and Butt-Head in Virtual Stupidity is a point and click adventure computer game based on the American animated television series created by Mike Judge, Beavis and Butt-Head, that was developed by ICOM Simulations and published by Viacom New Media. It was released on August 31, 1995.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Viacom New Media</developer>
+		<publisher>Viacom New Media</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/bbvs.jpg</image>
+		<video>./snaps/bbvs.mp4</video>
+	</game>
+	<game>
+		<path>./tentacle.svm</path>
+		<name>Maniac Mansion: Day of the Tentacle</name>
+		<sortname />
+		<desc>Dr. Fred's mutated purple tentacle is out to take over the world. And only you can stop him. Travel through time with three outrageous characters in this wacky graphic adventure which features cartoon-style animation and over 100 zany sound effects.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/tentacle.jpg</image>
+		<video>./snaps/tentacle.mp4</video>
+	</game>
+	<game>
+		<path>./maniac-v2.svm</path>
+		<name>Maniac Mansion</name>
+		<sortname />
+		<desc>Maniac Mansion is a 1987 graphic adventure video game developed and published by Lucasfilm Games. It follows teenage protagonist Dave Miller as he attempts to rescue his girlfriend from a mad scientist, whose mind has been enslaved by a sentient meteor. The player uses a point-and-click interface to guide Dave and two of his six playable friends through the scientists mansion while solving puzzles and avoiding dangers. Gameplay is non-linear, and the game must be completed in different ways based on the players choice of characters.</desc>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/maniac-v2.jpg</image>
+		<video>./snaps/maniac-v2.mp4</video>
+	</game>
+	<game>
+		<path>./draci.svm</path>
+		<name>Dračí Historie</name>
+		<sortname />
+		<desc>Bert is a young dragon that lives with his parents Berta and Herbert in a magical land, where dragons got civilized, started to wear clothes and live peacefully with humans. One day, Herbert suddenly disappears, with rumors saying the he left his wife and son behind to search for a lost treasure. Meanwhile, a magical wand called Eveline decides to rule the world out of boredom, using Bert to cast a petrifying spell on the marionettes of a traveling puppeteer and cause other mischief among the local population. Now, Bert must fix all the trouble caused by Eveline, and search for his missing father.Dra?.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>NoSense</developer>
+		<publisher>Vochozka Trading</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/draci.jpg</image>
+		<video>./snaps/draci.mp4</video>
+	</game>
+	<game>
+		<path>./ft.svm</path>
+		<name>Full Throttle</name>
+		<sortname />
+		<desc>One minute you're on the road, riding. Not a care in the world. Then some guy in a suit comes along, says he's got a deal for you and your gang. But when you come to, you've got a lump on your head, the law on your back, and a feeling in your gut that the road you're on is about to get a lot rougher.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950430T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/ft.jpg</image>
+		<video>./snaps/ft.mp4</video>
+	</game>
+	<game>
+		<path>./laurabow-amiga.svm</path>
+		<name>Laura Bow: The Colonel's Bequest</name>
+		<sortname />
+		<desc>It is the year 1925, and the roaring '20s are well underway. As Laura Bow, young college stundent, you've been invited to visit the Colonel's isolated estate. Watch as the Colonel announces his intention to bequeath his million to all present! Immediately, you sense greed and suspicion among the Colonel's relatives and associates. The air becomes thick with anger and betrayal. As the drama unfolds you must evade the dangers that await you everywhere, and expose the killer before he or she strikes again! *Copy Protection Guide* home/pi/retropie/RDmanuals</desc>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/laurabow-amiga.jpg</image>
+		<video>./snaps/laurabow-amiga.mp4</video>
+	</game>
+	<game>
+		<path>./laurabow2-cd.svm</path>
+		<name>Laura Bow: The Dagger of Amon Ra</name>
+		<sortname />
+		<desc>The Dagger of Amon Ra is the sequel to Laura's previous adventure, The Colonel's Bequest. Laura Bow, fresh out of college, is hired by a New York newspaper and told to investigate a museum theft. The item is a priceless ancient Egyptian artifact, and possible suspects prove plentiful. During a party to celebrate the opening of the museum's new section, someone is murdered and Laura, after asking to be allowed to investigate, is locked in. This sets the stage for a series of murders, much in the same vein as the original game.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/laurabow2-cd.jpg</image>
+		<video>./snaps/laurabow2-cd.mp4</video>
+	</game>
+	<game>
+		<path>./sword1.svm</path>
+		<name>Broken Sword 1: The Shadow of the Templars</name>
+		<sortname>Broken Sword 1</sortname>
+		<desc>George Stobbart is an American tourist on holiday in Paris in the autumn. The story opens with George's quiet coffee at a café rudely interrupted by the explosion of a bomb planted by a man dressed up as a clown. He sets off investigating the explosion and, gradually, he and photo-journalist Nico Collard are drawn into a globe-trotting adventure involving conspiracies, cults and murder, all revolving around the Knights Templar.</desc>
+		<rating>0.85</rating>
+		<releasedate>19960930T000000</releasedate>
+		<developer>Revolution Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/sword1.jpg</image>
+		<video>./snaps/sword1.mp4</video>
+	</game>
+	<game>
+		<path>./sword2.svm</path>
+		<name>Broken Sword 2: The Smoking Mirror</name>
+		<sortname>Broken Sword 2</sortname>
+		<desc>The player alternately controls George Stobbart, the protagonist of the first game, and Nicole Collard, the French journalist he met in the first game and who has since become his girlfriend. The game starts with George witnessing the kidnapping of Nicole. This event eventually leads to an investigation into a conspiracy revolving around a forthcoming solar eclipse and the evil Aztec god Tezcatlipoca. The locations visited throughout the game include Paris, Marseilles, London, Quaramonte, the jungle, a Caribbean environment, and a zombie island.</desc>
+		<rating>0.75</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Revolution Software Ltd.</developer>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/sword2.jpg</image>
+		<video>./snaps/sword2.mp4</video>
+	</game>
+	<game>
+		<path>./sword25.svm</path>
+		<name>Broken Sword 2.5: The Return of the Templars</name>
+		<sortname>Broken Sword 3</sortname>
+		<desc>Broken Sword 2.5 is a fan game of the Broken Sword series that takes place after the first two games. George travels to France after he receives a letter stating Nico had died. His relief to find her alive is short-lived, as he soon finds out that she has been accused of murdering the mayor of Paris. The two must clear Nico's name, and discover who is actually behind the murder. Familiar locations all over the world are mixed with new settings and characters. George, Nico and André all return, but new ones such as Christophe Brai and English historian Jimmy McLaugh also play an important role. Players will control George and Nico intermittently throughout the story.</desc>
+		<rating>0</rating>
+		<releasedate>20080928T000000</releasedate>
+		<developer>mindFactory</developer>
+		<publisher>mindFactory</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/sword25.jpg</image>
+		<video>./snaps/sword25.mp4</video>
+	</game>
+	<game>
+		<path>./elvira1-amiga.svm</path>
+		<name>Elvira: Mistress of the Dark</name>
+		<sortname>Elvira 1</sortname>
+		<desc>"Can somebody help me find my chest? No really, I'm serious! See, I've been remodeling this cold and moldy castle, right? So how was I to know that I'd wake up Queen Emelda - especially since the old bat croaked hundreds of years ago! Anyway, Queenie-dearie wants to come back from the dead and rule the world - and the only way I can stop her and her monstrous minions is to find a secret scroll of spells, hidden in a big chest somewhere in this huge 800-room castle. Won't you help your poor, innocent little Mistress?" Yours cruelly - Elvira</desc>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Horrorsoft</developer>
+		<publisher>Accolade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/elvira1-amiga.jpg</image>
+		<video>./snaps/elvira1-amiga.mp4</video>
+	</game>
+	<game>
+		<path>./elvira2-amiga.svm</path>
+		<name>Elvira II: The Jaws of Cerberus</name>
+		<sortname>Elvira 2</sortname>
+		<desc>An evil force has penetrated our universe, possessing Black Widow Productions in Hollywood. The studio owner, Elvira herself, has vanished. Now three cavernous movie sets - a graveyard, a haunted house, and catacombs - are erupting with the most hideous monsters of gothic horror. Your quest? Find and rescue Elvira from these three craven worlds then fight a final cataclysmic battle with a netherworld entity of awesome dimension and fury!</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Horrorsoft</developer>
+		<publisher>Accolade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/elvira2-amiga.jpg</image>
+		<video>./snaps/elvira2-amiga.mp4</video>
+	</game>
+	<game>
+		<path>./ecoquest-cd-win.svm</path>
+		<name>EcoQuest: The Search For Cetus</name>
+		<sortname>EcoQuest 1</sortname>
+		<desc>Set out on a challenging undersea odyssey as you discover the delicate and miraculous balance of nature. As you unravel this perilous, sub-aquatic quest, you'll learn about the important environmental issues facing each of us today. You'll also have the adventure of your life. Join an enchanting cast of animated undersea characters as you search for Cetus, the great whale king. Only you can save a mysterious underwater city. Along the way, you'll explore the sunken ruins of ancient civilizations and rescue sea creatures who are hurt or poisoned by pollution.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/ecoquest-cd-win.jpg</image>
+		<video>./snaps/ecoquest-cd-win.mp4</video>
+	</game>
+	<game>
+		<path>./ecoquest2.svm</path>
+		<name>EcoQuest 2: Lost Secret of the Rainforest</name>
+		<sortname />
+		<desc>This Sierra adventure requires that you defeat the real-life dangers threatening the rainforests of South America. As you explore this exotic ecosystem, you will encounter endangered animal species, rare flora, and remote native cultures. Your challenge is to prevent their extinction by poachers and other outlaws who would destroy the environment to satisfy their greed. If you're successful, you will learn the amazing truth that lies behind the enigmatic face of the rainforest.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/ecoquest2.jpg</image>
+		<video>./snaps/ecoquest2.mp4</video>
+	</game>
+	<game>
+		<path>./gk2.svm</path>
+		<name>A Gabriel Knight Mystery: The Beast Within</name>
+		<sortname>Gabriel Knight 2</sortname>
+		<desc>Play as both Gabriel and Grace as they are dispatched to Munich to solve a series of mutilation murders thought to be the work of werewolves. Gabriel confronts his own demons while Grace traces an historical mystery, that of the strange demise of Mad King Ludwig II. The hunters become the hunted. The only hope for deliverance lies in the most desperate of schemes?</desc>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/gk2.jpg</image>
+		<video>./snaps/gk2.mp4</video>
+	</game>
+	<game>
+		<path>./mh1.svm</path>
+		<name>Manhunter: New York</name>
+		<sortname>Manhunter 1</sortname>
+		<desc>The Earth has been invaded by the Orb Alliance, and a tightly restricted regime instituted for the humans that remain. Brown monk robes are the only garments allowed, speaking is a capital offense, and every human has been implanted with a tracking chip recording their every move. To track down criminals, the Orbs enlist Manhunters - humans given access to advanced technology and selected to be a combination of police officers and bounty hunters. The player controls one such Manhunter as he unravels a conspiracy inside the decaying heart of the New York ruins, and a mysterious serial killer on the loose.</desc>
+		<rating>0.55</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Evryware</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/mh1.jpg</image>
+		<video>./snaps/mh1.mp4</video>
+	</game>
+	<game>
+		<path>./monkey.svm</path>
+		<name>Monkey Island: The Secret of Monkey Island</name>
+		<sortname>Monkey Island 1</sortname>
+		<desc>The Monkey Island saga is known throughout the gaming world as one of the best point and click adventures, and The Secret of Monkey Island is the game that started it all. Play as Guybrush Threepwood as he tries to become a pirate. Meet the lovely Elaine Marley, the evil ghost pirate LeChuck, a three headed monkey, and more! Have Guybrush engage in insult sword fighting, look for buried treasure, evade deadly piranha poodles, and attempt to discover The Secret of Monkey Island!</desc>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/monkey.jpg</image>
+		<video>./snaps/monkey.mp4</video>
+	</game>
+	<game>
+		<path>./pq1sci.svm</path>
+		<name>Police Quest: In Pursuit of the Death Angel</name>
+		<sortname>Police Quest 1</sortname>
+		<desc>Guide the life of Sonny Bonds as you chase wanted felons, respond to calls, and hunt a drug baron known only</desc>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/pq1sci.jpg</image>
+		<video>./snaps/pq1sci.mp4</video>
+	</game>
+	<game>
+		<path>./samnmax.svm</path>
+		<name>Sam &amp; Max Hit the Road</name>
+		<sortname />
+		<desc>Grab your nightstick, squeal like a siren and Hit the Road with Sam &amp; Max, Freelance Police, as they attempt to crack their toughest case. Sam (a shamus canine) and Max (a hyperkinetic rabbity thing) are hot on the trail of a runaway carnival bigfoot across America's quirky underbelly in this deranged animated adventure! Help our frightening, furry flatfoots find the fugitive freak! Do it now!</desc>
+		<rating>0.8</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/samnmax.jpg</image>
+		<video>./snaps/samnmax.mp4</video>
+	</game>
+	<game>
+		<path>./spyfox.svm</path>
+		<name>Spy Fox in "Dry Cereal"</name>
+		<sortname>Spy Fox 1</sortname>
+		<desc>Will kids be forced to endure a fate worse than eating dry cereal!? William the Kid has nearly completed his dastardly plan to cow-nap all the worlds supply of milk! The super-suave agent, SPY Fox, must find Mr. Udderly, rescue all the cows, and stop William the Kid from depleting the worlds supply of milk. Using ingenious SPY gadgets, keen wits, and daring moves, SPY Fox, jumps out on an udderly exhilarating adventure!</desc>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/spyfox.jpg</image>
+		<video>./snaps/spyfox.mp4</video>
+	</game>
+	<game>
+		<path>./kyra1-cd.svm</path>
+		<name>The Legend of Kyrandia: Book One</name>
+		<sortname>The Legend of Kyrandia 1</sortname>
+		<desc>As the rightful prince of Kyrandia, you must pursue the elusive Malcolm to recover the powerful gemstone. Only then will you be able to reclaim the throne and restore harmony to the land of Kyrandia. The Legend of Kyrandia awaits you!</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Westwood Studios</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/kyra1-cd.jpg</image>
+		<video>./snaps/kyra1-cd.mp4</video>
+	</game>
+	<game>
+		<path>./kyra2-cd.svm</path>
+		<name>The Legend of Kyrandia: Book Two: Hand of Fate </name>
+		<sortname>The Legend of Kyrandia 2</sortname>
+		<desc>The land of Kyrandia is disappearing piece by piece and you are the offbeat, young mystic who must voyage to the center of the world to break the curse and save it. Your surreal journey will twist even the sharpest of minds. Traveling through a vast, weirdly beautiful terrain, you must concoct potions, cast spells and lure the help of some very bizarre inhabitants to uncover the secrets that doom Kyrandia. The Hand of Fate is the second installment in the Kyrandia series. The gameplay is similar to that of the previous game.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Westwood Studios, Inc.</developer>
+		<publisher>Virgin</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/kyra2-cd.jpg</image>
+		<video>./snaps/kyra2-cd.mp4</video>
+	</game>
+	<game>
+		<path>./kyra3.svm</path>
+		<name>The Legend of Kyrandia: Book Three: Malcolm's Revenge </name>
+		<sortname>The Legend of Kyrandia 3</sortname>
+		<desc>Your country despises you. The Underworld beckons you. Even pirates reject you. And your toupee smells like squirrel. Long hated by everyone who's anyone, you're Malcolm, the infamous Court Jester of Kyrandia and you are granted one last chance to save your misunderstood hide.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Westwood Studios, Inc.</developer>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/kyra3.jpg</image>
+		<video>./snaps/kyra3.mp4</video>
+	</game>
+	<game>
+		<path>./duckman.svm</path>
+		<name>Duckman: The Graphic Adventures of a Private Dick</name>
+		<sortname />
+		<desc>The gameplay is that of a standard point and click adventure. Duckman can interact with and use collected items on various characters and objects. There are two ways to interact with a person: a normal way and an angry way. Being based on the popular animated sitcom, the game is filled with black humor. The game contains about thirty locations.</desc>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer />
+		<publisher />
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/duckman.jpg</image>
+		<video>./snaps/duckman.mp4</video>
+	</game>
+	<game>
+		<path>./t7g.svm</path>
+		<name>7th Guest, The</name>
+		<sortname />
+		<desc>Henry Stauf's mansion had been abandoned for as long as anyone dare remember. Stauf was a master toy maker, a maker of amazing puzzles and this strange house was his greatest creation. Now, the mansion stands empty, rotting ever since the children started dying, ever since the six guests came. Now there are only the eerie lights and the terrible sing-song rhymes of the children and suddenly, you are in the house.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930401T000000</releasedate>
+		<developer>Trilobyte</developer>
+		<publisher>Virgin</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/t7g.jpg</image>
+		<video>./snaps/t7g.mp4</video>
+	</game>
+	<game>
+		<path>./hdb-win.svm</path>
+		<name>Hyperspace Delivery Boy!</name>
+		<sortname />
+		<desc>Hyperspace Delivery Boy! follows the story of Guy Carrington, a courier in training. Guy is sent by Sergeant Filibuster on several dangerous missions in four different locations.nnnnDuring the course of the game, Guy discovers a secret organization known as "THEM". This organization remains largely mysterious throughout the game. Details about this organization are occasionally revealed by Non-Player Characters (NPCs). These characters are generally hard to find and may be missed on first play.nnnnGuy also has a love interest in Chief Engineer Dolly. In the end however, the love turns out to be mostly unrequited.</desc>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/hdb-win.jpg</image>
+		<video>./snaps/hdb-win.mp4</video>
+	</game>
+	<game>
+		<path>./lsl5.svm</path>
+		<name>Leisure Suit Larry 5: Passionate Patti Does Some Undercover Work</name>
+		<sortname />
+		<desc>The absence of a "Leisure Suit Larry 4" forms the basis of this newest installment, as Julius Biggs has stolen the 'missing floppies' of the game and caused Larry Laffer to become amnesiac. Larry is now in the adult film industry, working for a Mafia-connected company known as PornProdCorp. His boss sends him across the United States to scout for models to appear in "America's Sexiest Home Videos". Meanwhile, Patti is recruited by the FBI to dig up incriminating evidence on two record companies which are suspected of hiding subliminal messages in their songs.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910907T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/lsl5.jpg</image>
+		<video>./snaps/lsl5.mp4</video>
+	</game>
+	<game>
+		<path>./cruise.svm</path>
+		<name>Cruise For A Corpse</name>
+		<sortname />
+		<desc>Take Part in a High Seas Murder Mystery in 1927. As Inspector Raoul Dusentier, you have been invited on a dream cruise in the Mediterranean, but no sooner has the cruise begun when you are summoned to investigate a scandalous crime - the murder of your host!</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/cruise.jpg</image>
+		<video>./snaps/cruise.mp4</video>
+	</game>
+	<game>
+		<path>./fw-cd-us.svm</path>
+		<name>Future Wars: Adventures in Time</name>
+		<sortname />
+		<desc>In the year 1989, a window washer finds himself caught in the middle of a war between two alien races. He has to travel through time in order to keep the aliens from destroying each other and also save a kidnapped princess in the process.</desc>
+		<rating>0.75</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>Palace</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/fw-cd-us.jpg</image>
+		<video>./snaps/fw-cd-us.mp4</video>
+	</game>
+	<game>
+		<path>./phantasmagoria2.svm</path>
+		<name>Phantasmagoria: A Puzzle of Flesh</name>
+		<sortname />
+		<desc>Curtis Craig is a thirty-year-old man whose distorted childhood is filled with horrors. His father was involved in an illegal, top-secret experiment for a company called WynTech Industries. Nearly nothing is known about the true nature of this experiment; but something in it affected the sanity of Curtis' mother, eventually driving her to suicide. Curtis' father was later shot, leaving the poor little boy with serious behavioural disturbances, and eventually in therapy.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/phantasmagoria2.jpg</image>
+		<video>./snaps/phantasmagoria2.mp4</video>
+	</game>
+	<game>
+		<path>./pq3.svm</path>
+		<name>Police Quest 3: The Kindred</name>
+		<sortname />
+		<desc>Sonny Bonds, the now sergeant of Lytton police department, thought he could finally enjoy peaceful life with his wife Marie after the drug lord Jessie Bains has been put away for good. However, a series of gruesome murders perpetrated by a sinister cult known as "The Kindred" shocks the city. Marie becomes a victim of their attack and falls into a coma. It becomes Sonny's very personal mission to track down the attackers and make them pay for their crimes.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/pq3.jpg</image>
+		<video>./snaps/pq3.mp4</video>
+	</game>
+	<game>
+		<path>./pq4-cd.svm</path>
+		<name>Police Quest 4: Open Season</name>
+		<sortname />
+		<desc>Police Quest 4: Open Season is the fourth installment in the Police Quest series. It abandons the story arc of the previous three games, introducing a new setting and a new protagonist, homicide detective John Carey of the Los Angeles Police Department. Carey finds his best friend and ex-partner, Officer Bob Hickman, murdered in an alley in the Southern part of the city. An eight-year-old boy named Bobby Washington has been murdered as well.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/pq4-cd.jpg</image>
+		<video>./snaps/pq4-cd.mp4</video>
+	</game>
+	<game>
+		<path>./versailles.svm</path>
+		<name>Versailles 1685</name>
+		<sortname />
+		<desc>Versailles 1685 (also known as Versailles: A Game of Intrigue) is a point and click adventure game that revolves around Lalande, a young valet de chambre, who is called by Alexandre Bontemps in the early morning of the summer solstice 1685 after a strange pamphlet is discovered (which at the bottom figures a title of Aesop's fables: 'the frogs and Jupiter'), written by a schemer who threatens to set fire to the castle, all-the-while littering it with satirical pamphlets and clues which, if correctly pieced together could save the castle from its potential fate; the player has until nightfall to investigate the castle and surrounding areas.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Cryo Interactive</developer>
+		<publisher>Canal+ Multimedia</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/versailles.jpg</image>
+		<video>./snaps/versailles.mp4</video>
+	</game>
+	<game>
+		<path>./zgi-win.svm</path>
+		<name>Zork: Grand Inquisitor</name>
+		<sortname />
+		<desc>Magic is banned in the Great Underground Empire, and the Grand Inquisitor Yannick (with the kind help of Frobozz Electric) has a stranglehold on the world of Zork, establishing a totalitarian regime. According to his own words, the goal of the new state is to "shun magic, shun the appearance of magic, shun everything, and then shun shunning." Any opposing forces will be "totemized", which is apparently a rather unpleasant procedure.</desc>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/zgi-win.jpg</image>
+		<video>./snaps/zgi-win.mp4</video>
+	</game>
+	<game>
+		<path>./griffon.svm</path>
+		<name>Griffon Legend, The</name>
+		<sortname />
+		<desc>This engine was used for a freeware zelda-like RPG called The Griffon Legend. The original game was written in FreeBASIC by Syn9 as part of some contest and published with the full source code. Then it was rewritten to C and ported to GCW0 by Dmitry Smagin. The ScummVM engine is based on the C code from Dmitry Smagin.</desc>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>sev, strangerke</developer>
+		<publisher>sev, strangerke</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/griffon.jpg</image>
+		<video>./snaps/griffon.mp4</video>
+	</game>
+	<game>
+		<path>./touche.svm</path>
+		<name>Touché: The Adventures of the Fifth Musketeer</name>
+		<sortname />
+		<desc>The game takes place in 1562, during the French Wars of Religion, when France was being polarized between the Catholics and Huguenots and expected an assault from the English. The protagonist is Geoffroi Le Brun who is recruited to a company of musketeers (the historical Musketeers of the Guard were not created until 1622) in Rouen. The adventure continues through France including St. Quentin, Le Mans, Amiens and Le Havre.</desc>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Clipper Software</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/touche.jpg</image>
+		<video>./snaps/touche.mp4</video>
+	</game>
+	<game>
+		<path>./chivalry-win.svm</path>
+		<name>Chivalry Is Not Dead</name>
+		<sortname />
+		<desc>Chivalry is NOT Dead is a quite open-ended epic-quest game, where Lord Horrible sends you on a quest to kill the queen of Everything.</desc>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Squinky</developer>
+		<publisher>Squinky</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/chivalry-win.jpg</image>
+		<video>./snaps/chivalry-win.mp4</video>
+	</game>
+	<game>
+		<path>./phantasmagoria.svm</path>
+		<name>Phantasmagoria</name>
+		<sortname />
+		<desc>Phantasmagoria is an adventure game that places heavy emphasis on full motion video for exposition and cutscenes at various junctures to advance the storyline. Adrienne is represented as a digitized character roaming around pre-rendered settings in the house. She inspects various rooms, finds items, adds them to her inventory, finds places to use the items, and triggers advancements in the plot.</desc>
+		<releasedate>19950824T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/phantasmagoria.jpg</image>
+		<video>./snaps/phantasmagoria.mp4</video>
+	</game>
+	<game>
+		<path>./ihnm.svm</path>
+		<name>I Have No Mouth, and I Must Scream</name>
+		<sortname />
+		<desc>The game is based on a collection of short stories by Harlan Ellison. After the Cold War, the computers of the USA, Russia and China take over the world and wipe out almost the entire human race. The Allied Mastercomputer (called AM) holds the last five humans as prisoners to torture them. Any of them has to face his or her past in a virtual adventure AM has designed for them. There they encounter their fears and weaknesses.The player can choose which of the protagonists he wants to be but in fact he has to complete all of the six stories in order to solve the game. There are different ways of completing the game depending on the humanity the player shows.The voice acting features Harlan Ellison as AM.</desc>
+		<rating>0.75</rating>
+		<releasedate>19951031T000000</releasedate>
+		<developer>The Dreamers Guild</developer>
+		<publisher>Cyberdreams</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/ihnm.jpg</image>
+		<video>./snaps/ihnm.mp4</video>
+	</game>
+	<game>
+		<path>./ite-cd.svm</path>
+		<name>Inherit the Earth: Quest for the Orb</name>
+		<sortname />
+		<desc>In this game you are Rif, a young fox, who is falsely accused of stealing the magical orb of storms. This orb is capable of predicting when storms will arrive. Obviously this is important to farmers, but it is just as important to the boar tribe, for their supply of mud. You'll have to find the Orb and the real thief, to clear your name, save your girlfriend and prevent war with the boar tribe. While your doing this you'll encounter a much larger mystery: What is the origin of the tribes? Legend has it that the humans gave the animals the power of thought and speech, and then vanished. Who were they and what happened to them?</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>New World Computing's</developer>
+		<publisher>New World Computing's</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/ite-cd.jpg</image>
+		<video>./snaps/ite-cd.mp4</video>
+	</game>
+	<game>
+		<path>./camelot.svm</path>
+		<name>Conquests of Camelot: The Search For The Grail</name>
+		<sortname />
+		<desc>The holy Grail. It is the most famous and sought-after object in the world. It is the stuff that dreams and legends are made of. It is the one thing that will heal the heart of a king and breathe life into a dying land. More than all these things, it is a symbol of the trials of body, mind and spirit that all people face in their search for meaning and truth. Come with us to Camelot as the legendary King Arthur sets out on his ultimate quest.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/camelot.jpg</image>
+		<video>./snaps/camelot.mp4</video>
+	</game>
+	<game>
+		<path>./kq6-cd-win.svm</path>
+		<name>King's Quest VI: Heir Today, Gone Tomorrow</name>
+		<sortname />
+		<desc>For months Prince Alexander of Daventry has shut himself away from the world, thinking only of Princess Cassima, who he met while imprisoned in the previous game. Eventually he can take it no longer, and he hires a ship to search for the Land of the Green Isles located on the edge of the world. After months of searching he finally sets sight upon the island kingdom, only for a freak storm to strike the ship, destroying it and leaving him the only survivor. His troubles are far from over.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/kq6-cd-win.jpg</image>
+		<video>./snaps/kq6-cd-win.mp4</video>
+	</game>
+	<game>
+		<path>./freddi-win.svm</path>
+		<name>Freddi Fish 1: The Case Of The Missing Kelp Seeds</name>
+		<sortname />
+		<desc>Freddi Fish and her pal Luther must find Grandma Grouper's missing kelp seeds. Without them, all the sea creatures will starve. Freddi and Luther follow clues through underwater caves and canyons and outwit two criminal sharks to recover the kelp seeds.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/freddi-win.jpg</image>
+		<video>./snaps/freddi-win.mp4</video>
+	</game>
+	<game>
+		<path>./freddi2-win.svm</path>
+		<name>Freddi Fish 2: The Case Of The Haunted Schoolhouse</name>
+		<sortname />
+		<desc>The second episode of the educational game series, this time a ghost haunts Luther's schoolhouse and steals children's toys. In addition to the usual blend of education with humor, there is a "space invaders" clone mini-game, and a movie theater where you can take a break and watch mini-movies.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/freddi2-win.jpg</image>
+		<video>./snaps/freddi2-win.mp4</video>
+	</game>
+	<game>
+		<path>./freddi3-win.svm</path>
+		<name>Freddi Fish 3: The Case Of The Stolen Conch Shell</name>
+		<sortname />
+		<desc>Freddi Fish and her pal Luther are back in another installment of this animated edutainment adventure series. The Great Conch Shell used to signal the start of the Founder's Day Festival has been stolen. Freddi and Luther have to find the missing shell, discover the identity of the criminal, and clear Luther's uncle, who has been jailed as the prime suspect. Gameplay is inventory based adventure style, peppered with a host of mini-games that are a hallmark of Humongous Entertainment's kids adventure titles. The mini games here include playing a huge pipe organ and testing your mettle at a host of carnival midway games.</desc>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/freddi3-win.jpg</image>
+		<video>./snaps/freddi3-win.mp4</video>
+	</game>
+	<game>
+		<path>./freddi4-win.svm</path>
+		<name>Freddi Fish 4: The Case Of The Hogfish Rustlers Of Briny Gulch</name>
+		<sortname />
+		<desc>Set in an underwater version of the Wild West, The Case of The Hogfish Rustlers of Briny Gulch is the fourth installment in the Humongous Entertainment Games Freddi Fish adventure series. It is geared toward children ages 3-8. Like its predecessors FF4 is a colorful animated adventure that ties together a number of mini-games..</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/freddi4-win.jpg</image>
+		<video>./snaps/freddi4-win.mp4</video>
+	</game>
+	<game>
+		<path>./freddicove.svm</path>
+		<name>Freddi Fish 5: The Case Of The Creature Of Corral Cove</name>
+		<sortname />
+		<desc>It's time for Freddi Fish to solve another mystery in this fifth installment of the kids edutainment series. She (Freddi is a girl) and her best friend Luthor have to figure out what's going on with Coral Cove. The mayor wants to open it as a tourist attraction, but it seems to be inhabited by a sea monster.</desc>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/freddicove.jpg</image>
+		<video>./snaps/freddicove.mp4</video>
+	</game>
+	<game>
+		<path>./maze-us.svm</path>
+		<name>Freddi Fish And Luther's Maze Madness</name>
+		<sortname />
+		<desc>In Maze Madness, Freddi's friend Luther has managed to accidentally scatter Grandma Grouper's kelp seeds throughout a gigantic set of underwater mazes. You control Freddi Fish, who sets out to find and recover all of the missing kelp seeds.</desc>
+		<releasedate />
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/maze-us.jpg</image>
+		<video>./snaps/maze-us.mp4</video>
+	</game>
+	<game>
+		<path>./water-win-us.svm</path>
+		<name>Freddi Fish And Luther's Water Worries</name>
+		<sortname />
+		<desc>In Water Worries, you play Luther, a young green fish who gets sucked into a whirlpool and must find his way out. Luther's search will eventually take him through 100 underwater levels jam-packed full of action and adventure. On the way home, Luther will need to be aware of the hazards around him, while picking up worm doodles which will allow him to advance further.</desc>
+		<releasedate />
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/water-win-us.jpg</image>
+		<video>./snaps/water-win-us.mp4</video>
+	</game>
+	<game>
+		<path>./activity-win.svm</path>
+		<name>Putt-Putt And Fatty Bear's Activity Pack</name>
+		<sortname />
+		<desc>Putt-Putt Amd Fatty Bear's Activity Pack contains 15 different games and activities for kids 3-8. This is a compilation of Putt-Putt's Fun Pack and Fatty Bear's Fun Pack, along with four new games. Most of the games are played against either Putt-Putt or Fatty Bear. Some games are traditional, such as Tic-Tac-Toe, Checkers, Reversi, or the card game Go Fish.Others are renamed versions of popular games.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/activity-win.jpg</image>
+		<video>./snaps/activity-win.mp4</video>
+	</game>
+	<game>
+		<path>./balloon.svm</path>
+		<name>Putt-Putt And Pep's Balloon-O-Rama</name>
+		<sortname />
+		<desc>The game starts with Putt-Putt (the purple car) and Pep (his brown puppy) driving on to the screen with a bunch of balloons in peps mouth. Putt-putt tells his companion to hold on to the balloons tightly, which Pep immediately lets go of by barking.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/balloon.jpg</image>
+		<video>./snaps/balloon.mp4</video>
+	</game>
+	<game>
+		<path>./dog-win.svm</path>
+		<name>Putt-Putt And Pep's Dog On A Stick</name>
+		<sortname />
+		<desc>You guide Pep on a pogo stick through a 3d maze, avoiding hazards like oil spills and traps. The dog collects bones, ice cream cones and candy to gain points. As the game progresses, trampolines appear, changing the path of Pep.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/dog-win.jpg</image>
+		<video>./snaps/dog-win.mp4</video>
+	</game>
+	<game>
+		<path>./puttrace-us.svm</path>
+		<name>Putt-Putt Enters The Race</name>
+		<sortname />
+		<desc>That lovable little car, Putt-Putt and his dog Pep must gather various items including fuel and a flag before they can enter the Cartown 500. There are plenty of old friends as well as some fun new characters to give Putt-Putt a helping hand.</desc>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/puttrace-us.jpg</image>
+		<video>./snaps/puttrace-us.mp4</video>
+	</game>
+	<game>
+		<path>./puttmoon-win.svm</path>
+		<name>Putt-Putt Goes to the Moon</name>
+		<sortname />
+		<desc>When Putt-Putt visits the fireworks factory, a slip of Pep's paw sends him rocketing to the moon. Once there, he must gather the pieces of a rocket ship to get himself and Pep back home to Earth.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/puttmoon-win.jpg</image>
+		<video>./snaps/puttmoon-win.mp4</video>
+	</game>
+	<game>
+		<path>./puttputt-win.svm</path>
+		<name>Putt-Putt Joins the Parade</name>
+		<sortname />
+		<desc>Putt-Putt, an adorable purple car, wants to join the Cartown Parade. But, first he must earn money for a carwash, find a balloon, and get a pet (Pep, the puppy).</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/puttputt-win.jpg</image>
+		<video>./snaps/puttputt-win.mp4</video>
+	</game>
+	<game>
+		<path>./PuttTime-win-us.svm</path>
+		<name>Putt-Putt Travels Through Time</name>
+		<sortname />
+		<desc>Putt Putt goes to visit his friend Mr. Firebird and show him his new school supplies before Putt Putt goes to school. Putting a nickel into Mr. Firebirds time machine, turns the machine on sucking Pep and Putt Putt's school supplies into four dimensions of the past and the future.You and Putt Putt have to travel into the Time of the Dinosaurs, the Medieval times, the Wild West and the future, so Putt Putt can be reunited with his things.</desc>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/PuttTime-win-us.jpg</image>
+		<video>./snaps/PuttTime-win-us.mp4</video>
+	</game>
+	<game>
+		<path>./spyfox2-mac.svm</path>
+		<name>Spy Fox 2: "Some Assembly Required"</name>
+		<sortname />
+		<desc>The Plot: Once again, the world relies on Fox - Spy Fox, the suave secret agent who smoothly finesses his way through Spy Corps' toughest assignments. This time, Spy Corps' corrupt counterpart, the Society for Meaningless Evil, Larceny, Lying and Yelling (S.M.E.L.L.Y.) has devised a dogbot which will be unleashed upon the unsuspecting world! In his nastiness, S.M.E.L.L.Y.'s corrupt commander, Napoleon LeRoach, did not install an OFF switch on the dogbot. Instead, he hid the switch somewhere within the World's Fair.</desc>
+		<rating>0.85</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Humongous Entertainment</developer>
+		<publisher>Humongous Entertainment</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/spyfox2-mac.jpg</image>
+		<video>./snaps/spyfox2-mac.mp4</video>
+	</game>
+	<game>
+		<path>./bargon.svm</path>
+		<name>Bargon Attack</name>
+		<sortname />
+		<desc>Bargon Attack is one of the less known adventures from Coktel Vision, though it was one of the first that introduced the unique interface that was used in many Coktel games that followed. It was also one of the first of Coktel's games to use FMV technolog</desc>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Coktel Vision</developer>
+		<publisher>Coktel Vision</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/bargon.jpg</image>
+		<video>./snaps/bargon.mp4</video>
+	</game>
+	<game>
+		<path>./sky.svm</path>
+		<name>Beneath a Steel Sky</name>
+		<sortname />
+		<desc>Beneath a Steel Sky (BASS) is set in a post-apocalyptic Australia where you're an orphan living with a tribe in the wastelands the 'gap' when a helicopter comes to take you to the enormous Union City. The game starts with the helicopter crashing down in the city and you making your escape into one of the large tall plants. Your goal? To discover who you really are and why you were taken to the city.</desc>
+		<rating>0.85</rating>
+		<releasedate>19940301T000000</releasedate>
+		<developer>Revolution Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/sky.jpg</image>
+		<video>./snaps/sky.mp4</video>
+	</game>
+	<game>
+		<path>./fairytales.svm</path>
+		<name>Mixed Up Fairy Tales</name>
+		<sortname />
+		<desc>Bookend has been mixing up Bookwyrm's fairy tales and you have to set things right by aiding well known fairy tale characters such as Cinderella and Snow White. To set things right, you will need to go around acquiring objects, such as Jack's magical beans, to give to Jack so that he can raise a beanstock.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/fairytales.jpg</image>
+		<video>./snaps/fairytales.mp4</video>
+	</game>
+	<game>
+		<path>./gk1-cd-win.svm</path>
+		<name>Gabriel Knight: Sins of the Fathers</name>
+		<sortname>Gabriel Knight 1</sortname>
+		<desc>Gabriel Knight is a wise-cracking bookstore owner and would-be author. He is the last in a long line of Shadow Hunters, those fated to fight supernatural forces of evil. Tormented by terrifying nightmares, he must spend every waking moment scouring the side streets and back alleys of New Orleans for the key to his dark past. One day, a blood-chilling murder shocks the inhabitants of the city. The police detective assigned to investigate the crime is Gabriel's friend. In the beginning Gabriel collects evidence in hope of using the material for his new novel; but soon he finds himself personally involved in the investigation.</desc>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/gk1-cd-win.jpg</image>
+		<video>./snaps/gk1-cd-win.mp4</video>
+	</game>
+	<game>
+		<path>./toltecs.svm</path>
+		<name>3 Skulls Of The Toltecs</name>
+		<sortname />
+		<desc>The game begins in 1866 Arizona when the game's hero, a cowboy named Fenimore Fillmore, tries to rescue an old peddler from a band of attacking rustlers. The dying peddler gives Fenimore a golden skull and tells him the legend of a fabulous treasure that can be found by collecting two other golden skulls.</desc>
+		<rating>0.65</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Revistronic</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/toltecs.jpg</image>
+		<video>./snaps/toltecs.mp4</video>
+	</game>
+	<game>
+		<path>./qfg4-cd-win.svm</path>
+		<name>Quest for Glory IV: Shadows of Darkness</name>
+		<sortname />
+		<desc>Shadows of Darkness is the fourth Quest for Glory game. It is a journey into the land of Mordavia - a setting influenced by Eastern Europe, particularly its Slavic areal. The hero had just begun to enjoy his victory in Tarna, when a spell zapped him into parts unknown, without a weapon, items, or even a source of light. Shortly after finding his way out of the dark cave, the hero meets a mysterious woman named Katrina. He traverses the swamps in the dark forest and finally reaches the town. However, the town is also engulfed by a foreboding atmosphere, and the hero cannot allow himself to relax.</desc>
+		<rating>0</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra On-Line Ltd.</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/qfg4-cd-win.jpg</image>
+		<video>./snaps/qfg4-cd-win.mp4</video>
+	</game>
+	<game>
+		<path>./rama.svm</path>
+		<name>RAMA</name>
+		<sortname />
+		<desc>Nobody has expected it - but one day, something entered the solar system from outside. The mysterious object appeared to be a gigantic cylinder with unknown properties. The International Space Agency (ISA) sent the special Newton Team onto the object, which they dubbed "Rama". The scientists soon discovered that Rama was, in fact, a huge biomechanical collector of alien species and their cities. One of the explorers, Valeriy Borzov, dies under mysterious circumstances. Another astronaut is sent to replace him, investigate the circumstanced that led to his death, and perhaps uncover the mystery of Rama.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Dynamix</developer>
+		<publisher>Sierra On-Line Ltd.</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/rama.jpg</image>
+		<video>./snaps/rama.mp4</video>
+	</game>
+	<game>
+		<path>./shivers.svm</path>
+		<name>Shivers</name>
+		<desc>Surviving a dare by your friends to spend the night in a haunted museum is how Shivers begins, but it soon turns into a challenge of capturing the evil Ixupi, ghosts of South American legend, in pots scattered throughout the museum.</desc>
+		<image>./boxart/shivers.jpg</image>
+		<video>./snaps/shivers.mp4</video>
+		<rating>0.85</rating>
+		<releasedate>19950930T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220223T161714</lastplayed>
+	</game>
+</gameList>

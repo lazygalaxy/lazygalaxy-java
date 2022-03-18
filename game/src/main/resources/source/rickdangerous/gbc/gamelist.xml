@@ -1,0 +1,491 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Nintendo Game Boy Color</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Dexter's Laboratory - Robot Rampage (USA, Europe).zip</path>
+		<name>Dexter's Laboratory: Robot Rampage</name>
+		<sortname />
+		<desc>Your laboratory has been filled up with evil robots. It's up to you, as Dexter, to make your way through different levels, picking up the necessary tools to rid your lab of the cybernetic menace.</desc>
+		<rating>0.35</rating>
+		<releasedate />
+		<developer>Altron</developer>
+		<publisher>BAM! Entertainment, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Dexter's Laboratory - Robot Rampage (USA, Europe).jpg</image>
+		<video>./snaps/Dexter's Laboratory - Robot Rampage (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Ball Z - Legendary Super Warriors (USA).zip</path>
+		<name>Dragon Ball Z: Legendary Super Warriors</name>
+		<sortname />
+		<desc>Dragon Ball Z: Legendary Super Warriors is a mixture of a card game and a turn-based fighting game for the Game Boy Color. The game is played with original in-game cards for attacks, techniques and support items and initially has only two modes trade and story. Legendary Super Warriorsâ€™ story spans from the Saiyan saga to the end of the Buu Saga. Once beaten, a battle mode is unlocked, allowing players to square off with random enemies. Once the game is beaten, any character is usable in any battle, such as Frieza vs. Cell.</desc>
+		<rating>0.55</rating>
+		<releasedate>20020702T000000</releasedate>
+		<developer>Banpresto</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Dragon Ball Z - Legendary Super Warriors (USA).jpg</image>
+		<video>./snaps/Dragon Ball Z - Legendary Super Warriors (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Inspector Gadget - Operation Madkactus (USA).zip</path>
+		<name>Inspector Gadget: Operation Madkactus</name>
+		<sortname />
+		<desc>The evil Dr. Claw is about to unleash the deadly MadKactus virus on the world, and it's up to Inspector Gadget to stop him. Since Gadget always needs a little help, his niece Penny and their dog Brain are at the ready to make their contribution. You, as the enigmatic Inspector, will have to work your way through 20 levels that span five different worlds. Luckily, many of your famous devices are available to help out including the helicopter, spring arms, rocket-powered roller skates, and hammer hat.</desc>
+		<rating>0.4</rating>
+		<releasedate>20001201T000000</releasedate>
+		<developer>RFX Interactive</developer>
+		<publisher>Light &amp; Shadow Production|Ubi Soft Entertainment Ltd.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Inspector Gadget - Operation Madkactus (USA).jpg</image>
+		<video>./snaps/Inspector Gadget - Operation Madkactus (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Lufia - The Legend Returns (USA).zip</path>
+		<name>Lufia: The Legend Returns</name>
+		<sortname />
+		<desc>The island of the Sinistrals, Doom Island, sank deep into the sea after the second Doom Island War. It was believed to be in an eternal sleep, but has once again begun silently beating, preparing to make its appearance in the sky for the third time. The evil Sinistrals have again been resurrected and released an unforseen terror on the land. A force has awaken witin you, a spiritual flow that draws you to a conflict that will save the world! The power of Maxim's legendary bloodline lives in you. The thread of destiny guides you through an adventurous journey looking for an unknown destination!</desc>
+		<rating>0.55</rating>
+		<releasedate>20011023T000000</releasedate>
+		<developer>Neverland Co., Ltd.</developer>
+		<publisher>Natsume</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Lufia - The Legend Returns (USA).jpg</image>
+		<video>./snaps/Lufia - The Legend Returns (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mario Golf (USA).zip</path>
+		<name>Mario Golf</name>
+		<sortname />
+		<desc>Mario Golf on Game Boy Color isn't a straight port of the N64 game - it's a totally different game in its own right. It is a combination of a golf game and an RPG. As in an RPG, you choose your character at the beginning, with various strengths and weaknesses, and throughout the course of the game, your character gains experience points through winning matches or playing mini-games. Experience points can be distributed to various skills, such as putting, which makes it easier for you to do well. There are quite a few skills, and no two characters you can create will play in exactly the same way.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990630T000000</releasedate>
+		<developer>Camelot Software</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Mario Golf (USA).jpg</image>
+		<video>./snaps/Mario Golf (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mario Tennis (USA).zip</path>
+		<name>Mario Tennis</name>
+		<sortname />
+		<desc>Mario Tennis for the Game Boy Color is a much different experience than its N64 effort. In addition to the core gameplay found in the N64 version, the GBC version features an RPG-style world that allows you to work your way up through the ranks at the Royal Tennis Academy.</desc>
+		<rating>0.9</rating>
+		<releasedate>20000116T000000</releasedate>
+		<developer>Camelot Software</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Mario Tennis (USA).jpg</image>
+		<video>./snaps/Mario Tennis (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Metal Gear Solid (USA).zip</path>
+		<name>Metal Gear Solid</name>
+		<sortname />
+		<desc>A secret government project, codenamed "Babel", attempts to revive the Metal Gear project - development of a highly destructive mech weapon. But an organization known as Gindran Liberation Front hijacked the Metal Gear prototype, without which any further development would be useless. Solid Snake is sent to infiltrate Outer Heaven, a location not entirely unfamiliar to him, and to retrieve the prototype.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Metal Gear Solid (USA).jpg</image>
+		<video>./snaps/Metal Gear Solid (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon Puzzle Challenge (USA, Australia).zip</path>
+		<name>Pokémon Puzzle Challenge</name>
+		<sortname />
+		<desc>Pokémon Puzzle Challenge, originally released in Japan as Pokemon de Panepon, is a video game for the Game Boy Color. It is based on Panel de Pon, only with characters from the Pokémon franchise. The characters in Pokémon Puzzle Challenge are based on those in the Gold and Silver games, while those in Pokémon Puzzle League?its Nintendo 64 equivalent?were based more on the anime characters. However, the game is also focused around beating the Johto leaders in a puzzle challenge in Johto region. The game play mode is divided into 1 Player, 2 Player, and Training.</desc>
+		<rating>0.75</rating>
+		<releasedate>20000901T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Pokemon Puzzle Challenge (USA, Australia).jpg</image>
+		<video>./snaps/Pokemon Puzzle Challenge (USA, Australia).mp4</video>
+	</game>
+	<game>
+		<path>./Resident Evil Gaiden (USA).zip</path>
+		<name>Resident Evil: Gaiden</name>
+		<sortname />
+		<desc>It's believed that Umbrella, the creators of the deadly virus that wiped out Raccoon City, has developed a new Bio Organic Weapon on a cruise ship called the Starlight, which is on its way to Europe. One S.T.A.R.S. member, Leon S Kennedy was sent out to destroy the weapon, but the team have been unable to contact him since he arrived at the ship.</desc>
+		<rating>0.6</rating>
+		<releasedate>20011204T000000</releasedate>
+		<developer>M4 Ltd.</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Resident Evil Gaiden (USA).jpg</image>
+		<video>./snaps/Resident Evil Gaiden (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Return of the Ninja (USA).zip</path>
+		<name>Return of the Ninja</name>
+		<sortname />
+		<desc>On a day when Tsukikage and Saiyuri return to their village, they see it on fire. The player takes the role of either of the two and has to stop the ones attacking the village and avenge their friends.</desc>
+		<rating>0.65</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Natsume</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+		<image>./boxart/Return of the Ninja (USA).jpg</image>
+		<video>./snaps/Return of the Ninja (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man Xtreme 2 (USA, Europe).zip</path>
+		<name>Mega Man Xtreme 2</name>
+		<sortname />
+		<desc>A new threat is arising! Reploids are suddenly breaking down, and when their bodies are investigated, no traces of their "souls" can be found in their memory! No one knows how it is happening, and the Reploid world is in a panic. To make matters worse, several Mavericks from the past are rampaging again, only this time with a new, deadly "DNA Soul" chip installed in them, making them even deadlier than before! The only hope left is in the Maverick Hunters, and their greatest heroes, X and Zero, to get to the bottom of this incident.</desc>
+		<rating>0.75</rating>
+		<releasedate>20020208T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Mega Man Xtreme 2 (USA, Europe).jpg</image>
+		<video>./snaps/Mega Man Xtreme 2 (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./R-Type DX (USA, Europe) (GB Compatible).zip</path>
+		<name>R-Type DX</name>
+		<sortname />
+		<desc>The World Government needs your help. A deep-space probe has uncovered the Bydo Empire's secret plans to mount an attack on Earth. A full-scale assault force would be detected by the Empire's long-range scanners, and any hope of surprise would be lost. Our only chance is for a single pilot in a lone R-Type fighter to penetrate the Bydo defense system and destroy the evil Empire before it can launch its attack. Tear through Bydo defenses as you blast enemies with your Fire Chain, Super Laser and Bubble Beam. Take the fight to a fevered pitch with two pulse-pounding rapid-fire modes on your Game Boy Color system.</desc>
+		<rating>0.65</rating>
+		<releasedate />
+		<developer>Bits Studios Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/R-Type DX (USA, Europe) (GB Compatible).jpg</image>
+		<video>./snaps/R-Type DX (USA, Europe) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Shantae (USA).zip</path>
+		<name>Shantae</name>
+		<sortname />
+		<desc>The small fishing village of Scuttle Town is a quiet and peaceful place, thanks mainly to its protector, the self-appointed Shantae the genie. When lady-pirate Risky Boots receives information that a treasure chest is found at the village, she quickly makes her way there for an invasion to take the cash. As Shantae, you must use the genies magical abilities, her hair whipping attacks and dance moves to stop the pirate and her gang from taking the treasure and leaving the town in ruins.</desc>
+		<rating>0.8</rating>
+		<releasedate>20020602T000000</releasedate>
+		<developer>Wayforward Technologies</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Shantae (USA).jpg</image>
+		<video>./snaps/Shantae (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario Bros. Deluxe (USA, Europe) (Rev 2).zip</path>
+		<name>Super Mario Bros. Deluxe</name>
+		<sortname />
+		<desc>The Mushroom Kingdom has been invaded by the Koopa, a tribe of turtles who possess dark magic. Their king Bowser has transformed all its inhabitants into stones, bricks, and mushrooms; he has also captured Princess Toadstool. She is the only one who can break the evil spell.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990501T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Super Mario Bros. Deluxe (USA, Europe) (Rev 2).jpg</image>
+		<video>./snaps/Super Mario Bros. Deluxe (USA, Europe) (Rev 2).mp4</video>
+	</game>
+	<game>
+		<path>./Toki Tori (USA, Europe) (En,Ja,Fr,De,Es).zip</path>
+		<name>Toki Tori</name>
+		<sortname />
+		<desc>Just hatched, Toki Tori finds that his fellow chicks have been kidnapped. Lucky for him that even at a young age, he has plenty of skills up his sleeve, so he sets out to find his family and why they were taken in the first place.</desc>
+		<rating>0.5</rating>
+		<releasedate>20020301T000000</releasedate>
+		<developer>Two Tribes B.V.</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Toki Tori (USA, Europe) (En,Ja,Fr,De,Es).jpg</image>
+		<video>./snaps/Toki Tori (USA, Europe) (En,Ja,Fr,De,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Tomb Raider - Curse of the Sword (USA, Europe).zip</path>
+		<name>Tomb Raider: Curse of the Sword</name>
+		<sortname />
+		<desc>Released in conjunction with the LARA CROFT: Tomb Raider film starring Angelina Jolie, Curse of the Sword is one of the more advanced titles ever created for the Game Boy Color. While averting a museum robbery, Lara is wounded ever so slightly by what seems to be a cursed sword. Now, her worst fears are beginning to come true, as a bizarre cult based out of New Orleans is plotting to steal her soul. Help the lovely and talented Ms.</desc>
+		<rating>0.65</rating>
+		<releasedate>20010701T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Activision</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Tomb Raider - Curse of the Sword (USA, Europe).jpg</image>
+		<video>./snaps/Tomb Raider - Curse of the Sword (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Wario Land 3 (World) (En,Ja).zip</path>
+		<name>Wario Land 3</name>
+		<sortname />
+		<desc>During a joyride in his biplane, the engine blows and Wario crashes into the woods. It's here where he finds a hidden cave with a magic Music box. Before he can say "I hate Mario", the box pulls him inside and into a room with a dark figure, who strikes a deal with him. Find all of the missing Music boxes and he can leave. And any treasure he finds he can keep.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000530T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Wario Land 3 (World) (En,Ja).jpg</image>
+		<video>./snaps/Wario Land 3 (World) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Warlocked (USA).zip</path>
+		<name>Warlocked</name>
+		<sortname />
+		<desc>In the perilous world of Warlocked, a ferocious war is raging between the Human forces of Queen Azarel and the Beast horde of Chief Zog. Players can control either side, each of them offers 30 missions.</desc>
+		<rating>0.85</rating>
+		<releasedate />
+		<developer>Bits Studios Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Warlocked (USA).jpg</image>
+		<video>./snaps/Warlocked (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Oracle of Seasons (USA, Australia).zip</path>
+		<name>The Legend of Zelda: Oracle of Seasons</name>
+		<sortname />
+		<desc>The land of Holodrum is slowly withering. Onox, the General of Darkness, has imprisoned the Oracle of Seasons and is draining the very life out of the land. With the seasons in tumult and the forces of evil running rampant, the world looks for a hero and finds Link. His quest won't be easy he'll have to master the seasons if he's to turn back the evil tide.</desc>
+		<rating>0.9</rating>
+		<releasedate>20010513T000000</releasedate>
+		<developer>Flagship</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Legend of Zelda, The - Oracle of Seasons (USA, Australia).jpg</image>
+		<video>./snaps/Legend of Zelda, The - Oracle of Seasons (USA, Australia).mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Oracle of Ages (USA, Australia).zip</path>
+		<name>The Legend of Zelda: Oracle of Ages</name>
+		<sortname />
+		<desc>Using the legendary power of the Triforce, Link travels to a distant land known as Labrynna where Veran, the Sorceress of Shadows, has developed a scheme to alter Labrynna's past. Through trickery and deceit, Veran harnesses the power of Nayru, the Oracle of Ages, and travels 400 years into the past. Before the Sorceress of Shadows can complete her dark mission, Link must use the Harp of Ages to save the day.</desc>
+		<rating>0.9</rating>
+		<releasedate>20010513T000000</releasedate>
+		<developer>Flagship</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Legend of Zelda, The - Oracle of Ages (USA, Australia).jpg</image>
+		<video>./snaps/Legend of Zelda, The - Oracle of Ages (USA, Australia).mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It).zip</path>
+		<name>Donkey Kong Country</name>
+		<sortname />
+		<desc>King K. Rool has stolen Donkey Kong's banana stash, and Donkey Kong needs your help to get them back. In search of K. Rool, the Kremling horde impedes your progress. Kremlings, crocodile-like creatures, include Kritters (they succumb to a simple jump on the head), Krushas (they are virtually indestructible), and others. There are also other enemies that block your path, such as beavers, snakes, vultures. Leading them are dastardly bosses, including Very Gnawty, Necky, Bumble B, and Dumb Drum, and they all bar the way with their own special blend of villainy.</desc>
+		<rating>0.65</rating>
+		<releasedate>20001022T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man Xtreme (USA, Europe) (GB Compatible).zip</path>
+		<name>Mega Man Xtreme</name>
+		<sortname />
+		<desc>Mega Man Xtreme hits the Gameboy Color! When an unknown hacker group breaks into a super system known as the Mother Computer, havoc breaks out all over the world! X and Zero are called in to find and destroy this hacker group and restore the Mother Computer before the world is thrust into chaos!</desc>
+		<rating>0.8</rating>
+		<releasedate>20010824T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Mega Man Xtreme (USA, Europe) (GB Compatible).jpg</image>
+		<video>./snaps/Mega Man Xtreme (USA, Europe) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Warrior III (USA).zip</path>
+		<name>Dragon Warrior III</name>
+		<sortname />
+		<desc>Your father, the brave Ortega, is dead. He set off to destroy the Demon Lord Baramos but fell in glorious battle. Unless stopped, Baramos will unleash a torrent of evil that will destroy the world. You must stop Baramos and discover the legend of Dragon Warrior! Your journey starts on Aliahan. Only you decide where it ends.</desc>
+		<rating>0.7</rating>
+		<releasedate>20010718T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Dragon Warrior III (USA).jpg</image>
+		<video>./snaps/Dragon Warrior III (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mickey's Speedway USA (USA, Europe) (En,Fr,De,Es).zip</path>
+		<name>Disney's Mickey's Speedway USA</name>
+		<sortname />
+		<desc>The Weasels have kidnapped Mickey Mouse's dog! All that was left was a ransom note with a picture of Pluto being hauled away in a van, and some scrawled writing taunting Mickey to try and catch them. Not knowing what else to do, Mickey called up his friends, who all volunteered to help - even Big Bad Pete plans to race! You'll have to speed across the country to catch up with the weasels and rescue Pluto!</desc>
+		<rating>0.8</rating>
+		<releasedate />
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Mickey's Speedway USA (USA, Europe) (En,Fr,De,Es).jpg</image>
+		<video>./snaps/Mickey's Speedway USA (USA, Europe) (En,Fr,De,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon - Crystal Version (USA, Europe) (Rev 1).zip</path>
+		<name>Pokémon Crystal Version</name>
+		<sortname />
+		<desc>Pocket Monster mania continues with Nintendo's release of Pokémon Crystal for the Game Boy Color. Much as 1999's Pokémon Yellow offered gentle enhancements to the basic story and gameplay of the original Pokémon Red and Pokémon Blue games, Pokémon Crystal is based on the second-wave Pokémon Gold and Pokémon Silver releases.</desc>
+		<rating>0.85</rating>
+		<releasedate>20010729T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Pokemon - Crystal Version (USA, Europe) (Rev 1).jpg</image>
+		<video>./snaps/Pokemon - Crystal Version (USA, Europe) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Tomb Raider (USA, Europe) (En,Fr,De,Es,It).zip</path>
+		<name>Tomb Raider</name>
+		<sortname />
+		<desc>Deep in the jungles of Peru, hidden in a lost temple is the Nightmare Stone, an ancient and magical crystal. In the wrong hands it has the power to destroy the world! Lara Croft must find the deadly crystal before anyone else, but first she must jump, climb, swim and blast her way through temples, tombs and treasure rooms, facing skeletons, giant snakes and evil spirits in her most action-packed adventure yet!</desc>
+		<rating>0.7</rating>
+		<releasedate>20000608T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Tomb Raider (USA, Europe) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Tomb Raider (USA, Europe) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Ghosts'n Goblins (USA, Europe) (GB Compatible).zip</path>
+		<name>Ghosts'n Goblins</name>
+		<sortname />
+		<desc>Ghosts'n Goblins is a sideways scrolling action platformer spread over six levels, each of which must be completed within three minutes (or a life is lost), taking in forest, village, mountain and cavern settings with increasing difficulty.</desc>
+		<rating>0.75</rating>
+		<releasedate />
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Ghosts'n Goblins (USA, Europe) (GB Compatible).jpg</image>
+		<video>./snaps/Ghosts'n Goblins (USA, Europe) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Simpsons, The - Night of the Living Treehouse of Horror (USA, Europe).zip</path>
+		<name>Simpsons: Night of the Living Treehouse of Horror, The</name>
+		<sortname />
+		<desc>Halloween becomes a year-round treat with THE SIMPSONS: Night of the Living Treehouse of Horror. Based on the annual SIMPSONS Halloween specials, this lighthearted game allows you to play as anyone in the family: Bart, Lisa, Homer, Marge, or little Maggie. Each character has been drawn into a haunted world, and it's up to you to steer them home. There are six spooky levels in all, and each one of them is packed with chills and challenges for gamers of all ages.</desc>
+		<rating>0.55</rating>
+		<releasedate>20010326T000000</releasedate>
+		<developer>Software Creations</developer>
+		<publisher>THQ</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Simpsons, The - Night of the Living Treehouse of Horror (USA, Europe).jpg</image>
+		<video>./snaps/Simpsons, The - Night of the Living Treehouse of Horror (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Street Fighter Alpha - Warriors' Dreams (USA).zip</path>
+		<name>Street Fighter Alpha: Warriors' Dreams</name>
+		<sortname />
+		<desc>It's Street Fighter as you always remember it, with some new moves, characters and combo systems, as well as a more polished look and feel. The new moves available for each fighter, called Super moves, allow them to fire off very powerful moves. A bar at the bottom of the screen represents the power that you have to use for the moves. You start the first round on 0, and each attack that you make adds power to the bar. Once you reach level 3, you can unleash the special attacks, that can sometimes KO the opponant. The other major change over the Street Fighter 2 series are the Alpha counters. These can be used to counter an on-coming attack after blocking.</desc>
+		<rating>0.6</rating>
+		<releasedate>20000324T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<image>./boxart/Street Fighter Alpha - Warriors' Dreams (USA).jpg</image>
+		<video>./snaps/Street Fighter Alpha - Warriors' Dreams (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Test Drive Le Mans (USA) (En,Fr,Es).zip</path>
+		<name>Test Drive: Le Mans</name>
+		<sortname />
+		<desc>Test Drive: Le Mans is a racing game for the Game Boy Color. The game features three racing modes: Arcade, Le Mans, and Championship. Le Mans allows you to race on the actual circuit, while Championship lets you race on 10 real tracks from all around the world. The arcade mode includes power-ups such as boosts, and oil slicks that bring your car to a slip. There are 10 different cars to race with such as the Nissan R390 and the BMW V12 VMR, with each their own handling and appearance.</desc>
+		<releasedate />
+		<developer>Velez &amp; Dubail</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Test Drive Le Mans (USA) (En,Fr,Es).jpg</image>
+		<video>./snaps/Test Drive Le Mans (USA) (En,Fr,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Grandia - Parallel Trippers (English v1.03).gbc</path>
+		<name>Grandia: Parallel Trippers</name>
+		<sortname />
+		<desc>This is a Game Boy spin-off from the original Grandia game on Saturn and Playstation. It tells the tale of three school children named Yuuhi, Mizuki and Shirou who get sucked into the world of Grandia. In the course of the game you meet the cast of the original Grandia game like Justin, Feena, Sue etc. Though the characters from Grandia appear in it, it is not a continuation of the Grandia storyline.</desc>
+		<rating>0.5</rating>
+		<releasedate>20001222T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Grandia - Parallel Trippers (English v1.03).jpg</image>
+		<video>./snaps/Grandia - Parallel Trippers (English v1.03).mp4</video>
+	</game>
+	<game>
+		<path>./Little Magic (English v1.0).gbc</path>
+		<name>Little Magic</name>
+		<sortname />
+		<desc>Little Magic is a puzzle game, developed and published by Altron, which was released in Japan in 1999. Magic is all the rage these days. All the popular girls practice it, and young May doesn't want to be left out of the loop. Despite her best efforts, the only magic spell she seems able to manage is creating magic bubbles. Nevertheless, May is determined to graduate magic school even with her limited abilities. The trail before her seems impossible, but through sheer determination, nothing can stand in her way.</desc>
+		<releasedate />
+		<developer>Altron</developer>
+		<publisher>Altron</publisher>
+		<genre>Puzzle</genre>
+		<image>./boxart/Little Magic (English v1.0).jpg</image>
+		<video>./snaps/Little Magic (English v1.0).mp4</video>
+	</game>
+	<game>
+		<path>./Survival Kids 2 - Dasshutsu!! Futago Shima! (English v0.9).gbc</path>
+		<name>Survival Kids 2: Dasshutsu!! Futago-Jima!</name>
+		<sortname />
+		<desc>Two brothers are seperated on Twin Islands and need to figure out how to escape the island alive. Survival skills are put to the test, as you hunt for food, make shelter and explore the great unknown islands.</desc>
+		<releasedate>20000719T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Survival Kids 2 - Dasshutsu!! Futago Shima! (English v0.9).jpg</image>
+		<video>./snaps/Survival Kids 2 - Dasshutsu!! Futago Shima! (English v0.9).mp4</video>
+	</game>
+	<game>
+		<path>./Bionic Commando - Elite Forces (USA, Australia).zip</path>
+		<name>Bionic Commando: Elite Forces</name>
+		<desc>The Avar empire is an imminent threat to our homeland of Karinia. As a member of the Bionic Corps' Elite Forces team your mission is to infiltrate the Avar installations, disrupt their invasion plans and rescue our scout, fellow bionic commando, Commander Joe. You play a bionic soldier with a mechanic arm that extends and contracts to let you interact with objects normally out of reach.</desc>
+		<image>./boxart/Bionic Commando - Elite Forces (USA, Australia).jpg</image>
+		<video>./snaps/Bionic Commando - Elite Forces (USA, Australia).mp4</video>
+		<rating>0.7</rating>
+		<releasedate />
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220217T192756</lastplayed>
+	</game>
+	<game>
+		<path>./Asterix &amp; Obelix (Europe) (En,Fr,De,Es).zip</path>
+		<name>Astérix &amp; Obélix</name>
+		<desc>Being the predecessor of Astérix &amp; Obélix for SNES, this game features the same story as it's later counterpart - however the level design was massively changed, doesn't offer a 2 player mode and level codes were added only for the GameBoy Color version.</desc>
+		<image>./boxart/Asterix &amp; Obelix (Europe) (En,Fr,De,Es).jpg</image>
+		<video>./snaps/Asterix &amp; Obelix (Europe) (En,Fr,De,Es).mp4</video>
+		<releasedate>19990603T000000</releasedate>
+		<developer>Bit Managers</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Platform</genre>
+		<playcount>4</playcount>
+		<lastplayed>20220217T222640</lastplayed>
+	</game>
+</gameList>

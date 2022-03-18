@@ -29,12 +29,16 @@ public class SourceLoad {
 
 	protected static void sourceLoad(String source) throws Exception {
 		GameMerge merge = new GameMerge();
-		File scrapeDir = Paths.get(ClassLoader.getSystemResource("source/" + source + "/roms").toURI()).toFile();
+		File scrapeDir = Paths.get(ClassLoader.getSystemResource("source/" + source).toURI()).toFile();
 		for (File systemFile : scrapeDir.listFiles()) {
 			if (systemFile.isDirectory()) {
-				new GameListLoad(source, systemFile.getName()).load(new File(systemFile, "gamelist.xml"), "game",
-						merge);
-				LOGGER.info(source + " " + systemFile.getName() + " enrich load completed!");
+				File systemGameListFile = new File(systemFile, "gamelist.xml");
+				if (systemGameListFile.exists()) {
+					new GameListLoad(source, systemFile.getName()).load(systemGameListFile, "game", merge);
+					LOGGER.info(source + " " + systemFile.getName() + " enrich load completed!");
+				} else {
+					LOGGER.warn(source + " " + systemFile.getName() + " no gamelist.xml found!");
+				}
 			}
 		}
 	}
@@ -57,8 +61,7 @@ public class SourceLoad {
 				this.systemId = Constant.GameSystem.ARCADE;
 				break;
 			default:
-				URL fileURL = ClassLoader
-						.getSystemResource("source/" + source + "/roms/" + systemId + "/emulators.cfg");
+				URL fileURL = ClassLoader.getSystemResource("source/" + source + "/" + systemId + "/emulators.cfg");
 				if (fileURL != null) {
 					Stream<String> lines = Files.lines(Paths.get(fileURL.toURI()));
 					lines.forEach(line -> {
@@ -68,7 +71,7 @@ public class SourceLoad {
 					});
 					lines.close();
 				}
-				fileURL = ClassLoader.getSystemResource("source/" + source + "/roms/emulators.cfg");
+				fileURL = ClassLoader.getSystemResource("source/" + source + "/all/emulators.cfg");
 				if (fileURL != null) {
 					Stream<String> lines = Files.lines(Paths.get(fileURL.toURI()));
 					lines.forEach(line -> {
@@ -87,6 +90,9 @@ public class SourceLoad {
 		@Override
 		protected List<Game> getMongoDocument(Element element, List<String> extraTagValues) throws Exception {
 			String path = XMLUtil.getTagAsString(element, "path", 0);
+			if (StringUtils.endsWith(path, ".sh")) {
+				return null;
+			}
 			String romFile = StringUtils.substring(path, 0, StringUtils.lastIndexOf(path, "."));
 			romFile = StringUtils.substring(romFile, StringUtils.lastIndexOf(romFile, "/") + 1, romFile.length());
 
@@ -104,7 +110,7 @@ public class SourceLoad {
 			Integer players = null;
 			if (!StringUtils.isBlank(originalPlayers)) {
 				String[] playerArray = XMLUtil.getTagAsString(element, "players", 0).split("-");
-				players = Integer.parseInt(playerArray[playerArray.length - 1]);
+				players = Integer.parseInt(GeneralUtil.numerify(playerArray[playerArray.length - 1]));
 			}
 
 			String developer = XMLUtil.getTagAsString(element, "developer", 0);
@@ -126,6 +132,10 @@ public class SourceLoad {
 
 			if (game.parentMissing == null) {
 				game.parentMissing = false;
+			}
+
+			if (game.favourite == null) {
+				game.favourite = false;
 			}
 
 			return Arrays.asList(game);

@@ -1,0 +1,916 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Neo-Geo CD</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja).chd</path>
+		<name>Aero Fighters 3</name>
+		<sortname />
+		<desc>Aero Fighters 3 is a vertically-scrolling shooter in the same vein as 1942 and similar games. It supports up to two players and has 10 different aircraft to choose from, each equipped with unique primary and secondary weapons. Power-ups upgrade the look, power, size and shape of the shots. Bombs activate a special power that usually wipes off the enemies on the screen. The game has a total of 8 stages placed on several countries (Japan, Germany, Libya, Egypt, Pacific, U.S.A., England, France, Panama, Thailand, Ukraine, Atlantic and Space), all of them with a boss battle.</desc>
+		<rating>0.75</rating>
+		<releasedate>19951208T000000</releasedate>
+		<developer>Video System</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja).chd</path>
+		<name>Fatal Fury: King of Fighters</name>
+		<sortname>Fatal Fury</sortname>
+		<desc>This is the first game in the Fatal Fury series. It marks the appearance of Terry Bogard, a character appreciated by players. Geese Howard, the leader of South Town, killed Jeff Bogard, Terry Bogard's father and Andy Bogard, they vowed to avenge their father.</desc>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (USA) (En,Ja,Es,Pt) (Rev 3).chd</path>
+		<name>Fatal Fury 3: Road to the Final Victory</name>
+		<sortname />
+		<desc>An adaptation of the Neo-Geo fighting game. 2-D scrolling one-on-one fighter with pseudo-3D aspects (that allows for players to "escape" holds, throws, and other attacks.) Part of the incestuously-popular SNK fighting game pantheon.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950428T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (USA) (En,Ja,Es,Pt) (Rev 3).jpg</image>
+		<video>./snaps/Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (USA) (En,Ja,Es,Pt) (Rev 3).mp4</video>
+	</game>
+	<game>
+		<path>./Garou Densetsu Special ~ Fatal Fury Special (Japan, USA) (En,Ja) (Rev 1).chd</path>
+		<name>Fatal Fury Special</name>
+		<sortname />
+		<desc>Fatal Fury Special is an improved version of SNK's 2D one-on-one fighter Fatal Fury 2. It's a conversion of the 1993 arcade game of the same name. The objective is still to win the tournament by defeating all other fighters including end boss Wolfgang Krauser. A new Count Down mode (defeat as many opponents as possible in 3 minutes). Extra color schemes for every character. New and improved background graphics. Dolby Surround Sound support. Fatal Fury Special still features the series' trademark pseudo-3D movement along two planes.</desc>
+		<rating>0.85</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Garou Densetsu Special ~ Fatal Fury Special (Japan, USA) (En,Ja) (Rev 1).jpg</image>
+		<video>./snaps/Garou Densetsu Special ~ Fatal Fury Special (Japan, USA) (En,Ja) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja).chd</path>
+		<name>Fighter's History Dynamite</name>
+		<sortname />
+		<desc>Fighter's History Dynamite is a 2-D Street Fighter II clone from Data East. Choose one of 13 fighters from around the world to play as, each with their unique moves and special attacks. As usual, there are two rounds in each stage, and the object of each round is to drain your opponent's energy in order to win the battle. If there is a tie after two rounds, a third round is played. There is a time limit, and if this expires, the player with the less energy loses.</desc>
+		<rating>0.8</rating>
+		<releasedate>19941222T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Flying Power Disc ~ Windjammers (Japan) (En,Ja).chd</path>
+		<name>Windjammers</name>
+		<sortname />
+		<desc>Windjammers is based on a real-life sport known as Saucer Tennis or Frisbee Tennis. You and an opponent face off in an arena with a low net in the middle. Points are scored by throwing a disc into the goals behind a player or whenever your opponent is not able to catch the disc in time. There are two moves: a regular throw and a lob. By using quarter-circle movement, you can also add effect to the throw. To catch difficult discs, you can slide to move more quickly.</desc>
+		<rating>0.6</rating>
+		<releasedate>19950120T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Flying Power Disc ~ Windjammers (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Flying Power Disc ~ Windjammers (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Ghost Pilots (Japan).chd</path>
+		<name>Ghost Pilots</name>
+		<sortname />
+		<desc>Ghost Pilots is an overhead military plane shooter, in which you must shoot down fighter jets by either using bullets or bombs. Once you have killed enough fighter jets, you will have to defeat a boss fighter jet in order to continue. After some stages, you must select a route to continue your journey on. Power-ups can be collected that will increase your firepower, and stars can be obtained for extra points.</desc>
+		<rating>0.55</rating>
+		<releasedate>19950317T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Ghost Pilots (Japan).jpg</image>
+		<video>./snaps/Ghost Pilots (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Ironclad.chd</path>
+		<name>Ironclad</name>
+		<sortname />
+		<desc>Ironclad is a side-scrolling shoot 'em up for the Neo Geo CD. Use your war ship to save the Kingdom of Chop from the Iron Mask Republic. You can use three main blast weapons, which are upgradable when you collect more items, a charged attack available when Iron Clad is attached to your ship, three melee weapons, a bomber that clears all enemy bullets, and varying shooting patterns. Stages are selectable, and there are multiple endings.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960920T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Ironclad.jpg</image>
+		<video>./snaps/Ironclad.mp4</video>
+	</game>
+	<game>
+		<path>./King of Fighters '94, The (Japan, USA) (En,Ja) (Rev 1).chd</path>
+		<name>King of Fighters '94, The</name>
+		<sortname />
+		<desc>This is the first game of the series that conquered legions of fighter fans from all over the world. The King of Fighters '94 joins together fighters from other SNK Corporation franchises: Art of Fighting (Ryo Sakazaki, Robert Garcia, Takuma Sakazaki, Yuri Sakazaki, King), Fatal Fury (Terry Bogard, Andy Bogard, Joe Higashi, Mai Shiranui, Kim Kaphwan) and Ikari Warriors (Ralf Jones, Clark Steel, Heidern), as well as totally new fighters such as Kyo Kusanagi, Benimaru Nikaido, and Goro Daimon (from the Japanese team).</desc>
+		<rating>0.7</rating>
+		<releasedate>19941102T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/King of Fighters '94, The (Japan, USA) (En,Ja) (Rev 1).jpg</image>
+		<video>./snaps/King of Fighters '94, The (Japan, USA) (En,Ja) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./King of Fighters '95, The (Japan) (En,Ja) (Rev 1).chd</path>
+		<name>King of Fighters '95, The</name>
+		<sortname />
+		<desc>The first sequel in the King of Fighters series picks up a year after the end of the first tournament. Once again, fighters from all over the world receive a mysterious invitation to a team-based fighting tournament. And just like last year, it appears that the notorious criminal Rugal Bernstein is behind it, apparently returning from the dead to raise havok once again.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950929T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/King of Fighters '95, The (Japan) (En,Ja) (Rev 1).jpg</image>
+		<video>./snaps/King of Fighters '95, The (Japan) (En,Ja) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./King of Fighters '96, The (Japan, USA) (En,Ja).chd</path>
+		<name>King of Fighters '96, The</name>
+		<sortname />
+		<desc>"Violent fighting to come again!" SNK's flagship series returns for another year. Many of the changes in this year's KOF release come in the form of improved graphics, sound effects, music and totally redone character sprites. The gameplay of the system has been altered with the addition of "Rush" multi-hit combos and new moves for practically every character. The storyline of the series receives heavy focus in this release with the Orochi Saga swinging into high-gear.</desc>
+		<rating>0.7</rating>
+		<releasedate>19961025T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/King of Fighters '96, The (Japan, USA) (En,Ja).jpg</image>
+		<video>./snaps/King of Fighters '96, The (Japan, USA) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./King of Fighters '97, The (Japan) (En,Ja).chd</path>
+		<name>King of Fighters '97, The</name>
+		<sortname />
+		<desc>Another year, another KOF. Additions this year come in the form of slightly improved graphics and sounds, new moves and a new game mode. Gameplay is much more plot-driven, as you have middle-bosses that can change depending on what team you select. In addition, there are several special endings which are only shown when certain "Edit Team" combinations are selected.</desc>
+		<rating>0.8</rating>
+		<releasedate>19971030T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/King of Fighters '97, The (Japan) (En,Ja).jpg</image>
+		<video>./snaps/King of Fighters '97, The (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja).chd</path>
+		<name>King of Fighters '98: The Slugfest, The</name>
+		<sortname />
+		<desc>The King of Fighters '98 takes a break from the Orochi plot line and instead is presented as a "Dream Match" game where the KOF roster duke it out for the top spot (similar to Ultimate Mortal Kombat 3, but without the storyline component). Most of the characters from the past four years return, thus providing the player with a very large roster containing 38 characters. Many of the characters have been altered in an attempt to make the game balanced regardless of the player's choice of fighter.</desc>
+		<rating>0.75</rating>
+		<releasedate>19981223T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja).jpg</image>
+		<video>./snaps/King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (Japan, USA) (En,Ja,Es,Pt).chd</path>
+		<name>King of Fighters '99: Millennium Battle, The</name>
+		<sortname />
+		<desc>It's time once again for the famous KOF Tournament! New faces and old alike join together to participate in the latest KOF tournament, but something seems wrong. Why was this year's tournament announced without fanfare? What could be up? That's for you to find out! Featuring classic KOF gameplay with a new twist: The Striker Match!</desc>
+		<rating>0.8</rating>
+		<releasedate>19991202T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (Japan, USA) (En,Ja,Es,Pt).jpg</image>
+		<video>./snaps/King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (Japan, USA) (En,Ja,Es,Pt).mp4</video>
+	</game>
+	<game>
+		<path>./Next Thing, The - King of the Monsters 2 (Japan, USA) (En,Ja).chd</path>
+		<name>King of the Monsters 2: The Next Thing</name>
+		<sortname />
+		<desc>The object of King of the Monsters 2 is similar to its predecessor. Choose from three monsters which include a large lizard, a large robotic ape, and a huge mutant human. Then walk through each city, making sure to destroy everything in site, including planes, buildings, and other creatures. When smashed, some buildings reveal power-ups that make your character more powerful. At the end of each city, you go head-to-head with the boss creature.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Next Thing, The - King of the Monsters 2 (Japan, USA) (En,Ja).jpg</image>
+		<video>./snaps/Next Thing, The - King of the Monsters 2 (Japan, USA) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Last Hope.chd</path>
+		<name>Last Hope</name>
+		<sortname />
+		<desc>Pilot your Z-42 Warpstar starfight as Earth's last line of defense against the advance of the Evil Empire. Last Hope - a self-described "tactical shooter" plays much like a tougher version of a classic game R-Type. The game, however, adds a minor innovation to the tried and true formula by allowing the player to rotate the protection pod 360° around the ship. The game features six distinct stages and four weapons.</desc>
+		<releasedate>20071120T000000</releasedate>
+		<developer>NG:Dev.Team</developer>
+		<publisher>NG:Dev.Team</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Last Hope.jpg</image>
+		<video>./snaps/Last Hope.mp4</video>
+	</game>
+	<game>
+		<path>./Last Resort (Japan) (En,Ja).chd</path>
+		<name>Last Resort</name>
+		<sortname />
+		<desc>Last Resort is a 1-2 player horizontal shooter game where you pilot a spacecraft across horizontally scrolling cityscapes and wastelands, while destroying hordes of enemy spacecraft, either metallic or organic, including huge mid- and end-level guardians. Getting power-up pods provide the craft with a movable drone which can be charged up and fired or locked into position and used as an extra gun or 'battering ram'/shield. A clone of R-Type (both one and two), but with much improved graphics and sound</desc>
+		<rating>0.8</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Last Resort (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Last Resort (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./League Bowling (Japan) (En,Ja).chd</path>
+		<name>League Bowling</name>
+		<sortname />
+		<desc>League Bowling offers up bowling for up to four players, with two players playing simultaneously on a vertically split screen. Players first choose their throwing arm and ball size. Position, spin, and throwing power can all be modified before throwing. In addition to regulation scoring two other score modes (Strike 90 (strikes add additional points) and Flash (random bonus points are awarded)) can be selected.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1-8</players>
+		<image>./boxart/League Bowling (Japan) (En,Ja).jpg</image>
+		<video>./snaps/League Bowling (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Magical Drop 2 (Japan) (En,Ja).chd</path>
+		<name>Magical Drop 2</name>
+		<sortname />
+		<desc>In Magical Drop II, you control a clown that can grab and throw balloons. You have to match three balloons of the same colour or more vertically to pop them and clear the screen. You can hold multiple balloons of the same colour at once and cause consecutive collisions. There are special balloons that cannot be removed that easily and power-ups that clear entire rows or provide additional help.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960524T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Magical Drop 2 (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Magical Drop 2 (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Magician Lord (Japan) (En,Ja).chd</path>
+		<name>Magician Lord</name>
+		<sortname />
+		<desc>Magician Lord puts you in charge of Elta, a wizard who has the task of collecting eight books of wisdom from the clutches of Az Atorse, the god of destruction. By collecting the right power-ups along the way, you can transform into different characters, including the Rajin, Samurai, Waterman, Shinobi, Poseidon, and Dragon Warrior. Each character has different abilities. There are eight areas in the game, and each stage ends with you trying to defeat both a guardian and the end-of-area boss (which are basically Atorse's incarnations). One of the first games that demonstrated the graphical abilities of the Neo-Geo.</desc>
+		<rating>0.75</rating>
+		<releasedate>19941031T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Magician Lord (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Magician Lord (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Metal Slug 2 (Japan, USA) (En,Ja).chd</path>
+		<name>Metal Slug 2: Super Vehicle</name>
+		<sortname>Metal Slug 2</sortname>
+		<desc>As Marco, Eri, Tarma, or Fio, you must defeat the evil General Morden and his henchman. To do this, you must defeat various enemies that get in your way. Throughout the game, you can collect new weapons including the Heavy Machine Gun, Shot Gun, Rocket Launcher, Flame Shot, Laser Shot, Flame Bottles, and Armor Piercer. Also scattered throughout the game, you can ride in four different vehicles (aka: Slugs) such as the Metal Slug, Slug Flyer, Camel Slug, and SlugNoid. By using these vehicles, you can cause awesome destruction against Morden's evil army.</desc>
+		<rating>0.9</rating>
+		<releasedate>19980625T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Metal Slug 2 (Japan, USA) (En,Ja).jpg</image>
+		<video>./snaps/Metal Slug 2 (Japan, USA) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Metal Slug (Japan) (En,Ja).chd</path>
+		<name>Metal Slug</name>
+		<sortname>Metal Slug 1</sortname>
+		<desc>Players control Marco and Tarma, both members of the special-ops force Team Peregrine Falcon (commonly known as Team PF), and battle their way through stage after stage of intense action. The goal is to try to overthrow General Morden and win back the stolen weapon, the Metal Slug. Players must blast through waves of enemies and machines (while also jumping over any obstacles in the way) to advance through the stages. It's not as hopeless as it might sound, though - weapons such as heavy machine guns, shotguns, rocket launchers and flamethrowers, as well as the Metal Slug itself (which appears frequently in the game), will make the battle easier.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960705T000000</releasedate>
+		<developer>Nazca</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Metal Slug (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Metal Slug (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Mutation Nation (Japan) (En,Ja).chd</path>
+		<name>Mutation Nation</name>
+		<sortname />
+		<desc>The Slum an area of town completely forgotten. No one could imagine the cruelness suffered by innocent people who were transformed into horrible mutant creatures by genetic experiments. They hovered everywhere and completely took control of the town. Mutation Nation is a 1-2 player action game where you must control your hero and beat up any mutant that gets in your way, by either using your fists or one of four special attacks. A boss at the end of each area needs to be defeated if you want to proceed further through the game.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950225T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Mutation Nation (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Mutation Nation (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Nam-1975 (Japan) (En,Ja).chd</path>
+		<name>Nam-1975</name>
+		<sortname />
+		<desc>As a soldier, you and/or a friend must travel through Vietnam to stop the scientist and his world destroying laser machine. In the game, you must shoot enemy soldiers, tanks, helicopters, jeeps, and more by aiming the machine gun cursor and shooting at them. Within each location, you can pick up more powerful weapons such as machine guns and flame throwers, but these have a limited supply of ammunition. Pressing down on the joystick while running at the same time will cause your character to perform a somersault and be invincible for a second.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Nam-1975 (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Nam-1975 (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja).chd</path>
+		<name>Neo Turf Masters</name>
+		<sortname />
+		<desc>Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn "super-clubs" that can only be used once. These can also be traded between friends.</desc>
+		<rating>1</rating>
+		<releasedate>19960530T000000</releasedate>
+		<developer>Nazca</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Ninja Commando (Japan) (En,Ja).chd</path>
+		<name>Ninja Commando</name>
+		<sortname />
+		<desc>The Mars Corporation has caused a problem in the time continuum, and it's up to the Ninja Commandos to go after Spider, leader of the MC, and stop his evil work. As one of three Ninja Commandos, you must fight your opponents through different time periods, such as The Primitive Age, The Egyptian Era, and the Japanese Civil War Era. Each of the Ninja Commandos have their own specific style of attack and a special "ninja trick" super power. Boxes and other storage units can be broken to reveal power-ups that upgrade your weapons.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950317T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Ninja Commando (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Ninja Commando (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja).chd</path>
+		<name>Ninja Master's</name>
+		<sortname />
+		<desc>Another one-on-one fighting game straight from the arcades for the Neo Geo. Ninja Master's (sic.) is set on feudal Japan, and tells the story of 10 unique ninjas who fight each other for their own personal reasons and the chance to defeat the evil Nobunaga and bring peace back to Japan.</desc>
+		<rating>0.75</rating>
+		<releasedate>19960927T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Puzzle Bobble ~ Bust-a-Move (Japan) (En,Ja).chd</path>
+		<name>Puzzle Bobble</name>
+		<sortname />
+		<desc>The classic game Bubble Bobble is the ancestor of Puzzle Bobble. Your aim in each stage is to break all the bubbles, by breaking 3 or more of the same color. The game contains a two-player mode where each player tries to break all bubbles first.</desc>
+		<rating>0.85</rating>
+		<releasedate>19950502T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Puzzle Bobble ~ Bust-a-Move (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Puzzle Bobble ~ Bust-a-Move (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Rally Chase (Japan) (En,Ja).chd</path>
+		<name>Rally Chase</name>
+		<sortname />
+		<desc>Thrash Rally is a fast-paced racing game, similar to Neo Drift Out and Overtop, but using a top-down view. You can either participate in a World Championship or do a complete Paris Dakar rally.</desc>
+		<rating>0.6</rating>
+		<releasedate>19941031T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>Alpha</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Rally Chase (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Rally Chase (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja).chd</path>
+		<name>Fatal Fury 2</name>
+		<sortname />
+		<desc>SNK's Fatal Fury fighting series reaches its 7th episode bringing a lot of "innovations" and some significant changes, starting from characters: all the 20 fighters from previous game return with new artworks and battle stages completely redrawn, as well as some remodeled (or new) moves.</desc>
+		<rating>0.65</rating>
+		<releasedate>19980723T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Real Bout Garou Densetsu ~ Real Bout Fatal Fury (Japan, USA) (En,Ja,Es,Pt).chd</path>
+		<name>Real Bout Fatal Fury</name>
+		<sortname />
+		<desc>The fourth title of fighting Fatal Fury series. Now, you can destroy fight scene objects and the "Fatal Fury 2" fighters are back forming this list: Terry Bogard, Andy Bogard, Joe Higashi, Franco Bash, Mai Shiranui, Bob Wilson, Geese Howard, Billy Kane, Hon-Fu, Ryuji Yamazaki, Sokaku Mochizuki, Blue Mary, Kim Kaphwan, Jin Chonrei, Jin Chonshu and Duck King.</desc>
+		<rating>0.7</rating>
+		<releasedate>19960126T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Real Bout Garou Densetsu ~ Real Bout Fatal Fury (Japan, USA) (En,Ja,Es,Pt).jpg</image>
+		<video>./snaps/Real Bout Garou Densetsu ~ Real Bout Fatal Fury (Japan, USA) (En,Ja,Es,Pt).mp4</video>
+	</game>
+	<game>
+		<path>./Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (Japan, USA) (En,Ja,Es,Pt).chd</path>
+		<name>Real Bout Fatal Fury Special</name>
+		<sortname />
+		<desc>It was the sequel of Real Bout Fatal Fury, with which sixth delivery of the series was arrived at his, in this we had 20 characters (Terry Bogard, Andy Bogard, Joe Higashi, Mai Shiranui, Tung Fu Rue, Cheng Chinzan, Laurence Blood, Wolfgang Krauser, Duck King, Kim Kaphwan, Blue Mary, Hon-Fu, Bob Wilson, Mochizuki Sokaku, Franco Bash, Ryuji Yamazaki, Jin Chonshu, Jin Chonrei, Billy Kane and Geese Howard) and their aspects are 100% remodeled.</desc>
+		<rating>1</rating>
+		<releasedate>19970330T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (Japan, USA) (En,Ja,Es,Pt).jpg</image>
+		<video>./snaps/Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (Japan, USA) (En,Ja,Es,Pt).mp4</video>
+	</game>
+	<game>
+		<path>./Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (Japan, USA) (En,Ja,Es,Pt).chd</path>
+		<name>Samurai Shodown IV: Amakusa's Revenge</name>
+		<sortname />
+		<desc>Bringing a new breath to SNK's swordsman fighting series, this 4th installment marks the return of 3 classic characters (Yagyu Jubei, Charlotte and Tam Tam, now with updated stuff), introduces 2 newcomers for the pantheon (the brothers Sogetsu Kazama and Kazuki Kazama) and brings some new backgrounds.</desc>
+		<rating>0.8</rating>
+		<releasedate>19961227T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (Japan, USA) (En,Ja,Es,Pt).jpg</image>
+		<video>./snaps/Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (Japan, USA) (En,Ja,Es,Pt).mp4</video>
+	</game>
+	<game>
+		<path>./Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (Japan, USA) (En,Ja,Es,Pt).chd</path>
+		<name>Samurai Shodown III: Blades of Blood</name>
+		<sortname />
+		<desc>The 12 samurai (and ninja) elite are back, this time to answer the threat of the demon Zankuro, Minazuki. The possessed swordsman has brutally slaughtered innocents in his path, yet could not raise his blade to the cries of an innocent baby. Vowing never to spill innocent blood again, he targets those who live by the way of the sword.but now the hunter becomes the hunted. The third series of Samurai Shodown introduces 2 different techniques for each character.</desc>
+		<rating>0.75</rating>
+		<releasedate>19951229T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (Japan, USA) (En,Ja,Es,Pt).jpg</image>
+		<video>./snaps/Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (Japan, USA) (En,Ja,Es,Pt).mp4</video>
+	</game>
+	<game>
+		<path>./Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja).chd</path>
+		<name>Samurai Shodown</name>
+		<sortname />
+		<desc>In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness. Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Sengoku Denshou 2 ~ Sengoku 2 (Japan) (En,Ja).chd</path>
+		<name>Sengoku 2</name>
+		<sortname />
+		<desc>A sequel to Sengoku, Sengoku 2 once again casts you as two street fighting heroes caught in the midst of a supernatural attack by the undead forces of the evil Nobunaga from the Japanese sengoku period, although this time the game warps you through several time periods and locations to fight evil, from feudal Japan to WWII Europe.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950317T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Sengoku Denshou 2 ~ Sengoku 2 (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Sengoku Denshou 2 ~ Sengoku 2 (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (Japan, USA) (En,Ja).chd</path>
+		<name>Samurai Shodown II</name>
+		<sortname />
+		<desc>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half. do whatever it takes. live by the sword, and die by its blade.</desc>
+		<rating>0.7</rating>
+		<releasedate>19941215T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (Japan, USA) (En,Ja).jpg</image>
+		<video>./snaps/Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (Japan, USA) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA).chd</path>
+		<name>Street Slam</name>
+		<sortname />
+		<desc>Street Hoop is a 3-on-3 street basketball game. One or two players can choose among 10 teams: France, Spain, U.S.A., Italy, Germany, Taiwan, United Kingdom, China, Japan and South Korea (in the European and Japanese versions. The U.S.A. version features local cities). The teams are rated in 1 to 9 points on four attributes (dunk, 3 point, speed and defense). Each game lasts two halves of 2 minutes each. The game ends if the player loses the first half, needing to spend a continue to play the second half.</desc>
+		<rating>0.4</rating>
+		<releasedate>19950120T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA).jpg</image>
+		<video>./snaps/Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es).chd</path>
+		<name>Super Sidekicks 2: The World Championship</name>
+		<sortname />
+		<desc>This is a soccer game on Neo-Geo. When you start the game, you go into a "Regional Qualifying Round Final" against another team from your region. After beating it, your team goes into the World (Cup) Tournament, in which you are grouped with three other countries in a round-robin. After winning against all of them, you go into an elimination tournament: the quarterfinals, semifinals, and the final for the World Cup. This type of tournament thus is more reminiscent of the real-life World Cup.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es).jpg</image>
+		<video>./snaps/Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Super Sidekicks - Tokuten-ou (Japan) (En,Ja).chd</path>
+		<name>Super Sidekicks</name>
+		<sortname />
+		<desc>Experience the roar of the crowd and the thrills of the stadium. SNK's live-action soccer game is here! Along with your Ace Striker and his array of sliding, overhead, and diving shots, lead your team to victory and seize the prized SNK Cup. Watch players perform miraculous overhead and diving shots, dazzle your opponent with gravity-defying dribbling. Avoid sliding defense players and bone-crushing blocks. Be overwhelmed with in-your-face action so real, you'll be washing the grass stains off your clothing when you're finished!</desc>
+		<rating>0.8</rating>
+		<releasedate>19950331T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Sidekicks - Tokuten-ou (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Super Sidekicks - Tokuten-ou (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (Japan, USA) (En,Ja,Fr,Es,It,Pt).chd</path>
+		<name>Super Sidekicks 3: The Next Glory</name>
+		<sortname />
+		<desc>Loaded with world class excitement! Features 6 competition modes like World Cup for 64 worldwide teams. Utilizes Digitized Trace Animation and 3D camera angled shots for a realistic on-the-fly action graphic explosion. With 8 different playing modes including options such as Speed and Stamina, you can mix and match 512 different team configurations. Accidents hinder or enhance a team's ability within head-to-head gameplay for the ultimate super-real soccer experience!</desc>
+		<rating>0.8</rating>
+		<releasedate>19950623T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (Japan, USA) (En,Ja,Fr,Es,It,Pt).jpg</image>
+		<video>./snaps/Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (Japan, USA) (En,Ja,Fr,Es,It,Pt).mp4</video>
+	</game>
+	<game>
+		<path>./Top Hunter - Roddy &amp; Cathy (Japan) (En,Ja).chd</path>
+		<name>Top Hunter: Roddy and Cathy</name>
+		<sortname />
+		<desc>As either Roddy or Cathy, make your way through four locations that include Forest, Ice, Wind, and Fire, and destroy the two bosses in these locations. Both Roddy and Cathy have retractable arms which can be used to grab enemies or other gameplay elements. They can then be thrown at others to destroy them. Both players and enemies can interact with the scenery.</desc>
+		<rating>0.95</rating>
+		<releasedate>19940929T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Top Hunter - Roddy &amp; Cathy (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Top Hunter - Roddy &amp; Cathy (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Top Player's Golf (Japan) (En,Ja).chd</path>
+		<name>Top Player's Golf</name>
+		<sortname />
+		<desc>Choose your course, mode of play, and choose from one of four golfers. You play through 18 holes of golf and try to have the lowest score under par.</desc>
+		<rating>0.4</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Top Player's Golf (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Top Player's Golf (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Viewpoint (Japan).chd</path>
+		<name>Viewpoint</name>
+		<sortname />
+		<desc>Viewpoint is a top-down orthographic perspective game in the tradition of Zaxxon. The PlayStation and Saturn versions feature 3D rendered graphics with texture maps, unlike the other versions which primarily feature shaded polygons.</desc>
+		<rating>1</rating>
+		<releasedate>19950225T000000</releasedate>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Viewpoint (Japan).jpg</image>
+		<video>./snaps/Viewpoint (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./World Heroes 2 Jet (Japan) (En,Ja).chd</path>
+		<name>World Heroes 2: Jet</name>
+		<sortname />
+		<desc>World Heroes 2: Jet is the third game in the World Heroes series. A third tournament featuring warriors from all over the world (and different periods in time) has begun, and it's up to you to fight to the finish to find out who is organizing it. The game is an upgrade / fine-tuning of World Heroes 2.</desc>
+		<rating>0.6</rating>
+		<releasedate>19941111T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/World Heroes 2 Jet (Japan) (En,Ja).jpg</image>
+		<video>./snaps/World Heroes 2 Jet (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./World Heroes 2 (Japan) (En,Ja).chd</path>
+		<name>World Heroes 2</name>
+		<sortname />
+		<desc>The time traveling tournament fighters are back! The original eight characters from the popular arcade hit return, along with six new characters hand-picked from several different eras and locations all through time. But a new boss awaits the victor. who or what is behind this new tournament? You'll have to get to him to find out!</desc>
+		<rating>0.75</rating>
+		<releasedate>19950414T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>ADK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/World Heroes 2 (Japan) (En,Ja).jpg</image>
+		<video>./snaps/World Heroes 2 (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./World Heroes Perfect (Japan, USA) (En,Ja).chd</path>
+		<name>World Heroes Perfect</name>
+		<sortname />
+		<desc>In the final entry in the World Heroes saga, all sixteen fighters from previous games return for another tournament.</desc>
+		<rating>0.6</rating>
+		<releasedate>19950721T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/World Heroes Perfect (Japan, USA) (En,Ja).jpg</image>
+		<video>./snaps/World Heroes Perfect (Japan, USA) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Sengoku.chd</path>
+		<name>Sengoku</name>
+		<sortname />
+		<desc>A 2D side-scrolling beat 'em up, Sengoku casts you and a friend as two renegade fighters out to beat the crap out of the many assorted gangs that threaten the post-apocalyptic cities of the future. Unfortunately for them they also get caught in a time-warping scheme caused by the evil Nobunaga who attempts to invade the time period with mythical warriors and evil creatures from the Japanese sengoku period.</desc>
+		<rating>0.4</rating>
+		<releasedate>19950317T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Sengoku.jpg</image>
+		<video>./snaps/Sengoku.mp4</video>
+	</game>
+	<game>
+		<path>./Twinkle Star Sprites.chd</path>
+		<name>Twinkle Star Sprites</name>
+		<sortname />
+		<desc>A unique combination of vertically-scrolling shooters and competitive puzzle games, Twinkle Star Sprites tells the story of the apprentice witch Ran, who searches for the fabled Twinkle Star that is said to grant any wish to the one that finds it. Unfortunately she is not the only one seeking the star, and thus must fight her way and defeat all the other characters that seek the star in shooter duels.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970221T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Twinkle Star Sprites.jpg</image>
+		<video>./snaps/Twinkle Star Sprites.mp4</video>
+	</game>
+	<game>
+		<path>./Raguy ~ Blue's Journey (Japan) (En,Ja).chd</path>
+		<name>Blue's Journey</name>
+		<sortname />
+		<desc>In Blue's Journey on Neo Geo, you play a character that looks like an insect living on a planet plant. Your little world is shaken when a big bad guy just install its technology in your small ecosystem. Evolve as one or two players on a scrolling screen in this platform game, where each level must be completed within a time limit. Walk across four regions to meet and defeat the final boss.</desc>
+		<rating>0.3</rating>
+		<releasedate>19941031T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Raguy ~ Blue's Journey (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Raguy ~ Blue's Journey (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Breakers (Japan) (En,Ja).chd</path>
+		<name>Breakers</name>
+		<sortname />
+		<desc>In Breakers, choose one of eight fighters who have their own moves and special attacks. There are eight stages in the game, and each stage has two battles. The object of each battle is to drain your opponent's energy in order to win the battle. If there is a draw, a third battle takes place. If the time limit expires, the player with the less energy loses the battle. Once you have completed all eight stages, you will face a opponent that is much tougher than previous ones. Different endings and in-game dialog are viewed depending on the character that you select.</desc>
+		<rating>0.75</rating>
+		<releasedate>19970425T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>Visco</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Breakers (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Breakers (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Crossed Swords II (Japan) (En,Ja).chd</path>
+		<name>Crossed Swords II</name>
+		<sortname />
+		<desc>Crossed Swords II features the same gameplay from its predecessor (Crossed Swords on Neo Geo MVS and AES). The player is given a first-person view with a third-person silhouette/wire-frame view of the character similar to the Punch-Out!! arcade game. New to this sequel is the addition of a new button for jumping and dashing, giving the player more maneuverability and allowing him to dodge incoming attacks. By pressing the attack button after dashing the player will make a horizontal slash which stuns enemies briefly, and by pressing the attack button after jumping the player will make a powerful downward slash.</desc>
+		<rating>0.6</rating>
+		<releasedate>19950502T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>ADK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Crossed Swords II (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Crossed Swords II (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Cyber-Lip (Japan) (En,Ja).chd</path>
+		<name>Cyber-Lip</name>
+		<sortname />
+		<desc>Cyber-Lip is a 1-2 player side-scrolling game where you must fight your way through several areas, and defeat a boss at the end of each one. Along the way, you can pick up a variety of weapons along the way, and use them against the invaders. By destroying certain enemies, you receive a "core bot", which is a ring that surrounds you, and when this touches the invaders, they are destroyed. Time is against you. When it expires, you lose a life. Between most levels, you enter an elevator that allows you to go in whatever direction that you please: up or down. If you wait to long to make a selection, you are automatically placed in the "Danger" mission.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950421T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Cyber-Lip (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Cyber-Lip (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja).chd</path>
+		<name>Far East of Eden: Kabuki Klash</name>
+		<sortname />
+		<desc>"Kabuki Klash" is a 2D fighting game that features characters from the famous Japanese role-playing series Tengai Makyou, also known as Far East of Eden. The heroes of the three first Tengai Makyou games must participate in a tournament and find out who is the most skillful fighter in the magical land of Jipang (which is very similar to the medieval Japan).</desc>
+		<rating>0.55</rating>
+		<releasedate>19951124T000000</releasedate>
+		<developer>Red Company Corporation</developer>
+		<publisher>Hudson</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Ryuuko no Ken ~ Art of Fighting (Japan, USA) (En,Ja,Es).chd</path>
+		<name>Art of Fighting</name>
+		<sortname />
+		<desc>Yuri Sakazaki has been kidnapped! Her big brother Ryo Sakazaki and Robert Garcia, his best friend, go search for her on the streets of South Town. As they go deeper and deeper they will find clues as to who ordered the kidnapping, the Sakazaki family's relation to the mob, and a person from their past.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Ryuuko no Ken ~ Art of Fighting (Japan, USA) (En,Ja,Es).jpg</image>
+		<video>./snaps/Ryuuko no Ken ~ Art of Fighting (Japan, USA) (En,Ja,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Ryuuko no Ken 2 ~ Art of Fighting 2 (Japan) (En,Ja,Es).chd</path>
+		<name>Art of Fighting 2</name>
+		<sortname />
+		<desc>In this sequel to the original Art of Fighting, and prequel to the original Fatal Fury, we learn that Mr. Karate, the final boss of the original game, behind the mask, is really Takuma Sakazaki, Ryo and Yuri's father, that Takuma was being used by Geese Howard for his own evil intentions, and that Mr. Big was the one who had originally kidnapped Yuri.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Ryuuko no Ken 2 ~ Art of Fighting 2 (Japan) (En,Ja,Es).jpg</image>
+		<video>./snaps/Ryuuko no Ken 2 ~ Art of Fighting 2 (Japan) (En,Ja,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (Japan, USA) (En,Ja,Es,Pt).chd</path>
+		<name>Art of Fighting 3: The Path of the Warrior </name>
+		<sortname />
+		<desc>In this third and final entry in the Art of Fighting series, the story shifts from Ryo Sakazaki to his best friend and rival, Robert Garcia, as he ventures into Mexico to try and locate Freia Lawrence, a childhood friend, who asked for his help. However, he leaves without the consent of The Garcia Foundation, which sends an agent named Karman Cole to get him back. But not everything is as simple as it looks. because Robert is not the only one looking for Freia.</desc>
+		<rating>0.55</rating>
+		<releasedate>19960914T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (Japan, USA) (En,Ja,Es,Pt).jpg</image>
+		<video>./snaps/Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (Japan, USA) (En,Ja,Es,Pt).mp4</video>
+	</game>
+	<game>
+		<path>./ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja).chd</path>
+		<name>Alpha Mission II</name>
+		<sortname />
+		<desc>The lunar nightmare of a bloody 200-year space war was thought to be over in the "original" ALPHA MISSION. But now with the advent of more technically sophisticated weapons, the evil "Fulvar" and his "Seven Star Alliance" have returned to destroy all planets that stand in their way of the ultimate target. Earth! Now in the year of 2525! Your mission as pilot of the new SYD-FX fighter is to use every weapon at your disposal to rid the galaxy once and for all of the evil that now dominates and threatens Earth.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja).jpg</image>
+		<video>./snaps/ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt).chd</path>
+		<name>Last Blade, The</name>
+		<sortname>Last Blade 1</sortname>
+		<desc>Choose one of several characters to play with, each with their own unique moves and special attacks. Each stage in the game has two battles, where the object of each is to drain your opponent's energy in order to complete the battle, and you will complete the stage if you do this twice. If there is a draw, then a third battle is then played. There is a time limit, and when this expires, the player with the most energy wins the battle.</desc>
+		<rating>0.6</rating>
+		<releasedate>19980326T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt).jpg</image>
+		<video>./snaps/Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt).mp4</video>
+	</game>
+	<game>
+		<path>./Pulstar (Japan).chd</path>
+		<name>Pulstar</name>
+		<sortname />
+		<desc>Pulstar is a 2D side-scrolling shooter in which you control your ship as it makes its way past stages filled with waves after waves of enemies bent on your destruction. You can upgrade your main weapons by collecting power-ups and charging up energy allows you to release charged attacks at the cost of power-up consumption. Additionally your ship comes with an ever-prescent "option" gun pod that floats around your ship and which can be positioned in several configurations to help protect the ship or increase its firepower.</desc>
+		<rating>0.75</rating>
+		<releasedate>19951027T000000</releasedate>
+		<developer>Aicom</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Pulstar (Japan).jpg</image>
+		<video>./snaps/Pulstar (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./World Heroes (Japan) (En,Ja).chd</path>
+		<name>World Heroes</name>
+		<sortname />
+		<desc>An alien entity known as Geegus threatens the Earth in the year 3091. As all of Earth's forces have been defeated, a scientist uses his recently-built time machine to find the greatest fighters of different eras to compete against Geegus. Featuring a cast of characters ranging from ninjas to a cybernetic supersoldier, you'll fight your way through standard-fare one-on-one matches or take on an opponent in a Deathmatch, where spiked walls and landmines add to the danger.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950317T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>ADK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/World Heroes (Japan) (En,Ja).jpg</image>
+		<video>./snaps/World Heroes (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja).chd</path>
+		<name>Pleasure Goal: 5 on 5 Mini Soccer</name>
+		<sortname />
+		<desc>Released in 1996, Pleasure Goal (Japanese title: Futsal) is Saurus' first and only football (Soccer) game for the Neo Geo. It features 16 teams which compete for the "Saurus Cup". Your team plays against all the others in your group, then it goes into an elimination tournament's semifinals and then the final to win the cup. It's worth mentioning that Pleasure Goal's rules barely base on Futsal, which is basically a 5-on-5 player indoor soccer style.</desc>
+		<rating>0.6</rating>
+		<releasedate>19960719T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt).chd</path>
+		<name>Last Blade 2, The</name>
+		<sortname>Last Blade 2</sortname>
+		<desc>Choose one of several characters to play with, each with their own unique moves and special attacks. Each stage in the game has two battles, where the object of each is to drain your opponent's energy in order to complete the battle, and you will complete the stage if you do this twice. If there is a draw, then a third battle is then played. There is a time limit, and when this expires, the player with the most energy wins the battle.</desc>
+		<rating>0.6</rating>
+		<releasedate>19980326T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt).jpg</image>
+		<video>./snaps/Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt).mp4</video>
+	</game>
+	<game>
+		<path>./RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja).chd</path>
+		<name>Real Bout Fatal Fury 2: The Newcomers</name>
+		<sortname />
+		<desc>SNK's Fatal Fury fighting series reaches its 7th episode bringing a lot of "innovations" and some significant changes, starting from characters: all the 20 fighters from previous game return with new artworks and battle stages completely redrawn, as well as some remodeled (or new) moves.</desc>
+		<rating>0.65</rating>
+		<releasedate>19980723T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja).jpg</image>
+		<video>./snaps/RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja).chd</path>
+		<name>Aero Fighters 2</name>
+		<sortname />
+		<desc>Sonic Wings 2 is a vertically-scrolling shooter in the same vein as 1942 and similar games. It supports up to two players and has 8 different aircraft to choose from, each equipped with unique primary and secondary weapons. Power-ups upgrade the look, power, size and shape of the shots. Bombs activate a special power that usually wipes off the enemies on the screen. The game has a total of 10 stages (Japan, Brazil, Atlantic, U.S.A., France, Australia, Himalayas, Mexico, Hawaii and Space), all of them with a boss battle.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940929T000000</releasedate>
+		<developer>Video System</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja).jpg</image>
+		<video>./snaps/Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja).mp4</video>
+	</game>
+</gameList>

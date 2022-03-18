@@ -37,6 +37,7 @@ public class Game extends MongoDocument {
 	// custom
 	public Set<String> collections;
 	public Boolean hide;
+	public Boolean favourite;
 
 	public Game() {
 

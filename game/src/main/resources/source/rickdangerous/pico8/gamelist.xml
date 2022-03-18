@@ -1,0 +1,881 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Pico-8</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Mistigri.p8.png</path>
+		<name>Mistigri</name>
+		<sortname />
+		<desc>This is a bubble-bobblish platformer game for 1 or 2 players. Mist and Grim must travel through the 22 levels and defeat the overlord.</desc>
+		<releasedate>20160529T000000</releasedate>
+		<developer>benjamin_soule</developer>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Mistigri.p8.jpg</image>
+		<video>./snaps/Mistigri.p8.mp4</video>
+	</game>
+	<game>
+		<path>./PAT Shooter.p8.png</path>
+		<name>PAT Shooter</name>
+		<sortname />
+		<desc>PAT Shooter is your typical top down scrolling blaster game with enemy waves appearing from both above and below. It is also a very difficult game requiring fast reaction times as when the bullets starting flying in all directions, you've got to avoid them or be wiped out and your only life is lost.</desc>
+		<releasedate>20150603T000000</releasedate>
+		<developer>benjamin_soule</developer>
+		<publisher>benjamin_soule</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/PAT Shooter.p8.jpg</image>
+		<video>./snaps/PAT Shooter.p8.mp4</video>
+	</game>
+	<game>
+		<path>./PicoRacer-2048.p8.png</path>
+		<name>PICORACER-2048</name>
+		<sortname />
+		<desc>Retro Futuristic Anti-Gravity Racing Game!</desc>
+		<releasedate>20151106T000000</releasedate>
+		<developer>impbox</developer>
+		<publisher>impbox</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/PicoRacer-2048.p8.jpg</image>
+		<video>./snaps/PicoRacer-2048.p8.mp4</video>
+	</game>
+	<game>
+		<path>./omega_enforcer_x_1.1.png</path>
+		<name>Omega Enforcer X</name>
+		<sortname />
+		<desc>Fight through endless waves of aliens (+ asteroids), and become first on the leaderboard!</desc>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/omega_enforcer_x_1.1.jpg</image>
+		<video>./snaps/omega_enforcer_x_1.1.mp4</video>
+	</game>
+	<game>
+		<path>./48046.p8.png</path>
+		<name>PewSpacePew</name>
+		<sortname />
+		<desc>PewSpacePew is a fast-paced and chaotic shmup for the PICO8 fantasy console!</desc>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/48046.p8.jpg</image>
+		<video>./snaps/48046.p8.mp4</video>
+	</game>
+	<game>
+		<path>./pinballvania.png</path>
+		<name>Pinballvania!</name>
+		<sortname />
+		<desc>Collect all the green pickups to open the exit (double yellow circle) of each stage. Finish all 20 stages fast, brag your best times online on your favorite social network!</desc>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/pinballvania.jpg</image>
+		<video>./snaps/pinballvania.mp4</video>
+	</game>
+	<game>
+		<path>./vortex_invader_1.01.png</path>
+		<name>Vortex Invader</name>
+		<sortname />
+		<desc>Your mission: - rocket into the spiraling vortex, - face and destroy the cosmic horrors living inside it, - restore peace to the galaxy once and for all.</desc>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/vortex_invader_1.01.jpg</image>
+		<video>./snaps/vortex_invader_1.01.mp4</video>
+	</game>
+	<game>
+		<path>./tetyis.png</path>
+		<name>TETYIS</name>
+		<sortname />
+		<desc>A TETRIS Clone for PICO-8. The main goal here was to make it compliant to the 2009 Tetris guideline (a big document the Tetris company uses that says exactly how a Tetris game should be made) though I disregarded that going back to it, so it's halfway or so there. Also, SRS isn't implemented properly, it's good enough but it's not perfect, and the title is a typo I thought was funny so I rolled with it.</desc>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/tetyis.jpg</image>
+		<video>./snaps/tetyis.mp4</video>
+	</game>
+	<game>
+		<path>./x-zero.png</path>
+		<name>X-Zero</name>
+		<sortname />
+		<desc>TURRICAN-like platformer. Fight your way through an infested base and collect weapon power-ups. Hack every terminal in the facility to gain access to the Hive Mind's chamber.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/x-zero.jpg</image>
+		<video>./snaps/x-zero.mp4</video>
+	</game>
+	<game>
+		<path>./pakutto_boy-1.00.png</path>
+		<name>Pakutto Boy</name>
+		<sortname />
+		<desc>Pretty fantastic PAC-MAN variant! Very nice effects, art and animation!</desc>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/pakutto_boy-1.00.jpg</image>
+		<video>./snaps/pakutto_boy-1.00.mp4</video>
+	</game>
+	<game>
+		<path>./lowknight-1.p8.png</path>
+		<name>Low Knight</name>
+		<sortname />
+		<desc>This game is a demake of, and an homage to Hollow Knight, a game by Team Cherry. Made for the 2018 Demake Jam. Explore an insect underworld, find the six charms and beat all the bosses.</desc>
+		<releasedate>20201128T000000</releasedate>
+		<developer>krajzeg</developer>
+		<publisher>krajzeg</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/lowknight-1.p8.jpg</image>
+		<video>./snaps/lowknight-1.p8.mp4</video>
+	</game>
+	<game>
+		<path>./picodino-1.p8.png</path>
+		<name>Pico Dino</name>
+		<sortname />
+		<desc>A reimagination of Google Chrome's offline game in Pico-8! Features an expanded moveset and reimagined graphics!</desc>
+		<releasedate>20201215T000000</releasedate>
+		<developer>Yolwoocle</developer>
+		<publisher>Yolwoocle</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/picodino-1.p8.jpg</image>
+		<video>./snaps/picodino-1.p8.mp4</video>
+	</game>
+	<game>
+		<path>./18991.p8.png</path>
+		<name>Pico Pico Hippo</name>
+		<sortname />
+		<desc>Relive the joy of the 80's with some key mashing and marble gobbling. Feed those peckish pachyderms as fast as you can to win.</desc>
+		<releasedate>20160227T000000</releasedate>
+		<developer>electricgryphon</developer>
+		<publisher>electricgryphon</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/18991.p8.jpg</image>
+		<video>./snaps/18991.p8.mp4</video>
+	</game>
+	<game>
+		<path>./40736.p8.png</path>
+		<name>PicoBreed</name>
+		<sortname />
+		<desc>I am a soldier in the interstellar marine corps. My ship, the IMC Durham was overrun by something we picked up on IX538. Some wicked fast alien creatures with big teeth and ferocious appetites. These things came bursting out of the the decks where they had been hiding below. They moved quick and bit hard, everybody was butchered, we had to scuttle the ship.</desc>
+		<releasedate>20170518T000000</releasedate>
+		<developer>gabrielcrowe</developer>
+		<publisher>gabrielcrowe</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/40736.p8.jpg</image>
+		<video>./snaps/40736.p8.mp4</video>
+	</game>
+	<game>
+		<path>./brutal_pico_race_1.0.4.png</path>
+		<name>Brutal Pico Race</name>
+		<sortname />
+		<desc>Brutal Pico Race is a fast and raw futurist racing game on Pico8. Choose one ship from three options, choose a track and try to finish first ! You can also challenge a friend, alone or with AI, in split-screen mode! Brutal Pico Race features: - Single player or two players in splitscreen - 3 class of ships -heavy -normal -light with different speed curve - 6 tracks - 3 AI levels.</desc>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/brutal_pico_race_1.0.4.jpg</image>
+		<video>./snaps/brutal_pico_race_1.0.4.mp4</video>
+	</game>
+	<game>
+		<path>./Celeste (v1.0).p8.png</path>
+		<name>Celeste Classic</name>
+		<sortname />
+		<desc>A hardcore platformer by Matt Thorson and Noel Berry, made in 4 days. We used pretty much all our resources for this. 8186/8192 code, the entire spritemap, the entire map, and 63/64 sounds. The original game that inspired the more fleshed out version of Celeste. You can find this game hidden inside the bigger one.</desc>
+		<releasedate>20151008T000000</releasedate>
+		<developer>Noel</developer>
+		<publisher>Noel Berry</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Celeste (v1.0).p8.jpg</image>
+		<video>./snaps/Celeste (v1.0).p8.mp4</video>
+	</game>
+	<game>
+		<path>./Celeste Classic 2.p8.png</path>
+		<name>Celeste Classic 2</name>
+		<sortname />
+		<desc>A PICO-8 platformer about hiking around a mountain, made in three days to celebrate Celeste's third anniversary.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Celeste Classic 2.p8.jpg</image>
+		<video>./snaps/Celeste Classic 2.p8.mp4</video>
+	</game>
+	<game>
+		<path>./Combo Pool.p8.png</path>
+		<name>Combo Pool</name>
+		<sortname />
+		<desc>Here is Combo Pool, my entry to p8jam2. It's a game where you throw colored marbles against each other. If two marbles of the same color make contact, they merge and upgrade to the next color. Your lifebar will diminish with the number of balls on the field. If you lifebar is empty, you enter in a sudden death mode, and your last ball must save you by removing some balls.</desc>
+		<releasedate>20160814T000000</releasedate>
+		<developer>NuSan</developer>
+		<publisher>NuSan</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Combo Pool.p8.jpg</image>
+		<video>./snaps/Combo Pool.p8.mp4</video>
+	</game>
+	<game>
+		<path>./Dank Tomb (v1.1b).p8.png</path>
+		<name>Dank Tomb</name>
+		<sortname />
+		<desc>Dank Tomb is a kind of Rick Dangerous meets tomb raider puzzle adventure, and while the large level map and keen room design are already high bars for P8 dev, it's the lighting that really steals the show.</desc>
+		<releasedate>20170801T000000</releasedate>
+		<developer>krajzeg</developer>
+		<publisher>krajzeg</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Dank Tomb (v1.1b).p8.jpg</image>
+		<video>./snaps/Dank Tomb (v1.1b).p8.mp4</video>
+	</game>
+	<game>
+		<path>./danmaku-uchusen.p8.png</path>
+		<name>Eternal Danmaku Uchūsen Challenge</name>
+		<sortname />
+		<desc>A game of infinite procedurally generated bullet hell boss fights!</desc>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/danmaku-uchusen.p8.jpg</image>
+		<video>./snaps/danmaku-uchusen.p8.mp4</video>
+	</game>
+	<game>
+		<path>./galactic_wars_0.1.png</path>
+		<name>Galactic Wars</name>
+		<sortname />
+		<desc>Galactic wars is a "10 minutes" hard and frenetic arcade space shooter with different enemies and weapons and a Final Boss battle.</desc>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/galactic_wars_0.1.jpg</image>
+		<video>./snaps/galactic_wars_0.1.mp4</video>
+	</game>
+	<game>
+		<path>./46484.p8.png</path>
+		<name>Gaplus Galaga Edition</name>
+		<sortname />
+		<desc>Kinda GALAGA on "dope". Modification of GA TASU. It changes many of the original GA TASU sprites to resemble Galaga instead of Gaplus. Developer made this because he had always loved the graphics of Galaga for their recognizable, colorful designs, and the gameplay of Gaplus for it's complexity, so why not combine them?</desc>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/46484.p8.jpg</image>
+		<video>./snaps/46484.p8.mp4</video>
+	</game>
+	<game>
+		<path>./the_green_legion_1.03.png</path>
+		<name>Green Legion, The</name>
+		<sortname />
+		<desc>Blast off and strike the evil green legion of mutating ships from outer-space!</desc>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/the_green_legion_1.03.jpg</image>
+		<video>./snaps/the_green_legion_1.03.mp4</video>
+	</game>
+	<game>
+		<path>./Hug Arena.p8.png</path>
+		<name>Hug Arena</name>
+		<sortname />
+		<desc>Hug those monsters until they become your friends, you're vulnerable when you hug stuff but your Friends will heal you if you are close enough. A level full of friends is a completed level.</desc>
+		<releasedate>20150420T000000</releasedate>
+		<developer>benjamin_soule</developer>
+		<publisher>benjamin_soule</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Hug Arena.p8.jpg</image>
+		<video>./snaps/Hug Arena.p8.mp4</video>
+	</game>
+	<game>
+		<path>./invader_overload_1.7.2.png</path>
+		<name>Invader Overload</name>
+		<sortname />
+		<desc>Collect 3 of the same the color power-ups to gain a powerful new weapon. Shoot the UFO and collect the yellow power-ups to kick off fever mode! Collect enough fever mode coins to enter a boss battle This game is endless. Survive as long as you can while chasing a high score.</desc>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/invader_overload_1.7.2.jpg</image>
+		<video>./snaps/invader_overload_1.7.2.mp4</video>
+	</game>
+	<game>
+		<path>./Just One Boss.p8.png</path>
+		<name>Just One Boss</name>
+		<sortname />
+		<desc>A boss fight against a charming opponent.</desc>
+		<releasedate>20180212T000000</releasedate>
+		<developer>bridgs</developer>
+		<publisher>bridgs</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Just One Boss.p8.jpg</image>
+		<video>./snaps/Just One Boss.p8.mp4</video>
+	</game>
+	<game>
+		<path>./The Lair.p8.png</path>
+		<name>Lair, The</name>
+		<sortname />
+		<desc>A Dark Lord has terrorized the northern coast for generations. What was once a thriving land full of bustling ports and cities has now gone to ruin, and the people of the Moonlit Empire are frankly fed up with all that. You drew the shortest straw at the Order of Night's Vigil, so taking care of the situation is now your task. Punch through to the evil overlord's inner sanctum in Shearwater Keep and defeat him!</desc>
+		<releasedate>20201128T000000</releasedate>
+		<developer>krajzeg</developer>
+		<publisher>krajzeg</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/The Lair.p8.jpg</image>
+		<video>./snaps/The Lair.p8.mp4</video>
+	</game>
+	<game>
+		<path>./pico_arcade.png</path>
+		<name>Pico Arcade</name>
+		<sortname />
+		<desc>Pico Arcade is a game launcher that launches 36 arcade-style games from great cartmakers!</desc>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/pico_arcade.jpg</image>
+		<video>./snaps/pico_arcade.mp4</video>
+	</game>
+	<game>
+		<path>./picofrogger09-0.p8.png</path>
+		<name>Pico Frogger</name>
+		<sortname />
+		<desc>It's Frogger. 8 modes, "easy" allows screen wrap on water, "crazy" is, well, crazy fast! Q will quit back to the titles at any point.</desc>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/picofrogger09-0.p8.jpg</image>
+		<video>./snaps/picofrogger09-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./22937.p8.png</path>
+		<name>Pico-Man</name>
+		<sortname />
+		<desc>It's Pac-Man, you should know what to do! Clear out mazes of dots and avoid the pursuing monsters for the most part.</desc>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/22937.p8.jpg</image>
+		<video>./snaps/22937.p8.mp4</video>
+	</game>
+	<game>
+		<path>./supercontrahot-0.p8.png</path>
+		<name>Super Contra Hot</name>
+		<sortname />
+		<desc>Time slows down drastically when not moving, use that strategically against the enemy.</desc>
+		<releasedate>20191104T000000</releasedate>
+		<developer>picoter8</developer>
+		<publisher>picoter8</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/supercontrahot-0.p8.jpg</image>
+		<video>./snaps/supercontrahot-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./lunokhod10-1.p8.png</path>
+		<name>Lunokhod</name>
+		<sortname />
+		<desc>This is a port of an Atari 2600 game. Destroy falling debris for points, Radioactive debris increases radiation level. The game ends when you run out of Lunokhod rovers or when the radiation meter is pegged.</desc>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/lunokhod10-1.p8.jpg</image>
+		<video>./snaps/lunokhod10-1.p8.mp4</video>
+	</game>
+	<game>
+		<path>./deep-0.p8.png</path>
+		<name>The Merciless Deep</name>
+		<sortname />
+		<desc>Reach the deepest deapths possible and then safley come back up to your boat.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/deep-0.p8.jpg</image>
+		<video>./snaps/deep-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./agility-0.p8.png</path>
+		<name>Agility</name>
+		<sortname />
+		<desc>Guide your trusty hound through a series of dog agility championships.</desc>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/agility-0.p8.jpg</image>
+		<video>./snaps/agility-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./Alpine Alpaca.png</path>
+		<name>Alpine Alpaca</name>
+		<sortname />
+		<desc>Hit the slopes and score as many gates as you can. Use your cards to steer and build your deck as you go! Originaly created for the Pico-8 Advent Calendar 2018.</desc>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Alpine Alpaca.jpg</image>
+		<video>./snaps/Alpine Alpaca.mp4</video>
+	</game>
+	<game>
+		<path>./delunky102-0.p8.png</path>
+		<name>Delunky</name>
+		<sortname />
+		<desc>A 'demake' of Spelunky. Enter the caves and try to find as much gold as you can before you perish to the dangers of the depths. Use your trusty whip in combination with bombs, ropes, and whatever you scavenge to get as far as you can.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/delunky102-0.p8.jpg</image>
+		<video>./snaps/delunky102-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./flipknight-0.p8.png</path>
+		<name>Flipknight</name>
+		<sortname />
+		<desc>Bouncing Off the Walls In My Flat presents: Flip Knight a shiny new platformer made by Steed as a christmas present for Pico-8 fans during lockdown 2020.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/flipknight-0.p8.jpg</image>
+		<video>./snaps/flipknight-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./fuzzy_dream-0.p8.png</path>
+		<name>Fuzzy Dream</name>
+		<sortname />
+		<desc>Control Mc Snuffin and shoot invaders trying to take control over your tower. Build your tower higher by killing enemies. Shoot arrows by pressing up or down depending on the direction. A tiny game originaly made for the Mini Jam 80: Cats.</desc>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/fuzzy_dream-0.p8.jpg</image>
+		<video>./snaps/fuzzy_dream-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./grippy-6.p8.png</path>
+		<name>GRiPPY</name>
+		<sortname />
+		<desc>GRiPPY is a hardcore, subversive platformer where you cant walk or jump but you can climb. You play as Grippy, a creature with very, very strong arms, but no legs. You must travel by hurling yourself across the world and latching onto anything you can GRIP, climbing through a mysterious underground complex and overcoming hostile terrain. Find a way out to win!</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/grippy-6.p8.jpg</image>
+		<video>./snaps/grippy-6.p8.mp4</video>
+	</game>
+	<game>
+		<path>./kagezamurai-9.p8.png</path>
+		<name>Kagezamurai</name>
+		<sortname />
+		<desc>Save Hime (a princess) from the attack of Ninja assassins... alot of Ninja assassins!</desc>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/kagezamurai-9.p8.jpg</image>
+		<video>./snaps/kagezamurai-9.p8.mp4</video>
+	</game>
+	<game>
+		<path>./kona_ninja-1.p8.png</path>
+		<name>Kona Ninja</name>
+		<sortname />
+		<desc>Kona Ninja is a retro platformer where you can shred the terrain with a sharp blade. As people rumored, this ninja only attacked the corners. Although this sounds weird, trust me, it will be quite fun to play! This game is designed and developed by DRING.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/kona_ninja-1.p8.jpg</image>
+		<video>./snaps/kona_ninja-1.p8.mp4</video>
+	</game>
+	<game>
+		<path>./lowmemsky-1.p8.png</path>
+		<name>Low Mem Sky</name>
+		<sortname />
+		<desc>You awake to find yourself on an alien planet, with the desire to achieve one thing... reach the centre of the galaxy! Made in PICO-8 for #DemakeJam 2018, where the original build came 3rd Place.</desc>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/lowmemsky-1.p8.jpg</image>
+		<video>./snaps/lowmemsky-1.p8.mp4</video>
+	</game>
+	<game>
+		<path>./motu-6.p8.png</path>
+		<name>Masters of the Universe</name>
+		<sortname />
+		<desc>The battle for Eternia is in your hands! Side with He-Man and his allies or Skeletor and his minions in this new take on the classic Barbarian sword fighting game. Battle 8 levels against increasingly difficult foes or play against a friend. You have the power! This Pico-8 cart is bursting with the Power of Grayskull!</desc>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<image>./boxart/motu-6.p8.jpg</image>
+		<video>./snaps/motu-6.p8.mp4</video>
+	</game>
+	<game>
+		<path>./mot_grandprix-4.p8.png</path>
+		<name>Mot's Grand Prix</name>
+		<sortname />
+		<desc>Step back in time to an era when folk were real folk and racecar steering wheels were real steering wheels. Mot's Grand Prix is a pseudo 3D Formula 1 racer inspired by Grand Prix Circuit, Continental Circus and a bunch of other 80s/90s racers I've forgotten.</desc>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/mot_grandprix-4.p8.jpg</image>
+		<video>./snaps/mot_grandprix-4.p8.mp4</video>
+	</game>
+	<game>
+		<path>./nightride-0.p8.png</path>
+		<name>Night Ride</name>
+		<sortname />
+		<desc>Drive at high speed through traffic at night and survive the dangers you'll encounter. Will you make it through the night?</desc>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/nightride-0.p8.jpg</image>
+		<video>./snaps/nightride-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./ninjacat-10.p8.png</path>
+		<name>Ninja Cat</name>
+		<sortname />
+		<desc>A platformer about a ninja cat with a grappling hook, where you die in one hit. You have nine lives. Make them count.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/ninjacat-10.p8.jpg</image>
+		<video>./snaps/ninjacat-10.p8.mp4</video>
+	</game>
+	<game>
+		<path>./pepsiman-1.p8.png</path>
+		<name>Bepis Man</name>
+		<sortname />
+		<desc>Help Bepis Man (or should that be Pepsi Man) reach the vending machine!</desc>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/pepsiman-1.p8.jpg</image>
+		<video>./snaps/pepsiman-1.p8.mp4</video>
+	</game>
+	<game>
+		<path>./rtype-0.p8.png</path>
+		<name>R-Type</name>
+		<sortname />
+		<desc>After months of hard work, here is the release version of Irem’s R-Type* pico-8 port, featuring the first 3 stages in a 32kb cart, which I think is pretty good considering the PC-Engine port featured 4 stages in a 256kb hu-card.</desc>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/rtype-0.p8.jpg</image>
+		<video>./snaps/rtype-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./Rain Maker.png</path>
+		<name>Rain Maker</name>
+		<sortname />
+		<desc>Help the Rainmaker to complete 3 of her 4 duties: Collect 3x stars. Collect 3x lightnings. Collect 20x flowers. Achieve 2x duties within 99 seconds. You don't have to achieve them all, so dont worry if the time reaches 0 you can still collect flowers, stars and lightnings.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Rain Maker.jpg</image>
+		<video>./snaps/Rain Maker.mp4</video>
+	</game>
+	<game>
+		<path>./saturn91devilskitchen_1-0.p8.png</path>
+		<name>Devils Kitchen</name>
+		<sortname />
+		<desc>You are one of the devils many servant and have to feed him in time. And your workshedule is litarly hell! Can you make it through your shift? This game is a combination of cooking and Platforming. You can beat the 20 Levels one after an other or in a pretty challenging Speedrun mode. You start with 3 Health, if you get damaged you can refill your health by eating some of the food, but the Master does not like this!</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/saturn91devilskitchen_1-0.p8.jpg</image>
+		<video>./snaps/saturn91devilskitchen_1-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./sedoboyada-0.p8.png</path>
+		<name>Bushfire</name>
+		<sortname />
+		<desc>Fight the Australian Bushfires, Save the Animals! This short little game is dedicated to the volunteers and firefighters who help rescue and shelter wildlife affected by the Australian bushfires. As students we decided to start an initiative called #Games4Australia where we created a charity game in one week or less in order to raise awareness for the ongoing crisis. We ourselves are half a world away, but believe we can still have an impact. Support the people fighting to rescue and shelter the wildlife go visit https://www.wires.org.au/</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/sedoboyada-0.p8.jpg</image>
+		<video>./snaps/sedoboyada-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./snail-9.p8.png</path>
+		<name>Snail</name>
+		<sortname />
+		<desc>You play as Snail-Chan, and are tasked with defending the Dream castle! You can run, jump, thwack enemies, and use stars you collect for special powers! Inspired by the musician Snail's House.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/snail-9.p8.jpg</image>
+		<video>./snaps/snail-9.p8.mp4</video>
+	</game>
+	<game>
+		<path>./stomp-6.p8.png</path>
+		<name>Stomp</name>
+		<sortname />
+		<desc>A turn-based-platformer-roguelike. The objective is to get a high score in 300 turns (10,000 is good). Use your stomp to set rocks rolling, spikes falling, and bombs exploding.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/stomp-6.p8.jpg</image>
+		<video>./snaps/stomp-6.p8.mp4</video>
+	</game>
+	<game>
+		<path>./Sweet Buns.png</path>
+		<name>Sweet Buns</name>
+		<sortname />
+		<desc>Mai-Chan's Sweet Buns is a cute puzzle game about pastries. Our goal is to help Mai-Chan serve her sweet buns to customers at her bakery.</desc>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Sweet Buns.jpg</image>
+		<video>./snaps/Sweet Buns.mp4</video>
+	</game>
+	<game>
+		<path>./Swordfish.png</path>
+		<name>Swordfish</name>
+		<sortname />
+		<desc>An aquatic action game. Swim sword first into the deep to destroy the evil at the heart of the ocean. Featuring: Fast, dynamic old school gameplay inspired by Ecco the Dolphin. Multiple enemy types each with their own attack patterns and weaknesses. 25 levels of aquatic action and plucky swordfish with a charge attack and nothing to lose!</desc>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Swordfish.jpg</image>
+		<video>./snaps/Swordfish.mp4</video>
+	</game>
+	<game>
+		<path>./Tomb of G'nir.png</path>
+		<name>Tomb of G'nir</name>
+		<sortname />
+		<desc>A Celeste style platformer in a much more aggressive environment.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Tomb of G'nir.jpg</image>
+		<video>./snaps/Tomb of G'nir.mp4</video>
+	</game>
+	<game>
+		<path>./ufo-0.p8.png</path>
+		<name>UFO Swamp Odyssey</name>
+		<sortname />
+		<desc>A short atmospheric platformer with metroidvania elements. Your UFO has been knocked out of the sky by scavengers and you're now trapped in their swampy junk yard. With the help of some friendly aliens, find a way to disable the electromagnetic pulse cannon that's keeping you from escaping.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/ufo-0.p8.jpg</image>
+		<video>./snaps/ufo-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./zedwolf-1.p8.png</path>
+		<name>Zed Wolf</name>
+		<sortname />
+		<desc>A not-entirely-canon 'demake' of the game 'Zeewolf' by Binary Asylum. Pilot your Zedwolf chopper across 6.5 km^2 of 3d open world environment, rescue hostages and repel the enemy force's attack!</desc>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/zedwolf-1.p8.jpg</image>
+		<video>./snaps/zedwolf-1.p8.mp4</video>
+	</game>
+	<game>
+		<path>./23940.p8.png</path>
+		<name>R.I.P Curl</name>
+		<sortname />
+		<desc>"Charlie dont surf" Dodge sharks and bombs falling fom the sky while catching your first tube of the morning... Sir!</desc>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/23940.p8.jpg</image>
+		<video>./snaps/23940.p8.mp4</video>
+	</game>
+	<game>
+		<path>./43668.p8.png</path>
+		<name>Slime Bubble Bro</name>
+		<sortname />
+		<desc>You are the Slime Bubble Bro and your mission is to save Slimette from the evil clutches of the Skeleton Gang and their minions!</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/43668.p8.jpg</image>
+		<video>./snaps/43668.p8.mp4</video>
+	</game>
+	<game>
+		<path>./astropocalypse-0.p8.png</path>
+		<name>Astropocalypse</name>
+		<sortname />
+		<desc>In Astropocalypse you take control of a hotshot meteor bent on destroying the galaxy. Use your directional pad to steer your meteor buddy and ram it into nearby planets in the current solar system. DESTROY IT ALL!</desc>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/astropocalypse-0.p8.jpg</image>
+		<video>./snaps/astropocalypse-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./bubblebobble-1.p8.png</path>
+		<name>Bubble Bobble</name>
+		<sortname />
+		<desc>90 levels of 1 or 2 player 80s-style arcade Bubble Bobble fun.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/bubblebobble-1.p8.jpg</image>
+		<video>./snaps/bubblebobble-1.p8.mp4</video>
+	</game>
+	<game>
+		<path>./dubayubeno-3.p8.png</path>
+		<name>Hungry Harry 3D</name>
+		<sortname />
+		<desc>Hungry Harry is back! Help Harry as he travels around the world putting a stop to the mushroom gang!</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/dubayubeno-3.p8.jpg</image>
+		<video>./snaps/dubayubeno-3.p8.mp4</video>
+	</game>
+	<game>
+		<path>./fijepuzide-38.p8.png</path>
+		<name>Contra</name>
+		<sortname />
+		<desc>A "One Level Concept" Demake of Contra for PICO-8!</desc>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/fijepuzide-38.p8.jpg</image>
+		<video>./snaps/fijepuzide-38.p8.mp4</video>
+	</game>
+	<game>
+		<path>./fuz_v1-1.p8.png</path>
+		<name>Fuz</name>
+		<sortname />
+		<desc>This is a tiny adventure based directly on FEZ, a game by the Polytron Corporation. It is a fan work, and was not made in collaboration with or endorsed by them.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/fuz_v1-1.p8.jpg</image>
+		<video>./snaps/fuz_v1-1.p8.mp4</video>
+	</game>
+	<game>
+		<path>./ingeste-1.p8.png</path>
+		<name>Ingeste</name>
+		<sortname />
+		<desc>Play Celeste Classic as Kirby! A mod of the Pico-8 version of Celeste Classic that replaces Madeline with everybody’s favorite hungry pink blob! Instead of dashing and wall-jumping, you’ll run, flap, float, and inhale your way up the mountain.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/ingeste-1.p8.jpg</image>
+		<video>./snaps/ingeste-1.p8.mp4</video>
+	</game>
+	<game>
+		<path>./polarpanic-0.p8.png</path>
+		<name>Polar Panic</name>
+		<sortname />
+		<desc>Stay alive in the arctic while climate change destroys your habitat! Eat fish to keep your hunger down or you will starve! Stay away from trash and don't fall into the water. A reminder to do what you can to have as little negative impact on the environment as you can.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/polarpanic-0.p8.jpg</image>
+		<video>./snaps/polarpanic-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./upward-0.p8.png</path>
+		<name>Upward</name>
+		<sortname />
+		<desc>The only thing you can do is jump - is that enough to climb a mountain?</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/upward-0.p8.jpg</image>
+		<video>./snaps/upward-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./void_protocol_v1-0.p8.png</path>
+		<name>Void Protocol</name>
+		<sortname />
+		<desc>Fight your way through up to nine levels, firing and collecting your projectile. Can you find all three endings? Defeat the enemies, seal the breach, repeat!</desc>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/void_protocol_v1-0.p8.jpg</image>
+		<video>./snaps/void_protocol_v1-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./27177.p8.png</path>
+		<name>They Started It</name>
+		<sortname />
+		<desc>We lived in peace for thousands of years, until they came. Aggressive beyond reason and sporting a dubious dress sense, they attacked in droves; we pushed them back, but they kept coming. Eventually they were down to their last ship. Still it comes at us, attempting to exterminate us for unknown reasons. Seemingly unable to take a hint. You are that ship. Leave your morals at the door and destroy those poor aliens for no logical reason.</desc>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/27177.p8.jpg</image>
+		<video>./snaps/27177.p8.mp4</video>
+	</game>
+	<game>
+		<path>./zepton.png</path>
+		<name>ZEPTON</name>
+		<sortname />
+		<desc>You have to survive as long as possible against an always increasing number of enemies.</desc>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/zepton.jpg</image>
+		<video>./snaps/zepton.mp4</video>
+	</game>
+	<game>
+		<path>./freds72_snow-3.p8.png</path>
+		<name>Snow!</name>
+		<sortname />
+		<desc>Winter is coming (as every year actually...), time for some skiing! Enjoy going down the slope, trying to beat your previous track record or freeriding skills! Grab coins for some extra time bonus - watch out for off track hazards! Your polar jacket can sustain a couple of direct hits, best avoid the trees anyway!</desc>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/freds72_snow-3.p8.jpg</image>
+		<video>./snaps/freds72_snow-3.p8.mp4</video>
+	</game>
+	<game>
+		<path>./picotennis2-0.p8.png</path>
+		<name>Pico Tennis</name>
+		<sortname />
+		<desc>What's there to say, 3D tennis. Play against AI or with up to 4 players. Z to hit the ball. To hit the ball in different directions you need to hit it when it's off to your side. So the further to your right the ball is when you hit it the more it will go left. X to do a power shot. Whenever you return the ball during a rally you will build up power. You can do a power shot anytime you have power in your meter, but the more it builds up the faster your shot will be.</desc>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/picotennis2-0.p8.jpg</image>
+		<video>./snaps/picotennis2-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./25149.p8.png</path>
+		<name>Alone in Pico</name>
+		<sortname />
+		<desc>A suspicious suicide. A chilling curse. A malevolent power. And a wicked dark secret. This is Derceto... Choose between Emily Hartwood and Edward Carnby to explore this virtual adventure game inspired by the work of H.P.Lovecraft.</desc>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/25149.p8.jpg</image>
+		<video>./snaps/25149.p8.mp4</video>
+	</game>
+	<game>
+		<path>./Dusk Child.p8.png</path>
+		<name>Dusk Child</name>
+		<sortname />
+		<desc>You have been drawn to a mysterious place, what secrets does it hold, and what will they mean for you?</desc>
+		<releasedate>20170415T000000</releasedate>
+		<developer>SophieHoulden</developer>
+		<publisher>SophieHoulden</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Dusk Child.p8.jpg</image>
+		<video>./snaps/Dusk Child.p8.mp4</video>
+	</game>
+	<game>
+		<path>./picohot-0.p8.png</path>
+		<name>Pico Hot</name>
+		<sortname />
+		<desc>Hello, I’m Piotr and I work for SUPERHOT. I present to you PICOHOT a homage to the original SUPERHOT game. This whole idea got born out of a marketing concept in which we planned to fit a game on a floppy disc. Someone came with a brilliant idea to use PICO-8 for that. We loved both the retro feel and ease of use that came with this tool. Technological constraints made it an intriguing design challenge.</desc>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/picohot-0.p8.jpg</image>
+		<video>./snaps/picohot-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./pavilion_picolake_1-0.p8.png</path>
+		<name>Pico Lake</name>
+		<sortname />
+		<desc>Pico Lake is a small Walk &amp; Click adventure game in a single PICO-8 cart.</desc>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/pavilion_picolake_1-0.p8.jpg</image>
+		<video>./snaps/pavilion_picolake_1-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./picozelda-2.p8.png</path>
+		<name>Pico Zelda</name>
+		<sortname />
+		<desc>A Pico Sized Adventure: Join Link as he fights through 3 dangerous dungeons, solves dastardly puzzles and fights deadly bosses all packed into a bite sized PNG. Bring peace to the world!</desc>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/picozelda-2.p8.jpg</image>
+		<video>./snaps/picozelda-2.p8.mp4</video>
+	</game>
+	<game>
+		<path>./startrek1978-1.p8.png</path>
+		<name>Star Trek</name>
+		<sortname />
+		<desc>An adaptation for PICO-8 of the 1978 game "Super Star Trek". The original game was written by Bob Leedom and David Ahl and published in the book BASIC COMPUTER GAMES - Microcomputer Edition. It was an early example of a space turn-based strategy game, and it was entirely text-based. The original game was based on a CLI and text parser. This version is entirely based on a graphic user interface and can be controlled with the PICO-8 buttons, so it's a big change.</desc>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/startrek1978-1.p8.jpg</image>
+		<video>./snaps/startrek1978-1.p8.mp4</video>
+	</game>
+	<game>
+		<path>./the_lost_night-5.p8.png</path>
+		<name>The Lost Night</name>
+		<sortname />
+		<desc>You wake up in the middle of a spooky town trying to find your way back home. Help the citizens of this weird town and they will open paths for you. BUT BEWARE! The streets are swarming with spirits and if you let them, they will take you away. Shoot them down with your mysterious powers and win candy in return. Spend your candy on vending machines across the town, and grow in power. Make sure to find them all as the night progresses, the spirits become spookier.</desc>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/the_lost_night-5.p8.jpg</image>
+		<video>./snaps/the_lost_night-5.p8.mp4</video>
+	</game>
+	<game>
+		<path>./Pico Fox.png</path>
+		<name>Pico Fox</name>
+		<sortname />
+		<desc>Fly your Arwing to victory in this 'demake' of a certain, iconic SNES game.</desc>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Pico Fox.jpg</image>
+		<video>./snaps/Pico Fox.mp4</video>
+	</game>
+	<game>
+		<path>./+Start PICO8.sh</path>
+		<name>PICO-8 Emulator</name>
+		<sortname>+ABC</sortname>
+		<desc>PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. It feels like a regular console, but runs on Windows / Mac / Linux. When you turn it on, the machine greets you with a commandline, a suite of cartridge creation tools and an online cartridge browser called SPLORE.</desc>
+		<image>./boxart/pico-8.jpg</image>
+		<video>./snaps/pico-8.mp4</video>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<genre>Emulator</genre>
+	</game>
+</gameList>

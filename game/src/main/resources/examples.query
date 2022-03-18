@@ -2,7 +2,6 @@
 { $or: [ { "romId":"simpsons" }, { "cloneOfRomId":"simpsons" }] }
 
 //arcade games with no mame info
-{ $and: [ { "sourceFile":null }, { "systemId": { $ne: "openbor" } }, { "systemId": { $ne: "neogeocd" } }] }
 { $and: [ { "sourceFile":null }, { $or:[{ "systemId": { $eq: "arcade" } },{ "systemId": { $eq: "naomi" } },{ "systemId": { $eq: "atomiswave" } },{ "systemId": { $eq: "neogeo" } },{ "systemId": { $eq: "daphne" } }]}] }
 
 //arcade games that are clones, but with no parents

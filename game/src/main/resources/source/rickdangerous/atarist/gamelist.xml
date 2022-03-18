@@ -1,0 +1,1816 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Atari ST</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Dungeon Master.stx</path>
+		<name>Dungeon Master</name>
+		<sortname />
+		<desc>Select your 4 adventurers and descend into the depths of the dungeon. Dungeon Master was a significant enhancement to the 3D dungeon crawl type of role-playing adventure game started by Wizardry and The Bard's Tale. The addition of a mouse-based (real-time) combat and inventory system in Dungeon Master has been repeated by the Eye of the Beholder Trilogy, Lands of Lore series, and other late-classic-era RPG games.</desc>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>FTL Games</developer>
+		<publisher>FTL Games</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Dungeon Master.jpg</image>
+		<video>./snaps/Dungeon Master.mp4</video>
+	</game>
+	<game>
+		<path>./ik_plus.STX</path>
+		<name>Ik+</name>
+		<sortname />
+		<desc>Three karateka fight against each other on a beach, trying to be the first to score six points. After every two rounds, there is a bonus game which is either deflecting bouncing balls or kicking away bombs.</desc>
+		<rating>0.75</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>System 3 Software</developer>
+		<publisher>System 3 Software</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/ik_plus.jpg</image>
+		<video>./snaps/ik_plus.mp4</video>
+	</game>
+	<game>
+		<path>./Lethal Xcess - Wings of Death.m3u</path>
+		<name>Lethal Xcess: Wings of Death II</name>
+		<sortname />
+		<desc>Lethal Xcess: Wings of Death II is a vertically scrolling shoot'em'up with a fantasy setting. You start out as a small insect, flying through a deranged castle filled with hostile animals and monsters. The upgrade system is rich, and differs somewhat from genre conventions. As you upgrade, your insect turns into a more powerful bat or a mighty dragon. Shooting enemies reveals the various upgrades, and picking up several upgrades of the same kind upgrades that particular weapon level after level.</desc>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Eclipse</developer>
+		<publisher>Thalion</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Lethal Xcess - Wings of Death.jpg</image>
+		<video>./snaps/Lethal Xcess - Wings of Death.mp4</video>
+	</game>
+	<game>
+		<path>./No_Second_Prize.STX</path>
+		<name>No Second Prize</name>
+		<sortname />
+		<desc>There is indeed no second prize in this race between 6 of the world’s toughest riders. First prize is the one remaining model of the greatest motorbike the world has ever seen, incidentally. This was one of the first games to feature video-style replays, allowing you to find the exact moment you want to replay, from any part of the race, and view it at normal speed, double-speed, or freeze-frame. The camera angles on offer here include one that follows the bike, one that views the track from the side, and a TV-style chase view.</desc>
+		<rating>0.55</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Thalion Software</developer>
+		<publisher>Thalion Software</publisher>
+		<genre>Racing</genre>
+		<image>./boxart/No_Second_Prize.jpg</image>
+		<video>./snaps/No_Second_Prize.mp4</video>
+	</game>
+	<game>
+		<path>./Oids.STX</path>
+		<name>Oids</name>
+		<sortname />
+		<desc>Oids may be described as a cross between the classic arcade games Gravitar and Choplifter including a game editor for creating your own planetoids and galaxies. You control a V-Wing fighter on many different planetoids to rescue and free a race of android slaves, the "Oids" of the game's title. The spacecraft controls are similar to a lunar-lander. Turn and thrust because gravity is always pulling at your ship. If your ship crashes into a mountain or any other obstruction on the ground, it will explode.</desc>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>FTL Games</developer>
+		<publisher>FTL Games</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Oids.jpg</image>
+		<video>./snaps/Oids.mp4</video>
+	</game>
+	<game>
+		<path>./Rick Dangerous.stx</path>
+		<name>Rick Dangerous</name>
+		<sortname />
+		<desc>You play Rick Dangerous, an Indiana Jones type who's on a quest to find the lost Coolu Amazon tribe. However, his plane crashes in the middle of a bunch of crazed Coolus. Hopefully he's up to the challenge of escaping. If he is, he will find himself in the pyramid of Egypt with no easy way past leaders and their minions, and then engulfed in a web of traps in a Nazi base.</desc>
+		<rating>0.75</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Firebird</developer>
+		<publisher>Core Design</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/Rick Dangerous.jpg</image>
+		<video>./snaps/Rick Dangerous.mp4</video>
+	</game>
+	<game>
+		<path>./Time Bandit (1985)(MichTron)[!].stx</path>
+		<name>Time Bandit</name>
+		<sortname />
+		<desc>Time Bandit is a Gauntlet-style arcade game with text adventure elements. Having nothing to do with the Terry Gilliam movie Time Bandits, this game utilises the time-travel theme for a fast-paced variation on the good old Gauntlet concept. Your bandit visits 16 different worlds throughout time to grab as much loot as possible and, in the long run, do some universe-saving stuff as well.</desc>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>MichTron</developer>
+		<publisher>MichTron</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Time Bandit (1985)(MichTron)[!].jpg</image>
+		<video>./snaps/Time Bandit (1985)(MichTron)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Turrican II.STX</path>
+		<name>Turrican II: The Final Fight</name>
+		<sortname />
+		<desc>Turrican II: The Final Fight is an action game on Atari ST. In the year 2035, you must fight to restore peace and overthrow a supercomputer that has taken over. Your character explores vast levels full of enemies and bonuses. He can shoot in all directions and use an increasingly powerful arsenal. Some areas in shoot'em up intervene over the progression.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Rainbow Arts</developer>
+		<publisher>Factor 5</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Turrican II.jpg</image>
+		<video>./snaps/Turrican II.mp4</video>
+	</game>
+	<game>
+		<path>./vroom.stx</path>
+		<name>Vroom</name>
+		<sortname />
+		<desc>Vroom is a Formula 1 car racing game that can be played either in arcade or simulation mode. The main options screen allows you to select manual or automatic transmission, number of laps, and training, single race, or full season. The multiplayer option allows two players to race against each other on separate computers.</desc>
+		<rating>0.9</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Lankhor</developer>
+		<publisher>Lankhor</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/vroom.jpg</image>
+		<video>./snaps/vroom.mp4</video>
+	</game>
+	<game>
+		<path>./Midwinter.st</path>
+		<name>Midwinter</name>
+		<sortname />
+		<desc>Midwinter is a 1st Person strategy/role playing game with some first person shooting, and a unique story line. Attempt to defeat "General Masters" by blowing up his headquarters but first get past a multitude of patrols,recruiting new characters as you go,defeating cunning terrain,sabotaging enemy installations and a whole host of other options.</desc>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Rainbird Software</developer>
+		<publisher>Maelstrom Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Midwinter.jpg</image>
+		<video>./snaps/Midwinter.mp4</video>
+	</game>
+	<game>
+		<path>./Robocop 3.m3u</path>
+		<name>Robocop 3</name>
+		<sortname />
+		<desc>F29 Retaliator authors DID developed this particular use of the Robocop license, and produced something different from most film licenses. While it featured a succession of levels based around sections of the movie, these were highly varied and presented in polygon 3D graphics. These can be played in any order in the Arcade mode, or in planned sequence in the Movie Adventure mode, which follows the film's plot of Japanese investors wishing to replace Robocop with their Robot Ninja designs, and thus expecting him to prove himself as superior.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Digital Image</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Robocop 3.jpg</image>
+		<video>./snaps/Robocop 3.mp4</video>
+	</game>
+	<game>
+		<path>./Llamatron512k.st</path>
+		<name>Llamatron</name>
+		<sortname />
+		<desc>Llamatron is a multi-directional shooter where the objective is to stop an invasion of Earth that is being launched by alien mutants known as the Zyaxxians. The player's character—the eponymous Llamatron—is placed in the center of a black screen, with enemies—labelled in-game as "Grunts"—scattered across the playing area. Once the level begins, the enemies move towards the player and, if any of the enemies come into contact with the llama, the player loses a life.</desc>
+		<releasedate>19910320T000000</releasedate>
+		<developer>Jeff Minter, Llamasoft</developer>
+		<publisher>Jeff Minter, Llamasoft</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Llamatron512k.jpg</image>
+		<video>./snaps/Llamatron512k.mp4</video>
+	</game>
+	<game>
+		<path>./Blood Money.st</path>
+		<name>Blood Money</name>
+		<sortname />
+		<desc>The speech in the introductory sequence probably sums things up best - "the biggest unanswered question is 'where is the money?" The player has 4 missions to take on, in each case trying to kill baddies for the money they have, which can be spent in the shop rooms to upgrade their craft. Energy is depleted by contact with enemies and the walls, although there are some baddies who simply hover on your ship and steal, rather than physically doing damage.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Blood Money.jpg</image>
+		<video>./snaps/Blood Money.mp4</video>
+	</game>
+	<game>
+		<path>./Xenon 2 - Megablast (1989)(Bitmap Brothers).st</path>
+		<name>Xenon 2: Megablast</name>
+		<sortname />
+		<desc>Xenon 2: Megablast is a vertically scrolling space shooter, in which you have to pass several levels, filled with waves of enemies, that all end with a level boss creature. Each group of enemies you destroy grants you a cash reward and every once in a while you enter Colin's Bargain Basement, where you can use this cash to purchase upgrades for your ship like better weapons, speed &amp; health upgrades etc. Some upgrades can also be picked up during the levels.</desc>
+		<rating>0.9</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>The Bitmap Brothers</developer>
+		<publisher>Image Works</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Xenon 2 - Megablast (1989)(Bitmap Brothers).jpg</image>
+		<video>./snaps/Xenon 2 - Megablast (1989)(Bitmap Brothers).mp4</video>
+	</game>
+	<game>
+		<path>./Speedball.stx</path>
+		<name>Speedball</name>
+		<sortname />
+		<desc>The original future sport game, Speedball is played out on a small court with five players on each team, making it more frantic than the more famous sequel. The ball must be thrown into the goal at your opponent's end. Any amount of physical contact can be made, and there are no illegal ways to get the ball or the goal. Before each match you can bribe the referee into awarding you a head-start or strengthening the abilities of your players. You compete in a simple knockout cup tournament, or in individual 2-player games.</desc>
+		<rating>0.65</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>The Bitmap Brothers</developer>
+		<publisher>Image Works</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Speedball.jpg</image>
+		<video>./snaps/Speedball.mp4</video>
+	</game>
+	<game>
+		<path>./DEFCROWN.ST</path>
+		<name>Defender of the Crown</name>
+		<sortname />
+		<desc>Defender of the Crown puts you in the role of one of four Saxon knights in medieval England, in a time where the land is in turmoil as the King is dead and his crown was stolen. The Saxons and the Normans blame each other and fight for control of England.</desc>
+		<rating>0.65</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Master Designer Software</developer>
+		<publisher>Cinemaware</publisher>
+		<genre>Strategy</genre>
+		<image>./boxart/DEFCROWN.jpg</image>
+		<video>./snaps/DEFCROWN.mp4</video>
+	</game>
+	<game>
+		<path>./Plutos.stx</path>
+		<name>Plutos</name>
+		<sortname />
+		<desc>Plutos is a vertically-scrolling shoot 'em up featuring a succession of waves, containing what's reputed to be the first simultaneous 2-player mode on the ST or Amiga. Many of the enemies you face are waves of laser fodder with movement patterns taking them around the screen, with gun turrets and firing enemies as well, to fight or avoid. You start with 4 lives, and get an extra one (and a 5000 point bonus) after every level.</desc>
+		<rating>0.85</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Tynesoft</developer>
+		<publisher>Microvalue</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Plutos.jpg</image>
+		<video>./snaps/Plutos.mp4</video>
+	</game>
+	<game>
+		<path>./Populous (1989)(Bullfrog)[!].stx</path>
+		<name>Populous</name>
+		<sortname />
+		<desc>You play a god, gaming against other gods in a celestial game of conquest. To win, you must help your chosen people take over the world and wipe out the vermin who worship that other god.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Bullfrog</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Populous (1989)(Bullfrog)[!].jpg</image>
+		<video>./snaps/Populous (1989)(Bullfrog)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Xenon.stx</path>
+		<name>Xenon</name>
+		<sortname />
+		<desc>Xenon is the obscure and mysterious predecessor to the much better known Xenon 2: Megablast. The game is actually nothing like its sequel, with completely different control scheme and gameplay. The plot overlaps however, with the Xenites making their first attempt to control the galaxy.</desc>
+		<rating>0.8</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>The Bitmap Brothers</developer>
+		<publisher>Melbourne House</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Xenon.jpg</image>
+		<video>./snaps/Xenon.mp4</video>
+	</game>
+	<game>
+		<path>./Stunt Car Racer (1989)(Micro Style).st</path>
+		<name>Stunt Car Racer</name>
+		<sortname />
+		<desc>Step into the driving seat of one of the most wicked stunt cars around as a Stunt Car Racer. It's now up to you to prove just how good you are and to see whether or not you can ultimately become Division One Champion.</desc>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Micro Style</developer>
+		<publisher>Micro Style</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Stunt Car Racer (1989)(Micro Style).jpg</image>
+		<video>./snaps/Stunt Car Racer (1989)(Micro Style).mp4</video>
+	</game>
+	<game>
+		<path>./Captain Blood (1988)(ERE)(ST)[cr 42-Crew][one disk].st</path>
+		<name>Captain Blood</name>
+		<sortname />
+		<desc>Bob Morlock is a game designer who has just developed a new sci-fi video game set in outer space and alien worlds. While testing the product Morlock inexplicably finds himself in the spaceship within the game. A hyperspace accident clones him thirty times. Each of the clones departs, taking with him a portion of a vital fluid that sustains Morlock's life. Assuming the persona of the brave Captain Blood, the programmer tracks down and disintegrated twenty-five clones, spending 800 years to achieve that goal.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Exxos</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/Captain Blood (1988)(ERE)(ST)[cr 42-Crew][one disk].jpg</image>
+		<video>./snaps/Captain Blood (1988)(ERE)(ST)[cr 42-Crew][one disk].mp4</video>
+	</game>
+	<game>
+		<path>./Gauntlet II (1986)(Atari)[cr Medway Boys][t][one disk].st</path>
+		<name>Gauntlet II</name>
+		<sortname />
+		<desc>Based on the arcade game, Gauntlet II is very similar to the original. Up to four players (a wizard, a warrior, an elf, and a valkyrie) make their way through various mazes, collect treasures and magic potions, and fend off assorted creatures and ghosts.</desc>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Gauntlet II (1986)(Atari)[cr Medway Boys][t][one disk].jpg</image>
+		<video>./snaps/Gauntlet II (1986)(Atari)[cr Medway Boys][t][one disk].mp4</video>
+	</game>
+	<game>
+		<path>./Utopia.m3u</path>
+		<name>Utopia</name>
+		<sortname />
+		<desc>The game, taking place in the future, on a new planet, is open-ended where the player character is a planetary governor who evacuated his colony after it was hit by a biological weapon by an alien race. Instead of being reprimanded or fired, the governor is lauded for his care of colonists' lives over material gain, and promoted to a series of pioneer worlds to colonize.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Strategy</genre>
+		<image>./boxart/Utopia.jpg</image>
+		<video>./snaps/Utopia.mp4</video>
+	</game>
+	<game>
+		<path>./1943.stx</path>
+		<name>1943: The Battle of Midway</name>
+		<sortname />
+		<desc>1943: The Battle of Midway is a shoot'em up game for the Atari ST that follows the Capcom smash hit 1942. Here you are in the heart of the Second World War. This time it's about recreating the intense battle off the coast of the Midway Islands. Compared to its predecessor, 1943 displays a health bar that drains when you take damage from the enemy. The health bar can be recharged with certain bonuses.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Go!</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/1943.jpg</image>
+		<video>./snaps/1943.mp4</video>
+	</game>
+	<game>
+		<path>./8BALL.ST</path>
+		<name>8 Ball</name>
+		<sortname />
+		<desc>8 Ball is a Sport game for the Atari ST developed by Stanley Crane.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>MichTron</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/8BALL.jpg</image>
+		<video>./snaps/8BALL.mp4</video>
+	</game>
+	<game>
+		<path>./Addams Family (The).STX</path>
+		<name>Addams Family, The</name>
+		<sortname />
+		<desc>The Addams Family is a platform game based on the characters and settings from the movie (which, in turn, is based on the famous 1960's television series, which in turn is based on Charles Addams cartoon of the same name, which was featured in the magazine, The New Yorker, in the 30's).</desc>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Addams Family (The).jpg</image>
+		<video>./snaps/Addams Family (The).mp4</video>
+	</game>
+	<game>
+		<path>./Slap Fight.STX</path>
+		<name>Slap Fight</name>
+		<sortname />
+		<desc>Forward scrolling spaceship shooting game over the planet Orac, based on the Toaplan original arcade game.Alien enemies have occupied the planet Orac in the year 2059. The Alien League Of Cosmic Nations (ALCON) has determined that you are the pilot to take the Slap Fighter (Europe) / SW475 Starfighter (US) and defeat the aliens.</desc>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Slap Fight.jpg</image>
+		<video>./snaps/Slap Fight.mp4</video>
+	</game>
+	<game>
+		<path>./Another World.m3u</path>
+		<name>Another World</name>
+		<sortname />
+		<desc>San Francisco 2016. A series of earthquakes has damaged several nuclear power plants, and the subsequent nuclear contamination has forced the survivors to flee underground. Their only hope to get off the continent is to use newly developed matter transporters. However, these transporters require certain types of crystals to work. Since men cannot survive on the surface, the task of collecting the crystals is assigned to a cyborg.</desc>
+		<rating>0.9</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>X-Ample</developer>
+		<publisher>CP Verlag</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Another World.jpg</image>
+		<video>./snaps/Another World.mp4</video>
+	</game>
+	<game>
+		<path>./Arkanoid (Klapauzius).msa</path>
+		<name>Arkanoid</name>
+		<sortname />
+		<desc>The original Breakout concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game.</desc>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Imagine Software</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Arkanoid (Klapauzius).jpg</image>
+		<video>./snaps/Arkanoid (Klapauzius).mp4</video>
+	</game>
+	<game>
+		<path>./Armalyte - The Final Run.m3u</path>
+		<name>Armalyte: The Final Run</name>
+		<sortname />
+		<desc>In the infamous Delta sector of space, the evil aliens of the Aalan Empire have invaded four peaceful planets. The people of Earth, fearing to be next, send a preemptive strike: Armalyte Force. Naturally, they run into a trap, and only a single ship survives. Our hero now has to free the four occupied planets and then strike at the Aalan homeworld.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Thalamus</developer>
+		<publisher>Thalamus</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Armalyte - The Final Run.jpg</image>
+		<video>./snaps/Armalyte - The Final Run.mp4</video>
+	</game>
+	<game>
+		<path>./Baal.m3u</path>
+		<name>Baal</name>
+		<sortname />
+		<desc>Baal is a monster who has stolen a war machine.You, as leader of the "Time Warriors" must destroy his minions, collect the war machine pieces (they flash yellow), and destroy Baal. You can use joystick or keyboard.</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Psyclapse</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Baal.jpg</image>
+		<video>./snaps/Baal.mp4</video>
+	</game>
+	<game>
+		<path>./Batman - The Movie (1989)(Ocean)[a].st</path>
+		<name>Batman: The Movie</name>
+		<sortname />
+		<desc>The game consists of five levels based on events from the movie. Each stage has a time limit and a health gauge (represented by Batman's face turning into the Joker's), with Batman losing a life if he runs out of either.</desc>
+		<rating>0.75</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Batman - The Movie (1989)(Ocean)[a].jpg</image>
+		<video>./snaps/Batman - The Movie (1989)(Ocean)[a].mp4</video>
+	</game>
+	<game>
+		<path>./beach_volley_hit_squad_(the).stx</path>
+		<name>Beach Volley</name>
+		<sortname />
+		<desc>While two boys playing Beach Volley a stranger passes by and give them two the possibility to play around the world for the Beach Volley Cup. They take change and start their first competition in London. The rules are easy, one of the teams has to reach seven points first. When you win you fly to other continents like America, Africa or China to meet your next opponent.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Hit Squad</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/beach_volley_hit_squad_(the).jpg</image>
+		<video>./snaps/beach_volley_hit_squad_(the).mp4</video>
+	</game>
+	<game>
+		<path>./Better Dead Than Alien! (1988)(Electra)[cr Bladerunners].st</path>
+		<name>Better Dead Than Alien!</name>
+		<sortname />
+		<desc>Brad Zoom takes on the Brain Eaters from the Purple Planet, in this homage to vintage action games, primarily Galaxians. There are 75 levels, accessed via passcodes.</desc>
+		<rating>0.5</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Electra</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Better Dead Than Alien! (1988)(Electra)[cr Bladerunners].jpg</image>
+		<video>./snaps/Better Dead Than Alien! (1988)(Electra)[cr Bladerunners].mp4</video>
+	</game>
+	<game>
+		<path>./Beyond The Ice Palace.stx</path>
+		<name>Beyond the Ice Palace</name>
+		<sortname />
+		<desc>This platform romp has similarities to Ghosts 'N Goblins, sending you on a journey to defeat the forces of evil. You start the game with nine lives, and you'll need them although there are only 3 (large) levels, each finishing with a boss. All manner of monsters block your path and must be attacked with your horizontally-travelling daggers. Additional weapons can be collected, as can bonus orbs, and the chance to summon a spirit to attack for you on the toughest sections.</desc>
+		<rating>0.65</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Elite Systems</developer>
+		<publisher>Elite Systems</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Beyond The Ice Palace.jpg</image>
+		<video>./snaps/Beyond The Ice Palace.mp4</video>
+	</game>
+	<game>
+		<path>./Big Run.stx</path>
+		<name>Big Run</name>
+		<sortname />
+		<desc>Take part in the gruelling Dakar rally, driving high speed through a variety of landscapes, from countryside to desert. Your car has 2 gears. You will have to beat the clock on each of the six stages, and run high enough up the racing order, to qualify for the next stage. When you use a continue, the time is reset but your position is not, making it relatively easy to complete a stage after coming close with one credit.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<publisher>Storm</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Big Run.jpg</image>
+		<video>./snaps/Big Run.mp4</video>
+	</game>
+	<game>
+		<path>./black_lamp_firebird_(uk).stx</path>
+		<name>Black Lamp</name>
+		<sortname />
+		<desc>Black Lamp is a platform game in which you have to find and collect several colored lamps and bring them back, one by one, to a case located in the first room. There are also several types of bonuses to collect along the way, and many enemies and creatures (some flying) to fight off. The ultimate goal is to bring all the colored lamps back to the case, including the elusive Black Lamp.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<publisher>Firebird Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/black_lamp_firebird_(uk).jpg</image>
+		<video>./snaps/black_lamp_firebird_(uk).mp4</video>
+	</game>
+	<game>
+		<path>./Bomb Jack.stx</path>
+		<name>Bombjack</name>
+		<sortname />
+		<desc>In Bomb Jack, the player controls Jack, who must collect all the bombs in order to complete the current round and go onto the next one. This sounds easy, right? Wrong! Making Jack's task difficult are numerous enemies such as birds, mummies, turtles, and orbs.</desc>
+		<rating>0.8</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Paradox Development</developer>
+		<publisher>Elite Systems</publisher>
+		<genre>Action</genre>
+		<players>1-5</players>
+		<image>./boxart/Bomb Jack.jpg</image>
+		<video>./snaps/Bomb Jack.mp4</video>
+	</game>
+	<game>
+		<path>./Bubble Bobble.stx</path>
+		<name>Bubble Bobble</name>
+		<sortname />
+		<desc>Bubble Bobble is the story of two humans, Bub and Bob who wander into the mysterious cave of monsters and magically turn into dinosaurs. The only way to transform back is to reach the end of the cave.</desc>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Firebird</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Bubble Bobble.jpg</image>
+		<video>./snaps/Bubble Bobble.mp4</video>
+	</game>
+	<game>
+		<path>./Buggy Boy.stx</path>
+		<name>Buggy Boy</name>
+		<sortname />
+		<desc>Use the joystick to select a course and press fire. The race begins. Drive your race- tuned Baja Bug along the race track, passing through gates and collecting flags for points. Time gates give you an additional two seconds on the next leg so drive through them if you can. Collecting the flags in the specified order gives you extra points. Avoid hitting the fences, walls trees etc.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Tatsumi Electronics</developer>
+		<publisher>Elite Systems</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Buggy Boy.jpg</image>
+		<video>./snaps/Buggy Boy.mp4</video>
+	</game>
+	<game>
+		<path>./Cabal.stx</path>
+		<name>Cabal</name>
+		<sortname />
+		<desc>Cabal is a coin-op conversion of Capcom's arcade game. The mechanics of the game are simple: shoot everything in sight! The hero (there is a two player mode) runs back and forth along the bottom of the screen, ducking and dodging bullets and grenades from the enemy. The roll maneuver from the arcade was not implemented in the PC version. You return fire by moving a target around the screen which also moves your character, so be careful not to run into a bullet.</desc>
+		<rating>0.5</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Tad Corporation</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Cabal.jpg</image>
+		<video>./snaps/Cabal.mp4</video>
+	</game>
+	<game>
+		<path>./Cannon Fodder.m3u</path>
+		<name>Cannon Fodder</name>
+		<sortname />
+		<desc>Guide a team of up to four soldiers through 72 levels of combat in this innovative top-down action/strategy hybrid, best thought of as Lemmings crossed with Commando crossed with Dune 2. The characters are controlled indirectly using the mouse, as you activate each soldier or group of them by highlighting them, click the left button to move them to a particular spot, and the right button for them to fire guns at an enemy. You can also pick up grenades, which can be used to destroy groups of enemies or buildings (by pressing both buttons at once).</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sensible Software</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Cannon Fodder.jpg</image>
+		<video>./snaps/Cannon Fodder.mp4</video>
+	</game>
+	<game>
+		<path>./Captain Dynamo (Klapauzius).msa</path>
+		<name>Captain Dynamo</name>
+		<sortname />
+		<desc>Insane genius Austen van Flyswatter has stolen a huge collection of diamonds, and retrieving them involves navigating a succession of fiendishly-designed arrangements of platforms and traps. Does that sound like a job for a retired superhero? Captain Dynamo thinks so, and aims to recapture them for their rightful owner.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Captain Dynamo (Klapauzius).jpg</image>
+		<video>./snaps/Captain Dynamo (Klapauzius).mp4</video>
+	</game>
+	<game>
+		<path>./carrier_command_mirror_image.stx</path>
+		<name>Carrier Command</name>
+		<sortname />
+		<desc>You control an advanced cybernetic aircraft carrier complete with fighters, amphibious assault vehicles, laser defenses and a fleet of decoy drones. Your mission is to build a series of resource, factory, and defensive bases spanning an island chain. The only problem? At the other end of the chain is an even more advanced carrier under control of a terrorist organization with the same mission.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Realtime Games</developer>
+		<publisher>Rainbird</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/carrier_command_mirror_image.jpg</image>
+		<video>./snaps/carrier_command_mirror_image.mp4</video>
+	</game>
+	<game>
+		<path>./The Chaos Engine.m3u</path>
+		<name>Chaos Engine, The</name>
+		<sortname />
+		<desc>A time traveler from the future was stranded in Victorian England, and his knowledge of yet unknown technological inventions was passed to the Royal Society, headed by Baron Fortesque. With the help of this knowledge, Fortesque managed to construct an immensely complex artificial intelligence known as the Chaos Engine. However, creation rebelled against its creator, assimilated its mind, and turned Britain into a war zone populated by mad machines. Mercenaries are willing to enter this dangerous place and put an end to the chaos, hoping for an appropriate reward.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<publisher>Renegade Software</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/The Chaos Engine.jpg</image>
+		<video>./snaps/The Chaos Engine.mp4</video>
+	</game>
+	<game>
+		<path>./Chase HQ (Hit Squad).stx</path>
+		<name>Chase HQ</name>
+		<sortname />
+		<desc>As an undercover agent of Chase Headquarters, your job is to patrol the streets and track down five criminals. You are given a mission briefing before you start which gives information on the suspect and what car they drive. Then you drive across the city without crashing into other cars, and catch up with the criminal's car. To arrest the suspects, you must keep bumping into their car until it is no longer functional. And you have to do this under a strict time limit. You can't afford to crash into cars or buildings or you waste time getting on the road again.</desc>
+		<rating>0.5</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Taito</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Chase HQ (Hit Squad).jpg</image>
+		<video>./snaps/Chase HQ (Hit Squad).mp4</video>
+	</game>
+	<game>
+		<path>./Cisco Heat.stx</path>
+		<name>Cisco Heat</name>
+		<sortname />
+		<desc>Take the wheel of a high powered police car in this race around the famous areas of San Francisco. The Golden Gate Bridge, Fisherman's Wharf, China Town, Twin Peaks all flash by with exciting realism. Blast the horn to shift other cars out of the way, as you tackle 5 levels of non stop action, but only the best can make it - so hit the gas pedal and race for glory.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Imageworks</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Cisco Heat.jpg</image>
+		<video>./snaps/Cisco Heat.mp4</video>
+	</game>
+	<game>
+		<path>./creepy_atlantis.STX</path>
+		<name>Creepy</name>
+		<sortname />
+		<desc>Darkness has descended over the land and out of that darkness has come and evil force that brings terror to all who live there. The creator of this evil force must be destroyed. Guarded by an army of malevolent apparitions and fearless she-warriors mounted on fire breathing dragons there are many who think the task impssible.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atlantis Software</developer>
+		<publisher>Atlantis Software</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/creepy_atlantis.jpg</image>
+		<video>./snaps/creepy_atlantis.mp4</video>
+	</game>
+	<game>
+		<path>./crystalcastles.st</path>
+		<name>Crystal Castles</name>
+		<sortname />
+		<desc>Bentley Bear is trapped in the Crystal Castles! To get out, he will need to collect all of the gems located throughout the castle. The game is played with an isometric view of the multi platformed castle. When Bentley collects all of the gems on the current castle, he will move on to the next, more difficult castle. Wandering throughout the castles are a wide variety of dangerous creatures, which Bentley should avoid. From time to time, a magic hat will appear. If Bentley collects the hat, he will temporarily be invincible to the castles inhabitants.</desc>
+		<rating>0.55</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Andromeda Software</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/crystalcastles.jpg</image>
+		<video>./snaps/crystalcastles.mp4</video>
+	</game>
+	<game>
+		<path>./Cybernoid II - The Revenge.stx</path>
+		<name>Cybernoid II: The Revenge</name>
+		<sortname />
+		<desc>The pirates have returned in a new Battlestar, even more fearsome than the last and have again plundered the Federation storage depots. As you did such a good job last time you've been commissioned once again to retrieve the stolen cargo. You've been given an all new ship and a bigger arsenal of weaponry but the task will be just as perilous.</desc>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hewson</developer>
+		<publisher>Hewson</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Cybernoid II - The Revenge.jpg</image>
+		<video>./snaps/Cybernoid II - The Revenge.mp4</video>
+	</game>
+	<game>
+		<path>./Deuteros.m3u</path>
+		<name>Deuteros</name>
+		<sortname />
+		<desc>It is the end of the 31st century. Nearly one thousand years ago man colonized the moon, and from there created a range of human mutations which were left to develop other planets. At the same time, life on earth was destroyed by a cataclysmic climate change. Now the mutant races are at war with each other, and man has returned to Earth, rebuilt civilization, and forgotten about past adventures.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<publisher>Activision</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Deuteros.jpg</image>
+		<video>./snaps/Deuteros.mp4</video>
+	</game>
+	<game>
+		<path>./Double Dragon II - The Revenge (1989)(Tradewest)[cr Vapour].st</path>
+		<name>Double Dragon II: The Revenge</name>
+		<sortname />
+		<desc>The lovely Marian was rescued from the clutches of the Black Warriors gang by Billy &amp; Jimmy Lee in the first Double Dragon game, but now the gang has killed her in retaliation of their early defeat. The Dragons must now embark on a mission to avenge her d</desc>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Double Dragon II - The Revenge (1989)(Tradewest)[cr Vapour].jpg</image>
+		<video>./snaps/Double Dragon II - The Revenge (1989)(Tradewest)[cr Vapour].mp4</video>
+	</game>
+	<game>
+		<path>./Double Dragon (1988)(Tradewest).st</path>
+		<name>Double Dragon</name>
+		<sortname />
+		<desc>Set in a post-apocalyptic New York, Double Dragon is the story of Billy and Jimmy Lee, twin brothers trained in the fighting style of Sou-Setsu-Ken. Together, they manage a small martial arts training school, teaching their students in self-defense. One day, Billy's girlfriend, Marian, is kidnapped off the street by the "Black Warriors", a savage street gang led by a man named Willy. The Black Warriors demand the Lee brothers disclose their martial arts secrets in exchange for Marian's freedom. The Lee brothers set out on a rescue mission to crush the Black Warriors and save Marian.</desc>
+		<rating>0.65</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Binary Design</developer>
+		<publisher>Virgin</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Double Dragon (1988)(Tradewest).jpg</image>
+		<video>./snaps/Double Dragon (1988)(Tradewest).mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Ninja.stx</path>
+		<name>Dragon Ninja</name>
+		<sortname />
+		<desc>Dragon Ninja is a six-level action game originating in the arcades. The gameplay involving beating a succession of guys to complete the level, then an end-of-level bad guy. The action takes place on two different levels of the screen, which can be jumped across or navigated using ladders. Moves such as punches and kicks are on offer. The control method makes jumping sideways quite tricky.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Imagine Software</developer>
+		<publisher>Data East</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Dragon Ninja.jpg</image>
+		<video>./snaps/Dragon Ninja.mp4</video>
+	</game>
+	<game>
+		<path>./Eliminator.stx</path>
+		<name>Eliminator</name>
+		<sortname />
+		<desc>A shoot ‘em up set on a patchwork-quilt coloured road, Eliminator puts you in control of a ship with a basic weapon, flying along at breakneck speed. There are barriers along the way to avoid, often set in quick succession, and lots of bad guys to shoot at or avoid - their shots must be avoided too. Some parts of the track are blocked unless you can shoot through obstacles before reaching them, or hit a jump pad. At some points you can change to travelling along the ceiling as well. Tokens can be collected en route, and used to obtain better weapons, but losing a life costs you the best one you’ve currently got.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Hewson</developer>
+		<publisher>Hewson</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Eliminator.jpg</image>
+		<video>./snaps/Eliminator.mp4</video>
+	</game>
+	<game>
+		<path>./Elite (1988)(Firebird)[a2].st</path>
+		<name>Elite</name>
+		<sortname />
+		<desc>Elite is a free-form space trading and combat simulation, commonly considered the progenitor of this sub-genre. The player initially controls a character referred to as "Commander Jameson", starting at Lave Station with 100 credits and a lightly armed trading ship called Cobra Mark III.</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>David Braben</developer>
+		<publisher>Firebird</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Elite (1988)(Firebird)[a2].jpg</image>
+		<video>./snaps/Elite (1988)(Firebird)[a2].mp4</video>
+	</game>
+	<game>
+		<path>./Falcon v1.00 (1988)(Sphere Inc.)[one disk].st</path>
+		<name>Falcon</name>
+		<sortname />
+		<desc>The long Falcon simulation legacy of hardcore simulations of the F-16 fighter plane begins here. The plane's electronic displays and radars are simulated fully, with 4 styles of HUD. Not only can your plane barrel-roll and scissor, the enemy planes can too, with Artificial Intelligence recreating the moves of a real pilot. This was one of the earliest games to offer head-to-head play by linking two machines. It comes with a massive manual, detailing all those functions.</desc>
+		<rating>0.9</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sphere, Inc.</developer>
+		<publisher>Spectrum Holobyte</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
+		<image>./boxart/Falcon v1.00 (1988)(Sphere Inc.)[one disk].jpg</image>
+		<video>./snaps/Elite (1988)(Firebird)[a2].mp4</video>
+	</game>
+	<game>
+		<path>./Fernandez Must Die.stx</path>
+		<name>Fernandez Must Die</name>
+		<sortname />
+		<desc>Fernandez is a despot who has invaded the Republic of El Diablo, bringing terror to the local people. The rightful leaders of the country have called you in to destroy Fernandez's hideouts and bring his country back to the people.</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Imageworks</developer>
+		<publisher>Imageworks</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Fernandez Must Die.jpg</image>
+		<video>./snaps/Fernandez Must Die.mp4</video>
+	</game>
+	<game>
+		<path>./First Samurai, The (1991)(Image Works)[cr Elite][t][one disk].st</path>
+		<name>First Samurai, The</name>
+		<sortname />
+		<desc>"The Demon King descends from his mountain domain to you, the First Samurai and your master. Defenceless against the Demon's magic, you succumb to his powers, leaving the your Master to fight the Demon King alone. Your master falls in combat, dying. But, with his last breath, he summons the Wizard Mage. The Demon King fearing defeat, escapes to the future. Tormented, the young samurai seeks the teachings of the Wizard Mage in the ways of magic. Boiled with revenge and armed with a magical sword, the young samurai follows the Demon King into the future and the unknown.</desc>
+		<rating>0.65</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Imageworks</developer>
+		<publisher>Vivid Image</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/First Samurai, The (1991)(Image Works)[cr Elite][t][one disk].jpg</image>
+		<video>./snaps/First Samurai, The (1991)(Image Works)[cr Elite][t][one disk].mp4</video>
+	</game>
+	<game>
+		<path>./Flying Shark (Klapauzius).msa</path>
+		<name>Flying Shark</name>
+		<sortname />
+		<desc>Flying Shark is a top-down shooter similar to Raiden. You start off with four lives and three bombs. With that (you can get more lives at certain point intervals, and more bombs can be found), you, the "Sky Shark" of your squadron, blast through five levels of enemy-infested battlefields with as many as six gun upgrades (Aside from the bombs and the gun upgrade, there are no other weapons to be found at all). Includes three difficulty levels and two-player support.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Firebird</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Flying Shark (Klapauzius).jpg</image>
+		<video>./snaps/Flying Shark (Klapauzius).mp4</video>
+	</game>
+	<game>
+		<path>./Gods.m3u</path>
+		<name>Gods</name>
+		<sortname />
+		<desc>Hercules is aiming to achieve immortality by completing the task the Gods have set him. His task is presented as aplatform adventure set in ancient Greece, featuring a variety of enemies as you play it through. Of more significance, however, is the game's Artificial Intelligence system, in which creatures monitor how you play, and try to find safer positions. Also, the game offers more bonuses and power-ups if you're struggling to progress. Even without those, there are lots of bonus sections to find and unlock.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Renegade Kid</developer>
+		<publisher>The Bitmap Brothers</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Gods.jpg</image>
+		<video>./snaps/Gods.mp4</video>
+	</game>
+	<game>
+		<path>./Golden Axe (1990)(Virgin)[cr Empire][t].st</path>
+		<name>Golden Axe</name>
+		<sortname />
+		<desc>Sega's classic arcade beat-'em-up game, Golden Axe puts in the shoes of one of three heroes, each with his own reason for trying to overthrow the evil rule of Death-Adder, who - along with his forces of darkness - kidnapped and imprisoned the King and his daughter and stole the legendary Golden Axe. This is a horizontal fighting game, where you basically take one of the three characters (a warrior, a dwarf or an amazon) and bash everything which stands between you and Death Adder himself.</desc>
+		<rating>0.75</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Virgin</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+		<image>./boxart/Golden Axe (1990)(Virgin)[cr Empire][t].jpg</image>
+		<video>./snaps/Golden Axe (1990)(Virgin)[cr Empire][t].mp4</video>
+	</game>
+	<game>
+		<path>./Goldrunner II (1988)(Microdeal)[cr Pompey Pirates][t][one disk][three data disks included].st</path>
+		<name>Goldrunner II</name>
+		<sortname />
+		<desc>My Story...Fifty years ago, my Grandfather, a brave and bold warrior, defeated a powerful force of space pirates to secure a new world for the human race, who were fleeing from the now dead Earth. The past five decades of life on the Ring-Worlds of Triton have altered the life of the Human Race. Man is no longer a warrior; his technological advancement has bred a new fighter. Robot pilots now defend his new home. With no concept of fear and reactions a little slower than the speed of light, they are the formidable force which has prevented reprisals from the pirates; until now.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Microdeal</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Goldrunner II (1988)(Microdeal)[cr Pompey Pirates][t][one disk][three data disks included].jpg</image>
+		<video>./snaps/Goldrunner II (1988)(Microdeal)[cr Pompey Pirates][t][one disk][three data disks included].mp4</video>
+	</game>
+	<game>
+		<path>./H.E.R.O. - Human Extraction &amp; Rescue Operation (1995-07-23)(Greenwood, Tony - Goodfellow, Bob)(FW).st</path>
+		<name>H.E.R.O.</name>
+		<sortname />
+		<desc>The player assumes control of Roderick Hero (sometimes styled as "R. Hero"), a one-man rescue team. Miners working in Mount Leone are trapped, and it's up to Roderick to reach them.</desc>
+		<releasedate>19950723T000000</releasedate>
+		<publisher>Greenwood, Tony - Goodfellow, Bob</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/H.E.R.O. - Human Extraction &amp; Rescue Operation (1995-07-23)(Greenwood, Tony - Goodfellow, Bob)(FW).jpg</image>
+		<video>./snaps/H.E.R.O. - Human Extraction &amp; Rescue Operation (1995-07-23)(Greenwood, Tony - Goodfellow, Bob)(FW).mp4</video>
+	</game>
+	<game>
+		<path>./Hard 'n' Heavy (1989)(ReLINE Software).st</path>
+		<name>Hard 'n' Heavy</name>
+		<sortname />
+		<desc>Jump and Run game during which a little robot (named 'Heavy' respectively 'Metal') runs through five side scrolling worlds (a la Mario). Various enemies hinder progress and can be killed using an upgradable weapons system based on bouncing balls and a flamethrower. Extras and 'diamonds' can be collected from shooting or otherwise destroying rocks and walls. There are two playing modes available, one player or two players.</desc>
+		<rating>0.6</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Rainbow Arts</developer>
+		<publisher>reLINE Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Hard 'n' Heavy (1989)(ReLINE Software).jpg</image>
+		<video>./snaps/Hard 'n' Heavy (1989)(ReLINE Software).mp4</video>
+	</game>
+	<game>
+		<path>./RVF Honda (1989)(MicroProse)[cr Equinox][m Atariforce].st</path>
+		<name>Honda RVF</name>
+		<sortname />
+		<desc>RVF Honda puts you on board a realistically-modeled RC30 bike, with the task of becoming world champion. Initially you race at Clubman level on fictitious local tracks (one of which is set in MicroProse's old UK home of Tetbury), before moving up to UK and then World championship racing if you're good enough.</desc>
+		<rating>0.9</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>MicroStyle</developer>
+		<publisher>MicroStyle</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/RVF Honda (1989)(MicroProse)[cr Equinox][m Atariforce].jpg</image>
+		<video>./snaps/RVF Honda (1989)(MicroProse)[cr Equinox][m Atariforce].mp4</video>
+	</game>
+	<game>
+		<path>./hunter_activision_(uk).stx</path>
+		<name>Hunter</name>
+		<sortname />
+		<desc>You're one of an an elite band of soldiers pitted against an overwhelming enemy who controls most of the world. Take on various missions ranging from assassination to demolition in an effort to defeat the enemy within a time limit.</desc>
+		<rating>0.9</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/hunter_activision_(uk).jpg</image>
+		<video>./snaps/hunter_activision_(uk).mp4</video>
+	</game>
+	<game>
+		<path>./IK.ST</path>
+		<name>International Karate</name>
+		<sortname />
+		<desc>The core game is a two-dimensional, one-on-one, versus fighting game. Players take on the roles of martial artists competing in a kumite tournament.</desc>
+		<rating>0.75</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>System 3 Software</developer>
+		<publisher>System 3 Software</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/IK.jpg</image>
+		<video>./snaps/IK.mp4</video>
+	</game>
+	<game>
+		<path>./Ikari Warriors (Encore).stx</path>
+		<name>Ikari Warriors</name>
+		<sortname />
+		<desc>A conversion of the arcade game, Ikari Warriors is a vertically scrolling action game. One or two players fight their way through a variety of terrain, such as jungles, rivers, and ruins. Along the way different weapons can be found, including machine guns, grenades, and rocket launchers.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Ikari Warriors (Encore).jpg</image>
+		<video>./snaps/Ikari Warriors (Encore).mp4</video>
+	</game>
+	<game>
+		<path>./interphase_imageworks.stx</path>
+		<name>Interphase</name>
+		<sortname />
+		<desc>Dreams are made by The Dreamtrack Corporation, a group of evil subliminal-messengers whose intention is to destroy the minds of the minority of people capable of interpreting other people's dreams and live them out through entertainment. That's the story in this distinctly Cyberpunk-inspired title, and you play Chad, the man who discovers this secret, and aims to put an end to it.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Image Works</developer>
+		<publisher>Image Works</publisher>
+		<genre>Action</genre>
+		<image>./boxart/interphase_imageworks.jpg</image>
+		<video>./snaps/interphase_imageworks.mp4</video>
+	</game>
+	<game>
+		<path>./Into the Eagle's Nest.stx</path>
+		<name>Into the Eagle's Nest</name>
+		<sortname />
+		<desc>Pandora's first game combines the Gauntlet style with the World War 2 setting, and specifically the Eagle's Nest building which is being used by a commander as his HQ. Three Allied soldiers have been captured, and you must infiltrate the facilities, rescue your brave comrades, destroy the building, and salvage as much of the stolen art treasures as possible.</desc>
+		<rating>0.4</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Pandora Box</developer>
+		<publisher>Atari</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/Into the Eagle's Nest.jpg</image>
+		<video>./snaps/Into the Eagle's Nest.mp4</video>
+	</game>
+	<game>
+		<path>./James Pond II - Codename Robocod.stx</path>
+		<name>James Pond II: Codename Robocod</name>
+		<sortname />
+		<desc>In his second adventure James Pond must retrieve the toys Dr Maybe has stolen. Pond has been armed with an Inspector Gadget-style stretch device, which he can use to view higher areas or claw onto ceilings so as to slide across them.</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Vectordean</developer>
+		<publisher>Millennium Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/James Pond II - Codename Robocod.jpg</image>
+		<video>./snaps/James Pond II - Codename Robocod.mp4</video>
+	</game>
+	<game>
+		<path>./Joust (1986)(Atari)[cr LSD].st</path>
+		<name>Joust Collection</name>
+		<sortname />
+		<desc>In Joust, players take control of a knight with a lance who rides their flying ostrich (or stork, for Player 2) to do battle against computer-controlled evil knights who ride atop vultures.</desc>
+		<rating>0.65</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Joust (1986)(Atari)[cr LSD].jpg</image>
+		<video>./snaps/Joust (1986)(Atari)[cr LSD].mp4</video>
+	</game>
+	<game>
+		<path>./Jumping Jack Son (1990)(Infogrames)[cr MCA].st</path>
+		<name>Jumping Jack Son</name>
+		<sortname />
+		<desc>Jumpin' Jackson is a top-down puzzle game. Jackson hops around a game board, picking up records (anyone remember vinyl?) and putting them down on record players. Each record carries one instrument's part of a tune, and as the records are put down, the tune builds up. Once all the records are spinning, the tune and level are completed.</desc>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>Infogrames</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Jumping Jack Son (1990)(Infogrames)[cr MCA].jpg</image>
+		<video>./snaps/Jumping Jack Son (1990)(Infogrames)[cr MCA].mp4</video>
+	</game>
+	<game>
+		<path>./Kick Off 2 [V1.4e][Anco Software][1990][English][UK].stx</path>
+		<name>Kick Off 2</name>
+		<sortname />
+		<desc>The original Kick Off was expanded on in many ways for this sequel. The game now features full tournament modes (although the players on the teams are fictitious) and four different pitches (including an implementation of plastic pitches, whose uneven bounce cause controversy when several British clubs tried them in the 1980s).</desc>
+		<rating>0.45</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Anco</developer>
+		<publisher>Anco</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Kick Off 2 [V1.4e][Anco Software][1990][English][UK].jpg</image>
+		<video>./snaps/Kick Off 2 [V1.4e][Anco Software][1990][English][UK].mp4</video>
+	</game>
+	<game>
+		<path>./Leatherneck.STX</path>
+		<name>Leatherneck</name>
+		<sortname />
+		<desc>A squad of four tough-guy soldiers have to take out some foes in a jungle. As the game starts, four soldiers are depicted, with any who are not present to play killed immediately - a joystick adaptor is required for 3 or 4 player games.</desc>
+		<rating>0.55</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Microdeal</developer>
+		<publisher>Microdeal</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Leatherneck.jpg</image>
+		<video>./snaps/Leatherneck.mp4</video>
+	</game>
+	<game>
+		<path>./Lemmings.STX</path>
+		<name>Lemmings</name>
+		<sortname />
+		<desc>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.</desc>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Lemmings.jpg</image>
+		<video>./snaps/Lemmings.mp4</video>
+	</game>
+	<game>
+		<path>./Loopz.STX</path>
+		<name>Loopz</name>
+		<sortname />
+		<desc>A puzzle game where the main goal is to make loops! Random pieces are presented over a board, including simple lines and corners as well as S bends and other warped shapes, of varying sizes. It is up to the player to link them up in a loop form, then moving on to the next level. Pieces can be placed on any empty space on the grid, and rotated into one of the four main compass directions.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Audiogenic Software Ltd.</developer>
+		<publisher>Audiogenic Software Ltd.</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Loopz.jpg</image>
+		<video>./snaps/Loopz.mp4</video>
+	</game>
+	<game>
+		<path>./Lotus Esprit Turbo Challenge (1990)(Gremlin)[cr Empire].st</path>
+		<name>Lotus Esprit Turbo Challenge</name>
+		<sortname />
+		<desc>The first in a series of 3 racing games endorsed by the legendary car company, which is now a part of Proton. The game features a total of 32 fictitious racetracks from around the world, split into 3 difficulty levels. There are 19 computer opponents (15 on the 8-bit versions) and you have to finish in the top 10 (top 8 on the 8-bits) to progress. The higher you finish in one race, the lower down the grid you start for the next race. The opposition drivers have pun names based on the F1 drivers of the day - examples include Ricardo Pastry and Crashhard Banger.</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Magnetic Fields</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Lotus Esprit Turbo Challenge (1990)(Gremlin)[cr Empire].jpg</image>
+		<video>./snaps/Lotus Esprit Turbo Challenge (1990)(Gremlin)[cr Empire].mp4</video>
+	</game>
+	<game>
+		<path>./Lotus Turbo Challenge II (1991)(Gremlin)[cr Elite].st</path>
+		<name>Lotus Turbo Challenge II</name>
+		<sortname />
+		<desc>This sequel to Lotus Esprit Turbo Challenge is again a behind-the-car viewed racing game. It takes in eight distinct circuits, adding surface and weather effects such as desert and snow. Later in the game, you must race through two-way motorways with oncoming traffic, (incorporating civilian cars and trucks), and face tough levels aided by speed and time boost pick-ups.</desc>
+		<rating>0.65</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Magnetic Fields</publisher>
+		<genre>Racing</genre>
+		<players>1-4</players>
+		<image>./boxart/Lotus Turbo Challenge II (1991)(Gremlin)[cr Elite].jpg</image>
+		<video>./snaps/Lotus Turbo Challenge II (1991)(Gremlin)[cr Elite].mp4</video>
+	</game>
+	<game>
+		<path>./Magic Boy.stx</path>
+		<name>Magic Boy</name>
+		<sortname />
+		<desc>Little Hewlett is top of his class at Sorcery School. One evening he stays behind to finish some work and accidently lets the Grand Wizards collection of crazy pets out of the basement. Can you help Hewlett getthem all back before his master returns in the morning? Good luck, it's going to be a long night.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Blue Turtle</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Magic Boy.jpg</image>
+		<video>./snaps/Magic Boy.mp4</video>
+	</game>
+	<game>
+		<path>./Mega lo Mania.m3u</path>
+		<name>Mega lo Mania</name>
+		<sortname />
+		<desc>MegaLoMania est un jeu de stratégie sur Atari ST. Choisissez parmi quatre personnages celui qui vous représentera le mieux et c'est à la tête de cent soldats que vous commencez la campagne. Le jeu est divisé en dix niveaux, et il est possible de former des alliances temporaires avec vos adversaires pour vous débarrasser d'un ennemi particulièrement coriace. La meilleure stratégie l'emportera !</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sensible Software</developer>
+		<publisher>Imageworks</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Mega lo Mania.jpg</image>
+		<video>./snaps/Mega lo Mania.mp4</video>
+	</game>
+	<game>
+		<path>./Menace.m3u</path>
+		<name>Menace</name>
+		<sortname />
+		<desc>Six ruthless dictators have collaborated to create the planet Draconia, which contains some of the most gruesome and harmful life-forms imaginable, all indulging in some rather unsavoury actions. Thus, you must go in your spaceship to destroy them all. The game is a side-scrolling R-Type-influenced shoot 'em up consisting of six visually-diverse levels. Waves of enemies come towards you to be shot, and reveal tokens, which when shot at will cycle through several available weapons. These include lasers, cannons, improved ship power and a shield.</desc>
+		<rating>0.8</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Psyclapse</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Menace.jpg</image>
+		<video>./snaps/Menace.mp4</video>
+	</game>
+	<game>
+		<path>./metro-cross_us_gold.stx</path>
+		<name>Metro-Cross</name>
+		<sortname />
+		<desc>Simple side-scrolling game, where you play a skater who has to pass a set of obstacles in order to reach the end of the level. You can skate up or down in the screen, or even jump, to be safe from the pipes you encounter on the way. As the game progresses, obstacles are more frequent and more challenging, but the essence is the same. Timing is everything in this game.</desc>
+		<rating>0.65</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>Namco</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/metro-cross_us_gold.jpg</image>
+		<video>./snaps/metro-cross_us_gold.mp4</video>
+	</game>
+	<game>
+		<path>./Moon_Patrol.st</path>
+		<name>Moonpatrol</name>
+		<sortname />
+		<desc>The moon is under attack from a horde of aliens, and you must stop them in your armed buggy. Drive along the surface shooting the aliens and avoiding their bullets. The surface is not flat, there are craters and rocks to avoid contact with, and landmines on the surface. Flying saucers create new craters when they crash. The 25 restart points are letter-coded.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Irem</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Moon_Patrol.jpg</image>
+		<video>./snaps/Moon_Patrol.mp4</video>
+	</game>
+	<game>
+		<path>./Moonshine Racer.m3u</path>
+		<name>Moonshine Racer</name>
+		<sortname />
+		<desc>Ike and Billy Joe are running illegal booze around the US, and you must take control of their vehicle and make sure they complete each part of their journey. The action is viewed from above and behind the car, in a similar manner to the OutRun and Lotus games. Gameplay is a sort of reverse Chase H.Q., as you aim to flee Sheriff Sam's staff, without destroying your car or running out of time. As well as typical car upgrades, between stages you can also buy maps, which will help you plan your route.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Peakstar Software</developer>
+		<publisher>Millennium Interactive</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Moonshine Racer.jpg</image>
+		<video>./snaps/Moonshine Racer.mp4</video>
+	</game>
+	<game>
+		<path>./Mouse Trap (1987)(Micro Value).st</path>
+		<name>Mouse Trap</name>
+		<sortname />
+		<desc>MOUSETRAP the best platform styles game written for the ST with superb detailed graphics and compulsive game play. Old in style, brilliant in design, a MUST for every ST owner.</desc>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Micro-Value</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Mouse Trap (1987)(Micro Value).jpg</image>
+		<video>./snaps/Mouse Trap (1987)(Micro Value).mp4</video>
+	</game>
+	<game>
+		<path>./new_zealand_story_(the)_hit_squad_(the).stx</path>
+		<name>New Zealand Story, The</name>
+		<sortname />
+		<desc>One day, a kiwi tribe was having fun and games outside the zoo, only to be kidnapped by the evil-minded Leopard Seal, who plans to sell them at the black market. Fortunately, during the kidnapping process, Tiki, leader of the tribe, managed to escape the sack, and her job is to rescue Phee-Phee and the other kiwis scattered around New Zealand, and are held in cages in various locations that include Auckland, Rotorua, Waitomo Caves, Strait Cook, and Mt. Cook.</desc>
+		<rating>0.5</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/new_zealand_story_(the)_hit_squad_(the).jpg</image>
+		<video>./snaps/new_zealand_story_(the)_hit_squad_(the).mp4</video>
+	</game>
+	<game>
+		<path>./nitro_boost_challenge.stx</path>
+		<name>Nitro Boost Challenge</name>
+		<sortname />
+		<desc>In Nitro Boost Challenge, the player takes the role of a stunt man who has to drive a car through five dangerous film scenes. This game is a vertically scrolling shooter in which the player has to dodge bombs dropped from the sky, other cars which use guns to damage the player's vehicle and stationary obstacles on the ground. The player has a gun to shoot back, but the main challenge is to finish the course within the time limit. The player can control the speed of the car and use nitro pills for a temporary boost. If too much damage is sustained, the player dies.</desc>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Code Masters</developer>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/nitro_boost_challenge.jpg</image>
+		<video>./snaps/nitro_boost_challenge.mp4</video>
+	</game>
+	<game>
+		<path>./North_&amp;_South.stx</path>
+		<name>North and South</name>
+		<sortname />
+		<desc>Based on the Belgian comic book, "Les Tuniques Bleues", this strategy game allows you to replay the American Civil War from both the North and the South sides. In the strategy part of the game, you can move your troops on a map of the US. If two opposing armies enter the same state, the battle is played out in an action sequence. Additional action sequences must be accomplished when capturing an enemy fort or train.</desc>
+		<rating>0.85</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/North_&amp;_South.jpg</image>
+		<video>./snaps/North_&amp;_South.mp4</video>
+	</game>
+	<game>
+		<path>./obitus.m3u</path>
+		<name>Obitus</name>
+		<sortname />
+		<desc>Wil Mason has been transported to the fantasy world of Middlemere, which is ruled by four rival brothers. Wils aim is to find the secret to how he was transported here and discover a way back.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Scenario Developments</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/obitus.jpg</image>
+		<video>./snaps/obitus.mp4</video>
+	</game>
+	<game>
+		<path>./Operation Wolf.m3u</path>
+		<name>Operation Wolf</name>
+		<sortname />
+		<desc>You have been recruited for Operation Wolf, a desperate attempt to rescue prisoners from the enemy. Through a series of missions, you'll engage a variety of enemies, from soldiers to ninjas, patrol boats to helicopters, and more. Can you carry the day?</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Operation Wolf.jpg</image>
+		<video>./snaps/Operation Wolf.mp4</video>
+	</game>
+	<game>
+		<path>./Ork.m3u</path>
+		<name>Ork</name>
+		<sortname />
+		<desc>Ork tells the story of a young alien military cadet Ku-Kabul, who is beamed town to the surface of Ixion - the planet of trials. Once on the surface, he must complete 5 survival boot camps and become the Legion-Command Officer or die trying. In addition to blasting enemies, the player must complete tasks reminiscent of adventure games. Examples including locating and delivering a payment to a gate keeper, finding a specific key to open a door, or locating an orb to deflect lasers.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>WJS Design</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Ork.jpg</image>
+		<video>./snaps/Ork.mp4</video>
+	</game>
+	<game>
+		<path>./pacmania.stx</path>
+		<name>Pacmania</name>
+		<sortname />
+		<desc>Pac-Mania is a variation on the game Pac-Man. You need to guide Pac-Man around a maze and eat all of the dots on the board in order to proceed on to the next round. Numerous, multi-colored ghosts also roam the maze trying to stop you. If you eat one of the power pellets in the maze, the ghosts will temporarily turn blue and run from you. Pac-man can earn bonus points by eating the ghosts when they are in this state. The maze is now in 3-D and is larger than screen which will scroll to follow the action. To help get out of tight spots, Pac-Man now has the ability to jump. But be careful, because some of the ghosts have learned this trick as well and you could end up in a mid air collision!</desc>
+		<rating>0.8</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Grandslam Entertainment Ltd.</developer>
+		<publisher>Teque</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/pacmania.jpg</image>
+		<video>./snaps/pacmania.mp4</video>
+	</game>
+	<game>
+		<path>./Pirates (1989)(MicroProse)[cr Delight].st</path>
+		<name>Pirates</name>
+		<sortname />
+		<desc>Take on the life of a buccaneer in the golden age of Caribbean Piracy! This game lets you choose from 6 different "ages" (for example, "The Silver Empire" from 1560-1600, "War For Profit" from 1640-1660, etc.), one of 4 nationalities (English, French, Dutch, Spanish), 4 difficulty levels, and one of 5 special abilities (skill at fencing, skill at navigation, etc.). Nine different types of ships were represented.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>MicroProse</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Pirates (1989)(MicroProse)[cr Delight].jpg</image>
+		<video>./snaps/Pirates (1989)(MicroProse)[cr Delight].mp4</video>
+	</game>
+	<game>
+		<path>./Prehistorik.m3u</path>
+		<name>Prehistorik</name>
+		<sortname />
+		<desc>Prehistorik is a side-view platform game with superficial similarity to Chuck Rock, although the games were developed simultaneously in different countries. You control a neanderthal who must march through hostile pre-historic environments seeking food and keeping himself safe. Some food can be found in caves, but it mainly exists in living animal forms.</desc>
+		<rating>0.65</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Prehistorik.jpg</image>
+		<video>./snaps/Prehistorik.mp4</video>
+	</game>
+	<game>
+		<path>./prince_of_persia_hit_squad.stx</path>
+		<name>Prince of Persia</name>
+		<sortname />
+		<desc>The game is set in medieval Persia. While the sultan is fighting a war in a foreign land, his vizier Jaffar, a wizard, seizes power. His only obstacle to the throne is the Sultan's daughter. Jaffar locks her in a tower and orders her to become his wife, or she would die within 60 minutes.</desc>
+		<rating>0.65</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Broderbund</developer>
+		<publisher>Broderbund</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/prince_of_persia_hit_squad.jpg</image>
+		<video>./snaps/prince_of_persia_hit_squad.mp4</video>
+	</game>
+	<game>
+		<path>./Prophecy I - The Viking Child.m3u</path>
+		<name>Prophecy I: The Viking Child</name>
+		<sortname />
+		<desc>This video game was based on a Viking Child called Brian who must enter the Halls of Valhalla and do battle against the evil god Loki and his minions.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Electronic Zoo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Prophecy I - The Viking Child.jpg</image>
+		<video>./snaps/Prophecy I - The Viking Child.mp4</video>
+	</game>
+	<game>
+		<path>./Quartz (Firebird (UK)).stx</path>
+		<name>Quartz</name>
+		<sortname />
+		<desc>Quartz is a shoot 'em up with a variety of sections. The first section (and every odd-numbered one) is viewed from above and scrolls in every direction. As well as standard attack waves, there are large red/blue/yellow balls which split on impact a lá Asteroids, and once the smallest ones are destroyed they release tokens.</desc>
+		<rating>0.75</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Shirley, Paul</developer>
+		<publisher>Firebird</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Quartz (Firebird (UK)).jpg</image>
+		<video>./snaps/Quartz (Firebird (UK)).mp4</video>
+	</game>
+	<game>
+		<path>./Rainbow_Islands_hitsquad.stx</path>
+		<name>Rainbow Islands</name>
+		<sortname />
+		<desc>Sequel to Bubble Bobble, Rainbow Islands sees Bub and Bob (in 2 player mode), who are now curiously small boys rather than dinosaurs, attempting to rid the Rainbow Islands of bad guys.</desc>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Rainbow_Islands_hitsquad.jpg</image>
+		<video>./snaps/Rainbow_Islands_hitsquad.mp4</video>
+	</game>
+	<game>
+		<path>./Realms.m3u</path>
+		<name>Realms</name>
+		<sortname />
+		<desc>Realms is a medieval real-time strategy game located in a fictive kingdom where the player just has been named king. Your kingdom is threatened by the surrounding realms of different rulers and it is your task to defend yourself and expand your own kingdom in order to become ruler of all realms. The game features 125,000 square miles of fractally-generated landscape, 128 armies with many thousand members each. You can order your armies into different battle formations and conquer countless towns with their inhabitants and its gold treasures</desc>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Graftgold</developer>
+		<publisher>Virgin</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Realms.jpg</image>
+		<video>./snaps/Realms.mp4</video>
+	</game>
+	<game>
+		<path>./robocop_ii_ocean_software.STX</path>
+		<name>Robocop 2</name>
+		<sortname />
+		<desc>RoboCop 2 is a mission-based platform game. Missions have various objectives, such as destroying nukes or killing all the enemies. If you didn't destroy/kill enough, you'll be transported to a training mission, which is a first-person perspective shoot 'em up. Should you also fail the training, you must go to the beginning of the previous mission. Successfully completed mission or enough points scored by training allow you to proceed to the next stage. Unlike in the first RoboCop, there's no time limit, and you are able to jump.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Special FX Ltd.</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/robocop_ii_ocean_software.jpg</image>
+		<video>./snaps/robocop_ii_ocean_software.mp4</video>
+	</game>
+	<game>
+		<path>./Robocop (1989)(Ocean)[cr Equinox][m Atariforce].st</path>
+		<name>Robocop</name>
+		<sortname />
+		<desc>Patrolman Alex Murphy was killed on the streets of Detroit. The major corporation there, Omni Consumer Products (OCP) saw an opportunity to sell a new kind of law enforcement officer to the troubled city. They took what was left of Murphy, encased it in titanium armor, wiped his memory and created RoboCop. Now it's up to RoboCop to clean the streets of Detroit and eliminate the one responsible for his murder, Clarence Boddicker. But it looks like Clarence might not be the kingpin of this town.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Robocop (1989)(Ocean)[cr Equinox][m Atariforce].jpg</image>
+		<video>./snaps/Robocop (1989)(Ocean)[cr Equinox][m Atariforce].mp4</video>
+	</game>
+	<game>
+		<path>./Rock'n Roll.STX</path>
+		<name>Rock'n Roll</name>
+		<sortname />
+		<desc>You know, there's this ball, and it's stuck in a labyrinth for no apparent reason. Never mind -- let's just help him out, okay? You control the friendly, spotted ball with the cursor keys. It'll gain speed as it goes, bounce off when it hits obstacles, loose energy when it's caught in traps, die when it falls off the platform.</desc>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Rainbow Arts Software GmbH</developer>
+		<publisher>Rainbow Arts Software GmbH</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Rock'n Roll.jpg</image>
+		<video>./snaps/Rock'n Roll.mp4</video>
+	</game>
+	<game>
+		<path>./rodland.stx</path>
+		<name>Rodland</name>
+		<sortname />
+		<desc>Rodland is an Arcade/Platformer game that features two fairies called Tam and Rit, whose mission is to rescue their mum who's been captured and taken to a castle. There are 40 screens to clear, all full of baddies, who are disposed of by grabbing them with a stick, and flipping them from side to side to inflict damage. When killed, each bad guy releases some kind of extra, ranging from points bonuses to various devices which can be used to kill other enemies.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Storm</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/rodland.jpg</image>
+		<video>./snaps/rodland.mp4</video>
+	</game>
+	<game>
+		<path>./R-Type II.m3u</path>
+		<name>R-Type II</name>
+		<sortname />
+		<desc>The second R-Type brings more of the same shoot-em up action. Gameplay is identical to the previous R-Type, except you now have two new weapons. There are six levels, with themes similar to the previous game. Notable parts include an underwater battle in level 2, and a giant Bydo fleet in level 3. The Game Boy version of R-Type 2 is missing 1 level and both of the new weapons from the original arcade game.</desc>
+		<rating>0.65</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Arc Developments</developer>
+		<publisher>Activision</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/R-Type II.jpg</image>
+		<video>./snaps/R-Type II.mp4</video>
+	</game>
+	<game>
+		<path>./silkworm-random_access-16_blitz_plus-1991-rerelease.stx</path>
+		<name>Silkworm</name>
+		<sortname />
+		<desc>Silkworm has interesting graphics and relatively fast-paced gameplay. The player can take control of a Jeep mounted with a machine gun or a Helicopter mounted with forward and downward firing guns. Two players can work simultaneously and cooperatively against enemies, with one playing as the Jeep and one as the Helicopter.</desc>
+		<rating>0.65</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Random Access</developer>
+		<publisher>16 Blitz Plus</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/silkworm-random_access-16_blitz_plus-1991-rerelease.jpg</image>
+		<video>./snaps/silkworm-random_access-16_blitz_plus-1991-rerelease.mp4</video>
+	</game>
+	<game>
+		<path>./Skulldiggery.STX</path>
+		<name>Skull Diggery</name>
+		<sortname />
+		<desc>Skull-Diggery is a Boulder Dash-clone for medium resolution. As in the original game you have to collect a certain number of gems in each level to complete it. As you dig your way to the gems you have to be careful so that you don't get crushed by a skull. In some levels there are monsters, if you hit a monster with a skull it will explode and destroy anything within 3x3 square, this can be used to open up walls to sealed gem rooms. Sometimes you have to convert skulls to gems to get enough of them to complete the level.</desc>
+		<rating>0.55</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nexus Productions Ltd.</developer>
+		<publisher>Nexus Productions Ltd.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Skulldiggery.jpg</image>
+		<video>./snaps/Skulldiggery.mp4</video>
+	</game>
+	<game>
+		<path>./Space Harrier (Klapauzius).msa</path>
+		<name>Space Harrier</name>
+		<sortname />
+		<desc>Run, fly, dodge those obstacles, but return fire on wave after wave of attacking aliens. Armed with a really big gun, you have to defend yourself against the alien hordes using your wits to navigate around the screen. But watch out for those end of level bosses!</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>AM2</developer>
+		<publisher>Elite Systems</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Space Harrier (Klapauzius).jpg</image>
+		<video>./snaps/Space Harrier (Klapauzius).mp4</video>
+	</game>
+	<game>
+		<path>./Speedball 2 - Brutal Deluxe (1990)(Bitmap Brothers)[cr Empire][t].st</path>
+		<name>Speedball 2: Brutal Deluxe</name>
+		<sortname />
+		<desc>SOME DAY, ALL SPORT WILL BE PLAYED THIS WAY It's two years since the last ball was thrown on a Speedball pitch. There are new teams, new stadia and new rules. The arena is bigger, the players are tougher and the action is faster than ever before. The challenge is this. Take control of Brutal Deluxe, the worst team in Speedball history, and turn them into champions.</desc>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Imageworks</developer>
+		<publisher>The Bitmap Brothers</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Speedball 2 - Brutal Deluxe (1990)(Bitmap Brothers)[cr Empire][t].jpg</image>
+		<video>./snaps/Speedball 2 - Brutal Deluxe (1990)(Bitmap Brothers)[cr Empire][t].mp4</video>
+	</game>
+	<game>
+		<path>./Spherical (1989)(Rainbow Arts).st</path>
+		<name>Spherical</name>
+		<sortname />
+		<desc>Solomon's Key is a clear conceptual influence for this action puzzler. Our hero must guide a ball through a level to the spot marked 'In', by creating and removing blocks to alter its path. The game is prevented from being a pure clone due to the ball, which moves automatically once activated, and can be controlled by using strategically-placed blocks.</desc>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Rainbow Arts</developer>
+		<publisher>Rainbow Arts</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Spherical (1989)(Rainbow Arts).jpg</image>
+		<video>./snaps/Spherical (1989)(Rainbow Arts).mp4</video>
+	</game>
+	<game>
+		<path>./star_goose-everett_graham-16bit_pocket_power_collection-1991-rerelease.stx</path>
+		<name>Star Goose</name>
+		<sortname />
+		<desc>Star Goose is a single-player vertically scrolling shooter where the player controls the character of Scouser-Gitt, a pilot who flies the eponymous Star Goose vessel.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>16Bit Pocket Power Collection Arts</developer>
+		<publisher>16Bit Pocket Power Collection Arts</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/star_goose-everett_graham-16bit_pocket_power_collection-1991-rerelease.jpg</image>
+		<video>./snaps/star_goose-everett_graham-16bit_pocket_power_collection-1991-rerelease.mp4</video>
+	</game>
+	<game>
+		<path>./Starglider 2 (1988)(Rainbird)[cr Union][a2].st</path>
+		<name>Starglider 2</name>
+		<sortname />
+		<desc>More space combat and strategy in this sequel, which challenges you to collect the elements to form a bomb to destroy a resistance force, before delivering them through heavy fighting. Each planet has its own characteristics, with differing inhabitants and features.</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Argonaut Software</developer>
+		<publisher>Rainbird Software</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Starglider 2 (1988)(Rainbird)[cr Union][a2].jpg</image>
+		<video>./snaps/Starglider 2 (1988)(Rainbird)[cr Union][a2].mp4</video>
+	</game>
+	<game>
+		<path>./Starglider (1987)(Rainbird)[m EMT].st</path>
+		<name>Starglider</name>
+		<sortname />
+		<desc>The Planet Novenia has been attacked by the Egrons, who snuck in by disguising their craft as the protected Starglider species, which Novenia's automated defenses were programmed not to shoot. Your task is to fight them off using only an obsolete Airborne Ground Attack Vehicle. This was designed as the ultimate combat machine, with sophisticated hardware up to Draziw Yarg's high standards. It has a fully-rechargeable shield, plasma drive unit, an inbuilt scanner and 10,000-sector map, a top speed of 2550 Urads and two homing missiles.</desc>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Argonaut Software</developer>
+		<publisher>Rainbird Software</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Starglider (1987)(Rainbird)[m EMT].jpg</image>
+		<video>./snaps/Starglider (1987)(Rainbird)[m EMT].mp4</video>
+	</game>
+	<game>
+		<path>./Starray.STX</path>
+		<name>Starray</name>
+		<sortname />
+		<desc>StarRay is a video game developed by Hidden Treasures and published by Logotron in 1988.[1] Released for the Amiga, Atari ST, and Commodore 64, the game is an update on the concept of 1981 arcade game Defender, with faster gameplay and more detailed graphics and sound.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hidden Treasures</developer>
+		<publisher>Logotron</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Starray.jpg</image>
+		<video>./snaps/Starray.mp4</video>
+	</game>
+	<game>
+		<path>./Stone Age.STX</path>
+		<name>Stone Age</name>
+		<sortname />
+		<desc>Stone Age is a challenging puzzle game where you are in control of a dinosaur and you have to make him reach the exit of each cave. The dinosaur can only walk on certain blocks on the level: some are just ordinary blocks, some are movable in the direction the arrow points, some crumble after you walk on them, and some have coloured keys which are needed to get past locks of the same colour.</desc>
+		<rating>0.95</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Stonehenge Soft Art</developer>
+		<publisher>Eclipse Software</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Stone Age.jpg</image>
+		<video>./snaps/Stone Age.mp4</video>
+	</game>
+	<game>
+		<path>./Super Cars II (1991)(Gremlin)[cr Elite].st</path>
+		<name>Super Cars II</name>
+		<sortname />
+		<desc>The follow up to Magnetic Fields' earlier racing game develops the format in several ways. As before, the racing is overhead view and against a field of 9 computer cars, with championship points awarded for finishing positions. The computer drivers now take on the humourous names from Lotus 1, such as 'Ayrton Sendup' and 'T Hairy Bootson'. The most noticeable addition is a split screen 2 player mode.</desc>
+		<rating>0.5</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Magnetic Fields</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<image>./boxart/Super Cars II (1991)(Gremlin)[cr Elite].jpg</image>
+		<video>./snaps/Super Cars II (1991)(Gremlin)[cr Elite].mp4</video>
+	</game>
+	<game>
+		<path>./Super Stario Land (1995)(Top Byte)[cr Elite][m Atariforce][t +14].st</path>
+		<name>Super Stario Land</name>
+		<sortname />
+		<desc>A platformer game inspired by Super Mario Land on the Atari ST. You control a character (that's best left undescribed) through the platforms while collecting coins and stomping on enemies. The levels are procedurally generated.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Top Byte</developer>
+		<publisher>Top Byte</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Super Stario Land (1995)(Top Byte)[cr Elite][m Atariforce][t +14].jpg</image>
+		<video>./snaps/Super Stario Land (1995)(Top Byte)[cr Elite][m Atariforce][t +14].mp4</video>
+	</game>
+	<game>
+		<path>./switchblade_kixx.STX</path>
+		<name>Switchblade</name>
+		<sortname />
+		<desc>Switchblade is a side-scrolling action-platform game with run and gun elements where players assume the role of Hiro on his quest through a subterranean labyrinth in Undercity, fighting against enemies and avoiding hazards in order to reunite 16 scattered fragments of the sacred Fireblade sword and use it against Havok, an evil entity who broke free from his imprisonment.</desc>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Gremlin Graphics</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/switchblade_kixx.jpg</image>
+		<video>./snaps/switchblade_kixx.mp4</video>
+	</game>
+	<game>
+		<path>./swiv_storm.STX</path>
+		<name>SWIV</name>
+		<sortname />
+		<desc>SWIV was an original vertical scrolling shooter that was an unofficial follow-up to Sales Curve's hit conversion of the side scroller Tecmo arcade game Silkworm.</desc>
+		<rating>0.55</rating>
+		<releasedate>19910228T000000</releasedate>
+		<developer>Random Access</developer>
+		<publisher>Sales Curve</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/swiv_storm.jpg</image>
+		<video>./snaps/swiv_storm.mp4</video>
+	</game>
+	<game>
+		<path>./TECHNOCOP[one disk].ST</path>
+		<name>Technocop</name>
+		<sortname />
+		<desc>Techno Cop is set in the near future. You are a cop who seeks to clear his town of all the criminal scum. The game consists of two parts; one driving-action and one sidescrolling-action. In the first part you drive around in your red Ferrari and destroy hostile cars; in the second part, you turn somersaults over gaps, use elevators and shoot lots of enemies until you reach the boss. After having killed / caught the villain, it's back to the road again for the next mission.</desc>
+		<rating>0.75</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Gray Matter</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/TECHNOCOP[one disk].jpg</image>
+		<video>./snaps/TECHNOCOP[one disk].mp4</video>
+	</game>
+	<game>
+		<path>./Tetris.STX</path>
+		<name>Tetris</name>
+		<sortname />
+		<desc>Mirrorsoft's version of Tetris, which was the first commercially available version of the game.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Andromeda Software</developer>
+		<publisher>Mirrorsoft</publisher>
+		<genre>Puzzle</genre>
+		<players>1-6</players>
+		<image>./boxart/Tetris.jpg</image>
+		<video>./snaps/Tetris.mp4</video>
+	</game>
+	<game>
+		<path>./The Bard's Tale (Klapauzius).msa</path>
+		<name>The Bard's Tale</name>
+		<sortname />
+		<desc>Long ago, when magic still prevailed, the evil wizard Mangar the Dark threatened a small but harmonious country town called Skara Brae. Evil creatures oozed into Skara Brae and joined his shadow domain. Mangar froze the surrounding lands with a spell of Eternal Winter, totally isolating Skara Brae from any possible help. Then, one night, the town militiamen all disappeared.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/The Bard's Tale (Klapauzius).jpg</image>
+		<video>./snaps/The Bard's Tale (Klapauzius).mp4</video>
+	</game>
+	<game>
+		<path>./Thunder Blade.m3u</path>
+		<name>Thunderblade</name>
+		<sortname />
+		<desc>Aboard the lethal Gunship Gladiator helicopter, it is your job to ensure that a coup fails to install a dictator as leader. The game features 12 levels split into three distinct styles. First of all you'll be flying over a city in your helicopter, shootin</desc>
+		<rating>0.4</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Thunder Blade.jpg</image>
+		<video>./snaps/Thunder Blade.mp4</video>
+	</game>
+	<game>
+		<path>./Toki (Hit Squad).stx</path>
+		<name>Toki</name>
+		<sortname />
+		<desc>The hero of the game is a young jungle-man named Toki. One day the evil wizard Dr. Stark kidnaps his girlfriend Wanda. When Toki tries to save her, he is turned into a monkey! Now Toki has to find Dr. Stark in his palace, to rescue Wanda, and to become a human being again!</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Tad Corporation</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Toki (Hit Squad).jpg</image>
+		<video>./snaps/Toki (Hit Squad).mp4</video>
+	</game>
+	<game>
+		<path>./Treasure Island Dizzy.ST</path>
+		<name>Treasure Island Dizzy</name>
+		<sortname />
+		<desc>This is Dizzy's second adventure. Dizzy is a cute little egg character who must explore the strange magic kingdom that is Treasure Island, solving problems and puzzles, and end the terror of the evil Pirates that rule the island.</desc>
+		<rating>0.9</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Treasure Island Dizzy.jpg</image>
+		<video>./snaps/Treasure Island Dizzy.mp4</video>
+	</game>
+	<game>
+		<path>./Turrican.stx</path>
+		<name>Turrican</name>
+		<sortname />
+		<desc>Three-headed demon Morgul has been influencing people's dreams to create nightmares, but more recently these nightmares have become real. Only Turrican can save them in this fast paced side scrolling shoot-em up. It features 5 worlds and 13 levels of challenging gameplay.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Rainbow Arts</developer>
+		<publisher>Rainbow Arts</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Turrican.jpg</image>
+		<video>./snaps/Turrican.mp4</video>
+	</game>
+	<game>
+		<path>./The Untouchables.m3u</path>
+		<name>Untouchables, The</name>
+		<sortname />
+		<desc>You are The Untouchables in this side-scrolling action game. Play as Elliot Ness after the ruthless Mafia boss Al Capone. You have various tasks throughout the six levels and a variety of weapons to pick up such as a shotgun or tommy gun. Watch out for Capone’s henchmen though.</desc>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Special FX Software Ltd.</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/The Untouchables.jpg</image>
+		<video>./snaps/The Untouchables.mp4</video>
+	</game>
+	<game>
+		<path>./Weird Dreams (1989)(Rainbird)[cr Replicants].st</path>
+		<name>Weird Dreams</name>
+		<sortname />
+		<desc>A severely ill man is on the operating table when a Daemon named Emily trapping you in your own subconscious. To escape you must find four orbs, which are trapped within a selection of esoteric mini-games set within the darkest Dali-influenced recesses of the mind.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<publisher>Rainbird</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Weird Dreams (1989)(Rainbird)[cr Replicants].jpg</image>
+		<video>./snaps/Weird Dreams (1989)(Rainbird)[cr Replicants].mp4</video>
+	</game>
+	<game>
+		<path>./Wings of Death.m3u</path>
+		<name>Wings of Death</name>
+		<sortname />
+		<desc>Wings of Death is a vertically scrolling shoot'em'up with a fantasy setting. You start out as a small insect, flying through a deranged castle filled with hostile animals and monsters.</desc>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Eclipse</developer>
+		<publisher>Thalion</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Wings of Death.jpg</image>
+		<video>./snaps/Wings of Death.mp4</video>
+	</game>
+	<game>
+		<path>./Wrath of the Demon.m3u</path>
+		<name>Wrath of the Demon</name>
+		<sortname />
+		<desc>The mighty wizard Anthrax, in an attempt to usurp authority over the kingdom, has summoned a horrifying Demon. The Demon makes good on his chartered task by summoning a horde of monsters to lay waste to the kingdom at large. Fortuitously, a random stranger is strolling nearby the kingdom and realizes that only he can beat back the foul creatures.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Abstrax</developer>
+		<publisher>ReadySoft</publisher>
+		<genre>Action</genre>
+		<players>1-8</players>
+		<image>./boxart/Wrath of the Demon.jpg</image>
+		<video>./snaps/Wrath of the Demon.mp4</video>
+	</game>
+	<game>
+		<path>./Zynaps.STX</path>
+		<name>Zynaps</name>
+		<sortname />
+		<desc>This horizontally-scrolling shoot 'em up features 16 levels and 450 screens of Nemesis-inspired action. You pilot a spacecraft through the levels, shooting as many of the encroaching meanies and mounted turrets as possible. Power-up tokens are offered for shooting some, which can be used to obtain better weapons including ground-attack lasers, speed ups and multiple bullets. Extra lives are on offer as well, which you'll certainly need, especially as you have to go back a long way when losing a life.</desc>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hewson</developer>
+		<publisher>Hewson</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Zynaps.jpg</image>
+		<video>./snaps/Zynaps.mp4</video>
+	</game>
+	<game>
+		<path>./Risky Wood (1992)(Electronic Arts)[cr ICS][t].st</path>
+		<name>Risky Wood</name>
+		<sortname />
+		<desc>The ancient monks who preserve the wisdom of the Lost Lands have been frozen in stone by Draxos and his minions.[3] Young Rohan must plunge into the Risky Woods to release them. Only then can wisdom triumph once again.</desc>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Risky Wood (1992)(Electronic Arts)[cr ICS][t].jpg</image>
+		<video>./snaps/Risky Wood (1992)(Electronic Arts)[cr ICS][t].mp4</video>
+	</game>
+	<game>
+		<path>./SUPERSPR.ST</path>
+		<name>Super Sprint</name>
+		<sortname />
+		<desc>Up to three players drive simultaneously on a circuit against opponents controlled by the computer. The circuits are viewed from above and always fit on the screen, so the game never scrolls.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Atari Games</developer>
+		<publisher>Atari Games</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/SUPERSPR.jpg</image>
+		<video>./snaps/SUPERSPR.mp4</video>
+	</game>
+</gameList>

@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Videopac G7000</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Attack of the Timelord (USA).zip</path>
+		<name>Attack of the Timelord!</name>
+		<sortname />
+		<desc>You have just attracted the attention of Spyrus the Deathless - Timelord of Chaos. Your only defense is a laser cannon mounted on the leading edge of your Time Machine. Fortunately, you have an unlimited supply of laser energy. You'll need it.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Attack of the Timelord (USA).jpg</image>
+		<video>./snaps/Attack of the Timelord (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Computer Golf (USA).zip</path>
+		<name>Computer Golf!</name>
+		<sortname />
+		<desc>COMPUTER GOLF! A nine hole, par 36. electronic golf course for one to four players. Realistic electronic golfers hit long drives and fairway shots! They pitch and chip up to the green! Suddenly?the screen changes automatically to show a close-up of the green itself. Putt out?then go on to a new hole with a different layout and challenge! This is a remarkably complete electronic simulation. You really walk the course and have true control over back-swing, distance and direction. Hit into the trees and your electronic golfer will pound the ground with a club and spout some extremely colorful electronic language! Digital scoring! Sync-sound action!</desc>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Computer Golf (USA).jpg</image>
+		<video>./snaps/Computer Golf (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Freedom Fighters (USA, Europe).zip</path>
+		<name>Freedom Fighters!</name>
+		<sortname />
+		<desc>As a pilot of the Earth Federation, the player has to rescue prisoners in orbiting confinement crystals, while avoiding the Empire's Pulsar warships attacks. The starship is controlled using both joysticks. The left hand joystick controls the conventional space drive system.</desc>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Freedom Fighters (USA, Europe).jpg</image>
+		<video>./snaps/Freedom Fighters (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./K.C. Munchkin (USA).zip</path>
+		<name>K.C. Munchkin!</name>
+		<sortname />
+		<desc>K.C. Munchkin is a blue furry antennaed critter who's hungry for Munchies that float around in a maze. However, there are three antennaed Munchers who are hungry for K.C., so K.C. must avoid running into them unless he eats the special blinking Munchies t</desc>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/K.C. Munchkin (USA).jpg</image>
+		<video>./snaps/K.C. Munchkin (USA).mp4</video>
+	</game>
+	<game>
+		<path>./K.C.'s Krazy Chase (USA, Europe).zip</path>
+		<name>K.C.'s Krazy Chase!</name>
+		<sortname />
+		<desc>K.C.'s KRAZY CHASE! The chase is really crazy because while K.C. Munchkin is chasing one end of the dreaded Dratapillar - the other end is chasing him - and so are the dreaded Dratapillar's dreadful Drats! Skill levels automatically increase as you play. Choose from five different mazes - or use the keyboard to make up your own! Advanced digital scoring with memory displays high score! Full sync-sound action - plus speech is played through the Voice of Odyssey2. Any number can play.</desc>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/K.C.'s Krazy Chase (USA, Europe).jpg</image>
+		<video>./snaps/K.C.'s Krazy Chase (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Killer Bees (USA).zip</path>
+		<name>Killer Bees!</name>
+		<sortname />
+		<desc>The Beebots from the insect civilization of BEM are invading the Earth, protected by swarms of Killer Bees, and it's up to a swarm of white bees to stop them. The player control the white bees swarm, trying to kill the Beebots by flying over them and stinging them. The longer the swarm flies over a Beebot, the slower it moves, until it finally stops and dies. When a Beebot dies, a grave marker will be raised in its place, making the movement of the remaining Beebots more difficult. The red Beebots move clockwise, the blue ones move counterclockwise.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Killer Bees (USA).jpg</image>
+		<video>./snaps/Killer Bees (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Monkeyshines (USA, Europe).zip</path>
+		<name>Monkeyshines!</name>
+		<sortname />
+		<desc>MONKEYSHINES! Five computerized "puzzle games" filled with action-packed monkey business! You'll go ape over Monkey Tag, Monkey Chess, Tailspin, Shuteye and Bananas! You have to be as agile as four computer-smart monkeys that run, jump, climb, tease, dive, swing, hop, spin, scamper and cavort over virtually endless patterns of monkey bars! There are literally trillions of possible combinations! Skill levels increase automatically - or choose a different skill level at any time! Onscreen digital scoring with memory for high game in series! Full sync-sound action! 1, 2 or 3 players!</desc>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Monkeyshines (USA, Europe).jpg</image>
+		<video>./snaps/Monkeyshines (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Pick Axe Pete (USA, Europe).zip</path>
+		<name>Pick Axe Pete!</name>
+		<sortname />
+		<desc>Pick Axe Pete is in the Misty Mountain Mine, trying to strike it rich. The player controls Pick Axe Pete in a platformed mine. Three doors leading to deeper parts of the mine are displayed, and from them, gold bearing rocks will burst in random intervals.</desc>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Pick Axe Pete (USA, Europe).jpg</image>
+		<video>./snaps/Pick Axe Pete (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Turtles (USA).zip</path>
+		<name>Turtles!</name>
+		<sortname />
+		<desc>Turtles, also known as Turpin, puts you into the role of the maternalistic turtle who tries to save the kidturtles from a bunch of bad bugs (or, in some versions, bad cars). It takes place in a Pacman-esque labyrinth, with turtle boxes in the centre and corners of the screen. Run into a box to release the turtle kid inside. Opening a box makes a little house show up, and you must go with the kidturtle to the house before you can release the next one.</desc>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Turtles (USA).jpg</image>
+		<video>./snaps/Turtles (USA).mp4</video>
+	</game>
+	<game>
+		<path>./UFO (USA).zip</path>
+		<name>UFO!</name>
+		<sortname />
+		<desc>Commanding of one of Earth Federation's robot-controlled battle cruisers, the player must protect Earth from an invasion of unidentified flying objects.</desc>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/UFO (USA).jpg</image>
+		<video>./snaps/UFO (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Robot City (Europe) (Proto).zip</path>
+		<name>Robot City</name>
+		<sortname />
+		<desc>The lethal and merciless Andromeda Robots managed to build a city on Earth, called "Robot City", from where they will try to conquer the Earth. The player infiltrated the city and must destroy all robots.</desc>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Robot City (Europe) (Proto).jpg</image>
+		<video>./snaps/Robot City (Europe) (Proto).mp4</video>
+	</game>
+	<game>
+		<path>./Quest for the Rings (USA, Europe).zip</path>
+		<name>Quest for the Rings!, The</name>
+		<sortname />
+		<desc>THE QUEST FOR THE RINGS! Ten rings of power lie hidden within the Dark Lands of the evil Ringmaster. In gloomy dungeons, crystal caverns, molten infernos, and mysterious shifting halls. Each posing its own challenge, and it's own threat! Each ring is guarded by the treacherous minions of evil that lurk within these halls of doom. Menacing Ores and Firewraths, the loathsome Spydroth Tyrantulus, Doomwinged Bloodthursts, and hideous fire-breathing dragons! The Quest for the Rings is the first of a new Master Strategy Series from Odyssey. Applauded as a first by true game enthusiasts. Offering the combined fast pace and excitement of on-screen action with the intense strategy of gameboard competition!</desc>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Puzzle</genre>
+		<players>1-5</players>
+		<image>./boxart/Quest for the Rings (USA, Europe).jpg</image>
+		<video>./snaps/Quest for the Rings (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Baseball (USA, Europe).zip</path>
+		<name>Baseball!</name>
+		<sortname />
+		<desc>the scoreboard at the lower left side of the screen indicate Balls, Strikes and Outs, in that order. Players on defense can control the outfielders with the joystick. D</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Baseball (USA, Europe).jpg</image>
+		<video>./snaps/Baseball (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Smithereens (USA).zip</path>
+		<name>Smithereens!</name>
+		<sortname />
+		<desc>This game takes place in a time when knights were bold and castle crumbling was one of the most popular sports. In this Artillery clone, two players must try to destroy each other's castle with their catapults.</desc>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Philips Interactive Media</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Smithereens (USA).jpg</image>
+		<video>./snaps/Smithereens (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Atlantis (USA, Europe).zip</path>
+		<name>Atlantis</name>
+		<sortname />
+		<desc>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with weapons capable of destroying a part of the city. You are in charge of the command posts at the edges of the city and need to defend it from the invaders. The various gorgon craft will keep flying by on the screen in varying numbers and in different flight patterns. At first they fly high in the sky but then progressively lower. If an enemy makes it low enough before you destroy it, it will use it's weapons and destroy one of the buildings in Atlantis. As you progress in the game, the enemy craft will keep increasing in speed. The game ends when all remaining buildings in the city have been destroyed.</desc>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Atlantis (USA, Europe).jpg</image>
+		<video>./snaps/Atlantis (USA, Europe).mp4</video>
+	</game>
+</gameList>

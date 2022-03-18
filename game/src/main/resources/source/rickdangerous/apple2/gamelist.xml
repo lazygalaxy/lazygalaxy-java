@@ -1,0 +1,1707 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./The Ice Cave.dsk</path>
+		<name>Ice Cave, The</name>
+		<sortname />
+		<desc>The Ice Cave is a 1-player arcade game for the Apple II. The player controls a spaceship which can move horizontally and fire vertically. Set within a cavern of ice, the player must combat a number of alien creatures which attempt to fire on the player. The player loses a life if they strike enemy fire. When the player clears all enemies on a stage, they advance to a more difficult level. The player starts with 5 lives, and when all are lost it’s game over.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Winner’s Circle</developer>
+		<publisher>Winner’s Circle</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/The Ice Cave.jpg</image>
+		<video>./snaps/The Ice Cave.mp4</video>
+	</game>
+	<game>
+		<path>./A-E.dsk</path>
+		<name>A.E.</name>
+		<sortname />
+		<desc>[!! 2-disc game - swapping needed !!] --- A.E. is a Space Invaders inspired game with a 3D view. The earth is under attack by swarms of aliens who drop bomb after bomb and it’s your job to defend planet Earth. You control a laser cannon that moves horizontally at the bottom of the screen. To earn point you should shoot all the alien forces before they shoot you! The game becomes more challenging when you progress in the game as the alien swarm splits up and attack you from several sides.</desc>
+		<rating>0.6</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Programmers-3, Inc.</developer>
+		<publisher>Brøderbund Software, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/AE.jpg</image>
+		<video>./snaps/AE.mp4</video>
+	</game>
+	<game>
+		<path>./Airheart.dsk</path>
+		<name>Airheart</name>
+		<sortname />
+		<desc>Operating a floatation device similar to Toobin‘, but jet-propelled, you challenge for supreme title of Airheart as you navigate or fight against robotic defenses. The robots themselves can harm you and the craft, destroying them without removing their pod they will reemerge. Spirit guardians will instruct you to gather certain items like a sword or goblet before you can enter the last battle and free the infant boy prince. Beware of the bubbles that encase you or dangers on and underwater.</desc>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Dan Gorlin Productions</developer>
+		<publisher>Brøderbund Software</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Airheart.jpg</image>
+		<video>./snaps/Airheart.mp4</video>
+	</game>
+	<game>
+		<path>./Alien Ambush.dsk</path>
+		<name>Alien Ambush</name>
+		<sortname />
+		<desc>A rather simple, yet original, vertical space Shoot’em Up. You control a small space fighter tasked with extermination of hordes of alien spaceships. At first, different slow moving motherships attack you in four separate waves. When hit they release two smaller but much faster moving shuttles. To progress to the next attack wave the player must shoot down both the mothership and the two shuttles capsules while evading getting hit by either. In later stages two motherships will appear on the screen at the same time and their movement speed will gradually increase. The game loops endlessly until the player runs out of lives.</desc>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Micro Distributors</developer>
+		<publisher>Micro Distributors</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Alien Ambush.jpg</image>
+		<video>./snaps/Alien Ambush.mp4</video>
+	</game>
+	<game>
+		<path>./Alien Typhoon.dsk</path>
+		<name>Alien Typhoon</name>
+		<sortname />
+		<desc>Alien Typhoon is an enhanced version of Apple Galaxian,with more aliens on screen. In essence it is a variant of the arcade game Galaxian. It is a shoot-‚em-up where a formation of alien ships attack your lone starship at the bottom of the screen. The aliens peel off from the formation and attack you in different patterns, depending on the color of the ship. The two ships at the top are the motherships and they bring an escort of two red aliens with them to guard them, but if you can shoot the escort and then the mothership, you’ll score lots of points.</desc>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>StarCraft, Inc.</developer>
+		<publisher>Brøderbund Software</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Alien Typhoon.jpg</image>
+		<video>./snaps/Alien Typhoon.mp4</video>
+	</game>
+	<game>
+		<path>./Apple Panic.dsk</path>
+		<name>Apple Panic</name>
+		<sortname />
+		<desc>Apple Panic is a platform game based on the arcade game Space Panic (1980, Universal) and ported to the Apple II by Ben Serki. You control a digger, armed with his shovel, and you must kill your opponents - the evil legged apples. Your character can only walk left/right and climb up/down the ladders - no jumping - and if the apples touch you, you’ll lose.</desc>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Brøderbund Software</developer>
+		<publisher>Brøderbund Software</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Apple Panic.jpg</image>
+		<video>./snaps/Apple Panic.mp4</video>
+	</game>
+	<game>
+		<path>./Apple Stellar Invaders.dsk</path>
+		<name>Apple Stellar Invaders</name>
+		<sortname />
+		<desc>Apple Stellar Invaders is a 1 player space-themed arcade game for the Apple II. Based upon Space Invaders, the player controls a small ship which can move horizontally left and right, and fire vertically. There are 3 defensive shields which can block the aliens‘ or player’s shots. The player’s goal is to shoot all alien vessels on the screen. The player received 1 point per alien destroyed for the first row, 2 points for the second row, and so on. Alien saucers appear above the screen for bonus points. The player starts with 5 lives, but it’s game over if all lives are lost or if the invaders reach the bottom of the screen. The vessel can be controlled with the keyboard or game paddles.</desc>
+		<rating>0.4</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Apple Computer, Inc.</developer>
+		<publisher>Apple Computer, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Apple Stellar Invaders.jpg</image>
+		<video>./snaps/Apple Stellar Invaders.mp4</video>
+	</game>
+	<game>
+		<path>./Aquatron.dsk</path>
+		<name>Aquatron</name>
+		<sortname />
+		<desc>Aquatron is a side-scrolling Shoot’em Up in which the player controls a spaceship over a planet completely covered with water. The spaceship is able to move both over and under water. Ammo and shield can be replenished by collecting parachutes which are dropped by the home base (a zeppelin) stationed somewhere over the planet. The most important tasks is to keep it alive because the spawn points (an additional respectively new base appears) are far between - which means the player may have to survive without replenishment for a few levels when the base is destroyed. Enemies also drop parachutes which turn into submarines after reaching the water surface.</desc>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Aquatron.jpg</image>
+		<video>./snaps/Aquatron.mp4</video>
+	</game>
+	<game>
+		<path>./Ardy The Aardvark.dsk</path>
+		<name>Ardy The Aardvark</name>
+		<sortname />
+		<desc>Ardy the Aardvark is a maze-game inspired by, and a near clone of, the arcade game Anteater. The player navigates the tongue of the animal as it moves through an underground maze. The objective is to eat drops of food lying underground while trying to evade worms, stinging ants and spiders. While the worms can pass through the tongue and only cause aardvark’s death when being directly in touch with his tip of the tongue, other critters will instantly kill the player upon touching any part of the tongue. The lowest levels of the underground area usually have two special objects which clear out the whole screen from enemies if touched by Ardy’s tongue.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Datamost, Inc.</developer>
+		<publisher>Datamost, Inc.</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Ardy The Aardvark.jpg</image>
+		<video>./snaps/Ardy The Aardvark.mp4</video>
+	</game>
+	<game>
+		<path>./Berzap!.dsk</path>
+		<name>Berzap!</name>
+		<sortname />
+		<desc>Berzap! is a Berzerk clone in which you go around in a maze whilst avoiding the robots‘ shots, but you can shoot all of the robots to get bonus points. Don’t stay for to long, though, or an unkillable ball will come after you. Some of the changes in this version include a Space Invaders level and various other robot designs.</desc>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Infinity Limited</developer>
+		<publisher>Infinity Limited</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Berzap!.jpg</image>
+		<video>./snaps/Berzap!.mp4</video>
+	</game>
+	<game>
+		<path>./Beyond Castle Wolfenstein.dsk</path>
+		<name>Beyond Castle Wolfenstein</name>
+		<sortname />
+		<desc>Your mission is to infiltrate Nazi headquarters in disguise, find the bomb agents have hidden there, and plant it outside the door to Hitler’s bunker. If you go in shooting everything in sight, a guard is bound to raise the alarm and it’s unlikely you’ll complete the mission. Use stealth and the occassional bribe to work your way to Hitler. You might have to kill a few guards, but think before you do. Oh, and did we mention you have to escape the way you came before the bomb explodes?</desc>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Muse Software</developer>
+		<publisher>Muse Software</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Beyond Castle Wolfenstein.jpg</image>
+		<video>./snaps/Beyond Castle Wolfenstein.mp4</video>
+	</game>
+	<game>
+		<path>./Bezare.dsk</path>
+		<name>Bezare</name>
+		<sortname />
+		<desc>A game apparently developed by aliens, it was intercepted by the programmers at Southwestern Data Systems, whom were able to translate the game to work on Apple II computers, but were unable to convert the game text to English. In this game, the aliens are understandably depicted in the protagonist role, as they show their invasion of Earth.</desc>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Southwestern Data Systems</developer>
+		<publisher>Southwestern Data Systems</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Bezare.jpg</image>
+		<video>./snaps/Bezare.mp4</video>
+	</game>
+	<game>
+		<path>./Bezoff.dsk</path>
+		<name>Bezoff</name>
+		<sortname />
+		<desc>Bezoff is a series of 3 insect-themed 1-player arcade games for the Apple II. The player has a series of 3 mini-games with the goal of maximizing their score during these games. To choose which order to play the games, the player starts by controlling a small circle in a hallway connected to three rooms. The player moves the circle into the room to initiate the game.</desc>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Bez</developer>
+		<publisher>Bez</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Bezoff.jpg</image>
+		<video>./snaps/Bezoff.mp4</video>
+	</game>
+	<game>
+		<path>./Blister Ball.dsk</path>
+		<name>Blister Ball</name>
+		<sortname />
+		<desc>In Blisterball!, the goal is to shoot down bouncing balls as they bounce out of the chamber above the player. If the player is hit by a ball they are damaged, and they fall into the drain below if they are struck 3 times. There is also a series of blister balls, which can be shot for bonus points.</desc>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Creative Computing Software</developer>
+		<publisher>Creative Computing Software</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Blister Ball.jpg</image>
+		<video>./snaps/Blister Ball.mp4</video>
+	</game>
+	<game>
+		<path>./Boulder Dash.dsk</path>
+		<name>Boulder Dash</name>
+		<sortname />
+		<desc>You are Rockford, and you have to dig through monster infested caves in search of diamonds. In each level you must collect a certain number of these diamonds, in order to open a portal to the next stage. Enemies can be squashed by falling boulders, which are released when the ground below them is removed or they are pushed onto empty ground, but be careful because these can also squash you. In later levels, difficulty is increased by many puzzle elements and shorter time limits.</desc>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Micro Fun</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Boulder Dash.jpg</image>
+		<video>./snaps/Boulder Dash.mp4</video>
+	</game>
+	<game>
+		<path>./Boulder Dash II.dsk</path>
+		<name>Boulder Dash II</name>
+		<sortname />
+		<desc>In part two of the Boulder Dash series the overall game design hasn’t changed compared to the original, but sixteen new levels have been created. The basis of the game is the same, you still have to mine diamonds while avoiding falling rocks and cave monsters of all sorts. As in part one, later levels become more difficult because many puzzle elements are added.</desc>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Micro Fun</developer>
+		<publisher>Micro Fun</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Boulder Dash II.jpg</image>
+		<video>./snaps/Boulder Dash II.mp4</video>
+	</game>
+	<game>
+		<path>./Bruce Lee.dsk</path>
+		<name>Bruce Lee</name>
+		<sortname />
+		<desc>The plot involves the eponymous martial artist advancing from chamber to chamber in a wizard’s tower, seeking to claim infinite wealth and the secret of immortality. There are twenty chambers, each represented by a single screen with platforms and ladders. To progress, the player must collect a number of lanterns suspended from various points in the chamber.</desc>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Datasoft</developer>
+		<publisher>Datasoft</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Bruce Lee.jpg</image>
+		<video>./snaps/Bruce Lee.mp4</video>
+	</game>
+	<game>
+		<path>./Bug Attack.dsk</path>
+		<name>Bug Attack</name>
+		<sortname />
+		<desc>Bug Attack is a colorful shoot-em-up where you are assaulted by dagger-throwing millipedes, ants, and med flies. The game looks similar to the arcade game Centipede, but plays quite differently.</desc>
+		<rating>0.6</rating>
+		<releasedate>19890701T000000</releasedate>
+		<developer>Cavalier Computer</developer>
+		<publisher>Cavalier Computer</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Bug Attack.jpg</image>
+		<video>./snaps/Bug Attack.mp4</video>
+	</game>
+	<game>
+		<path>./Canyon Climber.dsk</path>
+		<name>Canyon Climber</name>
+		<sortname />
+		<desc>Canyon Climber consists of three non-scrolling screens that are endlessly cycled through. In the first, similar to the rivet screen from Donkey Kong, the goal is to place explosive charges on both ends of each of four bridges, using ladders to climb between them, then trigger a detonator.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Datasoft</developer>
+		<publisher>Datasoft</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Canyon Climber.jpg</image>
+		<video>./snaps/Canyon Climber.mp4</video>
+	</game>
+	<game>
+		<path>./Captain Goodnight.dsk</path>
+		<name>Captain Goodnight</name>
+		<sortname />
+		<desc>[!! 2-disc game - swapping needed !!] --- In this action game, the player assumes control of Captain Goodnight, and must travel to the Fear Islands to find and destroy Doctor Maybe’s doomsday machine before it can be activated. The islands are well guarded and Captain Goodnight will have to battle Doctor Maybe’s fiendish defense robots on land, in the air, and on sea. In the course of the game, Captain Goodnight must fly a jet across F.O.E. territory, battle robots on foot and in a tank and a jeep, ride a tram, cross the ocean in boats and a sub, and battle killer robots in tunnels.</desc>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Brøderbund Software, Inc.</developer>
+		<publisher>Brøderbund Software, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Captain Goodnight.jpg</image>
+		<video>./snaps/Captain Goodnight.mp4</video>
+	</game>
+	<game>
+		<path>./Castle Wolfenstein.dsk</path>
+		<name>Castle Wolfenstein</name>
+		<sortname />
+		<desc>In this game, the player takes control of a lone prisoner who has been taking captive in a large castle occupied by the Nazis. Getting out of the cell and picking up a weapon is just the beginning; the ultimate goal is to acquire the war plans of the Nazis, and escape from Castle Wolfenstein alive.</desc>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Muse Software</developer>
+		<publisher>Muse Software</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Castle Wolfenstein.jpg</image>
+		<video>./snaps/Castle Wolfenstein.mp4</video>
+	</game>
+	<game>
+		<path>./Cavern Creatures.dsk</path>
+		<name>Cavern Creatures</name>
+		<sortname />
+		<desc>The date is Lunar 4, 2030, and your goal is to find the great Underground City. Before you can reach your destination, you need to pilot your spaceship through the Caverns, a labyrinth of twisting tunnels packed full of alien creatures. The player pilots a small spaceship, which can fire straight ahead and both horizontal directions simultaneously, creating 3 directions of fire.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Datamost, Inc.</developer>
+		<publisher>Datamost, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Cavern Creatures.jpg</image>
+		<video>./snaps/Cavern Creatures.mp4</video>
+	</game>
+	<game>
+		<path>./Ceiling Zero.dsk</path>
+		<name>Ceiling Zero</name>
+		<sortname />
+		<desc>Ceiling Zero features an alien mothership that is protected by the titular ceiling, a power field that the player can’t shoot through. The mothership throws various objects onto the screen that will bounce around until the player has shot them all down or he is killed when colliding with them. Once all the objects have been destroyed the ceiling moves down one step and another wave is released. The player’s goal is to survive until the ceiling has reached the floor. There is also occasionally a creature that attempts to land. If it succeeds before the player shoots it down, a life is lost no matter how far from the player it is. Similar to other early Shoot’em Ups the player is restricted to move left and right.</desc>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Ram Software</developer>
+		<publisher>Turnkey Software</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Ceiling Zero.jpg</image>
+		<video>./snaps/Ceiling Zero.mp4</video>
+	</game>
+	<game>
+		<path>./Centipede.dsk</path>
+		<name>Centipede</name>
+		<sortname />
+		<desc>In Centipede, the player is trapped in the Enchanted Forest. Armed with only a magic wand to ward off the forest’s insect denizens, all of which apparently are attacking in the player in continuous waves. The player must use the magic wand to shoot sparks at approaching insects to score points by pressing the controller button. Holding down the controller button will set the wand to rapid fire shots. If the player is bitten by an insect, the player will be temporarily paralyzed and lose one of the three starting magic wands.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari, Inc.</developer>
+		<publisher>Atarisoft</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Centipede.jpg</image>
+		<video>./snaps/Centipede.mp4</video>
+	</game>
+	<game>
+		<path>./Championship Lode Runner.dsk</path>
+		<name>Championship Lode Runner</name>
+		<sortname />
+		<desc>A follow-up to the original Lode Runner, with identical gameplay. This package contained 50 of the most challenging levels ever designed, and was intended for expert players only. It did not include the level editor, you had to play through the levels in order, but a save-game option was provided (although you lost one life every time you restored).</desc>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Brøderbund Software, Inc.</developer>
+		<publisher>Brøderbund Software, Inc.</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Championship Lode Runner.jpg</image>
+		<video>./snaps/Championship Lode Runner.mp4</video>
+	</game>
+	<game>
+		<path>./Chess 7.0.dsk</path>
+		<name>Chess 7.0</name>
+		<sortname />
+		<desc>Chess 7.0 is a chess playing tool for multiple systems that allows for 2-player chess play, or 1-player versus the computer with multiple available difficulty levels. Allows for graphical representation of the chess board, and follows standard chess rules. Unique gameplay options include the ability to flip the board, as well as allowing blind play were the rank of different pieces is hidden. The computer can optionally list best moves for players, and games in process can be saved to disk.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Odesta</developer>
+		<publisher>Odesta</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+		<image>./boxart/Chess 7.0.jpg</image>
+		<video>./snaps/Chess 7.0.mp4</video>
+	</game>
+	<game>
+		<path>./Choplifter.dsk</path>
+		<name>Choplifter!</name>
+		<sortname />
+		<desc>Choplifter! is a side-scrolling action/arcade game that puts you in command of an attack chopper. Your mission: Go behind enemy lines and rescue up to 16 hostages per level. Be careful, though, because tanks and enemy aircraft will try to stop you - and they won’t stop shooting while you are rescuing those hostages!</desc>
+		<rating>1</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Dan Gorlin</developer>
+		<publisher>Brøderbund Software</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Choplifter.jpg</image>
+		<video>./snaps/Choplifter.mp4</video>
+	</game>
+	<game>
+		<path>./Chrono Warrior.dsk</path>
+		<name>Chrono Warrior</name>
+		<sortname />
+		<desc>Chrono Warrior is an Action game, developed and published by The Pirate, which was released in 1985. You travel through different eras and you have different tasks to fullfil --- [Gameplay note: In the first era it can be hard sometimes to turn around]</desc>
+		<rating>0.6</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>The Pirate</developer>
+		<publisher>The Pirate</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Chrono Warrior.jpg</image>
+		<video>./snaps/Chrono Warrior.mp4</video>
+	</game>
+	<game>
+		<path>./Commando.dsk</path>
+		<name>Commando</name>
+		<sortname />
+		<desc>Several levels await your super-tough Commando in this vertical scrolling game. Armed with only a standard rifle and a few grenades you must take on hordes of Nazis. Some are wandering around in the open, while others have picked out hiding places, which you must approach from certain angles. Trees, rivers and bridges create a varied combat-like terrain and must be incorporated into your thinking. Extra grenades can be collected, and will definitely be required, as they allow you to kill from distance and thus avoid some enemy shots.</desc>
+		<rating>0.6</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Commando.jpg</image>
+		<video>./snaps/Commando.mp4</video>
+	</game>
+	<game>
+		<path>./Conan.dsk</path>
+		<name>Conan</name>
+		<sortname />
+		<desc>As Conan returns from another successful adventure, he finds that a band of masked warriors has destroyed his village and murdered his uncle, bad move. Now it’s time for Revenge!</desc>
+		<rating>1</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Cauldron</developer>
+		<publisher>TDK</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Conan.jpg</image>
+		<video>./snaps/Conan.mp4</video>
+	</game>
+	<game>
+		<path>./Crime Wave.dsk</path>
+		<name>Crime Wave</name>
+		<sortname />
+		<desc>You are the law in Crime Wave. You drive your cop car around town and try to catch robbers in the act of crime. You catch the thieves by running into their car once it changes to red (indicating that they are robbing a building). Then you take them to the station at the bottom of the screen.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Penguin Software, Inc.</developer>
+		<publisher>Penguin Software, Inc.</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Crime Wave.jpg</image>
+		<video>./snaps/Crime Wave.mp4</video>
+	</game>
+	<game>
+		<path>./Crisis Mountain.dsk</path>
+		<name>Crisis Mountain</name>
+		<sortname />
+		<desc>Crisis Mountain is a classic platform game. Your task is to defuse bombs left by terrorists in mountain caverns when a dormant volcano above starts erupting unexpectedly. Time is limited as the bombs are ticking towards detonation. It contains nine levels of play.</desc>
+		<rating>1</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Synergistic Software, Inc.</developer>
+		<publisher>Synergistic Software, Inc.</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Crisis Mountain.jpg</image>
+		<video>./snaps/Crisis Mountain.mp4</video>
+	</game>
+	<game>
+		<path>./Crystal Castles.dsk</path>
+		<name>Crystal Castles</name>
+		<sortname />
+		<desc>Bentley Bear is trapped in the Crystal Castles! To get out, he will need to collect all of the gems located throughout the castle. The game is played with an isometric view of the multi platformed castle. When Bentley collects all of the gems on the current castle, he will move on to the next, more difficult castle. Wandering throughout the castles are a wide variety of dangerous creatures, which Bentley should avoid. From time to time, a magic hat will appear. If Bentley collects the hat, he will temporarily be invincible to the castles inhabitants.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari, Inc.</developer>
+		<publisher>Atarisoft</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Crystal Castles.jpg</image>
+		<video>./snaps/Crystal Castles.mp4</video>
+	</game>
+	<game>
+		<path>./David's Midnight Magic.dsk</path>
+		<name>David’s Midnight Magic</name>
+		<sortname />
+		<desc>[Use JOYBTNs or ALTKEYs to PLAY] --- David’s Midnight Magic is a simple pinball game designed for 1-4 players. The game was modeled on the popular Black Knight pinball table released by Williams. Unlike Black Knight, however, David’s Midnight Magic contains a mixture of bright colors. Featuring dual flipper controls, upper and lower playing fields, tilt mechanism, multiple ball play, electromagnetic deflectors, and many special effects, the game represents the first generation of home computer pinball simulations available with relatively realistic pinball features.</desc>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Brøderbund Software, Inc.</developer>
+		<publisher>Brøderbund Software, Inc.</publisher>
+		<genre>Simulation</genre>
+		<players>4</players>
+		<image>./boxart/David's Midnight Magic.jpg</image>
+		<video>./snaps/David's Midnight Magic.mp4</video>
+	</game>
+	<game>
+		<path>./Defender.dsk</path>
+		<name>Defender</name>
+		<sortname />
+		<desc>Defender put players in charge of a ship sent to protect mankind from wave after wave of attacking alien forces. Armed with smart bombs and the ability to use hyperspace to move quickly around the planet, the player ship must fight against Bombers, Pods, Swarmers, Baiters, and Landers - that can capture the humanoids and transform them into deadly and relentless Mutants. Fail to save the humanoids from freefall or Mutant transformation, and the planet is destroyed.</desc>
+		<rating>1</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Williams Electronics, Inc.</developer>
+		<publisher>Atarisoft</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Defender.jpg</image>
+		<video>./snaps/Defender.mp4</video>
+	</game>
+	<game>
+		<path>./Diamond Mine.dsk</path>
+		<name>Diamond Mine</name>
+		<sortname />
+		<desc>The goal of Diamond Mine is to collect as many diamonds as possible from 20 underground shafts. Each is presented as a single screen with corridors and alleyways. Monsters are released at intervals from a Pacman-style hub, these can be shot. The mines are covered in dust initially; until you have walked through an area, a bullet can’t be fired through it. Contact with a monster loses all your gems, so the best strategy is to shoot them out first - as most diamonds are down corridors, this can be planned for. You can start from one of 5 different screens.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Roklan Corporation</developer>
+		<publisher>Roklan Corporation</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Diamond Mine.jpg</image>
+		<video>./snaps/Diamond Mine.mp4</video>
+	</game>
+	<game>
+		<path>./Dino Eggs.dsk</path>
+		<name>Dino Eggs</name>
+		<sortname />
+		<desc>While on an expedition through time to the prehistoric past, Time Master Tim accidentally brings a case of European Measles to that era. He has to return the Dino eggs to the present time in order to save them from this epidemic. Tim has to face the dino egg predators, such as spiders and snakes which will contaminate the eggs. The mother of the eggs also lurks by, and if a fire is not built, she may just step in. Will you be able to save the dinosaur race from extinction?</desc>
+		<rating>1</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Micro Fun</developer>
+		<publisher>Micro Fun</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Dino Eggs.jpg</image>
+		<video>./snaps/Dino Eggs.mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong.dsk</path>
+		<name>Donkey Kong</name>
+		<sortname />
+		<desc>Donkey Kong is a platform-action game that has Mario scale four different industrial themed levels (construction zone, cement factory, an elevator-themed level, and removing rivets from girders) in an attempt to save the damsel in distress, Pauline, from the big ape before the timer runs out. Once the rivets are removed from the final level, Donkey Kong falls, and the two lovers are reunited. From there, the levels start over at a higher difficulty.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Donkey Kong.jpg</image>
+		<video>./snaps/Donkey Kong.mp4</video>
+	</game>
+	<game>
+		<path>./Drelbs.dsk</path>
+		<name>Drelbs</name>
+		<sortname />
+		<desc>Drelbs is loosely inspired by the paper-based game played on a grid of dots, in which players draw lines alternately, with the intention of forming more squares than their opponent. The similarities end there; in Drelbs you represent the only member of the Drelb race who has not been imprisoned by the evil Trolloboars. Members of the Gorgolyte race and Trolloboar tanks are targeting you.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Synapse Software</developer>
+		<publisher>Synapse Software</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Drelbs.jpg</image>
+		<video>./snaps/Drelbs.mp4</video>
+	</game>
+	<game>
+		<path>./Drol.dsk</path>
+		<name>Drol</name>
+		<sortname />
+		<desc>Drol is a platform game where you play a cute robot that can fly and shoot. Your goal is to rescue children that are wandering around each level. The levels consist of rows of platforms, with gaps which can be jumped through to go up or down a vertical level. The creatures to avoid and shoot vary from strange hopping, beer-belly aliens, to demons, snakes, and axes flying through the air (we never do find out who’s throwing those axes!). Like Defender, Drol incorporates a „radar“ at the top of the screen, so you can find the children and dodge incoming baddies.</desc>
+		<rating>1</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Brøderbund Software</developer>
+		<publisher>Brøderbund Software</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Drol.jpg</image>
+		<video>./snaps/Drol.mp4</video>
+	</game>
+	<game>
+		<path>./Dung Beetles.dsk</path>
+		<name>Dung Beetles</name>
+		<sortname />
+		<desc>Sneak through unique maze after maze gobbling white dots while being hunted by the Mega-Bugs. Their job is made easier because The Mouth you pilot leaves behind a trail of colored dots which they will follow relentlessly the moment they come upon it. This makes the maze’s dead-ends truly treacherous. Your job is made harder by the size of the maze, which requires a magnifier over your location to show the action, effectively creating a blind spot at a radius of three dots around you. To succeed, you must watch not only where you’re going, but scan each randomly generated maze to plan your route and avoid the Mega-Bugs. If you fail, the bugs dance gleefully and shout, -we gotcha!-</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Datasoft, Inc.</developer>
+		<publisher>Datasoft, Inc.</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Dung Beetles.jpg</image>
+		<video>./snaps/Dung Beetles.mp4</video>
+	</game>
+	<game>
+		<path>./Eliminator.dsk</path>
+		<name>Eliminator</name>
+		<sortname />
+		<desc>A home computer version of the Williams Electronics‘ coin-op game Defender. Your goal is to pilot your fast moving spaceship over the ground and destroy waves of alien marauders. Additionally in the TRS-80 version you must prevent the alien hoards from recovering your energizers from the surface.</desc>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Adventure International</developer>
+		<publisher>Adventure International</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Eliminator.jpg</image>
+		<video>./snaps/Eliminator.mp4</video>
+	</game>
+	<game>
+		<path>./Falcons.dsk</path>
+		<name>Falcons</name>
+		<sortname />
+		<desc>Falcons is a Phoenix variant. Aliens move in formation at the top of the screen, occasionally swooping down on you and shooting. There are only five different screens, with the fifth being a huge mother ship.</desc>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Piccadilly Software</developer>
+		<publisher>Piccadilly Software</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Falcons.jpg</image>
+		<video>./snaps/Falcons.mp4</video>
+	</game>
+	<game>
+		<path>./Frogger.dsk</path>
+		<name>Frogger</name>
+		<sortname />
+		<desc>Your task in this arcade game is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made. The road is full of cars and trucks, at variable speeds. The river water itself is fatal, as are the snakes which hover within on later levels. Frogger must use the arrangement of logs, turtles (which are only there for a short time) and alligators (but stay away from their faces), and then jump into one of the open home-cells, ideally one containing a fly for extra points. Once all holes have been filled, you move onto the next, harder, level.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Frogger.jpg</image>
+		<video>./snaps/Frogger.mp4</video>
+	</game>
+	<game>
+		<path>./Galaxian.dsk</path>
+		<name>Galaxian</name>
+		<sortname />
+		<desc>Galaxian is a Shoot’em Up in which the player is at the bottom of the screen, with an arrangement of aliens at the top. The player moves left and right to aim at an alien, then shoots a bullet up the screen, and the alien it hits is killed. The aliens are classed as Drones, Emissaries, Hornets and Commanders, with those higher up the screen scoring more points when destroyed. At set intervals an enemy will move down the screen towards you, escorting a bomber, which is a moment of high danger. Clear a wave and another is generated.</desc>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Galaxian.jpg</image>
+		<video>./snaps/Galaxian.mp4</video>
+	</game>
+	<game>
+		<path>./Gamma Goblins.dsk</path>
+		<name>Gamma Goblins</name>
+		<sortname />
+		<desc>Gamma Goblins is a fixed screen Shoot’em Up that takes place in the human body. The player begins an exploratory operation into the circulatory system where the infectious gamma goblins launch feverish attacks. Beyond its medical theme it’s a traditional Shoot’em Up, although here the enemies mostly move vertically and not horizontally. The player moves his plasma ray gun down the bottom of the screen and has to shoot the enemies before they shoot or crash into him. To finish a wave of enemies (and move on the next kind) the player has to kill them all before they reach the bottom or a new wave will come and the player’s position will move a step closer to them.</desc>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Sirius Software, Inc.</developer>
+		<publisher>Sirius Software, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Gamma Goblins.jpg</image>
+		<video>./snaps/Gamma Goblins.mp4</video>
+	</game>
+	<game>
+		<path>./Gold Rush.dsk</path>
+		<name>Gold Rush</name>
+		<sortname />
+		<desc>In Gold Rush!, Jerrod Wilson (the player character) receives a letter from his long-lost brother (who fled the city years before when was hastily accused and convicted of a crime he didn’t commit) asking him to join in Sacramento, California. If that’s not enough for Jerrod sell everything and give his hometown Brooklyn a fond adieu, under the stamp was one of the first nuggets of Californian gold seen in the Atlantic shores of the United States. So, Jerrod bids farewell to his peaceful life as a newspaper editor, and becomes a fore-runner in the the great Gold Rush of 1849, hoping to find his brother and „strike gold“ (literally).</desc>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/Gold Rush.jpg</image>
+		<video>./snaps/Gold Rush.mp4</video>
+	</game>
+	<game>
+		<path>./Guardian.dsk</path>
+		<name>Guardian</name>
+		<sortname />
+		<desc>The year is 2112, and the high priests of the Solar Federation have entrusted you with the sacred Emerald of Syrinx. As the Emerald’s Guardian, you must keep the stone safe from the various enemies of the universe who would kill you for it. The player must escape a series of rooms, in order to keep the Emerald safe. The player can move in 8 individual directions using the keyboard, as well as fire in 8 separate directions. The player starts at the center of each room surrounded by enemies, who will after several seconds begin to move towards the player. As the player shoots enemies, an exit will appear in one of the four corners of the stage. When a creature is shot, the exit moves to a different corner.</desc>
+		<rating>1</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Continental Software</developer>
+		<publisher>Continental Software</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Guardian.jpg</image>
+		<video>./snaps/Guardian.mp4</video>
+	</game>
+	<game>
+		<path>./H.E.R.O..dsk</path>
+		<name>H.E.R.O.</name>
+		<sortname />
+		<desc>There is trouble in the mines! Volcanic activity has trapped numerous miners, and it is your job to save them. As Roderick Hero, you need to make your way through the dangerous mineshaft avoiding the dangerous creatures and lava, and find out where the miners are located before you run out of energy. To help on your mission, you have several useful types of equipment. A prop pack will allow you to hover and fly around the mineshaft and (hopefully) avoid the many dangers within. Your helmet features a short range microlaser beam which can be used to destroy the bats, spiders, snakes, and other creatures you’ll encounter in the mines. From time to time, your path through the mine may be blocked by stone or lava walls.</desc>
+		<rating>0.8</rating>
+		<releasedate>19840601T000000</releasedate>
+		<developer>Activision, Inc.</developer>
+		<publisher>Activision, Inc.</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/H.E.R.O..jpg</image>
+		<video>./snaps/H.E.R.O..mp4</video>
+	</game>
+	<game>
+		<path>./Hard Hat Mack.dsk</path>
+		<name>Hard Hat Mack</name>
+		<sortname />
+		<desc>Hard Hat Mack is a platform game similar in concept to Donkey Kong. The player controls a worker who must complete specific objectives in a construction site while avoiding enemies and trying not to run out of time. The game has three vertical levels consisting of simple paths, springboards, conveyor belts, and elevators. The goals involve replacing holes in the floor, catching a moving jackhammer to secure plates, collecting lunchboxes, and dropping wares into a processor. The titular hero loses a life when hit by falling bolts or tagged by wandering vandals or OSHA representatives. The game is over after the player character loses three lives.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Electronic Arts, Inc.</developer>
+		<publisher>Electronic Arts, Inc.</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Hard Hat Mack.jpg</image>
+		<video>./snaps/Hard Hat Mack.mp4</video>
+	</game>
+	<game>
+		<path>./Horizon V.dsk</path>
+		<name>Horizon V</name>
+		<sortname />
+		<desc>While on a routine patrol of one of the five planetoid outposts of the Galactic Federation, you are set upon by angry G-bellians who believe you have kidnapped one of their most prized performers, Paulette the G-belly dancer. Before you are able to explain your innocence, the G-bellians attack and you are forced to defend your planetoid. Using radar and plasma weapons you destroy first the ships and then the G-bellians themselves before you run out of fuel. As you make a run for fuel, some of the G-bellians follow you into the time warp. But before you can get to your fuel you have to destroy the oncoming G-bellians. Finally you reach the fuel dump and lock into the center of the fuel target... then onto the next planetoid...</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Gebelli Software, Inc.</developer>
+		<publisher>Gebelli Software, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Horizon V.jpg</image>
+		<video>./snaps/Horizon V.mp4</video>
+	</game>
+	<game>
+		<path>./Impossible Mission.dsk</path>
+		<name>Impossible Mission</name>
+		<sortname />
+		<desc>You play a secret agent on a quest to stop the evil Professor Elvin Atombender, who is believed to be tampering with national security computers. You must penetrate Atombender’s stronghold, avoid his deadly robot creations, and acquire various pieces of a password to use in the main control room. You have 6 hours to complete the game; 10 minutes are lost each time you die and 2 minutes are expended if you use the help function on your portable computer.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/Impossible Mission.jpg</image>
+		<video>./snaps/Impossible Mission.mp4</video>
+	</game>
+	<game>
+		<path>./Jawbreaker.dsk</path>
+		<name>Jawbreaker</name>
+		<sortname />
+		<desc>A clone of Pac-Man, where you as jaws must collect all points and escape lethal heads. There are also magical points to break heads by your jaws during some time. You have to collect the points, magical items, and progress from level to level.</desc>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>On-Line Systems</developer>
+		<publisher>On-Line Systems</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Jawbreaker.jpg</image>
+		<video>./snaps/Jawbreaker.mp4</video>
+	</game>
+	<game>
+		<path>./Joust.dsk</path>
+		<name>Joust</name>
+		<sortname />
+		<desc>In Joust, players take control of a knight with a lance who rides their flying ostrich (or stork, for Player 2) to do battle against computer-controlled evil knights who ride atop vultures.</desc>
+		<rating>0.8</rating>
+		<releasedate>19840101T010000</releasedate>
+		<developer>Williams Electronics, Inc.</developer>
+		<publisher>Atarisoft</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Joust.jpg</image>
+		<video>./snaps/Joust.mp4</video>
+	</game>
+	<game>
+		<path>./Karateka.dsk</path>
+		<name>Karateka</name>
+		<sortname />
+		<desc>The evil Akuma has destroyed the protagonist’s homeland, killed many of his friends and kidnapped the princess Mariko. Fortunately, the hero is skilled in martial arts, so his inevitable quest to reach Akuma’s palace and rescue Mariko has a chance of success. Karateka is viewed from the side and features a succession of increasingly difficult opponents. Three types of punches and kicks are available to both the player character and his foes, differentiated by their height (low, medium, and high). The protagonist has a health bar, which refills itself gradually when he stands still.</desc>
+		<rating>1</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Jordan Mechner</developer>
+		<publisher>Brøderbund Software</publisher>
+		<genre>Fighting</genre>
+		<image>./boxart/Karateka.jpg</image>
+		<video>./snaps/Karateka.mp4</video>
+	</game>
+	<game>
+		<path>./Kung-Fu Master.dsk</path>
+		<name>Kung-Fu Master</name>
+		<sortname />
+		<desc>Loosely based on a movie, Kung-Fu Master is a side scrolling action game for one or two players, who alternate turns. Mr. X has captured the pickpocket Sylvia and it is up to Thomas, a kung-fu master who owns a restaurant, to get her back. She is located on the top floor of Mr. X’s castle and Thomas will need to fight his way to the top. Of course, this won’t be easy as each floor has many opponents to get past and a floor boss at the end of each level. Enemy projectiles such as knives can be kicked in the air to rebound them towards the enemy. On the top floor resides Mr. X himself.</desc>
+		<rating>0.6</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Irem Corp.</developer>
+		<publisher>Data East USA, Inc.</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Kung-Fu Master.jpg</image>
+		<video>./snaps/Kung-Fu Master.mp4</video>
+	</game>
+	<game>
+		<path>./Lode Runner.dsk</path>
+		<name>Lode Runner</name>
+		<sortname />
+		<desc>The Bungeling Empire has stolen a huge cache of gold from its rightful owners, and your mission is to infiltrate its treasury and recapture it. This entails progressing through 150 screens of platforms, ladders and ropes. The Empire has sent robotic guards down to protect the gold, and contact with any of these will cost you a life. Your method of escaping them is to press fire to dig a hole in their line of movement, thus causing them to fall in briefly, allowing you to move across the gap safely. Once all the gold has been collected, a ladder allowing you to move onto the next screen is added. Completing these screens often requires forward planning and precision.</desc>
+		<rating>1</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Brøderbund Software</developer>
+		<publisher>Brøderbund Software</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Lode Runner.jpg</image>
+		<video>./snaps/Lode Runner.mp4</video>
+	</game>
+	<game>
+		<path>./Microwave.dsk</path>
+		<name>Microwave</name>
+		<sortname />
+		<desc>Microwave contains four mazes that are viewed from a top down perspective. Teddy the Salvage Man has to be move around and collect a number of objects. Once they have been all collected an exit to the next level appears. Teddy is chased by different aliens (Trixy, Monty, Biff and Lurch) that have to be avoided or a life will be lost. To fight off the aliens, Teddy has access to microwave dishes. By pressing the fire button one is dropped and a beam will shoot out as far as it can in the direction opposite of Teddy’s movement. Aliens that are hit by it will soon respawn somewhere in the maze.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Cavalier Computer</developer>
+		<publisher>Cavalier Computer</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Microwave.jpg</image>
+		<video>./snaps/Microwave.mp4</video>
+	</game>
+	<game>
+		<path>./Miner 2049er.dsk</path>
+		<name>Miner 2049er</name>
+		<sortname />
+		<desc>You play the part of Bounty Bob, and it is your mission to explore every inch of an abandoned mine. As you walk over floor sections in the mine, the floor will change color. When all of the floor sections have been changed in color, you can move on to the next, more challenging level. To reach all of the floor sections, you will need to figure out how to get there. You can jump (be careful not to fall too far though, or you will be squished), climb up and down ladders, and use different transportation devices that can be found on the levels (such as an elevator, slides, a springboard, or a cannon). Wandering around the mine are numerous radioactive creatures which get in Bounty Bob’s way.</desc>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Big Five Software Co.</developer>
+		<publisher>Micro Fun</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Miner 2049er.jpg</image>
+		<video>./snaps/Miner 2049er.mp4</video>
+	</game>
+	<game>
+		<path>./Minit Man.dsk</path>
+		<name>Minit Man</name>
+		<sortname />
+		<desc>The aliens robots have invaded, and it is up to the Minit Man to load and fire 3 warheads to defeat the alien forces. First, the aliens have destroyed the bridge required to transport missiles to the launch silos, so the Minit Man must use his helicopter to transport bridge construction material and rebuild the damaged structure. While he is doing this, he must use his helicopter’s powerful laser to stop the robot forces from reaching the launch computer deep within Earth’s defense fortress. If the robots reach the launch computer, it’s game over. The player must be careful of enemy attacks, as they only have 5 hits before it’s game over.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Penguin Software</developer>
+		<publisher>Penguin Software</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Minit Man.jpg</image>
+		<video>./snaps/Minit Man.mp4</video>
+	</game>
+	<game>
+		<path>./Montezumas Revenge.dsk</path>
+		<name>Montezuma’s Revenge</name>
+		<sortname />
+		<desc>You play as a treasure hunter named Panama Joe, whose goal is to find an ancient treasure hidden by Aztec warrior deep inside catacombs. But beware, the catacombs are a large maze inhabited by monsters. Bouncing and rolling skulls, dancing spiders, disappearing and re-appearing chains and tons of fire await you. You’ll have to find many keys and unlock doors in order to reach your goal. Panama Joe can jump and climb ladders, but doesn’t have much to offer in terms of combat. That’s why the monsters in the game should be avoided: a collision with an enemy leads to a premature death. He will also find amulets which make him invulnerable for a short time.</desc>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>BCI Software</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Montezumas Revenge.jpg</image>
+		<video>./snaps/Montezumas Revenge.mp4</video>
+	</game>
+	<game>
+		<path>./Moon Patrol.dsk</path>
+		<name>Moon Patrol</name>
+		<sortname />
+		<desc>Moon Patrol is a side-scrolling game where the player must drive a moon buggy from one station on the Moon to another, all while avoiding crashing or getting destroyed by alien ships. The vehicle is constantly moving right and the player can speed up or slow down, jump, and shoot (simultaneously firing upwards and forwards.) There are 25 checkpoints along the way, each symbolized with a letter from A to Z, and serving as a respawn point. Every five checkpoints mark a separate „stage“ within the entire course; reaching the end of a stage under the par time grants a large score bonus.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Moon Patrol.jpg</image>
+		<video>./snaps/Moon Patrol.mp4</video>
+	</game>
+	<game>
+		<path>./Mouskattack.dsk</path>
+		<name>Mouskattack</name>
+		<sortname />
+		<desc>Mouskattack is very similar to Pac-Man. Take the role of Larry Bain, a plumber working for Rodent Rooter attempting to get rid of all the huge rats in Rat Alley. The player is pursued by 4 rats in a maze and player must set mouse traps to get rid of them all as well as make sure the player traverses the entire maze à la Pac-Man to complete the level.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820601T000000</releasedate>
+		<developer>On-Line Systems</developer>
+		<publisher>On-Line Systems</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Mouskattack.jpg</image>
+		<video>./snaps/Mouskattack.mp4</video>
+	</game>
+	<game>
+		<path>./Mr. Cool.dsk</path>
+		<name>Mr. Cool</name>
+		<sortname />
+		<desc>You are a cube who must jump on a pyramid made of color-changing platforms to make all platforms of the same color. Flying comets will enter the screen to hinder your progress, but they will eventually turn into balls than can be collected safely.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Mr. Cool.jpg</image>
+		<video>./snaps/Mr. Cool.mp4</video>
+	</game>
+	<game>
+		<path>./Ms. Pac-Man.dsk</path>
+		<name>Ms. Pac-Man</name>
+		<sortname />
+		<desc>In 1981, a sequel to Pac-Man was introduced in the form of his girlfriend, Ms. Pac-Man. This sequel continued on the „eat the dots/avoid the ghosts“ gameplay of the original game, but added new features to keep the title fresh. Like her boyfriend, Ms. Pac-Man attempts to clear four various and challenging mazes filled with dots and ever-moving bouncing fruit while avoiding Inky, Blinky, Pinky and Sue, each with their own personalities and tactics. One touch from any of these ghosts means a loss of life for Ms. Pac-Man.</desc>
+		<rating>0.8</rating>
+		<releasedate>19840401T000000</releasedate>
+		<developer>Midway Mfg. Co.</developer>
+		<publisher>Atarisoft</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Ms. Pac-Man.jpg</image>
+		<video>./snaps/Ms. Pac-Man.mp4</video>
+	</game>
+	<game>
+		<path>./Mutant.dsk</path>
+		<name>Mutant</name>
+		<sortname />
+		<desc>Mutant is a 1-player arcade game fore the Apple II. The player controls a mutant creature whom can move in 4 cardinal directions in a maze. The goal is to eat all dots on the screen while attempting to avoid enemy monsters which come out of their home base and move randomly about. There are moving platforms which occasionally change the shape of the map. If the player moves past a glowing square, the enemies become temporarily vulnerable, and the player can shoot bullets for a short period. When the player collects all dots, they move onto a more challenging level. The player starts with 3 lives, and when all are lost, it’s game over. The player loses a life if they come in contact with an enemy creature while not vulnerable.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Great Lakes Software</developer>
+		<publisher>Universal Software</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Mutant.jpg</image>
+		<video>./snaps/Mutant.mp4</video>
+	</game>
+	<game>
+		<path>./Neon.dsk</path>
+		<name>Neon</name>
+		<sortname />
+		<desc>Neon is a series of 4 brightly colored minigames. To complete a stage, the player must complete all 4 minigames, at which point they can repeat all 4 games at an increased difficulty level. If the player loses 3 lives, then it’s game over. On the stage selection screen, there are four buttons to choose from, but the challenge each corner encompasses is randomized each game. The four different stages are as follows: -The player controls a small ship which can shoot in the 4 cardinal directions. They start in the middle of the screen, and enemy vessels stream towards the player. The player must outmaneuver the enemy ships and shoot them down with their cannons. If the enemy ships come in contact with the player, then a life is lost.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Datamost, Inc.</developer>
+		<publisher>Datamost, Inc.</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Neon.jpg</image>
+		<video>./snaps/Neon.mp4</video>
+	</game>
+	<game>
+		<path>./Nibbler.dsk</path>
+		<name>Nibbler</name>
+		<sortname />
+		<desc>Nibbler is a Pac-Man clone for the Apple II. The player must navigate a character through a maze, with the goal of eating all the dots present within. Complicating the matter, are four ghosts who chase the player through the maze, and cost them a life if they contact the player. In each corner of the maze lies a power-up, which will temporarily make the ghosts vulnerable, and send them back to their home in the center of the screen. The player has a total of three lives, and when all are lost, it’s game over. The player advances to a more difficult level if all dots are eaten.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>MicroSparc, Inc.</developer>
+		<publisher>MicroSparc, Inc.</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Nibbler.jpg</image>
+		<video>./snaps/Nibbler.mp4</video>
+	</game>
+	<game>
+		<path>./One On One.dsk</path>
+		<name>One-On-One</name>
+		<sortname />
+		<desc>Control either Julius Erving or Larry Bird in front of a single basket, in a game of one on one. The user can select to play either to a certain score or for a certain amount of time. When on offense, the player can rotate to keep away from his rival, take a shot from a distance or move in to the basket for special up-close slam-dunks. When on defense, you can try to take your rival’s ball or jump up to block a shot. Particularly good set-ups get a slow-motion replay. You can even smash the glass on the backboard, which will send an irate janitor onto the court to clean up the mess.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/One On One.jpg</image>
+		<video>./snaps/One On One.mp4</video>
+	</game>
+	<game>
+		<path>./Pentapus.dsk</path>
+		<name>Pentapus</name>
+		<sortname />
+		<desc>The player controls a set of boxed in crosshairs, and must destroy alien vessels. The crosshairs can be moved in all directions to blast alien creatures. If the player is shot by the alien creatures, they are destroyed, and the player loses a life.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Turning Point Software</developer>
+		<publisher>Turning Point Software</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Pentapus.jpg</image>
+		<video>./snaps/Pentapus.mp4</video>
+	</game>
+	<game>
+		<path>./Pest Patrol.dsk</path>
+		<name>Pest Patrol</name>
+		<sortname />
+		<desc>Pest Patrol is a Space Invaders-type game. There are 39 levels of play and each level is made up of a different attack pattern. There is also a practice option available which allows you to practice any of the first 29 levels. The last 10 levels can only be reached in the play mode.</desc>
+		<rating>1</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Pest Patrol.jpg</image>
+		<video>./snaps/Pest Patrol.mp4</video>
+	</game>
+	<game>
+		<path>./Photar.dsk</path>
+		<name>Photar (a.k.a Nightcrawler)</name>
+		<sortname />
+		<desc>The player controls a small spaceship that can only shoot vertically upwards. The ship can move horizontally through the length of the screen, and can also move a short distance vertically. At the beginning of each level, a number of alien vessels slowly approach the player’s vessel by strafing left and right. Small barriers on the game play area deflect alien ships, and also block the player’s shots. Larger alien shields worth bonus points bounce about the screen. If the player destroys all the small alien vessels, they move to a more difficult level with faster moving vessels. The goal is to achieve a high score, for which the player only has one life.</desc>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Softape</developer>
+		<publisher>Softape</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Photar.jpg</image>
+		<video>./snaps/Photar.mp4</video>
+	</game>
+	<game>
+		<path>./Pipe Dream.dsk</path>
+		<name>Pipe Dream</name>
+		<sortname />
+		<desc>Each level of this abstract puzzler challenges the player to set up a network of pipes to allow an unspecified substance known as ‚flooz‘ to flow through as many of those as possible. The pieces are offered in random order, and there are seven different types - straight lines going horizontally or vertically, corners rotating in each of the four directions, and cross-over pieces which carry the flooz straight across horizontally and vertically. Each of these can be entered from either side. When the flooz hits a gap, or a piece which the previous piece can’t flow into, the pipe is finished.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Assembly Line, The</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Puzzle</genre>
+		<image>./boxart/Pipe Dream.jpg</image>
+		<video>./snaps/Pipe Dream.mp4</video>
+	</game>
+	<game>
+		<path>./Plasmania.dsk</path>
+		<name>Plasmania</name>
+		<sortname />
+		<desc>In Plasmania, you are a microscopic ship traveling through your patient’s bloodstream destroying viruses and pathogens. Be careful though! Every time you shoot or run into enemies or the wall of the blood vessel, you make your patient sicker. The game ends when the patient sustains too much damage and dies. Game play is very similar to a vertical version of the arcade game Scramble.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Sirius Software, Inc.</developer>
+		<publisher>Sirius Software, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Plasmania.jpg</image>
+		<video>./snaps/Plasmania.mp4</video>
+	</game>
+	<game>
+		<path>./Raster Blaster.dsk</path>
+		<name>Raster Blaster</name>
+		<sortname />
+		<desc>[Use JOYBTNs or ALTKEYs to PLAY] --- Raster Blaster is one of the very first computer pinball simulations, created by Bill Budge. It was the foundation for Budge’s later hit Pinball Construction Set and is an unofficial adaptation of the Williams pinball table Firepower. The game has two difficulties - in Easy mode a ball shield is always present, but it must first be activated in Hard mode - and up to four players can play the game, taking turns.</desc>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>BudgeCo., Inc.</developer>
+		<publisher>BudgeCo., Inc.</publisher>
+		<genre>Simulation</genre>
+		<image>./boxart/Raster Blaster.jpg</image>
+		<video>./snaps/Raster Blaster.mp4</video>
+	</game>
+	<game>
+		<path>./Repton.dsk</path>
+		<name>Repton</name>
+		<sortname />
+		<desc>[P = HELP | CRTL-J = JOYSTICK | Both Buttons = NUKE] --- A side scrolling Shoot’em Up inspired by Defender, but adding much to the concept. You fly across a looping horizontally-scrolling landscape aiming to protect your base. There are a total of eight enemies on screen at any given time. The Quarriers try to build the enemy base by stealing parts of yours. The Drayns steal energy from you and then supply it to the enemy. Fortunately you can steal back the energy they take, but you can’t steal back parts of your base. The other six enemies just try to kill you. The bigger the enemy base gets, the more rapidly and accurately they can launch enemies at you.</desc>
+		<rating>1</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Sirius Publishing, Inc.</developer>
+		<publisher>Sirius Publishing, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Repton.jpg</image>
+		<video>./snaps/Repton.mp4</video>
+	</game>
+	<game>
+		<path>./Rescue Raiders.dsk</path>
+		<name>Rescue Raiders</name>
+		<sortname />
+		<desc>In 1984, you’re transported back to World War II in Europe, 1944 at the battle of Normandy on D-Day. An evil group of terrorists possess the time machine and taken with them modern weapons and technology to change the course of history by hoping to control future economic, political direction and to rule to the present.</desc>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Sir-tech</developer>
+		<publisher>Sir-tech</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Rescue Raiders.jpg</image>
+		<video>./snaps/Rescue Raiders.mp4</video>
+	</game>
+	<game>
+		<path>./Robot Battle.dsk</path>
+		<name>Robot Battle</name>
+		<sortname />
+		<desc>The player controls a small character, whom can move in 8 directions. They player is armed with a small laser, which can be fired in one of these directions. The goal on each level is to avoid enemy robots, and destroy them with the pistol. Humans will walk onto the screen, and the player receives 1000 points if they are rescued, but the humans can be destroyed by walking into enemies. At later stages, beacons appear on the map which will destroy enemy or player characters when touched. When the player clears all robots in a stage, they progress to a more difficult stage. The player has a total of 3 lives, and when all are lost, it’s game over. The player receives an addition life for every 50,000 points accumulated.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>United Software of America</developer>
+		<publisher>United Software of America</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Robot Battle.jpg</image>
+		<video>./snaps/Robot Battle.mp4</video>
+	</game>
+	<game>
+		<path>./Robot Odyssey.dsk</path>
+		<name>Robot Odyssey</name>
+		<sortname />
+		<desc>[!! 2-disc game - swapping needed !!] Robot Odyssey is a logic adventure game. You have been taken into Robotropolis, an underground city of robots. To escape, you must program your robot helpers Sparky, Checkers, and Scanner to solve the puzzles and escape.</desc>
+		<rating>0.6</rating>
+		<releasedate>19841201T000000</releasedate>
+		<developer>The Learning Co., Inc.</developer>
+		<publisher>The Learning Co., Inc.</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/Robot Odyssey.jpg</image>
+		<video>./snaps/Robot Odyssey.mp4</video>
+	</game>
+	<game>
+		<path>./Robotics.dsk</path>
+		<name>Robotics</name>
+		<sortname />
+		<desc>A platform-type game Andrew Willmott wrote as a 15-year-old back in ‚86. [CTRL-S = Show hi-scores | CTRL-W = Wipe hi-scores | CTRL-L 0-9 = Set starting level. (There are 10.)] Any other key: starts game in keyboard mode. (L+R arrow keys, space.) Button 0 = start game in paddle/joystick mode.</desc>
+		<rating>0.6</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Andrew Willmott</developer>
+		<publisher>Andrew Willmott</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Robotics.jpg</image>
+		<video>./snaps/Robotics.mp4</video>
+	</game>
+	<game>
+		<path>./Robotron 2084.dsk</path>
+		<name>Robotron 2084</name>
+		<sortname />
+		<desc>You are a mutant human, who by some freak of nature has the ability to shoot energy pulses from his body in eight different directions! Your job is simple: save humanity from their own creation the ROBOTRONS! The gameplay is pretty unique for the time. You can move and fire in any of eight directions. You get thrown in a room with various evil baddies strewn about, you’ve got to kill all the robots while at the same time finding some way to grab humans and avoid death.</desc>
+		<rating>1</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Vid Kidz</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Robotron 2084.jpg</image>
+		<video>./snaps/Robotron 2084.mp4</video>
+	</game>
+	<game>
+		<path>./Round About.dsk</path>
+		<name>Round About</name>
+		<sortname />
+		<desc>Round About is a fixed screen shoot ‚em up. What sets it apart from other Shoot’em Ups of its time is that the player isn’t restricted to the lower parts of the screen. Here he can move along every side of the screen, around the enemies that move around in the middle. The enemies are abstract shapes that move in packs swarming around the screen in specific patterns while the player tries hitting them. Once one swarm has been killed there’s another one taking its place. The player has three lives at the start and earn new ones after completing every few levels. The game has 24 levels in total and after that it starts over.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Gumby Bitworks</developer>
+		<publisher>Datamost, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Round About.jpg</image>
+		<video>./snaps/Round About.mp4</video>
+	</game>
+	<game>
+		<path>./Sabotage.dsk</path>
+		<name>Sabotage</name>
+		<sortname />
+		<desc>The player controls a gun turret at the bottom of the screen. The turret can swivel to cover a large area of the screen, but cannot move from its base. Helicopters fly across the screen at varying heights, dropping paratroopers. The gun may fire multiple shots at once, and the shots may destroy helicopters or shoot paratroopers. Paratroopers may be disintegrated by a direct hit, or their parachutes may be shot, in which case they will plummet to earth (splattering and dying if they were sufficiently high when the shot hit).</desc>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Mark Allen</developer>
+		<publisher>Sierra Entertainment</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Sabotage.jpg</image>
+		<video>./snaps/Sabotage.mp4</video>
+	</game>
+	<game>
+		<path>./Sammy Lightfoot.dsk</path>
+		<name>Sammy Lightfoot</name>
+		<sortname />
+		<desc>Go through three levels jumping over obstacles that get in your way. Use trampolines and swings to get to hard-to-reach places and avoid hazards or falling down gaps. Get to the top of the screen in order to proceed to the next level. Once three levels are completed, the game restarts with increased difficulty. Before you start the game, you can access the options screen which lets you customize the screen to include another player, turn off the sound or the scene music, or let either player start at any particular level.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Sammy Lightfoot.jpg</image>
+		<video>./snaps/Sammy Lightfoot.mp4</video>
+	</game>
+	<game>
+		<path>./Saracen.dsk</path>
+		<name>Saracen</name>
+		<sortname />
+		<desc>A combination puzzle/action game. In each of the 100 levels, the player moves a crusader through an obstacle filled maze trying to reach the Saracen Chief and detonate a bomb next to him. The chief does not move, instead remaining in a set position. Along the way, he must avoid roaming guards, bouncing cannonballs, and other traps. The crusader is armed with a bow and can pick up directionally specific arrows that are used to stop guards or destroy walls. The arrows being limited to shooting in one of the four compass directions is exacerbated by only being able to carry one object (key, arrow or bomb) at a time. There is generally only one way to solve each level and proper use of the given tools is key to finding it.</desc>
+		<rating>0.6</rating>
+		<releasedate>19870301T000000</releasedate>
+		<developer>IntelliCreations, Inc.</developer>
+		<publisher>Datasoft, Inc.</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Saracen.jpg</image>
+		<video>./snaps/Saracen.mp4</video>
+	</game>
+	<game>
+		<path>./Sea Dragon.dsk</path>
+		<name>Sea Dragon</name>
+		<sortname />
+		<desc>Sea Dragon is an arcade style side scrolling Shoot’em Up. The player pilots a submarine through treacherous underwater caves in an attempt to destroy a heavily guarded reactor. Mines, gun turrets, and a variety of enemies provide obstacles to this goal. The submarine is armed with missiles, torpedoes, and a ‚Big Kill‘ weapon (this affects everything onscreen) to help the player in their mission. The air supply is limited, so when possible the player must surface to replenish their air supply.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Adventure International</developer>
+		<publisher>Adventure International</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Sea Dragon.jpg</image>
+		<video>./snaps/Sea Dragon.mp4</video>
+	</game>
+	<game>
+		<path>./Seafox.dsk</path>
+		<name>Seafox</name>
+		<sortname />
+		<desc>In Seafox, you control a submarine that must kill all hostile ships above and below the water. You have two types of torpedoes: one that fires to the right and one that fires up. You have a limited number of torpedoes and fuel units, so when you are running low be sure to watch for the green supply ship to release the dolphin that brings you fresh supplies.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Brøderbund Software</developer>
+		<publisher>Brøderbund Software</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Seafox.jpg</image>
+		<video>./snaps/Seafox.mp4</video>
+	</game>
+	<game>
+		<path>./Serpentine.dsk</path>
+		<name>Serpentine</name>
+		<sortname />
+		<desc>In Serpentine you control a multi-segmented snake in a maze; your goal is to survive and earn as many points as possible. At the beginning of each level, three enemy snakes will also enter the maze. To complete the level, you need to eat all of the enemy snakes. If an enemy snake has more segments than your snake, you can only eat segments that form the tail of the snake; a collision with the head is lethal! Each time you eat a segment, the enemy snake will become smaller until eventually you can devour it completely.</desc>
+		<rating>1</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Brøderbund Software</developer>
+		<publisher>Brøderbund Software</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Serpentine.jpg</image>
+		<video>./snaps/Serpentine.mp4</video>
+	</game>
+	<game>
+		<path>./Situation Critical.dsk</path>
+		<name>Situation Critical</name>
+		<sortname />
+		<desc>Situation Critical is a space-themed one-player arcade game. There are 3 separate gameplay components, a Berserk-like top-down game, a side-scrolling space shooter, and a top-down space pilot game. The player can choose to play to focus on just one component, or play all 3 games in series.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Prism Software</developer>
+		<publisher>Prism Software</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Situation Critical.jpg</image>
+		<video>./snaps/Situation Critical.mp4</video>
+	</game>
+	<game>
+		<path>./Snack Attack.dsk</path>
+		<name>Snack Attack</name>
+		<sortname />
+		<desc>The player controls the Snacker, a small, white, fish-like character, moving through a maze in order to eat all the gumdrops scattered throughout. Meanwhile, the Gumdrop Guards, four enemies that resemble the ghosts in Pac-Man, patrol the maze in an attempt to catch the Snacker. Green and purple barriers can only be crossed by the Snacker and the Guards, respectively.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Funtastic</developer>
+		<publisher>Datamost</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Snack Attack.jpg</image>
+		<video>./snaps/Snack Attack.mp4</video>
+	</game>
+	<game>
+		<path>./Snake-Byte.dsk</path>
+		<name>Snake-Byte (Remix)</name>
+		<sortname />
+		<desc>The object is to guide your snake to the apples that appear on the screen. Gobble up an apple, and another appears. Your snake also grows longer. Gobble up ten apples without hitting a wall or any part of your own ever-growing body, and a door to the next level opens. As you move from level to level, the obstacles become more difficult. As you play, bars on each side of the display inch toward the top of the screen. Should they complete their journey before you’ve eaten an apple, you are penalized: Three more apples are added to the total you must eat before completing the level.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Sirius Software, Inc.</developer>
+		<publisher>Sirius Software, Inc.</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Snake-Byte.jpg</image>
+		<video>./snaps/Snake-Byte.mp4</video>
+	</game>
+	<game>
+		<path>./Sneakers.dsk</path>
+		<name>Sneakers</name>
+		<sortname />
+		<desc>Sneakers is a variation on Atari’s classic Space Invaders. Move your ship to the left and to the right and shoot enemies who try to fall down and kill you. There are eight types of enemies, each one using a different tactic to destroy you. You start with the relatively harmless Sneakers and gradually work your way through Cyclops, Saucers, Fangs, H-Wings, Meteors, Scrambles, and Scrubs. After you finish off the Scrubs, you proceed to level 2, which follows the same pattern, but with an increased difficulty level.</desc>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Sirius Software, Inc.</developer>
+		<publisher>Sirius Software, Inc.</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Sneakers.jpg</image>
+		<video>./snaps/Sneakers.mp4</video>
+	</game>
+	<game>
+		<path>./Space Eggs.dsk</path>
+		<name>Space Eggs</name>
+		<sortname />
+		<desc>Space Eggs is a fixed screen Shoot’em Up that is quite similar to Space Invaders and Phoenix, games where aliens inch down the screen in waves to attack the player’s tank. In Space Eggs, instead of firing shells, the player shoots eggs which when destroyed releases monsters, space wolves, giant-bomb-throwing lips, and the most dangerous of all, killer fuzz balls. The killer fuzz balls bounce and shake and move towards the player with frantic inevitability.</desc>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Sirius Software, Inc.</developer>
+		<publisher>Sirius Software, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Space Eggs.jpg</image>
+		<video>./snaps/Space Eggs.mp4</video>
+	</game>
+	<game>
+		<path>./Spys Demise.dsk</path>
+		<name>Spy’s Demise</name>
+		<sortname />
+		<desc>Sneak your way through the Soviet Embassy in Pyongyang via elevators, avoiding Soviet security on different floors to piece together the encrypted message. This is a platform game. You move from floor to floor avoiding the security that is constantly moving up and down on elevators. As you climb, you will collect all of the pieces that form an encrypted message as you advance to the next level.</desc>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Penguin Software, Inc.</developer>
+		<publisher>Penguin Software, Inc.</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Spys Demise.jpg</image>
+		<video>./snaps/Spys Demise.mp4</video>
+	</game>
+	<game>
+		<path>./Star Blazer.dsk</path>
+		<name>Star Blazer</name>
+		<sortname />
+		<desc>Star Blazer is a side-scrolling Shoot’em Up similar in style to Konami’s Super Cobra. You are a fighter pilot on several hazardous missions. In each level you have to fulfill one mission like bomb the radar, destroy the tank etc. The scenery as buildings and warehouses and airborne objects as jets and rockets can all destroy your jet. Your fighter jet is armed with a limited supply of bullets for a on board machine gun and with bombs, also with limited supply. Bombs can only be dropped from very low altitude. Furthermore, your jet has a limited amount of fuel which can be refueled by picking up a parachute dropped out of another plane.</desc>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>StarCraft, Inc.</developer>
+		<publisher>Brøderbund Software</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Star Blazer.jpg</image>
+		<video>./snaps/Star Blazer.mp4</video>
+	</game>
+	<game>
+		<path>./Star Snacker.dsk</path>
+		<name>Star Snacker</name>
+		<sortname />
+		<desc>Star Snacking across the universe! It's Snack Man IN S-P-A-C-E! You ate too much Chinese food and now you're in outer space barfing up nastiness all over the Alien Ghosts of the SnackOn system. Avoid the Apple Bombs and gobble the F'em sauce to increase your "Fire Power" to wreak savage destruction. Compatible with all apple models. All Assembly Language.</desc>
+		<rating>0.8</rating>
+		<releasedate>20210101T000000</releasedate>
+		<developer>Snacking On! Software</developer>
+		<publisher>Snacking On! Software</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Star Snacker.jpg</image>
+		<video>./snaps/Star Snacker.mp4</video>
+	</game>
+	<game>
+		<path>./Starblaster.dsk</path>
+		<name>Starblaster</name>
+		<sortname />
+		<desc>Starblaster (a.k.a. Star Blaster) is an early scrolling Shoot’em Up in which the player attempts to beat back an alien invasion force, dead-set on destroying the Earth (a staple of alien invasion forces everywhere, it would seem). The player’s solitary space fighter must blast its way through continuous waves of intruders, and then face off against the dreaded Annihilator. Rather unusually for a side-scrolling shooter, the ship flies from right to left. Each attack wave features a different type of enemy, and when the final mothership is destroyed, the action loops back to start - each time at an increased difficulty level.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Piccadilly Software Inc.</developer>
+		<publisher>Piccadilly Software Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Starblaster.jpg</image>
+		<video>./snaps/Starblaster.mp4</video>
+	</game>
+	<game>
+		<path>./Stellar 7.dsk</path>
+		<name>Stellar 7</name>
+		<sortname />
+		<desc>Stellar 7 is a first-person action game inspired by Atari’s Battlezone, with similar wireframe graphics. In each of the seven levels, the player must defeat a number of enemies. Doing so reveals the warplink that takes the Raven to the next system. Next to a cannon, the Raven is equipped with radar, shields, and a cloaking device. The cloak drains the energy level of the vehicle substantially, and the depletion of the energy reserves or the shields destroys the Raven. Some of the levels include fuel bays that allow the player to recharge the energy.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Software Entertainment Company</developer>
+		<publisher>Software Entertainment Company</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Stellar 7.jpg</image>
+		<video>./snaps/Stellar 7.mp4</video>
+	</game>
+	<game>
+		<path>./Tharolian Tunnels.dsk</path>
+		<name>Tharolian Tunnels</name>
+		<sortname />
+		<desc>Tharolian Tunnels is an action game that contains five parts with varying gameplay. The player’s task is to enter the planet Tharolia through a tunnel and reach the centre of it where its defense systems has to be destroyed. On the way to the centre the player has to avoid getting killed by the defenses and avoid crashing into the tunnel walls or running out of fuel. The game starts out in space with the first part being a Shoot’em Up similar to Space Invaders where the player has to clear out two rows of enemy ships that move back and forth across the screen. Once it has been completed the player enters the planet and has to navigate a space craft through a small tunnel that scrolls from top to bottom while not crashing.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>The Software Farm, Inc.</developer>
+		<publisher>The Software Farm, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Tharolian Tunnels.jpg</image>
+		<video>./snaps/Tharolian Tunnels.mp4</video>
+	</game>
+	<game>
+		<path>./The Heist.dsk</path>
+		<name>Heist, The</name>
+		<sortname />
+		<desc>As a cat burglar, it’s up to you to collect all of the valuable paintings from each level while avoiding security systems, pits and robotic sentries which move back and forth. Each level is comprised of three floors and ladders connecting them. Your cat burglar has only the ability to jump, and you must rely entirely on that to keep you alive.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Livesay Computer Games, Inc.</developer>
+		<publisher>Micro Fun</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/The Heist.jpg</image>
+		<video>./snaps/The Heist.mp4</video>
+	</game>
+	<game>
+		<path>./The Snapper.dsk</path>
+		<name>Snapper, The</name>
+		<sortname />
+		<desc>The Snapper is a 1 or 2-player arcade maze game. The player controls the arrow-like Snapper, which follows a series of purple dotted lines. The goal is to collect a specific number of blots on each stage before returning to one of the 4 bases. On early stages, no blots are required, but as difficulty progresses, more blots are required to complete a level. The player always starts in the middle of the stage, and must avoid the flashing Gamma Field which flits around the screen. In addition, Whirlers follow the purple lines, but destroy the trail behind them, constantly changing the maze. The player loses a life if they contact a Whirler or Gamma Field.</desc>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Silicon Valley Systems, Inc.</developer>
+		<publisher>Silicon Valley Systems, Inc.</publisher>
+		<genre>Action</genre>
+		<image>./boxart/The Snapper.jpg</image>
+		<video>./snaps/The Snapper.mp4</video>
+	</game>
+	<game>
+		<path>./Threshold.dsk</path>
+		<name>Threshold</name>
+		<sortname />
+		<desc>Threshold is a simple Shoot’em Up game. You are in control of a spaceship at the bottom of the screen and have to shoot several formations of enemies at the top of the screen. To make things more difficult you have limited time in form of a fuel tank which will get refilled after you cleared a number of waves. Besides that, your spacecraft is equipped with a laser that tends to overheat. Every shot makes the heat bar of the laser increase a bit. Once it reached its maximum you can’t fire anymore and are forced to wait until it cools down while slowly running out of fuel.</desc>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>On-Line Systems</developer>
+		<publisher>On-Line Systems</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Threshold.jpg</image>
+		<video>./snaps/Threshold.mp4</video>
+	</game>
+	<game>
+		<path>./Vindicator.dsk</path>
+		<name>Vindicator</name>
+		<sortname />
+		<desc>The player controls a robot which is tasked with protecting a number of eggs placed about the screen from a vulture enemy that will attempt to steal them. After destroying all enemies on a level, the player will receive a bonus for the number of eggs remaining. The player is armed with a limited number of disruptor bombs that can only be used a few times per game. Numerous enemies, including: dragons which chase the player, robots which fire upon the player, a truck which drives across the screen, and more threaten the player. Comes with a built in sprite editor to modify monsters, but does not save the changes. The player starts with 5 lives, and when all are lost it’s game over, or when all eggs are lost on a level</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Dragonfly</developer>
+		<publisher>H.A.L. Labs</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Vindicator.jpg</image>
+		<video>./snaps/Vindicator.mp4</video>
+	</game>
+	<game>
+		<path>./Wavy Navy.dsk</path>
+		<name>Wavy Navy</name>
+		<sortname />
+		<desc>Battle 30-foot waves, enemy fighter jets, bombers, and helicopters while dodging mines in this Galaxian clone that has a few novel twists. Your P.T. Boat can be moved left or right and can fire missiles to bring down enemy aircraft, but it also moves up and down, staying on the surface of the huge, slow-moving waves.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Sirius Publishing, Inc.</developer>
+		<publisher>Sirius Publishing, Inc.</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Wavy Navy.jpg</image>
+		<video>./snaps/Wavy Navy.mp4</video>
+	</game>
+	<game>
+		<path>./Word Munchers.dsk</path>
+		<name>Word Munchers</name>
+		<sortname />
+		<desc>Word Munchers is an installment in the Munchers series focused on vowel sounds. The player moves his muncher creature on a board, the task is to eat the right words with the same vowel sound as a word shown at the top of the screen. Sometimes, unfriendly creatures called Troggles enter the playfield. They come in different types with different patterns and abilities, and running into them depletes Muncher lives, as does eating incorrect words. Occasionally, safety squares appear which offer some temporary protection. It’s possible to make some adjustments to the game, such as the difficulty by using the management options.</desc>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>MECC</developer>
+		<publisher>MECC</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Word Munchers.jpg</image>
+		<video>./snaps/Word Munchers.mp4</video>
+	</game>
+	<game>
+		<path>./World Karate Championship.dsk</path>
+		<name>World Karate Championship</name>
+		<sortname />
+		<desc>The objective of World Karate Championship is to get the highest possible dan (karate grade, determined by belt colour) and become the world champion - and of course, to get the highest score. Karate fighters compete against each other on side-view screens, the scenery representing real world locations (New York, Egypt, Japan, etc.). In between the fighting stages, there are short action sequences, during which the player can gather bonus points. These include deflecting bouncing balls, breaking wooden planks, and others.</desc>
+		<rating>0.6</rating>
+		<releasedate>19831001T000000</releasedate>
+		<developer>System 3 Software Ltd.</developer>
+		<publisher>Epyx, Inc.</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/World Karate Championship.jpg</image>
+		<video>./snaps/World Karate Championship.mp4</video>
+	</game>
+	<game>
+		<path>./Xevious.dsk</path>
+		<name>Xevious</name>
+		<sortname />
+		<desc>A hundred thousand years ago, an ancient civilization prospered on our Earth, their product being GAMP (General Artificial Matrix Producer). In order to survive the Ice Age, most of the Earth’s inhabitants have decided to leave it, finally settling on a planet called Xevious. A group of humans remained, becoming our own ancestors. Many years have passed, and the Xevians are now planning a massive comeback to their long-lost homeland. The pilot Mu, his android companion Eve, and Mio, a Xevian who opposes the GAMP regime, are back from a space travel just in time to warn the Earth of the upcoming invasion. The prototype fighter craft Solvalou is going to be used as the main weapon against the Xevian attack.</desc>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Xevious.jpg</image>
+		<video>./snaps/Xevious.mp4</video>
+	</game>
+	<game>
+		<path>./Yahtzee.dsk</path>
+		<name>Yahtzee</name>
+		<sortname />
+		<desc>Yahtzee is a text-based implementation of the popular dice game for the Apple II. Players take turns rolling five dice, and the player can reroll any or all of the dice twice more before selecting their scoring category. Scoring categories include 6 categories within the Upper Section, which include the sum of all ones to sixes. If the sum of the upper category is 63 points or more, the player receives a 35 point bonus. In the Lower Section, the categories include 3 of a kind, 4 of a kind, full house, a 4 dice straight, a 5 dice straight, yahtzee (5 of a kind) and chance (which is the sum of all dice). A game is finished when all 11 scoring categories have been used. A computer opponent is available for competition.</desc>
+		<rating>0.8</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Apple Computer, Inc.</developer>
+		<publisher>Apple Computer, Inc.</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Yahtzee.jpg</image>
+		<video>./snaps/Yahtzee.mp4</video>
+	</game>
+	<game>
+		<path>./Zork I - The Great Underground Empire.dsk</path>
+		<name>Zork I: Great Underground Empire, The</name>
+		<sortname />
+		<desc>It beckons you into a world fraught with danger and discovery. Using all the cunning you can muster, you’ll plunge far below the surface of the earth in search of the incomparable treasures of Zork. But this is no mere treasure hunt. During your amazing journey, you’ll come face to face with creatures so outlandish, they defy description. And you’ll wander through an underground domain so vast, with so many twists and turns, it can offer you new surprises no matter how many times you explore it.</desc>
+		<rating>0.6</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Infocom</developer>
+		<publisher>Infocom</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/Zork I - The Great Underground Empire.jpg</image>
+		<video>./snaps/Zork I - The Great Underground Empire.mp4</video>
+	</game>
+	<game>
+		<path>./Zork II - The Wizard of Frobozz.dsk</path>
+		<name>Zork II: Wizard of Frobozz, The</name>
+		<sortname />
+		<desc>Zork II: The Wizard of Frobozz is a text adventure, a sequel to the classic first Zork. Once again, the game is set in the Great Underground Empire, but this time the main goal is to face off against the titular Wizard. Like its predecessor, Zork II plays like any other text adventure: there are no graphics - only text - and the player types commands such as ‚‘lift cage‘‘ or ‚‘examine robot‘‘.</desc>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Infocom</developer>
+		<publisher>Infocom</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/Zork II - The Wizard of Frobozz.jpg</image>
+		<video>./snaps/Zork II - The Wizard of Frobozz.mp4</video>
+	</game>
+	<game>
+		<path>./Zork III - The Dungeon Master.dsk</path>
+		<name>Zork III: Dungeon Master, The</name>
+		<sortname />
+		<desc>In the third game of the adventure game series Zork, you are once again a nameless adventurer, only this time you won’t travel through a beautiful magical land, but are immediately cast into a deep dungeon. Like in a dream, you hear a mysterious voice telling you that you have passed all the tests but one. When conscience returns to you, you find yourself on the endless spiral of stairs, with only your trusty lantern near you, will you be able to survive the horrors of the Dungeon?</desc>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Infocom</developer>
+		<publisher>Infocom</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/Zork III - The Dungeon Master.jpg</image>
+		<video>./snaps/Zork III - The Dungeon Master.mp4</video>
+	</game>
+	<game>
+		<path>./Zorro.dsk</path>
+		<name>Zorro</name>
+		<sortname />
+		<desc>All the ingredients from the Zorro story feature in this action game - a kidnapped senorita, an evil enemy leader (Colonel Garcia) and his henchmen and of course the obligatory swordfight! Zorro is a strange beast, he can leap across buildings, fall 50 feet and land like a feather. He can also perform masterful tricks, such as balancing a large plant pot on his head, while simultaneously climbing up a ladder. There are 20 different screens in the game, with The Ole Hotel screen being used continually throughout the game. The player must overcome various puzzles, including the branding of a bull and catapulting into the air via a conveniently left spring board and a dazed Garcia guard!</desc>
+		<rating>0.6</rating>
+		<releasedate>19851101T000000</releasedate>
+		<developer>Datasoft, Inc.</developer>
+		<publisher>Datasoft, Inc.</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Zorro.jpg</image>
+		<video>./snaps/Zorro.mp4</video>
+	</game>
+	<game>
+		<path>./Bubble Bobble.dsk</path>
+		<name>Bubble Bobble</name>
+		<sortname />
+		<desc>[!! 2-disc game - swapping needed!!] --- In Bubble Bobble enemies must be cleared from a level to go to the next one. With one player controlling Bub and the other controlling Bob, the player can jump and collect items for points. The real power Bub and Bob have, is the ability to blow bubbles. These bubbles can be as platforms to leap on, or to trap enemies. Enemies trapped in a bubble must be popped by jumping into them, wherein they’ll turn to fruit. Power-ups sometimes float by in bubbles. They include lightning, which flies out horizontally at enemies, and water, which drags the player and enemies straight down flowing over platforms. Taking too long will summon Baron Von Blubba trying to destroy the player.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890701T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Taito Software Inc.</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Bubble Bobble.jpg</image>
+		<video>./snaps/Bubble Bobble.mp4</video>
+	</game>
+	<game>
+		<path>./Darkstar Unhinged.dsk</path>
+		<name>Darkstar Unhinged</name>
+		<sortname />
+		<desc>You are Deuce Darkstar: Destroyer of Worlds, and you are fed up to here with cute alien races who beg you for your help defending them against the dark hordes, and then stiff you on the bill. Again. And Again. You’re done. Let them burn! No, better... MAKE THEM BURN. Darkstar Unhinged is a fast-action arcade-style shooter for the Apple][ family of computers. Storm the gate. Begin your onslaught. Take no prisoners.</desc>
+		<rating>1</rating>
+		<releasedate>20190101T000000</releasedate>
+		<developer>Snacking On! Software</developer>
+		<publisher>Snacking On! Software</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Darkstar Unhinged.jpg</image>
+		<video>./snaps/Darkstar Unhinged.mp4</video>
+	</game>
+	<game>
+		<path>./Epoch.dsk</path>
+		<name>Epoch</name>
+		<sortname />
+		<desc>[Use both JOYBTNs to FIRE] --- Epoch puts one player in control of a spacecraft with the goal to destroy as many aliens as possible before running out of either time, ammunition or fuel. The game is viewed from a first person perspective, the player flies through the darkness of space trying to place crosshairs so targets can get hit with the weapon of his ship. There are four different types of alien ships and two different alien bases, each giving a different score when destroyed. Friendly bases can be used for rearming and refueling, while time can be regained by entering time portals and flying down the time corridors that appear.</desc>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Sirius Software, Inc.</developer>
+		<publisher>Sirius Software, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Epoch.jpg</image>
+		<video>./snaps/Epoch.mp4</video>
+	</game>
+	<game>
+		<path>./Hadron.dsk</path>
+		<name>Hadron</name>
+		<sortname />
+		<desc>[Use both JOYBTNs to FIRE] --- A space based Shoot’em Up played from a first person perspective. The objective of the game is to follow enemy fighters back to their base and then destroy it. On the way there are numerous enemy space ships that the player can attempt to shoot down. Among the enemy ships there are different types of fighters, saucers, sensors and robots. Each ship has a specific target area that has to be hit such as the antenna of the surveillance ship. The player’s ship has a limited amount of ammunition and fuel which decreases when steering or changing speeds. If successful in destroying the enemy base, the player’s ship is refuelled and gets an ammunition refill before heading out to the next level.</desc>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Sirius Software, Inc.</developer>
+		<publisher>Sirius Software, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Hadron.jpg</image>
+		<video>./snaps/Hadron.mp4</video>
+	</game>
+	<game>
+		<path>./Lady Tut.dsk</path>
+		<name>Lady Tut</name>
+		<sortname />
+		<desc>In Lady Tut, you are searching underground for Lady Tut’s sarcophagus. In order to do this, you must go through five mazes collecting all the rings that you can find while avoiding creatures that roam around. There are one or two doors leadng to the next maze, but each of them must be unlocked with the key found in the same maze you are in. Later, a gun can be obtained, and can be used to shoot creatures.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Progame</developer>
+		<publisher>Progame</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Lady Tut.jpg</image>
+		<video>./snaps/Lady Tut.mp4</video>
+	</game>
+	<game>
+		<path>./Marble Madness.dsk</path>
+		<name>Marble Madness</name>
+		<sortname />
+		<desc>[!! 2-disc game - swapping needed !!] --- The idea of this arcade game is deceptively simple: Guide a marble down a path without hitting any obstacles or straying off the course. The game is viewed from an isometric perspective, which makes it harder to stay focused on the direction the ball is to follow. There are tight corridors to follow and enemies to avoid. There is a 2-player mode in which players must race to the finish; otherwise you're racing against the clock.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890701T000000</releasedate>
+		<developer>Atari, Inc.</developer>
+		<publisher>Electronic Arts, Inc.</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Marble Madness.jpg</image>
+		<video>./snaps/Marble Madness.mp4</video>
+	</game>
+	<game>
+		<path>./Mr. Robot and his Robot Factory.dsk</path>
+		<name>Mr. Robot and his Robot Factory</name>
+		<sortname />
+		<desc>You are in control of a robot and have to guide him through 22 platform levels using ladders, treadmills, trampolines, escalators, magnets, transporters and other devices. You must collect all the power-pills in one level in order to finish it, but you have only limited time to do so as you are constantly losing energy. Falling from too high or touching an enemy kills your robot. Picking up energizers temporarily enables you to kill your enemies. The game also features an editor that lets you create your own levels.</desc>
+		<rating>0.6</rating>
+		<releasedate>19840201T000000</releasedate>
+		<developer>Datamost, Inc.</developer>
+		<publisher>Datamost, Inc.</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Mr. Robot and his Robot Factory.jpg</image>
+		<video>./snaps/Mr. Robot and his Robot Factory.mp4</video>
+	</game>
+	<game>
+		<path>./Prince of Persia.dsk</path>
+		<name>Prince Of Persia</name>
+		<sortname />
+		<desc>[!! 3-disc game - swapping needed !!] --- Prince of Persia is a 2D platformer that is commonly regarded as a progenitor of the cinematic platformer genre. Rather than following the more common jump-and-run mechanics, it focuses on careful advancement through fairly complex levels, emphasizing the protagonist’s vulnerability and survival aspect. Rotoscoping technique is used to give more realism to the animation of the characters‘ movements. The protagonist must avoid deadly traps, solve some simple jumping and environmental puzzles (such as stepping on pressure plates to raise portcullis), and engage in sword fights with the guards.</desc>
+		<rating>1</rating>
+		<releasedate>19891003T000000</releasedate>
+		<developer>Brøderbund Software, Inc.</developer>
+		<publisher>Brøderbund Software, Inc.</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Prince of Persia.jpg</image>
+		<video>./snaps/Prince of Persia.mp4</video>
+	</game>
+	<game>
+		<path>./Alien Downpour.dsk</path>
+		<name>Alien Downpour</name>
+		<sortname />
+		<desc>Created to celebrate the 40th birthday of the Apple II line, Alien Downpour pays tribute to old-school Shoot’em Up action. There are sectors upon sectors of hostile space baddies to vanquish, bosses to defeat, and obstacle-course sections to test the player’s agility - complete with references to fondly-remembered past games (and to Apple II history). You also have free-falling hostages to pick up and rescue; being too trigger-happy poses the risk of massacring your distressed comrades. These stages are interspersed with „slalom zones“, where you must dodge falling objects of varying likelihoods, and with boss-battle sections. If you survive long enough, a special stage leads to the final showdown...</desc>
+		<rating>0.8</rating>
+		<releasedate>20170501T000000</releasedate>
+		<developer>Snacking On Software</developer>
+		<publisher>Snacking On Software</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Alien Downpour.jpg</image>
+		<video>./snaps/Alien Downpour.mp4</video>
+	</game>
+	<game>
+		<path>./Battlezone.dsk</path>
+		<name>Battlezone</name>
+		<sortname />
+		<desc>Commonly considered the earliest progenitor of first-person Shoot’em Ups (FPS), Battlezone is a 3D tank game initially released in the arcades, and later converted officially to many systems. Earth has been invaded, and you and your tank lead the defensive effort. You drive around the battlefield from a first-person view, targeting and firing at tanks, planes and UFOs. You have a radar to help you see where the enemies are in direction and distance. Objects can be used as strategic cover. Controls simulate the tracks of a tank realistically, so the direction and speed settings are varied - combining forward right and backward left movements (as you can on keyboard versions) sees you change direction more quickly.</desc>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Atari, Inc.</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Simulation</genre>
+		<image>./boxart/Battlezone.jpg</image>
+		<video>./snaps/Battlezone.mp4</video>
+	</game>
+	<game>
+		<path>./Buzzard Bait.dsk</path>
+		<name>Buzzard Bait</name>
+		<sortname />
+		<desc>Buzzard Bait is a single screen Shoot’em Up where you have to protect the humans from predatory buzzards. The player must protect the humans by shooting the buzzards. When the buzzards manages to pick up a human and feed it to their baby, it will also leave the nest and join the hunt. Sometimes a penguin fly across the screen, first at the top of the screen then the bottom. To avoid the low flying penguin, the player can jump across it which is tricky because then he can crash into a buzzard.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890701T000000</releasedate>
+		<developer>Sirius Software, Inc.</developer>
+		<publisher>Sirius Software, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Buzzard Bait.jpg</image>
+		<video>./snaps/Buzzard Bait.mp4</video>
+	</game>
+	<game>
+		<path>./County Fair.dsk</path>
+		<name>County Fair</name>
+		<sortname />
+		<desc>County Fair is a shooting gallery game, in the tradition of amusement parks everywhere. Similar to Carnival, the player’s gun can be recklessly waved left and right along the bottom of the screen; the objective: rack up as many points as you can by picking off the moving targets, until your bullets run out. Precision is a must, especially when aiming for the well-shielded trees at the back. If you take too long to get ‚em all, the lesser targets will start respawning, so speed also counts.</desc>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Datamost</developer>
+		<publisher>Datamost</publisher>
+		<genre>Action</genre>
+		<image>./boxart/County Fair.jpg</image>
+		<video>./snaps/County Fair.mp4</video>
+	</game>
+	<game>
+		<path>./Dogfight.dsk</path>
+		<name>Dogfight</name>
+		<sortname />
+		<desc>Dogfight is an aerial combat video game written by Bill Basham for the Apple II and published by Microlab in 1980. The game is a clone of Atari, Inc.‘s 1975 arcade game Jet Fighter. The player controls an aircraft that always moves in the direction is it pointed and can be rotated left or right and shoot. The screen wraps around at the edges, such that a player heading off the right edge of the screen will re-enter from the left.</desc>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Bill Basham</developer>
+		<publisher>Microlab</publisher>
+		<genre>Shoot'em up</genre>
+		<players>2-8</players>
+		<image>./boxart/Dogfight.jpg</image>
+		<video>./snaps/Dogfight.mp4</video>
+	</game>
+	<game>
+		<path>./Grapple.dsk</path>
+		<name>Grapple</name>
+		<sortname />
+		<desc>You must stop the galactic jailbreak. The screen is divided into 5 rows, and the player can fire high, medium, or low in each row. 5 alien creatures attempt to escape to the left. Each monster must be shot in a specific location, to get pushed back to the right. When a monster is pushed off the right of the screen, they are eliminated. Empty rows can then produce small blue creatures which endanger the player. These are destroyed in one hit. The player loses a life if any monster reaches the left side of the screen. Victory for each level is achieved by clearing the screen. Each level has monsters which take progressively more hits to push back, increasing the difficulty.</desc>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Insoft, Inc.</developer>
+		<publisher>Insoft, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Grapple.jpg</image>
+		<video>./snaps/Grapple.mp4</video>
+	</game>
+	<game>
+		<path>./Space Quarks.dsk</path>
+		<name>Space Quarks</name>
+		<sortname />
+		<desc>Space Quarks is a fixed-screen Shoot’em Up for the home computer. The game is very similar to arcade classics like Space Invaders, Galaxian and Galaga. The player controls a tank, which can move left and right across the bottom of the screen. Fire missiles at the alien invaders flying overhead in a variety of formations and patterns. But watch out... after you start shooting and hitting targets, you can bet those aliens will start firing back! Clearing levels leads to more lives („tanks“), more points added onto your score, and, of course, even more levels of aliens to clear.</desc>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Brøderbund Software, Inc.</developer>
+		<publisher>Brøderbund Software, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Space Quarks.jpg</image>
+		<video>./snaps/Space Quarks.mp4</video>
+	</game>
+	<game>
+		<path>./Sputnik Attack.dsk</path>
+		<name>Sputnik Attack</name>
+		<sortname />
+		<desc>[Button 0 = Fire | Button 1 = Shield] Sputnik Attack is a game similar to Galaga or Galaxian. You control a spaceship, which task it is to destroy the oncoming forces of the evil Sputnik. That’s right, the satellite Sputnik became evil and sends now aliens of all kinds.</desc>
+		<rating>1</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Datamost, Inc.</developer>
+		<publisher>Apple Computer, Inc.</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Sputnik Attack.jpg</image>
+		<video>./snaps/Sputnik Attack.mp4</video>
+	</game>
+	<game>
+		<path>./I.O. Silver.dsk</path>
+		<name>I.O. Silver</name>
+		<sortname />
+		<desc>I.O. Silver is a puzzle game, that comes with two modes: The Arcade Workshop, which is your basic game and Strategy Lab, where you can train in the levels and think of the best way to solve them. In the game you play as a professor, who has to make his way out, by pushing the right puzzle tiles together, till none is left. Those tiles can also be used to squash enemies, but be careful, as the very same tiles can also squash you. The game features a month-system. After December 31, the game is over for you, if there are still tiles left. You can also go on vacations, which are basically the pauses in the game.</desc>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Beagle Bros Software</developer>
+		<publisher>Beagle Bros Software</publisher>
+		<genre>Puzzle</genre>
+		<image>./boxart/I.O. Silver.jpg</image>
+		<video>./snaps/I.O. Silver.mp4</video>
+	</game>
+	<game>
+		<path>./Night Flight+.dsk</path>
+		<name>Night Flight</name>
+		<sortname />
+		<desc>Yep it sure existed! I remember playing this when I was a kid many years ago, definitely one of my favorites. I've been trying to remember the name of it. For years I've been wading through the net, hoping to find it by chance but no luck. Over the past 2 years I've been looking through 1000's of titles in an Apple II emulator pack. Finally found it today :D The quest is over! lol. Yeah there's bugger all info about this game on the net. You need instructions how to play.. C'mon bro.. It's a Schmuuuupppppppp....</desc>
+		<rating>1</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Eric Hammond</developer>
+		<publisher>SierraVision</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Night Flight.jpg</image>
+		<video>./snaps/Night Flight.mp4</video>
+	</game>
+</gameList>

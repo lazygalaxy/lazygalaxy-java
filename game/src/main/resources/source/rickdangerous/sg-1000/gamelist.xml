@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>SG-1000</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Girl's Garden (Japan, Australia).zip</path>
+		<name>Girl's Garden</name>
+		<sortname />
+		<desc>In order to prevent her boyfriend Minto from going to another little girl named Cocco, Papri must collect ten different flowers and return them to her boyfriend's house. Flowers must be caught in full bloom so that the number of flowers in her possession will increase; catching flowers too early will consider the flowers to be wasted and flowers caught too late will be wilted. Wilted flowers will ruin the bouquet, causing the player to lose half of the flowers.</desc>
+		<releasedate>19841201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Girl's Garden (Japan, Australia).jpg</image>
+		<video>./snaps/Girl's Garden (Japan, Australia).mp4</video>
+	</game>
+	<game>
+		<path>./Golgo 13 (Japan).zip</path>
+		<name>Golgo 13</name>
+		<sortname />
+		<desc>Golgo 13 is a shoot-'em-up game for the SG-1000 based on the Japanese manga of the same name. The game has you shoot at windows of a passing train. Hitting objects that get in the way will make the bullet rebound and potentially kill you.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Golgo 13 (Japan).jpg</image>
+		<video>./snaps/Golgo 13 (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Sega-Galaga (Japan, Australia).zip</path>
+		<name>SEGA Galaga</name>
+		<sortname />
+		<desc>Take control of a fighter space craft and shoot down the invading aliens. Watch out for the swooping motherships, which will try to steal your fighter. Rescue captured fighters to double your firepower. Earn Perfect Bonuses as you battle your way through wave after wave in different challenging stages.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Sega-Galaga (Japan, Australia).jpg</image>
+		<video>./snaps/Sega-Galaga (Japan, Australia).mp4</video>
+	</game>
+	<game>
+		<path>./Star Force (Japan, Australia).zip</path>
+		<name>Star Force</name>
+		<sortname />
+		<desc>You are a spaceship pilot shooting enemy spacecraft and ground targets. Pick up the special letter symbols for bonuses and additional power-ups. Levels or areas are named after the Greek letter alphabet and the end boss at the end of each area must be defeated before you can continue to the next area.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Star Force (Japan, Australia).jpg</image>
+		<video>./snaps/Star Force (Japan, Australia).mp4</video>
+	</game>
+	<game>
+		<path>./Castle, The (Japan).zip</path>
+		<name>The Castle</name>
+		<sortname />
+		<desc>The game has a fairly standard plot of rescuing a princess from a castle, though the game itself was considered very large for the time. It also contains a map system similar to that of later Metroid and Castlevania games.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<developer>ASCII Corporation</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Castle, The (Japan).jpg</image>
+		<video>./snaps/Castle, The (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Flicky (Japan, New Zealand).zip</path>
+		<name>Flicky</name>
+		<sortname />
+		<desc>Little baby birds, PIOPIOes, are seen basking on the bright sunny terrace. It's now time for the little PIOPIOes to take their midafternoon snack. FLICKY, your mother, is coming to take all of you back home. Let's return skipping merrily hand in hand with mama FLICKY. Oh, oh, we've got a big problem!! The ill-natured stray cat (NYANNYAN) is coming. Escape by jumping over him and throwing hammers and mugs in an effort to hit and destroy the big bad cat. FLICKY, you'll feel really relieved when you have successfully taken all of your baby PIOPIOes back home, won't you?</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Flicky (Japan, New Zealand).jpg</image>
+		<video>./snaps/Flicky (Japan, New Zealand).mp4</video>
+	</game>
+	<game>
+		<path>./Choplifter (Japan, Australia).zip</path>
+		<name>Choplifter</name>
+		<sortname />
+		<desc>Choplifter is a side-scrolling action/arcade game that puts you in command of an attack chopper. Your mission: Go behind enemy lines and rescue up to 16 hostages per level. Be careful, though, because tanks and enemy aircraft will try to stop you - and they won't stop shooting while you are rescuing those hostages!</desc>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Choplifter (Japan, Australia).jpg</image>
+		<video>./snaps/Choplifter (Japan, Australia).mp4</video>
+	</game>
+	<game>
+		<path>./Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1).zip</path>
+		<name>Congo Bongo</name>
+		<sortname />
+		<desc>Congo Bongo , originally known as Tip Top, is a 1983 arcade platformer game developed by Sega. It is often considered an isometric equivalent to Nintendo's Donkey Kong, as it stars a protagonist chasing after a large ape (in this game, called "Bongo"). However, unlike Donkey Kong, the game is set in a jungle, the graphics are more detailed and there are more enemies and traps.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1).jpg</image>
+		<video>./snaps/Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Doki Doki Penguin Land (Japan).zip</path>
+		<name>Doki Doki Penguin Land</name>
+		<sortname />
+		<desc>Doki Doki Penguin Land is a 1985 game initially developed by Sega for the SG-1000. It is a platform-based puzzle game, where a penguin must guide an egg down the screen making sure not to break it.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Doki Doki Penguin Land (Japan).jpg</image>
+		<video>./snaps/Doki Doki Penguin Land (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./H.E.R.O. (Japan).zip</path>
+		<name>H.E.R.O.</name>
+		<sortname />
+		<desc>The objective of the game is to rescue trapped miners in a volcano. 1 drops a stick of dynamite to blow up barriers and kill enemies. 2 shoots a laser-like thing, which you can use to kill enemies. At the bottom of the screen, there is a Power meter showing you how much energy you have left; energy goes down as time goes on. Simply touch a miner to rescue him and move on to the next level.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/H.E.R.O. (Japan).jpg</image>
+		<video>./snaps/H.E.R.O. (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Hustle Chumy (Japan).zip</path>
+		<name>Hustle Chumy</name>
+		<sortname />
+		<desc>In Hustle Chumy players control a mouse named Chumy who needs to collect apples (and other food) in a sewer, avoiding other critters as he goes. As Chumy eats more food, his speed decreases, but his fireballs are given a longer range. Levels have varying layouts.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Hustle Chumy (Japan).jpg</image>
+		<video>./snaps/Hustle Chumy (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Wang (Japan) (Rev 1).zip</path>
+		<name>Dragon Wang</name>
+		<sortname />
+		<desc>A martial arts, multi-level platformer. As martial-artist "Dragon Wang", you kick and jump-kick your way past martial-arts baddies, to rescue your girl. You must collect keys by defeating mid-level bosses, to open doors and progress through the stage.</desc>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Dragon Wang (Japan) (Rev 1).jpg</image>
+		<video>./snaps/Dragon Wang (Japan) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Gulkave (Japan).zip</path>
+		<name>Gulkave</name>
+		<sortname />
+		<desc>Gulkave is an SG-1000 shoot 'em up game developed by Compile and published by Sega in 1986. It is a horizontal shooter, in which the player controls a spaceship that must destroy the 8 fortresses of the Gulbas Empire and several various enemies. Despite the limitations of the console, there are 30 "acts", and each "act" has a different background and there are numerous powerups available, setting it apart from most other SG-1000 shooters at the time.</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Gulkave (Japan).jpg</image>
+		<video>./snaps/Gulkave (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Star Jacker (Japan, Europe) (Rev 2).zip</path>
+		<name>Star Jacker</name>
+		<sortname />
+		<desc>A "new feeling" space game. Glorious space troops fight against invading "Dester" army. Avoid UFO's continuous attacks weaving left and right, up and down. Counter-attack by using your fire button. Lead the space troops to the Carrier passing through the various mysteriy zones.</desc>
+		<rating>0</rating>
+		<releasedate>19830715T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Star Jacker (Japan, Europe) (Rev 2).jpg</image>
+		<video>./snaps/Star Jacker (Japan, Europe) (Rev 2).mp4</video>
+	</game>
+	<game>
+		<path>./Bank Panic (Japan).zip</path>
+		<name>Bank Panic</name>
+		<sortname />
+		<desc>The player takes on the role of a sheriff in 19th century USA, protecting a bank from armed robbers. There are twelve doors arranged in a circle, with the player in the centre, which can be viewed three at a time. Robbers who appear from the doors are to be shot (after they draw their weapons, for a higher score) and customers are to be ignored while they make a deposit. Once deposits have been made from all twelve doors, the level is complete.</desc>
+		<rating>0.9</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Sanritsu Denki Co., Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Bank Panic (Japan).jpg</image>
+		<video>./snaps/Bank Panic (Japan).mp4</video>
+	</game>
+</gameList>

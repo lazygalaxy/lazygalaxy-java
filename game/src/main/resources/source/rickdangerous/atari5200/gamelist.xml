@@ -1,0 +1,656 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Atari 5200</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Ballblazer (USA).zip</path>
+		<name>Ballblazer</name>
+		<sortname />
+		<desc>In the year 3037, the most competitive sport in the known universe is Ballblazer. For the first time ever, humans from the planet Earth have won the right to compete in the final round of the Ballblazer Championship, to fight for Earth's honor and the title Masterblazer! Ballblazer is a 3D futuristic soccer-like game, where the player (inside a Rotofoil) is set on a one-on-one 1,155 square playing field (the Grid). The objective of the player to kick a floating ball (Plasmorb) inside the opponent's goal (Goalbeams). A player may compete against a human or computer opponent.</desc>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Ballblazer (USA).jpg</image>
+		<video>./snaps/Ballblazer (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Beamrider (USA).zip</path>
+		<name>Beamrider</name>
+		<sortname />
+		<desc>Beamrider is a 3-D arcade action game. You control a beam riding spaceship on a mission to clear 99 sectors of space from hostile aliens. The spaceship is located at the bottom of the screen and it can only stop on one of five beams. You are armed with both lasers and torpedoes; torpedoes are more powerful and can destroy more enemies compared to lasers, however you only get three per level. To complete a sector, you need to destroy fifteen white flying saucers. After all saucers are destroyed, the sector sentinel passes by which can be destroyed for extra points.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-4</players>
+		<image>./boxart/Beamrider (USA).jpg</image>
+		<video>./snaps/Beamrider (USA).mp4</video>
+	</game>
+	<game>
+		<path>./BerZerk (USA).zip</path>
+		<name>BerZerk</name>
+		<sortname />
+		<desc>You have been sent into a building infested with robots, and must do your best to clear it out. Each rooms has a number of walls through the middle, which restrict your movement. There will be a number of bad guys in the room - on early screens they may be immobile and not shoot at you, but after a few levels they become capable of shooting in multiple directions. You can shoot at them in 8 directions, but can't shoot diagonally while moving. There are gaps at the side of each room, through which you exit, before or after clearing the room (there is a bonus for clearance). You get an extra life every 2000 points.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Stern Electronics, Inc.</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/BerZerk (USA).jpg</image>
+		<video>./snaps/BerZerk (USA).mp4</video>
+	</game>
+	<game>
+		<path>./River Raid (1983) (Activision).a52</path>
+		<name>Carol Shaw's River Raid</name>
+		<sortname />
+		<desc>River Raid is a vertically scrolling action game. You fly a jet up a river in an attempt to destroy bridges which are vital to the enemy. The river is heavily guarded, however, with balloons, ships, choppers, and enemy aircraft trying to stop you. Along the way you will need to fly over fuel stations to refuel your jet and keep flying. The plane is armed with a cannon with unlimited ammo. It can be used to destroy the enemy vehicles and bridges, but a careless player can accidentally destroy a fuel station. Colliding with the riverbanks or with the enemy aircraft destroys your plane and makes you lose a life.</desc>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/River Raid (1983) (Activision).jpg</image>
+		<video>./snaps/River Raid (1983) (Activision).mp4</video>
+	</game>
+	<game>
+		<path>./Choplifter! (USA).zip</path>
+		<name>Choplifter!</name>
+		<sortname />
+		<desc>Choplifter is a side-scrolling action/arcade game that puts you in command of an attack chopper. Your mission: Go behind enemy lines and rescue up to 16 hostages per level. Be careful, though, because tanks and enemy aircraft will try to stop you -- and they won't stop shooting while you are rescuing those hostages! Originally released for Apple II home computers, Choplifter was later ported to the arcades and a number of video game consoles. Many imitators and homages would follow.</desc>
+		<rating>0.45</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Broderbund Software</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Choplifter! (USA).jpg</image>
+		<video>./snaps/Choplifter! (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Congo Bongo (USA).zip</path>
+		<name>Congo Bongo</name>
+		<sortname />
+		<desc>An extremely faithful port of the famous jump-n-run platform arcade game. Run, jump, and climb your way through a dangerous jungle while avoiding various animals and projectiles. Includes the introductory animations and features the arcade version's sliding screen transitions.</desc>
+		<rating>0.4</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Congo Bongo (USA).jpg</image>
+		<video>./snaps/Congo Bongo (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dig Dug (USA).zip</path>
+		<name>Dig Dug</name>
+		<sortname />
+		<desc>Dig Dug is a 1-2 player arcade game in which you have to use your shovel to dig your way through the earth. Stopping you from doing this are two monsters, called Pooka and Fygar, who will continually chase you around. The only weapon that you carry is an air pump, which you can use to inflate the monsters to the point where they explode. (if you start to inflate them but stop doing so, the monsters will get turned back to their normal selves.) Furthermore, rocks are scattered throughout the earth, and you can use these rocks to squash them. If the monsters do not find you for several seconds, they will eventually get turned into ghosts, which are able to walk through the earth.</desc>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Dig Dug (USA).jpg</image>
+		<video>./snaps/Dig Dug (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Gremlins (USA).zip</path>
+		<name>Gremlins</name>
+		<sortname />
+		<desc>Gremlins is an action game based on the Steven Spielberg movie of the same name. The game takes place just after midnight when there are Gremlins and Mogwai running around Billy's living room! You control Billy from a 3rd person point of view. On each level, your goal is to catch all of the Mogwai and return them to their cage (located in the upper right corner of the screen) and to destroy all of the Gremlins with a sword. Each level has a time limit - at 6:00 am when the sun rises. You move on to the next level by completing your tasks or just surviving until 6:00, although more points are awarded for the former. You will also receive bonus points for each Mogwai returned to the cage.</desc>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Gremlins (USA).jpg</image>
+		<video>./snaps/Gremlins (USA).mp4</video>
+	</game>
+	<game>
+		<path>./H.E.R.O. (USA).zip</path>
+		<name>H.E.R.O.</name>
+		<sortname />
+		<desc>There is trouble in the mines! Volcanic activity has trapped numerous miners, and it is your job to save them. As Roderick Hero, you need to make your way through the dangerous mineshaft avoiding the dangerous creatures and lava, and find out where the miners are located before you run out of energy. To help on your mission, Roderick Hero has several useful types of equipment. A prop pack will allow you to hover and fly around the mineshaft and (hopefully) avoid the many dangers within. Your helmet features a short range microlaser beam which can be used to destroy the bats, spiders, snakes, and other creatures you'll encounter in the mines. From time to time, your path through the mine may be blocked by stone or lava walls.</desc>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/H.E.R.O. (USA).jpg</image>
+		<video>./snaps/H.E.R.O. (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Joust (USA).zip</path>
+		<name>Joust</name>
+		<sortname />
+		<desc>Players must flap their steed's wings to hit the enemy from a higher jousting point to destroy the vulture and its rider. Once the enemy has been hit, an egg falls to one of the platforms below. The heroic knights must destroy the eggs before they hatch and release new and increasingly more difficult knights. The three strengths of enemy knights are Bounder (red knight), Hunter (white knight), and Shadow Lord (blue knight). These enemy knights are not the only challenge to be found in the game. Players must also contend with crumbling platforms, lava trolls who attempt to pull knights into the fire, and the dreaded "unbeatable"(?) pterodactyl.</desc>
+		<rating>0.85</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Joust (USA).jpg</image>
+		<video>./snaps/Joust (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Koffi - Yellow Kopter (USA) (Unl).zip</path>
+		<name>Koffi: Yellow Kopter</name>
+		<sortname />
+		<desc>Koffi is a little kopter so when the emergencies came, the big kopters wouldn't let him go. But now he has heard that Pyro the thundercloud is using lightning to start fires in the forest. The fire needs to be put out, the animals need saving. Koffi wasn't allowed to help the big kopters but he can't just ignore this until they return.</desc>
+		<releasedate>20030224T000000</releasedate>
+		<publisher>Self Published</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Koffi - Yellow Kopter (USA) (Unl).jpg</image>
+		<video>./snaps/Koffi - Yellow Kopter (USA) (Unl).mp4</video>
+	</game>
+	<game>
+		<path>./last_starfighter.zip</path>
+		<name>Last Starfighter, The</name>
+		<sortname />
+		<desc>"Greetings Starfighter. You have been recruited by the Star League to defend the Frontier against Xur and the Ko-Dan armada." The Last Starfighter is based on the 80s movie. Unfortunately despite being finished it wasn't released for the Atari 5200. However it does exist in prototype form and was eventually officially released for the Atari XE/XL as Star Raiders II with some minor changes. Also an arcade version was supposed to be released but was canned as well. On top of all that this game wasn't even originally The Last Starfighter and instead was originally called Orbiter that was retooled. Quite a history for a prototype!</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/last_starfighter.jpg</image>
+		<video>./snaps/last_starfighter.mp4</video>
+	</game>
+	<game>
+		<path>./Mario Bros. (USA).zip</path>
+		<name>Mario Bros.</name>
+		<sortname />
+		<desc>Mario and Luigi, the best plumbers in the world, have a real job on their hands. A host of characters have taken over the sewers, and the brothers must clear them out of the pipes. The platform puzzle which first introduced Luigi to the world has both single and multiplayer action with two differing game types, but with the same objective.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Mario Bros. (USA).jpg</image>
+		<video>./snaps/Mario Bros. (USA).mp4</video>
+	</game>
+	<game>
+		<path>./MegaMania (USA).zip</path>
+		<name>MegaMania</name>
+		<sortname />
+		<desc>Megamania is an arcade action game with gameplay similar to Space Invaders. You control a spaceship at the bottom of the screen and need to defend yourself from numerous waves of attackers. But in Megamania, the attackers much more bizarre than invading aliens. There are hamburgers, diamonds, steam irons, bow ties, space dice, and more! You need to earn points by destroying as many of these strange attackers as you can before your energy supply becomes depleted.</desc>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/MegaMania (USA).jpg</image>
+		<video>./snaps/MegaMania (USA).mp4</video>
+	</game>
+	<game>
+		<path>./millipede.zip</path>
+		<name>Millipede</name>
+		<sortname />
+		<desc>An unreleased prototype conversion of the arcade game Millipede. It was completed but never released due to Atari abandoning the 5200 near it's completion. The goal is to survive wave after wave of various insects while trying to destroy a Millipede that makes its way down the screen towards your player. While very similar to Centipede it adds quite a few new quirks such as new insects to contend with and DDT bombs that when shot will destroy what is around them.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/millipede.jpg</image>
+		<video>./snaps/millipede.mp4</video>
+	</game>
+	<game>
+		<path>./Miner 2049er Starring Bounty Bob (USA).zip</path>
+		<name>Miner 2049er Starring Bounty Bob</name>
+		<sortname />
+		<desc>You play the part of Bounty Bob, and it is your mission to explore every inch of an abandoned mine. As you walk over floor sections in the mine, the floor will change color. When all of the floor sections have been changed in color, you can move on to the next, more challenging level. To reach all of the floor sections, you will need to figure out how to get there! You can jump (be careful not to fall too far though, or you will be squished), climb up and down ladders, and use different transportation devices that can be found on the levels (such as an elevator, slides, a springboard, or a canon!) Wandering around the mine are numerous radioactive creatures which get in Bounty Bobs way.</desc>
+		<rating>1</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Big Five Software</developer>
+		<publisher>Big Five Software</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Miner 2049er Starring Bounty Bob (USA).jpg</image>
+		<video>./snaps/Miner 2049er Starring Bounty Bob (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Montezuma's Revenge featuring Panama Joe (USA).zip</path>
+		<name>Montezuma's Revenge featuring Panama Joe</name>
+		<sortname />
+		<desc>You play as a treasure hunter named Panama Joe, whose goal is to find an ancient treasure hidden by Aztec warrior deep inside catacombs. But beware, the catacombs are a large maze inhabited by monsters. Bouncing and rolling skulls, dancing spiders, disappearing and re-appearing chains and tons of fire await you. You'll have to find many keys and unlock doors in order to reach your goal. Panama Joe can jump and climb ladders, but doesn't have much to offer in terms of combat. That's why the monsters in the game should be avoided: a collision with an enemy leads to a premature death.</desc>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Montezuma's Revenge featuring Panama Joe (USA).jpg</image>
+		<video>./snaps/Montezuma's Revenge featuring Panama Joe (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mr. Do!'s Castle (USA).zip</path>
+		<name>Mr. Do!'s Castle</name>
+		<sortname />
+		<desc>Mr. Do!'s Castle is an action platform game which has you in a castle consisting of several floors, each of which contain a variety of blocks. You control Mr. Do! the clown who has a hammer which can be used to knock out the blocks in the floor. Wandering throughout the castle are deadly unicorns which are constantly trying to catch you. Your goal is to earn as many points as possible and to progress through the increasingly difficult castles.</desc>
+		<rating>0.65</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Universal </developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Mr. Do!'s Castle (USA).jpg</image>
+		<video>./snaps/Mr. Do!'s Castle (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ms. Pac-Man (USA).zip</path>
+		<name>Ms. Pac-Man</name>
+		<sortname />
+		<desc>In 1982, a sequel to the incredibly popular Pac-Man was introduced in the form of his girlfriend, Ms. Pac-Man. This sequel continued on the "eat the dots/avoid the ghosts" gameplay of the original game, but added new features to keep the title fresh. Like her boyfriend, Ms. Pac-Man attempts to clear four various and challenging mazes filled with dots and ever-moving bouncing fruit while avoiding Inky, Blinky, Pinky and Sue, each with their own personalities and tactics. One touch from any of these ghosts means a loss of life for Ms. Pac-Man.</desc>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>General Computer Corporation</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Ms. Pac-Man (USA).jpg</image>
+		<video>./snaps/Ms. Pac-Man (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pitfall! (USA).zip</path>
+		<name>Pitfall!</name>
+		<sortname />
+		<desc>Pitfall! is a platform action game. You play Pitfall Harry who is on a quest to locate treasure deep in the jungle. With a little luck you'll be able to find money bags, silver bars, gold bars, and diamond rings. But many obstacles will get in the way, some of which merely deduct points from your score, while others are fatal. Rolling logs and falling down a hole will deduct points, and scorpions, alligators, snakes, bottomless pits, swamps, and fires will cause Pitfall Harry to lose a life. You have 20 minutes to try to collect all of the treasures on the numerous screens, if you can live that long!</desc>
+		<rating>0.75</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Pitfall! (USA).jpg</image>
+		<video>./snaps/Pitfall! (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Rescue on Fractalus! (USA).zip</path>
+		<name>Rescue on Fractalus!</name>
+		<sortname />
+		<desc>Rescue on Fractalus is an action game played from a 3D first person point of view. Your mission is to rescue stranded pilots on the planet of Fractalus. You begin each mission from the mother ship, and when your quota of pilots has been rescued you must return there so you can move on to the next level. To help locate the pilots and navigate the tricky terrain, your spaceship is equipped with various instruments, such as a compass, altimeter, and scanner. Your enemy, the Jaggi's, have numerous forces on this planet and will be attempting to stop you.</desc>
+		<rating>0.55</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Rescue on Fractalus! (USA).jpg</image>
+		<video>./snaps/Rescue on Fractalus! (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Space Dungeon (USA).zip</path>
+		<name>Space Dungeon</name>
+		<sortname />
+		<desc>Space Dungeon is an arcade style shooter. You control a spaceship within the space dungeon which consists of numerous rooms. Located throughout are treasures, and your goal is to collect as many of these treasures as you can and then proceed to the dungeons exit (called "collect bonus"). You don't need to collect every treasure to complete a level, but more bonus points are earned the more treasures you collect. Many of the rooms contain dangerous enemies, including death squares, guards, enforcers, pikers, and more. To fight off the enemies, your spaceship is equipped with a laser which can fire in eight different directions.</desc>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Space Dungeon (USA).jpg</image>
+		<video>./snaps/Space Dungeon (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Star Raiders (USA).zip</path>
+		<name>Star Raiders</name>
+		<sortname />
+		<desc>As the pilot of an interstellar starship, your mission is to destroy all of the Krylon fighters which are closing in on your starbases! There are three different types of fighters roaming throughout the galaxy; cruisers, fighters, and basestars. With the help of your galactic map, you can find the sectors of the galaxy where these fighters are located and then warp there to destroy them. When all of the fighters in a sector are destroyed, you can warp to a new location for the next battle.</desc>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Star Raiders (USA).jpg</image>
+		<video>./snaps/Star Raiders (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Star Trek - Strategic Operations Simulator (USA).zip</path>
+		<name>Star Trek: Strategic Operations Simulator</name>
+		<sortname />
+		<desc>Star Trek: Strategic Operations Simulator is an arcade action game where you take control of the Starship Enterprise. Your mission is to save the Federation from NOMAD! Before you get a chance at destroying NOMAD, you'll have to battle your way through ten levels (each consisting of multiple rounds). In each round you may encounter Klingon fighters, deadly anti-matter saucers, asteroid fields, and deadly meteors, all of which are capable of depleting the Enterprises energy.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Star Trek - Strategic Operations Simulator (USA).jpg</image>
+		<video>./snaps/Star Trek - Strategic Operations Simulator (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Cobra (USA).zip</path>
+		<name>Super Cobra</name>
+		<sortname />
+		<desc>Super Cobra is a side scrolling shooter based on the arcade game. You're a chopper pilot on a surveillance mission in enemy territory; your goal is to make it through the various obstacle courses alive and score as many points as possible. Tall buildings, mountains, narrow tunnels, and various enemies (such as tanks, rockets, mines, and more) can all get in the way and destroy your chopper if you aren't careful. To help defend yourself, the chopper is armed with a machine gun and bombs which can be used to destroy the enemy tanks and rockets. To make the task more difficult, your chopper has a limited amount of fuel.</desc>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Cobra (USA).jpg</image>
+		<video>./snaps/Super Cobra (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Vanguard (USA).zip</path>
+		<name>Vanguard</name>
+		<sortname />
+		<desc>Vanguard is an arcade style shooter for one or two players. Your goal is to pilot your spaceship to the City of Mystery which is located at the end of a heavily guarded tunnel, and once there destroy the creature Gond. The tunnel is broken up into several different zones, called the mountain zone, rainbow zone, stick zone, stripe zone, bleak zone, and City of Mystery. Each zone features different types of enemy spaceships to deal with, and can scroll either horizontally or vertically. In the mountain zone or stripe zone, you may also come across an energy pod marked with an 'E'. If you fly through this, your ship temporarily becomes invincible to the deadly cave walls and numerous enemies which are trying to stop you.</desc>
+		<rating>0.85</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Vanguard (USA).jpg</image>
+		<video>./snaps/Vanguard (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Wizard of Wor (USA).zip</path>
+		<name>Wizard of Wor</name>
+		<sortname />
+		<desc>The player controls a warrior who is trapped in a dungeon. The goal is to earn as many points as possible by shooting the numerous enemy creatures which wander about the maze like corridors. The creatures wander about at various speeds, may shoot darts at the player, and some even have the ability to disappear temporarily. At the bottom of the screen the player has a radar which can be used to locate creatures that are invisible.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>CBS Electronics</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Wizard of Wor (USA).jpg</image>
+		<video>./snaps/Wizard of Wor (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Zaxxon (USA).zip</path>
+		<name>Zaxxon</name>
+		<sortname />
+		<desc>The game has 3 stages, first taking you through Asteroid City, which is heavily protected by aircraft, guns and missiles. Many barriers are alarmed, leaving you with limited space to progress through, and fire must constantly be dodged. Stage two is a space shoot out against hordes of enemy aircraft - those you failed to destroy in the first part of the task. Complete this and you reach the final battle with Zaxxon, with the game looping with increased difficulty if you can survive the first time. There are 3 distinct skill levels, while controls involve using forward to dive and back to climb, in the manner of flight simulation.</desc>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Zaxxon (USA).jpg</image>
+		<video>./snaps/Zaxxon (USA).mp4</video>
+	</game>
+	<game>
+		<path>./5200_Sinistar.bin</path>
+		<name>Sinistar</name>
+		<sortname />
+		<desc>The player pilots a lone spacecraft, mining drifting planetoids and catching the crystals which are released. Shooting a planetoid too rapidly destroys it without releasing any crystals. Each collected crystal turns into a "Sinibomb", which is needed to defeat the game boss, Sinistar, an animated spacecraft with a demonic skull face.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Williams Electronics</developer>
+		<publisher>Williams Electronics</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/5200_Sinistar.jpg</image>
+		<video>./snaps/5200_Sinistar.mp4</video>
+	</game>
+	<game>
+		<path>./Defender (USA).zip</path>
+		<name>Defender*</name>
+		<sortname />
+		<desc>Defender put players in charge of a ship sent to protect mankind from wave after wave of attacking alien forces. Armed with "smart bombs", and the ability to use hyperspace to move quickly around the planet, the player ship must fight against Bombers, Pods, Swarmers, Baiters, and Landers - that can capture the humanoids and transform them into deadly and relentless Mutants. Fail to save the humanoids from freefall or Mutant transformation, and the planet is destroyed. Eugene Jarvis' Defender has been widely regarded as one of the most popular and addictive space shooters of the early 1980's</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Defender (USA).jpg</image>
+		<video>./snaps/Defender (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Galaxian (USA).zip</path>
+		<name>Galaxian*</name>
+		<sortname />
+		<desc>Galaxian is a shoot 'em up in which the player is at the bottom of the screen, with an arrangement of aliens at the top. The player moves left and right to aim at an alien, then shoots a bullet up the screen, and the alien it hits is killed. The aliens are classed as Drones, Emissaries, Hornets and Commanders, with those higher up the screen scoring more points when destroyed. At set intervals an enemy will move down the screen towards you, escorting a bomber, which is a moment of high danger. Clear a wave and another is generated.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Galaxian (USA).jpg</image>
+		<video>./snaps/Galaxian (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Robotron 2084 (USA).zip</path>
+		<name>Robotron: 2084</name>
+		<sortname />
+		<desc>This is a port of the arcade game of the same name. You are a mutant human, who by some freak of nature has the ability to shoot energy pulses from his body in eight different directions! Your job is simple: save humanity from their own creation the ROBOTRONS! The gameplay is pretty unique for the time. You can move and fire in any of eight directions. You get thrown in a room with various evil baddies strewn about, you've got to kill all the robots while at the same time finding some way to grab humans and avoid death.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Robotron 2084 (USA).jpg</image>
+		<video>./snaps/Robotron 2084 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pitfall II - The Lost Caverns.bin</path>
+		<name>Pitfall II: Lost Caverns</name>
+		<sortname>Pitfall! 2</sortname>
+		<desc>You play Pitfall Harry searching for the Raj diamond, his niece Rhonda, and a variety of treasures somewhere in the Andes. Poisonous frogs, eels, scorpions, bats and other hazards get in the way. Pitfall II is the sequel to Pitfall, the original platform game. Gameplay has remained pretty much the same, with each screen presenting a side view of obstacles to get past, and potentially treasures to collect. The landscape is more maze like, with a variety of paths and dead ends to search. Along the way there are checkpoints the player will encounter. When the player dies, Pitfall Harry will be sent back to the most recently crossed checkpoint.</desc>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Pitfall II - The Lost Caverns.jpg</image>
+		<video>./snaps/Pitfall II - The Lost Caverns.mp4</video>
+	</game>
+	<game>
+		<path>./Centipede (USA).zip</path>
+		<name>Centipede</name>
+		<sortname />
+		<desc>In Centipede, the player is trapped in the Enchanted Forest. Armed with only a magic wand to ward off the forest's insect denizens, all of which apparently are attacking in the player in continuous waves. The player must use the magic wand to shoot sparks at approaching insects to score points by pressing the controller button. Holding down the controller button will set the wand to rapid fire shots. If the player is bitten by an insect, the player will be temporarily paralyzed and lose one of the three starting magic wands.</desc>
+		<rating>0.85</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Centipede (USA).jpg</image>
+		<video>./snaps/Centipede (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Countermeasure (USA).zip</path>
+		<name>Countermeasure</name>
+		<sortname />
+		<desc>Terrorists have seized control of several missile silos and are planning on launching missiles to blow up Washington D.C. Your job is to stop them! From a top down point of view, you control a tank over varied, scrolling terrain. To stop the missiles, you have two options: you can destroy all of the missiles, or attempt to guess the fail safe code. If you try to destroy all the missiles, you must do so in under ten minutes. The missiles silos have many defenses which the terrorists also control; pillboxes, tanks, jeeps, and cruise missiles are all capable of destroying your tank. Should you attempt to guess the fail safe code, clues can be found by docking at supply depots.</desc>
+		<rating>0.65</rating>
+		<releasedate>19830201T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Countermeasure (USA).jpg</image>
+		<video>./snaps/Countermeasure (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Frogger II - Threeedeep! (USA).zip</path>
+		<name>Frogger II: Threeedeep!</name>
+		<sortname />
+		<desc>In Frogger II, you need to guide your frog to safety in three different locations. Starting out underwater, reach the top of the pond while avoiding dangerous alligators and fish (you can ride a turtle for safety!). Once on top of the pond, hop across logs, birds, and even a whale to the life preserver trailing behind a tugboat. In the third location you have to hop across a flock of birds to reach a cloud at the top of the screen. Each frog has a time limit to safely reach one of the homes on each of the three screens. You move on to the next level when a frog has safely reached each of the homes on all screens.</desc>
+		<rating>0.85</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Frogger II - Threeedeep! (USA).jpg</image>
+		<video>./snaps/Frogger II - Threeedeep! (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Jr. Pac-Man (USA) (Proto).zip</path>
+		<name>Jr. Pac-Man</name>
+		<sortname />
+		<desc>Jr.Pac-Man was never released for the Atari 5200, however a prototype does exist. In this Pac-man spin off you now take control of junior who has to contend with much more than his parents did! The mazes are so large now they require the screen to scroll. On top of that the items that appear will cause the dots to enlarge. This gives Junior more points when he eats them but also slows him down a bit making it difficult to avoid the ghosts. What's worse is if they hit a power pellet they will destroy it!</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>General Computer Corporation</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Jr. Pac-Man (USA) (Proto).jpg</image>
+		<video>./snaps/Jr. Pac-Man (USA) (Proto).mp4</video>
+	</game>
+	<game>
+		<path>./Keystone Kapers (USA).zip</path>
+		<name>Keystone Kapers</name>
+		<sortname />
+		<desc>The notorious thief Harry Hooligan is on the loose! You play the part of Officer Keystone Kelly, sent in to capture Harry. Harry is trapped in a four story mall, and is running as fast as he can to reach the exit at the top. Your job is to catch up to him and send him to prison. You will need to use either the escalators at the end of each floor, or the elevator in the middle to go from floor to floor. The escalators may be further away, but the elevator moves pretty slowly so you will need to decide which route will be faster in getting you closer to your goal.</desc>
+		<rating>0.85</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Keystone Kapers (USA).jpg</image>
+		<video>./snaps/Keystone Kapers (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Meteorites (USA).zip</path>
+		<name>Meteorites</name>
+		<sortname />
+		<desc>Meteorites is an arcade action game featuring gameplay similar to Asteroids. You control a spaceship surrounded by numerous asteroids; your goal is to destroy them! Each time you shoot an asteroid, it will break up into smaller asteroids. Eventually the pieces will be small enough that you can destroy them. When you have destroyed all of the asteroids, you will move on to the next, more difficult level. To make the game more difficult, a flying saucer will also appear from time to time and try to shoot your spaceship. To get out of trouble quickly, your spaceship also may enter hyperspace transporting you to a new location on the screen. Be careful, though, sometimes the new location is worse than the one you left!</desc>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Electra Concepts International Corp.</developer>
+		<publisher>Electra Concepts</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Meteorites (USA).jpg</image>
+		<video>./snaps/Meteorites (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pac-Man (USA).zip</path>
+		<name>Pac-Man</name>
+		<sortname />
+		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board. Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde). One touch from any of these ghosts means a loss of life for Pac-Man.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Pac-Man (USA).jpg</image>
+		<video>./snaps/Pac-Man (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pole Position (USA).zip</path>
+		<name>Pole Position</name>
+		<sortname />
+		<desc>Pole Position is the conversion of the arcade racing game. Enter the Grand Prix, race against other racing cars to achieve the highest score possible in the shortest amount of time. Before the player can enter the Grand Prix, the player must first qualify by competing in the Qualifying Lap within 73 seconds or less. If the player however, does not qualify in the Qualifying Lap, the player may continue to race until the Race Timer runs after 90 seconds. The player will score 50 point per 5 meters and additionally 50 points for every racing car passed. When the time runs out - Game Over. The player will have to restart the Qualifying Lap.</desc>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Pole Position (USA).jpg</image>
+		<video>./snaps/Pole Position (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Q-bert (USA).zip</path>
+		<name>Q*bert</name>
+		<sortname />
+		<desc>Q*bert is a conversion of the popular arcade game. The goal is to change all of the tiles on a pyramid to the target color. To do this you guide Q*bert around the pyramid, and every tile he hops on will change color. On early levels, a single hop will change the tile to the desired color, but on later levels you may need to hop on a tile multiple times or even avoid hopping on a tile multiple times! Trying to stop Q*bert are many different creatures which wander around the board, including Coily the snake, Slick and Sam, and falling balls. On the edge of the board are floating discs; if Q*bert jumps on one of these discs when the snake is in pursuit, the snake will fall off the board while Q*bert is safely transported to the top.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>D. Gottlieb &amp; Co.</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Q-bert (USA).jpg</image>
+		<video>./snaps/Q-bert (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Space Invaders (USA).zip</path>
+		<name>Space Invaders</name>
+		<sortname />
+		<desc>Earth is under attack from rows of bomb dropping aliens, and you need to defend it! The rows of aliens begin at the top of the screen, and you control a laser cannon at the bottom of the screen. Your goal is to earn points by shooting the aliens before they can land. The aliens march back and forth, and each time the end of the screen is reached they will drop one row closer to the bottom. Shoot them all, and you move on to the next (tougher) level, but if even one of them lands the game is over. From time to time a flying saucer will pass by along the top of the screen; shoot this to earn extra points.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Space Invaders (USA).jpg</image>
+		<video>./snaps/Space Invaders (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tempest (USA) (Proto).zip</path>
+		<name>Tempest</name>
+		<sortname />
+		<desc>Tempest is a shooter using wire-frame graphics. Each Wireway is taken on in turn, and has a network of lines guiding the movement paths of both yourself and the aliens. You remain on the outside and keep shooting as the aliens move towards you. Any that reach the outside are fatal to touch, thus limiting your range of movement greatly if 2 or more achieve this. Some aliens move sideways - in dealing with these, plan ahead allowing for the time your shots to take to travel.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Tempest (USA) (Proto).jpg</image>
+		<video>./snaps/Tempest (USA) (Proto).mp4</video>
+	</game>
+	<game>
+		<path>./Zone Ranger (USA).zip</path>
+		<name>Zone Ranger</name>
+		<sortname />
+		<desc>Zone Ranger is an arcade action game somewhat similar to Asteroids. You are the pilot of a spaceship in a deadly region of space. Large killer rocks, rogue satellites, boomerangs, and more all fill this region of space. Using your ships lasers you need to destroy as many of these as you can to earn points. Each level also contains some warp holes; enter one of these and you will be transported to a new location, which could be useful if you get in trouble. You will also occasionally come across some sonic sparklers; touch one of these, and you will temporarily become invincible.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Zone Ranger (USA).jpg</image>
+		<video>./snaps/Zone Ranger (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Adventure II.bin</path>
+		<name>Adventure II</name>
+		<sortname />
+		<desc>This homebrew Atari 5200 cartridge is a direct, yet unofficial sequel to the Atari 2600 action role-playing classic Adventure. The player controls an unnamed knight on a quest to return the stolen chalice to the Seashore Kingdom's Castle. Like the original, Adventure II is played from top-down perspective, with player roaming the large game world.. The player character can carry one item at a time which are used to solve puzzles.</desc>
+		<rating>0.6</rating>
+		<releasedate>20070507T000000</releasedate>
+		<developer>Square Trio</developer>
+		<publisher>AtariAge</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/Adventure II.jpg</image>
+		<video>./snaps/Adventure II.mp4</video>
+	</game>
+	<game>
+		<path>./Beef Drop (AtariMax ROM Edition).rom</path>
+		<name>Beef Drop</name>
+		<desc>The object of Beef Drop VE is to score as many points as possible by making hamburgers. To do so, Chef Pete must completely walk over each ingredient (buns, patties, lettuce, and more) in order to drop it to the next level. When all of the ingredients reach the tray at the bottom of the screen, the hamburger is complete! Assemble all four hamburgers to advance to the next round.</desc>
+		<image>./boxart/Beef Drop (AtariMax ROM Edition).jpg</image>
+		<video>./snaps/Beef Drop (AtariMax ROM Edition).mp4</video>
+		<rating>0.75</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Ken Siders</developer>
+		<publisher>AtariAge</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220222T085441</lastplayed>
+	</game>
+</gameList>

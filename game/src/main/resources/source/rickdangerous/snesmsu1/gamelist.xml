@@ -1,0 +1,1477 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Super Nintendo MSU-1</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Area 88 (USA).sh</path>
+		<name>Area 88</name>
+		<sortname />
+		<desc>Area 88 (aka U.N. Squadron in the rest of the world) is a side scrolling shooter by Capcom, conversion of their own arcade game originally released in 1989.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Area 88 (USA).jpg</image>
+		<video>./snaps/Area 88 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Assault Suits Valken (Japan).sh</path>
+		<name>Assault Suits Valken</name>
+		<sortname />
+		<desc>In a future where fossil fuels are limited, major countries and forces of the world are at war with one another over territory. Alliances are made, forming two major sides: The Axis and The Federation. The elite units in these wars are Assault Suits, man-piloted combat mechs called Assault Suits. Jake is one such pilot, drafted into the Pacific States' Marine Corp under the Federation. During his training, the war has grown substantially and upon being assigned to a platoon, he is immediately thrown into combat.</desc>
+		<rating>0.85</rating>
+		<releasedate>19921218T000000</releasedate>
+		<developer>NCS Corporation</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Assault Suits Valken (Japan).jpg</image>
+		<video>./snaps/Assault Suits Valken (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./BS Legend of Zelda, The - Ancient Stone Tablets - Chapter 1 (Japan).sh</path>
+		<name>Bs Legend Of Zelda: Ancient Stone Tablets, The - Chapter 1</name>
+		<sortname />
+		<desc>The Hero awakens in a shrine near the Eastern Palace. Aginah is standing next to him or her, and explains that although he does not know who they are, he knows that they are important. He gives the Hero a Big Bag containing a Bug Net, Ocarina, Lantern, and a Bottle containing a Golden Bee and instructs them to go to the Eastern Palace to acquire a stone tablet.</desc>
+		<releasedate>19970330T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>St.GIGA</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/BS Legend of Zelda, The - Ancient Stone Tablets - Chapter 1 (Japan).jpg</image>
+		<video>./snaps/BS Legend of Zelda, The - Ancient Stone Tablets - Chapter 1 (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./BS Legend of Zelda, The - Ancient Stone Tablets - Chapter 2 (Japan).sh</path>
+		<name>Bs Legend Of Zelda: Ancient Stone Tablets, The - Chapter 2</name>
+		<sortname />
+		<desc>The Hero awakens in Sahasrahla's house in Kakariko Village, and is tasked with finding two more Stone Tablets. One is kept in an underground labyrinth east of the village where the Blue Mail and Magic Hammer can be found, and the other is located in a temple deep within the Lost Woods, where the Red Shield and Hookshot can be acquired.</desc>
+		<releasedate>19970330T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>St.GIGA</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/BS Legend of Zelda, The - Ancient Stone Tablets - Chapter 2 (Japan).jpg</image>
+		<video>./snaps/BS Legend of Zelda, The - Ancient Stone Tablets - Chapter 2 (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./BS Legend of Zelda, The - Ancient Stone Tablets - Chapter 3 (Japan).sh</path>
+		<name>Bs Legend Of Zelda: Ancient Stone Tablets, The - Chapter 3</name>
+		<sortname />
+		<desc>The Hero awakens in Link's House, where they can find a chest containing the Worn-Out Glove. The Hero must locate another two Stone Tablets, one of which is held in a temple in the Great Swamp, which also houses the Power Glove and LV3 Sword, and the other found in the Desert Palace, where the Red Mail and the Fire Rod can be acquired.</desc>
+		<releasedate>19970330T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>St.GIGA</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/BS Legend of Zelda, The - Ancient Stone Tablets - Chapter 3 (Japan).jpg</image>
+		<video>./snaps/BS Legend of Zelda, The - Ancient Stone Tablets - Chapter 3 (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./BS Legend of Zelda, The - Ancient Stone Tablets - Chapter 4 (Japan).sh</path>
+		<name>Bs Legend Of Zelda: Ancient Stone Tablets, The - Chapter 4</name>
+		<sortname />
+		<desc>The Hero begins in the Sanctuary. Zelda appears and decides to follow the Hero, though she will wait outside of any caves or dungeons that are entered. The Hero must retrieve the final two tablets, one from a crypt below the Graveyard that also contains the Titan's Mitt and the Cane of Somaria, and one from a cavern below Death Mountain that houses the Mirror Shield and the Ice Rod.</desc>
+		<releasedate>19970330T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>St.GIGA</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/BS Legend of Zelda, The - Ancient Stone Tablets - Chapter 4 (Japan).jpg</image>
+		<video>./snaps/BS Legend of Zelda, The - Ancient Stone Tablets - Chapter 4 (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Choujikuu Yousai Macross - Scrambled Valkyrie (Japan).sh</path>
+		<name>Choujikuu Yousai Macross: Scrambled Valkyrie</name>
+		<sortname />
+		<desc>The legend of the Valkyrie pilots is not yet over. Hikaru, Max, and Millia take flight to defend the earth from Zentraedi, robots, more robots, and giant space crab-bees. Now is the time to scramble Valkyrie again.</desc>
+		<rating>0.75</rating>
+		<releasedate>19931029T000000</releasedate>
+		<developer>Zamuse</developer>
+		<publisher>Zamuse</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Choujikuu Yousai Macross - Scrambled Valkyrie (Japan).jpg</image>
+		<video>./snaps/Choujikuu Yousai Macross - Scrambled Valkyrie (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Alien 3 (USA).sh</path>
+		<name>Alien 3</name>
+		<sortname />
+		<desc>Alien 3 on Super NES immerses you immediately after the end of the movie "Aliens". Ellen Ripley, the main character in the saga, is dormant cryogenically aboard the Sulaco Ship. An alien has infiltrated on board, decimating the crew and causing the ship to crash on the planet Fiorina 161. Help Ripley to survive and rescue the prisoners from the clutches of the aliens until help arrives.</desc>
+		<rating>0.6</rating>
+		<releasedate>19930501T000000</releasedate>
+		<developer>LJN</developer>
+		<publisher>Probe Software</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Alien 3 (USA).jpg</image>
+		<video>./snaps/Alien 3 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Axelay (USA).sh</path>
+		<name>Axelay</name>
+		<sortname />
+		<desc>This planet was once a quiet, peaceful place to live, until they came, an unknown alien race came to this planet and promptly laid waste to it. The remaining defense force has been sent out to try and defeat them. One lucky person gets to fly the latest line of defense ships made: the AX-77 Axelay. However, these ships are still in the prototype stage, and as such, only one exists. So get out there and head to the alien's homeworld. With some luck, you may just be able to take them out at the source.</desc>
+		<rating>0.75</rating>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Axelay (USA).jpg</image>
+		<video>./snaps/Axelay (USA).mp4</video>
+	</game>
+	<game>
+		<path>./BS Legend of Zelda, The - Map 1 (Japan).sh</path>
+		<name>BS Legend of Zelda: Map 1, The</name>
+		<sortname>BS Legend Of Zelda 1</sortname>
+		<desc>BS The Legend of Zelda is different from most other The Legend of Zelda games. The game's central heroes are the avatar characters of the BS-X, which are based on the info given during account creation, which is also true for the Ancient Stone Tablets. The first six dungeons in Map 1 are in the shape of a letter; when put together, it spells out "St. GIGA." The other two dungeons are shaped like a skull and down arrow.</desc>
+		<releasedate>19950806T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>St.GIGA</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/BS Legend of Zelda, The - Map 1 (Japan).jpg</image>
+		<video>./snaps/BS Legend of Zelda, The - Map 1 (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./BS Legend of Zelda, The - Map 2 (Japan).sh</path>
+		<name>BS Legend of Zelda: Map 2, The</name>
+		<sortname>BS Legend Of Zelda 2</sortname>
+		<desc>BS The Legend of Zelda is a remake of the original The Legend of Zelda, which was released on the Nintendo Entertainment System, available only via the Satellaview add-on for the Super Nintendo Entertainment System. Each of the dungeons in Map 2 are in the shapes of letters, which together spell out "NiNtENDO."</desc>
+		<releasedate>19950806T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>St.GIGA</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/BS Legend of Zelda, The - Map 2 (Japan).jpg</image>
+		<video>./snaps/BS Legend of Zelda, The - Map 2 (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./BS Legend of Zelda, The - Third Quest (Japan).sh</path>
+		<name>Bs Legend Of Zelda: Third Quest, The</name>
+		<sortname>BS Legend Of Zelda 3</sortname>
+		<desc>You will play with classic characters, Link and Zelda, have Triforce Symbols instead of crosses and play without the BS-X Timer! It can be regarded as a third quest to LoZ, Nes without any canon problems.</desc>
+		<releasedate>19950806T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>St.GIGA</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/BS Legend of Zelda, The - Third Quest (Japan).jpg</image>
+		<video>./snaps/BS Legend of Zelda, The - Third Quest (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./BS Legend of Zelda, The - Fourth Quest (Japan).sh</path>
+		<name>Bs Legend Of Zelda: Fourth Quest, The</name>
+		<sortname>BS Legend Of Zelda 4</sortname>
+		<desc>This is the Lengend of Zelda - Fourth Quest (complete) patch, which purpose is to transform BS Zelda into an old fashion Legend of Zelda game.</desc>
+		<releasedate>19950806T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>St.GIGA</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/BS Legend of Zelda, The - Fourth Quest (Japan).jpg</image>
+		<video>./snaps/BS Legend of Zelda, The - Fourth Quest (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Chrono Trigger+ (USA).sh</path>
+		<name>Chrono Trigger+</name>
+		<sortname />
+		<desc>What begins as a carefree day at the Millennial Fair for a young man named Crono turns into his ultimate adventure. When Crono meets a young girl named Marle, little does he realize that this young girl, his best friend Lucca's invention, and a mysterious pendant will thrust him into the ultimate trip through time and space, encountering new friends, defeating the forces of evil, and encountering the one who would destroy the flow of time.</desc>
+		<rating>0.85</rating>
+		<releasedate>19950822T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Chrono Trigger+ (USA).jpg</image>
+		<video>./snaps/Chrono Trigger+ (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Contra III - The Alien Wars (USA).sh</path>
+		<name>Contra III: Alien Wars, The</name>
+		<sortname />
+		<desc>It's time for revenge. The hideous Red Falcon, thought to have been destroyed long ago by the Earth's greatest commandos, Mad Dog and Scorpian, has risen again, this time pissed off and thirsty for revenge. His armies are marching through the cities, across the lands, and with the intention of exterminating the human race like a bad case of fleas. Two new commandos, Jimbo and Sully, have come forth now to kick Red Falcon's ass and save what remains of the world from his hideous plans! The Alien Wars begin!!!</desc>
+		<rating>0.8</rating>
+		<releasedate>19920406T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Contra III - The Alien Wars (USA).jpg</image>
+		<video>./snaps/Contra III - The Alien Wars (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Aladdin (USA).sh</path>
+		<name>Disney's Aladdin</name>
+		<sortname />
+		<desc>Disney's Aladdin is based on the 1992 Disney animated film. For the GBA and the SNES editions development was handled by Capcom. Like other versions, the game is a side-scrolling platformer where the player controls Aladdin through locations from the movie like the city of Agrabah, the Cave of Wonders, and Jafar's palace. Some locations not appearing in the film include a trippy, candy-colored world inside the Genie's lamp and an ancient pyramid.</desc>
+		<rating>0.8</rating>
+		<releasedate>19931102T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Aladdin (USA).jpg</image>
+		<video>./snaps/Aladdin (USA).mp4</video>
+	</game>
+	<game>
+		<path>./ActRaiser (USA).sh</path>
+		<name>Actraiser</name>
+		<sortname />
+		<desc>ActRaiser was one of the early SNES games, drawing upon the success of side-scrolling platform action titles and the building model of Sim City. You play "The Master" (essentially God), and must save the world from evil.</desc>
+		<rating>0.8</rating>
+		<releasedate>19911102T000000</releasedate>
+		<developer>Quintet Co., Ltd.</developer>
+		<publisher>Enix</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/ActRaiser (USA).jpg</image>
+		<video>./snaps/ActRaiser (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Conker's High Rule Tail (USA).sh</path>
+		<name>Conker's High Rule Tail</name>
+		<sortname />
+		<desc>Initially built as a spiritual sequel to Parallel Worlds, this project has evolved so much overtime that eventually it became an unofficial sequel to an M Rated game that was released late in the Nintendo 64 lifespan, none other than Conker's Bad Fur Day!</desc>
+		<releasedate>20171206T000000</releasedate>
+		<developer>SePH</developer>
+		<publisher>ROMhacking.net</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/Conker's High Rule Tail (USA).jpg</image>
+		<video>./snaps/Conker's High Rule Tail (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Death and Return of Superman, The (USA).sh</path>
+		<name>Death and Return of Superman, The</name>
+		<sortname />
+		<desc>"Doomsday" is here and only Superman can stop him. Unfortunately in doing so he gets killed himself. Now four other characters emerge, each claiming to be the real hero. The story starts you off with Superman, then Steel, the Eradicator, the Cyborg, and Superboy. Each character has slightly varied moves so different strategies apply when playing as them. The gameplay is basically that of a standard beat-em-up, with the punches, throws and specials moves.</desc>
+		<rating>0.65</rating>
+		<releasedate>19940801T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Beat'em up</genre>
+		<image>./boxart/Death and Return of Superman, The (USA).jpg</image>
+		<video>./snaps/Death and Return of Superman, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Demon's Crest (USA).sh</path>
+		<name>Demon's Crest</name>
+		<sortname />
+		<desc>Demon's Crest is a sequel to Gargoyle's Quest. Once, the world of demons and the world of humans co-existed in harmony. But then six mysterious crests fell from the sky onto the earth, crests of six elements: fire, water, air, earth, time, and heaven. The demons became obsessed with the crests and with the power hidden in them, and so a civil war started. Finally, the Red Demon named Firebrand got all the crests but one - the crest of heaven. The Dragon Demon possessed this crest, so Firebrand decided to confront him. He defeated the Dragon Demon, but was himself severely wounded in battle. While flying back, he was knocked down by a mysterious enemy and lost his crests.</desc>
+		<rating>0.85</rating>
+		<releasedate>19941021T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Demon's Crest (USA).jpg</image>
+		<video>./snaps/Demon's Crest (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).sh</path>
+		<name>Disney's Mickey Mania: Timeless Adventures of Mickey Mouse, The</name>
+		<sortname />
+		<desc>Mickey Mouse gets a chance to go down memory lane and walk through the timeless adventures he has lived. Mickey Mania is a platformer where all the levels are based on Mickey's most famous cartoons. The levels range about 75 years, starting off with "Steamboat Willie" and going all the way to "The Prince and the Pauper".</desc>
+		<rating>0.85</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Travellers Tales</developer>
+		<publisher>Sony</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).jpg</image>
+		<video>./snaps/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Country (USA).sh</path>
+		<name>Donkey Kong Country</name>
+		<sortname />
+		<desc>King K. Rool has stolen Donkey Kong's banana stash, and Donkey Kong needs your help to get them back. In search of K. Rool, the Kremling horde impedes your progress. Kremlings, crocodile-like creatures, include Kritters (they succumb to a simple jump on the head), Krushas (they are virtually indestructible), and others. There are also other enemies that block your path, such as beavers, snakes, vultures. Leading them are dastardly bosses, including Very Gnawty, Necky, Bumble B, and Dumb Drum, and they all bar the way with their own special blend of villainy.</desc>
+		<rating>0.8</rating>
+		<releasedate>19941125T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Donkey Kong Country (USA).jpg</image>
+		<video>./snaps/Donkey Kong Country (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Country 2 - Diddy's Kong Quest (USA).sh</path>
+		<name>Donkey Kong Country 2: Diddy's Kong Quest</name>
+		<sortname />
+		<desc>Donkey Kong has been kong-napped by the nasty K.Rool and the Kremlings, and it is up to Diddy Kong and his girl-friend Dixie Kong to save him. All the familiar enemies and helpful friends return, along with some new characters, including the wise Wrinkly Kong who will teach you some important lessons in gameplay. Again the emphasis is on banana collecting, where as every 100 bananas makes one extra life. Apart from beating K. Rool and rescuing Donkey Kong, there are extra missions that can be completed. Collect enough K. Rool Krem Coins to open up the routes to the Lost World, while every level has a hidden Hero Coin to collect.</desc>
+		<rating>0.95</rating>
+		<releasedate>19951214T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Donkey Kong Country 2 - Diddy's Kong Quest (USA).jpg</image>
+		<video>./snaps/Donkey Kong Country 2 - Diddy's Kong Quest (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA).sh</path>
+		<name>Donkey Kong Country 3: Dixie Kong's Double Trouble!</name>
+		<sortname />
+		<desc>This time both Donkey Kong and Diddy Kong have been kong-napped by a mysterious new leader of the Kremlings, and it's up to Dixie and new team mate Kiddy Kong to save the day. New elements to the series includes the Brother Bears, thirteen Bears who, if you pay them with Bear Coins found in each level, will aid you in your quest by building certain items. Also, new bonus mission have you playing a 1st/3rd person shooter style party game. Plus a host of new enemies, the usual huge end of world bosses and a collection of the Kong family who will help you out as best they can.</desc>
+		<rating>0.9</rating>
+		<releasedate>19961122T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA).jpg</image>
+		<video>./snaps/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA).mp4</video>
+	</game>
+	<game>
+		<path>./E.V.O. - Search for Eden (USA).sh</path>
+		<name>E. V. O.: Search for Eden</name>
+		<sortname />
+		<desc>The storyline of E.V.O.: Search for Eden follows the same patterns as modern Evolution theories. The players first controls a prehistoric sea organism, and fights to gain evolution points with which he can improve his fish's body parts and upgrade his attack/defense abilities. The gameplay is not completely linear, which means that certain choices of paths and stages will affect the player's success.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930701T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/E.V.O. - Search for Eden (USA).jpg</image>
+		<video>./snaps/E.V.O. - Search for Eden (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Earthworm Jim (USA).sh</path>
+		<name>Earthworm Jim</name>
+		<sortname />
+		<desc>A crow is chasing a worm named Jim while in outer space Psy-Crow is chasing a renegade ship. The ship's captain has stolen an ultra-high-tech-indestructible-super-space-cyber-suit and Queen Slug-for-a-Butt has ordered Psy-Crow to get it, since it can make her more beautiful than Princess-What's-Her-Name. Psy-Crow blasts the captain and the suit falls to Planet Earth.</desc>
+		<rating>0.75</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Shiny Entertainment</developer>
+		<publisher>Playmates Interactive</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Earthworm Jim (USA).jpg</image>
+		<video>./snaps/Earthworm Jim (USA).mp4</video>
+	</game>
+	<game>
+		<path>./F-Zero (USA).sh</path>
+		<name>F-Zero</name>
+		<sortname />
+		<desc>F-Zero is a futuristic racing game, set in the year 2560. The player chooses one of the four available hovercars and then can race with other hovercars in one of the gameplay modes - "Practice" or "Grand Prix".</desc>
+		<rating>0.8</rating>
+		<releasedate>19920604T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<image>./boxart/F-Zero (USA).jpg</image>
+		<video>./snaps/F-Zero (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy IV (Japan) (Rev 1).sh</path>
+		<name>Final Fantasy IV</name>
+		<sortname />
+		<desc>The military country of Baron is one of the strongest in the land, with a proud army and a majestic air force known as the Red Wings. But, while their armies are kind and loyal, the recent actions of the King are anything but. The young Captain of the Red Wings, Cecil, is ordered to steal a crystal from a village of innocent magicians, and when he questions the actions of his King, Cecil is immediately thrown out of the country and sent off to kill strange monsters. Little does he realize the price the King's actions will pay, and what the true secret of the crystals, and their powers, truly is.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910719T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Final Fantasy IV (Japan) (Rev 1).jpg</image>
+		<video>./snaps/Final Fantasy IV (Japan) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy V (Japan).sh</path>
+		<name>Final Fantasy V</name>
+		<sortname />
+		<desc>The Elemental Crystals, the life source of the planet. With them, gentle winds blow, the seas are active, fire burns bright, and the earth is full of life. All seems well in the world, until the wind suddenly stops, the sea begin to grow stagnant, the heat of fire becomes scarce, and the earth begins to wither.</desc>
+		<rating>0.7</rating>
+		<releasedate>19921206T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Final Fantasy V (Japan).jpg</image>
+		<video>./snaps/Final Fantasy V (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy VI (USA).sh</path>
+		<name>Final Fantasy VI</name>
+		<sortname />
+		<desc>This is the fourth entry in the Final Fantasy series. It was known as Final Fantasy II internationally, because the second and third games were never released outside of Japan.</desc>
+		<rating>0.8</rating>
+		<releasedate>19911102T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Final Fantasy VI (USA).jpg</image>
+		<video>./snaps/Final Fantasy VI (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Flashback (USA).sh</path>
+		<name>Flashback: The Quest for Identity</name>
+		<sortname />
+		<desc>The year is 2142. You play as Conrad B. Hart, a man who has lost his memory. After barely escaping from hostile aliens, Conrad's bike crashes on an unknown planet. Conrad finds himself in the jungle, and from now on his quest for survival and his lost identity begins.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940201T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Flashback (USA).jpg</image>
+		<video>./snaps/Flashback (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Go for it! Goemon - The Rescue of Princess Yuki (Japan) (Rev 2).sh</path>
+		<name>Ganbare Goemon: Yukihime Kyūshutsu Emaki</name>
+		<sortname>Ganbare Goemon 1</sortname>
+		<desc>Player one controls Goemon while Player two controls Ebisumaru. During some level segments, the players may walk up, down, left or right. During others, the players scroll in a side view perspective, typical of a 2D platformer game. In the side-scrolling stages, one player may hop onto the other's back and have a piggyback ride, letting the one on the ground walk and jump while the one riding attacks.</desc>
+		<rating>0.8</rating>
+		<releasedate>19951222T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Go for it! Goemon - The Rescue of Princess Yuki (Japan) (Rev 2).jpg</image>
+		<video>./snaps/Go for it! Goemon - The Rescue of Princess Yuki (Japan) (Rev 2).mp4</video>
+	</game>
+	<game>
+		<path>./Hagane - The Final Conflict (USA).sh</path>
+		<name>Hagane: The Final Conflict</name>
+		<sortname />
+		<desc>The Fuma clan protects the Holy Grail which is said to possess the power to destroy the world. When the Koma clan attacks and steals the Holy Grail, only one ninja survives. Transformed into a cyborg, it is his task to retrieve the Holy Grail and save the world.</desc>
+		<rating>0.9</rating>
+		<releasedate>19941118T000000</releasedate>
+		<developer>CAProduction</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Hagane - The Final Conflict (USA).jpg</image>
+		<video>./snaps/Hagane - The Final Conflict (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Home Alone (USA).sh</path>
+		<name>Home Alone</name>
+		<sortname />
+		<desc>Kevin is left alone at home while his family is celebrating the holidays elsewhere. Unfortunately for him, two burglars have entered the house to keep him company. Kevin must avoid being caught by the burglars while he gathers all the family belongings and bring them to safety. To aid him in his quest, Kevin has a slingshot and a water pistol, but equally important is proper handling of the environment - a banana skid placed in the right spot or a bowling ball on top of a cupboard will help Kevin in his cause against the robbers.</desc>
+		<rating>0.55</rating>
+		<releasedate>19911202T000000</releasedate>
+		<developer>Imagineer</developer>
+		<publisher>THQ</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Home Alone (USA).jpg</image>
+		<video>./snaps/Home Alone (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Hook (USA).sh</path>
+		<name>Hook</name>
+		<sortname />
+		<desc>In this video game adaption of the Steven Spielberg film Hook, the player takes the role of a grown-up Peter Pan, whose kids have been kidnapped by Captain Hook. Tinker Bell takes Peter back to Neverland where he must again become Pan and reclaim his children.</desc>
+		<rating>0.65</rating>
+		<releasedate>19921101T000000</releasedate>
+		<developer>Ukiyotei</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Hook (USA).jpg</image>
+		<video>./snaps/Hook (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - A Link to the Past DX Redux (USA).sh</path>
+		<name>Legend of Zelda: A Link to the Past, The</name>
+		<sortname />
+		<desc>Venture back to Hyrule and an age of magic and heroes. The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom. Only you can prevent his evil plot from shattering the land of Hyrule. In your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests. Test your mettle with mighty swords and magical weapons. Or heft a boulder and hurl it at your enemies. If the going gets tough, dive into a river - you can swim to escape! Learn the powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.</desc>
+		<rating>0.95</rating>
+		<releasedate>19920413T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Legend of Zelda, The - A Link to the Past DX Redux (USA).jpg</image>
+		<video>./snaps/Legend of Zelda, The - A Link to the Past DX Redux (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man X (USA).sh</path>
+		<name>Mega Man X³</name>
+		<sortname />
+		<desc>Mega Man X is a robot designed by Dr. Light to choose his own path in life. Years after he is created, Dr. Cain finds X and mimics his design to create a race of such robots called reploids. When the sigma virus infects these reploids, causing them to commit acts of evil, it is up to Mega Man X and his partner Zero (who is quite powerful, contrary to what his name implies) to stop it.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940118T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Mega Man X (USA).jpg</image>
+		<video>./snaps/Mega Man X (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Rock n' Roll Racing (USA).sh</path>
+		<name>Rock 'n Roll Racing</name>
+		<sortname />
+		<desc>Rock 'n Roll Racing is an arcade combat racing game. Combat plays a heavy role in the game, as each car has a frontal weapon, such as a laser or missile, and a drop weapon, such as spikes or mines. As you complete races, you get more money to upgrade your car.</desc>
+		<rating>0.85</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Silicon &amp; Synapse</developer>
+		<publisher>Interplay</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Rock n' Roll Racing (USA).jpg</image>
+		<video>./snaps/Rock n' Roll Racing (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario All-Stars (USA).sh</path>
+		<name>Super Mario All-Stars</name>
+		<sortname />
+		<desc>Super Mario All-Stars is a collection of previously released Super Mario NES platform games. Each title is presented with its original gameplay and level design, but has been given a makeover in the graphics and sound department. A save option has been added allowing players to store the session data.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930801T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Mario All-Stars (USA).jpg</image>
+		<video>./snaps/Super Mario All-Stars (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario World (USA).sh</path>
+		<name>Super Mario World</name>
+		<sortname />
+		<desc>Once again, the evil Bowser has captured Princess Peach (while on a holiday on Yoshi's Island), and it's up to Mario to save her. To aid him in his quest, Mario must use the flying ability of the feather to get him to places hard to reach. But what's even more important is his new friend, the dinosaur Yoshi, who Mario can ride through each level and eat the enemies.</desc>
+		<rating>0.85</rating>
+		<releasedate>19920411T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Mario World (USA).jpg</image>
+		<video>./snaps/Super Mario World (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Road Blaster (World) (Unl).sh</path>
+		<name>Super Road Blaster</name>
+		<sortname />
+		<desc>You assume the role of a vigilante who drives a customized sports car in order to bring the biker gang responsible for your wife's death to justice. Super Road Blaster is the first game to use the MSU-1, an enhancement device comparable to special chips such as the Super FX included in certain SNES cartridges. This game shows what titles on the ill-fated SNES CD-ROM drive might have looked like.</desc>
+		<releasedate>20120831T000000</releasedate>
+		<developer>Matthias “d4s” Nagler</developer>
+		<publisher>zeldix.net</publisher>
+		<genre>Racing</genre>
+		<image>./boxart/Super Road Blaster (World) (Unl).jpg</image>
+		<video>./snaps/Super Road Blaster (World) (Unl).mp4</video>
+	</game>
+	<game>
+		<path>./Super Star Wars (USA) (Rev 1).sh</path>
+		<name>Super Star Wars</name>
+		<sortname />
+		<desc>The story of this game is based on Episode IV: A New Hope, the first of the original Star Wars movie trilogy. The player initially controls the movie's main hero, Luke Skywalker, but two more controllable characters join later: the careless captain Han Solo and his Wookie side-kick, Chewbacca. The game generally follows the movie plot, allowing the player to experience some of the most important sequences, such as the search for Obi-Wan Kenobi, rescuing princess Leia, and the final confrontation against Death Star and its TIE Fighters, led by the mysterious Darth Vader.</desc>
+		<rating>0.75</rating>
+		<releasedate>19921101T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>JVC</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Super Star Wars (USA) (Rev 1).jpg</image>
+		<video>./snaps/Super Star Wars (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Super Star Wars - The Empire Strikes Back (USA) (Rev 1).sh</path>
+		<name>Super Star Wars: Empire Strikes Back, The</name>
+		<sortname />
+		<desc>The sequel to Super Star Wars is, as the name implies, based on Episode V: The Empire Strikes Back, the second of the original Star Wars movie trilogy. The game features familiar locations and events from the film, such as the ice planet Hoth, the search for Yoda on the jungle planet Dagobah, and the fight against Darth Vader. Several locations are expanded, adding places and boss enemies that did not exist in the movie, and certain key events in the story are omitted or changed.</desc>
+		<rating>0.75</rating>
+		<releasedate>19931001T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>JVC</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Super Star Wars - The Empire Strikes Back (USA) (Rev 1).jpg</image>
+		<video>./snaps/Super Star Wars - The Empire Strikes Back (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Super Star Wars - Return of the Jedi (USA) (Rev 1).sh</path>
+		<name>Super Star Wars: Return of the Jedi</name>
+		<sortname />
+		<desc>You select your character from the movie (Luke Skywalker, Han Solo, Princess Leia, or Chewbacca) before each level, as each one has different abilities, and go try to beat levels based on the movie's scenes brandishing lightsabers, blasters or crossbows, etc. depending on your choice of character.</desc>
+		<rating>0.8</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>JVC</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Super Star Wars - Return of the Jedi (USA) (Rev 1).jpg</image>
+		<video>./snaps/Super Star Wars - Return of the Jedi (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Super Street Fighter II (USA).sh</path>
+		<name>Super Street Fighter II</name>
+		<sortname />
+		<desc>This is the sequel to the super hit Street Fighter II Turbo and Street Fighter II Championship games for the SNES and Genesis. This port of the arcade game featured all 4 new characters and stages making a total of 16 playable. The game was packed into massive 32Meg and 40Meg cartridges for the SNES and Genesis. Featured many multiplayer modes in addition to the single player mode. There was the returning elimination group battle where you and a group of people played until one person was the champ.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930911T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Street Fighter II (USA).jpg</image>
+		<video>./snaps/Super Street Fighter II (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Top Gear 2 (USA).sh</path>
+		<name>Top Gear 2</name>
+		<sortname />
+		<desc>This third-person racing game resembles Gremlin's earlier Lotus series, in terms of its general look and feel, right down to the text font used in the game. Your task is to race through 16 countries, each of which features four races, with many real-world circuits recreated in incongruous locations (such as the Monza layout in Ayers Rock, and the old Hockenheim in Vancouver).</desc>
+		<rating>0.8</rating>
+		<releasedate>19930901T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Kemco</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Top Gear 2 (USA).jpg</image>
+		<video>./snaps/Top Gear 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ultimate Mortal Kombat 3 (USA).sh</path>
+		<name>Ultimate Mortal Kombat 3</name>
+		<sortname>Mortal Kombat 4</sortname>
+		<desc>Ultimate Mortal Kombat 3 combines the best of all the Mortal Kombats into a single cartridge. 23 playable characters are immediately available, such as Reptile, Cyrax, Scorpion, Sub-Zero, Jax, Katana, Sonya, and more. There are two bosses that are unlockable, as well as additional characters.</desc>
+		<rating>0.7</rating>
+		<releasedate>19961001T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Williams</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Ultimate Mortal Kombat 3 (USA).jpg</image>
+		<video>./snaps/Ultimate Mortal Kombat 3 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Wild Guns (USA).sh</path>
+		<name>Wild Guns</name>
+		<sortname />
+		<desc>KABOOM! Annie and Clint, two gunslingers, arrive at Carson City and get caught up in a gunfight. It's raining bullets and there are explosions everywhere. After an intense battle they enter the saloon where they dispose of every cowboy in sight while redecorating the interior. Our heroes flee the scene by climbing on the roof, but what's that sound? it's a HUGE robot!</desc>
+		<rating>0.85</rating>
+		<releasedate>19950801T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Natsume</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Wild Guns (USA).jpg</image>
+		<video>./snaps/Wild Guns (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Wolfenstein 3-D (USA).sh</path>
+		<name>Wolfenstein 3-D</name>
+		<sortname />
+		<desc>id software's adaptation of their classic first-person shooter Wolfenstein 3D to consoles is not a straight port, but a remix with substantial changes as well as new additions. While the basic gameplay of exploring levels, shooting enemies, collecting treasures, keys and power-ups remain the same, only half of the original game's 60 levels have been retained. Each of those 30 levels (grouped into six missions, with two levels being secret ones) is a simplified version of an original level. The end bosses for the missions are taken from both Wolf3D as well as its sequel, Spear of Destiny.</desc>
+		<rating>0.55</rating>
+		<releasedate>19940501T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>Imagineer</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Wolfenstein 3-D (USA).jpg</image>
+		<video>./snaps/Wolfenstein 3-D (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ys III - Wanderers from Ys (USA).sh</path>
+		<name>Ys III: Wanderers from Ys</name>
+		<sortname />
+		<desc>Adol's long time friend, Dogi wishes to return to his home town of Redmont after hearing about strange disturbances that are happening there. Always looking for an adventure, Adol joins him and soon finds out the cause of this new evil.</desc>
+		<rating>0.85</rating>
+		<releasedate>19920102T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Tonkin House</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Ys III - Wanderers from Ys (USA).jpg</image>
+		<video>./snaps/Ys III - Wanderers from Ys (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Kirby's Dream Land 3 (USA).sh</path>
+		<name>Kirby's Dream Land 3</name>
+		<sortname />
+		<desc>That mean old King Dedede is at it again! He's causing his mischief and Dreamland's in trouble! Kirby, the resident hero of Dreamland, sets out to teach Dedede a lesson, this time with the help of many of his good friends! But wait! Something's wrong! Dedede doesn't seem to be himself, Looks like Kirby has to stop Dedede and find out what is wrong with him! It almost seems like something's controlling him...</desc>
+		<rating>0.85</rating>
+		<releasedate>19971127T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Kirby's Dream Land 3 (USA).jpg</image>
+		<video>./snaps/Kirby's Dream Land 3 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Knights of the Round (USA).sh</path>
+		<name>Knights of the Round</name>
+		<sortname />
+		<desc>In Knights of the Round, play the role of one of three knights from the Arthurian legends. The three characters are Sir Lancelot, Sir Percival, and of course King Arthur.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Knights of the Round (USA).jpg</image>
+		<video>./snaps/Knights of the Round (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Goddess of Wisdom (USA).sh</path>
+		<name>Legend of Zelda: Goddess of Wisdom, The </name>
+		<sortname />
+		<desc>The Legend of Zelda: Goddess of Wisdom follows the original design of ‘Zelda3 Goddess of Wisdom’ but is edited to create a more comprehensive experience for novice and/or expert players that feels akin to something Nintendo would release.</desc>
+		<rating>0.95</rating>
+		<releasedate>19920413T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Legend of Zelda, The - Goddess of Wisdom (USA).jpg</image>
+		<video>./snaps/Legend of Zelda, The - Goddess of Wisdom (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Lemmings (USA).sh</path>
+		<name>Lemmings</name>
+		<sortname />
+		<desc>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.</desc>
+		<rating>0.75</rating>
+		<releasedate>19920302T000000</releasedate>
+		<developer>Psygnosis</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Lemmings (USA).jpg</image>
+		<video>./snaps/Lemmings (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Lufia &amp; the Fortress of Doom (USA).sh</path>
+		<name>Lufia And The Fortress Of Doom</name>
+		<sortname />
+		<desc>The hero Maxim and his group defeat the Sinistrals on Mt. Doom (as portrayed in Lufia II), and all is peaceful. With such a great peace, the defense forces of the world become lax. One hundred years later attacks begin taking place, supposedly by the Sinistrals. It's up to the descendant of the hero, and his childhood friend Lufia, to form a new band of champions to save the world.</desc>
+		<releasedate>19930625T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Lufia &amp; the Fortress of Doom (USA).jpg</image>
+		<video>./snaps/Lufia &amp; the Fortress of Doom (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Lufia II - Rise of the Sinistrals (USA).sh</path>
+		<name>Lufia II: Rise of the Sinistrals</name>
+		<sortname />
+		<desc>Lufia II is an RPG with many puzzle elements thrown in. In this game, the prequel to Lufia I, you are Maxim, a monster hunter. During your journey, you will find new party members, explore and conquer various dungeons, and solve many puzzles.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960831T000000</releasedate>
+		<developer>Neverland</developer>
+		<publisher>Taito</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Lufia II - Rise of the Sinistrals (USA).jpg</image>
+		<video>./snaps/Lufia II - Rise of the Sinistrals (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Magical Quest Starring Mickey Mouse, The (USA).sh</path>
+		<name>Disney's Magical Quest: Starring Mickey Mouse, The</name>
+		<sortname />
+		<desc>This was the first Mickey Mouse game for Super NES, featuring a traditional platform gameplay and colorful Disney-like graphics. Mickey's mission is to save his dog Pluto, who's been kidnapped and kept inside emperor Pete's castle, in a magical land, guarded by mysterious creatures.</desc>
+		<rating>0.8</rating>
+		<releasedate>19921201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Magical Quest Starring Mickey Mouse, The (USA).jpg</image>
+		<video>./snaps/Magical Quest Starring Mickey Mouse, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man X2 (USA).sh</path>
+		<name>Mega Man X²</name>
+		<sortname />
+		<desc>Sigma, the leader of the Maverick army, was destroyed when he underestimated his opponent: a lone warrior, awakened into a time he never knew X. 6 months had passed, and X rose to the rank of leader of the Maverick Hunters. His first task was to eliminate the last of the Mavericks. But as he began his assignment, a mysterious group of Reploids calling themselves the X-Hunters appeared with a message to X: the remains of his fallen comrade, Zero, were in the hands of the X-Hunters, and they planned on resurrecting Zero to fight alongside them and for their fallen leader, Sigma. X must now stop the X-Hunters and rescue Zero, and once again prevent Sigma from rising back into ultimate power.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950303T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Mega Man X2 (USA).jpg</image>
+		<video>./snaps/Mega Man X2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mobile Suit Gundam Wing - Endless Duel (Japan).sh</path>
+		<name>Mobile Suit Gundam Wing: Endless Duel</name>
+		<sortname />
+		<desc>It is the year After Colony 195, and war between the Space Colonies and Earth has begun. To give the colonies an edge, they send 5 young soldiers, trained to perfection, to earth in the most powerful of Mobile Suits-Gundams. With their arrival, the tide of the war changes as they battle against the Earth forces and the Colonies of their origin.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960329T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Bandai</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Mobile Suit Gundam Wing - Endless Duel (Japan).jpg</image>
+		<video>./snaps/Mobile Suit Gundam Wing - Endless Duel (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Mortal Kombat 3 (USA).sh</path>
+		<name>Mortal Kombat 3</name>
+		<sortname>Mortal Kombat 3</sortname>
+		<desc>Shao Kahn has won. The Earthrealm is no more. In order to revive his Queen Sindel, the emperor Shao Kahn used the Outworld Tournament from Mortal Kombat 2 as a diversion while his Shadow Priests revive his fallen Queen on Earth. Once enacted, the dimensional bridge between the two realms connects, allowing Kahn's extermination squads to invade and destroy Earth, and enslave the population's souls.</desc>
+		<rating>0.8</rating>
+		<releasedate>19951001T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Williams</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Mortal Kombat 3 (USA).jpg</image>
+		<video>./snaps/Mortal Kombat 3 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mortal Kombat II (USA).sh</path>
+		<name>Mortal Kombat II</name>
+		<sortname>Mortal Kombat 2</sortname>
+		<desc>The Mortal Kombat fighters, plus several new ones, return for a tournament held by the evil Shang Tsung of the Outworld. The action is one-on-one as before, and famed for its high level of violence and blood (other than the sanitised Nintendo version). There are 5 difficulty levels and optional credits, as well as the usual two player mode including same character duels.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Mortal Kombat II (USA).jpg</image>
+		<video>./snaps/Mortal Kombat II (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mortal Kombat (USA).sh</path>
+		<name>Mortal Kombat</name>
+		<sortname>Mortal Kombat 1</sortname>
+		<desc>Five Hundred years ago, an ancient and well respected Shaolin fighting tournament, held every 50 years, was corrupted by an evil and elderly sorcerer by the name of Shang Tsung. Shang was accompanied by Prince Goro, a warrior of the Shokan race (a four armed half-human/half-dragon). Knowing that if ten tournaments in a row were won by the Outworld champion, the Earth Realm would be conquered by evil and fall into darkness, Shang entered Goro in the tournament and had him defeat the great Kung Lao.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930913T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Mortal Kombat (USA).jpg</image>
+		<video>./snaps/Mortal Kombat (USA).mp4</video>
+	</game>
+	<game>
+		<path>./NBA Jam - Tournament Edition (USA).sh</path>
+		<name>NBA JAM: Tournament Edition</name>
+		<sortname />
+		<desc>This game lets you play two-on-two arcade basketball with players from all the NBA teams. Gameplay is fast and action-packed, with few rules, no fouls, and deliberately unrealistic jamming. Players are rated on eight ability categories, from steals and blocks, to dunks and 3-pointers. Up to four human players can take part, each always controlling a single player for their team, and AI for missing players. This allows for four players to face each other in teams of two, or for two players to team up against a third player with a CPU team-mate.</desc>
+		<rating>0.9</rating>
+		<releasedate>19950223T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/NBA Jam - Tournament Edition (USA).jpg</image>
+		<video>./snaps/NBA Jam - Tournament Edition (USA).mp4</video>
+	</game>
+	<game>
+		<path>./NBA Jam 2K22 - Tournament Edition (USA).sh</path>
+		<name>NBA JAM 2K22: Tournament Edition</name>
+		<sortname />
+		<desc>This game lets you play two-on-two arcade basketball with players from all the NBA teams. Gameplay is fast and action-packed, with few rules, no fouls, and deliberately unrealistic jamming. Players are rated on eight ability categories, from steals and blocks, to dunks and 3-pointers. Up to four human players can take part, each always controlling a single player for their team, and AI for missing players. This allows for four players to face each other in teams of two, or for two players to team up against a third player with a CPU team-mate.</desc>
+		<rating>0.9</rating>
+		<releasedate>19950223T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/NBA Jam 2K22 - Tournament Edition (USA).jpg</image>
+		<video>./snaps/NBA Jam 2K22 - Tournament Edition (USA).mp4</video>
+	</game>
+	<game>
+		<path>./New Super Mario Land (Japan).sh</path>
+		<name>New Super Mario Land</name>
+		<sortname />
+		<desc>New Super Mario Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. The game introduces a graphic style taken from the New Super Mario bros series from the Nintendo Wii. There's also detailed backgrounds with great parallax scrolling and reflecting water effects.</desc>
+		<releasedate>20191121T000000</releasedate>
+		<developer>Anonymous</developer>
+		<publisher>archive.org</publisher>
+		<genre>Platform</genre>
+		<players>1-4</players>
+		<image>./boxart/New Super Mario Land (Japan).jpg</image>
+		<video>./snaps/New Super Mario Land (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Ninjawarriors (USA).sh</path>
+		<name>Ninjawarriors</name>
+		<sortname />
+		<desc>The land is under the grip of a tyrant named Benglar, who is able to brainwash those he captures. Using this ability he has taken over the military forces and now appears unstoppable. However, resistance forces lead by Mulk have been developing a new weapon: Cybernetic Special Forces with the ability to think, dubbed the Ninja Warriors. Untested, these machines are given the orders to assassinate Benglar.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940202T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Titus</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+		<image>./boxart/Ninjawarriors (USA).jpg</image>
+		<video>./snaps/Ninjawarriors (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Out of this World (USA).sh</path>
+		<name>Out of this World</name>
+		<sortname />
+		<desc>You play Lester, a young physics professor, who suddenly finds himself in a strange alien world after a lightning struck during his particle experiment. Now he must fight for his life, first with his bare hands, then with a gun he finds. But what gives him courage is that he is not alone. One of the aliens, who together with him escapes from the prison, helps him on his dangerous quest. Friendship can overcome all the obstacles.</desc>
+		<rating>0.8</rating>
+		<releasedate>19921127T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>Interplay</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Out of this World (USA).jpg</image>
+		<video>./snaps/Out of this World (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pitfall - The Mayan Adventure (USA).sh</path>
+		<name>Pitfall: The Mayan Adventure</name>
+		<sortname />
+		<desc>Pitfall: The Mayan Adventure is a side-scrolling action game in which you play adventurer Pitfall Harry Jr in search of his father Pitfall Harry. You battle your way through the Mayan jungles, waterfalls, deserted mines and can bungee jump and boomerang your way to safety. There are 13 levels and the action is fast and gripping. You will need to be attentive—and quick. Or prepare to die.</desc>
+		<rating>0.85</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Pitfall - The Mayan Adventure (USA).jpg</image>
+		<video>./snaps/Pitfall - The Mayan Adventure (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Simpsons, The - Bart's Nightmare (USA).sh</path>
+		<name>Simpsons: Bart's Nightmare, The</name>
+		<sortname />
+		<desc>Bart has to stay up late and write a paper for class tomorrow. For once, he is determined to get a good mark. However, very quickly, he falls asleep. Nightmare after nightmare haunt his subconscious, and it is up to you to get over each one, so that Bart will eventually wake up. From such dreams as being in an episode of Itchy &amp; Scratchy to swimming through his own bloodstream, this platformer offers a nice challenge through its many diverse levels.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Simpsons, The - Bart's Nightmare (USA).jpg</image>
+		<video>./snaps/Simpsons, The - Bart's Nightmare (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fight (USA).sh</path>
+		<name>Final Fight</name>
+		<sortname />
+		<desc>There's trouble in Metro City. The members of the Mad Gear Gang have kidnapped the mayor's daughter Jessica and the clock is ticking. Taking on the role of either Cody, Guy, or Mike Haggar, you must advance through six areas of the city clearing out the gang infestation. You will have to cope with a variety of thugs, ranging from firebomb-throwing maniacs to behemoth wrestlers. To defeat these thugs, you have an arsenal of punches, kicks, throws, and jump kicks at your disposal.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910901T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em up</genre>
+		<image>./boxart/Final Fight (USA).jpg</image>
+		<video>./snaps/Final Fight (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fight 2 (USA).sh</path>
+		<name>Final Fight 2</name>
+		<sortname />
+		<desc>Final Fight 2 is the SNES exclusive sequel to Final Fight which was released on the same platform. Like the original outing, this game is a sidescrolling fighter (i.e. Double Dragon). The MAD GEAR gang is back. They have kidnapped Guy's fiancee (Guy was one of the main characters in the original game), her father and Guy's martial arts master Genryusai. The younger sister of Guy's fiancee, Maki, teams up with Mike Haggar and Carlos Miyamoto to take out the MAD GEAR gang once and for all. The game is set in various stages around the world.</desc>
+		<rating>0.65</rating>
+		<releasedate>19930801T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Final Fight 2 (USA).jpg</image>
+		<video>./snaps/Final Fight 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fight 3 (USA).sh</path>
+		<name>Final Fight 3</name>
+		<sortname />
+		<desc>Final Fight 3 is almost identical to the previous two SNES installments. The Mad Gear gang was destroyed and with this, the Skull Cross gang has gone rampant in Metro City. Now, it is up to mayor Mike Haggar and Guy (along with the newcomers Dean and Lucia) to stop them once and for all.</desc>
+		<rating>0.7</rating>
+		<releasedate>19951221T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Final Fight 3 (USA).jpg</image>
+		<video>./snaps/Final Fight 3 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Gradius III (USA).sh</path>
+		<name>Gradius III</name>
+		<sortname />
+		<desc>Gradius III is the third game in Konami's long-running space shooter series, which also includes Life Force and Nemesis. As with most Gradius titles, you control the highly advanced Vic Viper space fighter against hordes of foes. Weapons can be selected from pre-arranged loadouts or you can create your own custom loadout. The game can be played by a single player, or by two players in alternating turns. The game offers three levels of difficulty.</desc>
+		<rating>0.55</rating>
+		<releasedate>19911202T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Gradius III (USA).jpg</image>
+		<video>./snaps/Gradius III (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Illusion of Gaia (USA).sh</path>
+		<name>Illusion of Gaia</name>
+		<sortname />
+		<desc>Will is a young boy whose father disappeared long time ago. Now Will lives in a small town with his grandparents. He possesses unusual abilities of pushing and pulling things without touching them. One day, he finds in his house a girl, who soon turns out to be the princess Kara. Kara's father, king Edward, wants her to marry a mysterious person called the Jackal. Kara asks Will to help her to escape the palace, and soon they both get involved in a string of mystery and conspiracies.</desc>
+		<rating>0.9</rating>
+		<releasedate>19950427T000000</releasedate>
+		<developer>Quintet</developer>
+		<publisher>Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Illusion of Gaia (USA).jpg</image>
+		<video>./snaps/Illusion of Gaia (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Indiana Jones' Greatest Adventures (USA).sh</path>
+		<name>Indiana Jones' Greatest Adventures</name>
+		<sortname />
+		<desc>Indiana Jones gets the Super Star Wars treatment for SNES. The title consists of platform levels from the first three Indy films: Raiders of the Lost Ark, Temple of Doom, and Last Crusade. Players get to use Indy's trademark whip, as well as guns, grenades, and his fists to get through the game.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950330T000000</releasedate>
+		<developer>Factor 5</developer>
+		<publisher>JVC</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Indiana Jones' Greatest Adventures (USA).jpg</image>
+		<video>./snaps/Indiana Jones' Greatest Adventures (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Jikkyou Oshaberi Parodius (Japan).sh</path>
+		<name>Jikkyou Oshaberi Parodius</name>
+		<sortname />
+		<desc>The third in the Paroidus series, it's the same gameplay and zaniness that substantiated the first two games. Gameplay itself is a copy (a parody rather) of Konami's famous Gradius series in that the screen scrolls from left to right (most times) and you maneuver around the screen destroying waves of enemies and avoiding obstacles. Unlike previous Parodius titles, this game contains a difficulty adjustment option, allowing the player to make things easier or harder.</desc>
+		<rating>0.9</rating>
+		<releasedate>19951215T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Jikkyou Oshaberi Parodius (Japan).jpg</image>
+		<video>./snaps/Jikkyou Oshaberi Parodius (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Killer Instinct (USA).sh</path>
+		<name>Killer Instinct</name>
+		<sortname />
+		<desc>In the distant future, a monopolistic and technological corporation called Ultratech organizes a fighting tournament known as "Killer Instinct". Many fighters answer the challenge to participate, including several of Ultratech's experimental warriors. To increase the tournament's challenge, Ultratech utilizes a technology that can create bridges between alternate dimensions, releasing a creature known as Eyedol.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950801T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Killer Instinct (USA).jpg</image>
+		<video>./snaps/Killer Instinct (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Kirby Super Star (USA).sh</path>
+		<name>Kirby Super Star</name>
+		<sortname />
+		<desc>"Kirby Super Star" is another platformer in the Kirby series, distinguished for having an unusually versatile character, who can fly and gain the abilities of his foes.</desc>
+		<rating>0.95</rating>
+		<releasedate>19960920T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Kirby Super Star (USA).jpg</image>
+		<video>./snaps/Kirby Super Star (USA).mp4</video>
+	</game>
+	<game>
+		<path>./ActRaiser 2 (USA).sh</path>
+		<name>Actraiser 2</name>
+		<sortname />
+		<desc>Players control "The Master," a god-like spirit sent down from the heavens, and fight to eradicate evil from the land. This sequel to ActRaiser focuses entirely on the side-scrolling action of the original, and has 14 levels with new monsters, new abilities, and new super powers.</desc>
+		<rating>0.7</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Quintet Co., Ltd.</developer>
+		<publisher>Enix</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/ActRaiser 2 (USA).jpg</image>
+		<video>./snaps/ActRaiser 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Battletoads-Double Dragon (USA).sh</path>
+		<name>Battletoads &amp; Double Dragon</name>
+		<sortname />
+		<desc>Earth is under fire by Colossus, a battleship the size of a city. Using powerful laser cannons, it has destroyed most of Earth's defence forces, while its many troops clean up the rest of the planet. All expect for 5 warriors. The Battletoads, who are well aware of evil forces in the galaxy, join forces with Billy and Jimmy Lee from Double Dragon to defend Earth from the deadly ship and its troops. Using a range of special moves you must fight your way through the streets into the heart of the ship and destroy it.</desc>
+		<rating>0.7</rating>
+		<releasedate>19931001T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Rareware</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Battletoads-Double Dragon (USA).jpg</image>
+		<video>./snaps/Battletoads-Double Dragon (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Castlevania - Dracula X (USA).sh</path>
+		<name>Castlevania: Dracula X</name>
+		<sortname />
+		<desc>In Transylvania, people lived in fear of the evil Count Dracula. The ultimate embodiment of evil, Dracula swept his dark hand over the land, making the people mere sheep for his thirst for blood. But when a young woman named Sonia Belmont came forth to confront him, he made a horrible mistake: he underestimated her. Thus, the battle between Dracula and the Belmont family began.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950901T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Castlevania - Dracula X (USA).jpg</image>
+		<video>./snaps/Castlevania - Dracula X (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Maui Mallard in Cold Shadow (USA).sh</path>
+		<name>Disney's Maui Mallard in Cold Shadow</name>
+		<sortname />
+		<desc>Take charge of gun toting Arnie in this top down omni-scrolling action shooter. Arnie takes on the terrorists using a variety of weapons in all the locations from the movie of the same name. In each location you have a mission such as retrieve data or capture a terrorist.This usually involves searching around for your goal while dispatching enemies and trying to minimise civilian casualties. The emphasis is on action and weapons, in particular Arnold's favourites: flame thrower and the uzi. He also has a diving roll to help him dodge the enemies bullets and come back guns blazing.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950201T000000</releasedate>
+		<developer>Beam Software</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Maui Mallard in Cold Shadow (USA).jpg</image>
+		<video>./snaps/Maui Mallard in Cold Shadow (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pocky &amp; Rocky (USA).sh</path>
+		<name>Pocky &amp; Rocky</name>
+		<sortname />
+		<desc>You play as the Princess Pocky and her Racoon Rocky. Run through each level beating the enemies and you'll face a goofy boss at the end. Beat him and you're on to the next level. You fight and shoot your way through numerous levels based on temples and shrines. Pocky shoot playing cards and Rocky shoot leaves for long range attacks. For short range Pocky uses a rod and Rocky his tail. Pocky also has a spin attack and Rocky can freeze into a invulnerable statue. (Think Tanuki Mario)</desc>
+		<rating>0.85</rating>
+		<releasedate>19930601T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Natsume</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Pocky &amp; Rocky (USA).jpg</image>
+		<video>./snaps/Pocky &amp; Rocky (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Trials of Mana (World).sh</path>
+		<name>Trials of Mana</name>
+		<sortname />
+		<desc>Trials of Mana is set in the same world as the two previous Seiken Densetsu games (the first is Final Fantasy Adventure, and the second is most known as Secret of Mana). The mysterious power of Mana is also the center of all events in Trials of Mana. Years have passed, and all the destructive powers of Mana have been securely sealed by Mana Swords into eight seeds, all placed in eight different kingdoms. But some people know about those sealed powers, and they don't want to free them for the sake of humanity, but for their own gain - such as the kingdom of Altena, which is slowly freezing and which can be saved only by the legendary powers.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950930T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-3</players>
+		<image>./boxart/Trials of Mana (World).jpg</image>
+		<video>./snaps/Trials of Mana (World).mp4</video>
+	</game>
+	<game>
+		<path>./Shadowrun (USA).sh</path>
+		<name>Shadowrun</name>
+		<sortname />
+		<desc>The SNES version of Shadowrun appeared earlier than the Genesis one, and it is an entirely different game, with different story and gameplay, although it is also based on a pen-and-paper RPG of the same name. Your hero, Jake, is attacked by assassins, and appears to be dead. However, a mysterious dog approaches his lifeless body, transforms into a woman, and casts a spell on him.</desc>
+		<rating>0.75</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Beam Software</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Shadowrun (USA).jpg</image>
+		<video>./snaps/Shadowrun (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Shin Megami Tensei (Japan).sh</path>
+		<name>Shin Megami Tensei</name>
+		<sortname />
+		<desc>A young man lives together with his mother in Kichijoji, a district in modern Tokyo. One day, he has a strange dream: he is being sucked into another dimension, a strange maze-like structure. A spirit appears in front of him and asks him his name. As he proceeds further, he meets a man who is hanging on a cross, another one who is being tormented by a demon, and a mysterious young woman who is bathing in a pool.</desc>
+		<rating>0.75</rating>
+		<releasedate>19921030T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Shin Megami Tensei (Japan).jpg</image>
+		<video>./snaps/Shin Megami Tensei (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Soul Blazer (USA).sh</path>
+		<name>Soul Blazer</name>
+		<sortname />
+		<desc>You have been called by the Master to restore life to the Friel empire. The ruler, King Magridd, struck a deal with the evil Deathtoll - in exchange for the soul of one living being, Deathtoll will give him a piece of gold. Magridd's greed got the better of him, and, thinking of the millions of souls of every living creature around the world, readily agreed to the deal. But Magridd himself has since disappeared, and the the land is now devoid of life - instead only filled with Deathtoll's monstrous minions. Will you be able to save Friel's subjects from their horrible fate?</desc>
+		<rating>0.7</rating>
+		<releasedate>19920801T000000</releasedate>
+		<developer>Quintet Co., Ltd.</developer>
+		<publisher>Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Soul Blazer (USA).jpg</image>
+		<video>./snaps/Soul Blazer (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Double Dragon (USA).sh</path>
+		<name>Super Double Dragon</name>
+		<sortname />
+		<desc>Billy and Jimmy Lee return for another adventure. This time, fellow martial arts instructor and narcotics investigator, Marian, has disappeared while attempting to infiltrate the ruthless criminal mob known as the Black Shadow Warriors. Once again it is up to you (and a friend) to battle your way through a selection of side-scrolling beat 'em up levels to defeat the Shadow Warriors and their leader Duke, and save Marian.</desc>
+		<rating>0.8</rating>
+		<releasedate>19921001T000000</releasedate>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Double Dragon (USA).jpg</image>
+		<video>./snaps/Super Double Dragon (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Ghouls'n Ghosts (USA).sh</path>
+		<name>Super Ghouls'n Ghosts</name>
+		<sortname />
+		<desc>4 years after Arthur saved Princess PrinPrin from the evil demon Loki, a wonderful celebration is about to take place! Arthur and the Princess are engaged, and the wedding is to take place at last! Thousands from around the kingdom have come to witness this joyous event!</desc>
+		<rating>0.8</rating>
+		<releasedate>19911004T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Super Ghouls'n Ghosts (USA).jpg</image>
+		<video>./snaps/Super Ghouls'n Ghosts (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario RPG - Legend of the Seven Stars (USA).sh</path>
+		<name>Super Mario RPG: Legend of the Seven Stars</name>
+		<sortname />
+		<desc>Super Mario RPG is a console RPG starring none other than Nintendo's popular character Mario. This game starts off like almost every other Mario game, with Bowser kidnapping Princess Toadstool. However, when Mario goes to Bowser's Keep to save her, a giant sword made by the evil Smithy crashes into the castle and sends Mario, the Princess, and Bowser flying to separate parts of the world.</desc>
+		<rating>0.9</rating>
+		<releasedate>19960513T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Super Mario RPG - Legend of the Seven Stars (USA).jpg</image>
+		<video>./snaps/Super Mario RPG - Legend of the Seven Stars (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario World 2 - Yoshi's Island (USA).sh</path>
+		<name>Super Mario World 2: Yoshi's Island</name>
+		<sortname />
+		<desc>The events of Yoshi's Island take place in the past. Mario was one of two twin brothers whom the evil Magikoopa Kamek tried to kidnap. Kamek kidnapped one of the brothers, but the second, Mario, fell down on Yoshi's island, where Yoshis live. The Yoshis decided to carry baby Mario and to bring him to his parents. But Kamek has sent troops and hordes of monsters to stop the Yoshis and to kidnap Mario.</desc>
+		<rating>0.75</rating>
+		<releasedate>19951004T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Mario World 2 - Yoshi's Island (USA).jpg</image>
+		<video>./snaps/Super Mario World 2 - Yoshi's Island (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Metroid (Japan, USA).sh</path>
+		<name>Super Metroid</name>
+		<sortname />
+		<desc>Super Metroid is a follow-up to Metroid II, and once again features bounty hunter Samus Aran. She heads to planet Zebes in order to hunt down the leaders of the Space Pirates, who kidnapped an unique Metroid larva.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940418T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Super Metroid (Japan, USA).jpg</image>
+		<video>./snaps/Super Metroid (Japan, USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Off Road (USA).sh</path>
+		<name>Super Off Road</name>
+		<sortname />
+		<desc>Enter the world of off-road racing as 4 vehicles will face each other, on a series of tracks which are based around flipped and reversed versions of a core selection. Fame, glory and bikini clad women await your victories and the taste of dirt awaits if you fail. Let a computer car beat you and you lose one of your 3 credits.</desc>
+		<rating>0.75</rating>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Tradewest</developer>
+		<publisher>Software Creations</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Super Off Road (USA).jpg</image>
+		<video>./snaps/Super Off Road (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Punch-Out!! (USA).sh</path>
+		<name>Super Punch-Out!!</name>
+		<sortname />
+		<desc>Your dreams are finally going to come true! All the years of training...all for that day where you'd finally step into the ring, amidst the roar of the excited crowd, to square off against the best of the best...you tighten your fist and hear your gloves tighten with them...you take a step foward, the door opens before you and the boxing ring beckons your name!</desc>
+		<rating>0.75</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Super Punch-Out!! (USA).jpg</image>
+		<video>./snaps/Super Punch-Out!! (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super R-Type (USA).sh</path>
+		<name>Super RType</name>
+		<sortname />
+		<desc>A Galactic Battle Begins! The BYDO Empire of mutant extra-terrestrials is back with evil intent and awesome power. You'll feel the heat of their attack as never before with the extra powerful graphics and unbelievable realism of the Super NES. Now the evil Empire is poised to launch a new attack on Earth. Only the revolutionary R-9 stands between these monsters and doom. Are they invincible? You'll need lightning reflexes, intuitive moves and a big dose of cosmic luck to hold your own! "R" you ready? The mutants "R" ready for you!</desc>
+		<rating>0.75</rating>
+		<releasedate>19920604T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Super R-Type (USA).jpg</image>
+		<video>./snaps/Super R-Type (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Turrican 2 (USA).sh</path>
+		<name>Super Turrican 2</name>
+		<sortname />
+		<desc>Super Turrican is back, and once again the USS Freedom Forces have to prevent the evil Machine from harming innocent civilizations. This requires the player to jump and shoot his way through large levels filled with lots of enemies. To get rid of all the enemies, several different weapons can be used, most of which are already familiar to players from previous installments of the series: a Laser, a Spread-shot, and a(improved) Rebound.</desc>
+		<rating>0.8</rating>
+		<releasedate>19951102T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Super Turrican 2 (USA).jpg</image>
+		<video>./snaps/Super Turrican 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Turrican (USA).sh</path>
+		<name>Super Turrican</name>
+		<sortname />
+		<desc>Super Turrican is the next generation installment of the famous Turrican Series. Once again it is up to the U.S.S. Freedom Forces to get into their Turrican Assault Suits and drive back the forces of "The Machine".</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Factor 5</developer>
+		<publisher>Kemco</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Super Turrican (USA).jpg</image>
+		<video>./snaps/Super Turrican (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles - Tournament Fighters (USA).sh</path>
+		<name>Teenage Mutant Ninja Turtles: Tournament Fighters</name>
+		<sortname />
+		<desc>The game features the original 4 turtles from the previous games in the series, as well as other fighters. The game is very much in the tradition of the Mortal Kombat or Street Fighter series, pitting you against opponents one at a time. Some fighters (besides the turtles) will be familiar, such as the Rat King, or even Shredder (now called "Cyber-Shredder" here).</desc>
+		<rating>0.8</rating>
+		<releasedate>19931201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).jpg</image>
+		<video>./snaps/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Terranigma (Europe).sh</path>
+		<name>Terranigma</name>
+		<sortname />
+		<desc>"Terranigma" is an action game with slight RPG elements. Ark levels up after having completed an important quest or cleared out an area. He can attack enemies with various weapons, using various techniques: pierce, leap, dash, etc.</desc>
+		<rating>0.75</rating>
+		<releasedate>19961219T000000</releasedate>
+		<developer>Quintet Co., Ltd.</developer>
+		<publisher>Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Terranigma (Europe).jpg</image>
+		<video>./snaps/Terranigma (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Tetris &amp; Dr. Mario (USA).sh</path>
+		<name>Tetris &amp; Dr. Mario</name>
+		<sortname />
+		<desc>In Tetris, the main objective is to pile blocks that will fall down continuously, in order to create a row or "line" without spaces. For this collection, the game comes with two bonus options: 2 PLAYER GAME (absent in the NES version) and VS. COM (absent in both versions), with 3 CPU opponents available, each one representing a difficulty level (EASY, MEDIUM, and HARD, respectively).</desc>
+		<rating>0.9</rating>
+		<releasedate>19950725T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Tetris &amp; Dr. Mario (USA).jpg</image>
+		<video>./snaps/Tetris &amp; Dr. Mario (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man X3 (USA).sh</path>
+		<name>Mega Man X3</name>
+		<sortname />
+		<desc>A Reploid scientist named Dr. Doppler begins creation of a new city for Reploids, which will bring a new era of peace to the Reploids and humans. But something goes terribly wrong, and now Mavericks have begun to appear everywhere! It's up to X and Zero to find out who is behind this Maverick revolt and bring them down for good!</desc>
+		<rating>0.8</rating>
+		<releasedate>19960214T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Mega Man X3 (USA).jpg</image>
+		<video>./snaps/Mega Man X3 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Lion King, The (USA).sh</path>
+		<name>Disney's Lion King, The</name>
+		<sortname />
+		<desc>Young Simba just can't wait to be king. His father is the current King of the Savannah and the young prince is able to frolic the lands at will; jumping on and around other subjects of this animal kingdom. When Simba's father, King Mufasa, is killed and his evil brother Scar takes over the kingdom, Simba is banished from the lands of his birthright and has to grow up fast, honing his skills, for the day of his return.</desc>
+		<rating>0.75</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Virgin</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Lion King, The (USA).jpg</image>
+		<video>./snaps/Lion King, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ys IV - Mask of the Sun (Japan).sh</path>
+		<name>Ys IV: Mask of the Sun</name>
+		<sortname />
+		<desc>After having defeated the ultimate evil in his previous adventure, the great hero Adol stands on a sea shore, thinking about the fate of the once peaceful Utopian land of Ys, while the wind is blowing through his red hair. Suddenly, Adol notices a bottle, thrown onto the shore. It contains a letter, written in a foreign language, in which an unknown person asks Adol to come to his land and save it from a mysterious evil. Adol decides to accept the offer, and thus his adventure begins again.</desc>
+		<rating>0.5</rating>
+		<releasedate>19931119T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Tonkin House</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Ys IV - Mask of the Sun (Japan).jpg</image>
+		<video>./snaps/Ys IV - Mask of the Sun (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Ys V - Kefin, Lost Kingdom of Sand (Japan).sh</path>
+		<name>Ys V: Kefin, Lost Kingdom of Sand</name>
+		<sortname />
+		<desc>Long, long ago, in the Kefin Desert, on the Continent of Afroka, a strong wind blew throughout the night... There is nothing but desert in Kefin area, but a legend tells a city was once was there -the city of Kefin. There is a rumor a legendary treasure is hidden somewhere amidst the ruins of the city. Who will dare to explore the dangerous region and to uncover the mysteries of the past? There is one who dares - Adol, the hero of the Ys saga.</desc>
+		<rating>0.65</rating>
+		<releasedate>19951229T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Ys V - Kefin, Lost Kingdom of Sand (Japan).jpg</image>
+		<video>./snaps/Ys V - Kefin, Lost Kingdom of Sand (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Zombies Ate My Neighbors (USA).sh</path>
+		<name>Zombies Ate My Neighbors</name>
+		<sortname />
+		<desc>Zombies Ate My Neighbors is a video game made by LucasArts in 1993 for Super Nintendo and Sega Megadrive that serves as a tribute and parody of the horror films of series B (and not only), and which also contains a high number of references and tributes to the genre. In some countries the game is known as Monsters or simply Zombies. common items such as water guns, fire extinguishers, soda cans and cutlery. Regarding the element of quotes, it can be said that enemy monsters encompass almost all the trends of horror films in various historical periods.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930901T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Zombies Ate My Neighbors (USA).jpg</image>
+		<video>./snaps/Zombies Ate My Neighbors (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Star Fox (USA).sh</path>
+		<name>Star Fox</name>
+		<sortname />
+		<desc>This is the first SNES title using the Super FX chip; you are flying ace Fox McCloud, who with his trusted wingmen and his powerful Arwing starfighter, must rid the Lylat System of the evil that surrounds it. Wave after wave of enemies will fly towards you, and with the advice of your wingmen, you must guide your way through each level and take down as many as you can.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930301T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Star Fox (USA).jpg</image>
+		<video>./snaps/Star Fox (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Castlevania IV (USA).sh</path>
+		<name>Super Castlevania IV</name>
+		<sortname />
+		<desc>Simon Belmont returns in the first Castlevania title to grace the SNES. The console may be different, but the setup is very familiar: The place is Transylvania. The villain is Count Dracula.</desc>
+		<rating>0.8</rating>
+		<releasedate>19911031T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Super Castlevania IV (USA).jpg</image>
+		<video>./snaps/Super Castlevania IV (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).sh</path>
+		<name>Teenage Mutant Ninja Turtles IV: Turtles in Time</name>
+		<sortname />
+		<desc>Doesn't this Shredder dude ever take a break? Now he's gone and kidnapped Channel 6's own reporter babe April O' Neill again, and just as the Ninja Turtles were about to kick his butt, he tore open some kinda time portal thingy and flung them back into the past! Now Leonardo, Raphael, Donatello, and Michaelangelo have to fight their way through time and tons of Foot Soldiers, mutant wackos, and more in order to save April and slam Shredder's butt all the way to Dimension X! Go, Turtles! Kick some shell and save April!</desc>
+		<rating>0.85</rating>
+		<releasedate>19920801T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).jpg</image>
+		<video>./snaps/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tales of Phantasia (Japan).sh</path>
+		<name>Tales of Phantasia</name>
+		<sortname />
+		<desc>In Tales of Phantasia, you play a young boy named Cless, who lives together with his parents in a quiet village. It was a day like all the others when Cless decided to go hunting with his best friend Chester. Chasing a wild boar, Cless discovered a strange talking tree in the forest who was pleading him for help. But as soon as it stopped speaking, the two friends heard the sound of an alarm.</desc>
+		<rating>0.75</rating>
+		<releasedate>19951215T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Namco</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Tales of Phantasia (Japan).jpg</image>
+		<video>./snaps/Tales of Phantasia (Japan).mp4</video>
+	</game>
+</gameList>

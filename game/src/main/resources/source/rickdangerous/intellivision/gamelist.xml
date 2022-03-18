@@ -1,0 +1,695 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Intellivision</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Astrosmash (USA, Europe).zip</path>
+		<name>Astrosmash</name>
+		<sortname />
+		<desc>In Astrosmash you control a laser canon at the bottom of the screen; your goal is to earn as many points as possible by destroying the various incoming meteors, bombs, and other objects. Points are earned for destroying objects, while points are lost for letting them get past you. Meteors are the most common item you need to defend yourself against. They come in various sizes and colors, and some even split into two smaller meteors when shot.</desc>
+		<rating>0.7</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Astrosmash (USA, Europe).jpg</image>
+		<video>./snaps/Astrosmash (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Atlantis (USA, Europe).zip</path>
+		<name>Atlantis</name>
+		<sortname />
+		<desc>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with weapons capable of destroying a part of the city. You are in charge of the command posts at the edges of the city and need to defend it from the invaders. The various gorgon craft will keep flying by on the screen in varying numbers and in different flight patterns. At first they fly high in the sky but then progressively lower. If an enemy makes it low enough before you destroy it, it will use it's weapons and destroy one of the buildings in Atlantis. As you progress in the game, the enemy craft will keep increasing in speed. The game ends when all remaining buildings in the city have been destroyed.</desc>
+		<rating>0.7</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Atlantis (USA, Europe).jpg</image>
+		<video>./snaps/Atlantis (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./B-17 Bomber (USA, Europe).zip</path>
+		<name>B-17 Bomber</name>
+		<sortname />
+		<desc>B-17 Bomber takes place near the end of World War II. As the pilot of a B-17, your mission is to fly across the English Channel and bomb various strategic targets. First you need to select a destination which features a lot of targets. The further the target is from your home base, the more points you can earn, but with more ground to cover there will be more enemy fighters blocking the target and more fuel will be needed.</desc>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/B-17 Bomber (USA, Europe).jpg</image>
+		<video>./snaps/B-17 Bomber (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./World Championship Baseball (USA).zip</path>
+		<name>Baseball</name>
+		<sortname />
+		<desc>Major League Baseball is an action baseball game for two players. The game follows most professional baseball rules and allows you to control all of the players on the team. You can throw a variety of pitches (from curve balls to fast balls), steal bases, tag players out, bunt, try for a home run, and in the event of a tie the game goes into extra innings! Several difficulty levels are available which control the game speed and whether or not stealing bases is allowed.</desc>
+		<releasedate>19790101T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/World Championship Baseball (USA).jpg</image>
+		<video>./snaps/World Championship Baseball (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Beauty &amp; the Beast (USA, Europe).zip</path>
+		<name>Beauty and the Beast</name>
+		<sortname />
+		<desc>Horrible Hank has grabbed Tiny Mabel and climbed the old Mutton Building. Only Bashful Buford can save her. Help him scale the building - but watch out for those rolling boulders! birds and bats swoop down on Buford, and he leaps over scurrying rats. If Buford catches a heart Tiny Mabel throws him, he becomes invincible!</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Beauty &amp; the Beast (USA, Europe).jpg</image>
+		<video>./snaps/Beauty &amp; the Beast (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bump 'n' Jump (USA).zip</path>
+		<name>Bump 'n' Jump</name>
+		<sortname />
+		<desc>Bump 'n' Jump is an action racing game played from a top down point of view. As you race through the treacherous and ever changing roadways, the numerous enemy cars will be trying to bump you off the road. You need to make sure you bump the cars out of the way before you get bumped and crash into the sides yourself! Your car also has the ability to jump quite high if you have enough speed. This is useful to jump over enemy cars if there are too many in the way, and must also be used to jump gaps in the roadway and other highway obstacles. As the levels progress, the road becomes narrower with more obstacles in the way, and the other cars increase in number and in aggressiveness.</desc>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Bump 'n' Jump (USA).jpg</image>
+		<video>./snaps/Bump 'n' Jump (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Chip Shot - Super Pro Golf (USA).zip</path>
+		<name>Chip Shot: Super Pro Golf</name>
+		<sortname />
+		<desc>17th hole, Pebble Beach. Step up to the tee, select you club, check which way the wind is blowing. Think you can clear that tree? Address the ball, bring back the club, swing THWACK! Oh, no, you're in the rough. It's a difficult lie pull out your wedge swing and chip onto the green! Putt in for par!</desc>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Intv Corp</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Chip Shot - Super Pro Golf (USA).jpg</image>
+		<video>./snaps/Chip Shot - Super Pro Golf (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Defender (USA).zip</path>
+		<name>Defender</name>
+		<sortname />
+		<desc>Landers, Bombers, Baiters, Pods, and Swarmers. The alien attack has come, and defeat at the hands of crazed invaders threatens the humanoids. Their only hope is the spaceship, Defender. Armed with smart bombs and able to shift into hyperspace, Defender evens the score only to become the object of another foul attack: kidnapped humanoids transformed into killer mutants!</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Defender (USA).jpg</image>
+		<video>./snaps/Defender (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Demon Attack (USA, Europe).zip</path>
+		<name>Demon Attack</name>
+		<sortname />
+		<desc>Eerie creatures launch an assault against Moon Station Tranquillity. Use your Laser Cannon to blast them - or they'll devastate Earth! Waves of demons circle the lunar surface, bombarding Earth's last outpost. Resist their dive bombing blitz. Fire into their ranks and shatter their raid. Then go on the offensive! Take off from the surface of the moon and combat the demon base. Eliminate the flickering shield. Repel the suicide patrollers that come hurtling your way. Place one shot directly through the revolving window and into the fiery core. The demon base will disintegrate. But the battle goes on!</desc>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Demon Attack (USA, Europe).jpg</image>
+		<video>./snaps/Demon Attack (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Dig Dug (USA).zip</path>
+		<name>Dig Dug</name>
+		<sortname />
+		<desc>Burrow your way through a maze of subterranean passages, hunting the deadly Pooka and the fire-breathing Fygar! Break into their tunnels, shoot 'em with your air hose, pump 'em up and POP! Simple? Not exactly, because now they're after you! Start a new tunnel dig under that rock just ahead time it right BAM! The rock falls on Fygar! Now where's that Pooka?</desc>
+		<rating>0.65</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Intv Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Dig Dug (USA).jpg</image>
+		<video>./snaps/Dig Dug (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Diner (USA).zip</path>
+		<name>Diner</name>
+		<sortname />
+		<desc>In this unofficial sequel to the arcade game BurgerTime, the Rotten Foods (Hot Dogs, Cherries, Bananas, and their leader Mugsy, the Mug o' Root Beer) have thrown lunch all over the diner and Peter Pepper has to get it back on the plate.</desc>
+		<rating>0.4</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Intv Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Diner (USA).jpg</image>
+		<video>./snaps/Diner (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Junior (USA, Europe).zip</path>
+		<name>Donkey Kong</name>
+		<sortname />
+		<desc>In Donkey Kong, Mario must rescue a damsel in distress, Lady, from a giant ape named Donkey Kong. The hero and ape later became two of Nintendo's most popular characters. The game is divided into four different one-screen stages. Each represents 25 meters of the structure Donkey Kong has climbed, one stage being 25 meters higher than the previous. The final screen occurs at 100 m.</desc>
+		<rating>0.65</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Donkey Kong Junior (USA, Europe).jpg</image>
+		<video>./snaps/Donkey Kong Junior (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Dragonfire (USA, Europe).zip</path>
+		<name>Dragonfire</name>
+		<sortname />
+		<desc>The king's treasures have been stolen! As the daring young prince, your goal is to recover them all. The treasures are being kept in various castles, each one guarded by a fire breathing dragon. Each level in the game has two parts; first you will need to cross the castle's drawbridge. You will have to jump and duck the dragons fireballs as well as avoid flying arrows to reach the other side! In the second part you need to collect all of the treasures on the screen and make it to the exit while avoiding the dragon who runs across the bottom of the screen. The dragons on each level have different patterns of movement and firing, and as the levels progress will become faster and trickier.</desc>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Dragonfire (USA, Europe).jpg</image>
+		<video>./snaps/Dragonfire (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Dreadnaught Factor, The (USA).zip</path>
+		<name>Dreadnaught Factor, The</name>
+		<sortname />
+		<desc>The Zorban Dreadnaughts are spaceships that are 140,000 feet long and weigh 970 megatons, making them the largest, most heavily armoured spaceships ever created. A fleet of these large battlecraft are now heading towards your home planet, and it is your job to stop them! The game is played from a side scrolling overhead point of view as your small but agile spaceship flies past the dreadnaughts. On each pass your spaceship makes, you need to try and bomb as many of the energy vents as possible. When all energy vents on a dreadnaught are destroyed, that dreadnaught will explode.</desc>
+		<rating>0.85</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Cheshire Engineering</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Dreadnaught Factor, The (USA).jpg</image>
+		<video>./snaps/Dreadnaught Factor, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Happy Trails (USA, Europe).zip</path>
+		<name>Happy Trails</name>
+		<sortname />
+		<desc>Happy Trails is an action strategy game for one or two players. Black Bart has robbed the stagecoach, and you need to recover all of the stolen money within the given time limit! The money is located in various locations in a series of maze-like paths. The paths are broken up into tiles, and there is one tile missing so you can rearrange the maze by moving a tile into the empty space. As your character walks through the paths, you need to rearrange the tiles to make sure there is always a connected path in front of him (or you'll lose a life) and to guide him towards the money bags.</desc>
+		<rating>0.95</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Happy Trails (USA, Europe).jpg</image>
+		<video>./snaps/Happy Trails (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Horse Racing (World).zip</path>
+		<name>Horse Racing</name>
+		<sortname />
+		<desc>This game is for 1 up to 6 players. When the game begins, you can place the bets, for the winner or for the first and second place. Then you can choose if an horse must be driven by a player or by the CPU. Only the third and the fourth horse can be driven by the players. There are 3 types of terrain: turf, mud or dry.</desc>
+		<rating>0.75</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Sports</genre>
+		<players>1-6</players>
+		<image>./boxart/Horse Racing (World).jpg</image>
+		<video>./snaps/Horse Racing (World).mp4</video>
+	</game>
+	<game>
+		<path>./Lady Bug (USA, Europe).zip</path>
+		<name>Lady Bug</name>
+		<sortname />
+		<desc>An action game in the same style as Pac-Man but very very different. Players control a ladybug who must venture around different mazes collecting all of the food pellet "x"'s. In addition to there being regular lines of wall in the maze, there are also several rotating doors that can be used to trap enemies and escape. In fact these rotating doors are the key to survival in this game. In the center of each maze is a different enemy insect hive that will spawn out enemy creatures.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Universal </developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Lady Bug (USA, Europe).jpg</image>
+		<video>./snaps/Lady Bug (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Lock 'N' Chase (USA, Europe) (Rev 1).zip</path>
+		<name>Lock 'n' Chase</name>
+		<sortname />
+		<desc>Lock 'n' Chase is an arcade action game similar to Pac-Man. You play a thief who is trapped in a maze like vault. To get out, you need to collect all of the gold dots located in the maze. Your task won't be easy, since there are four police officers in the vault who are constantly trying to catch you! Located throughout the maze are numerous doors. As you run through the maze, you have the ability to temporarily close a door in an attempt to block the police.</desc>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Lock 'N' Chase (USA, Europe) (Rev 1).jpg</image>
+		<video>./snaps/Lock 'N' Chase (USA, Europe) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Microsurgeon (USA, Europe).zip</path>
+		<name>Microsurgeon</name>
+		<sortname />
+		<desc>You're a microsurgeon, and your patient is in critical condition! First you need to examine the patient's medical chart to find out what's wrong, and which conditions are the most critical. Now to save the patient, you control a robot probe which can be used to administer aspirin, antiseptic, or ultrasonics to clear up the problem. You should clear up the most critical conditions first, then move on to the less serious areas to ensure your patient survives.</desc>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Microsurgeon (USA, Europe).jpg</image>
+		<video>./snaps/Microsurgeon (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Mountain Madness - Super Pro Skiing (USA).zip</path>
+		<name>Mountain Madness: Super Pro Skiing</name>
+		<sortname />
+		<desc>An update of U.S. Ski Team Skiing, Mountain Madness: Super Pro Skiing includes code from that game, but offers new features such as enhanced graphics, create-your-own course, and random skiing, which has a helicopter dropping players off on uncharted mountains.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Intv Corp</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Mountain Madness - Super Pro Skiing (USA).jpg</image>
+		<video>./snaps/Mountain Madness - Super Pro Skiing (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mouse Trap (USA, Europe).zip</path>
+		<name>Mouse Trap</name>
+		<sortname />
+		<desc>Mouse Trap is an arcade action game similar to Pac-Man. You control a mouse in a maze; your goal is to eat all of the bits of cheese in order to score points and move on to the next maze. Wandering throughout the maze are several cats who are trying to catch you! Your mouse has the ability to temporarily turn into a dog and be able to chase the cats. To do so, however, he will need to eat the dog bones which are located throughout the maze. The maze also contains numerous doors. The mouse can move these doors to reconfigure the maze in an attempt to outsmart the cats.</desc>
+		<rating>1</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Exidy, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Mouse Trap (USA, Europe).jpg</image>
+		<video>./snaps/Mouse Trap (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Night Stalker (World).zip</path>
+		<name>Night Stalker</name>
+		<sortname />
+		<desc>Robots, bats, and spiders chase you around a maze in Night Stalker, which boasts similar gameplay, if some what slower, to the arcade smash Berzerk. Players must pick up a gun that is randomly placed in the maze. The gun provides the player with a certain number of shots. Once depleted, the gun is again placed in a random part of the maze.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Night Stalker (World).jpg</image>
+		<video>./snaps/Night Stalker (World).mp4</video>
+	</game>
+	<game>
+		<path>./Pac-Man (USA) (Atarisoft).zip</path>
+		<name>Pac-Man</name>
+		<sortname />
+		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board. Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde). One touch from any of these ghosts means a loss of life for Pac-Man.</desc>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Pac-Man (USA) (Atarisoft).jpg</image>
+		<video>./snaps/Pac-Man (USA) (Atarisoft).mp4</video>
+	</game>
+	<game>
+		<path>./PBA Bowling ~ Bowling (World).zip</path>
+		<name>PBA Bowling</name>
+		<sortname />
+		<desc>This is a game of skill that requires you to knock down pins as in real bowling. Play alone or with up to three friends. Two game are available: standard bowling and pick-up spares. Pick-up spares sets the pins in a variety of ways to let you practice difficult shots.</desc>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/PBA Bowling ~ Bowling (World).jpg</image>
+		<video>./snaps/PBA Bowling ~ Bowling (World).mp4</video>
+	</game>
+	<game>
+		<path>./PGA Golf ~ Golf (World).zip</path>
+		<name>PGA Golf</name>
+		<sortname />
+		<desc>PGA Golf is a golf game played from an overhead point of view. Up to four players can compete on a nine hole, par 38 course containing a variety of terrain (greens, fairway, rough, water, and sand) as well as numerous trees. Each player has nine clubs (3 woods, 4 irons, a wedge, and a putter) and is able hook, slice, and control the power of each shot. You will receive penalty strokes for balls that land out of bounds and in the water, and of course the lowest score at the end of the round wins!</desc>
+		<rating>0.35</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/PGA Golf ~ Golf (World).jpg</image>
+		<video>./snaps/PGA Golf ~ Golf (World).mp4</video>
+	</game>
+	<game>
+		<path>./Pinball (USA).zip</path>
+		<name>Pinball</name>
+		<sortname />
+		<desc>Pinball is a pinball simulation for one or two players. You begin the game with five balls, and need to score as many points as possible by hitting the ball into the various bumpers and targets on the pinball table. The pinball table consists of three different screens, each with a different layout and level of difficulty.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
+		<image>./boxart/Pinball (USA).jpg</image>
+		<video>./snaps/Pinball (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pitfall! (USA, Europe).zip</path>
+		<name>Pitfall!</name>
+		<sortname />
+		<desc>Pitfall! is a platform action game. You play Pitfall Harry who is on a quest to locate treasure deep in the jungle. With a little luck you'll be able to find money bags, silver bars, gold bars, and diamond rings. But many obstacles will get in the way, some of which merely deduct points from your score, while others are fatal. Rolling logs and falling down a hole will deduct points, and scorpions, alligators, snakes, bottomless pits, swamps, and fires will cause Pitfall Harry to lose a life. You have 20 minutes to try to collect all of the treasures on the numerous screens, if you can live that long!</desc>
+		<rating>0.85</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Pitfall! (USA, Europe).jpg</image>
+		<video>./snaps/Pitfall! (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Popeye (USA, Europe).zip</path>
+		<name>Popeye</name>
+		<sortname />
+		<desc>Popeye is a conversion of the arcade action/platform game. As Popeye, you are trying to win Olive Oyl's love! She is at the top of the screen dropping tokens of her love, and you need to collect them before they hit the ground. After you have collected the required number of items, you can move on to the next, more difficult level. There are many obstacles trying to stop you from completing your task, though.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Popeye (USA, Europe).jpg</image>
+		<video>./snaps/Popeye (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Q-bert (USA, Europe).zip</path>
+		<name>Q*bert</name>
+		<sortname />
+		<desc>Q*bert is a conversion of the popular arcade game. The goal is to change all of the tiles on a pyramid to the target color. To do this you guide Q*bert around the pyramid, and every tile he hops on will change color. On early levels, a single hop will change the tile to the desired color, but on later levels you may need to hop on a tile multiple times or even avoid hopping on a tile multiple times! Trying to stop Q*bert are many different creatures which wander around the board, including Coily the snake, Slick and Sam, and falling balls.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>D. Gottlieb &amp; Co.</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Q-bert (USA, Europe).jpg</image>
+		<video>./snaps/Q-bert (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./River Raid (USA, Europe).zip</path>
+		<name>River Raid</name>
+		<sortname />
+		<desc>River Raid is a vertically scrolling action game. You fly a jet up a river in an attempt to destroy bridges which are vital to the enemy. The river is heavily guarded, however, with balloons, ships, choppers, and enemy aircraft trying to stop you. Along the way you will need to fly over fuel stations to refuel your jet and keep flying. The plane is armed with a cannon with unlimited ammo. It can be used to destroy the enemy vehicles and bridges, but a careless player can accidentally destroy a fuel station. Colliding with the riverbanks or with the enemy aircraft destroys your plane and makes you lose a life.</desc>
+		<rating>0.65</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/River Raid (USA, Europe).jpg</image>
+		<video>./snaps/River Raid (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Shark! Shark! (USA, Europe).zip</path>
+		<name>Shark! Shark!</name>
+		<sortname />
+		<desc>In Shark! Shark! you control a fish! Your goal is to earn as many points as possible while staying alive. Swimming in the ocean with you are other fish of various sizes, lobsters, crabs, jellyfish, and a very fast shark. You are able to eat any fish that is smaller in size than you are, and any fish that is larger will eat you! The shark can also be killed if you nibble at its tail several times, but careful for the shark can turn quickly. Each time you eat a fish or nibble on the sharks tail, points are earned. Each time you score 1000 points, your fish will grow larger in size allowing you to eat even more of the fish on the screen. Several different game speeds are included, and one or two players can play.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Shark! Shark! (USA, Europe).jpg</image>
+		<video>./snaps/Shark! Shark! (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Sharp Shot (USA, Europe).zip</path>
+		<name>Sharp Shot</name>
+		<sortname />
+		<desc>Sharp Shot is collection of 4 single-button action games: Touchdown Passing, Space Gunner, Submarine, and Maze Shoot. The goal of each game is to score as many points as possible within 60 seconds.</desc>
+		<releasedate>19820101T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Sharp Shot (USA, Europe).jpg</image>
+		<video>./snaps/Sharp Shot (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Slam Dunk - Super Pro Basketball (USA).zip</path>
+		<name>Slam Dunk: Super Pro Basketball</name>
+		<sortname />
+		<desc>At the time, this was the only sports game cartridge that let you own &amp; manage your team. Selecting from a pool of 70 players, each with statistics taken from the actual NBA (and attributed with 'fake' names so as to avoid licensing issues), each player must manage salaries to stay under the salary cap. As player/owner, you run, pass, shoot, defend, and rebound. Keep an eye on your players - if they tire, they play more poorly. And keep an eye on the 24 second shot clock!</desc>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Intv Corp</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Slam Dunk - Super Pro Basketball (USA).jpg</image>
+		<video>./snaps/Slam Dunk - Super Pro Basketball (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Space Battle (World).zip</path>
+		<name>Space Battle</name>
+		<sortname />
+		<desc>5 alien squadrons are closing in on your Mother ship, you have 3 squadrons with which to defend her. Check enemy positions on Radar Screen, then dispatch your squadrons. When they reach alien squadrons, GO TO BATTLE! When the screen switches to Battle, you move the gun sight to aim and fire converging missiles. Watch out! The aliens shoot back.</desc>
+		<rating>0.2</rating>
+		<releasedate>19790101T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Space Battle (World).jpg</image>
+		<video>./snaps/Space Battle (World).mp4</video>
+	</game>
+	<game>
+		<path>./Space Spartans (USA, Europe).zip</path>
+		<name>Space Spartans</name>
+		<sortname />
+		<desc>Like the ancient Spartans that fought (and won) the Persian army in the battle of the Thermopylae, you are the last stand before the alien invasion. The game has two screens. When it begins, a female voice welcomes you as the commander of the star ship. You have three star bases to defend while alien ships surround you. Then you choose a space sector where you enter in to the battle section.</desc>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Space Spartans (USA, Europe).jpg</image>
+		<video>./snaps/Space Spartans (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Spiker - Super Pro Volleyball (USA).zip</path>
+		<name>Spiker: Super Pro Volleyball</name>
+		<sortname />
+		<desc>Features Indoor (6-man) volleyball in a gymnasium and Outdoor (2-man) volleyball on the beach. Realistic volleyball simulation featuring serving, bumping, sets, jumps, spikes, blocks, dives, and digs. As player, you control every member of your team. Aim your serves; pass the ball to the setter; crank on the spike; leap to block the spike.</desc>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Intv Corp</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Spiker - Super Pro Volleyball (USA).jpg</image>
+		<video>./snaps/Spiker - Super Pro Volleyball (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Stampede (USA, Europe).zip</path>
+		<name>Stampede</name>
+		<sortname />
+		<desc>It's a stampede!! Your job is to round up as many of the calves as you can. The screen scrolls to the right as you chase the calves; if more than three calves get past you, the game is over. The calves all run at different speeds, and when you rope one you earn points based on how fast it was running. As the game progresses, more and more calves will be on the screen at one time, and other obstacles will begin appearing to trip your horse and slow you down.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Stampede (USA, Europe).jpg</image>
+		<video>./snaps/Stampede (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Super Pro Football (USA).zip</path>
+		<name>Super Pro Football</name>
+		<sortname />
+		<desc>Super Pro Football is a one or two-player football game. There are only two teams, the Home Team and the Visiting Team (orange and blue respectively). Quarterbacks are colored differently than the rest of the team--red and dark blue for the Home and Visiting teams. After pressing Enter from the title screen, the player has the options of selecting if the players will be human or computer, and then their difficulty level, or rating--Rookie or Super Pro.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Intv Corp</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Pro Football (USA).jpg</image>
+		<video>./snaps/Super Pro Football (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Swords &amp; Serpents (USA, Europe).zip</path>
+		<name>Swords and Serpents</name>
+		<sortname />
+		<desc>A one or two player "Dungeons &amp; Dragons"-style dungeon crawl. In a one-player game, the player controls the Warrior Prince on his quest to collect treasures, learn the secrets of the Fortress of the Sinister Serpent, and locate the Serpent's lair. In a two-player game, the right player controls the Warrior Prince, while the left player controls Nilrem the Wizard.</desc>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Swords &amp; Serpents (USA, Europe).jpg</image>
+		<video>./snaps/Swords &amp; Serpents (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Thunder Castle (USA).zip</path>
+		<name>Thunder Castle</name>
+		<sortname />
+		<desc>In this medieval fantasy game, players take control of a brave knight as he sets out on a quest of treasure hunting and survival. The quest takes the knight into three different realms of danger, each with its own challenges, and an ever changing maze of which they must navigate through.</desc>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Quicksilva</developer>
+		<publisher>Intv Corp</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+		<image>./boxart/Thunder Castle (USA).jpg</image>
+		<video>./snaps/Thunder Castle (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tower of Doom (USA).zip</path>
+		<name>Tower Of Doom</name>
+		<sortname />
+		<desc>Reaching high towards the heavens, the Tower of Doom stands, beckoning brave adventures to confront the bizarre creatures and brave the deadly traps it contains in hopes of collecting the bountiful treasures and magical items found within its corridors.</desc>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Intv Corp</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Tower of Doom (USA).jpg</image>
+		<video>./snaps/Tower of Doom (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tutankham (Europe).zip</path>
+		<name>Tutankham</name>
+		<sortname />
+		<desc>Tutankham is an arcade action game played from a top down point of view. You are an explorer in King Tut's tomb on a mission to retrieve as many of the valuable treasures as you can find. In addition to the treasures, you will also find a key in each of the chambers. This is needed in order to unlock the entrance to the next, more difficult chamber. Be careful, for the tomb is guarded by many dangerous creatures! Cobras, bats, scorpions, and more all appear in the maze and will cause you to lose a life if you're caught! To defend yourself you are armed with a laser gun which you can fire left or right, but not up or down.</desc>
+		<rating>0.3</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Tutankham (Europe).jpg</image>
+		<video>./snaps/Tutankham (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./US Ski Team Skiing ~ Skiing (World).zip</path>
+		<name>U.S. Ski Team Skiing</name>
+		<sortname />
+		<desc>In U.S. Ski Team Skiing, players race down the hill, avoiding trees and jumping moguls in their path. The game features both slalom and downhill courses. 1 player may race against the clock, or 2 to 6 players can alternate turns and race to see who gets the fastest time, and each race has 3 heats. Both downhill and slalom courses have 15 different slope grade settings to affect acceleration. 4 different settings for overall game speed are also available.</desc>
+		<rating>0.95</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Sports</genre>
+		<players>1-6</players>
+		<image>./boxart/US Ski Team Skiing ~ Skiing (World).jpg</image>
+		<video>./snaps/US Ski Team Skiing ~ Skiing (World).mp4</video>
+	</game>
+	<game>
+		<path>./Advanced Dungeons &amp; Dragons - Treasure of Tarmin (USA).zip</path>
+		<name>Advanced Dungeons &amp; Dragons: Treasure of Tarmin</name>
+		<sortname />
+		<desc>The search for treasure leads to high adventure, as you wind through an underground maze of corridors, gates, hidden doors, ladders and rooms. Inside the maze are weapons, magical items, spiritual books and the Tarmin treasure! But beware. Within these walls also lurk deadly monsters and horrifying beasts including the repulsive Minotaur just waiting for you!</desc>
+		<releasedate>19830101T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Advanced Dungeons &amp; Dragons - Treasure of Tarmin (USA).jpg</image>
+		<video>./snaps/Advanced Dungeons &amp; Dragons - Treasure of Tarmin (USA).mp4</video>
+	</game>
+	<game>
+		<path>./TRON Deadly Discs (USA, Europe).zip</path>
+		<name>TRON: Deadly Discs</name>
+		<sortname />
+		<desc>Based on the movie from Walt Disney, you play a man trapped in a computer world who must keep moving to avoid being hurt. Enemies will come at you three at a time, and will throw discs at you. You must keep moving to avoid them while also firing discs right back at them. There are different doors you can enter that will teleport you to another part of the room, giving you a chance to catch the enemies off guard. There are two skill levels, and the higher your score, the harder the game becomes. Do good, and your enemies will move faster, become more accurate, and the discs will go much faster.</desc>
+		<rating>0.75</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/TRON Deadly Discs (USA, Europe).jpg</image>
+		<video>./snaps/TRON Deadly Discs (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./BurgerTime (USA, Europe).zip</path>
+		<name>BurgerTime</name>
+		<sortname />
+		<desc>You play as Chef Pepper and your goal is to make giant hamburgers while evil eggs, sausages and pickles chase you around the game area. To properly make a hamburger you must assemble all of the ingredients together, dropping them from higher up onto the the burger area below. To actually do this you have to let Chef Pepper step all over the burger ingredients. As soon as an ingredient (a piece of lettuce for instance) has been stepped on, it will fall to the next level below.</desc>
+		<rating>0.85</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/BurgerTime (USA, Europe).jpg</image>
+		<video>./snaps/BurgerTime (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Dracula (USA, Europe).zip</path>
+		<name>Dracula</name>
+		<sortname />
+		<desc>As the sun sets, Dracula rises, hungry for the blood of fresh victims. As Dracula, the goal of this game is to stalk the streets at night, feeding on people walking the streets, or by luring them out of their homes. As Dracula bites his victims, his actions will call the attention of the local constable who will try to slow him down by driving a stake into him.</desc>
+		<rating>0.85</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Dracula (USA, Europe).jpg</image>
+		<video>./snaps/Dracula (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Advanced Dungeons &amp; Dragons (USA, Europe).zip</path>
+		<name>Advanced Dungeons &amp; Dragons</name>
+		<sortname />
+		<desc>Pursue the ancient Crown of Kings in Advanced Dungeons &amp; Dragons Cartridge. You control a three person party equipped with three arrows apiece, though more are arrows can be found on your quest. Quest over the land of Cloudy Mountain and explore caves with many enemies that try to stop your progress. Four difficulty levels keep the game fresh and challenging for pros or amateurs.</desc>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Advanced Dungeons &amp; Dragons (USA, Europe).jpg</image>
+		<video>./snaps/Advanced Dungeons &amp; Dragons (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Loco-Motion (USA).zip</path>
+		<name>Loco-Motion</name>
+		<desc>Based on a 1982 coin-op, Loco-Motion is a puzzle-style arcade game in which a train is riding on a grid of movable track pieces. The goal is to guide the train through the train stations located around the edge of the playfield. An empty section in the grid allows the player to shift adjacent track pieces into that section to alter the train's path, and a tracing light shows the path the train is taking as it moves. An accelerator button moves the train more quickly on its path, and a panic button will switch the piece of track the train is on with a random track piece on the grid.</desc>
+		<image>./boxart/Loco-Motion (USA).jpg</image>
+		<video>./snaps/Loco-Motion (USA).mp4</video>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220222T090222</lastplayed>
+	</game>
+	<game>
+		<path>./Venture (USA, Europe).zip</path>
+		<name>Venture</name>
+		<desc>Venture is a conversion of the popular arcade game. You control Winky, the heroic adventurer. Your goal is to collect as many treasures as you can which are scattered throughout numerous dungeons. In each dungeon, there are several chambers which each contain a treasure. Armed only with your crossbow, you need to get past the varied creatures which guard the chamber, snag the treasure, and make it out again. When you collect the treasure from each of the chambers in a dungeon, you can then move on to the next, more difficult dungeon.</desc>
+		<image>./boxart/Venture (USA, Europe).jpg</image>
+		<video>./snaps/Venture (USA, Europe).mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Exidy, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220222T090542</lastplayed>
+	</game>
+</gameList>

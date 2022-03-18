@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./kodi.sh</path>
+		<name>kodi</name>
+		<sortname />
+		<desc />
+		<video>./snaps/.mp4</video>
+	</game>
+	<game>
+		<path>./Kodi.sh</path>
+		<name>Kodi Media Player</name>
+		<desc>Kodi is a free and open-source media player software application developed by the XBMC Foundation.</desc>
+		<image>./boxart/kodi.jpg</image>
+		<video>./snaps/kodi.mp4</video>
+		<rating>0</rating>
+		<releasedate>20211001T095521</releasedate>
+		<genre>Media Player</genre>
+		<playcount>3</playcount>
+		<lastplayed>20220226T195206</lastplayed>
+	</game>
+</gameList>

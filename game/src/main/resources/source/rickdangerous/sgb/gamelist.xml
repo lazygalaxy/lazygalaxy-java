@@ -1,0 +1,684 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Game Boy</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Dragon Warrior Monsters (USA, Europe) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Dragon Warrior Monsters</name>
+		<sortname />
+		<desc>In Dragon Warrior Monsters, enter Terry's Wonderland, a magical place of kings, monsters and magic spells. Make monsters your allies to fight through the dangers that lie ahead in the long quest. Find your kidnapped sister and become the most powerful monster master in the world!.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Dragon Warrior Monsters (USA, Europe) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Dragon Warrior Monsters (USA, Europe) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Harvest Moon GB</name>
+		<sortname>Harvest Moon 1</sortname>
+		<desc>Harvest Moon is a farming simulation where you must build and maintain a farm during the course of a year, while taking care of your budget and yourself.</desc>
+		<rating>0.7</rating>
+		<releasedate>19971218T000000</releasedate>
+		<developer>Victor Interactive</developer>
+		<publisher>Natsume</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
+		<image>./boxart/Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./James Bond 007 (USA, Europe) (SGB Enhanced).zip</path>
+		<name>James Bond 007</name>
+		<sortname />
+		<desc>Bond is once again in the thick of things, this time travelling the eastern hemisphere in order to stop an elite weapons smuggling ring. In order to do so, Bond must use all of the weapons and gadgets on hand, including the trusty laser watch, pistols, Ak-47's and more.</desc>
+		<rating>0.7</rating>
+		<releasedate>19980209T000000</releasedate>
+		<developer>Saffire, Inc</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/James Bond 007 (USA, Europe) (SGB Enhanced).jpg</image>
+		<video>./snaps/James Bond 007 (USA, Europe) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Kirby's Dream Land 2</name>
+		<sortname />
+		<desc>The lovable Kirby returns to the Game Boy! This time the bridges connecting the rainbow bridges have disappeared and King Dedede is to blame as always or is he? The evil Dark Matter has him under his control and plans to turn Dream Land into a dark world. Kirby's goal is get the fabled rainbow sword and defeat him!</desc>
+		<rating>0.8</rating>
+		<releasedate>19950321T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced).jpg</image>
+		<video>./snaps/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>The Legend of Zelda: Link's Awakening DX</name>
+		<sortname />
+		<desc>The fourth game in the Zelda series although it does not take place in Hyrule. After being attacked at sea, Link's ship sinks, and he finds himself stranded on Koholint Island. He awakens to see a beautiful woman looking down at him. He soon learns the island has a giant egg on top of a mountain that the Wind Fish inhabits deep inside. Link is told to "awaken the wind fish and all will be answered," so Link sets out on another quest.</desc>
+		<rating>0.95</rating>
+		<releasedate>19931202T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Mario's Picross (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Mario's Picross</name>
+		<sortname />
+		<desc>Nonograms are number puzzles where logic is used to find the solution. Clues are provided along the sides of the playfield grid, telling the player how many squares to fill in each row and column. With logic the player can figure out exactly which squares of the grid to fill. The thinking process is similar to solving Sudoku puzzles.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950302T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Mario's Picross (USA, Europe) (SGB Enhanced).jpg</image>
+		<video>./snaps/Mario's Picross (USA, Europe) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man V (USA) (SGB Enhanced).zip</path>
+		<name>Mega Man V</name>
+		<sortname />
+		<desc>One peaceful day, Mega Man and his sister Roll are enjoying a quiet stroll through a meadow when they are suddenly attacked by a robot named Terra, who says that he and his soldiers, the StarDroids, are going to conquer the Earth! Mega Man attempts to fight off this new foe, but is quickly beaten by the StarDroid's far superior firepower.</desc>
+		<rating>0.95</rating>
+		<releasedate>19940910T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Mega Man V (USA) (SGB Enhanced).jpg</image>
+		<video>./snaps/Mega Man V (USA) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Monkey Puncher (Europe) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Monkey Puncher</name>
+		<sortname />
+		<desc>Monkey Puncher is a game where the goal is to train a monkey to fight in boxing matches in order to save your kidnapped sibling. You can choose to play as either a boy or a girl character; the one you do not pick is your sibling.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Evolution Entertainment srl.</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Monkey Puncher (Europe) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Monkey Puncher (Europe) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Ms. Pac-Man: Special Color Edition</name>
+		<sortname />
+		<desc>All of the action and fun of the first feminist arcade game can be put in the palm of your hand with MS. PAC-MAN: Special Color Edition. You take control of the yellow disk adorned with lipstick and a pink bow, better known as the lovely Ms. Pac-Man. The goal is to guide her around the maze and eat all of the dots, avoiding the four ghosts that chase you. There are power pellets located in each corner of the maze which, when eaten, turn the ghosts blue. Once this happens, the ghosts can be eaten. Occasionally, fruit will float into the maze, which can be munched for extra points.</desc>
+		<releasedate />
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Space Invaders (USA) (SGB Enhanced).zip</path>
+		<name>Space Invaders</name>
+		<sortname />
+		<desc>In 1978, Earth successfully repulsed an invasion from outer space thanks to "the Tank." The Tank was based on alien technology found when a scout ship had crashed years earlier. Now, over 20 years later, a new Tank has been created based on the technology recovered during the 1978 invasion. And none too soon, because the Invaders are back!</desc>
+		<rating>0.7</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Space Invaders (USA) (SGB Enhanced).jpg</image>
+		<video>./snaps/Space Invaders (USA) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong (World) (Rev 1) (SGB Enhanced).zip</path>
+		<name>Donkey Kong</name>
+		<sortname />
+		<desc>Donkey Kong is a platform-action game that has Mario scale four different industrial themed levels (construction zone, cement factory, an elevator-themed level, and removing rivets from girders) in an attempt to save the damsel in distress, Pauline, from the big ape before the timer runs out. Once the rivets are removed from the final level, Donkey Kong falls, and the two lovers are reunited. From there, the levels start over at a higher difficulty.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940621T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Donkey Kong (World) (Rev 1) (SGB Enhanced).jpg</image>
+		<video>./snaps/Donkey Kong (World) (Rev 1) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Blaster Master - Enemy Below (USA, Europe) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Blaster Master: Enemy Below</name>
+		<sortname />
+		<desc>Taking place sometime after the events of the original Blaster Master, Blaster Master: Enemy Below puts you once again behind the wheels of Sophia 3 as a genetically engineered threat looms from the underground once again.</desc>
+		<rating>0.75</rating>
+		<releasedate>20000924T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Blaster Master - Enemy Below (USA, Europe) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Blaster Master - Enemy Below (USA, Europe) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Mole Mania (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Mole Mania</name>
+		<sortname />
+		<desc>Muddy Mole's wife and seven kids have been kidnapped by the evil farmer, Jinbei! It's up to you to help Muddy solve the many puzzles of Jinbei Land. Snatch all of Jinbei's cabbages in every level, and if you get stuck, dig underground and create your own secret underground paths. A word of warning, however - Jinbei has got his best goons guarding your family, so you'd better watch out!</desc>
+		<rating>0.8</rating>
+		<releasedate>19970702T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Mole Mania (USA, Europe) (SGB Enhanced).jpg</image>
+		<video>./snaps/Mole Mania (USA, Europe) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Bomberman Quest (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Bomberman Quest</name>
+		<sortname />
+		<desc>Carrying with him all the monsters he captured on his last mission, Bomberman is headed for his home planet Bomber. However, all of a sudden someone steals all of his four rocket engines and he is forced to make an emergency landing. After having woken up from the crash he realises that not only are his engines gone, but all of the monsters have escaped!</desc>
+		<rating>0.65</rating>
+		<releasedate>19981224T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Electro Brain Corp.</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Bomberman Quest (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Bomberman Quest (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Pocket Bomberman</name>
+		<sortname />
+		<desc>Long, long ago, the sun was covered by a dark and heavy cloud. It was said this cloud was caused by a monster that had sealed the Sword of the Sun. Legends also says that to break the seal, a hero must collect five Power Stones that are guarded by monsters. Bomberman takes up the challenge as he is the last hero strong enough to defeat such monsters.</desc>
+		<rating>0.7</rating>
+		<releasedate>19971212T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon - Blue Version (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Pokémon Blue Version</name>
+		<sortname>Pokemon 1</sortname>
+		<desc>After venturing alone into tall grass, a voice warns the player to stop, which is revealed to be Professor Oak, a famous Pokemon researcher. Professor Oak explains to the player that wild Pokemon may be living there, and encountering them alone can be very dangerous.</desc>
+		<rating>0.9</rating>
+		<releasedate>19980930T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Pokemon - Blue Version (USA, Europe) (SGB Enhanced).jpg</image>
+		<video>./snaps/Pokemon - Blue Version (USA, Europe) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon - Red Version (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Pokémon Red Version</name>
+		<sortname>Pokemon 2</sortname>
+		<desc>You've finally been granted your Pokemon trainer's license. Now, it's time to head out to become the world's greatest Pokemon trainer. It's going to take all you've got to collect 150 Pokemon in this enormous world. Catch and train monsters like the shockingly-cute Pikachu. Face off against Blastoise's torrential water cannons. Stand strong when facing Pidgeot's stormy Gust. Trade with friends and watch your Pokemon evolve. Important - no single Pokemon can win it all. Can you develop the ultimate Pokemon strategy to defeat the eight GYM Leaders and become the greatest Pokemon Master of all time?</desc>
+		<rating>0.9</rating>
+		<releasedate>19980930T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Pokemon - Red Version (USA, Europe) (SGB Enhanced).jpg</image>
+		<video>./snaps/Pokemon - Red Version (USA, Europe) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Pokémon Pinball</name>
+		<sortname>Pokemon 3</sortname>
+		<desc>Discover a whole new way to collect Pokemon - by playing pinball! Hit the targets with your Poke Ball to catch and evolve Pokemon. The better you do, the more rare Pokemon you'll find! Every Pokemon you catch is automatically recorded in your Pokedex - see if you catch all 150! Some Pokemon appear only on the Red Field or only on the Blue Field, so you'll have to play them both to catch 'em all!</desc>
+		<rating>0.7</rating>
+		<releasedate>20001006T000000</releasedate>
+		<developer>Jupiter Corporation</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Pokémon Silver Version</name>
+		<sortname>Pokemon 4</sortname>
+		<desc>Enter a whole new world, with new Pokemon to capture, train and battle! Meet Professor Elm and get the all-new Poké Gear, including map, radio, cell phone and clock. Set the clock then watch as day turns to night and events take place in real time-and be sure to keep an eye out for Pokemon that come out only at night!</desc>
+		<rating>0.85</rating>
+		<releasedate>20001014T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Pokémon Gold Version</name>
+		<sortname>Pokemon 5</sortname>
+		<desc>Enter a whole new world, with new Pokemon to capture, train and battle! Meet Professor Elm and get the all-new Poké Gear, including map, radio, cell phone and clock. Set the clock then watch as day turns to night and events take place in real time - and be sure to keep an eye out for Pokemon that come out only at night!</desc>
+		<rating>0.85</rating>
+		<releasedate>20001014T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced).zip</path>
+		<name>Pokémon Yellow Version: Special Pikachu Edition</name>
+		<sortname>Pokemon 6</sortname>
+		<desc>You've finally been granted your Pokemon trainer's license, and now you're on your way to becoming the world's greatest Pokemon trainer! The shockingly cute Pikachu tags along behind you as you search the enormous world for monsters to train and evolve. Face off against Blastoise's torrential water gun. Stand strong when facing Pidgeot's stormy gust. Develop the ultimate Pokemon strategy to defeat the eight GYM leaders and become the greatest Pokemon master of all time!</desc>
+		<rating>0.9</rating>
+		<releasedate>19991019T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Game Freak</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced).jpg</image>
+		<video>./snaps/Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Warrior I &amp; II (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Dragon Warrior I &amp; II</name>
+		<sortname />
+		<desc>Dragon Warrior I &amp; II contains Game Boy versions of Dragon Warrior and Dragon Warrior II. This is the third version of each game, following the original games on NES and a later remake on SNES.</desc>
+		<rating>0.75</rating>
+		<releasedate>20000927T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Dragon Warrior I &amp; II (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Dragon Warrior I &amp; II (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Pokémon Trading Card Game</name>
+		<sortname />
+		<desc>The greatest Pokemon Trading Card Game players of all time - the Grand Masters - are looking for one player worthy of inheriting the four rare, Legendary Pokemon Cards! Build new decks with the Auto Deck Machine, hone your skills on the Challenge Machine and test your ability in Challenge Hall. Expand your card collection, duel your way through 8 Club Masters and earn the right to challenge the Grand Masters in the Pokemon Dome! Shadowy figures, wise instructors and powerful opnnents await in the ultimate trading card game adventure.</desc>
+		<rating>0.75</rating>
+		<releasedate>20000410T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Wario Land II (USA, Europe) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Wario Land II</name>
+		<sortname />
+		<desc>Seeking revenge on Wario after he stole their treasure in Wario Land: Super Mario Land 3, special agents from the Black Sugar Gang of Kitchen Island sneak into Wario's newly built castle, steal back the treasure, and leave the castle and the surrounding area a mess. As Wario, you must clean the place up and take back what you now call your own.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990210T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Wario Land II (USA, Europe) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Wario Land II (USA, Europe) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Dance (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Dragon Dance</name>
+		<sortname />
+		<desc>Addictive breakout-style action meets fast and furious arcade fun. With 100 levels, challenging end bosses and multiple power-ups, Dragon Dance is the game you can't put down! Head-to-head combat with boss enemies every 10th level. Random events like earthquakes shake up the gameplay. Dragon control and length add to the complexity of each puzzle. Enjoy Vs. mode and play with friends via Game Link Cable.</desc>
+		<releasedate />
+		<developer>Natsume</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Dragon Dance (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Dragon Dance (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Dragon Warrior Monsters 2: Cobi's Journey</name>
+		<sortname />
+		<desc>Like the original Dragon Warrior Monsters for the Game Boy Color, Dragon Warrior Monsters 2: Cobi's Journey combines themes and characters from Enix' long-running Dragon Warriors series with aspects of gameplay established in the amazingly popular Pokémon handheld games. Player take the role of Cobi as he embarks on a new adventure of monster collecting, training, and combat. A concurrently released companion game, Dragon Warrior Monsters 2: Tara's Adventure, follows the similar adventures of Cobi's sister.</desc>
+		<rating>0.95</rating>
+		<releasedate>20010915T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Dragon Warrior Monsters 2: Tara's Adventure</name>
+		<sortname />
+		<desc>Like the original Dragon Warrior Monsters for the Game Boy Color, Dragon Warrior Monsters 2: Tara's Adventure combines themes and characters from Enix' long-running Dragon Warrior series with aspects of gameplay established in the amazingly popular Pokémon handheld games. Players take on the role of Tara as she embarks on a new adventure of monster collecting, training, and combat. A concurrently released companion game, Dragon Warrior Monsters 2: Cobi's Journey, follows the similar adventures of Tara's brother.</desc>
+		<rating>0.75</rating>
+		<releasedate>20010915T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Harvest Moon 2 GBC (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Harvest Moon 2 GBC</name>
+		<sortname>Harvest Moon 2</sortname>
+		<desc>Rebuild the farm of your grandfather and start raising cows, chickens and sheep. Keep them happy and they?ll make you rich! Discover the fantastic Harvest Moon world with cool friends ready to help you succeed in your mission.</desc>
+		<rating>0.65</rating>
+		<releasedate>20001107T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Natsume</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Harvest Moon 2 GBC (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Harvest Moon 2 GBC (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Hexcite - The Shapes of Victory (USA, Europe) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Hexcite: The Shapes of Victory</name>
+		<sortname />
+		<desc>Hexcite is a puzzle game played on a honeycomb-like playing field. In the center is a hexagon; six more hexagons make up the entire playing field. Because of the turn-based gameplay, two people can play using only one system. Two-player link mode is also supported.</desc>
+		<rating>0.7</rating>
+		<releasedate>19980921T000000</releasedate>
+		<developer>Gu, Inc.</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Hexcite - The Shapes of Victory (USA, Europe) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Hexcite - The Shapes of Victory (USA, Europe) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Hot Wheels - Stunt Track Driver (USA, Europe) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Hot Wheels: Stunt Track Driver</name>
+		<sortname />
+		<desc>A side-scrolling stunt racer where the player is rewarded with speed bonuses for each stunt. Tracks are based on the toy tracks every child is familiar with. The game is somewhat similar to Excitebike in that the player must make jumps and land them correctly in order to complete each track. The player has the ability to roll and spin while in the air and is rewarded with a speed bonus for each successful stunt. The bigger the stunt, the faster you go. The game features 6 licensed Hot Wheels cars and 6 tracks. There is also a two player link mode.</desc>
+		<rating>0.75</rating>
+		<releasedate />
+		<developer>Lucky Chicken Games, Inc.</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Hot Wheels - Stunt Track Driver (USA, Europe) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Hot Wheels - Stunt Track Driver (USA, Europe) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Legend of the River King 2 (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Legend of the River King 2</name>
+		<sortname>Legend of the River King 2</sortname>
+		<desc>More fishing adventures on the Game Boy. This time, there are plenty more fish and other river creatures that you can catch and collect, including 60 types of fish, shellfish, plants and insects. Other animals living around the river can smell your catch and may attack you. A new element in the game is the ability to trade your fish, etc. with other players. Link up with another friend to trade your catch, either in Legend of the River King 2 or another Natsume title, Harvest Moon.</desc>
+		<rating>0.75</rating>
+		<releasedate />
+		<developer>Victor Interactive</developer>
+		<publisher>Natsume</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Legend of the River King 2 (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Legend of the River King 2 (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Legend of the River King GBC (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Legend of the River King GBC</name>
+		<sortname>Legend of the River King 1</sortname>
+		<desc>Your sister is ill and you must find the Guardian Fish to save her in LEGEND OF THE RIVER KING. Travel throughout the world and blaze trails to find the best fishing holes. Be careful though, because you might have to fight wild animals with your bare hands. You can catch fish with either bait or lures, each with relative strengths and weaknesses. After catching a small one, keep it stress-free in an aquarium and watch it grow. Hopefully, you will be able to find the Guardian Fish and save your sister in LEGEND OF THE RIVER KING.</desc>
+		<rating>0.65</rating>
+		<releasedate />
+		<developer>Victor Interactive</developer>
+		<publisher>Natsume</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Legend of the River King GBC (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Legend of the River King GBC (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Pac-Man: Special Color Edition</name>
+		<sortname />
+		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.</desc>
+		<rating>0.8</rating>
+		<releasedate />
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Puchi Carat (Europe) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Puchi Carat</name>
+		<sortname />
+		<desc>The player controls a paddle at the bottom of the playfield, which can move left and right to bounce the ball back upward. Unlike in most other Breakout-style games, missing the ball does not cost a life or end the game, but rather adds more lines of gems to the top of the playfield. Gem lines will advance on their own after a certain amount of time, as well as when the playfield is cleared entirely or drops below a certain number of gems. If the gems advance across the line at the bottom of the playfield where the paddle resides, the player loses and the game is over.</desc>
+		<releasedate />
+		<developer>Eon Digital Entertainment</developer>
+		<publisher>Taito</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Puchi Carat (Europe) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Puchi Carat (Europe) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Quest for Camelot (USA) (En,Fr,Es) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Quest for Camelot</name>
+		<sortname />
+		<desc>Quest for Camelot tells the story of a young girl who dreams of threading in her father's footsteps and becoming one of the knights of the round table. The game is based on the Warner Bros. Animation film from 1998 with the same name.</desc>
+		<releasedate />
+		<developer>Titus</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Quest for Camelot (USA) (En,Fr,Es) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Quest for Camelot (USA) (En,Fr,Es) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Revelations - The Demon Slayer (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Revelations: The Demon Slayer</name>
+		<sortname />
+		<desc>Revelations: The Demon Slayer is a side-game (gaiden) of the Megami Tensei (Megaten) universe. Unlike all other Megaten games, this game is not set in modern-day or futuristic Japan. On a distant planet, a race resembling humans possess the ability to call upon a power called Gaia. The player takes the role of a young boy who learns the arts of Gaia. However, the land is in danger - an evil force is approaching. Assisted by his friends, the hero has to summon an army of demons and lead them in a war against the evil.</desc>
+		<rating>0.5</rating>
+		<releasedate>19990801T000000</releasedate>
+		<developer>Access Games</developer>
+		<publisher>Atlus</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Revelations - The Demon Slayer (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Revelations - The Demon Slayer (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Super Bombliss DX (Japan) (En) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Super Bombliss DX</name>
+		<sortname />
+		<desc>Super Bombliss DX is a colorized remake of Tetris Blast likely made in response to Tetris DX. It is a Japanese-exclusive and contains all the features of Blast, with the addition of a Puzzle mode. It features a different soundtrack and revises the appearance of the enemies in "Battle" mode.</desc>
+		<releasedate />
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Super Bombliss DX (Japan) (En) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Super Bombliss DX (Japan) (En) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Survival Kids (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Survival Kids</name>
+		<sortname />
+		<desc>When on a pleasure cruise for his tenth birthday, a young boy is swept castaway to a remote island by a fierce storm that destroys the entire ship. With no family or friends, he must fend for himself on this strange, seemingly uninhabited island and ultimately find a way to return home.</desc>
+		<rating>0.85</rating>
+		<releasedate>19991001T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Survival Kids (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Survival Kids (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Classic Bubble Bobble (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Classic Bubble Bobble</name>
+		<sortname />
+		<desc>Blue Dino has become ill, and its up to Green Dino to find a cure. Essentially a remake of the classic arcade title, without the ability to play with two players. The aim of the game is to use your Dino's bubble abilities to trap and pop the bad guys while dodging their attacks to complete the level, collecting the bonus items along the way. Popping the enemies turns them into fruit for bonus points.</desc>
+		<releasedate />
+		<developer>Taito</developer>
+		<publisher>Metro 3D</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Classic Bubble Bobble (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Classic Bubble Bobble (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Contra - The Alien Wars (USA) (SGB Enhanced).zip</path>
+		<name>Contra: The Alien Wars</name>
+		<sortname />
+		<desc>Welcome to 2636 the year the notorious Red Falcon gets even-with an unprecedented alien onslaught orchestrated to push the Contra forces to their ultimate reaches.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940923T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Contra - The Alien Wars (USA) (SGB Enhanced).jpg</image>
+		<video>./snaps/Contra - The Alien Wars (USA) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Land 2 (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Donkey Kong Land 2</name>
+		<sortname />
+		<desc>In Donkey Kong Land 2, Donkey Kong has been captured by the evil Kaptain K. Rool, leaving it up to Diddy and Dixie Kong to save the day in this side-scrolling adventure. Fortunately, they will have plenty of help along the way from their friends.</desc>
+		<rating>0.75</rating>
+		<releasedate>19960902T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Donkey Kong Land 2 (USA, Europe) (SGB Enhanced).jpg</image>
+		<video>./snaps/Donkey Kong Land 2 (USA, Europe) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Land III (USA, Europe) (Rev 1) (SGB Enhanced).zip</path>
+		<name>Donkey Kong Land III</name>
+		<sortname />
+		<desc>DK and Diddy Kong have left in search of The Lost World after hearing of a contest to find it on the radio. This leaves Dixie stuck with minding her baby cousin Kiddy Kong. Frustrated at this, she decides to take Kiddy with her and find The Lost World before everyone else!</desc>
+		<rating>0.6</rating>
+		<releasedate>19971001T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Donkey Kong Land III (USA, Europe) (Rev 1) (SGB Enhanced).jpg</image>
+		<video>./snaps/Donkey Kong Land III (USA, Europe) (Rev 1) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Donkey Kong Land (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Donkey Kong Land</name>
+		<sortname />
+		<desc>In a modifiication of Donkey Kong Country, Donkey Kong teams up with his buddy Diddy for new adventures and gorilla antics. Facing high-flying pigs, killer bees, and reptilian Kremlings, the simian duo swings back into action on the Game Boy.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950602T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Donkey Kong Land (USA, Europe) (SGB Enhanced).jpg</image>
+		<video>./snaps/Donkey Kong Land (USA, Europe) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Tetris 2 (USA, Europe) (Rev 1) (SGB Enhanced).zip</path>
+		<name>Tetris 2</name>
+		<sortname />
+		<desc>Unlike the original Tetris, Tetris 2 has you clearing the field of blocks in a different way. Each play field starts with different colored dots (in this case black, gray and white), with one of each color flashing.</desc>
+		<rating>0.7</rating>
+		<releasedate>19931202T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Tetris 2 (USA, Europe) (Rev 1) (SGB Enhanced).jpg</image>
+		<video>./snaps/Tetris 2 (USA, Europe) (Rev 1) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Tetris Attack (USA, Europe) (Rev 1) (SGB Enhanced).zip</path>
+		<name>Tetris Attack</name>
+		<sortname />
+		<desc>All is not well on Yoshi's Island! The devious king Bowser has cast a spell on the island's inhabitants, turning them into his mindless slaves. Only Yoshi has escaped its effects, and so he must set off to free his friends, and to defeat Bowser and break the spell.</desc>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Tetris Attack (USA, Europe) (Rev 1) (SGB Enhanced).jpg</image>
+		<video>./snaps/Tetris Attack (USA, Europe) (Rev 1) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Tetris Blast (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Tetris Blast</name>
+		<sortname />
+		<desc>In this version of Tetris, the basic 'clear the line of puzzle blocks' element is still here, but with an added twist: inside the many block shapes are bombs. By linking the bombs while clearing the play field as usual (creating a line of blocks), more of the field is cleared as the bombs explode.</desc>
+		<rating>0.75</rating>
+		<releasedate>19960102T000000</releasedate>
+		<developer>Bullet Proof Software</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Tetris Blast (USA, Europe) (SGB Enhanced).jpg</image>
+		<video>./snaps/Tetris Blast (USA, Europe) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Azure Dreams (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Azure Dreams</name>
+		<sortname />
+		<desc>The huge Monster Tower stands near the village Monsbaiya. It is populated by vicious monsters, and few dare enter it. But the monsters in the tower lay eggs, and whoever takes possession of such an egg, can tame a monster which will come out of it, and those monsters, called "familiars", will help their tamers in times of danger. Some brave adventurers dared to enter the tower and to take the eggs. One of them was called Guy. He was killed in the monster tower. Now his son Koh is fifteen, and he is allowed to try his luck in the tower.</desc>
+		<rating>0.6</rating>
+		<releasedate>19990805T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Azure Dreams (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Azure Dreams (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Megaten Gaiden - Last Bible II (Japan) (SGB Enhanced) (GB Compatible) [T-En by EsperKnight v1.0] [n].zip</path>
+		<name>Megami Tensei Gaiden: Last Bible II</name>
+		<sortname />
+		<desc>The king of Magoku (Demon Country) is concerned. Only one baby has been born in the kingdom that night. According to ancient prophecies, it is the sign of a revival of a godly power called Gryas. Fast-forward fifteen years. You are Yuri, a young student of powers of Gaia. The king of Magoku has sent his servants to recruit people to face the upcoming revival of Gryas and to destroy him. Yuri and his friends decide to join the recruits, without knowing what this adventure will bring.</desc>
+		<releasedate>19990416T000000</releasedate>
+		<developer>Multimedia Intelligence Transfer</developer>
+		<publisher>Atlus</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Megaten Gaiden - Last Bible II (Japan) (SGB Enhanced) (GB Compatible) [T-En by EsperKnight v1.0] [n].jpg</image>
+		<video>./snaps/Megaten Gaiden - Last Bible II (Japan) (SGB Enhanced) (GB Compatible) [T-En by EsperKnight v1.0] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Tetris DX (World) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Tetris DX</name>
+		<sortname />
+		<desc>Tetris DX requires you to place different shaped blocks which fall from the top of the screen, along the bottom of the screen to make up a line which then disappears from the screen. Watch out though, if you cant fill the gaps and the blocks fill up to the top of the screen the game is over.</desc>
+		<rating>0.8</rating>
+		<releasedate>19981021T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Tetris DX (World) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Tetris DX (World) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+</gameList>

@@ -1,6 +1,7 @@
 package com.lazygalaxy.game.main;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 import org.apache.logging.log4j.LogManager;
@@ -8,10 +9,12 @@ import org.apache.logging.log4j.Logger;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.CSVLoad;
+import com.lazygalaxy.engine.load.MongoLoad;
 import com.lazygalaxy.engine.load.TextFileLoad;
 import com.lazygalaxy.engine.merge.FieldMerge;
 import com.lazygalaxy.engine.merge.Merge;
 import com.lazygalaxy.engine.util.GeneralUtil;
+import com.lazygalaxy.game.Constant.GameSystem;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.Scores;
 import com.lazygalaxy.game.util.GameUtil;
@@ -25,11 +28,15 @@ public class C1_RunTopScoreLoad {
 		try {
 			Merge<Scores> merge = new FieldMerge<Scores>();
 
-			new WatchMojoScoreLoad().load("score/watchmojo_score.csv", 0, merge);
-			LOGGER.info("watch mojo load completed!");
+			new WatchMojoScoreLoad().load("score/score_arcade_watchmojo.csv", 0, merge);
+			LOGGER.info("watch mojo score load completed!");
 
-			new LazyGalaxyScoreLoad().load("score/lazygalaxy_score.txt", 0, merge);
-			LOGGER.info("lazygalaxy load completed!");
+			new AntopisaScoreLoad().load("score/score_arcade_antopisa.ini", 8, merge);
+			LOGGER.info("antopisa score load completed!");
+
+			new SourceScoreLoad().load(merge);
+			LOGGER.info("source score load completed!");
+
 		} finally {
 			MongoConnectionHelper.INSTANCE.close();
 		}
@@ -47,7 +54,9 @@ public class C1_RunTopScoreLoad {
 			String name = GeneralUtil.alphanumerify(tokens[1]);
 			String year = tokens[2];
 
-			List<Game> games = GameUtil.getGames(true, true, name + " " + year, Filters.in("labels", name),
+			List<Game> games = GameUtil.getGames(
+					true, true, name + " " + year, Filters.in("labels", name), Filters.in("systemId", GameSystem.ARCADE,
+							GameSystem.ATOMISWAVE, GameSystem.DAPHNE, GameSystem.NAOMI, GameSystem.NEOGEO),
 					Filters.eq("year", year));
 
 			if (games != null) {
@@ -66,30 +75,63 @@ public class C1_RunTopScoreLoad {
 		}
 	}
 
-	private static class LazyGalaxyScoreLoad extends TextFileLoad<Scores> {
+	private static class AntopisaScoreLoad extends TextFileLoad<Scores> {
+		private Integer lastScore = null;
 
-		public LazyGalaxyScoreLoad() throws Exception {
+		public AntopisaScoreLoad() throws Exception {
 			super(Scores.class);
+			lastScore = null;
 		}
 
 		@Override
 		protected List<Scores> getMongoDocument(String romId) throws Exception {
-			List<Game> games = GameUtil.getGames(true, true, romId, Filters.eq("romId", romId));
+			String[] tokens = GeneralUtil.split(romId, " ");
+			if (tokens.length >= 4) {
+				lastScore = Integer.parseInt(tokens[2]);
+			} else if (lastScore != null) {
+				List<Game> games = GameUtil.getGames(false, true, romId,
+						Filters.or(Filters.eq("romId", romId), Filters.eq("cloneOfRomId", romId)),
+						Filters.in("systemId", GameSystem.ARCADE, GameSystem.ATOMISWAVE, GameSystem.DAPHNE,
+								GameSystem.NAOMI, GameSystem.NEOGEO));
 
-			if (games != null) {
-				List<Scores> scoresList = new ArrayList<Scores>();
+				if (games != null) {
+					List<Scores> scoresList = new ArrayList<Scores>();
+					for (Game game : games) {
+						Scores scores = new Scores(game.id);
+						scores.antopisa = lastScore;
+						scoresList.add(scores);
+					}
 
-				for (Game game : games) {
-					Scores scores = new Scores(game.id);
-
-					scores.lazygalaxy = 100;
-					scoresList.add(scores);
+					return scoresList;
 				}
-
-				return scoresList;
 			}
+
 			return null;
 		}
 	}
 
+	private static class SourceScoreLoad extends MongoLoad<Game, Scores> {
+
+		public SourceScoreLoad() throws Exception {
+			super(Game.class, Scores.class);
+		}
+
+		@Override
+		protected List<Scores> getMongoDocument(Game game) throws Exception {
+
+			Scores scores = new Scores(game.id);
+			if (game.rickdangerousGameInfo != null && game.rickdangerousGameInfo.rating != null) {
+				scores.rickDangerous = (int) Math.round(game.rickdangerousGameInfo.rating * 100.0);
+			}
+			if (game.vmanGameInfo != null && game.vmanGameInfo.rating != null) {
+				scores.vman = (int) Math.round(game.vmanGameInfo.rating * 100.0);
+			}
+			if (game.wolfanozGameInfo != null && game.wolfanozGameInfo.rating != null) {
+				scores.wolfanoz = (int) Math.round(game.wolfanozGameInfo.rating * 100.0);
+			}
+
+			return Arrays.asList(scores);
+		}
+
+	}
 }

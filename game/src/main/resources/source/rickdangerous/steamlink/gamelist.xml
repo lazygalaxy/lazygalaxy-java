@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Steam Link.sh</path>
+		<name>Steam Link</name>
+		<sortname />
+		<desc>Steam is a video game digital distribution service by Valve.</desc>
+		<image>./boxart/Steam_Link_Box_Art.jpg</image>
+		<video>./snaps/Steam_Link_Box_Art.mp4</video>
+	</game>
+</gameList>

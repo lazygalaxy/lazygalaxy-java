@@ -1,0 +1,841 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Mega-CD</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Rise of the Dragon (USA).chd</path>
+		<name>Rise of the Dragon</name>
+		<sortname />
+		<desc>A futuristic adventure game that borrows graphical elements from Blade Runner (in fact, the title character's name is "Blade Hunter"). You must find out what is killing--by horrible, spontaneous mutation--inhabitants of the city, before it's too late. An oriental cult, drugs, and street informants are among the places you find clues.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Dynamix</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Rise of the Dragon (USA).jpg</image>
+		<video>./snaps/Rise of the Dragon (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Shining Force CD (Europe).chd</path>
+		<name>Shining Force CD</name>
+		<sortname />
+		<desc>This is a compilation of two strategy RPG titles from Shining Force titles: Shining Force Gaiden (the original version released in Japan only), and its sequel, known outside of Japan as Shining Force II: The Sword of Hajya, both for GameGear. In those games you control Nick, the Prince of Cypress. In the first game his task is to rescue Arni, the princess of Gardiana; in the second game, he has to conquer his kingdom back, that was captured by the evil empire of Iom. The re-release includes re-mastered graphics and higher quality music.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950401T000000</releasedate>
+		<developer>Camelot Software</developer>
+		<publisher>Sega</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Shining Force CD (Europe).jpg</image>
+		<video>./snaps/Shining Force CD (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Silpheed (USA).chd</path>
+		<name>Silpheed</name>
+		<sortname />
+		<desc>Silpheed for the Sega CD is a shoot-'em-up sequel to the PC title of the same name. Gameplay is similar: this is basically a 2D shooter with 3D graphics. You move your ship in a 2D plane that reaches into the screen, kind of like a pinball table. The Sega CD version of Silpheed uses pre-rendered video for the backdrops, and filled polygon graphics for the player ship and enemies. The story here is typical for a game of this type. The central computer system controlling the galaxy network has been hacked by terrorists. The terrorists are using the computer to attack colony planets throughout the system.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Game Arts</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Silpheed (USA).jpg</image>
+		<video>./snaps/Silpheed (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Snatcher (USA).chd</path>
+		<name>Snatcher</name>
+		<sortname />
+		<desc>A.D. 2047. Neo Kobe City, Japan, a place of madness and decadence. A mysterious Bio-roid life form has appeared. Its true nature and purpose are unknown. Is it some country's secret weapon, or an alien from another world? They slay their victims and take their place, earning them the nickname "SNATCHERS." A new police division - J.U.N.K.E.R.s - has been formed. They are trained specifically to combat the SNATCHERS. The fate of mankind hangs in the balance. The war between the SNATCHERS and J.U.N.K.E.R.s has begun!</desc>
+		<rating>0.8</rating>
+		<releasedate>19941130T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Snatcher (USA).jpg</image>
+		<video>./snaps/Snatcher (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Terminator, The (USA).chd</path>
+		<name>Terminator, The</name>
+		<sortname />
+		<desc>The player controls Kyle Reese, who travels back in time from the year 2029 to protect Sarah Connor from the unstoppable killing machine known as the Terminator. The game consists of 10 levels. Future locations include the post-apocalyptic wasteland of 2029 Los Angeles and the time displacement complex. In the present of 1984, Reese must traverse the streets and rooftops of L.A., as well as the Tech Noir club, the police station, and, for the finale, an automated factory.</desc>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Probe Software Ltd.</developer>
+		<publisher>Virgin</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Terminator, The (USA).jpg</image>
+		<video>./snaps/Terminator, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Vay (USA).chd</path>
+		<name>Vay</name>
+		<sortname />
+		<desc>Vay is the story of Prince Sandor of Lorath, and his quest to avenge the assassination of his parents and rescue his beloved Lady Elin. On what is to be the day of their wedding, Castle Lorath is assaulted by the Danek, who have been able to partially reconstruct alien mecha technology from a millennium ago. The castle defenses are powerless against the giant robots, and the king and queen are killed in the attack. The invaders steal Elin in the midst of her wedding vows. Prince Sandor, now the king of the realm, sets out to rescue his betrothed, and find a way to defeat the fearsome alien technology.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>SIMS Co., Ltd.</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Vay (USA).jpg</image>
+		<video>./snaps/Vay (USA).mp4</video>
+	</game>
+	<game>
+		<path>./NHL '94 (USA).chd</path>
+		<name>NHL '94</name>
+		<sortname />
+		<desc>After establishing themselves in the virtual rinks, EA combined both NHL and NHLPA licenses in NHL '94, allowing them to feature all 26 real teams (including both expansion teams) and players of the new NHL season for the first time in the series.</desc>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>High Score Productions</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/NHL '94 (USA).jpg</image>
+		<video>./snaps/NHL '94 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Double Switch (USA).chd</path>
+		<name>Double Switch</name>
+		<sortname />
+		<desc>Double Switch is one of Digital Pictures' many full-motion video games from the mid 90s. In this "cinematic mystery" you must watch your serveilance cameras in order to trap intruders in the Edward Arms mansion. Double Switch stars Corey Haim and Deborah Harry, and features a musical score by Thomas Dolby.</desc>
+		<rating>0.5</rating>
+		<releasedate>19940201T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Digital Pictures</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Double Switch (USA).jpg</image>
+		<video>./snaps/Double Switch (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Demolition Man (USA).chd</path>
+		<name>Demolition Man</name>
+		<sortname />
+		<desc>Demolition Man is a game based on the 1993 movie by the same name. As with the movie, the game takes place in a dystopian Los Angeles, in 1996. John Spartan is the country´s most fearsome cop and hunts his nemesis, Simon Phoenix. However in doing so, he kills several innocent civilians and both characters are sentenced to cryostasis rehabilitation where they will be brainwashed for 30 years. However the brainwashing does not go as planned and upon waking up, Phoenix goes on a new crime spree. However in 30 years the world has also changed and Los Angeles has become San Angeles, a utopian and violence-free society.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Alexandria, Inc.</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Demolition Man (USA).jpg</image>
+		<video>./snaps/Demolition Man (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Earthworm Jim - Special Edition (USA) (RE).chd</path>
+		<name>Earthworm Jim: Special Edition</name>
+		<sortname />
+		<desc>This special edition includes: a password system, a new world &amp; new hidden Areas, a new weapon, over 1000 additional frames of animation. All new CD quality soundtrack, totally new endings in two of the worlds, all the extra cool ideas and special features that Shiny couldn't fit onto the cartridge are on this special edition.</desc>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Shiny Entertainment</developer>
+		<publisher>Interplay</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Earthworm Jim - Special Edition (USA) (RE).jpg</image>
+		<video>./snaps/Earthworm Jim - Special Edition (USA) (RE).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fight CD (USA).chd</path>
+		<name>Final Fight CD</name>
+		<sortname />
+		<desc>The game is set in the metropolis of Metro City, a town constantly plagued by crime and violence. When the mayor, Mike Haggar, promises to clean up the city, the Mad Gear gang kidnaps his daughter Jessica and warns him not to interfere. Haggar responds going on a battle across the city to free her, bringing along her boyfriend Cody, and the ninjitsu master Guy to assist him.</desc>
+		<rating>0.85</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Sega</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Final Fight CD (USA).jpg</image>
+		<video>./snaps/Final Fight CD (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dark Wizard (USA).chd</path>
+		<name>Dark Wizard</name>
+		<sortname />
+		<desc>300 years ago, the high priest of the Kingdom of Cheshire tried to disturb the balance of good and evil by summoning the dark god Arliman. Sabrina, Goddess of Light, saved the Kingdom by giving great powers to two of Cheshire's leaders who defeated the high priest and helped the King's high wizard to entrap Arliman in a magical jewel. Velonese, the high wizard's apprentice, was given the task of guarding the imprisoned Arliman on the Island of Raven. Over the years, his anger towards the kingdom grew and now he is commanding four generals to conquer Cheshire while he is trying to free Arliman.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Dark Wizard (USA).jpg</image>
+		<video>./snaps/Dark Wizard (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Flashback - The Quest for Identity (USA).chd</path>
+		<name>Flashback: The Quest for Identity</name>
+		<sortname />
+		<desc>Flashback, known in the US as Flashback: The Quest for Identity, is arguably Delphine Software's greatest work. CD-based versions tend to include full motion video cutscenes and an enhanced music soundtrack, but are essentially the same game. The year is 2142. You play as Conrad B. Hart, a man who has lost his memory. After barely escaping from hostile aliens, Conrad's bike crashes on an unknown planet. Conrad finds himself in the jungle, and from now on his quest for survival.</desc>
+		<rating>0.95</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>Delphine Software International</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Flashback - The Quest for Identity (USA).jpg</image>
+		<video>./snaps/Flashback - The Quest for Identity (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Flink (USA).chd</path>
+		<name>Flink</name>
+		<sortname />
+		<desc>The Misadventures of Flink is a Jump'n Run set in the fantasy world of Imagica. The evil wizard Wicked Wainwright has captured the four elders and it is up to Flink, a wizard's apprentice, to set them free and defeat Wicked Wainwright. Apart from the usual platformer elements, the game has a unique feature: Flink's ability to create spells. Whenever the game is paused, Flink can combine three ingredients to create a spell.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Flink (USA).jpg</image>
+		<video>./snaps/Flink (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Jaguar XJ220 (USA).chd</path>
+		<name>Jaguar XJ220</name>
+		<sortname />
+		<desc>In the early nineties, the Jaguar XJ220 was the fastest serial-produced car ever. Core Design acquired the right to build a game around it, in a move to counter Gremlin's immensely successful Lotus series. Just like Lotus, Jaguar XJ200 is a view from behind racer.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Core Design</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Jaguar XJ220 (USA).jpg</image>
+		<video>./snaps/Jaguar XJ220 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Keio Flying Squadron (USA).chd</path>
+		<name>Keio: Flying Squadron</name>
+		<sortname />
+		<desc>Keio: Flying Squadron chronicles the adventures of Rami, the little bunny-suited member of the flying squadron tasked with the protection of the "Special Holy Object". Unfortunately as the game starts the object in question gets stolen by the evil Dr. Pon, and so Rami jumps atop her trusty dragon in pursuit of Dr. Pon. The game plays as a classic 2D shooter with upgradable weapons and option characters, with a distinct cartoonish and family-friendly design. Features 7 levels and 3 difficulty settings.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>JVC</developer>
+		<publisher>JVC</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Keio Flying Squadron (USA).jpg</image>
+		<video>./snaps/Keio Flying Squadron (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).chd</path>
+		<name>Disney's Mickey Mania: The Timeless Adventures of Mickey Mouse</name>
+		<sortname />
+		<desc>Mickey Mania: The Timeless Adventures of Mickey Mouse is a 2D-platformer developed by Traveller's Tales and published by Sony Imagesoft. In the game, you control Mickey Mouse, who must navigate through various side-scrolling levels, each designed and based from classical Mickey Mouse cartoons from 1928 to 1990.</desc>
+		<rating>0.85</rating>
+		<releasedate>19941002T000000</releasedate>
+		<developer>SCE Santa Monica Studio</developer>
+		<publisher>Travellers Tales</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).jpg</image>
+		<video>./snaps/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Night Trap (USA) (Disc 2) (Rerelease).cue</path>
+		<name>Night Trap (Disc 2)</name>
+		<sortname />
+		<desc>Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace. Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because "nice people" can sometimes turn out to be yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead!</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Night Trap (USA) (Disc 2) (Rerelease).jpg</image>
+		<video>./snaps/Night Trap (USA) (Disc 2) (Rerelease).mp4</video>
+	</game>
+	<game>
+		<path>./Panic! (USA) (RE).chd</path>
+		<name>Panic!</name>
+		<sortname />
+		<desc>A virus has infected the world's computer network, which effects all electronical devices on the earth. However, a special program called "Panic!" is designed to counter the effects of the virus and restore the network back to working order. You play Slap the Boy and his sidekick, Stick the Dog(they're not actions, it's their names) who set out to restore the network back to working order.</desc>
+		<rating>0</rating>
+		<releasedate>19930423T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Panic! (USA) (RE).jpg</image>
+		<video>./snaps/Panic! (USA) (RE).mp4</video>
+	</game>
+	<game>
+		<path>./Popful Mail (USA) (RE).chd</path>
+		<name>Popful Mail</name>
+		<sortname />
+		<desc>In this platform action game, you play as a cute bounty hunter known as Popful Mail. While you might think that a cute Anime chick would have no trouble making a living slashing bad guys with her sword, Popful is having a hard time making ends meet. One day, however, Popful learns about a magician who has gone rogue and has a hefty bounty on his head. So, her adventure begins as Popful fights her way through a new adventure, and makes new friends along the way.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950223T000000</releasedate>
+		<developer>Working Designs</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Popful Mail (USA) (RE).jpg</image>
+		<video>./snaps/Popful Mail (USA) (RE).mp4</video>
+	</game>
+	<game>
+		<path>./Revenge of the Ninja (USA).chd</path>
+		<name>Revenge of the Ninja</name>
+		<sortname />
+		<desc>The story takes place in Japan, you play as Hayate, a young up and coming ninja warrior out to stop the evil of Lougi and his army of ghouls and goblins. You are out to avenge your father's death as well as the emperor and rescue your girlfriend from the clutches of evil and bring an end to the terror visited upon your lands.</desc>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Renovation Products</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Revenge of the Ninja (USA).jpg</image>
+		<video>./snaps/Revenge of the Ninja (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Road Avenger (USA).chd</path>
+		<name>Road Avenger</name>
+		<sortname />
+		<desc>Road Avenger dates from the era when interactive movies (e.g. Dragon's Lair, Escape from Cybercity, Time Gal) with film-quality graphics, but limited player movement, were highly popular. Players assume the role of an angry cop on a wild ride as he pursues a gang of bikers who killed his wife. Players need to race through oncoming traffic, squeeze between trucks, trash motorcycles and steer through lots of explosions. The only thing needed are quick reflexes to follow the instructions on the screen (with an increasing difficulty) in order to keep the animation going.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Road Avenger (USA).jpg</image>
+		<video>./snaps/Road Avenger (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Robo Aleste (USA).chd</path>
+		<name>Robo Aleste</name>
+		<sortname />
+		<desc>Overhead Shooter based in Japan. The bloodthirsty Chugoko Warlords of the west have ruled and ravaged the once-supreme Oda Clan. Time to get your revenge. This is an overhead shooter with large bosses and massive power-ups.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Tengen</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Robo Aleste (USA).jpg</image>
+		<video>./snaps/Robo Aleste (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Sewer Shark (USA) (Rev 1).chd</path>
+		<name>Sewer Shark</name>
+		<sortname />
+		<desc>Sewer Shark is an FMV-based shooter, and one of the first games released for the Sega CD. You move a crosshair around the screen and shoot targets. Occasionally, you can also choose to change directions at fixed points. Of course the real attraction in a game like this is the story. In the future, maybe in the year 2000, people will be forced to move underground and live in tunnels. Unfortunately, these tunnels are infested with mutated rat / alligator creatures known as "ratigators." You are pilot of a Sewer Shark, a craft designed to navigate the Sewers and rid them of ratigators.</desc>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sony Electronic Publishing</developer>
+		<publisher>Digital Pictures</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Sewer Shark (USA) (Rev 1).jpg</image>
+		<video>./snaps/Sewer Shark (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Sol-Feace (USA) (RE2).chd</path>
+		<name>Sol-Feace</name>
+		<sortname />
+		<desc>Sol-Feace (Sol-Deace in the Genesis) is a typical 2D shooter with weapon powerups. The game features six levels: Sirius, Enemy Arsenal, ArtifiStar, Pluto Base, Almathea, and Final Battle. Along the way various weapons can be picked up including plasma bullets, double plasma bullets, lasers, and missiles. The most unique feature of the game is that you can realign your upgraded guns to fire front-back, up-down, tight spread, wide spread or whatever the current situation required.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Sol-Feace (USA) (RE2).jpg</image>
+		<video>./snaps/Sol-Feace (USA) (RE2).mp4</video>
+	</game>
+	<game>
+		<path>./Masked Rider, The - Kamen Rider ZO (USA).chd</path>
+		<name>The Masked Rider: Kamen Rider ZO</name>
+		<sortname />
+		<desc>The Masked Rider is a Japanese super hero, a man who has become genetically altered to be a man/grasshopper who rides a motorcycle. This FMV game adapts scenes from the movie Masked Rider ZO, and creates a Dragon's Lair style experience. The game centers around 10 battles of the film's 3 main characters.</desc>
+		<rating>0.5</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Toei Video Co.</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Masked Rider, The - Kamen Rider ZO (USA).jpg</image>
+		<video>./snaps/Masked Rider, The - Kamen Rider ZO (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Space Adventure, The - Cobra - The Legendary Bandit (USA).chd</path>
+		<name>Space Adventure, The</name>
+		<sortname />
+		<desc>The format of the game is similar to Snatcher while the plot is based on one of Cobra's early adventures. The player takes the role of the manga hero Cobra, who after walking into a bar, learns that a bounty has been placed on his head by the Galaxy Patrol and that he is being hunted by a bounty hunter named Jane Royal. After it is discovered that Cobra's archenemy Crystal Boy is after a treasure hidden by Jane's father, the location of which he encoded in the form of tattoos on his triplet daughters, Cobra and Jane agree to join forces to locate her sisters and defeat Crystal Boy.</desc>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Space Adventure, The - Cobra - The Legendary Bandit (USA).jpg</image>
+		<video>./snaps/Space Adventure, The - Cobra - The Legendary Bandit (USA).mp4</video>
+	</game>
+	<game>
+		<path>./WireHead (USA).chd</path>
+		<name>Wirehead</name>
+		<sortname />
+		<desc>Controlling Ned Hubbard, a man with a wireless controller implanted in his brain, via your Genesis joypad. The bad guys are chasing after Ned for his "mind implant", and of course, the only way to get it is to open his head. Reminiscent of Dragon's Lair, a path will open up, and you have to choose the right direction or Ned gets it. The sets and locations are probably the largest scope ever for a FMV game, with real life chase sequences and stunts that take the player through areas like the Queen Mary, a saloon fight, an airplane, a water raft, multiple car chases, and even wrestling with a bear!</desc>
+		<rating>0.45</rating>
+		<releasedate>19950901T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/WireHead (USA).jpg</image>
+		<video>./snaps/WireHead (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ground Zero Texas (USA) (Disc 1).cue</path>
+		<name>Ground Zero Texas (Disc 1)</name>
+		<sortname />
+		<desc>Space aliens are infiltrating the U.S. from a sleepy little town on the Texas/Mexico border, snatching bodies and paving the way for a greater invasion. Those they abduct return as Pod People-like drones, normal in appearance until they reveal themselves. The government's response is you - a technician driving custom-built gun cameras mounted around the town. Similar to Night Trap or Double Switch, you must monitor the town for alien activity, and respond to protect the lives of the citizens and your agents.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SCE Santa Monica Studio</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Ground Zero Texas (USA) (Disc 1).jpg</image>
+		<video>./snaps/Ground Zero Texas (USA) (Disc 1).mp4</video>
+	</game>
+	<game>
+		<path>./Ground Zero Texas (USA) (Disc 2).cue</path>
+		<name>Ground Zero Texas (Disc 2)</name>
+		<sortname />
+		<desc>Space aliens are infiltrating the U.S. from a sleepy little town on the Texas/Mexico border, snatching bodies and paving the way for a greater invasion. Those they abduct return as Pod People-like drones, normal in appearance until they reveal themselves. The government's response is you - a technician driving custom-built gun cameras mounted around the town. Similar to Night Trap or Double Switch, you must monitor the town for alien activity, and respond to protect the lives of the citizens and your agents.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SCE Santa Monica Studio</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Ground Zero Texas (USA) (Disc 2).jpg</image>
+		<video>./snaps/Ground Zero Texas (USA) (Disc 2).mp4</video>
+	</game>
+	<game>
+		<path>./Ecco the Dolphin (USA).chd</path>
+		<name>Ecco the Dolphin</name>
+		<sortname />
+		<desc>Travel through time along with Ecco the dolphin, in the only game that could call itself a "dolphin simulator". Indeed, you can do pretty much everything a typical dolphin does, including eating fish, surfacing in order to breathe, using your biological sonar and of course, jumping out of the water to amaze your friends. The storyline is actually deeper that one may think by looking at the box illustration. As Ecco, you are the only dolphin who managed to escape from a giant whirlpool which sucked down your entire pod. The five shining stars on your forehead show that you are the chosen one to save them.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Novotrade</developer>
+		<publisher>Sega</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Ecco the Dolphin (USA).jpg</image>
+		<video>./snaps/Ecco the Dolphin (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Heart of the Alien - Out of This World Parts I and II (USA) (RE).chd</path>
+		<name>Heart of the Alien: Out of this World Parts I and II</name>
+		<sortname />
+		<desc>A sequel to Another World and continues the story directly from where the original ended. The game switches the player's role from Another World; this time the player takes control of Buddy, the main character's alien ally from the previous game. The story picks up immediately after the end of Another World. Buddy lands the pterodactyl in the ruins of his village, lays Lester down on a cot to rest and walks through the village, thinking of his past. This sequence contains many flashbacks of events that lead up to Buddy's capture and his and Lester's escape from prison.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Virgin Interactive</developer>
+		<publisher>Delphine Software International</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Heart of the Alien - Out of This World Parts I and II (USA) (RE).jpg</image>
+		<video>./snaps/Heart of the Alien - Out of This World Parts I and II (USA) (RE).mp4</video>
+	</game>
+	<game>
+		<path>./Road Rash (USA).chd</path>
+		<name>Road Rash</name>
+		<sortname />
+		<desc>This is a remake of the original Road Rash from the early nineties. For those who have not played the original, you are competing against thirteen other "Road Rashers" who will stop at nothing to win 1st, 2nd, or 3rd place. During the race, you have two options available to you: you can either do your best to cross the finish line, or use your weapon to bring the Rashers to the ground if they are giving you trouble. If you do the latter, your opponents will do the same to you during the next race that takes place.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Road Rash (USA).jpg</image>
+		<video>./snaps/Road Rash (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Sonic CD (USA).chd</path>
+		<name>Sonic CD</name>
+		<sortname />
+		<desc>This is a standard Sonic the Hedgehog side-scrolling action game. Dr. Robotnik has taken over the Little Planet, captured Amy, and created Metal Sonic with the goal of collecting all the Time Stones to be able to manipulate time and conquer the world. It is up to Sonic to stop him, by rushing through levels set in different time periods, collecting Time Stones. Sonic CD has features that take advantage of the CD format such as CD audio, video clips, and more levels (over 50 in total).</desc>
+		<rating>0.8</rating>
+		<releasedate>19931119T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Sonic CD (USA).jpg</image>
+		<video>./snaps/Sonic CD (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Batman Returns (USA).chd</path>
+		<name>Batman Returns</name>
+		<sortname />
+		<desc>The game can be played in three ways: either as only the platform game, only the racing game, or a combination of both. Each option features a unique ending sequence. For every of the original version's five platform levels, there is a related driving section in which the player controls either the Batmobile or the Batskiboat. Both in perspective and gameplay, these sections are reminiscent of arcade titles like OutRun. Seen from above and behind, the player's vehicle must reach checkpoints before a timer runs out, receiving bonus points for any surplus seconds.</desc>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Malibu Games</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Batman Returns (USA).jpg</image>
+		<video>./snaps/Batman Returns (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Championship Soccer '94 (U).chd</path>
+		<name>Championship Soccer '94</name>
+		<sortname />
+		<desc>Sensible Soccer on Mega-CD includes the players names present in European clubs during the season 92/93. You can also take part in qualifying for the World Cup 94. One of the main arguments of the game when it was released, was the taking into account of the faults and cards.</desc>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Renegade Kid</developer>
+		<publisher>Sony</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Championship Soccer '94 (U).jpg</image>
+		<video>./snaps/Championship Soccer '94 (U).mp4</video>
+	</game>
+	<game>
+		<path>./Lunar - Eternal Blue (USA) (RE).chd</path>
+		<name>Lunar: Eternal Blue</name>
+		<sortname>Lunar 2</sortname>
+		<desc>Come back to the enchanting world of Lunar! Join Hiro and Ruby 1,000 years after the first adventure, as they work to unlock the secrets of the Blue Spire and the strange young girl they found within it! But be careful! Forces are at work trying to revive the evil Zophar and immerse Lunar in darkness forever! Journey to distant lands in search of the Goddess Althena, who may be the only one powerful enough to stop Zophar. Along the way, you'll meet exciting new characters, fight fully animated monsters, traverse snow-covered peaks, and crawl through slimy dungeons as you work towards the terrifying climax!</desc>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Game Arts</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Lunar - Eternal Blue (USA) (RE).jpg</image>
+		<video>./snaps/Lunar - Eternal Blue (USA) (RE).mp4</video>
+	</game>
+	<game>
+		<path>./Ecco - The Tides of Time (USA).chd</path>
+		<name>Ecco: The Tides of Time</name>
+		<sortname />
+		<desc>The followup to Ecco the Dolphin, in which Ecco successfully destroyed the Vortex. Unfortunately, it turns out that the Vortex Queen followed it to the Earth and eventually destroyed the Asterite. All the world's oceans are threatened, and actually already doomed. In order to restore the Asterite and finally defeat the Vortex Queen, Ecco will have to confront once again the tides of time, which have split into two possible futures, the regular one and the dark one dominated by the Vortex Queen.</desc>
+		<rating>0.95</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Novotrade</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Ecco - The Tides of Time (USA).jpg</image>
+		<video>./snaps/Ecco - The Tides of Time (USA).mp4</video>
+	</game>
+	<game>
+		<path>./AH3 - Thunderstrike (USA).chd</path>
+		<name>AH3 ThunderStrike </name>
+		<sortname />
+		<desc>AH3 ThunderStrike is an action game on Mega-CD that gives you control of a combat helicopter in a series of six futuristic campaigns. The original version includes a total of 60 operations with various objectives. Before flying in the sky, the player can adapt the embarked arsenal to suit it. Piloting is technical but accessible, without being as complex as other simulations available in 1993.</desc>
+		<rating>0</rating>
+		<releasedate>19931001T000000</releasedate>
+		<developer>JVC</developer>
+		<publisher>Core Design</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/AH3 - Thunderstrike (USA).jpg</image>
+		<video>./snaps/AH3 - Thunderstrike (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Adventures of Willy Beamish, The (USA).chd</path>
+		<name>Adventures of Willy Beamish, The</name>
+		<sortname />
+		<desc>Willy Beamish is a kid who likes to goof off and have fun. Naturally all the grown-ups get in the way by making him go to school, making him clean his room, etc. But now that's school's out for the summer, Willy is determined to have a good time and maybe even have his pet frog win the frog jumping contest. However Willy has a habit of getting into trouble, and naturally that means it will be a challenge to get out of it.</desc>
+		<rating>0.5</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Dynamix</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Adventures of Willy Beamish, The (USA).jpg</image>
+		<video>./snaps/Adventures of Willy Beamish, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Android Assault - The Revenge of Bari-Arm (USA).chd</path>
+		<name>Android Assault: The Revenge of Bari-Arm</name>
+		<sortname />
+		<desc>Launched by the alien planet Zias, an armada of androids has crushed the Earth's conventional space fleet. Desperate and defeated, The United Nations of Earth has no choice but to counterattack with its own living, fighting machine, Bari-Arm. Upgrade weapons to get the awesome firepower of the Thundercracker, Burning Wave and Chase Cannon.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Human</developer>
+		<publisher>Human</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Android Assault - The Revenge of Bari-Arm (USA).jpg</image>
+		<video>./snaps/Android Assault - The Revenge of Bari-Arm (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Battlecorps (USA).chd</path>
+		<name>Battlecorps</name>
+		<sortname />
+		<desc>Battlecorps is a giant-mech game that takes place on a mining planet known as Mandlebrot's World. The colony supercomputer has been infected with a virus, and now the planet's giant machines are turning against the people who created them. You must pilot your bipedal attack machine through 12 missions to reboot the computer. The graphics in this game use scaled and rotated sprites to achieve a 3D environment. The effect is similar to other Core Design games for the Sega CD.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Battlecorps (USA).jpg</image>
+		<video>./snaps/Battlecorps (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Brutal - Paws of Fury (USA).chd</path>
+		<name>Brutal: Paws of Fury</name>
+		<sortname />
+		<desc>Across the world, invitations were delivered. Under the watchful eye of the great master Dali Llama, the worlds greatest martial artists would return to a place they knew well.. Brutal Island. Each will use their own unique mental and physical martial arts style and training in a tournament to prove the worlds one true champion.</desc>
+		<rating>0.65</rating>
+		<releasedate>19940110T000000</releasedate>
+		<developer>GameTek</developer>
+		<publisher>GameTek</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Brutal - Paws of Fury (USA).jpg</image>
+		<video>./snaps/Brutal - Paws of Fury (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Cadillacs and Dinosaurs - The Second Cataclysm (USA, Brazil) (RE).chd</path>
+		<name>Cadillacs And Dinosaurs: The Second Cataclysm</name>
+		<sortname />
+		<desc>Cadillacs and Dinosaurs: The Second Cataclysm is a Sega Mega-CD (and DOS) game based on the comic book series Xenozoic Tales, and the TV show of the same name. It is not to be confused with the arcade beat-'em-up, Cadillacs and Dinosaurs by Capcom. The Mega-CD game was only released in North America and Brazil.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Rocket Science Games</developer>
+		<publisher>Rocket Science Games</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Cadillacs and Dinosaurs - The Second Cataclysm (USA, Brazil) (RE).jpg</image>
+		<video>./snaps/Cadillacs and Dinosaurs - The Second Cataclysm (USA, Brazil) (RE).mp4</video>
+	</game>
+	<game>
+		<path>./Dungeon Explorer (USA).chd</path>
+		<name>Dungeon Explorer</name>
+		<sortname />
+		<desc>Dungeon Explorer on Mega-CD is a role-playing game based on combat and exploration of gloomy dungeons. The game features eight character classes, each with its own strengths, weaknesses, and special attacks. Now, restore calm to your kingdom and send the invading monsters back to where they came from.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Hudson</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-4</players>
+		<image>./boxart/Dungeon Explorer (USA).jpg</image>
+		<video>./snaps/Dungeon Explorer (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Eternal Champions - Challenge from the Dark Side (USA).chd</path>
+		<name>Eternal Champions: Challenge from the Dark Side</name>
+		<sortname />
+		<desc>Like the first game, Eternal Champions: Challenge from the Dark Side follows the story of the Eternal Champion, who felt the balance of the universe and time had been disturbed by the deaths of key individuals who had been destined to change the world for the greater good. To restore the balance, he held a great contest in which the winner would be granted the gift of new life, allowing them to fulfill their rightful destiny.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Deep Water</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Eternal Champions - Challenge from the Dark Side (USA).jpg</image>
+		<video>./snaps/Eternal Champions - Challenge from the Dark Side (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Eye of the Beholder (USA).chd</path>
+		<name>Eye of the Beholder</name>
+		<sortname />
+		<desc>Something evil is lurking below the city of Waterdeep. The Lords of Waterdeep summon a group of heroes to investigate, but someone or something has been watching the proceedings. After the heroes enter the sewers, the ceiling collapses behind them. The only way out is the way down, into a dungeon filled with monsters, traps and puzzles.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Opera House</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Eye of the Beholder (USA).jpg</image>
+		<video>./snaps/Eye of the Beholder (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Iron Helix (USA).chd</path>
+		<name>Iron Helix</name>
+		<sortname />
+		<desc>A rogue navy ship, Jeremiah Obrian, threatens to start a war. A virus has wiped out its crew, but the threat of it firing its Iron Helix doomsday weapon is still there. You must remotely pilot an unarmed science robot to explore the ship and work out how to shut the weapon down.</desc>
+		<rating>0.65</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Drew Pictures</developer>
+		<publisher>Spectrum Holobyte</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Iron Helix (USA).jpg</image>
+		<video>./snaps/Iron Helix (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Jurassic Park (USA) (RE).chd</path>
+		<name>Jurassic Park</name>
+		<sortname />
+		<desc>This is the Sega CD game based on the 1993 Steven Spielberg movie based on the book by Michael Crichton. This game differs greatly from other Jurassic Park games. It is a point-and-click adventure game, with a strong emphasis on action sequences which require split-second timing.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Jurassic Park (USA) (RE).jpg</image>
+		<video>./snaps/Jurassic Park (USA) (RE).mp4</video>
+	</game>
+	<game>
+		<path>./Marko (USA) (Unl).chd</path>
+		<name>Marko's Magic Football</name>
+		<sortname />
+		<desc>In Marko's Magic Football you play as Marko, a football player who uses his football to complete various platforming tasks. The UK's Sonic the Comic featured several strips based on the character during its early years. A Sega Master System version was reportedly in development at some stage too, although was cancelled.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Domark</developer>
+		<publisher>Domark</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Marko (USA) (Unl).jpg</image>
+		<video>./snaps/Marko (USA) (Unl).mp4</video>
+	</game>
+	<game>
+		<path>./Pitfall - The Mayan Adventure (USA).chd</path>
+		<name>Pitfall: The Mayan Adventure </name>
+		<sortname />
+		<desc>Pitfall: The Mayan Adventure is a side-scrolling action game in which you play adventurer Pitfall Harry Jr in search of his father Pitfall Harry. You battle your way through the Mayan jungles, waterfalls, deserted mines and can bungee jump and boomerang your way to safety. There are 13 levels and the action is fast and gripping. You will need to be attentive—and quick. Or prepare to die.</desc>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Pitfall - The Mayan Adventure (USA).jpg</image>
+		<video>./snaps/Pitfall - The Mayan Adventure (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Puggsy (USA).chd</path>
+		<name>Puggsy</name>
+		<sortname />
+		<desc>Puggsy is a platform game with a combination of action and puzzle-solving elements. You control the the creature Puggsy, who has crash landed on an alien planet and had his spaceship stolen. Your goal is find the spaceship so you can get off the planet and return home. To do this, you will need to make your way from the start to the exit of numerous levels which take place in a variety of environments.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Travellers Tales</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Puggsy (USA).jpg</image>
+		<video>./snaps/Puggsy (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Secret of Monkey Island, The (USA) (RE).chd</path>
+		<name>Secret of Monkey Island, The</name>
+		<sortname />
+		<desc>Deep in the Caribbean lies Melee Island, ruled by the beautiful governor Elaine Marley. The cruel pirate LeChuck is deeply in love with her - so deeply that he refuses to accept his own death! As a ghost, he dwells with his undead crew somewhere near the mysterious Monkey Island. You are Guybrush Threepwood, a young man whose only wish is to become a real pirate. At the Scumm Bar you meet three pirates who tell you'll have to complete three difficult tasks in order to be worthy of this title. Could Guybrush ever suspect that while trying to complete those tasks, he will encounter the governor Elaine Marley, fall in love with her, and face the anger of the dreadful ghost pirate LeChuck?!</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Secret of Monkey Island, The (USA) (RE).jpg</image>
+		<video>./snaps/Secret of Monkey Island, The (USA) (RE).mp4</video>
+	</game>
+	<game>
+		<path>./Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1).chd</path>
+		<name>The Amazing Spider-Man vs. The Kingpin</name>
+		<sortname />
+		<desc>The city of New York is certainly a great place to be, but not when there's the criminal element running about. Lucky for the NYPD, there's also the heroic Spider-Man on their side! But now one of the biggest criminals in the city, Wilson Fisk, a.k.a. The Kingpin, tells the press that a bomb planted somewhere in New York will detonate within 24 hours. He directly accuses Spider-Man, who ends up with the police on his back. You have to find the bomb and restore your image, but Dr. Octopus, Electro and Mysterio will try to block your way.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1).jpg</image>
+		<video>./snaps/Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Wolfchild (USA).chd</path>
+		<name>Wolfchild</name>
+		<sortname />
+		<desc>Dr. Kal Morrow, expert in genetic research and creation of human-animal hybrids, has been kidnapped and his family brutally murdered by the terrorist organization CHIMERA. His surviving son Saul takes it upon himself to avenge his family. Using his father's research, he turns into a man-wolf and sets out to find CHIMERA's base and defeat their leader Karl Draxx.</desc>
+		<rating>1</rating>
+		<releasedate>19930319T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Core Design</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Wolfchild (USA).jpg</image>
+		<video>./snaps/Wolfchild (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Starblade (USA).chd</path>
+		<name>StarBlade</name>
+		<sortname />
+		<desc>Sitting in the gunner position of a "GeoSword" fightercraft, you must shoot your way through the enemy armada and bring the fight to their base planet, Redeye. Altogether you'll have around 10 missions to get through before the galaxy is safe and your wingmen will help you along the way. And during those missions, you'll be expected to shoot out the sides of huge enemy battlecruisers, travel inside of enemy carriers and travel through the canyons of Redeye to deliver your payload.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Tecnosoft</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Starblade (USA).jpg</image>
+		<video>./snaps/Starblade (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dracula Unleashed.m3u</path>
+		<name>Dracula Unleashed</name>
+		<sortname />
+		<desc>Dracula Unleashed combines the quality of a Hollywood film, a challenging mystery to solve, and a new twist on the Dracula legend. Ten years after the events described in Bram Stoker's original novel, Alexander Morris, a wealthy American, has arrived in England to discover the true circumstances of his brother's mysterious death.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940501T000000</releasedate>
+		<developer>ICOM Simulations</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Dracula Unleashed.jpg</image>
+		<video>./snaps/Dracula Unleashed.mp4</video>
+	</game>
+	<game>
+		<path>./Fahrenheit (USA).m3u</path>
+		<name>Fahrenheit</name>
+		<sortname />
+		<desc>Fahrenheit is an interactive movie that puts players into the flame-resistant suit of a firefighter. You are the new guy in the firehouse. Last week, you saved three lives. But now, you're on a new squad, and have to prove yourself to them.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Fahrenheit (USA).jpg</image>
+		<video>./snaps/Fahrenheit (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Night Trap (USA) (Disc 1) (Rerelease).cue</path>
+		<name>Night Trap (Disc 1)</name>
+		<sortname />
+		<desc>Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace. Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because "nice people" can sometimes turn out to be, yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood. ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead!</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/Night Trap (USA) (Disc 1) (Rerelease).jpg</image>
+		<video>./snaps/Night Trap (USA) (Disc 1) (Rerelease).mp4</video>
+	</game>
+	<game>
+		<path>./Lunar - The Silver Star (USA) (RE).chd</path>
+		<name>Lunar: The Silver Star</name>
+		<sortname>Lunar 1</sortname>
+		<desc>Welcome to the world of Lunar, where dragons yet live and magic is valued above all else. Join Alex, the young adventurer as he begins a quest with his friends to save their land from the crushing advances of the Magic Emperor. Explore dungeons, fight terrifying monsters, and gather information from the locals as you advance toward the explosive confrontation with the Magic Emperor himself! Exciting, menu-driven combat will keep you challenged until the last.</desc>
+		<rating>0.75</rating>
+		<releasedate>19931201T000000</releasedate>
+		<developer>Working Designs</developer>
+		<publisher>Game Arts</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Lunar - The Silver Star (USA) (RE).jpg</image>
+		<video>./snaps/Lunar - The Silver Star (USA) (RE).mp4</video>
+	</game>
+</gameList>

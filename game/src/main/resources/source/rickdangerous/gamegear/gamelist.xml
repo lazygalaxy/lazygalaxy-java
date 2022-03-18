@@ -1,0 +1,597 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Game Gear</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Baku Baku (USA).zip</path>
+		<name>Baku Baku</name>
+		<sortname />
+		<desc>The Minister approaches the King to tell him that his only daughter, the Princess, wants a new pet. But the King says she already has too many, and she can't take care of so many animals. Thus the Minister purposes a contest of skill and daring to select the Royal Zookeeper. Master Piggy then sends his pupil, Polly, to participate in the contest.</desc>
+		<rating>0.4</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Minato Giken</developer>
+		<publisher>Sega</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Baku Baku (USA).jpg</image>
+		<video>./snaps/Baku Baku (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dr. Robotnik's Mean Bean Machine (USA, Europe).zip</path>
+		<name>Dr. Robotnik's Mean Bean Machine</name>
+		<sortname />
+		<desc>Okay, so this Dr. Robotnik guy, he decides to turn something else into robots. This time, it's the citizens of Beanville! It's up to you to save them from their doom. You drop pairs of beans into the dungeons, trying to create groups of four in matching colors. You must challenge Dr. Robotnik's robots to a battle and defeat them, and eventually face the Eggman himself.</desc>
+		<rating>0.6</rating>
+		<releasedate>19931201T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Sega</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Dr. Robotnik's Mean Bean Machine (USA, Europe).jpg</image>
+		<video>./snaps/Dr. Robotnik's Mean Bean Machine (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Crystal (USA, Europe).zip</path>
+		<name>Dragon Crystal</name>
+		<sortname />
+		<desc>Dragon Crystal is a dungeon crawler with RPG elements, along the lines of classics such as Rogue or Nethack. Without relying on a story, the game throws you into a randomly generated world which you should explore carefully - and most importantly, where you must survive! The complex, maze-like levels reveal their structure only after you cover the corresponding map areas. Your goal in each level is to reach a teleporter which will take you to the next one.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Dragon Crystal (USA, Europe).jpg</image>
+		<video>./snaps/Dragon Crystal (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./GG Aleste II ~ Power Strike II (Japan, Europe).zip</path>
+		<name>GG Aleste II</name>
+		<sortname />
+		<desc>Though it shares its Western title with the Master System shooter, GG Aleste II takes place in the far future, and not the steam-punk 1930s of Powerstrike II for the Master System. As in GG Aleste, you're the woman pilot of a space fighter faced with the task of saving the world by destroying a lot of alien spaceships and technological plantlife.</desc>
+		<rating>0.75</rating>
+		<releasedate>19931001T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/GG Aleste II ~ Power Strike II (Japan, Europe).jpg</image>
+		<video>./snaps/GG Aleste II ~ Power Strike II (Japan, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Land of Illusion Starring Mickey Mouse (USA, Europe, Brazil).zip</path>
+		<name>Disney's Land of Illusion Starring Mickey Mouse</name>
+		<sortname />
+		<desc>Mickey Mouse is reading an interesting book and suddenly find himself in a strange, dreamy village. he is told that a curse has been placed on the village, turning its good magic into bad one. The evil Phantom, who lives in the castle in the clouds, is responsible for that! Mickey decides to help the villagers and to defeat the evil Phantom.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930501T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Land of Illusion Starring Mickey Mouse (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Land of Illusion Starring Mickey Mouse (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man (USA).zip</path>
+		<name>Mega Man</name>
+		<sortname />
+		<desc>The insane scientist, Dr. Wily, has created an army of evil robots, and is using them to take over the world! A robot called Rock volunteers to be converted into a fighting robot, Mega Man. As Mega Man, he takes on Dr. Wily and his powerful robots.</desc>
+		<rating>0.7</rating>
+		<releasedate>19951001T000000</releasedate>
+		<developer>Freestyle</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Mega Man (USA).jpg</image>
+		<video>./snaps/Mega Man (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Prince of Persia (USA, Europe).zip</path>
+		<name>Prince of Persia</name>
+		<sortname />
+		<desc>The Grand Vizier Jaffar has thrown you into a dark dungeon and plans to marry the girl of your dreams in an hour. You're not going to let that happen are you? Try to escape from the dungeon, take out Jaffar's guards, find your way through the Sultan's palace and defeat Jaffar himself. Now go, you've got 60 minutes!.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Domark</developer>
+		<publisher>Domark</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Prince of Persia (USA, Europe).jpg</image>
+		<video>./snaps/Prince of Persia (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Puyo Puyo Tsuu (Japan).zip</path>
+		<name>Puyo Puyo Tsuu</name>
+		<sortname />
+		<desc>A falling block game in which the goal is the combine four or more blocks of the same color which then disappear. The remain blocks will fall down and can produce combos which can cause special blocks (can only be destroyed by eliminating adjunct blocks) to appear at the enemies field.</desc>
+		<rating>0.8</rating>
+		<releasedate>19941216T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Compile</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Puyo Puyo Tsuu (Japan).jpg</image>
+		<video>./snaps/Puyo Puyo Tsuu (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Ristar ~ Ristar - The Shooting Star (World).zip</path>
+		<name>Ristar: The Shooting Star</name>
+		<sortname />
+		<desc>An evil tyrant with a silly name (Greedy) has arisen to control a solar system full of sentient beings. He Corrupts the leaders of each world and thereby enslaves the populace. He has sent his minions in the disguise of planet natives into the worlds to enforce his rule.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950216T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Ristar ~ Ristar - The Shooting Star (World).jpg</image>
+		<video>./snaps/Ristar ~ Ristar - The Shooting Star (World).mp4</video>
+	</game>
+	<game>
+		<path>./Road Rash (USA).zip</path>
+		<name>Road Rash</name>
+		<sortname />
+		<desc>Road Rash is an aggressive motorcycle racing game where the player assumes the role of a biker who takes part in a series of illegal races across the U.S.A. Starting at the back of the pack the objective is always to finish first on a linear course, overtaking the other bikers. This is achieved by driving very well or by playing it dirty, knocking opponents of their bikes using clubs, crowbars or your bare hands. The other racers fight back in a similar fashion and there are also hazards. All the races take place on the regular road with normal traffic (in both directions) and the cops, as well as occasional oil slicks and stray cows.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940301T000000</releasedate>
+		<developer>Probe Software Ltd.</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Road Rash (USA).jpg</image>
+		<video>./snaps/Road Rash (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Shining Force - The Sword of Hajya (USA).zip</path>
+		<name>Shining Force: The Sword of Hajya</name>
+		<sortname />
+		<desc>After a prolonged war, the kingdoms of Cypress and Gardiana decided to join forces fighting the evil empire of Iom. Nick, the Prince of Cypress, that was conquered by Iom, had his hand turned into stone during the last battle, and therefore cannot wield his legendary Sword of Hajya. Nevertheless, he tries to recruit people who would help him to gain his kingdom back.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940624T000000</releasedate>
+		<developer>Sonic! Software Planning</developer>
+		<publisher>Sega</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Shining Force - The Sword of Hajya (USA).jpg</image>
+		<video>./snaps/Shining Force - The Sword of Hajya (USA).mp4</video>
+	</game>
+	<game>
+		<path>./GG Shinobi II, The ~ Shinobi II - The Silent Fury (World).zip</path>
+		<name>Shinobi II: The Silent Fury</name>
+		<sortname />
+		<desc>The second Shinobi game for the Game Gear, it’s a 2D side-scrolling platform game with basic strategy elements. You have to rescue the four elemental ninjas and their corresponding crystal. When you rescue a ninja they join up with you and you can switch to them. Each ninja has a different power and ability which must be used in order to progress through the game. The first four levels can be played in whichever order you want, when both the ninja and crystal have been recovered from all the levels the final level is unlocked.</desc>
+		<rating>0.85</rating>
+		<releasedate>19921201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/GG Shinobi II, The ~ Shinobi II - The Silent Fury (World).jpg</image>
+		<video>./snaps/GG Shinobi II, The ~ Shinobi II - The Silent Fury (World).mp4</video>
+	</game>
+	<game>
+		<path>./Sonic Chaos (USA, Europe, Brazil).zip</path>
+		<name>Sonic the Hedgehog: Chaos</name>
+		<sortname />
+		<desc>Join Sonic &amp; Tails in another adventure to defeat the evil Dr. Robotnik. It's a robot smashing, tail burning good time. Oh and BTW this gamegear game is the japanese version, the equivalent English version is Sonic the Hedgehog Chaos</desc>
+		<rating>0.65</rating>
+		<releasedate>19931123T000000</releasedate>
+		<developer>Aspect Co., Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Sonic Chaos (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Sonic Chaos (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil).zip</path>
+		<name>Sonic the Hedgehog: Triple Trouble</name>
+		<sortname />
+		<desc>Dr. Robotnik has stolen all the Chaos Emeralds, yet again, but when the experiment for his new weapon goes wrong, the Emeralds get scattered across the island. While Sonic &amp; Tails are out searching for them, Robotnik finds the yellow emerald and convinces Knuckles the Echidna that Sonic wants to steal all the other Emeralds. While all this is happening, Nack the Weasel seizes his chance to take the emeralds for himself while everyone else is pre-occupied. Now it's a 4-way race to retrieve the emeralds.</desc>
+		<rating>0.8</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Aspect Co., Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Sonic The Hedgehog 2 (World).zip</path>
+		<name>Sonic the Hedgehog 2</name>
+		<sortname />
+		<desc>Coming back from the vacation Sonic took after foiling the plans of Dr Robotnik, he finds that Tails and all his other animal friends are missing. Sonic finds a letter waiting for him.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Aspect Co., Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Sonic The Hedgehog 2 (World).jpg</image>
+		<video>./snaps/Sonic The Hedgehog 2 (World).mp4</video>
+	</game>
+	<game>
+		<path>./Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World).zip</path>
+		<name>Streets of Rage 2</name>
+		<sortname />
+		<desc>After Axel Stone, Blaze Fielding and Adam Hunter destroyed the evil Syndicate leader, Mr. X, the city became a peaceful place to live, and each one of them followed their own paths. One year later, after their reunion, Adam's brother Sammy returned from school to find their apartment in a mess, and Adam nowhere to be seen, and after calling his two friends, one of them notices a photo of Adam chained to a wall, next to someone they knew very well - Mr. X, who returned to turn the peaceful city once again into a war zone. Now, Axel, Blaze, Sammy, and Axel's good friend Max, a pro wrestler, must head out to stop Mr. X once again hopefully for good.</desc>
+		<rating>0.65</rating>
+		<releasedate>19930801T000000</releasedate>
+		<developer>Japan System House Co., Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+		<image>./boxart/Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World).jpg</image>
+		<video>./snaps/Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World).mp4</video>
+	</game>
+	<game>
+		<path>./Super Off Road (USA, Europe).zip</path>
+		<name>Super Off Road</name>
+		<sortname />
+		<desc>Super Off Road is the ultimate off-road racing event. Four tough trucks speed around rough and ready tracks packed with pitfalls, power-boosters and prizes. No one knows the meaning of sportsmanship here. Have you got the skill and determination to come out on top?</desc>
+		<rating>0.45</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Graftgold Creative Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Super Off Road (USA, Europe).jpg</image>
+		<video>./snaps/Super Off Road (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Super Space Invaders (USA, Europe).zip</path>
+		<name>Super Space Invaders</name>
+		<sortname />
+		<desc>Remember that arcade classic Invaders? Well this game takes it to the next level with harder aliens, bosses, power ups, and a variety of scenery! Invaders come in several configurations for you to try to blast, and power-ups help you with more weapons to choose from.</desc>
+		<rating>0.65</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>The Kremlin</developer>
+		<publisher>Domark</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Super Space Invaders (USA, Europe).jpg</image>
+		<video>./snaps/Super Space Invaders (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Super Star Wars - Return of the Jedi (USA, Europe).zip</path>
+		<name>Super Star Wars: Return of the Jedi</name>
+		<sortname />
+		<desc>You select your character from the movie (Luke Skywalker, Han Solo, Princess Leia, or Chewbacca) before each level, as each one has different abilities, and go try to beat levels based on the movie's scenes brandishing lightsabers, blasters or crossbows, etc. depending on your choice of character.</desc>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Black Pearl Software</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Super Star Wars - Return of the Jedi (USA, Europe).jpg</image>
+		<video>./snaps/Super Star Wars - Return of the Jedi (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Sylvan Tale (J) [T+Eng1.00_AGTP].zip</path>
+		<name>Sylvan Tale</name>
+		<sortname />
+		<desc>In "Sylvan Tale", you play a young warrior who strolls in the forest and suddenly notices a mysterious glowing object. He touches the object, and gets teleported to the land of Verda. A mysterious voice talk to him, saying that he has to visit six fortresses scattered across the land, and to retrieve six magic droplets, which is the only way to save the inhabitants of Verda from perishing.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950127T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Sylvan Tale (J) [T+Eng1.00_AGTP].jpg</image>
+		<video>./snaps/Sylvan Tale (J) [T+Eng1.00_AGTP].mp4</video>
+	</game>
+	<game>
+		<path>./Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil).zip</path>
+		<name>Disney's Lucky Dime Caper Starring Donald Duck, The</name>
+		<sortname />
+		<desc>Lucky Dime Caper is a 2D platform game featuring Donald Duck in search of Uncle Scrooge's lucky dime, stolen by Magica De Spell.</desc>
+		<rating>0.85</rating>
+		<releasedate>19911001T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Vampire - Master of Darkness (USA).zip</path>
+		<name>Vampire: Master of Darkness</name>
+		<sortname />
+		<desc>You play as a psychologist trying to defeat Dracula. This requires you to fight your way through several spooky locations such as cemeteries, laboratories, castles or a house of wax dolls. To defeat your enemies, you can use several primary and secondary weapons. Primary weapons are close combat weapons ranging from knifes to rapiers and axes, that differ in range and efficiency. Secondary weapons are long-range weapons (pistols, bombs etc.) with limited ammunition. The game features 5 Rounds divided into 3 stages. At the end of each stage, a boss must be defeated.</desc>
+		<rating>0.85</rating>
+		<releasedate>19931104T000000</releasedate>
+		<developer>SIMS Co., Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Vampire - Master of Darkness (USA).jpg</image>
+		<video>./snaps/Vampire - Master of Darkness (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Gunstar Heroes (Japan).zip</path>
+		<name>Gunstar Heroes</name>
+		<sortname />
+		<desc>The mad Colonel Red has discovered four crystals that imprison a deadly being known as GoldenSilver, and plans on unleashing it onto the population of the planet! He must be stopped! Enter the Gunstar Heroes, Red and Blue! Unleash some mad blasting action onto the Colonel's army and don't let him bring GoldenSilver to life!! fate of Gunstar-9 is in your hands!</desc>
+		<rating>0.85</rating>
+		<releasedate>19950324T000000</releasedate>
+		<developer>M2 Co., Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Gunstar Heroes (Japan).jpg</image>
+		<video>./snaps/Gunstar Heroes (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil).zip</path>
+		<name>Disney's Castle of Illusion Starring Mickey Mouse</name>
+		<sortname />
+		<desc>To save his girlfriend Minnie from the evil witch Mizrabel, Mickey Mouse must venture into the Castle of Illusion. Crossing six levels (including a magical forest, a toy land and a candy world), he must collect the gems of the rainbow in order to confront and defeat the witch.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910601T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Sonic The Hedgehog (Japan, Europe, Brazil) (Rev 1).zip</path>
+		<name>Sonic the Hedgehog</name>
+		<sortname />
+		<desc>SEGA's mascot Sonic the Hedgehog made his debut in a famous Genesis title, but Sega's 8-bit systems got their own version of the platformer, featuring the same story and gameplay style, but different levels. To stop the evil Dr. Robotnik, Sonic must traverse six zones consisting of three levels each.</desc>
+		<rating>0.7</rating>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Ancient Co. Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Sonic The Hedgehog (Japan, Europe, Brazil) (Rev 1).jpg</image>
+		<video>./snaps/Sonic The Hedgehog (Japan, Europe, Brazil) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Wonder Boy - The Dragon's Trap (Europe).zip</path>
+		<name>Wonder Boy: The Dragon's Trap</name>
+		<sortname />
+		<desc>Wonder Boy: The Dragon's Trap is a direct sequel to Wonder Boy in Monster Land. When Tom-Tom defeats the MEKA dragon, the wounded beast casts a spell on him, turning him into a Lizard-Man. To regain your original human form, you have to find the Salamander Cross, hidden by the Vampire Dragon in Monster Land.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Westone Co., Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Wonder Boy - The Dragon's Trap (Europe).jpg</image>
+		<video>./snaps/Wonder Boy - The Dragon's Trap (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Ax Battler - A Legend of Golden Axe ~ Golden Axe (USA, Europe, Brazil).zip</path>
+		<name>Ax Battler: A Legend of Golden Axe</name>
+		<sortname />
+		<desc>Use your wits and your razor sharp sword to recapture the Golden Axe from the diabolical Death Adder. Defeat skeletons and giant bats in dark, deep chasms and caves. And summon Earth, Thunder and Fire Magic to fight gargoyles that come to life before your eyes!</desc>
+		<rating>0.65</rating>
+		<releasedate>19920301T000000</releasedate>
+		<developer>Aspect Co., Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Ax Battler - A Legend of Golden Axe ~ Golden Axe (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Ax Battler - A Legend of Golden Axe ~ Golden Axe (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Bubble Bobble (USA).zip</path>
+		<name>Bubble Bobble</name>
+		<sortname />
+		<desc>Bubble Bobble is the story of two humans, Bub and Bob who wander into the mysterious cave of monsters and magically turn into dinosaurs. The only way to transform back is to reach the end of the cave.</desc>
+		<rating>0.95</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Bubble Bobble (USA).jpg</image>
+		<video>./snaps/Bubble Bobble (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Woody Pop (USA, Europe, Brazil).zip</path>
+		<name>Woody Pop</name>
+		<sortname />
+		<desc>With a wooden paddle, which in fact is Woody the tree spirit, you bounce your ball against bricks laid out in a big house filled with toys. The toys will come out to disturb you. When you hit "mystery bricks", wind-up toy soldiers or robots come out, obstructing your ball. On some levels, a toy train will cross your path as well. Speaking of wells, the bottom of the screen is not a big black hole as in most other games of this kind – instead the whole covers only a part of the wall, so that even if you miss the ball, it might bounce back in the corners.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Woody Pop (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Woody Pop (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Tails Adventure ~ Tails Adventures (World) (En,Ja).zip</path>
+		<name>Tails Adventures</name>
+		<sortname />
+		<desc>Before Tails met Sonic the Hedgehog he lived on Cocoa Island, a place that isn't on the map. It's an island pulled up by the Chaos Emeralds. Suddenly, while relaxing, Tails hears an explosion that seems like it's coming from inside the island. A Flicky tells Tails that Battle Kukku has invaded the island. He also tells Tails that Battle Kukku is mining here for the Chaos Emeralds, to obtain it's power. Tails gears up and heads for his quest to find the machine parts to build his weapon to defeat the evil Battle Kukku. There are however major plot differences between the Japanese and the western release.</desc>
+		<rating>0.75</rating>
+		<releasedate>19951101T000000</releasedate>
+		<developer>Aspect Co., Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Tails Adventure ~ Tails Adventures (World) (En,Ja).jpg</image>
+		<video>./snaps/Tails Adventure ~ Tails Adventures (World) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Chuck Rock (World).zip</path>
+		<name>Chuck Rock</name>
+		<sortname />
+		<desc>Chuck Rock is your typical average cave man. He likes to spend his Sunday afternoons watching football and drinking beer. Unfortunately, his peaceful existence is interrupted one day when his wife, Ophelia Rock, is kidnapped by the village wierdo, Gary Gritter. So, Chuck is rather upset about this whole situation and you have to help him make things right. The game is a side-scrolling platformer. Chuck fights of a variety of dinosaurs using his belly-buster attack and a jump kick. Occasionally he has to pick up and throw rocks to defeat enemies and allow him to jump to greater heights.</desc>
+		<rating>0.65</rating>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Chuck Rock (World).jpg</image>
+		<video>./snaps/Chuck Rock (World).mp4</video>
+	</game>
+	<game>
+		<path>./Defenders of Oasis (USA, Europe).zip</path>
+		<name>Defenders of Oasis</name>
+		<sortname />
+		<desc>A long, long time ago, the legendary king Jamseed defeated the evil Ahriman, the spirit of darkness. But just before, Ahriman managed to send into the world his most horrifying servant: the dragon Zahhark. Years have passed, Zahhark was defeated by the descendants of Jamseed, but its own descendants continued menacing the kingdom of Shanadar. Many generations later, you, the young Prince of Shanadar, has to confront the evil. Zahhark's offsprings plan to destroy the kingdom, and the Prince must first seek aid in a neighboring country, accompanied by a beautiful Princess, by the Genie from a lamp, and other friends.</desc>
+		<rating>0.8</rating>
+		<releasedate>19921201T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Defenders of Oasis (USA, Europe).jpg</image>
+		<video>./snaps/Defenders of Oasis (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Krusty's Fun House (USA, Europe).zip</path>
+		<name>Krusty's Fun House</name>
+		<sortname />
+		<desc>Krusty the Clown's Fun House has been overrun by rats. You must help him to herd the rats into trap machines to clear them out. In order to do so, Krusty must manipulate his environment to set up pathways so that the rats are headed in the right direction. Objects that Krusty move around include blocks, fans, and pipe pieces. The trap machines are operated by other recognizable Simpson's characters: Bart, Homer, Sideshow Mel, and Corporal Punishment.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930301T000000</releasedate>
+		<developer>Audiogenic Software Ltd.</developer>
+		<publisher>Flying Edge</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Krusty's Fun House (USA, Europe).jpg</image>
+		<video>./snaps/Krusty's Fun House (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Simpsons, The - Bart vs. the Space Mutants (USA, Europe).zip</path>
+		<name>Simpsons: Bart vs the Space Mutants, The</name>
+		<sortname />
+		<desc>Bart vs. The Space Mutants is a platform game where the player goes into the role of Bart Simpson (from the TV show The Simpsons) and must stop the Space Mutants from invading Springfield.</desc>
+		<rating>0.4</rating>
+		<releasedate>19921201T000000</releasedate>
+		<developer>Imagineering</developer>
+		<publisher>Flying Edge</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Simpsons, The - Bart vs. the Space Mutants (USA, Europe).jpg</image>
+		<video>./snaps/Simpsons, The - Bart vs. the Space Mutants (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Spider-Man (USA, Europe).zip</path>
+		<name>Spider-Man</name>
+		<sortname />
+		<desc>America's Superhero, the Amazing Spider-Man, is in serious trouble. The Kingpin has vowed to destroy New York and he's assembled a vast army of villains to help, including Dr. Octopus, The Hobgoblin, Venom, Electro, The Lizard, and The Sandman.</desc>
+		<rating>0.55</rating>
+		<releasedate>19920601T000000</releasedate>
+		<developer>B.I.T.S.</developer>
+		<publisher>Flying Edge</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Spider-Man (USA, Europe).jpg</image>
+		<video>./snaps/Spider-Man (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Terminator, The (USA, Europe).zip</path>
+		<name>Terminator, The</name>
+		<sortname />
+		<desc>The Terminator licensed game for the Sega consoles was a fairly standard side-scrolling platform game. However, the game's six levels mirror the story-line of The Terminator movie very closely as you take on the role of Kyle Reese and his quest to save Sarah Connor from termination. Because the game follows the movie so closely, the first mission which involves blowing up the SkyNet computer and escaping through time is one of the hardest and something that most players remember with love/hate.</desc>
+		<rating>0.5</rating>
+		<releasedate>19921001T000000</releasedate>
+		<developer>Probe Software Ltd.</developer>
+		<publisher>Virgin</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Terminator, The (USA, Europe).jpg</image>
+		<video>./snaps/Terminator, The (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./GG Shinobi, The ~ Shinobi (World) (Rev 1).zip</path>
+		<name>Shinobi</name>
+		<sortname />
+		<desc>As with the original games, Shinobi for the GG (the first portable member of the franchise) is a action side-scroller in which you take the role of an elemental ninja seeking revenge, your task to clear several stages filled with evil ninja and other assorted enemies.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/GG Shinobi, The ~ Shinobi (World) (Rev 1).jpg</image>
+		<video>./snaps/GG Shinobi, The ~ Shinobi (World) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Alien 3 (USA, Europe).zip</path>
+		<name>Alien 3</name>
+		<sortname />
+		<desc>The ALIENS are fast, spit acid and are right behind you! The motion tracker is your only warning. No time to think, no time to catch your breath! Can't see very far ahead in these air ducts. Hard to breathe. Face-huggers can be anywhere. You have the firepower to blast the ALIENS with your machine gun, flame thrower and grenade launcher. You know what you have to do, rescue the trapped prisoners and end this nightmare! Just keep telling yourself, "This isn't really happening. It's only a game.</desc>
+		<rating>0.7</rating>
+		<releasedate>19921101T000000</releasedate>
+		<developer>Probe Software Ltd.</developer>
+		<publisher>Arena Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Alien 3 (USA, Europe).jpg</image>
+		<video>./snaps/Alien 3 (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Lunar - Sanposuru Gakuen (Japan) [T-En by Aeon Genesis &amp; Some Good Shit Translations v1.00].zip</path>
+		<name>Lunar: Sanposuru Gakuen</name>
+		<sortname />
+		<desc>This is a side-story, set in the same world as the famous Lunar RPGs: Silver Star and Eternal Blue. The town of Burg is populated by harvesters, and you take control of two girls, Ellie and Lena. One day, they are sent to the island of Ien where they should study magic, and there begins their adventure. The game is a traditional Japanese-style RPG. You navigate your party through a top-down world, visiting towns and hostile areas. Enemy encounters are random, the battles are turn-based and are viewed from first-person perspective.</desc>
+		<rating>0.65</rating>
+		<releasedate>19960112T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Game Arts</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Lunar - Sanposuru Gakuen (Japan) [T-En by Aeon Genesis &amp; Some Good Shit Translations v1.00].jpg</image>
+		<video>./snaps/Lunar - Sanposuru Gakuen (Japan) [T-En by Aeon Genesis &amp; Some Good Shit Translations v1.00].mp4</video>
+	</game>
+	<game>
+		<path>./Royal Stone (Japan) [T-En by Aeon Genesis v1.00] [n].zip</path>
+		<name>Royal Stone: Hirakareshi Toki no Tobira</name>
+		<sortname />
+		<desc>Royal Stone: Hirakareshi Toki no Tobira is a strategy RPG for the Sega Game Gear and a sequel to Crystal Warriors. The game follows the story of Eva, a former knight from Martalia, exiled from her kingdom for betraying the trust of the people and turning against her own team.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950224T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Royal Stone (Japan) [T-En by Aeon Genesis v1.00] [n].jpg</image>
+		<video>./snaps/Royal Stone (Japan) [T-En by Aeon Genesis v1.00] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Coca-Cola Kid (Japan) [T-En by Filler v1.1].zip</path>
+		<name>Sassou Shounen Eiyuuden Coca-Cola Kid</name>
+		<sortname />
+		<desc>Coca Cola Kid is platformer starring the eponymous mascot of the Coca Cola company in the 90s. On his way through the levels, the kid can make use of a skateboard, but has to continue by foot if knocked off. Enemies can be defeated by kicks and flying kicks, energy is -not surprisingly- restored by collecting cans of a certain soft drink. The game was released in Japan only.</desc>
+		<rating>0.65</rating>
+		<releasedate>19940508T000000</releasedate>
+		<developer>Aspect Co., Ltd.</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Coca-Cola Kid (Japan) [T-En by Filler v1.1].jpg</image>
+		<video>./snaps/Coca-Cola Kid (Japan) [T-En by Filler v1.1].mp4</video>
+	</game>
+	<game>
+		<path>./Shining Force Gaiden - Final Conflict (Japan) [T-En by Shining Force Central v070606 Final].zip</path>
+		<name>Shining Force Gaiden: Final Conflict</name>
+		<sortname />
+		<desc>One of the three gaiden (side-story) Shining Force games for GameGear. The events of the game take place in a time period between the first and the second mainstream Shining Force games. After Max, the leader of the first Shining Force, defeated the Dark Dragon, peace was restored to the world. However, the sorceress Mishaela took control over the forces of evil. Pursuing her, Max' comrades got injured and were forced to quit. Upon returning back to their hometown, they found out Mishaela has already taken the Elder hostage. Lead by the young warrior Ian, the Force has to find Max and to defeat Mishaela.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950630T000000</releasedate>
+		<developer>Sonic! Software Planning</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Shining Force Gaiden - Final Conflict (Japan) [T-En by Shining Force Central v070606 Final].jpg</image>
+		<video>./snaps/Shining Force Gaiden - Final Conflict (Japan) [T-En by Shining Force Central v070606 Final].mp4</video>
+	</game>
+</gameList>

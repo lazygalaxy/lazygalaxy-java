@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>BBC Micro</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Citadel.ssd</path>
+		<name>Citadel</name>
+		<sortname />
+		<desc>Citadel is a classic arcade adventure game with puzzle-solving elements. The game requires players to explore a castle and find five hidden crystals and return them to their rightful place. The player must then teleport to a separate set of locations to complete their task. Once the task is completed, the player is free to roam the castle to try to achieve the maximum possible score if they haven't already done so. The only way to see the final congratulatory message is to score 99 points.</desc>
+		<rating>0.83</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Michael Jakobsen</developer>
+		<publisher>Superior Software</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Citadel.jpg</image>
+		<video>./snaps/Citadel.mp4</video>
+	</game>
+	<game>
+		<path>./Galaforce.ssd</path>
+		<name>Galaforce</name>
+		<sortname />
+		<desc>Galaforce is a straight forward shoot-em-up. Your ships encounters wave after wave of alien ships which attack you in formation. Some ships require more than one hit to destroy them. Every 10th wave or so there is a super wave consisting of hordes of ships which require multiple hits to destroy.</desc>
+		<rating>0.80</rating>
+		<releasedate>19860901T000000</releasedate>
+		<developer>Kevin Edwards</developer>
+		<publisher>Superior Software</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Galaforce.jpg</image>
+		<video>./snaps/Galaforce.mp4</video>
+	</game>
+	<game>
+		<path>./Imogen.ssd</path>
+		<name>Imogen</name>
+		<sortname />
+		<desc>The objective is to assemble all sixteen spell fragments by solving the puzzles in each section of the game. The completed spell can then be activated to escape from the cavern. As a wizard, you can hold and use objects discovered in the caves, and also transform yourself into different creatures - a monkey to climb ropes and trees, and a cat to leap rocks and wide chasms. It is possible to swap between these characters at any stage in the game. You can’t get killed, but there is a limit on the number of times you can change character.</desc>
+		<rating>0.79</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Michael St. Aubyn</developer>
+		<publisher>Micro Power</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Imogen.jpg</image>
+		<video>./snaps/Imogen.mp4</video>
+	</game>
+	<game>
+		<path>./PlanB-altkeys.ssd</path>
+		<name>Plan B</name>
+		<sortname />
+		<desc>Plan A, to bomb the rogue central computer has failed. The next step is PLAN B... you control a single war drone teleported inside the complex. Defeating the security system is enough but getting out again...? You are in charge of a single war drone. The job, explore the Togrian Computer Complex. Destroy the computer parts, fight off security robots and escape. To get out you will need to find 10 keys to get the front door open. You will also need to find other keys to open other doors within the complex.</desc>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Andrew Foord</developer>
+		<publisher>Bug-Byte</publisher>
+		<genre>Action</genre>
+		<image>./boxart/PlanB-altkeys.jpg</image>
+		<video>./snaps/PlanB-altkeys.mp4</video>
+	</game>
+	<game>
+		<path>./Repton.ssd</path>
+		<name>Repton</name>
+		<sortname />
+		<desc>Explore several levels of an underground maze in a quest to find all the diamonds (some held in locked safes), while avoiding running out of time or being trapped or killed by falling rocks and monsters hatched from eggs.</desc>
+		<rating>0.75</rating>
+		<releasedate>19850601T000000</releasedate>
+		<developer>Tim Tyler</developer>
+		<publisher>Superior Software</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Repton.jpg</image>
+		<video>./snaps/Repton.mp4</video>
+	</game>
+	<game>
+		<path>./Repton2.ssd</path>
+		<name>Repton 2</name>
+		<desc>Each level requires you to solve a series of puzzles by determining your routes carefully. Scattered throughout the 16 levels are all the jigsaw pieces of a 42-piece puzzle. When each piece is collected it reappears at the bottom of the first screen. The surface of the first screen cannot be accessed immediately because the way is blocked by 5 skulls. These skulls do, however, disapper. One pair disappears when each of the following tasks is accomplished: collecting all the earth, collecting all the diamonds, killing all the monsters, using all the transporters, collecting 41 out of the 42 puzzle pieces.</desc>
+		<image>./boxart/Repton2.jpg</image>
+		<video>./snaps/Repton2.mp4</video>
+		<rating>0.73</rating>
+		<releasedate>19851122T000000</releasedate>
+		<developer>Tim Tyler</developer>
+		<publisher>Superior Software</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Repton3.ssd</path>
+		<name>Repton 3</name>
+		<desc>Repton 3 is much larger than its predecessors - it has 24 fascinating screens. All the favourite Repton characters have been retained, together with several new ones: a creeping poisonous fungus, time bombs, time capsules and golden crowns. Each screen comprises a series of puzzles. Many of these are interlinked and you may have to solve a number of small puzzles to enable you to tackle a large one. The puzzles may, in some cases, seem impossible - but we assure you that Repton 3 can be completed.</desc>
+		<image>./boxart/Repton3.jpg</image>
+		<video>./snaps/Repton3.mp4</video>
+		<rating>0.93</rating>
+		<releasedate>19861122T000000</releasedate>
+		<developer>Matthew Atkinson</developer>
+		<publisher>Superior Software</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./StarDrifter.ssd</path>
+		<name>Star Drifter</name>
+		<sortname />
+		<desc>One of the Class VII B ships of the ill fated Galactic Earth space... totally silent. Non humanoid life forms have been detected on board. Enter the ship and take part in this extraordinary graphic adventure through 120 rooms to solve the enigma of the STAR DRIFTER.</desc>
+		<rating>0.70</rating>
+		<releasedate>19860501T000000</releasedate>
+		<developer>Tim J. Wilkinson &amp; John R. Day</developer>
+		<publisher>Firebird</publisher>
+		<genre>Action</genre>
+		<image>./boxart/StarDrifter.jpg</image>
+		<video>./snaps/StarDrifter.mp4</video>
+	</game>
+	<game>
+		<path>./StarshipCommand.ssd</path>
+		<name>Starship Command</name>
+		<sortname />
+		<desc>Starship Command is a multidirectional shooter ... The player assumes the role of captain of a battle starship, charged with defending the frontiers of space from hostile alien ships, which come in two sizes — large and small. Some of the larger ships have cloaking devices which make them invisible. Damage is inflicted on ships when they are shot or rammed by other ships ... The player vessel remains locked in the centre of the screen and the world rotates and moves around it.</desc>
+		<rating>0.90</rating>
+		<releasedate>19830401T000000</releasedate>
+		<developer>Peter Irvin</developer>
+		<publisher>Acornsoft</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/StarshipCommand.jpg</image>
+		<video>./snaps/StarshipCommand.mp4</video>
+	</game>
+	<game>
+		<path>./ChuckieEgg.ssd</path>
+		<name>Chuckie Egg</name>
+		<desc>As Hen-House Harry, the player must collect the twelve eggs positioned in each level, before a countdown timer reaches zero. In addition there are piles of seed which may be collected to increase points and stop the countdown timer for a while, but will otherwise be eaten by hens that patrol the level, causing them to pause. If the player touches a hen or falls through a gap in the bottom of the level, he loses a life.</desc>
+		<image>./boxart/ChuckieEgg.jpg</image>
+		<video>./snaps/ChuckieEgg.mp4</video>
+		<rating>0.83</rating>
+		<releasedate>19840501T000000</releasedate>
+		<developer>Doug Anderson</developer>
+		<publisher>A&amp;F Software</publisher>
+		<genre>Platform</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./DareDevil-altkeys.ssd</path>
+		<name>Daredevil Dennis</name>
+		<desc>So you think you could be a stuntman? Well test your skills against these hazards and see if you're still game. There are only three different scams in this movie, so you shouldn't find the going too tough! There's no denying that the money's good, but the question you should be asking yourself is will you live to spend it? If you can ride a motorcyle - and wetbike - two of the frames should be child's play, but for the snow scenes you'll need to be of Olympic class.</desc>
+		<image>./boxart/DareDevil-altkeys.jpg</image>
+		<video>./snaps/DareDevil-altkeys.mp4</video>
+		<rating>0.75</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Simon Pick</developer>
+		<publisher>Visions</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Exile.ssd</path>
+		<name>Exile</name>
+		<desc>Exile is a single-player action-adventure video game ... The game was designed and programmed by Peter Irvin (author of Starship Command) and Jeremy Smith (author of Thrust). It is often cited as one of the earliest examples of a Metroidvania style game and featured "realistic gravity, inertia and object mass years before players understood the concept of a physics engine... an astounding level of AI, stealth-based gameplay, a logical ecosystem governing the world's creatures and a teleportation mechanic that feels startlingly like a predecessor to Portal</desc>
+		<image>./boxart/Exile.jpg</image>
+		<video>./snaps/Exile.mp4</video>
+		<rating>0.96</rating>
+		<releasedate>19881117T000000</releasedate>
+		<developer>Peter Irvin and Jeremy Smith</developer>
+		<publisher>Superior Software / Acornsoft</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Thrust-altkeys.ssd</path>
+		<name>Thrust</name>
+		<desc>The Resistance is about to launch a major offensive against the Empire. In preparation for this, they have captured several starships, but they lack the essential power sources for these formidable craft, Klystron Pods. You have been commissioned by the Resistance to steal these pods from the Empire's storage planets. To do so, you must locate the pod, hover just above it, activate your spaceship's tractor beam and thrust away from the pod. Once the beam has locked onto the pod, you can deactivate the tractor beam. You must then carry the pod away from the planet.</desc>
+		<image>./boxart/Thrust-altkeys.jpg</image>
+		<video>./snaps/Thrust-altkeys.mp4</video>
+		<rating>0.83</rating>
+		<releasedate>19860719T000000</releasedate>
+		<developer>Jeremy Smith</developer>
+		<publisher>Superior Software</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./MrEe.ssd</path>
+		<name>Mr. Ee</name>
+		<desc>You control the wily wizard who can tunnel through the earth to collect the cherries. Pursuing him is a band of Umphs who chase him round the screen. These can be killed in either of two ways: The wizard owns a Crystal Ball which, when thrown, bounces round the screen until it hits something, or is recaught by the wizard. If it hits a creature the Ball disappears for several seconds before re-materialising in the wizard's hand. Alternatively he can kill a pursuer by running under an apple or pushing an apple from the side. It will fall onto a Monster if timed correctly.</desc>
+		<image>./boxart/MrEe.jpg</image>
+		<video>./snaps/MrEe.mp4</video>
+		<rating>0.77</rating>
+		<releasedate>19841216T000000</releasedate>
+		<developer>Adrian Stephens</developer>
+		<publisher>Micro Power</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Boffin.ssd</path>
+		<name>Boffin</name>
+		<desc>The aim of Professor Boffin is to pass through a series of caves as quickly as possible by destroying all of the unlucky horseshoes in each cavern and then touching the resident owl, guardian of each cave.</desc>
+		<image>./boxart/Boffin.jpg</image>
+		<video>./snaps/Boffin.mp4</video>
+		<rating>0.78</rating>
+		<releasedate>19841004T000000</releasedate>
+		<developer>Paul O'Malley</developer>
+		<publisher>Addictive Games</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./EliteTapeFF-altkeys.ssd</path>
+		<name>Elite</name>
+		<desc>Acornsoft Elite is the first in a new generation of 3-D space games featuring interstellar travel in a distant cluster of galaxies in the outer universe.  Command your Cobra space ship in a fantastic voyage of discovery and adventure, a supreme test of your combat, navigational and entrepeneurial skills. Trade between countless planets, using the proceeds to equip your ship with heatseeking missles, beam lasers and other weapons.</desc>
+		<image>./boxart/EliteTapeFF-altkeys.jpg</image>
+		<video>./snaps/EliteTapeFF-altkeys.mp4</video>
+		<rating>0.87</rating>
+		<releasedate>19840710T000000</releasedate>
+		<developer>Ian Bell &amp; David Braben</developer>
+		<publisher>Acornsoft</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./SuperInvaders.ssd</path>
+		<name>Super Invaders</name>
+		<desc>You are being bombarded by waves of invading aliens. The only way to resist invasion and avoid subsequent annihilation is to destroy the aliens before they land. You have three Defenders, whose hyper-velocity missiles will instantly vaporise their target on impact. The Defenders can shelter from the onslaught behind four bastions, although even these cannot survive indefinitely.</desc>
+		<image>./boxart/SuperInvaders.jpg</image>
+		<video>./snaps/SuperInvaders.mp4</video>
+		<rating>0.75</rating>
+		<releasedate>19840203T000000</releasedate>
+		<developer>Geoff Crammond</developer>
+		<publisher>Acornsoft</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Contraption.ssd</path>
+		<name>Contraption</name>
+		<desc>The potty professor has invented the craziest crankiest machine ever devised - the Contraption! Enter his zany world and explore the weird and wonderful rooms of his mansion. To keep the machine going the professor must feed it with Golden Apples. Search the zany screens for the Golden Apples and feed them into the Contraption between each of the 10 screens.</desc>
+		<image>./boxart/Contraption.jpg</image>
+		<video>./snaps/Contraption.mp4</video>
+		<rating>0.76</rating>
+		<releasedate>19850724T000000</releasedate>
+		<developer>Dave Mann &amp; Helen Mann</developer>
+		<publisher>ICON/Audiogenic</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Frak.ssd</path>
+		<name>Frak</name>
+		<desc>A quirky and amusing cave man romp with probably the finest graphics yet programmed into a game on the Beeb. Frak! is a side scrolling platform game in which the player controls a caveman named Trogg. In each level, Trogg's object is to find three keys located on the level. The platforms and ladders (replaced by logs, ropes and chains on later levels) constituting the level are laid out in a very tricky form. When Trogg steps off a platform, he does not fall straight down, but instead slides diagonally downwards. Added to the fact that long falls will kill Trogg, this calls for very skilful jumping among the platforms.</desc>
+		<image>./boxart/Frak.jpg</image>
+		<video>./snaps/Frak.mp4</video>
+		<rating>0.76</rating>
+		<releasedate>19840513T000000</releasedate>
+		<developer>Nick Pelling</developer>
+		<publisher>Aardvark software</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Ghouls.ssd</path>
+		<name>Ghouls</name>
+		<desc>Many have tried to rescue the power jewels from the creepy mansion on the top of the hill. None have lived to tell the tale. Now it is up to you to try to wrest the treasure from the mansion's deadly inhabitants. Run through the Spectre's Lair, Horrid Hall, the Spider's Parlour and Death Tower. Leap over the poison-smeared spikes, scamper along the moving platforms and contracting floorboards, run past bouncing spiders, and use the powerful springs to propel you onto overhanging platforms.</desc>
+		<image>./boxart/Ghouls.jpg</image>
+		<video>./snaps/Ghouls.mp4</video>
+		<rating>0.77</rating>
+		<releasedate>19850212T000000</releasedate>
+		<developer>David J. Hoskins</developer>
+		<publisher>Micro Power</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./MagicMushrooms.ssd</path>
+		<name>Magic Mushrooms</name>
+		<desc>Guide Murphy around the screen to collect all the Magic Mushrooms, while avoiding the monsters that sometimes try to get in his way. Then, make your way to the chequered flag to complete the screen. But time is limited, so keep an eye on the clock at the tope of the screen. Murphy starts with three lives and there are nine screens of increasing difficulty to compete with. Rate yourself as extremely skilful if you have mastered all nine!</desc>
+		<image>./boxart/MagicMushrooms.jpg</image>
+		<video>./snaps/MagicMushrooms.mp4</video>
+		<rating>0.77</rating>
+		<releasedate>19850801T000000</releasedate>
+		<developer>Neil Raine, Tim Dobson &amp; Richard Clay</developer>
+		<publisher>Acornsoft</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Monsters.ssd</path>
+		<name>Monsters</name>
+		<desc>Pursued by monsters along walls and up and down ladders, your only hope of survival is to try to trap them in holes which you dig in their path. If a monster falls in, the hole must be filled in completely, or the monster will crawl out. Monsters can be killed in one of two ways: either by falling through holes which you dig and fill, or by being hit by monsters falling from above. If a monster is hit by a falling monster, both die. If you manage to kill all the monsters, you graduate to another screen.</desc>
+		<image>./boxart/Monsters.jpg</image>
+		<video>./snaps/Monsters.mp4</video>
+		<rating>0.74</rating>
+		<releasedate>19830226T000000</releasedate>
+		<developer>Tim Dobson</developer>
+		<publisher>Acornsoft</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./PalaceOfMagic.ssd</path>
+		<name>Palace of Magic</name>
+		<desc>By practising acts of benevolence and goodwill, you have offended the evil wizard Caldeti. He has banished you to one of his old homes, the 'Palace of Magic'. The palace and its surrounding land is littered with magical objects and mysterious creatures. It is rumoured that there is also a hidden transporter - your only means of escape from this enchanted place.</desc>
+		<image>./boxart/PalaceOfMagic.jpg</image>
+		<video>./snaps/PalaceOfMagic.mp4</video>
+		<rating>0.75</rating>
+		<releasedate>19871101T000000</releasedate>
+		<developer>Martyn Howard</developer>
+		<publisher>Superior Software/Acornsoft</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./CastleQuest.ssd</path>
+		<name>Castle Quest</name>
+		<desc>The object of the game is to find the wizard's treasure which he has hidden somewhere in his castle. To do this you will need to thoroughly explore the castle. A challenging and absorbing new game for the BBC Micro featuring Micro Power's revolutionary MP4 Scrollerama system offering exciting full four-directional panoramic scrolling. With Castle Quest you decide where the real time action will take place, and your powers of logic and lightning reaction will meet, and perhaps one day beat the challenge of Castle Quest.</desc>
+		<image>./boxart/CastleQuest.jpg</image>
+		<video>./snaps/CastleQuest.mp4</video>
+		<rating>0.91</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Tony Sothcott</developer>
+		<publisher>Micro Power</publisher>
+		<genre>Platform</genre>
+	</game>
+</gameList>

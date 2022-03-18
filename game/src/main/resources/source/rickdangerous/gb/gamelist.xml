@@ -1,0 +1,596 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Game Boy</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Castlevania II - Belmont's Revenge (USA, Europe).zip</path>
+		<name>Castlevania II: Belmont's Revenge</name>
+		<sortname />
+		<desc>The curse of the Belmont family has struck again in the second Castlevania adventure for the Game Boy. This game takes place 15 years after the first monochrome adventure. Christopher's son has disappeared, and 4 mysterious castles have risen out of the fog. He must travel to each castle and conquer the demons he finds there in order to rescue his son. Perhaps Dracula is not as dead as we thought.</desc>
+		<rating>0.8</rating>
+		<releasedate>19921126T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Castlevania II - Belmont's Revenge (USA, Europe).jpg</image>
+		<video>./snaps/Castlevania II - Belmont's Revenge (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Cave_Noire_Japan_en.zip</path>
+		<name>Cave Noire</name>
+		<sortname />
+		<desc>Cave Noire is a roguelike. The game evolves around four quests (killing monsters, freeing fairies or collecting gold/orbs) with ten difficulties each. The difficulty determines how big the target number is, the stats the player starts with and what monsters are encountered. Starting a quest creates a randomly generated dungeon where the player has one chance to reach the goal - death means a new dungeon has to be created. Beating a difficultly level unlocks the next; this is also the one thing the game saves.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910419T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Cave_Noire_Japan_en.jpg</image>
+		<video>./snaps/Cave_Noire_Japan_en.mp4</video>
+	</game>
+	<game>
+		<path>./Faceball 2000 (USA).zip</path>
+		<name>Faceball 2000</name>
+		<sortname />
+		<desc>Faceball 2000 is a first-person shooter. You control a H.A.P.P.Y.F.A.C.E., or Holographically Assisted Physical Pattern Yielded For Active Computerized Embarkation. The graphics consist of flat shaded corridors. Enemies are all simple geometric shapes with smiley faces on them. Although the graphics are simple, they allow for full freedom of movement, not unlike Wolfenstein 3-D.</desc>
+		<rating>0.9</rating>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Xanth Software</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Faceball 2000 (USA).jpg</image>
+		<video>./snaps/Faceball 2000 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Heiankyo Alien (USA).zip</path>
+		<name>Heiankyo Alien</name>
+		<sortname />
+		<desc>1000 years ago the city of Kyo was suddenly invaded by aliens. A Kebiishi (knight of the past) was entrusted to defend the city.</desc>
+		<rating>0.6</rating>
+		<releasedate>19900401T000000</releasedate>
+		<developer>Live Planning</developer>
+		<publisher>Meldac</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Heiankyo Alien (USA).jpg</image>
+		<video>./snaps/Heiankyo Alien (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Metroid II - Return of Samus (World).zip</path>
+		<name>Metroid II: Return of Samus</name>
+		<sortname />
+		<desc>This is the sequel to the very popular Metroid for the NES. In Metroid 2, you control Samus Aran in her quest to rid the planet SR388 of the Metroid parasites. After killing the space pirate Mother Brain in the original Metroid, Samus must take on this adventure to prevent the Metroids from multiplying throughout the galaxy. Samus soon finds out that the Metroids have mutated, making them much more difficult to defeat.</desc>
+		<rating>0.85</rating>
+		<releasedate>19920512T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Metroid II - Return of Samus (World).jpg</image>
+		<video>./snaps/Metroid II - Return of Samus (World).mp4</video>
+	</game>
+	<game>
+		<path>./Operation C (USA).zip</path>
+		<name>Operation C</name>
+		<sortname />
+		<desc>A side-scrolling shooter. You play a Rambo-esque character that goes around shooting everything in sight, collecting weapon upgrades and bonuses</desc>
+		<rating>0.9</rating>
+		<releasedate>19910202T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Ultra Games</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Operation C (USA).jpg</image>
+		<video>./snaps/Operation C (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2).zip</path>
+		<name>Super Mario Land 2: 6 Golden Coins</name>
+		<sortname />
+		<desc>Second in the Game Boy's line of Mario games, this one takes the evolutionary steps that Super Mario 3 for the NES took with it's predecessors. New graphics, power-ups, challenges, and a completely original storyline. A bad version of Mario, Wario, takes over Mario's castle and locks him out using 6 golden coins. Mario must search for said coins all over Mario Land to take back his castle and go one-on-one with Wario himself.</desc>
+		<rating>0.9</rating>
+		<releasedate>19921102T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2).jpg</image>
+		<video>./snaps/Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2).mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2).zip</path>
+		<name>The Legend of Zelda: Link's Awakening</name>
+		<sortname />
+		<desc>The fourth game in the Zelda series although it does not take place in Hyrule. After being attacked at sea, Link's ship sinks, and he finds himself stranded on Koholint Island. He awakens to see a beautiful woman looking down at him. He soon learns the island has a giant egg on top of a mountain that the Wind Fish inhabits deep inside. Link is told to "awaken the wind fish and all will be answered," so Link sets out on another quest.</desc>
+		<rating>0.95</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2).jpg</image>
+		<video>./snaps/Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2).mp4</video>
+	</game>
+	<game>
+		<path>./Trip World (Europe).zip</path>
+		<name>Trip World</name>
+		<sortname />
+		<desc>Thanks to the Maita Flower, Trip World is at peace. It is being protected by an old Shabubu, a member of a race of bunny-like beings. The flower grows on the holy mountain known as Mount Dubious. However, one day the old Shabubu is attacked and the Maita Flower is stolen. Trip World becomes disarranged and its inhabitants don't stop quarreling with each other. But there is one hope in the form of the old Shabubu's grandson, Yacopu (also spelled Yakopoo).</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Trip World (Europe).jpg</image>
+		<video>./snaps/Trip World (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Wario Land - Super Mario Land 3 (World).zip</path>
+		<name>Wario Land: Super Mario Land 3</name>
+		<sortname />
+		<desc>Wario, Mario's greedy rival from Super Mario Land 2: 6 Golden Coins, is more determined than ever to get a castle after being booted out of Mario's. He has heard that the pirates of Kitchen Island have a golden Statue of Princess Toadstool that's worth a king's ransom! Wario figures that if he swipes the Princess' statue for himself, as well as all the other loot the pirates have hoarded, he'll have more than enough cash for a castle that's even bigger and better than Mario's!.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Wario Land - Super Mario Land 3 (World).jpg</image>
+		<video>./snaps/Wario Land - Super Mario Land 3 (World).mp4</video>
+	</game>
+	<game>
+		<path>./Kid Dracula (USA, Europe).zip</path>
+		<name>Kid Dracula</name>
+		<sortname />
+		<desc>Kid Dracula is a side-scroller and a parody of the Castlevania series. The difference is you play as a young vampire rather than a vampire killer.</desc>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Kid Dracula (USA, Europe).jpg</image>
+		<video>./snaps/Kid Dracula (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario Land (World) (Rev 1).zip</path>
+		<name>Super Mario Land</name>
+		<sortname />
+		<desc>Once upon a time, there was a peaceful world called Sarasaland. In this world there were 4 kingdoms named Birabuto, Muda, Easton and Chai. One day, the skies of Sarasaland were suddenly covered by a huge black cloud. From a crack in this cloud, the unknown space monster Tatanga emerged to try to conquer Sarasaland. Tatanga hypnotized the people of all the kingdoms so that he could control them in any way he liked. In this way he took over Sarasaland. Now, he wants to marry Princess Daisy of Sarasaland and make her his queen.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900928T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Super Mario Land (World) (Rev 1).jpg</image>
+		<video>./snaps/Super Mario Land (World) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Kirby's Dream Land (USA, Europe).zip</path>
+		<name>Kirby's Dream Land</name>
+		<sortname />
+		<desc>Dedede, King of Dream Land, is a penguin-like creature who is too gluttonous for his own good. Gathering food for his midnight feast, he got carried away and ended up taking all the food from the inhabitants of his country. One of them, a pink little guy named Kirby, decides to travel all the way to King Dedede's palace and retrieve the lost food by any means.</desc>
+		<rating>0.8</rating>
+		<releasedate>19921105T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Kirby's Dream Land (USA, Europe).jpg</image>
+		<video>./snaps/Kirby's Dream Land (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Sword of Hope, The (USA).zip</path>
+		<name>Sword of Hope</name>
+		<sortname />
+		<desc>A dragon has gained control over the king of Riccar, manipulating him into removing the Sword of Hope from a painting, releasing its curse. Summoning the dark power mammon the dragon turned the people of Riccar into trees. When Prince Theo is born, the king tries to murder him, but Theo is saved by the brave knight Pascal who flees with him into a forest where three magicians live who conceal the king's castle underground to prevent the evil from spreading. After living in the forest for 15 years, Prince Theo is finally strong enough to try and stop the dragon, using the Sword of Hope one of the magicians had retrieved.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910702T000000</releasedate>
+		<developer>Seika Corporation</developer>
+		<publisher>Kemco</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Sword of Hope, The (USA).jpg</image>
+		<video>./snaps/Sword of Hope, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Sword of Hope II, The (USA).zip</path>
+		<name>Sword of Hope II</name>
+		<sortname />
+		<desc>500 years ago King Winder had sealed the evil Demon Zakdos within a casket, thus ending the dark war. The great wizard Colin pledged that he and his descendants would build and protect a temple around Zakdos' prison. However, as a thief enters the temple and breaks the casket, Zakdos is set free and murders all that are left of the clan of Colin except for a young boy named Mute. To make things worse, the Sword of Hope, that has sealed away an evil dragon, is also stolen. You take control of Prince Theo who, with the help of Mute and other characters, must stop Zakdos and retrieve the Sword of Hope before the dragon awakens.</desc>
+		<rating>0.35</rating>
+		<releasedate>19960902T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Sword of Hope II, The (USA).jpg</image>
+		<video>./snaps/Sword of Hope II, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Gargoyle's Quest (USA, Europe).zip</path>
+		<name>Gargoyle's Quest</name>
+		<sortname />
+		<desc>The friendly Ghoul Realm was invaded by aliens know as the Destroyers ages ago. The Destroyers almost captured the Ghoul Realm except a powerful fire came from the sky and destroyed them. The Realm is threatened again and the secret of the fire must be recovered.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Gargoyle's Quest (USA, Europe).jpg</image>
+		<video>./snaps/Gargoyle's Quest (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy Legend, The (USA).zip</path>
+		<name>Final Fantasy Legend, The</name>
+		<sortname>Final Fantasy 1</sortname>
+		<desc>The first 'Final Fantasy' title on the Game Boy, Legend allows you to choose from 8 different characters, from the usual human male or female to zombie, wererat, redbull (not the drink), clipper or mutant male or female. No matter which you choose, the goal stays the same.</desc>
+		<rating>0.65</rating>
+		<releasedate>19900930T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Final Fantasy Legend, The (USA).jpg</image>
+		<video>./snaps/Final Fantasy Legend, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy Legend II (USA).zip</path>
+		<name>Final Fantasy Legend II</name>
+		<sortname>Final Fantasy 2</sortname>
+		<desc>Final Fantasy Legend II, known in Japan as SaGa 2: Hihou Densetsu, is a role-playing video game set in a science fiction-based world where players take on the role of a four-person party. Most of the gameplay is carried over from the first game. The player navigates a character throughout the game world with a party of up to four characters, exploring areas and interacting with non-player characters. Most of the game occurs in towns, castles, caves, and similar areas.</desc>
+		<rating>0.7</rating>
+		<releasedate>19911101T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Final Fantasy Legend II (USA).jpg</image>
+		<video>./snaps/Final Fantasy Legend II (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy Legend III (USA).zip</path>
+		<name>Final Fantasy Legend III</name>
+		<sortname>Final Fantasy 3</sortname>
+		<desc>The final (no joke) Final Fantasy Legend title to grace the Game Boy, FFLIII tells the story of a great flood which destroys cities in the past, present and future.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930929T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Final Fantasy Legend III (USA).jpg</image>
+		<video>./snaps/Final Fantasy Legend III (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy Adventure (USA).zip</path>
+		<name>Final Fantasy Adventure</name>
+		<sortname>Final Fantasy 4</sortname>
+		<desc>In the Empire of Glaive, a gladiator-slave is forced to fight evil monsters controlled by the Dark Lord. But when his best friend is mortally wounded, he learns of a secret pendant which will give him great power. As the hero, you must battle your way out of the Dark Knight's castle and search through a dangerous world for the girl who has the pendant. But you discover she has been captured by the Dark Knight's men. To free her, you must find the legendary sword and fight off the Dark Knight's beasts and overlords through deserts, snowfields, lakes, forests, and caves. Are you ready for the adventure of your life?</desc>
+		<rating>0.95</rating>
+		<releasedate>19911102T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Final Fantasy Adventure (USA).jpg</image>
+		<video>./snaps/Final Fantasy Adventure (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tetris (World) (Rev 1).zip</path>
+		<name>Tetris</name>
+		<sortname />
+		<desc>This version of Tetris is one of many conversions of the famous block-stacking game, and was included with the Game Boy upon its release in several territories. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which then disappear. As rows are cleared, the pace of the game increases and the background changes, and the game ends if the stack reaches the top of the well.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890602T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Tetris (World) (Rev 1).jpg</image>
+		<video>./snaps/Tetris (World) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Battletoads (USA, Europe).zip</path>
+		<name>Battletoads</name>
+		<sortname />
+		<desc>The Dark Queen has attacked and kidnapped (toadnapped?) your best buddy. To make matters worse, she nabbed the best looking girl around! So, what will you do? Cry? Whimper? Hide? Call the Starcops? NO! Cause you're a Battletoad! Battletoads don't cry, hide or call for help! And they certainly don't whimper! They get MAD then they get EVEN! So grab your blaster, hop on the Toadster and go get 'em!</desc>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+		<image>./boxart/Battletoads (USA, Europe).jpg</image>
+		<video>./snaps/Battletoads (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Ghostbusters II (USA, Europe).zip</path>
+		<name>Ghostbusters II</name>
+		<sortname />
+		<desc>Loosely based on the movie of the same name, Ghostbusters II sees Virgo the Carpathian appear in New York city. He captures Diana's baby and it is up to the Ghostbusters to get him back. In order to accomplish this, the Ghostbusters: Igon, Ray, Peter and Winston, must chase Virgo through the courtrooms, the sewers, the apartments, the underground and the art museum.</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Ghostbusters II (USA, Europe).jpg</image>
+		<video>./snaps/Ghostbusters II (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Popeye 2 (USA).zip</path>
+		<name>Popeye 2</name>
+		<sortname />
+		<desc>Strange happenings are afoot once again in Sweethaven and only Popeye can make it right. In Popeye 2, our spinach lovin' hero must once again rescue Olive Oyl and make mincemeat of Bluto while looking after Swee'Pea, feeding Wimpy and keeping an eye on Jeep.</desc>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Copya System Ltd.</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Popeye 2 (USA).jpg</image>
+		<video>./snaps/Popeye 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Simpsons, The - Bart vs. the Juggernauts (USA, Europe).zip</path>
+		<name>Simpsons: Bart vs. the Juggernauts, The</name>
+		<sortname />
+		<desc>Bart Simpson here, on my way to the Springfield Arena to do battle with The Juggernauts, my all-time TV heroes. It isn't going to be easy. There's nobody tougher than The Juggernauts (except maybe yours truly), but i'll be fighting 'em on my own turf: Krustyland Amusement Park, Moe's Tavern, and the Nuclear Power Plant, just to name a few. No one knows this, but I've got a whole new set of cool manuevers AND a new technological edge - I can CHEAT! I'm psyched. I'm ready to rock and roll. On to victory, Man! Your pal, Bart Simpson</desc>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Imagineer</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Simpsons, The - Bart vs. the Juggernauts (USA, Europe).jpg</image>
+		<video>./snaps/Simpsons, The - Bart vs. the Juggernauts (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Batman - The Video Game (World).zip</path>
+		<name>Batman: The Video Game</name>
+		<sortname />
+		<desc>He's totally new. Totally tough. And he'll stop at nothing to make sure justice prevails! From the dark streets of GOTHAM CITY to the deepest corners of the criminal underground comes the CAPED CRUSADER as you've never seen him before.</desc>
+		<rating>0.85</rating>
+		<releasedate>19900602T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Batman - The Video Game (World).jpg</image>
+		<video>./snaps/Batman - The Video Game (World).mp4</video>
+	</game>
+	<game>
+		<path>./Catrap (USA).zip</path>
+		<name>Catrap</name>
+		<sortname />
+		<desc>Banished to a mysterious underground labyrinth of complex mazes, two explorers are faced with one chance to reverse the curse: solve all 100 puzzles set out in mazes before them.</desc>
+		<rating>0.65</rating>
+		<releasedate>19901231T000000</releasedate>
+		<developer>ASK Kodansha</developer>
+		<publisher>Asmik</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Catrap (USA).jpg</image>
+		<video>./snaps/Catrap (USA).mp4</video>
+	</game>
+	<game>
+		<path>./DuckTales 2 (USA).zip</path>
+		<name>Disney's DuckTales 2</name>
+		<sortname />
+		<desc>While in the basement of Uncle Scrooge's mansion, Huey, Dewey and Louie discover an old piece of paper. When they show it to Uncle Scrooge, he recognizes it as part of his great, great Uncle Fergus McDuck's legendary treasure map! With the remaining parts of the map hidden around the world, it's up to Uncle Scrooge to find them and discover Fergus McDuck's secret treasure!.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/DuckTales 2 (USA).jpg</image>
+		<video>./snaps/DuckTales 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./DuckTales (USA).zip</path>
+		<name>Disney's DuckTales</name>
+		<sortname />
+		<desc>While in the basement of Uncle Scrooge's mansion, Huey, Dewey and Louie discover an old piece of paper. When they show it to Uncle Scrooge, he recognizes it as part of his great, great Uncle Fergus McDuck's legendary treasure map! With the remaining parts of the map hidden around the world, it's up to Uncle Scrooge to find them and discover Fergus McDuck's secret treasure!</desc>
+		<rating>0.75</rating>
+		<releasedate>19901002T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/DuckTales (USA).jpg</image>
+		<video>./snaps/DuckTales (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dr. Mario (World) (Rev 1).zip</path>
+		<name>Dr. Mario</name>
+		<sortname />
+		<desc>In this Tetris-style game, you play as Dr. Mario, who must drop differently coloured pills onto viruses to remove them from the bottle. Each pill is split into two, with each side being of one of three different colours, red, blue or yellow. Align three pills of the same colour to a virus of the corresponding colour (or any combination of pills and viruses totaling four or more) and it will be removed from the bottle, along with the aligned pills. The level is cleared when there are no viruses left, and the game is over when the pills reach the top and Dr. Mario can't drop any more pills.</desc>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Dr. Mario (World) (Rev 1).jpg</image>
+		<video>./snaps/Dr. Mario (World) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Kid Icarus - Of Myths and Monsters (USA, Europe).zip</path>
+		<name>Kid Icarus: Of Myths and Monsters</name>
+		<sortname />
+		<desc>An evil force is threatening to invade the Angel Land. Palutena, the ruler-goddess, sends a warrior named Pit on a quest to prepare for the upcoming attack. Pit must find three ancient treasures and face down the evil force. Kid Icarus: Of Mythis and Monsters is the Game Boy version of one of Nintendo's classic side scrolling platform/adventure games. Throughout the levels Pit will collect hearts, upgrade his strength, collect treasures, and learn to fly.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Kid Icarus - Of Myths and Monsters (USA, Europe).jpg</image>
+		<video>./snaps/Kid Icarus - Of Myths and Monsters (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Parodius (Europe).zip</path>
+		<name>Parodius</name>
+		<sortname />
+		<desc>This is mostly the parody of Gradius (Nemesis on some systems), with some flavor from other shoot-em-ups, like Twinbee. The series is available on numerous platforms. The game is a right-to-left scrolling shoot-em-up. You can choose from 4 different flying creatures, with different weapons. You must finish 7 stages, each having a boss at the end. You may start at either one, but must complete every level to advance to the final stage.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910405T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Parodius (Europe).jpg</image>
+		<video>./snaps/Parodius (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Pinball - Revenge of the 'Gator (USA, Europe).zip</path>
+		<name>Pinball: Revenge of the Gator</name>
+		<sortname />
+		<desc>It's pinball with gators! This arcade-style title brings pinball on the go with the Game Boy! Score as many points as possible, but don't let your ball be eaten by the 'Gator!</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
+		<image>./boxart/Pinball - Revenge of the 'Gator (USA, Europe).jpg</image>
+		<video>./snaps/Pinball - Revenge of the 'Gator (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./R-Type (USA, Europe).zip</path>
+		<name>R-Type</name>
+		<sortname />
+		<desc>R-Type is a side scrolling shoot 'em up best known for its extremely tough and strategic gameplay. You control the R-9 spaceship as it launches a last-ditch effort to repel the evil Bydo empire.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910502T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/R-Type (USA, Europe).jpg</image>
+		<video>./snaps/R-Type (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./SolarStriker (World).zip</path>
+		<name>SolarStriker</name>
+		<sortname />
+		<desc>You are in control of the ultra high-performance fighter ship, the SolarStriker. It is your mission to attack and destroy the main Reticulon base. There are six vertical scrolling stages that you must progress through in order to destroy Reticulon. Each stage is under control of a boss which must be destroyed to clear the area. One of the first shooters for GameBoy.</desc>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Minakuchi Engineering Co., Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/SolarStriker (World).jpg</image>
+		<video>./snaps/SolarStriker (World).mp4</video>
+	</game>
+	<game>
+		<path>./Super R.C. Pro-Am (USA, Europe).zip</path>
+		<name>Super R.C. Pro-Am</name>
+		<sortname />
+		<desc>Super R.C. Pro-Am is the Game Boy update to Rare's classic radio controlled car game. 4 computer or human racers attempt to get around the track as fast as possible while avoiding hazards like oil slicks and traffic cones. There are also weapons that you can use to disable the other cars temporarily. The goal of the game is to collect the letter icons found on the tracks that spell "NINTENDO." Collecting the letters allows you to move up to faster cars and eventually win the championship.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910102T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Super R.C. Pro-Am (USA, Europe).jpg</image>
+		<video>./snaps/Super R.C. Pro-Am (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).zip</path>
+		<name>Teenage Mutant Ninja Turtles: Fall of the Foot Clan</name>
+		<sortname>Teenage Mutant Ninja Turtles 1</sortname>
+		<desc>The Turtles' first Game Boy game is a fairly simple platforming-style game, where Leonardo, Michaelangelo, Raphael, and Donatello must battle against Krang and Shredder and save their friend April O'Neil in the process.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Ultra Games</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).jpg</image>
+		<video>./snaps/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).zip</path>
+		<name>Teenage Mutant Ninja Turtles II: Back from the Sewers</name>
+		<sortname>Teenage Mutant Ninja Turtles 2</sortname>
+		<desc>Teenage Mutant Ninja Turtles II: Back from the Sewers is the second Teenage Mutant Ninja Turtles for the Game Boy. It is a sequel to Fall of the Foot Clan. This time, Splinter was captured by Krang. Leonardo, Michelangelo, Raphael and Donatello go in search of their master until arriving at Krang and Shredder.</desc>
+		<rating>0.65</rating>
+		<releasedate>19920521T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).jpg</image>
+		<video>./snaps/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Picross 2 (eng).gb</path>
+		<name>Picross 2</name>
+		<sortname />
+		<desc>Picross 2 is the Japanese only sequel to the Game Boy puzzle game, Mario's Picross. Your goal is to reveal the hidden picture inside each grid by chipping away the correct squares. Clues along the grid's edges help you figure out which squares should be chipped away, and which should be left alone. The puzzles are much more advanced than those in Mario's Picross - easy puzzles are in a 15x15 grid, while standard Picross puzzles are four 15x15 grids connected together, solved one section at a time.</desc>
+		<rating>0.75</rating>
+		<releasedate>19961019T000000</releasedate>
+		<developer>Creatures, Inc.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<image>./boxart/Picross 2 (eng).jpg</image>
+		<video>./snaps/Picross 2 (eng).mp4</video>
+	</game>
+	<game>
+		<path>./Balloon Kid (USA, Europe).zip</path>
+		<name>Balloon Kid</name>
+		<desc>Balloon Kid is a unique side-scrolling platform game. You control a little girl who's brother has floated away on a big bunch of balloons. It's up to you to chase after him through 8 treacherous levels. Instead of the usual jumping from platform to platform, you have a pair of balloons that allow you to float through the level. You must control your height carefully by tapping the 'A' button. Meanwhile, the screen is always scrolling to the left, and you have to keep up.</desc>
+		<image>./boxart/Balloon Kid (USA, Europe).jpg</image>
+		<video>./snaps/Balloon Kid (USA, Europe).mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19901002T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220217T184001</lastplayed>
+	</game>
+	<game>
+		<path>./Avenging Spirit (USA, Europe).zip</path>
+		<name>Avenging Spirit</name>
+		<desc>In Avenging Spirit the protagonist is a spirit out for revenge. He has been murdered by a group of gangsters and his girlfriend has taken hostage by them. Her father uses his brand new machine to call the man's spirit back from the dead, telling him that they are holding his daughter ransom unless he turns over his research of ghost energy.</desc>
+		<image>./boxart/Avenging Spirit (USA, Europe).jpg</image>
+		<video>./snaps/Avenging Spirit (USA, Europe).mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19921201T000000</releasedate>
+		<developer>C.P. Brain</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<playcount>4</playcount>
+		<lastplayed>20220217T222708</lastplayed>
+	</game>
+	<game>
+		<path>./X (Japan).zip</path>
+		<name>X</name>
+		<desc>In X the player pilots a space tank sent to another planet to defend the earth from an alien invasion. There are ten missions with different objective ranging from restoring power to a power plant, to 'seek and destroy' missions. The player can guide the tank freely across the over world, but there are enemy patrols that will open fire. The alternative is going though underground tunnels, where there are spots to replenish the tank and its weapons. The player only has a limited amount of time for each mission, and shielding for the tank. If either runs out, the game is over.</desc>
+		<image>./boxart/X (Japan).jpg</image>
+		<video>./snaps/X (Japan).mp4</video>
+		<releasedate>19920529T000000</releasedate>
+		<developer>Argonaut Software Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em up</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220222T091846</lastplayed>
+	</game>
+</gameList>

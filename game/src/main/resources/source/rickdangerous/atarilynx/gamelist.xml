@@ -1,0 +1,387 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Lynx</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Battle Wheels (USA, Europe).zip</path>
+		<name>Battle Wheels</name>
+		<sortname />
+		<desc>In the year 2019, Humankind turned to more and more dangerous games for its entertainment. Fight in high-tech cars armed with missiles, machine guns, flame-throwers, and more through dead cities and desert wastelands; a sixteen arena battle royal! Fight as a team or go solo! Custom build your car from the ground up or buy one from the Bodyshop. You can even go in on foot! Fast paced 3-D six player action like you've never seen before!.</desc>
+		<rating>0.5</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Beyond Games</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Battle Wheels (USA, Europe).jpg</image>
+		<video>./snaps/Battle Wheels (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./California Games (USA, Europe).zip</path>
+		<name>California Games</name>
+		<sortname />
+		<desc>Players can select sponsors (absent in some versions) and compete in events such as skateboarding, footbag, surfing, roller skating, flying disc (frisbee) and BMX. The surfing event is ranked by judges, which give a score to help the players improve their routine.</desc>
+		<rating>0.75</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/California Games (USA, Europe).jpg</image>
+		<video>./snaps/California Games (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Desert Strike - Return to the Gulf (USA, Europe).zip</path>
+		<name>Desert Strike: Return to the Gulf</name>
+		<sortname />
+		<desc>The first game in the Strike series. A year after the Gulf War, a self-styled general named Kilbaba (Muababa in the GBA version) takes over an Arab Emirate and threatens to start World War III against his western enemy, the United States. The whole world holds its breath as the President has chosen you to destroy Kilbaba and his terrorist army before he launches a nuclear attack on the world!.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Telegames</developer>
+		<publisher>Teque</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Desert Strike - Return to the Gulf (USA, Europe).jpg</image>
+		<video>./snaps/Desert Strike - Return to the Gulf (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Jimmy Connors' Tennis (USA, Europe).zip</path>
+		<name>Jimmy Connors' Tennis</name>
+		<sortname />
+		<desc>Using crosshairs, aim your ball to the other side of the court and hope you hit where you want. If you are lucky, you might even score an Ace. If not, you will need to be ready to return your opponent's return. Run back and forth as you try to keep hitting the ball over the net until your opponent misses, or you do. When you hit the ball, you will want to attempt changing the direction and speed of the ball to throw your opponent off balance. This is the real challenge of any tennis game.</desc>
+		<rating>0.45</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Hand Made Software, Ltd</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Jimmy Connors' Tennis (USA, Europe).jpg</image>
+		<video>./snaps/Jimmy Connors' Tennis (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Lemmings (USA, Europe).zip</path>
+		<name>Lemmings</name>
+		<sortname />
+		<desc>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Lemmings (USA, Europe).jpg</image>
+		<video>./snaps/Lemmings (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Ms. Pac-Man (USA, Europe).zip</path>
+		<name>Ms. Pac-Man</name>
+		<sortname />
+		<desc>In 1982, a sequel to the incredibly popular Pac-Man was introduced in the form of his girlfriend, Ms. Pac-Man. This sequel continued on the "eat the dots/avoid the ghosts" gameplay of the original game, but added new features to keep the title fresh.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Namco</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Ms. Pac-Man (USA, Europe).jpg</image>
+		<video>./snaps/Ms. Pac-Man (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Rampart (USA, Europe).zip</path>
+		<name>Rampart</name>
+		<sortname />
+		<desc>Tetris meets shoot-'em-up, Rampart was originally a one or two-player arcade game combining strategy and artillery action. Build your castle from Tetris-style pieces, place your cannons, bombard the enemy, try to repair, do it all over again. Later arcade revisions incorporated 3-player, and the PC conversion does as well, making it a faithful, entertaining classic for multiple players on the same PC.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Tengen</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Rampart (USA, Europe).jpg</image>
+		<video>./snaps/Rampart (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./S.T.U.N. Runner (USA, Europe).zip</path>
+		<name>S.T.U.N. Runner</name>
+		<sortname />
+		<desc>Based on the 1989 Atari Games (not to be confused with Atari Corporation, producers of the Lynx) coin-op by Ed Rotberg. It's 2492 and you must pilot your Sub-Terranean Underground Network (S.T.U.N.) craft at speeds over 900 miles per hour through a series of courses to retain your title as S.T.U.N. Runner, completing each course before time runs out.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Atari</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/S.T.U.N. Runner (USA, Europe).jpg</image>
+		<video>./snaps/S.T.U.N. Runner (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Xenophobe (USA, Europe).zip</path>
+		<name>Xenophobe</name>
+		<sortname />
+		<desc>Xenos. The very name strikes fear into every colonist's heart. A distress call is received from space stations orbiting your homeworld, then silence. A single ship escapes, piloted by a battered man who tells the tale of pods that hatch into acid-spitting Xenos.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Xenophobe (USA, Europe).jpg</image>
+		<video>./snaps/Xenophobe (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Zarlor Mercenary (USA, Europe).zip</path>
+		<name>Zarlor Mercenary</name>
+		<sortname />
+		<desc>WANTED: Hot gun for hire. Travel to several exotic and dangerous places. Discover several exotic and dangerous aliens and kill them. Kill lots. For cash. Buy more weapons and kill again. Bring up to 3 friends along and kill even more.</desc>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Zarlor Mercenary (USA, Europe).jpg</image>
+		<video>./snaps/Zarlor Mercenary (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Super Skweek (USA, Europe).zip</path>
+		<name>Super Skweek</name>
+		<sortname />
+		<desc>Super Skweek is a game inspired by the wide success of Chip's Challenge, and share some elements of that puzzler while combining other elements from games such as Pengo.</desc>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Loriciels</developer>
+		<publisher>Atari</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Super Skweek (USA, Europe).jpg</image>
+		<video>./snaps/Super Skweek (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bill &amp; Ted's Excellent Adventure (USA, Europe).zip</path>
+		<name>Bill &amp; Ted's Excellent Adventure</name>
+		<sortname />
+		<desc>The Lynx title based on the Keanu Reeves/Alex Winter film franchise actually takes place after the second film, Bill and Ted's Bogus Journey. Out for revenge after being humiliated by the high-school duo, Death kidnaps their "medieval babe" girlfriends from the first film, and drags them throughout history. Luckily, the girls are able to leave behind pages of the band's latest song as a trail for Bill and Ted to follow.</desc>
+		<rating>0.5</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Bill &amp; Ted's Excellent Adventure (USA, Europe).jpg</image>
+		<video>./snaps/Bill &amp; Ted's Excellent Adventure (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Todd's Adventures in Slime World (USA, Europe).zip</path>
+		<name>Todd's Adventures in Slime World</name>
+		<sortname />
+		<desc>While flying your spaceship, you crash land on a planet covered entirely in slime. You and a friend explore the labyrinthine planet of slime, armed with a water pistol and all manner of gadgets you find along the way in an effort to find your way back out. The game world is a giant maze with quirky hidden areas and plenty of original layout ideas. Depending on the game mode, you are either cooperating or competing with your "friend" to find and get to an exit first. Due to the massive sizes of the slime worlds (about 6 entries to choose from), games often take several hours to complete.</desc>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Atari</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Todd's Adventures in Slime World (USA, Europe).jpg</image>
+		<video>./snaps/Todd's Adventures in Slime World (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Batman Returns (USA, Europe).zip</path>
+		<name>Batman Returns</name>
+		<sortname />
+		<desc>Batman must move through four levels on his quest to stop the Penguin and Catwoman. Enemies trying to stop him include circus clowns on the streets, policemen (whom Catwoman put on his trail) on the roofs of Gotham City, and penguin commandos in the sewers and the Penguin's lair. Batman can beat them up with his fists or destroy them using Batarangs and acid vials (which must be collected first). Several of the levels end in boss encounters with the two main villains, while in the last level, Batman must also save industrialist Max Shreck from the Penguin's wrath before finishing him off.</desc>
+		<rating>0.55</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Batman Returns (USA, Europe).jpg</image>
+		<video>./snaps/Batman Returns (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Checkered Flag (USA, Europe).zip</path>
+		<name>Checkered Flag</name>
+		<sortname />
+		<desc>Checkered Flag is a 3D F1-style racing game. The racing game staples are here: single race, practice, and tournament. You can choose to set up a variety of options for each race, also. You can choose various weather conditions. Or, you can set up your car to change it's handling characteristics. There are 10 different tracks on which to race, each with a different theme. Some take place on sunny beaches, others take place in the arctic.</desc>
+		<rating>1</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Checkered Flag (USA, Europe).jpg</image>
+		<video>./snaps/Checkered Flag (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Crystal Mines II (USA, Europe).zip</path>
+		<name>Crystal Mines II: Buried Treasure</name>
+		<sortname />
+		<desc>Great treasure still lies deep in the abandoned Crystal Mines. But over the years, underground demons have made them deadly. Guide your robot through the mines, destroying demons and gathering great wealth. Or fail, and become history.</desc>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Songbird Productions</developer>
+		<publisher>Color Dreams</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Crystal Mines II (USA, Europe).jpg</image>
+		<video>./snaps/Crystal Mines II (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Ninja Gaiden (USA, Europe).zip</path>
+		<name>Ninja Gaiden</name>
+		<sortname />
+		<desc>Ninja Gaiden begins with a cinematic animation in which 2 ninjas duel to the death; one goes down. It is revealed that the doomed ninja is the father of Ryu Hayabusa. When Ryu learns of this, he embarks on a quest to find out who killed his father and why. This quest takes him to America to find an archaeologist with whom Ryu's father was working. From there, Ryu becomes embroiled in an evil, supernatural conspiracy involving a villain named Jaquio who has plans to use an ancient castle and some relics to unleash a terrifying evil upon the world.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Atari</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+		<image>./boxart/Ninja Gaiden (USA, Europe).jpg</image>
+		<video>./snaps/Ninja Gaiden (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Chip's Challenge (USA, Europe).zip</path>
+		<name>Chip's Challenge</name>
+		<sortname />
+		<desc>Nerdy Chip desperately wants to join the "Bit Busters" computer club, led by Melinda the Mental Marvel. However, before she'll let him in, he must prove his intelligence by passing the initiation test. 149 increasingly difficult levels, including a few hidden ones, await Chip in this tile-based puzzle game. Use tools such as keys, and special shoes to bypass obstacles. Manipulate switches to and use dirt blocks to build bridges across waterways. Avoid enemy creatures, grab all the computer chips in the level, and hurry to the exit: On top of everything else, there's a time limit!</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Atari</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Chip's Challenge (USA, Europe).jpg</image>
+		<video>./snaps/Chip's Challenge (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Scrapyard Dog (USA, Europe).zip</path>
+		<name>Scrapyard Dog</name>
+		<sortname />
+		<desc>In Scrapyard Dog you play the role of Louie, the junkyard guy, who's companion Scraps has been dognapped by the dastardly Mr. Big. Louie has bombs and cans at his disposal to use against the enemies, which include gangsters, rats, and mice. He can also use shields to protect himself on route to the sixteen checkpoints in the game. Louie must reach each checkpoint in a certain amount of time in order to save Scraps.</desc>
+		<rating>0.55</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>CSD</developer>
+		<publisher>Atari</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Scrapyard Dog (USA, Europe).jpg</image>
+		<video>./snaps/Scrapyard Dog (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Warbirds (USA, Europe).zip</path>
+		<name>Warbirds</name>
+		<sortname />
+		<desc>Warbirds is a first-person combat flight simulation game where players assume the role of a World War I fighter pilot taking control of a biplane, with the main objective being the elimination of enemies in order to win the war.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Warbirds (USA, Europe).jpg</image>
+		<video>./snaps/Warbirds (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Hydra (USA, Europe).zip</path>
+		<name>Hydra</name>
+		<sortname />
+		<desc>If being the best speedboat racer in the world were all there was to life, you'd live on easy street. But when the government of Hydra has asked for your help in defeating Hydra's enemies by couriering parts to a secret weapon, and those enemies know you're coming well then, life gets interesting.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Hydra (USA, Europe).jpg</image>
+		<video>./snaps/Hydra (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Blue Lightning (USA, Europe).zip</path>
+		<name>Blue Lightning</name>
+		<sortname />
+		<desc>The insanely evil General Drako is spreading his own special blend of spite and chaos around the globe. You are a top fighter pilot for the UN's Blue Lightning squad. You have to travel from continent to continent, and end Drako's plans at each stop using your awesome flight skills.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Atari</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Blue Lightning (USA, Europe).jpg</image>
+		<video>./snaps/Blue Lightning (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Dracula the Undead (USA, Europe).zip</path>
+		<name>Dracula the Undead</name>
+		<sortname />
+		<desc>In this game you play the role of Jonathan Harker, an Estate Agent who has visited Dracula's castle to conduct some business. The gameplay is a point and click style adventure except it has been tweaked to accommodate the Lynx controls. To interact with an object you move Jonathan next to the object with the D-Pad and then its name will pop up in the interaction bar. You then need to select an action such as Open, Close examine e.t.c.</desc>
+		<rating>0.95</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Hand Made Software, Ltd</developer>
+		<publisher>Atari</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Dracula the Undead (USA, Europe).jpg</image>
+		<video>./snaps/Dracula the Undead (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Electrocop (USA, Europe).zip</path>
+		<name>Electrocop</name>
+		<sortname />
+		<desc>Today, if a daughter of the President goes missing, I would look in the nearest bar. However, in the near future, the explanation is that she's been kidnapped by a Criminal Brain robot, and held in a booby-trapped lair. As the advanced hybrid Electrocop, your task is to rescue her within an hour.</desc>
+		<rating>0.4</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Atari</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Electrocop (USA, Europe).jpg</image>
+		<video>./snaps/Electrocop (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Gauntlet - The Third Encounter (USA, Europe).zip</path>
+		<name>Gauntlet: The Third Encounter</name>
+		<sortname />
+		<desc>Gauntlet: The Third Encounter is an arcade-style action game by Atari, that was released on the Atari Lynx handheld in 1990. The game can be played by one to four players simultaneously. The story: a crystal falls from the sky and lands in a castle, and it must be retrieved from within its 40 mazes type area.</desc>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Atari</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Gauntlet - The Third Encounter (USA, Europe).jpg</image>
+		<video>./snaps/Gauntlet - The Third Encounter (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./RoadBlasters (USA, Europe).zip</path>
+		<name>RoadBlasters</name>
+		<sortname />
+		<desc>RoadBlasters is a futuristic racing action game. The goal is to reach the finish line in one piece throughout each of 50 levels. Numerous enemies are out on the road to try and stop you, including armored cars, motorcycles, canons on the side of the road, landmines, and more.</desc>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/RoadBlasters (USA, Europe).jpg</image>
+		<video>./snaps/RoadBlasters (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Awesome Golf (USA, Europe).zip</path>
+		<name>Awesome Golf</name>
+		<desc>There are 3 courses to play one in the U.K one in the U.S and the third one in Japan. The gameplay involves you lining up your shot via an overhead view which when set up switches to a third person view. Whilst in this view you need to swing the club and stop it at the desired power and then stop it on the correct symbol to get the perfect hit. If you don't get it right you will either miss the ball or hit the earth. There are 14 clubs at your disposal, 8 irons, 3 woods 2 wedges and a putter which are selected by moving the hand cursor over you Golf bag and selecting the desired club.</desc>
+		<image>./boxart/Awesome Golf (USA, Europe).jpg</image>
+		<video>./snaps/Awesome Golf (USA, Europe).mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Hand Made Software, Ltd</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220217T190206</lastplayed>
+	</game>
+</gameList>

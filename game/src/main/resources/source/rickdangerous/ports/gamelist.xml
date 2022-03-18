@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Quake.sh</path>
+		<name>Quake</name>
+		<sortname />
+		<desc>In Quake, the player takes the role of the protagonist known as Ranger who was sent into a portal in order to stop an enemy code-named "Quake". The government had been experimenting with teleportation technology and developed a working prototype called a "Slipgate"; the mysterious Quake compromised the Slipgate by connecting it with its own teleportation system, using it to send death squads to the "Human" dimension in order to test the martial capabilities of humanity.</desc>
+		<rating>0</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>id Software, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Quake.jpg</image>
+		<video>./snaps/Quake.mp4</video>
+	</game>
+	<game>
+		<path>./Prince of Persia.sh</path>
+		<name>Prince Of Persia</name>
+		<sortname />
+		<desc>Prince of Persia was originally released in 1989 for the Apple II by Jordan Mechner. Mechner used film of his younger brother David running, jumping, and performing many of the Prince's actions. Mechner then rotoscoped the film to create the animations that give the Prince his fluid movement.</desc>
+		<rating>0.6</rating>
+		<releasedate>19891003T000000</releasedate>
+		<developer>Broderbund Software</developer>
+		<publisher>Broderbund Software</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Prince of Persia.jpg</image>
+		<video>./snaps/Prince of Persia.mp4</video>
+	</game>
+	<game>
+		<path>./XRick.sh</path>
+		<name>XRick</name>
+		<sortname />
+		<desc>Way before Lara Croft, back in the 1980's and early 1990's, Rick Dangerous was the Indiana Jones of computer games, running away from rolling rocks, avoiding traps, from South America to a futuristic missile base via Egypt and the Schwarzendumpf castle. XRrick is an exact clone of Rick Dangerous, produced by carefully cracking and reverse-engineering the orignal IBM PC (x86 CPU) and Atari ST (68k CPU) versions of the game, and then porting to C.</desc>
+		<developer>Core Design, Stéphane Gay </developer>
+		<publisher>Rainbird Software</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/XRick.jpg</image>
+		<video>./snaps/XRick.mp4</video>
+	</game>
+	<game>
+		<path>./Ultimate Doom.sh</path>
+		<name>Ultimate Doom</name>
+		<sortname />
+		<desc>Ultimate Doom takes you far beyond the realms of your experience. All three original episodes of the greatest, splattertastic, adrenaline pumping game ever made are here that's 27 levels of doomogerous gameplay to challenge even the most hardened gamer. But that's just for starters then, but only if you're tough enough, you can pick up the gauntlet of an all-new episode.</desc>
+		<rating>0.85</rating>
+		<releasedate>19950430T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>GT Interactive</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Ultimate Doom.jpg</image>
+		<video>./snaps/Ultimate Doom.mp4</video>
+	</game>
+	<game>
+		<path>./Cave Story.sh</path>
+		<name>Cave Story</name>
+		<desc>The fast-paced gameplay of Cave Story revolves around Quote, a robot who wakes up suffering amnesia and who must explore and blast his way through cavernous areas in order to figure out his backstory and escape from the cave.</desc>
+		<image>./boxart/Cave Story.jpg</image>
+		<video>./snaps/Cave Story.mp4</video>
+		<rating>0.85</rating>
+		<releasedate>20041220T000000</releasedate>
+		<developer>Studio Pixel</developer>
+		<publisher>Studio Pixel</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220226T182007</lastplayed>
+	</game>
+	<game>
+		<path>./Mr.Boom.sh</path>
+		<name>Mr.Boom</name>
+		<desc>Mr.Boom supports up to 8 players and features like netplay, AI bots (new C++ feature), pushing bombs, remote controls and kangaroo riding.</desc>
+		<image>./boxart/Mr.Boom.jpg</image>
+		<video>./snaps/Mr.Boom.mp4</video>
+		<rating>0.85</rating>
+		<releasedate>19990430T000000</releasedate>
+		<developer>Remdy Software</developer>
+		<publisher>Remdy Software</publisher>
+		<genre>Action</genre>
+		<players>1-8</players>
+		<playcount>1</playcount>
+		<lastplayed>20220226T182109</lastplayed>
+	</game>
+</gameList>
