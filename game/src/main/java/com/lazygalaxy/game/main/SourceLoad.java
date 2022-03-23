@@ -20,9 +20,11 @@ import com.lazygalaxy.engine.load.XMLLoad;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.engine.util.XMLUtil;
 import com.lazygalaxy.game.Constant;
+import com.lazygalaxy.game.Constant.GameSystem;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
 import com.lazygalaxy.game.merge.GameMerge;
+import com.lazygalaxy.game.util.GameUtil;
 
 public class SourceLoad {
 	private static final Logger LOGGER = LogManager.getLogger(SourceLoad.class);
@@ -35,7 +37,7 @@ public class SourceLoad {
 				File systemGameListFile = new File(systemFile, "gamelist.xml");
 				if (systemGameListFile.exists()) {
 					new GameListLoad(source, systemFile.getName()).load(systemGameListFile, "game", merge);
-					LOGGER.info(source + " " + systemFile.getName() + " enrich load completed!");
+					LOGGER.debug(source + " " + systemFile.getName() + " enrich load completed!");
 				} else {
 					LOGGER.warn(source + " " + systemFile.getName() + " no gamelist.xml found!");
 				}
@@ -55,9 +57,15 @@ public class SourceLoad {
 
 			switch (systemId) {
 			case Constant.GameEmulator.FBNEO:
+				this.defaultEmulator = "lr-fbneo";
+				this.systemId = Constant.GameSystem.ARCADE;
+				break;
 			case Constant.GameEmulator.MAME2003:
+				this.defaultEmulator = "lr-mame2003";
+				this.systemId = Constant.GameSystem.ARCADE;
+				break;
 			case Constant.GameEmulator.MAME2010:
-				this.defaultEmulator = systemId;
+				this.defaultEmulator = "lr-mame2010";
 				this.systemId = Constant.GameSystem.ARCADE;
 				break;
 			default:
@@ -75,8 +83,15 @@ public class SourceLoad {
 				if (fileURL != null) {
 					Stream<String> lines = Files.lines(Paths.get(fileURL.toURI()));
 					lines.forEach(line -> {
-						String[] tokens = StringUtils.split(line, "=");
-						emulatorMap.put(tokens[0].trim(), RegExUtils.removeAll(tokens[1], "\"").trim());
+						String[] lineTokens = StringUtils.split(line, "=");
+						String systemIdTemp = StringUtils.substring(lineTokens[0], 0,
+								StringUtils.indexOf(lineTokens[0], "_"));
+						String gameIdTemp = StringUtils.substring(lineTokens[0],
+								StringUtils.indexOf(lineTokens[0], "_") + 1, lineTokens[0].length());
+
+						emulatorMap.put(
+								GeneralUtil.alphanumerify(systemIdTemp) + "_" + GeneralUtil.alphanumerify(gameIdTemp),
+								RegExUtils.removeAll(lineTokens[1], "\"").trim());
 					});
 					lines.close();
 				}
@@ -93,12 +108,15 @@ public class SourceLoad {
 			if (StringUtils.endsWith(path, ".sh")) {
 				return null;
 			}
-			String romFile = StringUtils.substring(path, 0, StringUtils.lastIndexOf(path, "."));
-			romFile = StringUtils.substring(romFile, StringUtils.lastIndexOf(romFile, "/") + 1, romFile.length());
+			if (!GameSystem.MAME.contains(systemId)) {
+				return null;
+			}
+			String gameId = StringUtils.substring(path, 0, StringUtils.lastIndexOf(path, "."));
+			gameId = StringUtils.substring(gameId, StringUtils.indexOf(gameId, "/") + 1, gameId.length());
 
-			Game game = new Game(GeneralUtil.alphanumerify(systemId), GeneralUtil.alphanumerify(romFile));
+			Game game = new Game(GeneralUtil.alphanumerify(systemId), GeneralUtil.alphanumerify(gameId));
 
-			String name = XMLUtil.getTagAsString(element, "name", 0);
+			String originalName = XMLUtil.getTagAsString(element, "name", 0);
 			String year = XMLUtil.getTagAsString(element, "releasedate", 0);
 			String description = XMLUtil.getTagAsString(element, "desc", 0);
 			String genre = XMLUtil.getTagAsString(element, "genre", 0);
@@ -106,37 +124,19 @@ public class SourceLoad {
 			String video = XMLUtil.getTagAsString(element, "video", 0);
 			String marquee = XMLUtil.getTagAsString(element, "marquee", 0);
 			Double rating = XMLUtil.getTagAsDouble(element, "rating", 0);
-			String originalPlayers = XMLUtil.getTagAsString(element, "players", 0);
-			Integer players = null;
-			if (!StringUtils.isBlank(originalPlayers)) {
-				String[] playerArray = XMLUtil.getTagAsString(element, "players", 0).split("-");
-				players = Integer.parseInt(GeneralUtil.numerify(playerArray[playerArray.length - 1]));
-			}
-
+			String players = XMLUtil.getTagAsString(element, "players", 0);
 			String developer = XMLUtil.getTagAsString(element, "developer", 0);
 			String publisher = XMLUtil.getTagAsString(element, "publisher", 0);
 
 			Game.class.getField(source + "GameInfo").set(game,
-					new GameInfo(path, name, year, description, genre, image, video, marquee,
-							rating != null && rating > 0 ? rating : null, players, developer, publisher,
+					new GameInfo(path, originalName, year, description, genre, image, video, marquee, rating, players,
+							developer, publisher,
 							emulatorMap.containsKey(game.id) ? emulatorMap.get(game.id) : defaultEmulator));
 
-			// defaults
-			if (game.isVeritcal == null) {
-				game.isVeritcal = false;
-			}
+			GameUtil.pretifyName((GameInfo) Game.class.getField(source + "GameInfo").get(game));
 
-			if (game.hide == null) {
-				game.hide = false;
-			}
-
-			if (game.parentMissing == null) {
-				game.parentMissing = false;
-			}
-
-			if (game.favourite == null) {
-				game.favourite = false;
-			}
+			game.addLabel(gameId);
+			game.addLabel(((GameInfo) Game.class.getField(source + "GameInfo").get(game)).name);
 
 			return Arrays.asList(game);
 		}

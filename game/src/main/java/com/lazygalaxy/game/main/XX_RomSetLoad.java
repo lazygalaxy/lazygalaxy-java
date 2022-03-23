@@ -1,11 +1,11 @@
-package com.lazygalaxy.game.main_old;
+package com.lazygalaxy.game.main;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class A1_RomSetLoad {
+public class XX_RomSetLoad {
 
-	private static final Logger LOGGER = LogManager.getLogger(A1_RomSetLoad.class);
+	private static final Logger LOGGER = LogManager.getLogger(XX_RomSetLoad.class);
 
 //	public static void main(String[] args) throws Exception {
 //		try {

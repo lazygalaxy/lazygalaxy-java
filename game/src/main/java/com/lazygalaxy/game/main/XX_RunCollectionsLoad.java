@@ -1,10 +1,10 @@
-package com.lazygalaxy.game.main_old;
+package com.lazygalaxy.game.main;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class D2_RunCollectionsLoad {
-	private static final Logger LOGGER = LogManager.getLogger(D2_RunCollectionsLoad.class);
+public class XX_RunCollectionsLoad {
+	private static final Logger LOGGER = LogManager.getLogger(XX_RunCollectionsLoad.class);
 
 //	public static void main(String[] args) throws Exception {
 //		try {

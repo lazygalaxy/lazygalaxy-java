@@ -44,7 +44,7 @@ public abstract class XMLLoad<T extends MongoDocument> {
 		}
 
 		NodeList nodes = xmlDocument.getElementsByTagName(gameTagName);
-		LOGGER.info("total documents to process in " + file + ": " + nodes.getLength());
+		LOGGER.debug("total documents to process in " + file + ": " + nodes.getLength());
 
 		for (int i = 0; i < nodes.getLength(); i++) {
 			List<T> documents = getMongoDocument((Element) nodes.item(i), extraTagValues);

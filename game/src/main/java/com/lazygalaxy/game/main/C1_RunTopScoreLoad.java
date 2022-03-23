@@ -120,14 +120,14 @@ public class C1_RunTopScoreLoad {
 		protected List<Scores> getMongoDocument(Game game) throws Exception {
 
 			Scores scores = new Scores(game.id);
-			if (game.rickdangerousGameInfo != null && game.rickdangerousGameInfo.rating != null) {
-				scores.rickDangerous = (int) Math.round(game.rickdangerousGameInfo.rating * 100.0);
+			if (game.rickdangerous_ultimateGameInfo != null && game.rickdangerous_ultimateGameInfo.rating != null) {
+				scores.rickDangerous = (int) Math.round(game.rickdangerous_ultimateGameInfo.rating * 100.0);
 			}
-			if (game.vmanGameInfo != null && game.vmanGameInfo.rating != null) {
-				scores.vman = (int) Math.round(game.vmanGameInfo.rating * 100.0);
+			if (game.vman_blissGameInfo != null && game.vman_blissGameInfo.rating != null) {
+				scores.vman = (int) Math.round(game.vman_blissGameInfo.rating * 100.0);
 			}
-			if (game.wolfanozGameInfo != null && game.wolfanozGameInfo.rating != null) {
-				scores.wolfanoz = (int) Math.round(game.wolfanozGameInfo.rating * 100.0);
+			if (game.wolfanoz_12kGameInfo != null && game.wolfanoz_12kGameInfo.rating != null) {
+				scores.wolfanoz = (int) Math.round(game.wolfanoz_12kGameInfo.rating * 100.0);
 			}
 
 			return Arrays.asList(scores);

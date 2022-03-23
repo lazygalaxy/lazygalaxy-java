@@ -1,0 +1,9 @@
+// find family games
+{ "family": { $ne: null}}
+{ "family": "simpsons"}
+
+//arcade games with no mame info
+{ $and: [ { "mameGameInfo":null }, { $or:[{ "systemId": { $eq: "arcade" } },{ "systemId": { $eq: "naomi" } },{ "systemId": { $eq: "atomiswave" } },{ "systemId": { $eq: "neogeo" } },{ "systemId": { $eq: "daphne" } }]}] }
+
+//developer Mitchell, publisher Data East
+{"gameId":"funkyjet"}

@@ -2,6 +2,7 @@ package com.lazygalaxy.game.main;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
@@ -22,13 +23,13 @@ import com.mongodb.client.model.Filters;
 
 public class B1_MameGameInfoSourceLoad {
 	private static final Logger LOGGER = LogManager.getLogger(B1_MameGameInfoSourceLoad.class);
+	private static final GameInfo gameInfoStatic = new GameInfo();
 
 	public static void main(String[] args) throws Exception {
 		try {
 			GameMerge merge = new GameMerge();
 
-			// further enrich the exiting roms with information from the latest mame/arcade
-			// database
+			// enrich the exiting roms with information from the latest mameatabase
 			new MameGameInfoLoad().load("source/mame/mame240.xml", "machine", merge);
 			LOGGER.info("mame enrich game completed!");
 
@@ -45,68 +46,73 @@ public class B1_MameGameInfoSourceLoad {
 
 		@Override
 		protected List<Game> getMongoDocument(Element element, List<String> extraTagValues) throws Exception {
+			String gameId = GeneralUtil.alphanumerify(XMLUtil.getAttributeAsString(element, "name"));
+			List<Game> games = GameUtil.getGames(false, false, gameId, Filters.eq("gameId", gameId),
+					Filters.in("systemId", GameSystem.MAME));
+			Boolean isGuess = false;
+
+			if (games == null || games.size() == 0) {
+				String cloneOf = XMLUtil.getAttributeAsString(element, "cloneof");
+				if (StringUtils.isBlank(cloneOf)) {
+					isGuess = true;
+					gameInfoStatic.originalName = XMLUtil.getTagAsString(element, "description", 0);
+					GameUtil.pretifyName(gameInfoStatic);
+					String name = GeneralUtil.alphanumerify(gameInfoStatic.name);
+
+					games = GameUtil.getGames(false, false, gameId, Filters.in("labels", name),
+							Filters.in("systemId", GameSystem.MAME));
+				}
+			}
+
 			List<Game> gameList = new ArrayList<Game>();
-
-			String romId = GeneralUtil.alphanumerify(XMLUtil.getAttributeAsString(element, "name"));
-			List<Game> games = GameUtil.getGames(false, false, romId, Filters.eq("romId", romId), Filters.in("systemId",
-					GameSystem.ARCADE, GameSystem.ATOMISWAVE, GameSystem.DAPHNE, GameSystem.NAOMI, GameSystem.NEOGEO));
-
-			if (games != null) {
+			if (games != null && games.size() > 0) {
 				for (Game game : games) {
-					gameList.addAll(process(game, element));
+					gameList.addAll(process(game, element, isGuess));
 				}
 			}
 
 			return gameList;
 		}
 
-		private List<Game> process(Game game, Element element) throws Exception {
+		private List<Game> process(Game game, Element element, Boolean isGuess) throws Exception {
 			List<Game> allGamesToReturn = new ArrayList<Game>();
 			allGamesToReturn.add(game);
 
-			String name = XMLUtil.getTagAsString(element, "description", 0);
+			String originalName = XMLUtil.getTagAsString(element, "description", 0);
 			String year = XMLUtil.getTagAsString(element, "year", 0);
-			Integer players = XMLUtil.getTagAttributeAsInteger(element, "input", "players", 0);
+			String players = XMLUtil.getTagAttributeAsString(element, "input", "players", 0);
 			String developer = XMLUtil.getTagAsString(element, "manufacturer", 0);
-
-			game.mameGameInfo = new GameInfo(null, name, year, null, null, null, null, null, null, players, developer,
-					null, null);
-
-			game.cloneOfRomId = XMLUtil.getAttributeAsString(element, "cloneof");
-			game.sourceFile = XMLUtil.getAttributeAsString(element, "sourcefile");
-			game.sampleOf = XMLUtil.getAttributeAsString(element, "sampleof");
-			game.status = XMLUtil.getTagAttributeAsString(element, "driver", "status", 0);
-
 			Integer rotate = XMLUtil.getTagAttributeAsInteger(element, "display", "rotate", 0);
-			if (rotate == 90 || rotate == 270) {
-				game.isVeritcal = true;
-			} else {
-				game.isVeritcal = false;
+			Boolean isVertical = false;
+			if (rotate != null && (rotate == 90 || rotate == 270)) {
+				isVertical = true;
 			}
+			Set<String> inputs = XMLUtil.getTagAttributeAsStringSet(element, "control", "type");
+			Integer buttons = XMLUtil.getTagAttributeAsInteger(element, "control", "buttons", 0);
+			String status = XMLUtil.getTagAttributeAsString(element, "driver", "status", 0);
+			String cloneOf = XMLUtil.getAttributeAsString(element, "cloneof");
 
-			game.coins = XMLUtil.getTagAttributeAsInteger(element, "input", "coins", 0);
-			game.input = XMLUtil.getTagAttributeAsStringSet(element, "control", "type");
-			game.buttons = XMLUtil.getTagAttributeAsInteger(element, "control", "buttons", 0);
-			if (game.buttons == null) {
-				game.buttons = 0;
-			}
+			game.mameGameInfo = new GameInfo(originalName, year, players, developer, isVertical, inputs, buttons,
+					status, isGuess);
+			GameUtil.pretifyName(game.mameGameInfo);
 
-			if (!StringUtils.isBlank(game.cloneOfRomId)) {
-				List<Game> parentGames = GameUtil.getGames(false, false, game.cloneOfRomId,
-						Filters.eq("romId", GeneralUtil.alphanumerify(game.cloneOfRomId)),
-						Filters.in("systemId", GameSystem.ARCADE, GameSystem.ATOMISWAVE, GameSystem.DAPHNE,
-								GameSystem.NAOMI, GameSystem.NEOGEO));
+			if (!StringUtils.isBlank(cloneOf)) {
+				String cloneOfGameId = GeneralUtil.alphanumerify(cloneOf);
+				List<Game> parentGames = GameUtil.getGames(false, false, cloneOf, Filters.eq("gameId", cloneOfGameId),
+						Filters.in("systemId", GameSystem.MAME));
 
 				if (parentGames != null) {
-					game.parentMissing = false;
 					for (Game parentGame : parentGames) {
-						if (!SetUtil.contains(parentGame.clones, game.romId)) {
-							parentGame.clones = SetUtil.addValue(parentGame.clones, game.romId);
+						if (!SetUtil.contains(parentGame.family, game.gameId)) {
+							parentGame.family = SetUtil.addValue(parentGame.family, parentGame.gameId);
+							parentGame.family = SetUtil.addValue(parentGame.family, game.gameId);
+
+							game.family = SetUtil.addValue(game.family, parentGame.gameId);
+							game.family = SetUtil.addValue(game.family, game.gameId);
+
 							allGamesToReturn.add(parentGame);
 						}
 					}
-				} else {
-					game.parentMissing = true;
 				}
 			}
 

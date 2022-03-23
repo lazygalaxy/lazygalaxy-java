@@ -1,13 +1,14 @@
 package com.lazygalaxy.game.main;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
+import com.lazygalaxy.game.Constant.GameSource;
 
-public class A2_RunWolfanozSourceLoad extends SourceLoad {
+public class A1_RunRickDangerousUltimateSourceLoad extends SourceLoad {
 
 	public static void main(String[] args) throws Exception {
 		try {
 
-			sourceLoad("wolfanoz");
+			sourceLoad(GameSource.RICKDANGEROUS_ULTIMATE);
 
 		} finally {
 			MongoConnectionHelper.INSTANCE.close();

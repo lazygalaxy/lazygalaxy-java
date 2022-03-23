@@ -7,7 +7,6 @@ import java.util.TreeSet;
 import org.apache.commons.lang3.StringUtils;
 
 import com.lazygalaxy.engine.util.GeneralUtil;
-import com.lazygalaxy.game.Constant.Control;
 import com.lazygalaxy.game.domain.Game;
 
 public enum Collection {
@@ -49,12 +48,12 @@ public enum Collection {
 			}
 		}
 
-		if (game.isVeritcal != null && game.isVeritcal) {
-			if (collections == null) {
-				collections = new TreeSet<String>();
-			}
-			collections.add(VERTICAL.getMainLabel());
-		}
+//		if (game.isVeritcal != null && game.isVeritcal) {
+//			if (collections == null) {
+//				collections = new TreeSet<String>();
+//			}
+//			collections.add(VERTICAL.getMainLabel());
+//		}
 
 //		if (game.players != null && game.players >= 3) {
 //			if (collections == null) {
@@ -91,12 +90,12 @@ public enum Collection {
 //			collections.add(LIGHTGUN.getMainLabel());
 //		}
 
-		if (game.input.contains(Control.LIGHTGUN)) {
-			if (collections == null) {
-				collections = new TreeSet<String>();
-			}
-			collections.add(LIGHTGUN.getMainLabel());
-		}
+//		if (game.input.contains(Control.LIGHTGUN)) {
+//			if (collections == null) {
+//				collections = new TreeSet<String>();
+//			}
+//			collections.add(LIGHTGUN.getMainLabel());
+//		}
 
 		return collections;
 	}
