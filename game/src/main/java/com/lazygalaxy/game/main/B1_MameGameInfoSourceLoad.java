@@ -1,7 +1,9 @@
 package com.lazygalaxy.game.main;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
 import org.apache.commons.lang3.StringUtils;
@@ -13,6 +15,7 @@ import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.XMLLoad;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.engine.util.XMLUtil;
+import com.lazygalaxy.game.Constant.Control;
 import com.lazygalaxy.game.Constant.GameSystem;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
@@ -40,41 +43,69 @@ public class B1_MameGameInfoSourceLoad {
 
 	private static class MameGameInfoLoad extends XMLLoad<Game> {
 
+		private Map<String, Game> gameByIdMap = new HashMap<String, Game>();
+		private Map<String, List<Game>> gameByNameMap = new HashMap<String, List<Game>>();
+
 		public MameGameInfoLoad() throws Exception {
 			super(Game.class);
+
+			List<Game> games = GameUtil.getGames(false, false, null, Filters.in("systemId", GameSystem.MAME));
+			for (Game game : games) {
+				gameByIdMap.put(game.gameId, game);
+				for (String name : game.labels) {
+					if (!StringUtils.equals(name, game.gameId)) {
+						List<Game> gameList = gameByNameMap.get(name);
+						if (gameList == null) {
+							gameList = new ArrayList<Game>();
+							gameByNameMap.put(name, gameList);
+						}
+						gameList.add(game);
+					}
+				}
+			}
 		}
 
 		@Override
 		protected List<Game> getMongoDocument(Element element, List<String> extraTagValues) throws Exception {
-			String gameId = GeneralUtil.alphanumerify(XMLUtil.getAttributeAsString(element, "name"));
-			List<Game> games = GameUtil.getGames(false, false, gameId, Filters.eq("gameId", gameId),
-					Filters.in("systemId", GameSystem.MAME));
-			Boolean isGuess = false;
+			Boolean isMechanical = XMLUtil.getAttributeAsBoolean(element, "ismechanical");
+			String originalName = XMLUtil.getAttributeAsString(element, "name");
+			Integer buttons = XMLUtil.getTagAttributeAsInteger(element, "control", "buttons", 0);
+			Set<String> inputs = XMLUtil.getTagAttributeAsStringSet(element, "control", "type");
 
-			if (games == null || games.size() == 0) {
+			if (isMechanical || StringUtils.contains(originalName, "_") || (buttons != null && buttons > 8)
+					|| (inputs != null && Control.isExcluded(inputs))) {
+				return null;
+			}
+
+			String gameId = GeneralUtil.alphanumerify(originalName);
+			Game game = gameByIdMap.get(gameId);
+
+			List<Game> returnGameList = new ArrayList<Game>();
+			if (game == null) {
 				String cloneOf = XMLUtil.getAttributeAsString(element, "cloneof");
 				if (StringUtils.isBlank(cloneOf)) {
-					isGuess = true;
 					gameInfoStatic.originalName = XMLUtil.getTagAsString(element, "description", 0);
 					GameUtil.pretifyName(gameInfoStatic);
 					String name = GeneralUtil.alphanumerify(gameInfoStatic.name);
 
-					games = GameUtil.getGames(false, false, gameId, Filters.in("labels", name),
-							Filters.in("systemId", GameSystem.MAME));
+					List<Game> mapGames = gameByNameMap.get(name);
+					if (mapGames != null) {
+						for (Game mapGame : mapGames) {
+							if (mapGame.mameGameInfo == null
+									|| (mapGame.mameGameInfo.isGuess != null && mapGame.mameGameInfo.isGuess)) {
+								returnGameList.addAll(process(mapGame, element, true, gameId));
+							}
+						}
+					}
 				}
+			} else {
+				returnGameList.addAll(process(game, element, false, gameId));
 			}
 
-			List<Game> gameList = new ArrayList<Game>();
-			if (games != null && games.size() > 0) {
-				for (Game game : games) {
-					gameList.addAll(process(game, element, isGuess));
-				}
-			}
-
-			return gameList;
+			return returnGameList;
 		}
 
-		private List<Game> process(Game game, Element element, Boolean isGuess) throws Exception {
+		private List<Game> process(Game game, Element element, Boolean isGuess, String gameId) throws Exception {
 			List<Game> allGamesToReturn = new ArrayList<Game>();
 			allGamesToReturn.add(game);
 
@@ -92,9 +123,11 @@ public class B1_MameGameInfoSourceLoad {
 			String status = XMLUtil.getTagAttributeAsString(element, "driver", "status", 0);
 			String cloneOf = XMLUtil.getAttributeAsString(element, "cloneof");
 
-			game.mameGameInfo = new GameInfo(originalName, year, players, developer, isVertical, inputs, buttons,
-					status, isGuess);
+			game.mameGameInfo = new GameInfo(gameId, originalName, year, players, developer, isVertical, inputs,
+					buttons, status, isGuess);
 			GameUtil.pretifyName(game.mameGameInfo);
+			game.addLabel(gameId);
+			game.addLabel(game.mameGameInfo.name);
 
 			if (!StringUtils.isBlank(cloneOf)) {
 				String cloneOfGameId = GeneralUtil.alphanumerify(cloneOf);

@@ -305,20 +305,6 @@
 		<video>./snaps/teddybb.mp4</video>
 	</game>
 	<game>
-		<path>./tempest.zip</path>
-		<name>Tempest</name>
-		<sortname />
-		<desc>The objective of Tempest is to survive as long as possible and score as many points as possible by clearing the screen of enemies that have landed on the playing field. The player's ship can rapid-fire shots down the tube, destroying any enemies within the same segment, and is also equipped with a Superzapper, which destroys all enemies currently on the playfield once per level. (A second use of the Superzapper in a level destroys one random enemy.)</desc>
-		<rating>0.9</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em up</genre>
-		<players>1-2</players>
-		<image>./boxart/tempest.jpg</image>
-		<video>./snaps/tempest.mp4</video>
-	</game>
-	<game>
 		<path>./terracre.zip</path>
 		<name>Terra Cresta</name>
 		<sortname />
@@ -516,7 +502,7 @@
 		<path>./trackfld.zip</path>
 		<name>Track &amp; Field</name>
 		<sortname />
-		<desc>Track &amp; Field is an athletics-themed action game for up to four players, who compete against each other in six track and field-based disciplines</desc>
+		<desc>Track &amp; Field is an athletics-themed action game for up to four players, who compete against each other in six track and field-based disciplines.</desc>
 		<rating>0.9</rating>
 		<releasedate>19830101T000000</releasedate>
 		<developer>Konami</developer>
@@ -900,6 +886,20 @@
 		<players>1-2</players>
 		<image>./boxart/xmultipl.jpg</image>
 		<video>./snaps/xmultipl.mp4</video>
+	</game>
+	<game>
+		<path>./xmen.zip</path>
+		<name>X-Men</name>
+		<sortname />
+		<desc>X-Men is a side-scrolling beat-em-up for up to four players. The X-Men's mission is to find and rescue Professor X, who has been captured by evil mutants and is now being held prisoner by Magneto.</desc>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-4</players>
+		<image>./boxart/xmen.jpg</image>
+		<video>./snaps/xmen.mp4</video>
 	</game>
 	<game>
 		<path>./xmcota.zip</path>
@@ -1725,20 +1725,6 @@
 		<video>./snaps/archrivl.mp4</video>
 	</game>
 	<game>
-		<path>./arkanoidu.zip</path>
-		<name>Arkanoid</name>
-		<sortname />
-		<desc>After a sudden alien assault, the Arkanoid spaceship has been destroyed and the only survivor, the small 'Vaus' space vessel, has been mysteriously trapped in another dimension by an unknown enemy. The player is charged with helping the 'Vaus' overcome the security systems, as well as the many enemies that guard them, before finally finding and destroying 'DOH', the alien responsible for the attack. [Input: Dial]</desc>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Puzzle</genre>
-		<players>1-2</players>
-		<image>./boxart/arkanoidu.jpg</image>
-		<video>./snaps/arkanoidu.mp4</video>
-	</game>
-	<game>
 		<path>./arknoid2.zip</path>
 		<name>Arkanoid: Revenge of Doh</name>
 		<sortname />
@@ -2366,20 +2352,6 @@
 		<video>./snaps/boogwing.mp4</video>
 	</game>
 	<game>
-		<path>./boscomd.zip</path>
-		<name>Bosconian</name>
-		<sortname />
-		<desc>Bosconian is a multi-directional space shooter where the player must destroy several enemy bases on each round while evading enemy ships, asteroids and mines. Enemy bases are destroyed either with a shot to the center or by shooting out all six base cannons. The player's ship is always positioned in the center of the screen with everything else scrolling around it as the player flies. A radar map to the right shows the position of the player, enemy bases, and occasional formation attack groups.</desc>
-		<rating>0.4</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Shoot'em up</genre>
-		<players>1-2</players>
-		<image>./boxart/boscomd.jpg</image>
-		<video>./snaps/boscomd.mp4</video>
-	</game>
-	<game>
 		<path>./boxyboy.zip</path>
 		<name>Boxy Boy Deluxe</name>
 		<sortname />
@@ -2615,20 +2587,6 @@
 		<players>1-2</players>
 		<image>./boxart/cawing.jpg</image>
 		<video>./snaps/cawing.mp4</video>
-	</game>
-	<game>
-		<path>./centiped.zip</path>
-		<name>Centipede</name>
-		<sortname />
-		<desc>Centipede is a vertically oriented single screen shoot-em-up in which the aim is to use the 'Bug Blaster' to shoot the centipedes that snake down towards the bottom of the screen to amass as high a score as possible. [Input: Joystick 8 ways, Trackball]</desc>
-		<rating>0.7</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em up</genre>
-		<players>1</players>
-		<image>./boxart/centiped.jpg</image>
-		<video>./snaps/centiped.mp4</video>
 	</game>
 	<game>
 		<path>./chaknpop.zip</path>
@@ -2908,20 +2866,6 @@
 		<players>1-2</players>
 		<image>./boxart/crimfght.jpg</image>
 		<video>./snaps/crimfght.mp4</video>
-	</game>
-	<game>
-		<path>./ccastles.zip</path>
-		<name>Crystal Castles</name>
-		<sortname />
-		<desc>Crystal Castles is an inventive variation on the maze-driven collect-the-dots gameplay first seen in Namco's legendary "Pac-Man". The player takes on the role of 'Bentley Bear', who must run around a number of "castles" - each presented in the form of an isometric forced 3D maze - picking up the gemstones that litter its walkways and platforms, before moving onto the next castle.</desc>
-		<rating>0.8</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<image>./boxart/ccastles.jpg</image>
-		<video>./snaps/ccastles.mp4</video>
 	</game>
 	<game>
 		<path>./cybots.zip</path>
@@ -4903,9 +4847,9 @@
 	</game>
 	<game>
 		<path>./kodure.zip</path>
-		<name>Kozure Ookami</name>
+		<name>Kodure Ookami: Samurai Assassin</name>
 		<sortname />
-		<desc>Kozure Ookami is based off of a famous long-running manga series entitled ''Lone Wolf and Cub'', in which our hero, Oogami Itto, seeks revenge upon Retsudo Yagyu of the Yagyu Kage clan. The Yagyu clan and its ninjas had pillaged his small village and slew his wife years before, and now Oogami is on a mission to stop the Yagyu Kage sect from destroying anymore lives. Armed with only his katana, Oogami sets out with his young infant son on a quest that became one of the best selling mangas, ''Lone Wolf and Cub'', and movies series, the ''Baby Cart'' series.</desc>
+		<desc>Kodure Ookami is based off of a famous long-running manga series entitled ''Lone Wolf and Cub'', in which our hero, Oogami Itto, seeks revenge upon Retsudo Yagyu of the Yagyu Kage clan. The Yagyu clan and its ninjas had pillaged his small village and slew his wife years before, and now Oogami is on a mission to stop the Yagyu Kage sect from destroying anymore lives. Armed with only his katana, Oogami sets out with his young infant son on a quest that became one of the best selling mangas, ''Lone Wolf and Cub'', and movies series, the ''Baby Cart'' series.</desc>
 		<releasedate>19870101T000000</releasedate>
 		<publisher>Nichibutsu</publisher>
 		<genre>Beat'em up</genre>
@@ -5397,34 +5341,6 @@
 		<players>1-2</players>
 		<image>./boxart/mikie.jpg</image>
 		<video>./snaps/mikie.mp4</video>
-	</game>
-	<game>
-		<path>./milliped.zip</path>
-		<name>Millipede</name>
-		<sortname />
-		<desc>Millipede is a 1- or 2-player game with a color raster-scan video display. The game action takes place on a playfield filled with mushrooms, flowers, and deadly DDT bombs. The player tries to destroy a variety of insects that drop from the top of the screen or enter from the sides of the screen, most of them to attack the player. The player controls a bow-shaped vehicle called the Archer. The object of the game is to shoot and destroy as many objects as possible for a high point score, before the player's lives are all used up.</desc>
-		<rating>0.9</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em up</genre>
-		<players>1-2</players>
-		<image>./boxart/milliped.jpg</image>
-		<video>./snaps/milliped.mp4</video>
-	</game>
-	<game>
-		<path>./missile.zip</path>
-		<name>Missile Command</name>
-		<sortname />
-		<desc>The game is played by moving a cross-hair across the sky and pressing one of three buttons to launch an ABM from the corresponding battery (either Alpha Base, Delta Base or Omega Base). Upon reaching the cross-hair the player's ABM explodes, creating a fireball that lasts for several seconds and destroys any enemy missiles that enter it. Each battery is initially armed with ten anti-ballistic missiles and becomes useless when either all of its missiles have been fired or it's been destroyed by enemy missiles.</desc>
-		<rating>0.9</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em up</genre>
-		<players>1-2</players>
-		<image>./boxart/missile.jpg</image>
-		<video>./snaps/missile.mp4</video>
 	</game>
 	<game>
 		<path>./liquidk.zip</path>
@@ -6039,6 +5955,19 @@
 		<video>./snaps/pepper2.mp4</video>
 	</game>
 	<game>
+		<path>./phoenix.zip</path>
+		<name>Phoenix</name>
+		<sortname />
+		<desc>Phoenix is a classic vertical shoot-em-up in the mould of Taito's "Space Invaders" and Namco's "Galaxian", but takes the concept further with the introduction of progressive stages of play (instead of simply repeating a single playfield over and over with an increasing difficulty level).</desc>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Amstar</developer>
+		<publisher>Centuri</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/phoenix.jpg</image>
+		<video>./snaps/phoenix.mp4</video>
+	</game>
+	<game>
 		<path>./pingpong.zip</path>
 		<name>Ping Pong</name>
 		<sortname />
@@ -6119,20 +6048,6 @@
 		<players>1-2</players>
 		<image>./boxart/pktgaldx.jpg</image>
 		<video>./snaps/pktgaldx.mp4</video>
-	</game>
-	<game>
-		<path>./polaris.zip</path>
-		<name>Polaris</name>
-		<sortname />
-		<desc>Polaris is a 1-player, single screen shoot-em-up, baring many similarities to Taito's most famous shoot-em-up, "Space Invaders", in which a player takes on the role of Commander of a Polaris class nuclear submarine. War has been declared and the Polaris' mission is to defend the country from enemy attack.</desc>
-		<rating>0.6</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Shoot'em up</genre>
-		<players>1-2</players>
-		<image>./boxart/polaris.jpg</image>
-		<video>./snaps/polaris.mp4</video>
 	</game>
 	<game>
 		<path>./pooyan.zip</path>
@@ -6525,20 +6440,6 @@
 		<video>./snaps/rampage.mp4</video>
 	</game>
 	<game>
-		<path>./rampart2p.zip</path>
-		<name>Rampart</name>
-		<sortname />
-		<desc>Rampart is a superb arcade puzzle game in which up to three players must build up a castle using Tetris shaped pieces to form a castle wall and enclose their keep. Each player must then place a limited number of cannons inside their castle wall before the timer expires. Once the cannons have been placed the battle itself begins. Players must target their cannons onto the enemy's castle (or, in the one-player game, enemy ships and peons) and destroy as much of the enemy army as possible before the time limit expires.</desc>
-		<rating>0.9</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Tengen</developer>
-		<publisher>Tengen</publisher>
-		<genre>Puzzle</genre>
-		<players>1-3</players>
-		<image>./boxart/rampart2p.jpg</image>
-		<video>./snaps/rampart2p.mp4</video>
-	</game>
-	<game>
 		<path>./rastan.zip</path>
 		<name>Rastan</name>
 		<sortname />
@@ -6860,7 +6761,7 @@
 		<path>./stdragon.zip</path>
 		<name>Saint Dragon</name>
 		<sortname />
-		<desc>The galaxy is under threat from a malevolent race of cyborgs. Half animal, half machine, the cyborgs have already conquered most of the galaxy and now have their sights set on the galaxy's last hope, 'The Planet of the Golde</desc>
+		<desc>The galaxy is under threat from a malevolent race of cyborgs. Half animal, half machine, the cyborgs have already conquered most of the galaxy and now have their sights set on the galaxy's last hope, 'The Planet of the Golde.</desc>
 		<releasedate>19890101T000000</releasedate>
 		<developer>NMK</developer>
 		<publisher>Jaleco</publisher>
@@ -7013,7 +6914,7 @@
 		<path>./shdancer.zip</path>
 		<name>Shadow Dancer</name>
 		<sortname />
-		<desc>Some time after destroying Neo Zeed in Revenge of Shinobi, Joe Musashi decides to spend some time in america with his student, Kato. One day though when a mysterious terrorist group known as Un</desc>
+		<desc>Shadow Dancer is a one-player game in which you control Shinobi. With the help of your dog, you must kill your enemies while you venture through locations such as airports, railroads, waterfalls, sewers, and more. Furthermore, you must find and disarm several bombs along the way before you leave each. You also have the option of using magic against enemies, which may consist of tornadoes or fireballs.</desc>
 		<rating>0.8</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -7390,7 +7291,7 @@
 		<path>./sfa2.zip</path>
 		<name>Street Fighter Alpha 2</name>
 		<sortname>Street Fighter 16</sortname>
-		<desc>The game is both a sequel and a remake to the previous year's Street Fighter Alpha: Warriors' Dreams, which is itself a prequel to the Street Fighter II series in terms of plot and setting</desc>
+		<desc>The game is both a sequel and a remake to the previous year's Street Fighter Alpha: Warriors' Dreams, which is itself a prequel to the Street Fighter II series in terms of plot and setting.</desc>
 		<rating>0.75</rating>
 		<releasedate>19960101T000000</releasedate>
 		<developer>Capcom</developer>
@@ -7474,7 +7375,7 @@
 		<path>./streetsm.zip</path>
 		<name>Street Smart</name>
 		<sortname />
-		<desc>You begin by choosing one of 2 fighters (either a blond guy, or a dark haired guy in karate gear). Then you are whisked away to one of many cities on the map to have a battle. The opponents are tough, but simple. This game has no special moves (and has only punch, kick, and jump buttons), and all characters have insanely high energy. So you pretty much just wail away at each other with punches and kicks until someone falls down. An ambulance will show up to haul away your defeated opponent, and a girl in the audience will come out to congratulate you</desc>
+		<desc>You begin by choosing one of 2 fighters (either a blond guy, or a dark haired guy in karate gear). Then you are whisked away to one of many cities on the map to have a battle. The opponents are tough, but simple. This game has no special moves (and has only punch, kick, and jump buttons), and all characters have insanely high energy. So you pretty much just wail away at each other with punches and kicks until someone falls down. An ambulance will show up to haul away your defeated opponent, and a girl in the audience will come out to congratulate you.</desc>
 		<rating>0.5</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>SNK</developer>
@@ -7883,34 +7784,6 @@
 		<players>1-2</players>
 		<image>./boxart/astorm.jpg</image>
 		<video>./snaps/astorm.mp4</video>
-	</game>
-	<game>
-		<path>./dotron.zip</path>
-		<name>Discs of Tron</name>
-		<sortname />
-		<desc>As Tron, you fling discs at Sark in an attempt to knock him off his platform. Knocking off Sark will advance you to the next level. Other levels vary the level and number of platforms to jump between.</desc>
-		<rating>0.7</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<image>./boxart/dotron.jpg</image>
-		<video>./snaps/dotron.mp4</video>
-	</game>
-	<game>
-		<path>./tron3.zip</path>
-		<name>Tron</name>
-		<sortname />
-		<desc>Tron is a 1- or 2-player game set inside the 'Tron' computer, and is based on the ground-breaking Disney movie of the same name.</desc>
-		<rating>0.9</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<image>./boxart/tron3.jpg</image>
-		<video>./snaps/tron3.mp4</video>
 	</game>
 	<game>
 		<path>./ultrax.zip</path>
@@ -8766,20 +8639,6 @@
 		<video>./snaps/disco.mp4</video>
 	</game>
 	<game>
-		<path>./marble4.zip</path>
-		<name>Marble Madness</name>
-		<sortname />
-		<desc>Marble Madness is an abstract maze game for one or two players. The game's goal is to guide a small glass marble over a three-dimensional maze and reach the finish line before the level's timer has expired. Any seconds that remain on the timer when the finish line is crossed are carried over to the next level.</desc>
-		<rating>0.9</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<image>./boxart/marble4.jpg</image>
-		<video>./snaps/marble4.mp4</video>
-	</game>
-	<game>
 		<path>./mmaze.zip</path>
 		<name>Marchen Maze</name>
 		<sortname />
@@ -9188,7 +9047,7 @@
 		<path>./aerofgt.zip</path>
 		<name>Aero Fighters</name>
 		<sortname />
-		<desc>A superb vertically scrolling shoot-em-up in which the player chooses an ace fighter pilot from a selection of 4 countries (USA, Japan, Sweden and Britain) and takes to the skies to destroy enemy jets, boats, helicopt</desc>
+		<desc>A superb vertically scrolling shoot-em-up in which the player chooses an ace fighter pilot from a selection of 4 countries (USA, Japan, Sweden and Britain) and takes to the skies to destroy enemy jets, boats and helicopters.</desc>
 		<rating>0.7</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Video System</developer>
@@ -9229,521 +9088,828 @@
 		<name>Space Invaders: Part II</name>
 		<sortname>Space Invaders 2</sortname>
 		<desc>Space Invaders Part II is the sequel to the legendary "Space Invaders"; Part II's game-play is virtually identical to the original game, with the player once again moving a laser base back and forth along the bottom of the screen, shooting endless waves of aliens marching downwards towards the player. Once again flying saucers cab be shot for extra points.</desc>
-		<image>./boxart/invadpt2.jpg</image>
-		<video>./snaps/invadpt2.mp4</video>
 		<rating>0.9</rating>
 		<releasedate>19790101T000000</releasedate>
 		<developer>Taito</developer>
 		<publisher>Taito / Midway Games</publisher>
 		<genre>Shoot'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220213T131337</lastplayed>
+		<image>./boxart/invadpt2.jpg</image>
+		<video>./snaps/invadpt2.mp4</video>
 	</game>
 	<game>
 		<path>./rdft2.zip</path>
 		<name>Raiden Fighters 2: Operation Hell Dive</name>
+		<sortname />
 		<desc>If you thought the first Raiden Fighters game was intense, you ain't seen nothing yet! Everything in Raiden Fighters 2 has been kicked into overdrive. The game's visuals have been substatially improved over the first Raiden Fighters. The difficulty of the game varies greatly. Depending on how well you play, RF2 can be anywhere between medium to insanely hard in difficulty.</desc>
-		<image>./boxart/rdft2.jpg</image>
-		<video>./snaps/rdft2.mp4</video>
 		<rating>0.8</rating>
 		<releasedate>19970101T000000</releasedate>
 		<developer>Seibu Kaihatsu</developer>
 		<publisher>Seibu Kaihatsu</publisher>
 		<genre>Shoot'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220213T232213</lastplayed>
+		<image>./boxart/rdft2.jpg</image>
+		<video>./snaps/rdft2.mp4</video>
 	</game>
 	<game>
 		<path>./1943.zip</path>
 		<name>1943: The Battle of Midway</name>
+		<sortname />
 		<desc>The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.</desc>
-		<image>./boxart/1943.jpg</image>
-		<video>./snaps/1943.mp4</video>
 		<rating>0.7</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>Shoot'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220218T001314</lastplayed>
+		<image>./boxart/1943.jpg</image>
+		<video>./snaps/1943.mp4</video>
 	</game>
 	<game>
 		<path>./majest12u.zip</path>
 		<name>Majestic Twelve: The Space Invaders Part IV</name>
+		<sortname />
 		<desc>The third sequel to Taito's seminal "Space Invaders", Majestic Twelve leaves the classic Invaders game-play intact, but adds a slew of new alien invaders and power-ups to the mix. This, together with the vastly improved graphics that introduce colorful new backdrops - some of which scroll vertically in a similar fashion to the star-field in Namco's "Galaxian" - ensure that Majestic 12 is a worthy sequel to the legendary original.</desc>
-		<image>./boxart/majest12u.jpg</image>
-		<video>./snaps/majest12u.mp4</video>
 		<rating>0.7</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Taito</developer>
 		<publisher>Taito</publisher>
 		<genre>Shoot'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220220T162041</lastplayed>
+		<image>./boxart/majest12u.jpg</image>
+		<video>./snaps/majest12u.mp4</video>
+	</game>
+	<game>
+		<path>./88games.zip</path>
+		<name>'88 Games</name>
+		<sortname />
+		<desc>Konami '88 (also known as '88 Games or Hyper Sports Special) is the third in the Track &amp; Field game series by Konami, where you test your Olympic skills against other world-class athletes. As the name implies, it is loosely based on (and not licensed by) the 1988 Summer Olympics in Seoul, South Korea. Bronze or silver medals are not good enough - you have to go for the gold to get to the next event. However, you must at least qualify in each event in order to compete in the next event. [Input: Buttons Only]</desc>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/88games.jpg</image>
+		<video>./snaps/88games.mp4</video>
 	</game>
 	<game>
 		<path>./heiankyo.zip</path>
 		<name>Heiankyo Alien</name>
+		<sortname />
 		<desc>You control a man who walks around in a maze digging holes to trap the aliens.</desc>
-		<image>./boxart/heiankyo.jpg</image>
-		<video>./snaps/heiankyo.mp4</video>
 		<rating>0.1</rating>
 		<releasedate>19790101T000000</releasedate>
 		<developer>Denki Onkyo</developer>
 		<publisher>Denki Onkyo</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220221T230603</lastplayed>
+		<image>./boxart/heiankyo.jpg</image>
+		<video>./snaps/heiankyo.mp4</video>
 	</game>
 	<game>
 		<path>./biomtoy.zip</path>
 		<name>Biomechanical Toy</name>
+		<sortname />
 		<desc>Biomechanical Toy is an eightway-scrolling platform shoot-em-up set in a world of magically-animated toys, in which the magical pendulum that animates the toys has been stolen by the evil 'Scrubby', a criminal once imprisoned for trying to steal the pendulum who has managed to escape and take his revenge. The player takes on the role of Inguz and is tasked with freeing the few remaining good toys that are trapped throughout the stages, while destroying or avoiding the many evil toys that now patrol the kingdom.</desc>
-		<image>./boxart/biomtoy.jpg</image>
-		<video>./snaps/biomtoy.mp4</video>
 		<rating>0.7</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Gaelco</developer>
 		<publisher>Gaelco</publisher>
 		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220222T080012</lastplayed>
+		<image>./boxart/biomtoy.jpg</image>
+		<video>./snaps/biomtoy.mp4</video>
 	</game>
 	<game>
 		<path>./bonzeadvu.zip</path>
 		<name>Bonze Adventure</name>
+		<sortname />
 		<desc>The player controls a Buddhist monk, Bonze Kackremboh. His weapons are Buddhist prayer beads, called "mala" beads, which can be powered up until they become almost as large as the player. The monk battles snakes, giant eyeballs, ghosts and other enemy creatures.</desc>
-		<image>./boxart/bonzeadvu.jpg</image>
-		<video>./snaps/bonzeadvu.mp4</video>
 		<rating>0.5</rating>
 		<releasedate>19880101T000000</releasedate>
 		<developer>Taito</developer>
 		<publisher>Taito</publisher>
 		<genre>Platform</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T080610</lastplayed>
+		<image>./boxart/bonzeadvu.jpg</image>
+		<video>./snaps/bonzeadvu.mp4</video>
 	</game>
 	<game>
 		<path>./bullfgt.zip</path>
 		<name>Bullfight</name>
+		<sortname />
 		<desc>You play as a torero in the bullring, and the controls comprise a joystick and two buttons. Obviously, the joystick moves you around, while the buttons are for cape moving and stabbing, respectively. You score points for leading the bull with your cape, stabbing the bull, leading it into a wall, opening a wound on its back and killing it. Upon killing the bull, you go onto the next stage, with progressively fiercer bulls, and eventually, a second bull gets added to the mix.</desc>
-		<image>./boxart/bullfgt.jpg</image>
-		<video>./snaps/bullfgt.mp4</video>
 		<rating>0.5</rating>
 		<releasedate>19840101T000000</releasedate>
 		<developer>Coreland</developer>
 		<publisher>SEGA</publisher>
 		<genre>Sports</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T080827</lastplayed>
+		<image>./boxart/bullfgt.jpg</image>
+		<video>./snaps/bullfgt.mp4</video>
 	</game>
 	<game>
 		<path>./cabal.zip</path>
 		<name>Cabal</name>
+		<sortname />
 		<desc>Cabal is a war themed shoot-em-up with one or simultaneous two-player gameplay in which two unnamed commandos must battle through five different stages - each containing four screens of play - to reach and defeat an evil dictator.</desc>
-		<image>./boxart/cabal.jpg</image>
-		<video>./snaps/cabal.mp4</video>
 		<rating>0.6</rating>
 		<releasedate>19880101T000000</releasedate>
 		<developer>Tad Corporation</developer>
 		<publisher>Tad Corporation</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T081020</lastplayed>
+		<image>./boxart/cabal.jpg</image>
+		<video>./snaps/cabal.mp4</video>
 	</game>
 	<game>
 		<path>./chelnov.zip</path>
 		<name>Chelnov: Atomic Runner</name>
-		<desc>A horizontally scrolling platform shoot-em-up in which the player controls Chelnov, a former coal miner caught up in a Chernobyl-like nuclear accident. Now possessing superior phys</desc>
-		<image>./boxart/chelnov.jpg</image>
-		<video>./snaps/chelnov.mp4</video>
+		<sortname />
+		<desc>A horizontally scrolling platform shoot-em-up in which the player controls Chelnov, a former coal miner caught up in a Chernobyl-like nuclear accident. Now possessing superior physics.</desc>
 		<rating>0.5</rating>
 		<releasedate>19880101T000000</releasedate>
 		<developer>Data East</developer>
 		<publisher>Data East</publisher>
 		<genre>Platform</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T081620</lastplayed>
+		<image>./boxart/chelnov.jpg</image>
+		<video>./snaps/chelnov.mp4</video>
 	</game>
 	<game>
 		<path>./combatsc.zip</path>
 		<name>Combat School</name>
-		<desc>Combat School is multi-event combat-themed sports game for one or two players, similar in gameplay style to Konami's earlier Track and Field games. Players must compete in a series of boot-camp style events under the watchful eye of the strict drill instructor, with the ultimate aim of completed all events and graduating as a full soldier. The game is composed of seven training events, each of which must be completed within a set time to progress to the next. If players only narrowly miss out on qualifying in an event, they must complete a set number of chin-ups as punishment. If they manage this within the time limit, they can progress to the next event. This only occurs once per round, however.</desc>
-		<image>./boxart/combatsc.jpg</image>
-		<video>./snaps/combatsc.mp4</video>
+		<sortname />
+		<desc>Combat School is multi-event combat-themed sports game for one or two players, similar in gameplay style to Konami's earlier Track and Field games. Players must compete in a series of boot-camp style events under the watchful eye of the strict drill instructor, with the ultimate aim of completed all events and graduating as a full soldier. The game is composed of seven training events, each of which must be completed within a set time to progress to the next. If players only narrowly miss out on qualifying in an event, they must complete a set number of chin-ups as punishment. If they manage this within the time limit, they can progress to the next event.</desc>
 		<rating>0.5</rating>
 		<releasedate>19880101T000000</releasedate>
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
 		<genre>Sports</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T081914</lastplayed>
+		<image>./boxart/combatsc.jpg</image>
+		<video>./snaps/combatsc.mp4</video>
 	</game>
 	<game>
 		<path>./galagamf.zip</path>
 		<name>Galaga (fast shoot hack)</name>
 		<sortname>Galaga 2</sortname>
 		<desc>Galaga is a single-screen shoot-em-up in which the player controls a 'Fighter' spaceship and must defend the home planet against the on-coming hordes of alien invaders called "Galagans". The Fighter can only move left and right along the bottom of the screen. Galagans fly onto the screen in a variety of formations before forming troop lines at the top of the screen. Once all troop lines are formed the Galagans separate and start attacking the player's Fighter in ones, twos and threes. The top-line Boss Galaga need to be shot twice before they are destroyed.</desc>
-		<image>./boxart/galagamf.jpg</image>
-		<video>./snaps/galagamf.mp4</video>
 		<rating>0.9</rating>
 		<releasedate>19810101T000000</releasedate>
 		<developer>Namco</developer>
 		<publisher>Midway</publisher>
 		<genre>Shoot'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T082149</lastplayed>
+		<image>./boxart/galagamf.jpg</image>
+		<video>./snaps/galagamf.mp4</video>
 	</game>
 	<game>
 		<path>./hbarrel.zip</path>
 		<name>Heavy Barrel</name>
+		<sortname />
 		<desc>Heavy Barrel is a 1987 overhead run and gun arcade game by Data East. Terrorists have seized the underground control complex of a nuclear missile site, and it is up to the player to infiltrate the base and kill the enemy leader. Players begin armed with a laser gun with unlimited ammunition and a limited supply of grenades. Improved weapons and grenade powerups are made available within the game, either in plain sight or within crates that must be unlocked using keys. Additionally, crates may contain orbs or one of the six pieces of the Heavy Barrel superweapon. Like SNK's Ikari Warriors, the original arcade version featured 8-way rotary joysticks.</desc>
-		<image>./boxart/hbarrel.jpg</image>
-		<video>./snaps/hbarrel.mp4</video>
 		<rating>0.6</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>Data East</developer>
 		<publisher>Data East</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T082458</lastplayed>
+		<image>./boxart/hbarrel.jpg</image>
+		<video>./snaps/hbarrel.mp4</video>
 	</game>
 	<game>
 		<path>./hyperpac.zip</path>
 		<name>Hyper Pac-Man</name>
+		<sortname />
 		<desc>This is an updated version of Namco's seminal "Pac-Man", featuring forced-perspective 3-D graphics that allow the players to jump over the enemy ghosts; in a similar fashion to Namco's "Pac-Mania", released in 1987. There are secret items and food to be found on each level that increases the player's power and score. The power-ups themselves consist of a shield, helmet lasers, speed and jump shoes. Players will face a boss encounter every ten stages and the game ends after the 30th stage.</desc>
-		<image>./boxart/hyperpac.jpg</image>
-		<video>./snaps/hyperpac.mp4</video>
 		<rating>0.5</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>SemiCom</developer>
 		<publisher>SemiCom</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T082646</lastplayed>
+		<image>./boxart/hyperpac.jpg</image>
+		<video>./snaps/hyperpac.mp4</video>
 	</game>
 	<game>
 		<path>./ikaria.zip</path>
 		<name>Ikari Warriors</name>
+		<sortname />
 		<desc>Ikari Warriors is a vertically-scrolling run 'n' gun shoot-em-up in which one or two players take on the roles of two bandana-wearing musclebound soldiers as they engage in jungle warfare, fighting over land and water to reach the village of Ikari. Players can rotate their guns through 360 degrees, allowing them to fire and move in all directions. Standing between the soldiers and their destination is a multitude of enemy soldiers, tanks, helicopters and reinforced bunkers.</desc>
-		<image>./boxart/ikaria.jpg</image>
-		<video>./snaps/ikaria.mp4</video>
 		<rating>0.9</rating>
 		<releasedate>19860101T000000</releasedate>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T082835</lastplayed>
+		<image>./boxart/ikaria.jpg</image>
+		<video>./snaps/ikaria.mp4</video>
 	</game>
 	<game>
 		<path>./boobhack.zip</path>
 		<name>Kid no Hore Hore Daisakusen: Dig Dig Kid's Epic Battle</name>
+		<sortname />
 		<desc>'Kid's Herehore Daisakusen' is an action game that was released from Nichibutsu in 1987. Kid, who has been drawn into the space-time labyrinth from the 23 century, fights to escape from a large track of the enemy in order to return to the present day. Players defeat enemies with dropping in holes with using items, to escape from the times, such as primitive times and the Edo era and contemporary. [Input: Joystick 4 ways]</desc>
-		<image>./boxart/boobhack.jpg</image>
-		<video>./snaps/boobhack.mp4</video>
 		<rating>0.7</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>Nichibutsu</developer>
 		<publisher>Nichibutsu</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T083036</lastplayed>
+		<image>./boxart/boobhack.jpg</image>
+		<video>./snaps/boobhack.mp4</video>
 	</game>
 	<game>
 		<path>./nbajamte.zip</path>
 		<name>NBA JAM: Tournament Edition</name>
+		<sortname />
 		<desc>A two-on-two basketball game using teams with three NBA players on most teams. This is an update to the original version.</desc>
-		<image>./boxart/nbajamte.jpg</image>
-		<video>./snaps/nbajamte.mp4</video>
 		<rating>0.9</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Midway</developer>
 		<publisher>Midway</publisher>
 		<genre>Sports</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T083311</lastplayed>
+		<image>./boxart/nbajamte.jpg</image>
+		<video>./snaps/nbajamte.mp4</video>
 	</game>
 	<game>
 		<path>./rygar.zip</path>
 		<name>Rygar</name>
+		<sortname />
 		<desc>An evil being known as Ligar is about to conquer the land of Argool. Such is his power that no living creature dares to cross paths with him. But the legendary warrior Rygar rises from his grave to restore peace and justice. Armed with his famed weapon Diskarmor, Rygar begins to traverse the vast lands that lead to the lair of the demon, as his minions are trying in vain to stop him.</desc>
-		<image>./boxart/rygar.jpg</image>
-		<video>./snaps/rygar.mp4</video>
 		<rating>0.9</rating>
 		<releasedate>19860101T000000</releasedate>
 		<developer>Tecmo</developer>
 		<publisher>Tecmo</publisher>
 		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220222T083540</lastplayed>
+		<image>./boxart/rygar.jpg</image>
+		<video>./snaps/rygar.mp4</video>
 	</game>
 	<game>
 		<path>./amazon.zip</path>
 		<name>Soldier Girl Amazon</name>
-		<desc>Become the Mighty Fighting Amazon and you will search jungles and deserts on the most dangerous island on earth. Your mission is to recapture the men you desperately need to save the only race of giant womankind</desc>
-		<image>./boxart/amazon.jpg</image>
-		<video>./snaps/amazon.mp4</video>
+		<sortname />
+		<desc>Become the Mighty Fighting Amazon and you will search jungles and deserts on the most dangerous island on earth. Your mission is to recapture the men you desperately need to save the only race of giant womankind.</desc>
 		<rating>0.7</rating>
 		<releasedate>19860101T000000</releasedate>
 		<developer>Nichibutsu</developer>
 		<publisher>Nichibutsu</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T083722</lastplayed>
+		<image>./boxart/amazon.jpg</image>
+		<video>./snaps/amazon.mp4</video>
 	</game>
 	<game>
 		<path>./ssriders.zip</path>
 		<name>Sunset Riders (4 Players)</name>
+		<sortname />
 		<desc>Sunset Riders is a horizontally-scrolling platform shoot-em-up for up to four players set in America's Wild West. Four sharpshooter bounty hunters (Steve, Billy, Bob and Cormano) set out to claim the bounties for killing the most wanted outlaws in the West, before a final showdown against the infamous Sir Richard de la Rose.</desc>
-		<image>./boxart/ssriders.jpg</image>
-		<video>./snaps/ssriders.mp4</video>
 		<rating>0.9</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
 		<genre>Action</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T083946</lastplayed>
+		<image>./boxart/ssriders.jpg</image>
+		<video>./snaps/ssriders.mp4</video>
 	</game>
 	<game>
 		<path>./thndrbld1.zip</path>
 		<name>Thunder Blade</name>
+		<sortname />
 		<desc>Taking control of a heavily-armed battle chopper, the player must battle through a variety of both overhead and 'into-the-screen' 3-D stages.</desc>
-		<image>./boxart/thndrbld1.jpg</image>
-		<video>./snaps/thndrbld1.mp4</video>
 		<rating>0.7</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>SEGA</developer>
 		<publisher>SEGA</publisher>
 		<genre>Shoot'em up</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220222T084211</lastplayed>
+		<image>./boxart/thndrbld1.jpg</image>
+		<video>./snaps/thndrbld1.mp4</video>
 	</game>
 	<game>
 		<path>./thoop.zip</path>
 		<name>Thunder Hoop</name>
+		<sortname />
 		<desc>A platform game where you aim to defeat Dr. GenBrain. Climb ladders and jump on platforms while killing enemies on the way to the end-of-level boss.</desc>
-		<image>./boxart/thoop.jpg</image>
-		<video>./snaps/thoop.mp4</video>
 		<rating>0.3</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Gaelco</developer>
 		<publisher>Gaelco</publisher>
 		<genre>Platform</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T084357</lastplayed>
+		<image>./boxart/thoop.jpg</image>
+		<video>./snaps/thoop.mp4</video>
 	</game>
 	<game>
 		<path>./aliens.zip</path>
 		<name>Aliens</name>
+		<sortname />
 		<desc>Aliens is a scrolling run 'n' gun game for one or two players based on the classic 1986 science-fiction movie of the same name. Players take on the role of either Ellen Ripley (in the single-player game) or Corporal Hicks (in the two-player game) and must shoot their way through the alien-infested levels of the LV426 base to make their escape together with 'Newt', the little girl who survived the alien invasion of her settlement.</desc>
-		<image>./boxart/aliens.jpg</image>
-		<video>./snaps/aliens.mp4</video>
 		<rating>0.5</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
 		<genre>Platform</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T135413</lastplayed>
+		<image>./boxart/aliens.jpg</image>
+		<video>./snaps/aliens.mp4</video>
 	</game>
 	<game>
 		<path>./altbeast.zip</path>
 		<name>Altered Beast</name>
+		<sortname />
 		<desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess.</desc>
-		<image>./boxart/altbeast.jpg</image>
-		<video>./snaps/altbeast.mp4</video>
 		<rating>0.5</rating>
 		<releasedate>19880101T000000</releasedate>
 		<developer>SEGA</developer>
 		<publisher>SEGA</publisher>
 		<genre>Beat'em up</genre>
 		<players>1-2</players>
-		<favorite>true</favorite>
-		<playcount>2</playcount>
-		<lastplayed>20220226T142936</lastplayed>
+		<image>./boxart/altbeast.jpg</image>
+		<video>./snaps/altbeast.mp4</video>
 	</game>
 	<game>
 		<path>./avsp.zip</path>
 		<name>Alien vs. Predator</name>
+		<sortname />
 		<desc>San Drad, California, has been overrun by the Aliens, and the cybernetically-enhanced Major Dutch Schaefer and Lieutenant Linn Kurosawa have been abandoned by their superiors and are cornered by a swarm of the Alien drones. Before they can be killed, a pair of the Predators appear and destroy the Aliens. The Predators offer an alliance with the two humans in order to stop the Alien infestation.</desc>
-		<image>./boxart/avsp.jpg</image>
-		<video>./snaps/avsp.mp4</video>
 		<rating>0.4</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>Beat'em up</genre>
 		<players>1-3</players>
-		<playcount>4</playcount>
-		<lastplayed>20220226T144919</lastplayed>
+		<image>./boxart/avsp.jpg</image>
+		<video>./snaps/avsp.mp4</video>
 	</game>
 	<game>
 		<path>./gauntlet.zip</path>
 		<name>Gauntlet</name>
+		<sortname />
 		<desc>Gauntlet is a maze-based shoot-em-up for up to four players. Heavily influenced by classic fantasy conventions, players take on the role of either Thor the Warrior, Thyra the Valkyrie, Merlin the Wizard, or Questor the Elf and must play cooperatively as they explore and fight their way through the enemy-packed mazes. Competitive play is encouraged as players must fight for the limited amount of food, treasure, magic potions and power-up items that litter the dungeons.</desc>
-		<image>./boxart/gauntlet.jpg</image>
-		<video>./snaps/gauntlet.mp4</video>
 		<rating>0.7</rating>
 		<releasedate>19850101T000000</releasedate>
 		<developer>Atari</developer>
 		<publisher>Atari</publisher>
 		<genre>Action</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220226T152633</lastplayed>
+		<image>./boxart/gauntlet.jpg</image>
+		<video>./snaps/gauntlet.mp4</video>
 	</game>
 	<game>
 		<path>./ga2.zip</path>
 		<name>Golden Axe: The Revenge of Death Adder</name>
+		<sortname />
 		<desc>Like it's legendary prequel, 1989's "Golden Axe"; 'Revenge' is sideways scrolling beat-em-up set in a traditional fantasy world, in which the evil 'Death Adder' has arisen to take over the lands. The game supports simultaneous four-player gameplay, with each player taking on one of the game's characters. The four available characters are 'Sternblade' (a barbarian warrior), 'Dora' (a female centaurian), 'Goah' (a giant with a dwarf sitting atop his shoulders) and 'Little Trix' (an agile, oriental-style warrior).</desc>
-		<image>./boxart/ga2.jpg</image>
-		<video>./snaps/ga2.mp4</video>
 		<rating>0.6</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>SEGA</developer>
 		<publisher>SEGA</publisher>
 		<genre>Beat'em up</genre>
 		<players>1-4</players>
-		<playcount>2</playcount>
-		<lastplayed>20220226T153444</lastplayed>
+		<image>./boxart/ga2.jpg</image>
+		<video>./snaps/ga2.mp4</video>
 	</game>
 	<game>
 		<path>./rmpgwt.zip</path>
 		<name>Rampage: World Tour</name>
+		<sortname />
 		<desc>A sequel to the 1986 original, Rampage World Tour once again has George, Lizzie, and Ralph bent on a trail of destruction. The 'World Tour' of the title refers to the fact that the action now takes place around the entire world, instead of just North America. Graphics are much improved and a kick button has been added to allow even more chaos.</desc>
-		<image>./boxart/rmpgwt.jpg</image>
-		<video>./snaps/rmpgwt.mp4</video>
 		<rating>0.9</rating>
 		<releasedate>19970101T000000</releasedate>
 		<developer>Game Refuge Inc.</developer>
 		<publisher>Midway</publisher>
 		<genre>Action</genre>
 		<players>1-3</players>
-		<playcount>1</playcount>
-		<lastplayed>20220226T154056</lastplayed>
+		<image>./boxart/rmpgwt.jpg</image>
+		<video>./snaps/rmpgwt.mp4</video>
 	</game>
 	<game>
 		<path>./simpsons.zip</path>
 		<name>Simpsons, The (4 Players)</name>
+		<sortname />
 		<desc>A jewel heist gone wrong sees Mr Burns's sidekick, Smithers, kidnapping Maggie and making his escape. Between one and four players take on the role of either Homer, Marge, Lisa, or Bart in this colorful, horizontally-scrolling beat-em-up from Konami. Each Simpsons character possesses an attacking move specific to them; Marge is armed with a vacuum cleaner, Lisa has a skipping rope, Bart has his skateboard, and Homer fights with his fists.</desc>
-		<image>./boxart/simpsons.jpg</image>
-		<video>./snaps/simpsons.mp4</video>
 		<rating>0.9</rating>
 		<releasedate>19910403T000000</releasedate>
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
 		<genre>Beat'em up</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220226T154942</lastplayed>
-	</game>
-	<game>
-		<path>./ssprint.zip</path>
-		<name>Super Sprint</name>
-		<desc>Like "Championship Sprint", released the same year, Super Sprint is an updated version of the old Atari Sprint series; with added the ability to allow players to upgrade their vehicles as the game progresses. Upgrades are won by collecting wrenches that appear once per track. After a player has collected four wrenches, they will be presented with an upgrade screen; giving them the opportunity to choose better traction, increased top speed, faster acceleration, or a faster helicopter. The only discernible difference between this and "Championship Sprint" is the addition of brand new tracks.</desc>
-		<image>./boxart/ssprint.jpg</image>
-		<video>./snaps/ssprint.mp4</video>
-		<rating>0.7</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Racing</genre>
-		<players>1-3</players>
-		<playcount>1</playcount>
-		<lastplayed>20220226T155402</lastplayed>
+		<image>./boxart/simpsons.jpg</image>
+		<video>./snaps/simpsons.mp4</video>
 	</game>
 	<game>
 		<path>./tankfrce4.zip</path>
 		<name>Tank Force (4 Players)</name>
+		<sortname />
 		<desc>Tank Force is a multi-directional shooter arcade game that was released by Namco in 1991; it was the last game to run on their System 1 hardware (which had been in use for four years), is the sequel to Battle City, which was released six years earlier and is a sequel to Tank Battalion, which had been released five years before it (and eleven years before this title). The US version of the game was also the first of seven games from the company to display the Federal Bureau of Investigation's "Winners Don't Use Drugs" screen during its attract mode.</desc>
-		<image>./boxart/tankfrce4.jpg</image>
-		<video>./snaps/tankfrce4.mp4</video>
 		<rating>0.7</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
 		<genre>Action</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220226T155114</lastplayed>
+		<image>./boxart/tankfrce4.jpg</image>
+		<video>./snaps/tankfrce4.mp4</video>
 	</game>
 	<game>
 		<path>./wof.zip</path>
 		<name>Warriors of Fate</name>
+		<sortname />
 		<desc>Warriors of Fate is a side-scrolling beat 'em up produced by Capcom, first released as a coin-operated arcade game in 1992 and later ported to the Sega Saturn and Sony PlayStation. It is Capcom's third game based on the Tenchi wo Kurau manga, following Dynasty Wars and Destiny of an Emperor.</desc>
-		<image>./boxart/wof.jpg</image>
-		<video>./snaps/wof.mp4</video>
 		<rating>0.6</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>Beat'em up</genre>
 		<players>1-3</players>
-		<playcount>1</playcount>
-		<lastplayed>20220226T155420</lastplayed>
+		<image>./boxart/wof.jpg</image>
+		<video>./snaps/wof.mp4</video>
 	</game>
 	<game>
-		<path>./88games.zip</path>
-		<name>'88 Games</name>
-		<desc>Konami '88 (also known as '88 Games or Hyper Sports Special) is the third in the Track &amp; Field game series by Konami, where you test your Olympic skills against other world-class athletes. As the name implies, it is loosely based on (and not licensed by) the 1988 Summer Olympics in Seoul, South Korea. Bronze or silver medals are not good enough - you have to go for the gold to get to the next event. However, you must at least qualify in each event in order to compete in the next event. [Input: Buttons Only]</desc>
-		<image>./boxart/88games.jpg</image>
-		<video>./snaps/88games.mp4</video>
-		<rating>0.6</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Sports</genre>
-		<players>1-4</players>
-		<playcount>2</playcount>
-		<lastplayed>20220301T082042</lastplayed>
-	</game>
-	<game>
-		<path>./phoenix.zip</path>
-		<name>Phoenix</name>
-		<desc>Phoenix is a classic vertical shoot-em-up in the mould of Taito's "Space Invaders" and Namco's "Galaxian", but takes the concept further with the introduction of progressive stages of play (instead of simply repeating a single playfield over and over with an increasing difficulty level).</desc>
-		<image>./boxart/phoenix.jpg</image>
-		<video>./snaps/phoenix.mp4</video>
-		<releasedate>19780101T000000</releasedate>
-		<developer>Amstar</developer>
-		<publisher>Centuri</publisher>
+		<path>./baryon.zip</path>
+		<name>Baryon: Future Assault</name>
+		<sortname />
+		<desc>This game is based on a South Korean PC game of the same name developed by Acro Studio in 1995. SemiCom ported the game to the Arcades but at this time, South Korean gamers played famous Japanese shoot'em ups and Baryon didn't was as good as these games.</desc>
+		<rating>0.5</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SemiCom</developer>
+		<publisher>SemiCom</publisher>
 		<genre>Shoot'em up</genre>
 		<players>1-2</players>
-		<favorite>true</favorite>
+		<image>./boxart/baryon.jpg</image>
+		<video>./snaps/baryon.mp4</video>
 	</game>
 	<game>
-		<path>./xmen.zip</path>
-		<name>X-Men</name>
-		<desc>X-Men is a side-scrolling beat-em-up for up to four players. The X-Men's mission is to find and rescue Professor X, who has been captured by evil mutants and is now being held prisoner by Magneto.</desc>
-		<image>./boxart/xmen.jpg</image>
-		<video>./snaps/xmen.mp4</video>
-		<rating>0.9</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Beat'em up</genre>
+		<path>./chokchok.zip</path>
+		<name>Choky! Choky!</name>
+		<sortname />
+		<desc>Yet another clone of Buster Brothers / Pang! / Pomping World - this one featuring low-budget music and sound effects, and split-screen competitive two-player action, somewhat reminiscent of Twinkle Star Sprites.</desc>
+		<rating>0.5</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SemiCom</developer>
+		<publisher>SemiCom</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/chokchok.jpg</image>
+		<video>./snaps/chokchok.mp4</video>
+	</game>
+	<game>
+		<path>./extdwnhl.zip</path>
+		<name>Extreme Downhill</name>
+		<sortname />
+		<desc>Extreme Downhill is a Sports game, developed by Scarab and published by Sammy Studios, which was released in Japan in 1995.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<publisher>Sammy Studios</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/extdwnhl.jpg</image>
+		<video>./snaps/extdwnhl.mp4</video>
+	</game>
+	<game>
+		<path>./masterwu.zip</path>
+		<name>Master of Weapon</name>
+		<sortname />
+		<desc>A seven-day nuclear storm brings on a big change on the earth. The earth cracks, the sea boils and the living things change. And human is no exception. After finishing of the cursed 7-day war, the remaining people change their cells and return to the nature in order to endure severe environmental changes. However, a selected part of the people - they had been called scientists - create a computer, which can lead the people in order to leave a seed humankind. This computer is called N.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/masterwu.jpg</image>
+		<video>./snaps/masterwu.mp4</video>
+	</game>
+	<game>
+		<path>./numanath.zip</path>
+		<name>Numan Athletics</name>
+		<sortname />
+		<desc>An athletics game featuring 8 tournaments: Interceptor A real life missile defense style-contest as missiles are being launched from a ship, and you must use your mystical powers to stop the oncoming missiles. The outside buttons (1 &amp; 3) make you step to the left or right, and the middle button is fire. Failure to hit the missile results in you being blown up. If you select Sharon from France, most of her clothes would disappear except for the bottom part of her suit. Niagara Jumps The final competition in the tournament. It is also considered to be the most difficult competition in the game. Very similar to the Triple Jump competition in the Olympics. The object is this contest is to make it across the falls.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Sports</genre>
 		<players>1-4</players>
-		<favorite>true</favorite>
+		<image>./boxart/numanath.jpg</image>
+		<video>./snaps/numanath.mp4</video>
+	</game>
+	<game>
+		<path>./radarscp.zip</path>
+		<name>Radar Scope</name>
+		<sortname />
+		<desc>As captain of the Sonic Spaceport, players must defend their station against enemy spaceships called Gamma Raiders, which attack with vengeance and swiftly retreat to formation. The object of the game is to destroy 48 enemy Gamma Raiders before there is total disintegration of all the Spaceports on the player's side. Players can counterattack with the Rapid-Fire Laser Blaster which zooms the lasers over the three-dimensional-esque field of curving vectors, while it intercepts enemies. The lower on the radar screen that you destroy a Gamma Raider, the more points will be earned. If exploding decoys damage the Sonic Spaceport, the Laser Blaster's firing speed will reduce.</desc>
+		<rating>0.5</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/radarscp.jpg</image>
+		<video>./snaps/radarscp.mp4</video>
+	</game>
+	<game>
+		<path>./dotron.zip</path>
+		<name>Discs of Tron</name>
+		<sortname />
+		<desc>As Tron, you fling discs at Sark in an attempt to knock him off his platform. Knocking off Sark will advance you to the next level. Other levels vary the level and number of platforms to jump between. [Input: Dial, Trackball]</desc>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/dotron.jpg</image>
+		<video>./snaps/dotron.mp4</video>
+	</game>
+	<game>
+		<path>./milliped.zip</path>
+		<name>Millipede</name>
+		<sortname />
+		<desc>Millipede is a 1- or 2-player game with a color raster-scan video display. The game action takes place on a playfield filled with mushrooms, flowers, and deadly DDT bombs. The player tries to destroy a variety of insects that drop from the top of the screen or enter from the sides of the screen, most of them to attack the player. The player controls a bow-shaped vehicle called the Archer. The object of the game is to shoot and destroy as many objects as possible for a high point score, before the player's lives are all used up. Player control consists of a Midi Trak-Ball control and a FIRE button. [Input: Trackball]</desc>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/milliped.jpg</image>
+		<video>./snaps/milliped.mp4</video>
+	</game>
+	<game>
+		<path>./omegrace.zip</path>
+		<name>Omega Race</name>
+		<sortname />
+		<desc>Omega Race is a vector-based single-screen shoot-em-up set in the year 2003, in which the Omegan system has developed a way of training its warriors to protect their star colonies against invading alien androids. Players must pilot an Omegan Space Fighter to engage and destroy the aliens and the mines they have planted. The Omegan Fighter can rotate through 360 degrees and thrust to move forwards, it's also armed with forward-firing lasers with which to shoot the enemy ships. Battles take place in an enclosed area and when the player's ship reaches the edge of the screen it bounces off an invisible barrier, although the barrier briefly appears when hit or shot. [Input: Dial]</desc>
+		<rating>0.9</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/omegrace.jpg</image>
+		<video>./snaps/omegrace.mp4</video>
+	</game>
+	<game>
+		<path>./arkanoid.zip</path>
+		<name>Arkanoid</name>
+		<sortname />
+		<desc>After a sudden alien assault, the Arkanoid spaceship has been destroyed and the only survivor, the small 'Vaus' space vessel, has been mysteriously trapped in another dimension by an unknown enemy. The player is charged with helping the 'Vaus' overcome the security systems, as well as the many enemies that guard them, before finally finding and destroying 'DOH', the alien responsible for the attack. [Input: Dial]</desc>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/arkanoid.jpg</image>
+		<video>./snaps/arkanoid.mp4</video>
+	</game>
+	<game>
+		<path>./blstroid.zip</path>
+		<name>Blasteroids</name>
+		<sortname />
+		<desc>Blasteroids is a 1 or 2-player update of Atari's seminal "Asteroids", where the object of the game is to clear all sectors of the asteroids and enemy ships. Once this task is completed, the player goes on to battle Mukor - the "boss" asteroid who rules all galaxies - and destroy him. The player's ship appears first in the center of four vortices, he or she must chose which vortex they wish to enter, which then transports them to a sector of their chosen star system. [Input: Dial]</desc>
+		<rating>0.6</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/blstroid.jpg</image>
+		<video>./snaps/blstroid.mp4</video>
+	</game>
+	<game>
+		<path>./boscomd.zip</path>
+		<name>Bosconian</name>
+		<sortname />
+		<desc>Bosconian is a multi-directional space shooter where the player must destroy several enemy bases on each round while evading enemy ships, asteroids and mines. Enemy bases are destroyed either with a shot to the center or by shooting out all six base cannons. The player's ship is always positioned in the center of the screen with everything else scrolling around it as the player flies. A radar map to the right shows the position of the player, enemy bases, and occasional formation attack groups.</desc>
+		<rating>0.4</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/boscomd.jpg</image>
+		<video>./snaps/boscomd.mp4</video>
+	</game>
+	<game>
+		<path>./cameltry.zip</path>
+		<name>Cameltry</name>
+		<sortname />
+		<desc>In Cameltry the player must guide a ball through a number of mazes, rotating the maze through 180 degrees to get the ball to move in the desired direction - much like the bonus levels in the Sega Genesis/Mega Drive console title, "Sonic the Hedgehog". Each maze must be completed within a tight time limit and a number of traps and obstacles litter the mazes to slow players down. There are, however, a number of positive targets to be hit, and bonuses - such as additional time - can be found hidden away within the mazes. When the ball is stuck or the player would like to speed up, the JUMP button can be used. [Input: Dial]</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/cameltry.jpg</image>
+		<video>./snaps/cameltry.mp4</video>
+	</game>
+	<game>
+		<path>./capbowl.zip</path>
+		<name>Capcom Bowling</name>
+		<sortname />
+		<desc>This top-down view bowling game allows up to four players to compete. The trackball controls the aim and power of your throw and two buttons control the left and right hook respectively. There are graphic displays of turkeys, splits, gutters etc. and the game keeps track of scoring and high scores. [Input: Trackball]</desc>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/capbowl.jpg</image>
+		<video>./snaps/capbowl.mp4</video>
+	</game>
+	<game>
+		<path>./centiped.zip</path>
+		<name>Centipede</name>
+		<sortname />
+		<desc>Centipede is a vertically oriented single screen shoot-em-up in which the aim is to use the 'Bug Blaster' to shoot the centipedes that snake down towards the bottom of the screen to amass as high a score as possible. The play-field is littered with randomly placed mushrooms and the rapidly descending Centipede changes direction when it runs into a mushroom. When a segment of the Centipede is shot, the segment is destroyed and a mushroom appears in its place, the Centipede then breaks into two smaller centipedes, each with its own head, and continues its descent. [Input: Trackball]</desc>
+		<rating>0.7</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/centiped.jpg</image>
+		<video>./snaps/centiped.mp4</video>
+	</game>
+	<game>
+		<path>./ccastles.zip</path>
+		<name>Crystal Castles</name>
+		<sortname />
+		<desc>Crystal Castles is an inventive variation on the maze-driven collect-the-dots gameplay first seen in Namco's legendary "Pac-Man". The player takes on the role of 'Bentley Bear', who must run around a number of "castles" - each presented in the form of an isometric forced 3D maze - picking up the gemstones that litter its walkways and platforms, before moving onto the next castle. Each level is populated by a variety of enemies, including sentient trees, gem eaters, a swarm of bees and Berthilda the Witch. [Input: Trackball]</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/ccastles.jpg</image>
+		<video>./snaps/ccastles.mp4</video>
+	</game>
+	<game>
+		<path>./gtgt.zip</path>
+		<name>Golden Tee Golf</name>
+		<sortname />
+		<desc>Golden Tee Golf is an arcade game which has been extremely popular across bars and pubs. Players use a trackball to hit the golf ball over a wide range of challenging courses. The game also has online leaderboards and tournaments. [Input: Trackball]</desc>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Strata</developer>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/gtgt.jpg</image>
+		<video>./snaps/gtgt.mp4</video>
+	</game>
+	<game>
+		<path>./gtg2.zip</path>
+		<name>Golden Tee Golf II</name>
+		<sortname />
+		<desc>Golden Tee Golf II retains the mechanics of its predecessor Golden Tee Golf, but replaces the courses with four new ones. [Input: Trackball]</desc>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Strata</developer>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/gtg2.jpg</image>
+		<video>./snaps/gtg2.mp4</video>
+	</game>
+	<game>
+		<path>./marble.zip</path>
+		<name>Marble Madness</name>
+		<sortname />
+		<desc>Marble Madness is an abstract maze game for one or two players. The game's goal is to guide a small glass marble over a three-dimensional maze and reach the finish line before the level's timer has expired. Any seconds that remain on the timer when the finish line is crossed are carried over to the next level. As well as having to negotiate the marble over treacherous walkways and ramps, numerous obstacles and unfriendly creatures will try to slow the marble's progress or knock it over the edge of a platform, wasting yet more precious seconds until a replacement marble appears. The two-player game has players competing to reach the goal first. Marble Madness features six different mazes. [Input: Trackball]</desc>
+		<rating>0.9</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/marble.jpg</image>
+		<video>./snaps/marble.mp4</video>
+	</game>
+	<game>
+		<path>./missile.zip</path>
+		<name>Missile Command</name>
+		<sortname />
+		<desc>Missile Command is a one or two-player game depicting the outbreak of a nuclear war. Players must defend six cities from waves of incoming nuclear missiles by launching their own anti-ballistic missiles (ABMs) from one of three missile batteries. The game is played by moving a cross-hair across the sky and pressing one of three buttons to launch an ABM from the corresponding battery (either Alpha Base, Delta Base or Omega Base). Upon reaching the cross-hair the player's ABM explodes, creating a fireball that lasts for several seconds and destroys any enemy missiles that enter it. [Input: Trackball]</desc>
+		<rating>0.9</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/missile.jpg</image>
+		<video>./snaps/missile.mp4</video>
+	</game>
+	<game>
+		<path>./polaris.zip</path>
+		<name>Polaris</name>
+		<sortname />
+		<desc>Polaris is a 1-player, single screen shoot-em-up, baring many similarities to Taito's most famous shoot-em-up, "Space Invaders", in which a player takes on the role of Commander of a Polaris class nuclear submarine. War has been declared and the Polaris' mission is to defend the country from enemy attack.</desc>
+		<rating>0.6</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/polaris.jpg</image>
+		<video>./snaps/polaris.mp4</video>
+	</game>
+	<game>
+		<path>./rampart.zip</path>
+		<name>Rampart</name>
+		<sortname />
+		<desc>Rampart is a superb arcade puzzle game in which up to three players must build up a castle using Tetris shaped pieces to form a castle wall and enclose their keep. Each player must then place a limited number of cannons inside their castle wall before the timer expires. Once the cannons have been placed the battle itself begins. Players must target their cannons onto the enemy's castle (or, in the one-player game, enemy ships and peons) and destroy as much of the enemy army as possible before the time limit expires. Once the battle is over the players must repair their castles, again using tetris shapes. The players' Keep must be completely encircled with castle wall or the game is over.</desc>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Tengen</publisher>
+		<genre>Action</genre>
+		<players>1-3</players>
+		<image>./boxart/rampart.jpg</image>
+		<video>./snaps/rampart.mp4</video>
+	</game>
+	<game>
+		<path>./shufshot.zip</path>
+		<name>Shuffleshot</name>
+		<sortname />
+		<desc>A one to four player sports game published and developed by Strata in 1997. Choose from Bocce, Bullseye, Shuffleboard or ShuffleAlley. [Input: Trackball]</desc>
+		<rating>0.6</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Strata</developer>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/shufshot.jpg</image>
+		<video>./snaps/shufshot.mp4</video>
+	</game>
+	<game>
+		<path>./shuuz.zip</path>
+		<name>Shuuz</name>
+		<sortname />
+		<desc>The game of horseshoes hosted by a cartoon horse! A variety of comical distractions occur throughout the game. The game has a redneck theme and all the characters have their own sayings and quirky behaviors. [Input: Trackball]</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/shuuz.jpg</image>
+		<video>./snaps/shuuz.mp4</video>
+	</game>
+	<game>
+		<path>./ssprint.zip</path>
+		<name>Super Sprint</name>
+		<sortname />
+		<desc>Like "Championship Sprint", released the same year, Super Sprint is an updated version of the old Atari Sprint series; with added the ability to allow players to upgrade their vehicles as the game progresses. Upgrades are won by collecting wrenches that appear once per track. After a player has collected four wrenches, they will be presented with an upgrade screen; giving them the opportunity to choose better traction, increased top speed, faster acceleration, or a faster helicopter. The only discernible difference between this and "Championship Sprint" is the addition of brand new tracks. [Input: Dial, Pedal]</desc>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Racing</genre>
+		<players>1-3</players>
+		<image>./boxart/ssprint.jpg</image>
+		<video>./snaps/ssprint.mp4</video>
+	</game>
+	<game>
+		<path>./tempest.zip</path>
+		<name>Tempest</name>
+		<sortname />
+		<desc>The objective of Tempest is to survive as long as possible and score as many points as possible by clearing the screen of enemies that have landed on the playing field. The player's ship can rapid-fire shots down the tube, destroying any enemies within the same segment, and is also equipped with a Superzapper, which destroys all enemies currently on the playfield once per level. (A second use of the Superzapper in a level destroys one random enemy.) [Input: Dial]</desc>
+		<rating>0.9</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/tempest.jpg</image>
+		<video>./snaps/tempest.mp4</video>
+	</game>
+	<game>
+		<path>./tron.zip</path>
+		<name>Tron</name>
+		<sortname />
+		<desc>Tron is a 1- or 2-player game set inside the 'Tron' computer, and is based on the ground-breaking Disney movie of the same name. Tron consists of twenty-two stages - or 'phases' - of play. Each phase consists of four separate games called "domains", all of which must be completed before moving on to the next phase. Players can determine the order in which each of the four domains is attempted, but the domain position is random and is only revealed once that domain has been chosen. The four domains that make up a phase never change throughout the game, although both the difficulty level and number of enemies increases with each subsequent phase. [Input: Dial]</desc>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/tron.jpg</image>
+		<video>./snaps/tron.mp4</video>
+	</game>
+	<game>
+		<path>./wcbowl.zip</path>
+		<name>World Class Bowling</name>
+		<sortname />
+		<desc>One to four can play. Ture 3D Effects. Plays just like real bowling. Awesome pin action with exciters. Complete JAMMA compatible kits. Player rewards for special scores. Multiple high score pages. Ideal for tournament play! [Input: Trackball]</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/wcbowl.jpg</image>
+		<video>./snaps/wcbowl.mp4</video>
 	</game>
 </gameList>

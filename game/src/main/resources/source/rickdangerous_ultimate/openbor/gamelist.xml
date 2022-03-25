@@ -480,4 +480,28 @@
 		<playcount>2</playcount>
 		<lastplayed>20220223T135305</lastplayed>
 	</game>
+	<game>
+		<path>./kill bill.pak</path>
+		<name>Kill Bill: Volume 1</name>
+		<sortname />
+		<desc>Kill Bill Volume 1 is a Beats of Rage mod created by Demitri and is based on the characters from the action thriller film of the same name created by Quentin Tarantino in 2003.</desc>
+		<releasedate />
+		<developer>Demitri</developer>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/kill bill.jpg</image>
+		<video>./snaps/kill bill.mp4</video>
+	</game>
+	<game>
+		<path>./simpsons.pak</path>
+		<name>Simpsons: TreeHouse of Horror</name>
+		<sortname />
+		<desc>Paying homage to the classic arcade game. This story revolves around an Alien Invasion trying to take over earth. Homer, Bart and Krusty work there way through the Aliens as they unleash all sorts of enemies and even teleport characters from other times and dimensions to assist them. Features of the game. Loads of exciting levels and environments, characters and bosses (including characters not just from Simpsons lore but also Futurama and Family Guy cameos) mini game set in a makeshift kwik e mart where you can get bonus lives. vehicle levels Big boss battles NPCs who can assist you weapons Includes Bonus games !</desc>
+		<releasedate />
+		<developer>Thatcher Productions</developer>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/simpsons.jpg</image>
+		<video>./snaps/simpsons.mp4</video>
+	</game>
 </gameList>

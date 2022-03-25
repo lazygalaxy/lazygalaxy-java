@@ -49,11 +49,13 @@ public class Constant {
 	}
 
 	public static class GameSource {
+		public final static String LAZYGALAXY = "lazygalaxy";
 		public final static String MAME = "mame";
 		public final static String RICKDANGEROUS_ULTIMATE = "rickdangerous_ultimate";
 		public final static String WOLFANOZ_12K = "wolfanoz_12k";
 		public final static String VMAN_BLISS = "vman_bliss";
 
-		public final static Set<String> ALL = Sets.newHashSet(MAME, RICKDANGEROUS_ULTIMATE, WOLFANOZ_12K, VMAN_BLISS);
+		public final static Set<String> ALL = Sets.newHashSet(LAZYGALAXY, MAME, RICKDANGEROUS_ULTIMATE, WOLFANOZ_12K,
+				VMAN_BLISS);
 	}
 }

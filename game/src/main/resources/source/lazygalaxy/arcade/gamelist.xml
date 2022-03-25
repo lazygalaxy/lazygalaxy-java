@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Arcade</System>
+		<database>LazyGalaxy</database>
+	</provider>
+	<game>
+		<path>./kodure.lazygalaxy</path>
+		<name>Kodure Ookami / Kozure Ookami</name>
+	</game>
+</gameList>

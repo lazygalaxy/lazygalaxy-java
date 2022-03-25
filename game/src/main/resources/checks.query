@@ -1,9 +1,12 @@
 // find family games
-{ "family": { $ne: null}}
-{ "family": "simpsons"}
+{ "family": { $ne: null}} //20
+{ "family": "simpsons"} //2
 
-//arcade games with no mame info
+//arcade games with no mame info // 0
 { $and: [ { "mameGameInfo":null }, { $or:[{ "systemId": { $eq: "arcade" } },{ "systemId": { $eq: "naomi" } },{ "systemId": { $eq: "atomiswave" } },{ "systemId": { $eq: "neogeo" } },{ "systemId": { $eq: "daphne" } }]}] }
+
+//arcade games with mame info guessed //10
+{ $and: [ { "mameGameInfo.isGuess":true }, { $or:[{ "systemId": { $eq: "arcade" } },{ "systemId": { $eq: "naomi" } },{ "systemId": { $eq: "atomiswave" } },{ "systemId": { $eq: "neogeo" } },{ "systemId": { $eq: "daphne" } }]}] }
 
 //developer Mitchell, publisher Data East
 {"gameId":"funkyjet"}

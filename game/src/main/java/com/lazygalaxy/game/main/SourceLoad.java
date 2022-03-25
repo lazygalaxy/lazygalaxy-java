@@ -129,14 +129,17 @@ public class SourceLoad {
 			String publisher = XMLUtil.getTagAsString(element, "publisher", 0);
 
 			Game.class.getField(source + "GameInfo").set(game,
-					new GameInfo(path, originalName, year, description, genre, image, video, marquee, rating, players,
-							developer, publisher,
+					new GameInfo(game.gameId, path, originalName, year, description, genre, image, video, marquee,
+							rating, players, developer, publisher,
 							emulatorMap.containsKey(game.id) ? emulatorMap.get(game.id) : defaultEmulator));
 
 			GameUtil.pretifyName((GameInfo) Game.class.getField(source + "GameInfo").get(game));
 
 			game.addLabel(gameId);
-			game.addLabel(((GameInfo) Game.class.getField(source + "GameInfo").get(game)).name);
+			for (String name : StringUtils.split(((GameInfo) Game.class.getField(source + "GameInfo").get(game)).name,
+					"/")) {
+				game.addLabel(name);
+			}
 
 			return Arrays.asList(game);
 		}

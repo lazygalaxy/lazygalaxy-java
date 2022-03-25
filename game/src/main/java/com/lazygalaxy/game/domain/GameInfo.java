@@ -8,9 +8,11 @@ import org.apache.commons.lang3.builder.HashCodeBuilder;
 import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
 
 import com.lazygalaxy.engine.util.GeneralUtil;
+import com.lazygalaxy.game.Constant.GameSource;
 
 public class GameInfo {
 	// retroarch
+	public String gameId;
 	public String path;
 	public String originalName;
 	public String year;
@@ -41,25 +43,29 @@ public class GameInfo {
 	}
 
 	// retroarch constructor
-	public GameInfo(String path, String originalName, String year, String description, String genre, String image,
-			String video, String marquee, Double rating, String players, String developer, String publisher,
-			String emulator) {
-		this(path, originalName, year, description, genre, image, video, marquee, rating, players, developer, publisher,
-				emulator, null, null, null, null, null);
+	public GameInfo(String gameId, String path, String originalName, String year, String description, String genre,
+			String image, String video, String marquee, Double rating, String players, String developer,
+			String publisher, String emulator) {
+		this(gameId, path, originalName, year, description, genre, image, video, marquee, rating, players, developer,
+				publisher, emulator, null, null, null, null, null);
 	}
 
 	// mame constructor
-	public GameInfo(String originalName, String year, String players, String developer, Boolean isVertical,
-			Set<String> inputs, Integer buttons, String status, Boolean isGuess) {
-		this(null, originalName, year, null, null, null, null, null, null, players, developer, null, null, isVertical,
-				inputs, buttons, status, isGuess);
+	public GameInfo(String gameId, String originalName, String year, String players, String developer,
+			Boolean isVertical, Set<String> inputs, Integer buttons, String status, Boolean isGuess) {
+		this(gameId, null, originalName, year, null, null, null, null, null, null, players, developer, null, null,
+				isVertical, inputs, buttons, status, isGuess);
 	}
 
 	// general constructor
-	public GameInfo(String path, String originalName, String year, String description, String genre, String image,
-			String video, String marquee, Double rating, String players, String developer, String publisher,
-			String emulator, Boolean isVeritcal, Set<String> inputs, Integer buttons, String status, Boolean isGuess) {
-		this.path = path;
+	public GameInfo(String gameId, String path, String originalName, String year, String description, String genre,
+			String image, String video, String marquee, Double rating, String players, String developer,
+			String publisher, String emulator, Boolean isVeritcal, Set<String> inputs, Integer buttons, String status,
+			Boolean isGuess) {
+		this.gameId = gameId;
+		if (!StringUtils.endsWith(path, GameSource.LAZYGALAXY)) {
+			this.path = path;
+		}
 		this.originalName = originalName;
 		if (year != null && !StringUtils.equals(year, "1970")) {
 			this.year = StringUtils.left(year, 4);
