@@ -43,21 +43,21 @@ public class B1_MameGameInfoSourceLoad {
 
 	private static class MameGameInfoLoad extends XMLLoad<Game> {
 
-		private Map<String, Game> gameByIdMap = new HashMap<String, Game>();
-		private Map<String, List<Game>> gameByNameMap = new HashMap<String, List<Game>>();
+		private Map<String, Game> mameGameByIdMap = new HashMap<String, Game>();
+		private Map<String, List<Game>> mameGameByNameMap = new HashMap<String, List<Game>>();
 
 		public MameGameInfoLoad() throws Exception {
 			super(Game.class);
 
 			List<Game> games = GameUtil.getGames(false, false, null, Filters.in("systemId", GameSystem.MAME));
 			for (Game game : games) {
-				gameByIdMap.put(game.gameId, game);
+				mameGameByIdMap.put(game.gameId, game);
 				for (String name : game.labels) {
 					if (!StringUtils.equals(name, game.gameId)) {
-						List<Game> gameList = gameByNameMap.get(name);
+						List<Game> gameList = mameGameByNameMap.get(name);
 						if (gameList == null) {
 							gameList = new ArrayList<Game>();
-							gameByNameMap.put(name, gameList);
+							mameGameByNameMap.put(name, gameList);
 						}
 						gameList.add(game);
 					}
@@ -78,7 +78,7 @@ public class B1_MameGameInfoSourceLoad {
 			}
 
 			String gameId = GeneralUtil.alphanumerify(originalName);
-			Game game = gameByIdMap.get(gameId);
+			Game game = mameGameByIdMap.get(gameId);
 
 			List<Game> returnGameList = new ArrayList<Game>();
 			if (game == null) {
@@ -88,7 +88,7 @@ public class B1_MameGameInfoSourceLoad {
 					GameUtil.pretifyName(gameInfoStatic);
 					String name = GeneralUtil.alphanumerify(gameInfoStatic.name);
 
-					List<Game> mapGames = gameByNameMap.get(name);
+					List<Game> mapGames = mameGameByNameMap.get(name);
 					if (mapGames != null) {
 						for (Game mapGame : mapGames) {
 							if (mapGame.mameGameInfo == null
@@ -126,8 +126,11 @@ public class B1_MameGameInfoSourceLoad {
 			game.mameGameInfo = new GameInfo(gameId, originalName, year, players, developer, isVertical, inputs,
 					buttons, status, isGuess);
 			GameUtil.pretifyName(game.mameGameInfo);
+
 			game.addLabel(gameId);
-			game.addLabel(game.mameGameInfo.name);
+			for (String name : StringUtils.split(game.mameGameInfo.name, "/")) {
+				game.addLabel(name);
+			}
 
 			if (!StringUtils.isBlank(cloneOf)) {
 				String cloneOfGameId = GeneralUtil.alphanumerify(cloneOf);

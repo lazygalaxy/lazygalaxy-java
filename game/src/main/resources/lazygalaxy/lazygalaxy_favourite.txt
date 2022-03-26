@@ -1,4 +1,4 @@
-arcade_arkanoidu
+arcade_arkanoid
 arcade_atetris
 arcade_bublbobl
 arcade_ddragon

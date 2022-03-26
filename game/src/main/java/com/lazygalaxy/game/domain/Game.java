@@ -11,6 +11,8 @@ public class Game extends MongoDocument {
 	public String gameId;
 	public Set<String> family;
 	public GameInfo gameInfo;
+	public boolean favourite;
+	public boolean hide;
 
 	public GameInfo lazygalaxyGameInfo;
 	public GameInfo mameGameInfo;
