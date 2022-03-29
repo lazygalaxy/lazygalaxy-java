@@ -5,7 +5,15 @@
 		<database>LazyGalaxy</database>
 	</provider>
 	<game>
+		<path>./bublcave.lazygalaxy</path>
+		<name>Bubble Bobble: Lost Cave (V1.2)</name>
+<desc>One or two players take on the role of Bub and Bob, two cute dinosaurs who must battle through 100 platform-packed single screen levels to rescue their girlfriends. Bub and Bob are armed only with the ability to blow bubbles, in which the game's many enemies can be trapped and killed. The bubbles can also be used as temporary platforms, to help the dinosaurs reach previously inaccessible areas of a level.
+
+The "Lost Cave" version gathers together the best 100 levels created in-house by Taito for its home/handheld conversions of the popular Bubble Bobble coin-op. It is a huge mash-up which mixes NES, Game Boy, Sega Master System and Game Boy Color exclusive levels and injects them in the original arcade ROMs, creating a fresh gameplay experience.</desc>
+	</game>
+	<game>
 		<path>./kodure.lazygalaxy</path>
-		<name>Kodure Ookami / Kozure Ookami</name>
+		<name>Kozure Ookami / Kodure Ookami</name>
+		<releasedate>1987</releasedate>
 	</game>
 </gameList>

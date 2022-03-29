@@ -82,18 +82,32 @@ public class B1_MameGameInfoSourceLoad {
 
 			List<Game> returnGameList = new ArrayList<Game>();
 			if (game == null) {
+				if (StringUtils.equals("kozure", gameId)) {
+					LOGGER.info("hello");
+				}
+
 				String cloneOf = XMLUtil.getAttributeAsString(element, "cloneof");
 				if (StringUtils.isBlank(cloneOf)) {
 					gameInfoStatic.originalName = XMLUtil.getTagAsString(element, "description", 0);
+					gameInfoStatic.year = XMLUtil.getTagAsString(element, "year", 0);
+					if (gameInfoStatic.year != null && !StringUtils.equals(gameInfoStatic.year, "1970")) {
+						gameInfoStatic.year = StringUtils.left(gameInfoStatic.year, 4);
+						if (StringUtils.contains(gameInfoStatic.year, "?")) {
+							gameInfoStatic.year = null;
+						}
+					}
 					GameUtil.pretifyName(gameInfoStatic);
-					String name = GeneralUtil.alphanumerify(gameInfoStatic.name);
 
-					List<Game> mapGames = mameGameByNameMap.get(name);
-					if (mapGames != null) {
-						for (Game mapGame : mapGames) {
-							if (mapGame.mameGameInfo == null
-									|| (mapGame.mameGameInfo.isGuess != null && mapGame.mameGameInfo.isGuess)) {
-								returnGameList.addAll(process(mapGame, element, true, gameId));
+					if (gameInfoStatic.uniqueNames != null) {
+						for (String uniqueName : gameInfoStatic.uniqueNames) {
+							List<Game> mapGames = mameGameByNameMap.get(GeneralUtil.alphanumerify(uniqueName));
+							if (mapGames != null) {
+								for (Game mapGame : mapGames) {
+									if (mapGame.mameGameInfo == null
+											|| (mapGame.mameGameInfo.isGuess != null && mapGame.mameGameInfo.isGuess)) {
+										returnGameList.addAll(process(mapGame, element, true, gameId));
+									}
+								}
 							}
 						}
 					}
@@ -128,7 +142,7 @@ public class B1_MameGameInfoSourceLoad {
 			GameUtil.pretifyName(game.mameGameInfo);
 
 			game.addLabel(gameId);
-			for (String name : StringUtils.split(game.mameGameInfo.name, "/")) {
+			for (String name : game.mameGameInfo.uniqueNames) {
 				game.addLabel(name);
 			}
 
@@ -140,11 +154,11 @@ public class B1_MameGameInfoSourceLoad {
 				if (parentGames != null) {
 					for (Game parentGame : parentGames) {
 						if (!SetUtil.contains(parentGame.family, game.gameId)) {
-							parentGame.family = SetUtil.addValue(parentGame.family, parentGame.gameId);
-							parentGame.family = SetUtil.addValue(parentGame.family, game.gameId);
+							parentGame.family = SetUtil.addValueToTreeSet(parentGame.family, parentGame.gameId);
+							parentGame.family = SetUtil.addValueToTreeSet(parentGame.family, game.gameId);
 
-							game.family = SetUtil.addValue(game.family, parentGame.gameId);
-							game.family = SetUtil.addValue(game.family, game.gameId);
+							game.family = SetUtil.addValueToTreeSet(game.family, parentGame.gameId);
+							game.family = SetUtil.addValueToTreeSet(game.family, game.gameId);
 
 							allGamesToReturn.add(parentGame);
 						}

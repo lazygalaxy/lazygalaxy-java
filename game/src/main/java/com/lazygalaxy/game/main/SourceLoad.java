@@ -43,6 +43,7 @@ public class SourceLoad {
 				}
 			}
 		}
+		LOGGER.warn("Finished loading: " + source);
 	}
 
 	private static class GameListLoad extends XMLLoad<Game> {
@@ -136,9 +137,13 @@ public class SourceLoad {
 			GameUtil.pretifyName((GameInfo) Game.class.getField(source + "GameInfo").get(game));
 
 			game.addLabel(gameId);
-			for (String name : StringUtils.split(((GameInfo) Game.class.getField(source + "GameInfo").get(game)).name,
-					"/")) {
-				game.addLabel(name);
+
+			GameInfo gameInfo = (GameInfo) Game.class.getField(source + "GameInfo").get(game);
+
+			if (gameInfo.uniqueNames != null) {
+				for (String name : gameInfo.uniqueNames) {
+					game.addLabel(name);
+				}
 			}
 
 			return Arrays.asList(game);

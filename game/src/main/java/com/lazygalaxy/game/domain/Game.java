@@ -10,15 +10,20 @@ public class Game extends MongoDocument {
 	public String systemId;
 	public String gameId;
 	public Set<String> family;
-	public GameInfo gameInfo;
-	public boolean favourite;
-	public boolean hide;
+	public Boolean favourite;
+	public Boolean hide;
 
 	public GameInfo lazygalaxyGameInfo;
 	public GameInfo mameGameInfo;
 	public GameInfo vman_blissGameInfo;
 	public GameInfo rickdangerous_ultimateGameInfo;
 	public GameInfo wolfanoz_12kGameInfo;
+
+	public String year;
+	public Integer players;
+	public String description;
+	public String developer;
+	public String publisher;
 
 	public Game() {
 

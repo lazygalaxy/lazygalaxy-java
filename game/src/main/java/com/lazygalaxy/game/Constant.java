@@ -1,8 +1,9 @@
 package com.lazygalaxy.game;
 
+import java.util.List;
 import java.util.Set;
 
-import com.google.common.collect.Sets;
+import com.google.common.collect.Lists;
 
 public class Constant {
 	public static class Control {
@@ -10,7 +11,7 @@ public class Constant {
 		public static String LIGHTGUN = "lightgun";
 		public static String GAMBLING = "gambling";
 
-		public static Set<String> EXCLUDE = Sets.newHashSet(GAMBLING);
+		public static List<String> EXCLUDE = Lists.newArrayList(GAMBLING);
 
 		public static boolean isExcluded(Set<String> inputs) {
 			if (inputs != null) {
@@ -39,7 +40,7 @@ public class Constant {
 		public static String NEOGEOCD = "neogeocd";
 		public static String OPENBOR = "openbor";
 
-		public static Set<String> MAME = Sets.newHashSet(ARCADE, ATOMISWAVE, DAPHNE, NAOMI, NEOGEO);
+		public static List<String> MAME = Lists.newArrayList(ARCADE, ATOMISWAVE, DAPHNE, NAOMI, NEOGEO);
 	}
 
 	public static class GameEmulator {
@@ -55,7 +56,7 @@ public class Constant {
 		public final static String WOLFANOZ_12K = "wolfanoz_12k";
 		public final static String VMAN_BLISS = "vman_bliss";
 
-		public final static Set<String> ALL = Sets.newHashSet(LAZYGALAXY, MAME, RICKDANGEROUS_ULTIMATE, WOLFANOZ_12K,
-				VMAN_BLISS);
+		public final static List<String> ALL = Lists.newArrayList(LAZYGALAXY, MAME, RICKDANGEROUS_ULTIMATE,
+				WOLFANOZ_12K, VMAN_BLISS);
 	}
 }

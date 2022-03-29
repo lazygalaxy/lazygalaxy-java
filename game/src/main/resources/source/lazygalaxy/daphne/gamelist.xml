@@ -6,12 +6,9 @@
 	</provider>
 	<game>
 		<path>./dle21.lazygalaxy</path>
-		<name>Dragon's Lair (Enhanced)</name>
-<desc>
-Released in the arcades as a laserdisc game, Dragon's Lair is an interactive cartoon movie. Players control Dirk the Daring as he struggles his way through a dungeon to fight Singe, the Dragon, and rescue the beautiful Princess Daphne. The game consists of animated scenes, during which the player has to press direction buttons or the sword button in the right moment to trigger the next segment of the movie.
+<desc>Released in the arcades as a laserdisc game, Dragon's Lair is an interactive cartoon movie. Players control Dirk the Daring as he struggles his way through a dungeon to fight Singe, the Dragon, and rescue the beautiful Princess Daphne. The game consists of animated scenes, during which the player has to press direction buttons or the sword button in the right moment to trigger the next segment of the movie.
 
-The original Dragon's Lair version plays a lot more randomly than the animators intended.  The scenes were meant to be shuffled around, but not as much as they ultimately were.  They were planned to remain in sections.  This enhanced version restores the design of the story by playing all the castle scenes first, followed by the cavernous scenes.
-</desc>
+The original Dragon's Lair version plays a lot more randomly than the animators intended.  The scenes were meant to be shuffled around, but not as much as they ultimately were.  They were planned to remain in sections.  This "Enhanced" version restores the design of the story by playing all the castle scenes first, followed by the cavernous scenes.</desc>
 		<releasedate>2005</releasedate>
 	</game>
 </gameList>

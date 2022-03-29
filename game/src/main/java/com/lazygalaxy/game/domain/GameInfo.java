@@ -28,7 +28,8 @@ public class GameInfo {
 	public String emulator;
 
 	// derived
-	public String name;
+	public Set<String> names;
+	public Set<String> uniqueNames;
 	public String version;
 
 	// mame
@@ -95,8 +96,8 @@ public class GameInfo {
 		if (StringUtils.equals(publisher, "Data East USA")) {
 			this.publisher = "Data East";
 		}
-		if (StringUtils.equals(developer, publisher)) {
-			this.publisher = null;
+		if (this.publisher == null) {
+			this.publisher = this.developer;
 		}
 
 		this.emulator = emulator;
