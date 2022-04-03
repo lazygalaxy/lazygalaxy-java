@@ -19,7 +19,6 @@ public class GameUtil {
 			String processName = info.originalName;
 			info.version = null;
 			info.names = null;
-			info.uniqueNames = null;
 
 			int index = Integer.MAX_VALUE;
 			if (StringUtils.contains(processName, ")")) {
@@ -35,41 +34,24 @@ public class GameUtil {
 				processName = StringUtils.substring(processName, 0, index);
 			}
 
-			for (String name : StringUtils.split(processName, "/")) {
+			for (String name : StringUtils.splitByWholeSeparator(processName, " / ")) {
 				name = pretify(name);
 				if (StringUtils.contains(name, ": ")) {
 					String uniqueNameBefore = StringUtils.substring(name, 0, name.lastIndexOf(": "));
 					String uniqueNameAfter = uniqueNameBefore.replaceAll(": ", " ");
 					name = name.replaceAll(uniqueNameBefore, uniqueNameAfter);
-					if (!StringUtils.endsWithAny(uniqueNameAfter, " 1", " 2", " 3", " 4", " 5", " 6", " 7", " 8", " 9",
-							" 10", " 11", " 12", " 13", " 14", " 15", " 16", " 17", " 18", " 19", " 20")) {
-						if (info.year != null) {
-							uniqueNameAfter = uniqueNameAfter + " " + info.year;
-						} else {
-							uniqueNameAfter = null;
-						}
-					}
-					info.uniqueNames = SetUtil.addValueToLinkedHashSet(info.uniqueNames, uniqueNameAfter);
+					info.names = SetUtil.addValueToLinkedHashSet(info.names, name);
+					info.names = SetUtil.addValueToLinkedHashSet(info.names, uniqueNameAfter);
 				} else {
-					String uniqueName = name;
-					if (!StringUtils.endsWithAny(uniqueName, " 1", " 2", " 3", " 4", " 5", " 6", " 7", " 8", " 9",
-							" 10", " 11", " 12", " 13", " 14", " 15", " 16", " 17", " 18", " 19", " 20")) {
-						if (info.year != null) {
-							uniqueName = uniqueName + " " + info.year;
-						} else {
-							uniqueName = null;
-						}
-					}
-					info.uniqueNames = SetUtil.addValueToLinkedHashSet(info.uniqueNames, uniqueName);
+					info.names = SetUtil.addValueToLinkedHashSet(info.names, name);
 				}
-				info.names = SetUtil.addValueToLinkedHashSet(info.names, name);
+
 			}
 			info.version = pretify(info.version);
 
 		} else {
 			info.originalName = null;
 			info.names = null;
-			info.uniqueNames = null;
 			info.version = null;
 		}
 	}

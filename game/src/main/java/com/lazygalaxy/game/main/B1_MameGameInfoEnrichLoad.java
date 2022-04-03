@@ -24,8 +24,8 @@ import com.lazygalaxy.game.util.GameUtil;
 import com.lazygalaxy.game.util.SetUtil;
 import com.mongodb.client.model.Filters;
 
-public class B1_MameGameInfoSourceLoad {
-	private static final Logger LOGGER = LogManager.getLogger(B1_MameGameInfoSourceLoad.class);
+public class B1_MameGameInfoEnrichLoad {
+	private static final Logger LOGGER = LogManager.getLogger(B1_MameGameInfoEnrichLoad.class);
 	private static final GameInfo gameInfoStatic = new GameInfo();
 
 	public static void main(String[] args) throws Exception {
@@ -72,7 +72,7 @@ public class B1_MameGameInfoSourceLoad {
 			Integer buttons = XMLUtil.getTagAttributeAsInteger(element, "control", "buttons", 0);
 			Set<String> inputs = XMLUtil.getTagAttributeAsStringSet(element, "control", "type");
 
-			if (isMechanical || StringUtils.contains(originalName, "_") || (buttons != null && buttons > 8)
+			if (isMechanical || StringUtils.contains(originalName, "_") || (buttons != null && buttons > 9)
 					|| (inputs != null && Control.isExcluded(inputs))) {
 				return null;
 			}
@@ -82,7 +82,7 @@ public class B1_MameGameInfoSourceLoad {
 
 			List<Game> returnGameList = new ArrayList<Game>();
 			if (game == null) {
-				if (StringUtils.equals("kozure", gameId)) {
+				if (StringUtils.equals("roadrun1", gameId)) {
 					LOGGER.info("hello");
 				}
 
@@ -98,14 +98,14 @@ public class B1_MameGameInfoSourceLoad {
 					}
 					GameUtil.pretifyName(gameInfoStatic);
 
-					if (gameInfoStatic.uniqueNames != null) {
-						for (String uniqueName : gameInfoStatic.uniqueNames) {
+					if (gameInfoStatic.names != null) {
+						for (String uniqueName : gameInfoStatic.names) {
 							List<Game> mapGames = mameGameByNameMap.get(GeneralUtil.alphanumerify(uniqueName));
 							if (mapGames != null) {
 								for (Game mapGame : mapGames) {
 									if (mapGame.mameGameInfo == null
 											|| (mapGame.mameGameInfo.isGuess != null && mapGame.mameGameInfo.isGuess)) {
-										returnGameList.addAll(process(mapGame, element, true, gameId));
+										// returnGameList.addAll(process(mapGame, element, true, gameId));
 									}
 								}
 							}
@@ -126,7 +126,7 @@ public class B1_MameGameInfoSourceLoad {
 			String originalName = XMLUtil.getTagAsString(element, "description", 0);
 			String year = XMLUtil.getTagAsString(element, "year", 0);
 			String players = XMLUtil.getTagAttributeAsString(element, "input", "players", 0);
-			String developer = XMLUtil.getTagAsString(element, "manufacturer", 0);
+			String manufacturer = XMLUtil.getTagAsString(element, "manufacturer", 0);
 			Integer rotate = XMLUtil.getTagAttributeAsInteger(element, "display", "rotate", 0);
 			Boolean isVertical = false;
 			if (rotate != null && (rotate == 90 || rotate == 270)) {
@@ -137,13 +137,24 @@ public class B1_MameGameInfoSourceLoad {
 			String status = XMLUtil.getTagAttributeAsString(element, "driver", "status", 0);
 			String cloneOf = XMLUtil.getAttributeAsString(element, "cloneof");
 
-			game.mameGameInfo = new GameInfo(gameId, originalName, year, players, developer, isVertical, inputs,
+			gameInfoStatic.originalName = manufacturer;
+			GameUtil.pretifyName(gameInfoStatic);
+			List<String> manufacturers = new ArrayList<String>();
+			for (String name : gameInfoStatic.names) {
+				manufacturers.add(name);
+			}
+			manufacturers.add(gameInfoStatic.version);
+
+			game.mameGameInfo = new GameInfo(gameId, originalName, year, players, manufacturers, isVertical, inputs,
 					buttons, status, isGuess);
 			GameUtil.pretifyName(game.mameGameInfo);
 
 			game.addLabel(gameId);
-			for (String name : game.mameGameInfo.uniqueNames) {
+			for (String name : game.mameGameInfo.names) {
 				game.addLabel(name);
+				if (game.mameGameInfo.version != null) {
+					game.addLabel(name + game.mameGameInfo.version);
+				}
 			}
 
 			if (!StringUtils.isBlank(cloneOf)) {

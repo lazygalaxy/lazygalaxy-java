@@ -25,8 +25,8 @@ import com.lazygalaxy.game.util.GameUtil;
 import com.lazygalaxy.game.util.SetUtil;
 import com.mongodb.client.model.Filters;
 
-public class B2_RunDeriveEnrichLoad {
-	private static final Logger LOGGER = LogManager.getLogger(B2_RunDeriveEnrichLoad.class);
+public class E2_RunDeriveEnrichLoad {
+	private static final Logger LOGGER = LogManager.getLogger(E2_RunDeriveEnrichLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {
@@ -57,8 +57,9 @@ public class B2_RunDeriveEnrichLoad {
 			setField(game, "year");
 			setField(game, "players");
 			setField(game, "description");
-			setField(game, "developer");
-			setField(game, "publisher");
+			game.developer = null;
+			game.publisher = null;
+			setField(game, "manufacturers");
 
 			return Arrays.asList(game);
 		}
@@ -72,9 +73,21 @@ public class B2_RunDeriveEnrichLoad {
 						if (StringUtils.equals(field, "names")) {
 							game.name = Lists.newArrayList((Set<String>) fieldObject).get(0);
 							return;
-						} else if (StringUtils.equals(field, "publisher")) {
-							if (!StringUtils.equals(game.developer, (String) fieldObject)) {
-								game.publisher = (String) fieldObject;
+						} else if (StringUtils.equals(field, "manufacturers")) {
+							Set<String> manufacturerSet = (Set<String>) fieldObject;
+							List<String> manufacturers = Lists
+									.newArrayList(manufacturerSet.toArray(new String[manufacturerSet.size()]));
+
+							if (game.developer == null) {
+								game.developer = manufacturers.get(0);
+								game.publisher = manufacturers.get(0);
+							}
+
+							for (String manufacturer : manufacturers) {
+								if (!StringUtils.equals(game.publisher, manufacturer)) {
+									game.publisher = manufacturer;
+									return;
+								}
 							}
 						} else {
 							Game.class.getField(field).set(game, fieldObject);

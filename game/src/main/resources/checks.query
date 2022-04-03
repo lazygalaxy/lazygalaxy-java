@@ -1,11 +1,11 @@
 //arcade games with no mame info // 0
-{ $and: [ { "mameGameInfo":null }, { $or:[{ "systemId": { $eq: "arcade" } },{ "systemId": { $eq: "naomi" } },{ "systemId": { $eq: "atomiswave" } },{ "systemId": { $eq: "neogeo" } },{ "systemId": { $eq: "daphne" } }]}] }
+{ $and: [ { "mameGameInfo":null }, { "systemId": { $eq: "arcade" }}]}
 
 //arcade games with mame info guessed //10
-{ $and: [ { "mameGameInfo.isGuess":true }, { $or:[{ "systemId": { $eq: "arcade" } },{ "systemId": { $eq: "naomi" } },{ "systemId": { $eq: "atomiswave" } },{ "systemId": { $eq: "neogeo" } },{ "systemId": { $eq: "daphne" } }]}] }
+{ $and: [ { "mameGameInfo.isGuess":true }, { "systemId": { $eq: "arcade" }}]}
 
-// find family games //30
-{ "family": { $ne: null}}
+// find family arcade games //30
+{ $and: [ { "family": { $ne: null}}, { "systemId": { $eq: "arcade" }}]}
 
 // there should be 3 games with 3 family members
 {"family":"pbobble2"}
@@ -15,3 +15,6 @@
 
 //developer Mitchell, publisher Data East
 {"gameId":"funkyjet"} 
+
+
+//coin ops queries

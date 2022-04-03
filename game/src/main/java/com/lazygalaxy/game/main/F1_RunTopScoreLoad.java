@@ -20,9 +20,9 @@ import com.lazygalaxy.game.domain.Scores;
 import com.lazygalaxy.game.util.GameUtil;
 import com.mongodb.client.model.Filters;
 
-public class C1_RunTopScoreLoad {
+public class F1_RunTopScoreLoad {
 
-	private static final Logger LOGGER = LogManager.getLogger(C1_RunTopScoreLoad.class);
+	private static final Logger LOGGER = LogManager.getLogger(F1_RunTopScoreLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {
@@ -54,10 +54,8 @@ public class C1_RunTopScoreLoad {
 			String name = GeneralUtil.alphanumerify(tokens[1]);
 			String year = tokens[2];
 
-			List<Game> games = GameUtil.getGames(
-					true, true, name + " " + year, Filters.in("labels", name), Filters.in("systemId", GameSystem.ARCADE,
-							GameSystem.ATOMISWAVE, GameSystem.DAPHNE, GameSystem.NAOMI, GameSystem.NEOGEO),
-					Filters.eq("year", year));
+			List<Game> games = GameUtil.getGames(true, true, name + " " + year, Filters.in("labels", name),
+					Filters.in("systemId", GameSystem.MAME), Filters.eq("year", year));
 
 			if (games != null) {
 				List<Scores> scoresList = new ArrayList<Scores>();

@@ -57,6 +57,12 @@
 			<artifactId>mongodb-driver-sync</artifactId>
 			<version>4.2.0</version>
 		</dependency>
+
+		<dependency>
+		    <groupId>org.apache.commons</groupId>
+		    <artifactId>commons-collections4</artifactId>
+		    <version>4.4</version>
+		</dependency>
 		
 		<!-- test scope -->
 		<dependency>

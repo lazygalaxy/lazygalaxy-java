@@ -1,5 +1,6 @@
 package com.lazygalaxy.game.domain;
 
+import java.util.List;
 import java.util.Set;
 
 import org.apache.commons.lang3.StringUtils;
@@ -9,10 +10,12 @@ import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
 
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.game.Constant.GameSource;
+import com.lazygalaxy.game.util.SetUtil;
 
 public class GameInfo {
 	// retroarch
 	public String gameId;
+	public String systemId;
 	public String path;
 	public String originalName;
 	public String year;
@@ -23,13 +26,12 @@ public class GameInfo {
 	public String marquee;
 	public Double rating;
 	public Integer players;
-	public String developer;
-	public String publisher;
+	public Set<String> manufacturers;
 	public String emulator;
+	public Long fileSize;
 
 	// derived
 	public Set<String> names;
-	public Set<String> uniqueNames;
 	public String version;
 
 	// mame
@@ -44,26 +46,33 @@ public class GameInfo {
 	}
 
 	// retroarch constructor
-	public GameInfo(String gameId, String path, String originalName, String year, String description, String genre,
-			String image, String video, String marquee, Double rating, String players, String developer,
-			String publisher, String emulator) {
-		this(gameId, path, originalName, year, description, genre, image, video, marquee, rating, players, developer,
-				publisher, emulator, null, null, null, null, null);
+	public GameInfo(String gameId, String systemId, String path, String originalName, String year, String description,
+			String genre, String image, String video, String marquee, Double rating, String players,
+			List<String> manufacturers, String emulator) {
+		this(gameId, systemId, path, originalName, year, description, genre, image, video, marquee, rating, players,
+				manufacturers, emulator, null, null, null, null, null, null);
 	}
 
 	// mame constructor
-	public GameInfo(String gameId, String originalName, String year, String players, String developer,
+	public GameInfo(String gameId, String originalName, String year, String players, List<String> manufacturers,
 			Boolean isVertical, Set<String> inputs, Integer buttons, String status, Boolean isGuess) {
-		this(gameId, null, originalName, year, null, null, null, null, null, null, players, developer, null, null,
-				isVertical, inputs, buttons, status, isGuess);
+		this(gameId, null, null, originalName, year, null, null, null, null, null, null, players, manufacturers, null,
+				isVertical, inputs, buttons, status, isGuess, null);
+	}
+
+	// coinops consrtuctor
+	public GameInfo(String gameId, String originalName, Long fileSize) {
+		this(gameId, null, null, originalName, null, null, null, null, null, null, null, null, null, null, null, null,
+				null, null, null, fileSize);
 	}
 
 	// general constructor
-	public GameInfo(String gameId, String path, String originalName, String year, String description, String genre,
-			String image, String video, String marquee, Double rating, String players, String developer,
-			String publisher, String emulator, Boolean isVeritcal, Set<String> inputs, Integer buttons, String status,
-			Boolean isGuess) {
+	public GameInfo(String gameId, String systemId, String path, String originalName, String year, String description,
+			String genre, String image, String video, String marquee, Double rating, String players,
+			List<String> manufacturers, String emulator, Boolean isVeritcal, Set<String> inputs, Integer buttons,
+			String status, Boolean isGuess, Long fileSize) {
 		this.gameId = gameId;
+		this.systemId = systemId;
 		if (!StringUtils.endsWith(path, GameSource.LAZYGALAXY)) {
 			this.path = path;
 		}
@@ -87,17 +96,15 @@ public class GameInfo {
 			String[] playerArray = players.split("-");
 			this.players = Integer.parseInt(GeneralUtil.numerify(playerArray[playerArray.length - 1]));
 		}
-		this.developer = developer;
-		if (StringUtils.equals(developer, "Data East USA")) {
-			this.developer = "Data East";
-		}
 
-		this.publisher = publisher;
-		if (StringUtils.equals(publisher, "Data East USA")) {
-			this.publisher = "Data East";
-		}
-		if (this.publisher == null) {
-			this.publisher = this.developer;
+		// normalize manufacturers
+		if (manufacturers != null) {
+			for (String manufacturer : manufacturers) {
+				if (!StringUtils.isBlank(manufacturer)) {
+					this.manufacturers = SetUtil.addValueToLinkedHashSet(this.manufacturers,
+							normalizeManufacturer(manufacturer));
+				}
+			}
 		}
 
 		this.emulator = emulator;
@@ -115,6 +122,32 @@ public class GameInfo {
 		if (isGuess != null && isGuess) {
 			this.isGuess = isGuess;
 		}
+
+		this.fileSize = fileSize;
+	}
+
+	private String normalizeManufacturer(String manufacturer) {
+		if (StringUtils.startsWith(GeneralUtil.alphanumerify(manufacturer), "capcom")) {
+			return "Capcom";
+		}
+
+		if (StringUtils.startsWith(GeneralUtil.alphanumerify(manufacturer), "dataeast")) {
+			return "Data East";
+		}
+
+		if (StringUtils.startsWith(GeneralUtil.alphanumerify(manufacturer), "nintendo")) {
+			return "Nintendo";
+		}
+
+		if (StringUtils.startsWith(GeneralUtil.alphanumerify(manufacturer), "sega")) {
+			return "SEGA";
+		}
+
+		if (StringUtils.startsWith(GeneralUtil.alphanumerify(manufacturer), "taito")) {
+			return "Taito";
+		}
+
+		return manufacturer;
 	}
 
 	@Override

@@ -1,5 +1,4 @@
-total 16399884
--rwxrwxrwx+ 1 admin users    63186 Dec 24  1996 10yard85.zip
+rwxrwxrwx+ 1 admin users    63186 Dec 24  1996 10yard85.zip
 -rwxrwxrwx+ 1 admin users    16212 Dec 24  1996 10yardj.zip
 -rwxrwxrwx+ 1 admin users    62708 Dec 24  1996 10yard.zip
 -rwxrwxrwx+ 1 admin users  1442067 Dec 24  1996 1941j.zip

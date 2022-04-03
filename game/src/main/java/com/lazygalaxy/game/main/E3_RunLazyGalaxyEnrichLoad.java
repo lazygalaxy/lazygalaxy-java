@@ -12,8 +12,8 @@ import com.lazygalaxy.engine.load.TextFileLoad;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.merge.GameMerge;
 
-public class B3_RunLazyGalaxyEnrichLoad {
-	private static final Logger LOGGER = LogManager.getLogger(B3_RunLazyGalaxyEnrichLoad.class);
+public class E3_RunLazyGalaxyEnrichLoad {
+	private static final Logger LOGGER = LogManager.getLogger(E3_RunLazyGalaxyEnrichLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {

@@ -1,4 +1,4 @@
-package com.lazygalaxy.game.main;
+package com.lazygalaxy.game.main.helpers;
 
 import java.io.File;
 import java.net.URL;
@@ -10,12 +10,14 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Stream;
 
+import org.apache.commons.collections4.IterableUtils;
 import org.apache.commons.lang3.RegExUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.w3c.dom.Element;
 
+import com.google.common.collect.Lists;
 import com.lazygalaxy.engine.load.XMLLoad;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.engine.util.XMLUtil;
@@ -28,6 +30,7 @@ import com.lazygalaxy.game.util.GameUtil;
 
 public class SourceLoad {
 	private static final Logger LOGGER = LogManager.getLogger(SourceLoad.class);
+	private static final GameInfo gameInfoStatic = new GameInfo();
 
 	protected static void sourceLoad(String source) throws Exception {
 		GameMerge merge = new GameMerge();
@@ -109,13 +112,25 @@ public class SourceLoad {
 			if (StringUtils.endsWith(path, ".sh")) {
 				return null;
 			}
-			if (!GameSystem.MAME.contains(systemId)) {
+			if (!GameSystem.MAME.contains(systemId) && !GameSystem.CONSOLE.contains(systemId)) {
 				return null;
 			}
 			String gameId = StringUtils.substring(path, 0, StringUtils.lastIndexOf(path, "."));
 			gameId = StringUtils.substring(gameId, StringUtils.indexOf(gameId, "/") + 1, gameId.length());
 
-			Game game = new Game(GeneralUtil.alphanumerify(systemId), GeneralUtil.alphanumerify(gameId));
+			Game game = null;
+			if (GameSystem.MAME.contains(systemId)) {
+				game = new Game(GameSystem.ARCADE, gameId.toLowerCase().trim());
+			} else {
+				gameInfoStatic.originalName = gameId;
+				GameUtil.pretifyName(gameInfoStatic);
+				if (gameInfoStatic.version == null) {
+					game = new Game(systemId, GeneralUtil.alphanumerify(IterableUtils.get(gameInfoStatic.names, 0)));
+				} else {
+					game = new Game(systemId, GeneralUtil
+							.alphanumerify(IterableUtils.get(gameInfoStatic.names, 0) + gameInfoStatic.version));
+				}
+			}
 
 			String originalName = XMLUtil.getTagAsString(element, "name", 0);
 			String year = XMLUtil.getTagAsString(element, "releasedate", 0);
@@ -130,8 +145,8 @@ public class SourceLoad {
 			String publisher = XMLUtil.getTagAsString(element, "publisher", 0);
 
 			Game.class.getField(source + "GameInfo").set(game,
-					new GameInfo(game.gameId, path, originalName, year, description, genre, image, video, marquee,
-							rating, players, developer, publisher,
+					new GameInfo(game.gameId, systemId, path, originalName, year, description, genre, image, video,
+							marquee, rating, players, Lists.newArrayList(developer, publisher),
 							emulatorMap.containsKey(game.id) ? emulatorMap.get(game.id) : defaultEmulator));
 
 			GameUtil.pretifyName((GameInfo) Game.class.getField(source + "GameInfo").get(game));
@@ -140,9 +155,12 @@ public class SourceLoad {
 
 			GameInfo gameInfo = (GameInfo) Game.class.getField(source + "GameInfo").get(game);
 
-			if (gameInfo.uniqueNames != null) {
-				for (String name : gameInfo.uniqueNames) {
+			if (gameInfo.names != null) {
+				for (String name : gameInfo.names) {
 					game.addLabel(name);
+					if (gameInfo.version != null) {
+						game.addLabel(name + gameInfo.version);
+					}
 				}
 			}
 

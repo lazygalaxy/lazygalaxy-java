@@ -7,11 +7,11 @@ import com.google.common.collect.Lists;
 
 public class Constant {
 	public static class Control {
-		public static String JOYSTCK = "joystick";
-		public static String LIGHTGUN = "lightgun";
-		public static String GAMBLING = "gambling";
+		public final static String JOYSTCK = "joystick";
+		public final static String LIGHTGUN = "lightgun";
+		public final static String GAMBLING = "gambling";
 
-		public static List<String> EXCLUDE = Lists.newArrayList(GAMBLING);
+		public final static List<String> EXCLUDE = Lists.newArrayList(GAMBLING);
 
 		public static boolean isExcluded(Set<String> inputs) {
 			if (inputs != null) {
@@ -26,21 +26,28 @@ public class Constant {
 	}
 
 	public static class Genre {
-		public static String BASKETBALL = "basketball";
-		public static String LIGHTGUN = "lightgun";
-		public static String SPORT = "sport";
+		public final static String BASKETBALL = "basketball";
+		public final static String LIGHTGUN = "lightgun";
+		public final static String SPORT = "sport";
 	}
 
 	public static class GameSystem {
-		public static String ARCADE = "arcade";
-		public static String ATOMISWAVE = "atomiswave";
-		public static String DAPHNE = "daphne";
-		public static String NAOMI = "naomi";
-		public static String NEOGEO = "neogeo";
-		public static String NEOGEOCD = "neogeocd";
-		public static String OPENBOR = "openbor";
+		public final static String ARCADE = "arcade";
+		public final static String ATOMISWAVE = "atomiswave";
+		public final static String DAPHNE = "daphne";
+		public final static String MODEL3 = "model3";
+		public final static String N64 = "n64";
+		public final static String NAOMI = "naomi";
+		public final static String NEOGEO = "neogeo";
+		public final static String PSP = "psp";
+		public final static String PSX = "psx";
+		public final static String SNES = "snes";
+		public final static String MEGADRIVE = "megadrive";
+		public final static String OPENBOR = "openbor";
+		public final static String SCUMMVM = "scummvm";
 
-		public static List<String> MAME = Lists.newArrayList(ARCADE, ATOMISWAVE, DAPHNE, NAOMI, NEOGEO);
+		public final static List<String> MAME = Lists.newArrayList(ARCADE, ATOMISWAVE, DAPHNE, MODEL3, NAOMI, NEOGEO);
+		public final static List<String> CONSOLE = Lists.newArrayList(N64, PSP, PSX, SNES, MEGADRIVE);
 	}
 
 	public static class GameEmulator {
@@ -55,6 +62,9 @@ public class Constant {
 		public final static String RICKDANGEROUS_ULTIMATE = "rickdangerous_ultimate";
 		public final static String WOLFANOZ_12K = "wolfanoz_12k";
 		public final static String VMAN_BLISS = "vman_bliss";
+		// coinops
+		public final static String PLAYER_LEGENDS_2 = "playerlegends2";
+		public final static String RETRO_ARCADE_2_ELITES = "retroarcade2elites";
 
 		public final static List<String> ALL = Lists.newArrayList(LAZYGALAXY, MAME, RICKDANGEROUS_ULTIMATE,
 				WOLFANOZ_12K, VMAN_BLISS);
