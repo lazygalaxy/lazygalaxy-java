@@ -44,23 +44,33 @@ public class B1_MameGameInfoEnrichLoad {
 	private static class MameGameInfoLoad extends XMLLoad<Game> {
 
 		private Map<String, Game> mameGameByIdMap = new HashMap<String, Game>();
+		private Map<String, List<Game>> mameGameByNameYearMap = new HashMap<String, List<Game>>();
 		private Map<String, List<Game>> mameGameByNameMap = new HashMap<String, List<Game>>();
 
 		public MameGameInfoLoad() throws Exception {
 			super(Game.class);
 
-			List<Game> games = GameUtil.getGames(false, false, null, Filters.in("systemId", GameSystem.MAME));
+			List<Game> games = GameUtil.getGames(false, false, null, null, Filters.in("systemId", GameSystem.MAME));
 			for (Game game : games) {
 				mameGameByIdMap.put(game.gameId, game);
+
 				for (String name : game.labels) {
-					if (!StringUtils.equals(name, game.gameId)) {
-						List<Game> gameList = mameGameByNameMap.get(name);
+					if (game.year != null) {
+						String mapKey = name + game.year;
+						List<Game> gameList = mameGameByNameYearMap.get(mapKey);
 						if (gameList == null) {
 							gameList = new ArrayList<Game>();
-							mameGameByNameMap.put(name, gameList);
+							mameGameByNameYearMap.put(mapKey, gameList);
 						}
 						gameList.add(game);
 					}
+					String mapKey = name;
+					List<Game> gameList = mameGameByNameMap.get(mapKey);
+					if (gameList == null) {
+						gameList = new ArrayList<Game>();
+						mameGameByNameMap.put(mapKey, gameList);
+					}
+					gameList.add(game);
 				}
 			}
 		}
@@ -68,50 +78,58 @@ public class B1_MameGameInfoEnrichLoad {
 		@Override
 		protected List<Game> getMongoDocument(Element element, List<String> extraTagValues) throws Exception {
 			Boolean isMechanical = XMLUtil.getAttributeAsBoolean(element, "ismechanical");
-			String originalName = XMLUtil.getAttributeAsString(element, "name");
+			String gameId = XMLUtil.getAttributeAsString(element, "name");
 			Integer buttons = XMLUtil.getTagAttributeAsInteger(element, "control", "buttons", 0);
 			Set<String> inputs = XMLUtil.getTagAttributeAsStringSet(element, "control", "type");
 
-			if (isMechanical || StringUtils.contains(originalName, "_") || (buttons != null && buttons > 9)
+			if (isMechanical || StringUtils.contains(gameId, "_") || (buttons != null && buttons > 9)
 					|| (inputs != null && Control.isExcluded(inputs))) {
 				return null;
 			}
 
-			String gameId = GeneralUtil.alphanumerify(originalName);
+			gameId = GeneralUtil.alphanumerify(gameId);
 			Game game = mameGameByIdMap.get(gameId);
 
 			List<Game> returnGameList = new ArrayList<Game>();
 			if (game == null) {
-				if (StringUtils.equals("roadrun1", gameId)) {
-					LOGGER.info("hello");
+
+				gameInfoStatic.originalName = XMLUtil.getTagAsString(element, "description", 0);
+				GameUtil.pretifyName(gameInfoStatic);
+
+				String year = XMLUtil.getTagAsString(element, "year", 0);
+				if (year != null && !StringUtils.equals(year, "1970")) {
+					year = StringUtils.left(year, 4);
+					if (StringUtils.contains(year, "?")) {
+						year = null;
+					}
 				}
 
-				String cloneOf = XMLUtil.getAttributeAsString(element, "cloneof");
-				if (StringUtils.isBlank(cloneOf)) {
-					gameInfoStatic.originalName = XMLUtil.getTagAsString(element, "description", 0);
-					gameInfoStatic.year = XMLUtil.getTagAsString(element, "year", 0);
-					if (gameInfoStatic.year != null && !StringUtils.equals(gameInfoStatic.year, "1970")) {
-						gameInfoStatic.year = StringUtils.left(gameInfoStatic.year, 4);
-						if (StringUtils.contains(gameInfoStatic.year, "?")) {
-							gameInfoStatic.year = null;
-						}
-					}
-					GameUtil.pretifyName(gameInfoStatic);
+				if (gameInfoStatic.names != null) {
+					for (String name : gameInfoStatic.names) {
 
-					if (gameInfoStatic.names != null) {
-						for (String uniqueName : gameInfoStatic.names) {
-							List<Game> mapGames = mameGameByNameMap.get(GeneralUtil.alphanumerify(uniqueName));
-							if (mapGames != null) {
-								for (Game mapGame : mapGames) {
-									if (mapGame.mameGameInfo == null
-											|| (mapGame.mameGameInfo.isGuess != null && mapGame.mameGameInfo.isGuess)) {
-										// returnGameList.addAll(process(mapGame, element, true, gameId));
-									}
+						List<Game> mapGames = null;
+						if (year != null) {
+							mapGames = mameGameByNameYearMap.get(GeneralUtil.alphanumerify(name + year));
+						}
+
+						if (mapGames == null) {
+							mapGames = mameGameByNameMap.get(GeneralUtil.alphanumerify(name));
+						}
+
+						if (mapGames != null) {
+							for (Game mapGame : mapGames) {
+								if (mapGame.mameGameInfo == null
+										|| (mapGame.mameGameInfo.isGuess != null && mapGame.mameGameInfo.isGuess
+												&& gameId.compareTo(mapGame.mameGameInfo.gameId) < 0)) {
+									returnGameList.addAll(process(mapGame, element, true, gameId));
 								}
 							}
 						}
+
 					}
 				}
+
+				// }
 			} else {
 				returnGameList.addAll(process(game, element, false, gameId));
 			}
@@ -133,6 +151,7 @@ public class B1_MameGameInfoEnrichLoad {
 				isVertical = true;
 			}
 			Set<String> inputs = XMLUtil.getTagAttributeAsStringSet(element, "control", "type");
+			String ways = XMLUtil.getTagAttributeAsString(element, "control", "ways", 0);
 			Integer buttons = XMLUtil.getTagAttributeAsInteger(element, "control", "buttons", 0);
 			String status = XMLUtil.getTagAttributeAsString(element, "driver", "status", 0);
 			String cloneOf = XMLUtil.getAttributeAsString(element, "cloneof");
@@ -146,7 +165,7 @@ public class B1_MameGameInfoEnrichLoad {
 			manufacturers.add(gameInfoStatic.version);
 
 			game.mameGameInfo = new GameInfo(gameId, originalName, year, players, manufacturers, isVertical, inputs,
-					buttons, status, isGuess);
+					ways, buttons, status, isGuess);
 			GameUtil.pretifyName(game.mameGameInfo);
 
 			game.addLabel(gameId);
@@ -157,10 +176,11 @@ public class B1_MameGameInfoEnrichLoad {
 				}
 			}
 
+			// we only derive family games
 			if (!StringUtils.isBlank(cloneOf)) {
 				String cloneOfGameId = GeneralUtil.alphanumerify(cloneOf);
-				List<Game> parentGames = GameUtil.getGames(false, false, cloneOf, Filters.eq("gameId", cloneOfGameId),
-						Filters.in("systemId", GameSystem.MAME));
+				List<Game> parentGames = GameUtil.getGames(false, false, cloneOf, null,
+						Filters.eq("gameId", cloneOfGameId), Filters.in("systemId", GameSystem.MAME));
 
 				if (parentGames != null) {
 					for (Game parentGame : parentGames) {

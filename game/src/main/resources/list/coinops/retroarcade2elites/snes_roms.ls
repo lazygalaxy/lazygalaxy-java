@@ -1,4 +1,4 @@
--rwxrwxrwx+ 1 admin users  825026 Feb 15  2012 Aladdin.zip
+-rwxrwxrwx+ 1 admin users  825026 Feb 15  2012 Disneys Aladdin.zip
 -rwxrwxrwx+ 1 admin users  799524 Jun 22  2010 Axelay.zip
 -rwxrwxrwx+ 1 admin users  753499 Feb 15  2012 Contra III.zip
 -rwxrwxrwx+ 1 admin users 1412361 Feb 15  2012 Demons Crest.zip
@@ -8,9 +8,9 @@
 -rwxrwxrwx+ 1 admin users  804679 Feb 15  2012 Final Fight II.zip
 -rwxrwxrwx+ 1 admin users  291794 Feb 15  2012 F Zero.zip
 -rwxrwxrwx+ 1 admin users 1496097 Jun 27  2021 International Superstar Soccer Deluxe.zip
--rwxrwxrwx+ 1 admin users  702832 Feb 15  2012 Legend of Zelda Link to the Past.zip
--rwxrwxrwx+ 1 admin users  941537 Feb 15  2012 Mega Man X1.zip
--rwxrwxrwx+ 1 admin users 1006440 Jan 14  2010 Mega Man X2.zip
+-rwxrwxrwx+ 1 admin users  702832 Feb 15  2012 Legend of Zelda A Link to the Past.zip
+-rwxrwxrwx+ 1 admin users  941537 Feb 15  2012 Mega Man X.zip
+-rwxrwxrwx+ 1 admin users 1006440 Jan 14  2010 Mega Man X2 USA.zip
 -rwxrwxrwx+ 1 admin users  860220 Jun 22  2010 Ninja Warriors.zip
 -rwxrwxrwx+ 1 admin users  942365 Feb 15  2012 Pocky Rocky II.zip
 -rwxrwxrwx+ 1 admin users  709170 Jun  7  2010 Pocky Rocky I.zip
@@ -24,8 +24,8 @@
 -rwxrwxrwx+ 1 admin users 1286562 Sep 18  2015 Super Mario World 2.zip
 -rwxrwxrwx+ 1 admin users 1573667 Feb 15  2012 Super Metroid.zip
 -rwxrwxrwx+ 1 admin users 1478572 Jul 16  2019 Super Punch-Out!!.zip
--rwxrwxrwx+ 1 admin users 1705993 Sep 18  2015 Super Star Wars III.zip
--rwxrwxrwx+ 1 admin users 1756280 Sep 27  2019 Super Star Wars II.zip
--rwxrwxrwx+ 1 admin users  874533 Feb 15  2012 Super Star Wars.zip
+-rwxrwxrwx+ 1 admin users 1705993 Sep 18  2015 Super Star Wars The Empire Strikes Back.zip
+-rwxrwxrwx+ 1 admin users 1756280 Sep 27  2019 Super Star Wars Return of the Jedi.zip
+-rwxrwxrwx+ 1 admin users  874533 Feb 15  2012 Super Star Wars (USA) (Rev 1).zip
 -rwxrwxrwx+ 1 admin users  709374 Feb 15  2012 Wild Guns.zip
 -rwxrwxrwx+ 1 admin users  602994 Feb 15  2012 Zombies Ate My Neighbors.zip

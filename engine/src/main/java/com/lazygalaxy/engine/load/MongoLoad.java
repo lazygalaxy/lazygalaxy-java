@@ -19,11 +19,11 @@ public abstract class MongoLoad<T1 extends MongoDocument, T2 extends MongoDocume
 	}
 
 	public void load(Bson... filters) throws Exception {
-		load(null, filters);
+		load(null, null, filters);
 	}
 
-	public void load(Merge<T2> merge, Bson... filters) throws Exception {
-		List<T1> readDocuments = readHelper.getDocumentsByFilters(filters);
+	public void load(Merge<T2> merge, Bson sort, Bson... find) throws Exception {
+		List<T1> readDocuments = readHelper.getDocumentsByFilters(sort, find);
 		for (T1 readDocument : readDocuments) {
 			List<T2> writeDocuments = getMongoDocument(readDocument);
 			if (writeDocuments != null) {

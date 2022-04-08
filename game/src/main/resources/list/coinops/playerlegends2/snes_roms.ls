@@ -1,12 +1,12 @@
--rwxrwxrwx+ 1 admin users  825026 Feb 15  2012 Aladdin.zip
+-rwxrwxrwx+ 1 admin users  825026 Feb 15  2012 Disneys Aladdin.zip
 -rwxrwxrwx+ 1 admin users  799524 Jun 22  2010 Axelay.zip
 -rwxrwxrwx+ 1 admin users  753499 Feb 15  2012 Contra III.zip
 -rwxrwxrwx+ 1 admin users 2993222 Feb 15  2012 Donkey Kong Country II.zip
 -rwxrwxrwx+ 1 admin users 2557446 Feb 15  2012 Donkey Kong Country I.zip
 -rwxrwxrwx+ 1 admin users  804679 Feb 15  2012 Final Fight II.zip
 -rwxrwxrwx+ 1 admin users  291794 Feb 15  2012 F Zero.zip
--rwxrwxrwx+ 1 admin users  702832 Feb 15  2012 Legend of Zelda Link to the Past.zip
--rwxrwxrwx+ 1 admin users  941537 Feb 15  2012 Mega Man X1.zip
+-rwxrwxrwx+ 1 admin users  702832 Feb 15  2012 Legend of Zelda A Link to the Past.zip
+-rwxrwxrwx+ 1 admin users  941537 Feb 15  2012 Mega Man X.zip
 -rwxrwxrwx+ 1 admin users  860220 Jun 22  2010 Ninja Warriors.zip
 -rwxrwxrwx+ 1 admin users  709170 Jun  7  2010 Pocky Rocky I.zip
 -rwxrwxrwx+ 1 admin users  976412 Feb 15  2012 R-Type III.zip

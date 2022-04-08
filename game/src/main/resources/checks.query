@@ -1,10 +1,10 @@
-//arcade games with no mame info // 0
+//arcade games with no mame info // 1
 { $and: [ { "mameGameInfo":null }, { "systemId": { $eq: "arcade" }}]}
 
-//arcade games with mame info guessed //10
+//arcade games with mame info guessed //20
 { $and: [ { "mameGameInfo.isGuess":true }, { "systemId": { $eq: "arcade" }}]}
 
-// find family arcade games //30
+// find family arcade games //180
 { $and: [ { "family": { $ne: null}}, { "systemId": { $eq: "arcade" }}]}
 
 // there should be 3 games with 3 family members
@@ -16,5 +16,5 @@
 //developer Mitchell, publisher Data East
 {"gameId":"funkyjet"} 
 
-
 //coin ops queries
+{ $or: [ { "playerlegends2GameInfo": { $ne: null }}, { "retroarcade2elitesGameInfo": { $ne: null }}]}

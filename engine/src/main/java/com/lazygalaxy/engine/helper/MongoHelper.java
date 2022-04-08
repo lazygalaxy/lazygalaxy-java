@@ -47,11 +47,20 @@ public class MongoHelper<T extends MongoDocument> {
 		return collection.find(Filters.eq(field, value)).first();
 	}
 
-	public List<T> getDocumentsByFilters(Bson... filters) {
-		if (filters.length == 0) {
-			return collection.find().into(new ArrayList<T>());
-		} else
-			return collection.find(Filters.and(filters)).into(new ArrayList<T>());
+	public List<T> getDocumentsByFilters(Bson sort, Bson... find) {
+		if (find.length == 0) {
+			if (sort == null) {
+				return collection.find().into(new ArrayList<T>());
+			} else {
+				return collection.find().sort(sort).into(new ArrayList<T>());
+			}
+		} else {
+			if (sort == null) {
+				return collection.find(Filters.and(find)).into(new ArrayList<T>());
+			} else {
+				return collection.find(Filters.and(find)).sort(sort).into(new ArrayList<T>());
+			}
+		}
 	}
 
 	public T getDocumentById(String id) {

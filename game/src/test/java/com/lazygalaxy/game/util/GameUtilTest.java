@@ -11,6 +11,30 @@ public class GameUtilTest extends TestCase {
 		GameInfo gameInfo = new GameInfo();
 		gameInfo.year = "1981";
 
+		gameInfo.originalName = "The Revenge of the Nerds - This is it";
+		GameUtil.pretifyName(gameInfo);
+		assertEquals("Revenge of the Nerds, The: This is it", Lists.newArrayList(gameInfo.names).get(0));
+		assertEquals("Revenge of the Nerds, The", Lists.newArrayList(gameInfo.names).get(1));
+		assertEquals("Revenge of the Nerds: This is it", Lists.newArrayList(gameInfo.names).get(2));
+		assertEquals("Revenge of the Nerds", Lists.newArrayList(gameInfo.names).get(3));
+
+		gameInfo.originalName = "Revenge of the Nerds, The - This is it";
+		GameUtil.pretifyName(gameInfo);
+		assertEquals("Revenge of the Nerds, The: This is it", Lists.newArrayList(gameInfo.names).get(0));
+		assertEquals("Revenge of the Nerds, The", Lists.newArrayList(gameInfo.names).get(1));
+		assertEquals("Revenge of the Nerds: This is it", Lists.newArrayList(gameInfo.names).get(2));
+		assertEquals("Revenge of the Nerds", Lists.newArrayList(gameInfo.names).get(3));
+
+		gameInfo.originalName = "The Revenge of the Nerds";
+		GameUtil.pretifyName(gameInfo);
+		assertEquals("Revenge of the Nerds, The", Lists.newArrayList(gameInfo.names).get(0));
+		assertEquals("Revenge of the Nerds", Lists.newArrayList(gameInfo.names).get(1));
+
+		gameInfo.originalName = "Revenge of the Nerds, The";
+		GameUtil.pretifyName(gameInfo);
+		assertEquals("Revenge of the Nerds, The", Lists.newArrayList(gameInfo.names).get(0));
+		assertEquals("Revenge of the Nerds", Lists.newArrayList(gameInfo.names).get(1));
+
 		gameInfo.originalName = "Dungeons &amp; Dragons : Shadow over Mystara";
 		GameUtil.pretifyName(gameInfo);
 		assertEquals("Dungeons & Dragons: Shadow over Mystara", Lists.newArrayList(gameInfo.names).get(0));
@@ -123,6 +147,5 @@ public class GameUtilTest extends TestCase {
 		assertEquals("Sega Rally Championship: Twin/DX", Lists.newArrayList(gameInfo.names).get(0));
 		assertEquals("Sega Rally Championship", Lists.newArrayList(gameInfo.names).get(1));
 		assertEquals("Revision C", gameInfo.version);
-
 	}
 }

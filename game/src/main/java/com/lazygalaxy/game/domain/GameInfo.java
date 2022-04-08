@@ -26,17 +26,18 @@ public class GameInfo {
 	public String marquee;
 	public Double rating;
 	public Integer players;
-	public Set<String> manufacturers;
+	public List<String> manufacturers;
 	public String emulator;
 	public Long fileSize;
 
 	// derived
-	public Set<String> names;
+	public List<String> names;
 	public String version;
 
 	// mame
 	public Boolean isVeritcal;
 	public Set<String> inputs;
+	public String ways;
 	public Integer buttons;
 	public String status;
 	public Boolean isGuess;
@@ -50,27 +51,27 @@ public class GameInfo {
 			String genre, String image, String video, String marquee, Double rating, String players,
 			List<String> manufacturers, String emulator) {
 		this(gameId, systemId, path, originalName, year, description, genre, image, video, marquee, rating, players,
-				manufacturers, emulator, null, null, null, null, null, null);
+				manufacturers, emulator, null, null, null, null, null, null, null);
 	}
 
 	// mame constructor
 	public GameInfo(String gameId, String originalName, String year, String players, List<String> manufacturers,
-			Boolean isVertical, Set<String> inputs, Integer buttons, String status, Boolean isGuess) {
+			Boolean isVertical, Set<String> inputs, String ways, Integer buttons, String status, Boolean isGuess) {
 		this(gameId, null, null, originalName, year, null, null, null, null, null, null, players, manufacturers, null,
-				isVertical, inputs, buttons, status, isGuess, null);
+				isVertical, inputs, ways, buttons, status, isGuess, null);
 	}
 
 	// coinops consrtuctor
 	public GameInfo(String gameId, String originalName, Long fileSize) {
 		this(gameId, null, null, originalName, null, null, null, null, null, null, null, null, null, null, null, null,
-				null, null, null, fileSize);
+				null, null, null, null, fileSize);
 	}
 
 	// general constructor
 	public GameInfo(String gameId, String systemId, String path, String originalName, String year, String description,
 			String genre, String image, String video, String marquee, Double rating, String players,
-			List<String> manufacturers, String emulator, Boolean isVeritcal, Set<String> inputs, Integer buttons,
-			String status, Boolean isGuess, Long fileSize) {
+			List<String> manufacturers, String emulator, Boolean isVeritcal, Set<String> inputs, String ways,
+			Integer buttons, String status, Boolean isGuess, Long fileSize) {
 		this.gameId = gameId;
 		this.systemId = systemId;
 		if (!StringUtils.endsWith(path, GameSource.LAZYGALAXY)) {
@@ -101,7 +102,7 @@ public class GameInfo {
 		if (manufacturers != null) {
 			for (String manufacturer : manufacturers) {
 				if (!StringUtils.isBlank(manufacturer)) {
-					this.manufacturers = SetUtil.addValueToLinkedHashSet(this.manufacturers,
+					this.manufacturers = SetUtil.addValueToArrayList(this.manufacturers,
 							normalizeManufacturer(manufacturer));
 				}
 			}
@@ -114,7 +115,7 @@ public class GameInfo {
 		}
 
 		this.inputs = inputs;
-
+		this.ways = ways;
 		this.buttons = buttons;
 
 		this.status = status;

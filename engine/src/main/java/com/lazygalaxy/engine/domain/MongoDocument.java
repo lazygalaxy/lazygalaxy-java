@@ -83,7 +83,7 @@ public abstract class MongoDocument {
 
 	@Override
 	public String toString() {
-		return id + " " + ReflectionToStringBuilder.toString(this);
+		return ReflectionToStringBuilder.toString(this);
 	}
 
 }

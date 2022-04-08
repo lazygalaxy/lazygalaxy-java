@@ -39,13 +39,27 @@ public class GameUtil {
 				if (StringUtils.contains(name, ": ")) {
 					String uniqueNameBefore = StringUtils.substring(name, 0, name.lastIndexOf(": "));
 					String uniqueNameAfter = uniqueNameBefore.replaceAll(": ", " ");
+					if (StringUtils.startsWith(uniqueNameAfter.toLowerCase(), "the ")) {
+						uniqueNameAfter = StringUtils.right(uniqueNameAfter, uniqueNameAfter.length() - 4) + ", The";
+					}
 					name = name.replaceAll(uniqueNameBefore, uniqueNameAfter);
-					info.names = SetUtil.addValueToLinkedHashSet(info.names, name);
-					info.names = SetUtil.addValueToLinkedHashSet(info.names, uniqueNameAfter);
+					info.names = SetUtil.addValueToArrayList(info.names, name);
+					info.names = SetUtil.addValueToArrayList(info.names, uniqueNameAfter);
+					if (StringUtils.endsWith(uniqueNameAfter.toLowerCase(), ", the")) {
+						String smallerName = StringUtils.left(uniqueNameAfter, uniqueNameAfter.length() - 5);
+						info.names = SetUtil.addValueToArrayList(info.names,
+								smallerName + StringUtils.substring(name, name.lastIndexOf(": "), name.length()));
+						info.names = SetUtil.addValueToArrayList(info.names, smallerName);
+					}
 				} else {
-					info.names = SetUtil.addValueToLinkedHashSet(info.names, name);
+					if (StringUtils.startsWith(name.toLowerCase(), "the ")) {
+						name = StringUtils.right(name, name.length() - 4) + ", The";
+					}
+					info.names = SetUtil.addValueToArrayList(info.names, name);
+					if (StringUtils.endsWith(name.toLowerCase(), ", the")) {
+						info.names = SetUtil.addValueToArrayList(info.names, StringUtils.left(name, name.length() - 5));
+					}
 				}
-
 			}
 			info.version = pretify(info.version);
 
@@ -90,17 +104,6 @@ public class GameUtil {
 			str = str.replaceAll(" VII:", " 7:");
 			str = str.replaceAll(" VIII:", " 8:");
 			str = str.replaceAll(" IX:", " 9:");
-			str = str.replaceAll(" X:", " 10:");
-			str = str.replaceAll(" XI:", " 11:");
-			str = str.replaceAll(" XII:", " 12:");
-			str = str.replaceAll(" XIII:", " 13:");
-			str = str.replaceAll(" XIV:", " 14:");
-			str = str.replaceAll(" XV:", " 15:");
-			str = str.replaceAll(" XVI:", " 16:");
-			str = str.replaceAll(" XVII:", " 17:");
-			str = str.replaceAll(" XVIII:", " 18:");
-			str = str.replaceAll(" XIX:", " 19:");
-			str = str.replaceAll(" XX:", " 20:");
 
 			str = str.trim();
 			str = str.replaceAll(" I$", " 1");
@@ -112,17 +115,6 @@ public class GameUtil {
 			str = str.replaceAll(" VII$", " 7");
 			str = str.replaceAll(" VIII$", " 8");
 			str = str.replaceAll(" IX$", " 9");
-			str = str.replaceAll(" X$", " 10");
-			str = str.replaceAll(" XI$", " 11");
-			str = str.replaceAll(" XII$", " 12");
-			str = str.replaceAll(" XIII$", " 13");
-			str = str.replaceAll(" XIV$", " 14");
-			str = str.replaceAll(" XV$", " 15");
-			str = str.replaceAll(" XVI$", " 16");
-			str = str.replaceAll(" XVII$", " 17");
-			str = str.replaceAll(" XVIII$", " 18");
-			str = str.replaceAll(" XIX$", " 19");
-			str = str.replaceAll(" XX$", " 20");
 
 			str = str.trim();
 			return str;
@@ -131,8 +123,8 @@ public class GameUtil {
 	}
 
 	public static List<Game> getGames(boolean printNoGameFound, boolean printMultipleGamesFound, String identifier,
-			Bson... filters) throws Exception {
-		List<Game> games = MongoHelper.getHelper(Game.class).getDocumentsByFilters(filters);
+			Bson sort, Bson... find) throws Exception {
+		List<Game> games = MongoHelper.getHelper(Game.class).getDocumentsByFilters(sort, find);
 
 		if (games.size() == 0) {
 			if (printNoGameFound) {

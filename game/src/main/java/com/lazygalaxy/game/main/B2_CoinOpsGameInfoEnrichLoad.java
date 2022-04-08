@@ -28,10 +28,6 @@ public class B2_CoinOpsGameInfoEnrichLoad {
 			GameMerge merge = new GameMerge();
 
 			// Player 2 Legends
-			new RomSetLoad(GameSystem.ARCADE, GameSource.PLAYER_LEGENDS_2)
-					.load("list/coinops/playerlegends2/arcade_roms.ls", 0, merge);
-			LOGGER.info("Player 2 Legends arcade rom list completed!");
-
 			new RomSetLoad(GameSystem.MEGADRIVE, GameSource.PLAYER_LEGENDS_2)
 					.load("list/coinops/playerlegends2/megadrive_roms.ls", 0, merge);
 			LOGGER.info("Player 2 Legends megadrive rom list completed!");
@@ -41,21 +37,21 @@ public class B2_CoinOpsGameInfoEnrichLoad {
 			LOGGER.info("Player 2 Legends snes rom list completed!");
 
 			// Retro Aracde 2 Elites
-			new RomSetLoad(GameSystem.ARCADE, GameSource.RETRO_ARCADE_2_ELITES)
-					.load("list/coinops/retroarcade2elites/arcade_roms.ls", 0, merge);
-			LOGGER.info("Retro Arcade 2 Elites arcade rom list completed!");
-
 			new RomSetLoad(GameSystem.MEGADRIVE, GameSource.RETRO_ARCADE_2_ELITES)
 					.load("list/coinops/retroarcade2elites/megadrive_roms.ls", 0, merge);
 			LOGGER.info("Retro Arcade 2 Elites megadrive rom list completed!");
 
 			new RomSetLoad(GameSystem.SNES, GameSource.RETRO_ARCADE_2_ELITES)
 					.load("list/coinops/retroarcade2elites/snes_roms.ls", 0, merge);
-			LOGGER.info("Retro Arcade 2 Elites arcade rom list completed!");
+			LOGGER.info("Retro Arcade 2 Elites snes rom list completed!");
 
 			new RomSetLoad(GameSystem.N64, GameSource.RETRO_ARCADE_2_ELITES)
 					.load("list/coinops/retroarcade2elites/n64_roms.ls", 0, merge);
 			LOGGER.info("Retro Arcade 2 Elites n64 rom list completed!");
+
+			new RomSetLoad(GameSystem.PC, GameSource.RETRO_ARCADE_2_ELITES)
+					.load("list/coinops/retroarcade2elites/pc_roms.ls", 0, merge);
+			LOGGER.info("Retro Arcade 2 Elites pc rom list completed!");
 
 			new RomSetLoad(GameSystem.PSP, GameSource.RETRO_ARCADE_2_ELITES)
 					.load("list/coinops/retroarcade2elites/psp_roms.ls", 0, merge);
@@ -83,39 +79,45 @@ public class B2_CoinOpsGameInfoEnrichLoad {
 		protected List<Game> getMongoDocumentByList(String file, long fileSize) throws Exception {
 			String gameId = StringUtils.substring(file, 0, StringUtils.lastIndexOf(file, "."));
 
-			List<Game> games = null;
-			if (GameSystem.MAME.contains(systemId)) {
+			gameInfoStatic.originalName = gameId;
+			GameUtil.pretifyName(gameInfoStatic);
+			String name = IterableUtils.get(gameInfoStatic.names, 0);
 
-				games = GameUtil.getGames(false, true, gameId, Filters.in("labels", gameId),
-						Filters.in("systemId", GameSystem.MAME));
+			List<Game> games = null;
+			String querySystemId = GameSystem.MAME.contains(systemId) ? GameSystem.ARCADE : systemId;
+			if (gameInfoStatic.version != null) {
+				gameId = GeneralUtil.alphanumerify(name + gameInfoStatic.version);
+				games = GameUtil.getGames(false, false, gameId, null, Filters.in("labels", gameId),
+						Filters.in("systemId", querySystemId));
+
+				if (games == null && StringUtils.endsWith(name, " 1")) {
+					gameId = GeneralUtil.alphanumerify(name.substring(0, name.length() - 2) + gameInfoStatic.version);
+					games = GameUtil.getGames(false, false, gameId, null, Filters.in("labels", gameId),
+							Filters.in("systemId", querySystemId));
+				}
 			}
 
 			if (games == null) {
-				gameInfoStatic.originalName = gameId;
-				GameUtil.pretifyName(gameInfoStatic);
-				games = GameUtil.getGames(true, true, gameId,
-						Filters.in("labels", GeneralUtil.alphanumerify(IterableUtils.get(gameInfoStatic.names, 0))),
-						Filters.in("systemId", GameSystem.MAME));
+				gameId = GeneralUtil.alphanumerify(name);
+				games = GameUtil.getGames(false, false, gameId, null, Filters.in("labels", gameId),
+						Filters.in("systemId", querySystemId));
+
+				if (games == null && StringUtils.endsWith(name, " 1")) {
+					gameId = GeneralUtil.alphanumerify(name.substring(0, name.length() - 2));
+					games = GameUtil.getGames(false, false, gameId, null, Filters.in("labels", gameId),
+							Filters.in("systemId", querySystemId));
+				}
 			}
 
-//			switch (systemId) {
-//			case GameSystem.ARCADE:
-//				game = new Game(systemId, GeneralUtil.alphanumerify(gameId));
-//				Game.class.getField(source + "GameInfo").set(game, new GameInfo(game.gameId, null, fileSize));
-//				break;
-//			default:
-//				gameInfoStatic.originalName = gameId;
-//				GameUtil.pretifyName(gameInfoStatic);
-//				game = new Game(systemId, GeneralUtil.alphanumerify(IterableUtils.get(gameInfoStatic.names, 0)));
-//				Game.class.getField(source + "GameInfo").set(game, new GameInfo(game.gameId, gameId, fileSize));
-//				break;
-//			}
-//
-//			GameUtil.pretifyName((GameInfo) Game.class.getField(source + "GameInfo").get(game));
-//			game.addLabel(game.gameId);
-//			return Arrays.asList(game);
+			if (games == null) {
+				LOGGER.warn(name + " not found");
+			} else {
+				for (Game game : games) {
+					Game.class.getField(source + "GameInfo").set(game, new GameInfo(game.gameId, name, fileSize));
+				}
+			}
 
-			return null;
+			return games;
 		}
 	}
 

@@ -5,6 +5,17 @@
 		<database>LazyGalaxy</database>
 	</provider>
 	<game>
+		<path>./akatana.lazygalaxy</path>
+		<name>Akai Katana</name>
+		<desc>Set in a parallel world resembling Japan's Taishō period, the people have discovered the powerful Blood Swords, the titular Akai Katana. Requiring human sacrifices to unleash their immense destructive power, these swords have been used by the empire to crush neighbouring countries. However, all the bloodshed and power gained through sacrificing close family members has made some of the swordsmen reconsider. With new fighter planes and the powered up swords at their disposal, this small band of rebels now fight back against the tyrannical empire.</desc>
+		<rating>0.8</rating>
+		<releasedate>2010</releasedate>
+		<developer>Cave</developer>
+		<publisher>Rising Star Games</publisher>
+		<genre>Shooter / Flying Horizontal</genre>
+		<players>1-2</players>
+	</game>
+	<game>
 		<path>./bublcave.lazygalaxy</path>
 		<name>Bubble Bobble: Lost Cave (V1.2)</name>
 <desc>One or two players take on the role of Bub and Bob, two cute dinosaurs who must battle through 100 platform-packed single screen levels to rescue their girlfriends. Bub and Bob are armed only with the ability to blow bubbles, in which the game's many enemies can be trapped and killed. The bubbles can also be used as temporary platforms, to help the dinosaurs reach previously inaccessible areas of a level.
@@ -14,6 +25,5 @@ The "Lost Cave" version gathers together the best 100 levels created in-house by
 	<game>
 		<path>./kodure.lazygalaxy</path>
 		<name>Kozure Ookami / Kodure Ookami</name>
-		<releasedate>1987</releasedate>
 	</game>
 </gameList>

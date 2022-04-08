@@ -34,7 +34,7 @@ public class F1_RunTopScoreLoad {
 			new AntopisaScoreLoad().load("score/score_arcade_antopisa.ini", 8, merge);
 			LOGGER.info("antopisa score load completed!");
 
-			new SourceScoreLoad().load(merge);
+			new SourceScoreLoad().load(merge, null);
 			LOGGER.info("source score load completed!");
 
 		} finally {
@@ -54,7 +54,7 @@ public class F1_RunTopScoreLoad {
 			String name = GeneralUtil.alphanumerify(tokens[1]);
 			String year = tokens[2];
 
-			List<Game> games = GameUtil.getGames(true, true, name + " " + year, Filters.in("labels", name),
+			List<Game> games = GameUtil.getGames(true, true, name + " " + year, null, Filters.in("labels", name),
 					Filters.in("systemId", GameSystem.MAME), Filters.eq("year", year));
 
 			if (games != null) {
@@ -87,7 +87,7 @@ public class F1_RunTopScoreLoad {
 			if (tokens.length >= 4) {
 				lastScore = Integer.parseInt(tokens[2]);
 			} else if (lastScore != null) {
-				List<Game> games = GameUtil.getGames(false, true, romId,
+				List<Game> games = GameUtil.getGames(false, true, romId, null,
 						Filters.or(Filters.eq("romId", romId), Filters.eq("cloneOfRomId", romId)),
 						Filters.in("systemId", GameSystem.ARCADE, GameSystem.ATOMISWAVE, GameSystem.DAPHNE,
 								GameSystem.NAOMI, GameSystem.NEOGEO));

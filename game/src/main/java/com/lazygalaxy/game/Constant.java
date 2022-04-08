@@ -39,6 +39,7 @@ public class Constant {
 		public final static String N64 = "n64";
 		public final static String NAOMI = "naomi";
 		public final static String NEOGEO = "neogeo";
+		public final static String PC = "pc";
 		public final static String PSP = "psp";
 		public final static String PSX = "psx";
 		public final static String SNES = "snes";
@@ -48,6 +49,8 @@ public class Constant {
 
 		public final static List<String> MAME = Lists.newArrayList(ARCADE, ATOMISWAVE, DAPHNE, MODEL3, NAOMI, NEOGEO);
 		public final static List<String> CONSOLE = Lists.newArrayList(N64, PSP, PSX, SNES, MEGADRIVE);
+		public final static List<String> COMPUTER = Lists.newArrayList(PC);
+
 	}
 
 	public static class GameEmulator {

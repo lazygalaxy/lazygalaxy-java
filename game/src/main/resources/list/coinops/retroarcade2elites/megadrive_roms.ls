@@ -1,11 +1,11 @@
--rwxrwxrwx+ 1 admin users 1174805 Sep 21  2015 AladdinMD.zip
--rwxrwxrwx+ 1 admin users  398420 Sep 21  2015 Castle of Illusion.zip
+-rwxrwxrwx+ 1 admin users 1174805 Sep 21  2015 Disneys Aladdin.zip
+-rwxrwxrwx+ 1 admin users  398420 Sep 21  2015 Disneys Castle of Illusion Starring Mickey Mouse.zip
 -rwxrwxrwx+ 1 admin users  711301 Jan 26  2010 Castlevania Bloodlines.zip
 -rwxrwxrwx+ 1 admin users 1367096 Feb 15  2012 Contra Hard Corps.zip
 -rwxrwxrwx+ 1 admin users 1903313 Sep 21  2015 Earthworm Jim.zip
 -rwxrwxrwx+ 1 admin users  543621 Feb 15  2012 ECCO the Dolphin.zip
 -rwxrwxrwx+ 1 admin users  662614 Feb 15  2012 Gunstar Heroes.zip
--rwxrwxrwx+ 1 admin users  578252 Dec  9  2020 NHL 94.zip
+-rwxrwxrwx+ 1 admin users  578252 Dec  9  2020 NHL Hockey 94.zip
 -rwxrwxrwx+ 1 admin users  367302 Aug 22  2019 Revenge of Shinobi.zip
 -rwxrwxrwx+ 1 admin users  677514 Jun 22  2010 Rocket Knight Adventures.zip
 -rwxrwxrwx+ 1 admin users  640312 Feb 15  2012 Shinobi III.zip

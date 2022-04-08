@@ -25,18 +25,18 @@ import com.lazygalaxy.game.util.GameUtil;
 import com.lazygalaxy.game.util.SetUtil;
 import com.mongodb.client.model.Filters;
 
-public class E2_RunDeriveEnrichLoad {
-	private static final Logger LOGGER = LogManager.getLogger(E2_RunDeriveEnrichLoad.class);
+public class C1_RunDeriveEnrichLoad {
+	private static final Logger LOGGER = LogManager.getLogger(C1_RunDeriveEnrichLoad.class);
 
 	public static void main(String[] args) throws Exception {
 		try {
 			GameMerge merge = new GameMerge();
 
-			new DeriveSourceEnrichLoad().load(merge);
+			new DeriveSourceEnrichLoad().load(merge, null);
 			LOGGER.info("derive source enrich completed!");
 
-			new FamilyDeriveEnrichLoad().load(merge, getMapObject());
-			LOGGER.info("family derive enrich completed!");
+			// new FamilyDeriveEnrichLoad().load(merge, getMapObject());
+			// LOGGER.info("family derive enrich completed!");
 
 		} finally {
 			MongoConnectionHelper.INSTANCE.close();
@@ -60,6 +60,10 @@ public class E2_RunDeriveEnrichLoad {
 			game.developer = null;
 			game.publisher = null;
 			setField(game, "manufacturers");
+			setField(game, "isVeritcal");
+			setField(game, "buttons");
+			setField(game, "inputs");
+			setField(game, "ways");
 
 			return Arrays.asList(game);
 		}
@@ -71,12 +75,10 @@ public class E2_RunDeriveEnrichLoad {
 					Object fieldObject = getField(gameInfoObject, field);
 					if (fieldObject != null) {
 						if (StringUtils.equals(field, "names")) {
-							game.name = Lists.newArrayList((Set<String>) fieldObject).get(0);
+							game.name = Lists.newArrayList((List<String>) fieldObject).get(0);
 							return;
 						} else if (StringUtils.equals(field, "manufacturers")) {
-							Set<String> manufacturerSet = (Set<String>) fieldObject;
-							List<String> manufacturers = Lists
-									.newArrayList(manufacturerSet.toArray(new String[manufacturerSet.size()]));
+							List<String> manufacturers = (List<String>) fieldObject;
 
 							if (game.developer == null) {
 								game.developer = manufacturers.get(0);
@@ -112,7 +114,7 @@ public class E2_RunDeriveEnrichLoad {
 	private static Map<String, Set<Game>> getMapObject() throws Exception {
 		Map<String, Set<Game>> mameGameByNameSetMap = new HashMap<String, Set<Game>>();
 
-		List<Game> games = GameUtil.getGames(false, false, null, Filters.in("systemId", GameSystem.MAME));
+		List<Game> games = GameUtil.getGames(false, false, null, null, Filters.in("systemId", GameSystem.MAME));
 		for (Game game : games) {
 			for (String name : game.labels) {
 				Set<Game> gameList = mameGameByNameSetMap.get(name);

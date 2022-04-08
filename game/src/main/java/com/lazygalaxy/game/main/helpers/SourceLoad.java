@@ -18,6 +18,7 @@ import org.apache.logging.log4j.Logger;
 import org.w3c.dom.Element;
 
 import com.google.common.collect.Lists;
+import com.lazygalaxy.engine.helper.MongoHelper;
 import com.lazygalaxy.engine.load.XMLLoad;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.engine.util.XMLUtil;
@@ -40,7 +41,7 @@ public class SourceLoad {
 				File systemGameListFile = new File(systemFile, "gamelist.xml");
 				if (systemGameListFile.exists()) {
 					new GameListLoad(source, systemFile.getName()).load(systemGameListFile, "game", merge);
-					LOGGER.debug(source + " " + systemFile.getName() + " enrich load completed!");
+					LOGGER.info(source + " " + systemFile.getName() + " enrich load completed!");
 				} else {
 					LOGGER.warn(source + " " + systemFile.getName() + " no gamelist.xml found!");
 				}
@@ -112,24 +113,27 @@ public class SourceLoad {
 			if (StringUtils.endsWith(path, ".sh")) {
 				return null;
 			}
-			if (!GameSystem.MAME.contains(systemId) && !GameSystem.CONSOLE.contains(systemId)) {
+			if (!GameSystem.MAME.contains(systemId) && !GameSystem.CONSOLE.contains(systemId)
+					&& !GameSystem.PC.contains(systemId)) {
 				return null;
 			}
 			String gameId = StringUtils.substring(path, 0, StringUtils.lastIndexOf(path, "."));
 			gameId = StringUtils.substring(gameId, StringUtils.indexOf(gameId, "/") + 1, gameId.length());
 
+			gameInfoStatic.originalName = gameId;
+			GameUtil.pretifyName(gameInfoStatic);
+
 			Game game = null;
-			if (GameSystem.MAME.contains(systemId)) {
-				game = new Game(GameSystem.ARCADE, gameId.toLowerCase().trim());
+			String querySystemId = GameSystem.MAME.contains(systemId) ? GameSystem.ARCADE : systemId;
+			if (gameInfoStatic.version == null) {
+				gameId = GeneralUtil.alphanumerify(IterableUtils.get(gameInfoStatic.names, 0));
 			} else {
-				gameInfoStatic.originalName = gameId;
-				GameUtil.pretifyName(gameInfoStatic);
-				if (gameInfoStatic.version == null) {
-					game = new Game(systemId, GeneralUtil.alphanumerify(IterableUtils.get(gameInfoStatic.names, 0)));
-				} else {
-					game = new Game(systemId, GeneralUtil
-							.alphanumerify(IterableUtils.get(gameInfoStatic.names, 0) + gameInfoStatic.version));
-				}
+				gameId = GeneralUtil.alphanumerify(IterableUtils.get(gameInfoStatic.names, 0) + gameInfoStatic.version);
+			}
+
+			game = MongoHelper.getHelper(Game.class).getDocumentById(querySystemId + "_" + gameId);
+			if (game == null) {
+				game = new Game(querySystemId, gameId);
 			}
 
 			String originalName = XMLUtil.getTagAsString(element, "name", 0);
@@ -162,6 +166,10 @@ public class SourceLoad {
 						game.addLabel(name + gameInfo.version);
 					}
 				}
+			}
+
+			if (game.year == null) {
+				game.year = gameInfo.year;
 			}
 
 			return Arrays.asList(game);

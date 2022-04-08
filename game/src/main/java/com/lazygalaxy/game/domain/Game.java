@@ -29,6 +29,10 @@ public class Game extends MongoDocument {
 	public String description;
 	public String developer;
 	public String publisher;
+	public Boolean isVeritcal;
+	public Set<String> inputs;
+	public String ways;
+	public Integer buttons;
 
 	public Game() {
 

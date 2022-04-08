@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Megadrive</System>
+		<database>LazyGalaxy</database>
+	</provider>
+	<game>
+		<path>./toejamandearl.lazygalaxy</path>
+		<name>ToeJam and Earl</name>
+		<rating>0.9</rating>
+		<releasedate>1991</releasedate>
+		<developer>Johnson Voorsanger Productions</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./soniccd.lazygalaxy</path>
+		<name>Sonic CD</name>
+		<rating>0.8</rating>
+		<releasedate>1993</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+</gameList>

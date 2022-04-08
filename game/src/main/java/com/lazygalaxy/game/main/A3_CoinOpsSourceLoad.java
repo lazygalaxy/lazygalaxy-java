@@ -3,12 +3,15 @@ package com.lazygalaxy.game.main;
 import java.util.Arrays;
 import java.util.List;
 
+import org.apache.commons.collections4.IterableUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
+import com.lazygalaxy.engine.helper.MongoHelper;
 import com.lazygalaxy.engine.load.LinuxListLoad;
+import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.game.Constant.GameSource;
 import com.lazygalaxy.game.Constant.GameSystem;
 import com.lazygalaxy.game.domain.Game;
@@ -53,7 +56,22 @@ public class A3_CoinOpsSourceLoad {
 		protected List<Game> getMongoDocumentByList(String file, long fileSize) throws Exception {
 			String gameId = StringUtils.substring(file, 0, StringUtils.lastIndexOf(file, "."));
 
-			Game game = new Game(systemId, gameId.toLowerCase().trim());
+			gameInfoStatic.originalName = gameId;
+			GameUtil.pretifyName(gameInfoStatic);
+
+			Game game = null;
+			String querySystemId = GameSystem.MAME.contains(systemId) ? GameSystem.ARCADE : systemId;
+			if (gameInfoStatic.version == null) {
+				gameId = GeneralUtil.alphanumerify(IterableUtils.get(gameInfoStatic.names, 0));
+			} else {
+				gameId = GeneralUtil.alphanumerify(IterableUtils.get(gameInfoStatic.names, 0) + gameInfoStatic.version);
+			}
+
+			game = MongoHelper.getHelper(Game.class).getDocumentById(querySystemId + "_" + gameId);
+			if (game == null) {
+				game = new Game(querySystemId, gameId);
+			}
+
 			Game.class.getField(source + "GameInfo").set(game, new GameInfo(game.gameId, null, fileSize));
 
 			GameUtil.pretifyName((GameInfo) Game.class.getField(source + "GameInfo").get(game));

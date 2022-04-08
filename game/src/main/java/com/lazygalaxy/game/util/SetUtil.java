@@ -1,6 +1,8 @@
 package com.lazygalaxy.game.util;
 
+import java.util.ArrayList;
 import java.util.LinkedHashSet;
+import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
 
@@ -40,6 +42,24 @@ public class SetUtil {
 		}
 		if (valueSet.size() > 0) {
 			return valueSet;
+		}
+		return null;
+	}
+
+	public static List<String> addValueToArrayList(List<String> valueList, String... values) {
+		if (values != null && values.length > 0) {
+			if (valueList == null) {
+				valueList = new ArrayList<String>();
+			}
+
+			for (String value : values) {
+				if (!StringUtils.isBlank(value) && !valueList.contains(value)) {
+					valueList.add(value);
+				}
+			}
+		}
+		if (valueList.size() > 0) {
+			return valueList;
 		}
 		return null;
 	}
