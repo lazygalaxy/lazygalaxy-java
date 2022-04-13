@@ -49,7 +49,7 @@ public class Constant {
 
 		public final static List<String> MAME = Lists.newArrayList(ARCADE, ATOMISWAVE, DAPHNE, MODEL3, NAOMI, NEOGEO);
 		public final static List<String> CONSOLE = Lists.newArrayList(N64, PSP, PSX, SNES, MEGADRIVE);
-		public final static List<String> COMPUTER = Lists.newArrayList(PC);
+		public final static List<String> COMPUTER = Lists.newArrayList(PC, SCUMMVM);
 
 	}
 
@@ -68,6 +68,8 @@ public class Constant {
 		// coinops
 		public final static String PLAYER_LEGENDS_2 = "playerlegends2";
 		public final static String RETRO_ARCADE_2_ELITES = "retroarcade2elites";
+		// scummvm
+		public final static String SCUMMVM = "scummvm";
 
 		public final static List<String> ALL = Lists.newArrayList(LAZYGALAXY, MAME, RICKDANGEROUS_ULTIMATE,
 				WOLFANOZ_12K, VMAN_BLISS);

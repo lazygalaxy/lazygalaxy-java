@@ -64,12 +64,10 @@ public class MongoHelper<T extends MongoDocument> {
 	}
 
 	public T getDocumentById(String id) {
-		id = GeneralUtil.alphanumerify(id, "_", "");
 		return getDocumentByField("_id", id);
 	}
 
 	public boolean deleteDocumentById(String id) {
-		id = GeneralUtil.alphanumerify(id, "_", "");
 		LOGGER.info("deleting  id: " + id);
 		return collection.deleteOne(Filters.eq("_id", id)).wasAcknowledged();
 

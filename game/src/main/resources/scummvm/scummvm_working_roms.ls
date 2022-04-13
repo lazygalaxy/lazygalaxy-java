@@ -292,12 +292,10 @@
 -rwxrwxrwx+ 1 admin users    1185738 May  7  2018 Personal Nightmare (Floppy DOS).zip
 -rwxrwxrwx+ 1 admin users 1956644373 May  7  2018 Phantasmagoria 2 (CD, Windows).zip
 -rwxrwxrwx+ 1 admin users 1918572283 May  7  2018 Phantasmagoria (CD, Windows).zip
--rwxrwxrwx+ 1 admin users  709172824 May  7  2018 Playtoons 1-4 Combined Install (CD, Windows).zip
 -rwxrwxrwx+ 1 admin users  183398690 May  7  2018 Playtoons 1 - Uncle Archibald (CD, Windows).zip
 -rwxrwxrwx+ 1 admin users  273542428 May  7  2018 Playtoons 2 - Case of the Counterfeit Collaborator (CD, Windows).zip
 -rwxrwxrwx+ 1 admin users  200445687 May  7  2018 Playtoons 3 - Secret of the Castle (CD, Windows).zip
 -rwxrwxrwx+ 1 admin users  270441830 May  7  2018 Playtoons 4 - The Mandarine Prince (CD, Windows).zip
--rwxrwxrwx+ 1 admin users   91525041 May  7  2018 Playtoons Bambou le Sauveur de la Jungle (CD DOS, French).zip
 -rwxrwxrwx+ 1 admin users  369425294 May  7  2018 Plumbers Don't Wear Ties (CD, Windows).zip
 -rwxrwxrwx+ 1 admin users   14296437 May  7  2018 Police Quest 1 - In Pursuite of the Death Angel (Floppy DOS VGA Remake).zip
 -rwxrwxrwx+ 1 admin users     461447 May  7  2018 Police Quest 1 - In Pursuit of the Death Angel (Amiga).zip
@@ -336,7 +334,6 @@
 -rwxrwxrwx+ 1 admin users   15351633 May  7  2018 Ringworld - Revenge of the Patriarch (CD DOS).zip
 -rwxrwxrwx+ 1 admin users 2186520237 May  7  2018 Riven (CD Windows).zip
 -rwxrwxrwx+ 1 admin users 2328942771 May  7  2018 Riven (DVD Windows).zip
--rwxrwxrwx+ 1 admin users     122552 May  7  2018 Road (Fanmade - Get's Detected as DOTT).zip
 -rwxrwxrwx+ 1 admin users    1430204 May  7  2018 Rodney's Fun Screen (Windows).zip
 -rwxrwxrwx+ 1 admin users  113626436 May  7  2018 Sam and Max Hit the Road (CD DOS).zip
 -rwxrwxrwx+ 1 admin users  114520119 May  7  2018 Sam and Max Hit the Road (CD Mac).zip
@@ -350,7 +347,6 @@
 -rwxrwxrwx+ 1 admin users   82745558 May  7  2018 Simon the Sorcerer 2 (Amiga CD32).zip
 -rwxrwxrwx+ 1 admin users   70046951 May  7  2018 Simon the Sorcerer 2 (CD Windows).zip
 -rwxrwxrwx+ 1 admin users   10408814 May  7  2018 Simon the Sorcerer 2 (Floppy DOS).zip
--rwxrwxrwx+ 1 admin users   45210190 May  7  2018 Simon the Sorcerer Puzzle Pack (CD Windows).zip
 -rwxrwxrwx+ 1 admin users    6145799 May  7  2018 Slater & Charlie Go Camping (CD DOS).zip
 -rwxrwxrwx+ 1 admin users    6350916 May  7  2018 Slater & Charlie Go Camping (CD Windows).zip
 -rwxrwxrwx+ 1 admin users    3508979 May  7  2018 Soltys (DOS).zip

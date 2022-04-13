@@ -6,13 +6,13 @@ import com.lazygalaxy.game.main.helpers.SourceLoad;
 
 public class XX_RunVmanBlissSourceLoad extends SourceLoad {
 
-	public static void main(String[] args) throws Exception {
-		try {
+    public static void main(String[] args) throws Exception {
+        try {
 
-			sourceLoad(GameSource.VMAN_BLISS);
+            gameListEnrichLoad(GameSource.VMAN_BLISS);
 
-		} finally {
-			MongoConnectionHelper.INSTANCE.close();
-		}
-	}
+        } finally {
+            MongoConnectionHelper.INSTANCE.close();
+        }
+    }
 }

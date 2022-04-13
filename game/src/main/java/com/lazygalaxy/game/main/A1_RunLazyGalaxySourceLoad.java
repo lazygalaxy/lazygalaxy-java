@@ -6,13 +6,13 @@ import com.lazygalaxy.game.main.helpers.SourceLoad;
 
 public class A1_RunLazyGalaxySourceLoad extends SourceLoad {
 
-	public static void main(String[] args) throws Exception {
-		try {
+    public static void main(String[] args) throws Exception {
+        try {
 
-			sourceLoad(GameSource.LAZYGALAXY);
+            gameListEnrichLoad(GameSource.LAZYGALAXY);
 
-		} finally {
-			MongoConnectionHelper.INSTANCE.close();
-		}
-	}
+        } finally {
+            MongoConnectionHelper.INSTANCE.close();
+        }
+    }
 }

@@ -16,8 +16,8 @@ import com.lazygalaxy.game.util.GameUtil;
 import com.mongodb.client.model.Filters;
 import com.mongodb.client.model.Sorts;
 
-public class GenerateCoinOpsGameList {
-	private static final Logger LOGGER = LogManager.getLogger(GenerateCoinOpsGameList.class);
+public class GenerateCoinOpsGameListFromDB {
+	private static final Logger LOGGER = LogManager.getLogger(GenerateCoinOpsGameListFromDB.class);
 
 	public static void main(String[] args) throws Exception {
 		List<Game> games = GameUtil.getGames(false, false, null,

@@ -1,46 +1,78 @@
 package com.lazygalaxy.game.domain;
 
+import com.lazygalaxy.engine.domain.MongoDocument;
+import com.lazygalaxy.engine.util.GeneralUtil;
+import com.lazygalaxy.game.Constant.GameSystem;
+import org.apache.commons.lang3.StringUtils;
+
 import java.util.Set;
 
-import com.lazygalaxy.engine.domain.MongoDocument;
-
 public class Game extends MongoDocument {
-	public static final String DATABASE = "game";
+    public static final String DATABASE = "game";
+    private static final String ID_SEPERATOR = ":";
 
-	public String gameId;
-	public String systemId;
+    public String gameId;
+    public String systemId;
+    public String version;
+    public Long fileSize;
 
-	public Set<String> family;
-	public Boolean favourite;
-	public Boolean hide;
+    public Set<String> family;
+    public Boolean favourite;
+    public Boolean hide;
 
-	public GameInfo lazygalaxyGameInfo;
-	public GameInfo mameGameInfo;
-	// retropie images
-	public GameInfo vman_blissGameInfo;
-	public GameInfo rickdangerous_ultimateGameInfo;
-	public GameInfo wolfanoz_12kGameInfo;
-	// coinops
-	public GameInfo playerlegends2GameInfo;
-	public GameInfo retroarcade2elitesGameInfo;
+    public GameInfo lazygalaxyGameInfo;
+    public GameInfo mameGameInfo;
+    public GameInfo scummvmGameInfo;
+    // retropie images
+    public GameInfo vman_blissGameInfo;
+    public GameInfo rickdangerous_ultimateGameInfo;
+    public GameInfo wolfanoz_12kGameInfo;
+    // coinops
+    public GameInfo playerlegends2GameInfo;
+    public GameInfo retroarcade2elitesGameInfo;
 
-	public String year;
-	public Integer players;
-	public String description;
-	public String developer;
-	public String publisher;
-	public Boolean isVeritcal;
-	public Set<String> inputs;
-	public String ways;
-	public Integer buttons;
+    public String year;
+    public Integer players;
+    public String description;
+    public String developer;
+    public String publisher;
+    public Boolean isVeritcal;
+    public Set<String> inputs;
+    public String ways;
+    public Integer buttons;
 
-	public Game() {
+    public Game() {
 
-	}
+    }
 
-	public Game(String systemId, String gameId) throws Exception {
-		super(systemId + "_" + gameId, false, null, null);
-		this.gameId = gameId;
-		this.systemId = systemId;
-	}
+    public Game(String systemId, String gameId, String version, Long fileSize) throws Exception {
+        super(createId(systemId, gameId, version), false, null, null);
+        this.gameId = gameId;
+        this.systemId = systemId;
+        this.version = version;
+        this.fileSize = fileSize;
+    }
+
+    public static String createId(String systemId, String gameId, String version) {
+        return systemId + ID_SEPERATOR + gameId + normalizeVersion(systemId, version);
+    }
+
+    private static String normalizeVersion(String systemId, String version) {
+        if (version != null && StringUtils.equals(systemId, GameSystem.SCUMMVM)) {
+            String versionId = GeneralUtil.alphanumerify(version);
+
+            versionId = StringUtils.replace(versionId, "windows", "win");
+            versionId = StringUtils.replace(versionId, "floppy", "flo");
+            versionId = StringUtils.replace(versionId, "atarist", "ata");
+            versionId = StringUtils.replace(versionId, "multilanguage", "ml");
+            versionId = StringUtils.replace(versionId, "remake", "re");
+            versionId = StringUtils.replace(versionId, "fanmadegetsdetectedasdott", "fan");
+            versionId = StringUtils.replace(versionId, "extracted", "ex");
+            versionId = StringUtils.replace(versionId, "amiga", "ami");
+            versionId = StringUtils.replace(versionId, "linux", "lin");
+            versionId = StringUtils.replace(versionId, "apple", "app");
+            return ID_SEPERATOR + versionId;
+        }
+        return "";
+    }
 }

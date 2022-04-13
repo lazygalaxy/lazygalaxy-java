@@ -4,3 +4,5 @@
 .project
 lazygalaxy.properties
 target
+.idea
+*.iml

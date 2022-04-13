@@ -6,13 +6,13 @@ import com.lazygalaxy.game.main.helpers.SourceLoad;
 
 public class A2_RunRickDangerousUltimateSourceLoad extends SourceLoad {
 
-	public static void main(String[] args) throws Exception {
-		try {
+    public static void main(String[] args) throws Exception {
+        try {
 
-			sourceLoad(GameSource.RICKDANGEROUS_ULTIMATE);
+            gameListEnrichLoad(GameSource.RICKDANGEROUS_ULTIMATE);
 
-		} finally {
-			MongoConnectionHelper.INSTANCE.close();
-		}
-	}
+        } finally {
+            MongoConnectionHelper.INSTANCE.close();
+        }
+    }
 }
