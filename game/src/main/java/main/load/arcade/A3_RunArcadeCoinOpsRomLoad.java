@@ -1,4 +1,4 @@
-package com.lazygalaxy.game.main;
+package main.load.arcade;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.helper.MongoHelper;
@@ -18,9 +18,9 @@ import org.apache.logging.log4j.Logger;
 import java.util.Arrays;
 import java.util.List;
 
-public class A3_CoinOpsSourceLoad {
+public class A3_RunArcadeCoinOpsRomLoad {
 
-    private static final Logger LOGGER = LogManager.getLogger(A3_CoinOpsSourceLoad.class);
+    private static final Logger LOGGER = LogManager.getLogger(A3_RunArcadeCoinOpsRomLoad.class);
     private static final GameInfo gameInfoStatic = new GameInfo();
 
     public static void main(String[] args) throws Exception {

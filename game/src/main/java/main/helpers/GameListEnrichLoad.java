@@ -1,4 +1,4 @@
-package com.lazygalaxy.game.main.helpers;
+package main.helpers;
 
 import com.google.common.collect.Lists;
 import com.lazygalaxy.engine.load.XMLLoad;
@@ -21,16 +21,17 @@ import java.io.File;
 import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Stream;
 
-public class SourceLoad {
-    private static final Logger LOGGER = LogManager.getLogger(SourceLoad.class);
+public class GameListEnrichLoad {
+    private static final Logger LOGGER = LogManager.getLogger(GameListEnrichLoad.class);
     private static final GameInfo gameInfoStatic = new GameInfo();
 
-    protected static void gameListEnrichLoad(String source, String... systemIds) throws Exception {
+    protected static void load(String source, boolean mustCreate, boolean matchOnlyGameId, String... systemIds) throws Exception {
         GameMerge merge = new GameMerge();
 
         if (systemIds == null || systemIds.length == 0) {
@@ -39,7 +40,7 @@ public class SourceLoad {
                 if (systemFile.isDirectory()) {
                     File systemGameListFile = new File(systemFile, "gamelist.xml");
                     if (systemGameListFile.exists()) {
-                        new GameListLoad(source, systemFile.getName()).load(systemGameListFile, "game", merge);
+                        new GameListLoad(source, mustCreate, matchOnlyGameId, systemFile.getName()).load(systemGameListFile, "game", merge);
                         LOGGER.info(source + " " + systemFile.getName() + " enrich load completed!");
                     } else {
                         LOGGER.warn(source + " " + systemFile.getName() + " no gamelist.xml found!");
@@ -49,29 +50,38 @@ public class SourceLoad {
         } else {
 
             for (String systemId : systemIds) {
-                File systemGameListFile = Paths.get(
-                                ClassLoader.getSystemResource("source/" + source + "/" + systemId + "/gamelist.xml").toURI())
-                        .toFile();
-                if (systemGameListFile.exists()) {
-                    new GameListLoad(source, systemId).load(systemGameListFile, "game", merge);
-                    LOGGER.info(source + " " + systemId + " enrich load completed!");
+                URL url = ClassLoader.getSystemResource("source/" + source + "/" + systemId + "/gamelist.xml");
+                if (url != null && url.toURI() != null && Paths.get(url.toURI()).toFile() != null) {
+                    File systemGameListFile = Paths.get(url.toURI()).toFile();
+                    if (systemGameListFile.exists()) {
+                        new GameListLoad(source, mustCreate, matchOnlyGameId, systemId).load(systemGameListFile, "game", merge);
+                        LOGGER.info(source + " " + systemId + " enrich load completed!");
+                    } else {
+                        LOGGER.warn(source + " " + systemId + " no gamelist.xml found!");
+                    }
                 } else {
-                    LOGGER.warn(source + " " + systemId + " no gamelist.xml found!");
+                    LOGGER.info("Nothing to load: " + systemId);
                 }
             }
         }
-        LOGGER.warn("Finished loading: " + source);
+        LOGGER.info("Finished loading: " + source);
     }
 
     private static class GameListLoad extends XMLLoad<Game> {
         private String source;
+        private boolean mustCreate;
+        private boolean matchOnlyGameId;
         private String systemId;
+
+
         private String defaultEmulator = null;
         private Map<String, String> emulatorMap = new HashMap<String, String>();
 
-        public GameListLoad(String source, String systemId) throws Exception {
+        public GameListLoad(String source, boolean mustCreate, boolean matchOnlyGameId, String systemId) throws Exception {
             super(Game.class);
             this.source = source;
+            this.mustCreate = mustCreate;
+            this.matchOnlyGameId = matchOnlyGameId;
 
             switch (systemId) {
                 case Constant.GameEmulator.FBNEO:
@@ -143,30 +153,34 @@ public class SourceLoad {
                         Filters.eq("systemId", querySystemId));
             }
 
-            if (gameList == null) {
-                //query by game name
-                String originalName = XMLUtil.getTagAsString(element, "name", 0);
+            String originalName = XMLUtil.getTagAsString(element, "name", 0);
+//
+//            if (gameList == null && originalName != null && !matchOnlyGameId) {
+//                //query by game name
+//                gameInfoStatic.originalName = originalName;
+//                GameUtil.pretifyName(gameInfoStatic);
+//
+//                for (String name : gameInfoStatic.names) {
+//                    String labelSearch = GeneralUtil.alphanumerify(name);
+//
+//                    gameList = GameUtil.getGames(false, false, gameId + " " + originalName, null, Filters.in("labels", labelSearch),
+//                            Filters.eq("systemId", querySystemId));
+//                    if (gameList != null) {
+//                        break;
+//                    }
+//                }
+//            }
 
-                gameInfoStatic.originalName = originalName;
-                GameUtil.pretifyName(gameInfoStatic);
-
-                for (String name : gameInfoStatic.names) {
-                    String labelSearch = GeneralUtil.alphanumerify(name);
-
-                    gameList = GameUtil.getGames(true, false, gameId + " " + originalName, null, Filters.in("labels", labelSearch),
-                            Filters.eq("systemId", querySystemId));
-                    if (gameList != null) {
-                        break;
-                    }
-                }
-            }
-
-            // for now we assume that we never want to create new games
-            if (gameList == null) {
+            // for some systems we create the game
+            if (gameList == null && mustCreate) {
+                Game game = new Game(querySystemId, gameId, null, null);
+                gameList = new ArrayList<Game>();
+                gameList.add(game);
+            } else if (gameList == null) {
+                LOGGER.info("game not found: " + gameId + " " + originalName);
                 return null;
             }
 
-            String originalName = XMLUtil.getTagAsString(element, "name", 0);
             String year = XMLUtil.getTagAsString(element, "releasedate", 0);
             String description = XMLUtil.getTagAsString(element, "desc", 0);
             String genre = XMLUtil.getTagAsString(element, "genre", 0);

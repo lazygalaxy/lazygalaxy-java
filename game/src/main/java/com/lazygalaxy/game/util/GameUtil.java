@@ -41,7 +41,7 @@ public class GameUtil {
                     if (StringUtils.startsWith(uniqueNameAfter.toLowerCase(), "the ")) {
                         uniqueNameAfter = StringUtils.right(uniqueNameAfter, uniqueNameAfter.length() - 4) + ", The";
                     }
-                    name = name.replaceAll(uniqueNameBefore, uniqueNameAfter);
+                    name = StringUtils.replace(name, uniqueNameBefore, uniqueNameAfter);
                     info.names = SetUtil.addValueToArrayList(info.names, name);
                     info.names = SetUtil.addValueToArrayList(info.names, uniqueNameAfter);
                     if (StringUtils.endsWith(uniqueNameAfter.toLowerCase(), ", the")) {

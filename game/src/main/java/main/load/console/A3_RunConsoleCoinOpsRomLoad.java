@@ -1,4 +1,4 @@
-package com.lazygalaxy.game.main;
+package main.load.console;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.LinuxListLoad;
@@ -17,9 +17,9 @@ import org.apache.logging.log4j.Logger;
 
 import java.util.List;
 
-public class B2_CoinOpsGameInfoEnrichLoad {
+public class A3_RunConsoleCoinOpsRomLoad {
 
-    private static final Logger LOGGER = LogManager.getLogger(B2_CoinOpsGameInfoEnrichLoad.class);
+    private static final Logger LOGGER = LogManager.getLogger(A3_RunConsoleCoinOpsRomLoad.class);
     private static final GameInfo gameInfoStatic = new GameInfo();
 
     public static void main(String[] args) throws Exception {
@@ -109,7 +109,7 @@ public class B2_CoinOpsGameInfoEnrichLoad {
             }
 
             if (games == null) {
-                LOGGER.warn(name + " not found");
+                LOGGER.warn(name + " not found for " + querySystemId);
             } else {
                 for (Game game : games) {
                     Game.class.getField(source + "GameInfo").set(game, new GameInfo(game.gameId, file, name));

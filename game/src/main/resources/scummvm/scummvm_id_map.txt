@@ -203,8 +203,8 @@ playtoons4	gob	Playtoons 4
 playtoons5	gob	Playtoons 5
 plumbers	plumbers	Plumbers Don't Wear Ties
 pn	agos	Personal Nightmare
-pq1	agi	Police Quest 1: In Pursuite of the Death Angel
-pq1sci	sci	Police Quest 1: In Pursuite of the Death Angel [Remake]
+pq1	agi	Police Quest 1: In Pursuit of the Death Angel / Police Quest 1: In Pursuite of the Death Angel
+pq1sci	sci	Police Quest 1: In Pursuit of the Death Angel [Remake] / Police Quest 1: In Pursuite of the Death Angel [Remake]
 pq2	sci	Police Quest 2: The Vengeance
 pq3	sci	Police Quest 3: The Kindred
 pq4	sci	Police Quest 4: Open Season

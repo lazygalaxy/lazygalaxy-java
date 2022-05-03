@@ -1,10 +1,10 @@
-package com.lazygalaxy.game.main.load.scummvm;
+package main.load.scummvm;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.helper.MongoHelper;
 import com.lazygalaxy.engine.load.LinuxListLoad;
 import com.lazygalaxy.engine.util.GeneralUtil;
-import com.lazygalaxy.game.Constant.GameSystem;
+import com.lazygalaxy.game.Constant;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
 import com.lazygalaxy.game.merge.GameMerge;
@@ -29,10 +29,10 @@ public class A1_RunScummVMRomLoad {
         try {
             GameMerge merge = new GameMerge();
 
-            new ScummVMRomLoad(GameSystem.SCUMMVM).load("scummvm/scummvm_working_roms.ls", 0, merge);
+            new ScummVMRomLoad().load("scummvm/scummvm_working_roms.ls", 0, merge);
             LOGGER.info("scummvm working rom list completed!");
 
-            new ScummVMRomLoad(GameSystem.SCUMMVM).load("scummvm/scummvm_other_roms.ls", 0, merge);
+            new ScummVMRomLoad().load("scummvm/scummvm_other_roms.ls", 0, merge);
             LOGGER.info("scummvm other rom list completed!");
 
         } finally {
@@ -41,13 +41,10 @@ public class A1_RunScummVMRomLoad {
     }
 
     private static class ScummVMRomLoad extends LinuxListLoad<Game> {
-        private String systemId;
-
         private Map<String, GameInfo> gameInfoMap = new TreeMap<String, GameInfo>();
 
-        public ScummVMRomLoad(String systemId) throws Exception {
+        public ScummVMRomLoad() throws Exception {
             super(Game.class);
-            this.systemId = systemId;
 
             Path filePath = Paths.get(ClassLoader.getSystemResource("scummvm/scummvm_id_map.txt").toURI());
             List<String> lines = Files.readAllLines(filePath);
@@ -62,13 +59,12 @@ public class A1_RunScummVMRomLoad {
                     for (String name : gameInfo.names) {
                         String key = GeneralUtil.alphanumerify(name);
                         if (!StringUtils.equalsAny(key, "livingbooks", "crazynickspicks", "magictales",
-                                "lostfilesofsherlockholmesthe", "lostfilesofsherlockholmes")) {
-                            if (!gameInfoMap.containsKey(key) || gameInfo.names.size() == 1) {
+                                "lostfilesofsherlockholmesthe", "lostfilesofsherlockholmes", "kingsquest1", "spacequest1",
+                                "policequest1", "leisuresuitlarry1", "questforglory1", "laurabow")) {
+                            if (!gameInfoMap.containsKey(key)) {
                                 gameInfoMap.put(key, gameInfo);
-                            } else if (!StringUtils.equalsAny(key, "myst", "kingsquest1", "spacequest1", "policequest1",
-                                    "leisuresuitlarry1", "questforglory1", "laurabow")) {
+                            } else {
                                 LOGGER.error(key + " -> duplicate found");
-                                gameInfoMap.remove(key);
                             }
                         }
                     }
@@ -103,9 +99,9 @@ public class A1_RunScummVMRomLoad {
                 newGameInfo.gameId = referenceGameInfo.gameId;
 
                 Game game = MongoHelper.getHelper(Game.class)
-                        .getDocumentById(Game.createId(systemId, newGameInfo.gameId, newGameInfo.version));
+                        .getDocumentById(Game.createId(Constant.GameSystem.SCUMMVM, newGameInfo.gameId, newGameInfo.version));
                 if (game == null) {
-                    game = new Game(systemId, newGameInfo.gameId, newGameInfo.version, fileSize);
+                    game = new Game(Constant.GameSystem.SCUMMVM, newGameInfo.gameId, newGameInfo.version, fileSize);
                 }
 
                 game.scummvmGameInfo = newGameInfo;

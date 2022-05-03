@@ -1,16 +1,16 @@
-package com.lazygalaxy.game.main;
+package main.load.scummvm;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.game.Constant.GameSource;
-import com.lazygalaxy.game.main.helpers.SourceLoad;
+import com.lazygalaxy.game.Constant.GameSystem;
+import main.helpers.GameListEnrichLoad;
 
-public class A1_RunLazyGalaxySourceLoad extends SourceLoad {
+public class A2_RunScummVMGameListLoad extends GameListEnrichLoad {
 
     public static void main(String[] args) throws Exception {
         try {
 
-            gameListEnrichLoad(GameSource.LAZYGALAXY);
-
+            load(GameSource.RICKDANGEROUS_ULTIMATE, false, false, GameSystem.SCUMMVM);
         } finally {
             MongoConnectionHelper.INSTANCE.close();
         }

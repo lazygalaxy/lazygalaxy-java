@@ -1,15 +1,15 @@
-package com.lazygalaxy.game.main;
+package main;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.game.Constant.GameSource;
-import com.lazygalaxy.game.main.helpers.SourceLoad;
+import main.helpers.GameListEnrichLoad;
 
-public class XX_RunWolfanoz2kSourceLoad extends SourceLoad {
+public class XX_RunWolfanoz2kSourceLoad extends GameListEnrichLoad {
 
     public static void main(String[] args) throws Exception {
         try {
 
-            gameListEnrichLoad(GameSource.WOLFANOZ_12K);
+            load(GameSource.WOLFANOZ_12K, false, true);
 
         } finally {
             MongoConnectionHelper.INSTANCE.close();
