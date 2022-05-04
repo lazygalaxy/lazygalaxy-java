@@ -11,7 +11,9 @@ public class A1_RunArcadeLazyGalaxyGameListLoad extends GameListEnrichLoad {
         try {
             load(GameSource.LAZYGALAXY, true, true, Constant.GameSystem.MAME.toArray(new String[Constant.GameSystem.MAME.size()]));
         } finally {
-            MongoConnectionHelper.INSTANCE.close();
+            if (args.length == 0) {
+                MongoConnectionHelper.INSTANCE.close();
+            }
         }
     }
 }

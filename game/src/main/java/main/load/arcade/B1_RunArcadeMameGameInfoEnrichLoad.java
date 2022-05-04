@@ -30,9 +30,10 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
             // enrich the exiting roms with information from the latest mameatabase
             new MameGameInfoLoad().load("source/mame/mame240.xml", "machine", merge);
             LOGGER.info("mame enrich game completed!");
-
         } finally {
-            MongoConnectionHelper.INSTANCE.close();
+            if (args.length == 0) {
+                MongoConnectionHelper.INSTANCE.close();
+            }
         }
     }
 
@@ -74,11 +75,9 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
         protected List<Game> getMongoDocument(Element element, List<String> extraTagValues) throws Exception {
             Boolean isMechanical = XMLUtil.getAttributeAsBoolean(element, "ismechanical");
             String gameId = XMLUtil.getAttributeAsString(element, "name");
-            Integer buttons = XMLUtil.getTagAttributeAsInteger(element, "control", "buttons", 0);
             Set<String> inputs = XMLUtil.getTagAttributeAsStringSet(element, "control", "type");
 
-            if (isMechanical || StringUtils.contains(gameId, "_") || (buttons != null && buttons > 9)
-                    || (inputs != null && Control.isExcluded(inputs))) {
+            if (isMechanical || StringUtils.contains(gameId, "_") || (inputs != null && Control.isExcluded(inputs))) {
                 return null;
             }
 

@@ -11,9 +11,10 @@ public class A2_RunArcadeRickDangerousUltimateGameListLoad extends GameListEnric
         try {
 
             load(GameSource.RICKDANGEROUS_ULTIMATE, true, true, Constant.GameSystem.MAME.toArray(new String[Constant.GameSystem.MAME.size()]));
-
         } finally {
-            MongoConnectionHelper.INSTANCE.close();
+            if (args.length == 0) {
+                MongoConnectionHelper.INSTANCE.close();
+            }
         }
     }
 }

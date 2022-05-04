@@ -1,4 +1,4 @@
-package main.load;
+package main.load.common;
 
 import com.google.common.collect.Lists;
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
@@ -32,7 +32,9 @@ public class C1_RunAllDeriveEnrichLoad {
             // LOGGER.info("family derive enrich completed!");
 
         } finally {
-            MongoConnectionHelper.INSTANCE.close();
+            if (args.length == 0) {
+                MongoConnectionHelper.INSTANCE.close();
+            }
         }
     }
 

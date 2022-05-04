@@ -30,6 +30,7 @@ public class Game extends MongoDocument {
     // coinops
     public GameInfo playerlegends2GameInfo;
     public GameInfo retroarcade2elitesGameInfo;
+    public GameInfo coinopsotherGameInfo;
 
     public String year;
     public Integer players;

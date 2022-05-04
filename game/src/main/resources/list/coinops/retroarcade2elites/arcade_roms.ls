@@ -599,7 +599,6 @@
 -rwxrwxrwx+ 1 admin users        18 Jan  5  2020 mkartag2.zip
 -rwxrwxrwx+ 1 admin users        18 Jan  5  2020 mkartagp.zip
 -rwxrwxrwx+ 1 admin users 769394704 Apr 13  2011 mvsc2.cdi
--rwxrwxrwx+ 1 admin users 810826545 Feb 27  2009 soulclbr.cdi
 -rwxrwxrwx+ 1 admin users        10 Mar 29  2021 spaceace.zip
 -rwxrwxrwx+ 1 admin users 810553229 Mar 16  2012 undefeat.cdi
 -rwxrwxrwx+ 1 admin users 811408100 Jan 26  2013 zerogu2.cdi

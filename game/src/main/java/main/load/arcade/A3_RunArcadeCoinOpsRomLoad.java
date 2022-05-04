@@ -2,6 +2,7 @@ package main.load.arcade;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.helper.MongoHelper;
+import com.lazygalaxy.engine.load.CSVLoad;
 import com.lazygalaxy.engine.load.LinuxListLoad;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.game.Constant.GameSource;
@@ -36,8 +37,16 @@ public class A3_RunArcadeCoinOpsRomLoad {
             new RomSetLoad(GameSystem.ARCADE, GameSource.RETRO_ARCADE_2_ELITES)
                     .load("list/coinops/retroarcade2elites/arcade_roms.ls", 0, merge);
             LOGGER.info("Retro Arcade 2 Elites arcade rom list completed!");
+
+            //Other
+            new OtherLoad(GameSystem.ARCADE, GameSource.COINOPS_OTHER)
+                    .load("list/coinops/other.csv", 0, merge);
+
+            LOGGER.info("Other rom list completed!");
         } finally {
-            MongoConnectionHelper.INSTANCE.close();
+            if (args.length == 0) {
+                MongoConnectionHelper.INSTANCE.close();
+            }
         }
     }
 
@@ -71,14 +80,41 @@ public class A3_RunArcadeCoinOpsRomLoad {
             game = MongoHelper.getHelper(Game.class).getDocumentById(Game.createId(querySystemId, gameId, versionId));
             if (game == null) {
                 game = new Game(querySystemId, gameId, versionId, fileSize);
+                game.addLabel(game.gameId);
             }
 
             Game.class.getField(source + "GameInfo").set(game, new GameInfo(game.gameId, file, null));
-
             GameUtil.pretifyName((GameInfo) Game.class.getField(source + "GameInfo").get(game));
-            game.addLabel(game.gameId);
+
             return Arrays.asList(game);
         }
     }
 
+    private static class OtherLoad extends CSVLoad<Game> {
+        private String systemId;
+        private String source;
+
+        public OtherLoad(String systemId, String source) throws Exception {
+            super(Game.class);
+            this.systemId = systemId;
+            this.source = source;
+        }
+
+        @Override
+        protected List<Game> getMongoDocument(String[] tokens) throws Exception {
+            String gameId = tokens[0].trim().toLowerCase();
+
+            Game game = game = MongoHelper.getHelper(Game.class).getDocumentById(Game.createId(systemId, gameId, null));
+            if (game == null) {
+                game = new Game(systemId, gameId, null, null);
+                game.addLabel(game.gameId);
+            }
+
+            if (game.retroarcade2elitesGameInfo == null && game.playerlegends2GameInfo == null) {
+                Game.class.getField(source + "GameInfo").set(game, new GameInfo(game.gameId, null, null));
+            }
+
+            return Arrays.asList(game);
+        }
+    }
 }

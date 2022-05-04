@@ -1,5 +1,6 @@
 package main.load.arcade;
 
+import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.helper.MongoHelper;
 import com.lazygalaxy.game.Constant;
 import com.lazygalaxy.game.domain.Game;
@@ -11,7 +12,13 @@ public class A0_RunArcadeDelete {
     private static final Logger LOGGER = LogManager.getLogger(A0_RunArcadeDelete.class);
 
     public static void main(String[] args) throws Exception {
-        MongoHelper.getHelper(Game.class).deleteDocumentByFilters(Filters.eq("systemId", Constant.GameSystem.ARCADE));
-        LOGGER.info("deletion complete!");
+        try {
+            MongoHelper.getHelper(Game.class).deleteDocumentByFilters(Filters.eq("systemId", Constant.GameSystem.ARCADE));
+            LOGGER.info("deletion complete!");
+        } finally {
+            if (args.length == 0) {
+                MongoConnectionHelper.INSTANCE.close();
+            }
+        }
     }
 }
