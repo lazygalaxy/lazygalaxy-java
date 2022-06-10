@@ -1,0 +1,673 @@
+System	Name	Year	Players	Input	Buttons	Vertical	Manufacturers	Player Legends 2	Retro Arcade 2 Elites
+arcade	null	null	unknown	unknown	unknown	No	null	No	Yes
+arcade	null	null	unknown	unknown	unknown	No	null	No	Yes
+arcade	10-Yard Fight	1983	2	joy8way	2	No	Irem	No	Yes
+arcade	1941: Counter Attack	1990	2	joy8way	2	Yes	Capcom	Yes	Yes
+arcade	1942	1984	2	joy8way	2	Yes	Capcom	Yes	Yes
+arcade	1943: The Battle of Midway	1987	2	joy8way	2	Yes	Capcom	Yes	Yes
+arcade	1944: The Loop Master	2000	2	joy8way	2	No	Eighting / Raizing	Yes	Yes
+arcade	19XX: The War Against Destiny	1996	2	joy8way	2	Yes	Capcom	Yes	Yes
+arcade	2 On 2 Open Ice Challenge	1995	4	joy8way	3	No	Midway	No	Yes
+arcade	2020 Super Baseball	1991	2	joy8way	4	No	SNK / Pallas	No	Yes
+arcade	720 Degrees	1986	1	stick / dial	2	No	Atari Games	No	Yes
+arcade	APB: All Points Bulletin	1987	1	pedal / dial	2	Yes	Atari Games / Atari	Yes	Yes
+arcade	Act-Fancer Cybernetick Hyper Weapon	1989	2	joy8way	2	No	Data East	Yes	Yes
+arcade	Aero Fighters 2	1994	2	joy8way	4	No	Video System Co. / Video System	No	Yes
+arcade	Aero Fighters 3	1995	2	joy8way	4	No	Video System Co. / Video System	No	Yes
+arcade	After Burner 2	1987	1	stick	2	No	SEGA	Yes	Yes
+arcade	After Burner Climax	2006	unknown	unknown	unknown	No	SEGA	No	Yes
+arcade	Aggressors of Dark Kombat	1994	2	joy8way	4	No	ADK / SNK	No	Yes
+arcade	Ajax	1987	2	joy8way	3	Yes	Konami	No	Yes
+arcade	Akai Katana	2010	2	unknown	unknown	No	Cave / Rising Star Games	Yes	Yes
+arcade	Alien Storm (World, 2 Players)	1990	2	joy8way	3	No	SEGA	Yes	Yes
+arcade	Alien Syndrome	1987	2	joy8way	3	No	SEGA	Yes	Yes
+arcade	Alien vs. Predator	1994	3	joy8way	3	No	Capcom	Yes	Yes
+arcade	Aliens	1990	2	joy8way	2	No	Konami	Yes	Yes
+arcade	Alpha Mission 2	1991	2	joy8way	4	No	SNK	No	Yes
+arcade	Alpine Ski	1982	2	joy2way	1	Yes	Taito / Pacific Kougyou	Yes	Yes
+arcade	Altered Beast (set 8)	1988	2	joy8way	3	No	SEGA	Yes	Yes
+arcade	Amidar	1982	2	joy4way	1	Yes	Konami	Yes	Yes
+arcade	Arkanoid: Revenge of DOH	1987	2	dial	1	Yes	Taito	Yes	Yes
+arcade	Armed Police Batrider (Europe)	1998	2	joy8way	3	Yes	Raizing / Eighting	Yes	Yes
+arcade	Armored Warriors	1994	3	joy8way	3	No	Capcom	Yes	Yes
+arcade	Art of Fighting	1992	2	joy8way	4	No	SNK	Yes	Yes
+arcade	Assault	1988	2	doublejoy4way	1	Yes	Namco	No	Yes
+arcade	Asterix	1992	2	joy8way	2	No	Konami	Yes	Yes
+arcade	Asteroids	1979	1	only_buttons	5	No	Atari	Yes	Yes
+arcade	Asteroids Deluxe	1980	1	only_buttons	5	No	Atari / Dave Shepperd	Yes	Yes
+arcade	Astyanax, The	1989	2	joy8way	3	No	Jaleco	No	Yes
+arcade	Asura Blade: Sword of Dynasty	1998	2	joy8way	3	No	Fuuki	No	Yes
+arcade	Asura Buster: Eternal Warriors	2001	2	joy8way	3	No	Fuuki	No	Yes
+arcade	Athena	1986	2	joy8way	2	No	SNK	Yes	Yes
+arcade	Avengers	1987	2	joy8way	2	Yes	Capcom	Yes	Yes
+arcade	B.C. Kid	1994	2	joy8way	4	No	Kaneko / Red Company	No	Yes
+arcade	B.Rap Boys	1992	3	joy8way	2	No	Kaneko	Yes	Yes
+arcade	Bad Dudes vs. Dragonninja	1988	2	joy8way	2	No	Data East	Yes	Yes
+arcade	Bagman	1982	2	joy4way	1	Yes	Valadon Automation	No	Yes
+arcade	Bank Panic	1984	2	joy2way	3	No	Sanritsu / SEGA	Yes	Yes
+arcade	Baseball Stars 2	1992	2	joy8way	4	No	SNK	No	Yes
+arcade	Batsugun: Special Version	1993	2	joy8way	3	Yes	Toaplan	Yes	Yes
+arcade	Battle Bakraid: Unlimited Version (USA)	1999	2	joy8way	3	Yes	Eighting	Yes	Yes
+arcade	Battle Chopper	1987	2	joy8way	4	No	Irem	Yes	Yes
+arcade	Battle Circuit	1997	4	joy8way	2	No	Capcom	Yes	Yes
+arcade	Battle Garegga (Europe	1996	2	joy8way	3	Yes	Raizing / Eighting	Yes	Yes
+arcade	Battle Rangers	1988	2	joy8way	3	No	Data East	No	Yes
+arcade	Battle Zone	1980	1	doublejoyvertical2way	1	No	Atari	Yes	Yes
+arcade	Battletoads	1994	3	joy8way	2	No	Rare / Electronic Arts	No	Yes
+arcade	Bay Route (set 3, World)	1989	2	joy8way	3	No	Sunsoft / SEGA	No	Yes
+arcade	Berzerk	1980	2	joy8way	1	No	Stern Electronics / Stern Electronics, Inc.	Yes	Yes
+arcade	Bio Attack	1983	2	joy8way	1	Yes	Taito / Fox Video Games license	No	Yes
+arcade	Bionic Commando	1987	2	joy8way	2	No	Capcom	Yes	Yes
+arcade	Black Tiger	1987	2	joy8way	2	No	Capcom	Yes	Yes
+arcade	Black Widow	1982	1	doublejoy8way	0	No	Atari	Yes	Yes
+arcade	Blade Master	1991	2	joy8way	2	No	Irem	No	Yes
+arcade	Blazing Star	1998	2	joy8way	4	No	Yumekobo / SNK	Yes	Yes
+arcade	Blood Bros.	1990	2	joy8way	3	No	TAD Corporation / Tad Corporation	Yes	Yes
+arcade	Blue's Journey	1990	2	joy8way	4	No	Alpha Denshi Co. / ADK	No	Yes
+arcade	Bomb Jack	1984	2	joy8way	1	Yes	Tehkan / Tehkan Ltd.	Yes	Yes
+arcade	Bonze Adventure	1988	2	joy8way	2	No	Taito	No	Yes
+arcade	Boogie Wings	1992	2	joy8way	3	No	Data East	Yes	Yes
+arcade	Bosconian: Star Destroyer	1981	2	joy8way	1	No	Namco	Yes	Yes
+arcade	Break Thru	1986	2	joy8way	2	No	Data East	Yes	Yes
+arcade	Breakers Revenge	1998	2	joy8way	4	No	Visco / SNK	No	Yes
+arcade	Bubble Bobble	1986	2	joy2way	2	No	Taito / Romstar license	Yes	Yes
+arcade	Bubble Bobble 2	1994	4	joy8way / dial	4	No	Taito	Yes	Yes
+arcade	Bubble Bobble: Lost Cave	2013	2	joy2way	2	No	hack / Bisboch and Aladar	No	Yes
+arcade	Bubble Memories: The Story Of Bubble Bobble 3	1995	4	joy8way / dial	4	No	Taito	Yes	Yes
+arcade	Bubbles	1982	1	joy8way	0	No	Williams	Yes	Yes
+arcade	Buck Rogers: Planet of Zoom	1982	1	joy8way	3	No	SEGA	Yes	Yes
+arcade	Bucky O'Hare	1992	4	joy8way	3	No	Konami / Tatsumi	No	Yes
+arcade	Bump 'n' Jump	1982	2	joy8way	1	Yes	Data East	Yes	Yes
+arcade	Burger Time	1982	2	joy4way	1	Yes	Data East	Yes	Yes
+arcade	Cabal	1988	2	joy8way	3	No	TAD Corporation / Tad Corporation	Yes	Yes
+arcade	Cadash	1989	2	joy8way	2	No	Taito	Yes	Yes
+arcade	Cadillacs & Dinosaurs	1993	3	joy8way	2	No	Capcom	Yes	Yes
+arcade	Caliber 50	1989	2	joy8way / dial	2	Yes	Athena / Seta	Yes	Yes
+arcade	Capcom Sports Club	1997	2	joy8way	3	No	Capcom	No	Yes
+arcade	Captain America & The Avengers	1991	4	joy8way	2	No	Data East	Yes	Yes
+arcade	Captain Commando	1991	4	joy8way	2	No	Capcom	Yes	Yes
+arcade	Captain Silver	1987	2	joy8way	2	No	Data East	No	Yes
+arcade	Captain Tomaday	1999	2	joy8way	4	No	Visco	No	Yes
+arcade	Carrier Air Wing	1990	2	joy8way	3	No	Capcom	Yes	Yes
+arcade	Caveman Ninja	1991	2	joy8way	2	No	Data East	Yes	Yes
+arcade	Centipede	1980	1	joy8way / trackball	1	Yes	Atari	Yes	Yes
+arcade	Championship Sprint	1986	2	pedal / dial	0	No	Atari Games	Yes	Yes
+arcade	Chase H.Q.	1988	1	pedal / paddle / dial	4	No	Taito	Yes	Yes
+arcade	Chelnov: Atomic Runner	1988	2	joy8way	3	No	Data East	Yes	Yes
+arcade	Choplifter	1985	2	joy8way	2	No	bootleg	Yes	Yes
+arcade	Choutetsu Brikin'ger	1996	2	joy8way	4	No	Saurus / SNK	No	Yes
+arcade	Circus Charlie	1984	2	joy2way	1	Yes	Konami	Yes	Yes
+arcade	City Connection	1985	2	joy8way	2	No	Jaleco	Yes	Yes
+arcade	Cobra-Command	1988	2	joy8way	2	No	Data East / SEGA	No	Yes
+arcade	Commando	1985	2	joy8way	2	Yes	Capcom / Data East	Yes	Yes
+arcade	Congo Bongo	1983	2	joy8way	1	Yes	SEGA	Yes	Yes
+arcade	Contra	1987	2	joy8way	2	Yes	Konami	Yes	Yes
+arcade	Cop 01	1985	2	joy8way	2	No	Nichibutsu	No	Yes
+arcade	Cosmic Alien	1979	2	joy2way	1	Yes	Universal	No	Yes
+arcade	Cosmo Police Galivan	1985	2	joy8way	3	Yes	Nichibutsu	No	Yes
+arcade	Cotton 2	1997	4	joy8way	4	No	Success	Yes	Yes
+arcade	Crack Down	1989	2	joy8way	3	No	SEGA	No	Yes
+arcade	Crazy Climber	1980	2	doublejoy8way	0	No	Nichibutsu	Yes	Yes
+arcade	Crazy Taxi	1999	1	pedal / paddle	2	No	SEGA	No	Yes
+arcade	Crossed Swords	1991	2	joy8way	4	No	Alpha Denshi Co.	No	Yes
+arcade	Cruis'n USA	1994	1	pedal / paddle	8	No	Midway	No	Yes
+arcade	Crystal Castles	1983	2	trackball	3	No	Atari	Yes	Yes
+arcade	Cyber-Lip	1990	2	joy8way	4	No	SNK	Yes	Yes
+arcade	Cyberbots: Fullmetal Madness	1995	2	joy8way	4	No	Capcom	No	Yes
+arcade	Cyvern: The Dragon Weapons	1998	2	joy8way	2	Yes	Kaneko	Yes	Yes
+arcade	DJ Boy	1989	2	joy8way	3	No	Kaneko	Yes	Yes
+arcade	Daioh	1993	2	joy8way	6	Yes	Athena	No	Yes
+arcade	Darius II (dual screen)	1989	2	joy8way	2	No	Taito	No	Yes
+arcade	Dark Seal	1990	2	joy8way	2	No	Data East	Yes	Yes
+arcade	Darkstalkers: The Night Warriors	1994	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Daytona USA	1994	1	pedal / paddle	9	No	SEGA	No	Yes
+arcade	Daytona USA 2 Power Edition	1998	1	pedal / paddle	8	No	SEGA	No	Yes
+arcade	Dead Angle	1988	2	joy8way	2	No	Seibu Kaihatsu	Yes	Yes
+arcade	Dead Connection	1992	4	joy8way	2	No	Taito	No	Yes
+arcade	Deathsmiles MegaBlack Label	2008	2	joy8way	4	No	Cave / AMI license	Yes	Yes
+arcade	Defender	1980	1	joyvertical2way	5	No	Williams	Yes	Yes
+arcade	Demon Front	2002	4	joy8way	4	No	IGS	Yes	Yes
+arcade	Desert Assault	1991	4	joy8way	2	No	Data East	No	Yes
+arcade	Desert Breaker (World)	1992	3	joy8way	3	Yes	SEGA	Yes	Yes
+arcade	Devastators	1988	2	joy8way	2	Yes	Konami	Yes	Yes
+arcade	Devil World	1987	2	joy8way	3	No	Konami	No	Yes
+arcade	Dig Dug	1982	2	joy4way	1	Yes	Namco	Yes	Yes
+arcade	Dimahoo	2000	2	joy8way	3	Yes	Eighting / Raizing	Yes	Yes
+arcade	DoDonPachi	1997	2	joy8way	3	Yes	Cave / Atlus license	Yes	Yes
+arcade	DoDonPachi 2: Bee Storm	2001	4	joy8way	4	Yes	IGS	No	Yes
+arcade	DoDonPachi Dai-Fukkatsu Ver 1.5	2008	2	joy8way	4	Yes	Cave / AMI license	Yes	Yes
+arcade	DoDonPachi Dai-Ou-Jou	2002	2	joy8way	3	Yes	Cave / AMI license	Yes	Yes
+arcade	Dolphin Blue	2003	2	joy8way	6	No	Sammy	No	Yes
+arcade	DonPachi	1995	2	joy8way	3	Yes	Cave / Atlus license	No	Yes
+arcade	Donkey Kong	1981	2	joy4way	1	Yes	Nintendo	Yes	Yes
+arcade	Donkey Kong 2: Jumpman Returns	2006	2	joy4way	1	Yes	hack / Braze Technologies	No	Yes
+arcade	Donkey Kong 2: Jumpman Returns	2006	2	joy4way	1	Yes	hack / Braze Technologies	No	Yes
+arcade	Donkey Kong 3	1983	2	joy4way	1	Yes	Nintendo	Yes	Yes
+arcade	Donkey Kong Junior	1982	2	joy4way	1	Yes	Nintendo	Yes	Yes
+arcade	Double Dragon	1987	2	joy8way	3	No	Technos Japan / Technos Japan Corp.	Yes	Yes
+arcade	Double Dragon 2: The Revenge	1988	2	joy8way	3	No	Technos Japan / Technos Japan Corp.	Yes	Yes
+arcade	Dragon Blaze	2000	2	joy8way	3	Yes	Psikyo	Yes	Yes
+arcade	Dragon Breed	1989	2	joy8way	4	No	Irem	Yes	Yes
+arcade	Dragon's Lair	1983	1	joy8way	1	No	Cinematronics	No	Yes
+arcade	Dungeons & Dragons: Shadow over Mystara	1996	4	joy8way	4	No	Capcom	Yes	Yes
+arcade	Dungeons & Dragons: Tower of Doom	1993	4	joy8way	4	No	Capcom	Yes	Yes
+arcade	Dyna Gear	1993	2	joy8way	3	No	Sammy	No	Yes
+arcade	Dynamite Duke	1989	2	joy8way	3	No	Seibu Kaihatsu	Yes	Yes
+arcade	Dynasty Wars	1989	2	joy8way	3	No	Capcom	Yes	Yes
+arcade	E-Swat: Cyber Police (set 4, World)	1989	2	joy8way	3	No	SEGA	Yes	Yes
+arcade	ESP Ra.De.	1998	2	joy8way	3	Yes	Cave / Atlus license	Yes	Yes
+arcade	Eco Fighters	1993	2	joy8way / dial	3	No	Capcom	Yes	Yes
+arcade	Elevator Action	1983	2	joy8way	2	No	Taito	Yes	Yes
+arcade	Elevator Action Returns	1994	4	joy8way / dial	4	No	Taito	Yes	Yes
+arcade	Empire City: 1931	1986	2	joy8way	2	No	Seibu Kaihatsu	Yes	Yes
+arcade	Empire Strikes Back, The	1985	1	stick	4	No	Atari Games	Yes	Yes
+arcade	Enduro Racer	1986	1	pedal / stick	0	No	SEGA	Yes	Yes
+arcade	Escape Kids	1991	4	joy8way	2	No	Konami	No	Yes
+arcade	Espgaluda	2003	2	joy8way	4	Yes	Cave / AMI license	Yes	Yes
+arcade	Espgaluda 2	2005	2	joy8way	4	Yes	Cave / AMI license	Yes	Yes
+arcade	Exciting Hour	1985	2	joy8way	2	Yes	Technos Japan / Taito	Yes	Yes
+arcade	Exed Exes	1985	2	joy8way	2	Yes	Capcom	Yes	Yes
+arcade	Exerion	1983	2	joy8way	2	Yes	Jaleco	Yes	Yes
+arcade	Express Raider	1986	2	joy8way	2	No	Data East	Yes	Yes
+arcade	Fantastic Journey	1994	4	joy8way	3	No	Konami	No	Yes
+arcade	Fantasy Zone	1986	2	joy8way	3	No	SEGA	No	Yes
+arcade	Far East of Eden: Kabuki Klash	1995	2	joy8way	4	No	Hudson / Red Company	No	Yes
+arcade	Fatal Fury 2	1992	2	joy8way	4	No	SNK	No	Yes
+arcade	Fatal Fury Special	1993	2	joy8way	4	No	SNK	No	Yes
+arcade	Final Fight	1989	2	joy8way	3	No	Capcom	Yes	Yes
+arcade	Final Round, The	1988	2	joy8way	3	No	Konami	No	Yes
+arcade	Flicky	1984	2	joy2way	1	No	SEGA	Yes	Yes
+arcade	Flying Shark	1987	2	joy8way	2	Yes	Toaplan / Taito	Yes	Yes
+arcade	Food Fight	1982	2	stick	1	No	General Computer Corporation / Atari license	No	Yes
+arcade	Forgotten Worlds	1988	2	joy8way / dial	1	No	Capcom	Yes	Yes
+arcade	Frogger	1981	2	joy4way	0	Yes	Konami	Yes	Yes
+arcade	Front Line	1982	2	doublejoy8way	2	Yes	Taito	Yes	Yes
+arcade	G.I. Joe	1992	4	joy8way	3	No	Konami	Yes	Yes
+arcade	Galaga	1981	2	joy2way	1	Yes	Namco / Midway	Yes	Yes
+arcade	Galaga '88	1987	2	joy8way	3	Yes	Namco	Yes	Yes
+arcade	Galaxian	1979	2	joy2way	1	Yes	Namco	Yes	Yes
+arcade	Galaxy Force 2	1988	1	stick	2	No	SEGA	Yes	Yes
+arcade	Gang Busters	1988	2	joy8way	2	Yes	Konami	Yes	Yes
+arcade	Gaplus	1984	2	joy8way	1	Yes	Namco	Yes	Yes
+arcade	Garou: Mark of the Wolves	1999	2	joy8way	4	No	SNK	Yes	Yes
+arcade	Gauntlet 2	1986	4	joy8way	2	No	Atari Games	Yes	Yes
+arcade	Ghost Pilots	1991	2	joy8way	4	No	SNK	No	Yes
+arcade	Ghosts'n Goblins	1985	2	joy8way	2	No	Capcom	Yes	Yes
+arcade	Ghouls'n Ghosts	1988	2	joy4way	2	No	Capcom	Yes	Yes
+arcade	Giga Wing	1999	2	joy8way	2	No	Takumi / Capcom	Yes	Yes
+arcade	Gladiator	1986	2	joy8way	3	No	Allumer / Taito	Yes	Yes
+arcade	Gladiator, The	2003	4	joy8way	4	No	IGS	Yes	Yes
+arcade	Golden Axe (set 6, US)	1989	2	joy8way	3	No	SEGA	Yes	Yes
+arcade	Golden Axe: The Revenge of Death Adder	1992	4	joy8way	3	No	SEGA	Yes	Yes
+arcade	Golden Tee '99	1999	2	trackball	2	No	Incredible Technologies	No	Yes
+arcade	Golden Tee Fore! 2006 Complete	2005	1	lightgun / trackball	4	No	Incredible Technologies	Yes	Yes
+arcade	Gorf	1981	2	joy8way	1	Yes	Dave Nutting Associates / Midway	Yes	No
+arcade	Gradius	1985	2	joy8way	3	No	Konami	No	Yes
+arcade	Gradius 2: GOFER no Yabou	1988	2	joy8way	3	No	Konami	Yes	Yes
+arcade	Great 1000 Miles Rally: U.S.A Version!	1994	2	joy8way / paddle / dial	2	No	Kaneko	No	Yes
+arcade	Green Beret	1985	2	joy8way	2	No	Konami	Yes	Yes
+arcade	Guerrilla War	1987	2	positional / joy8way	2	Yes	bootleg / SNK	Yes	Yes
+arcade	Gun Force 2	1994	2	joy8way	2	No	Irem	No	Yes
+arcade	Gun.Smoke	1985	2	joy8way	3	Yes	Capcom	Yes	Yes
+arcade	Gunbird	1994	2	joy8way	3	Yes	Psikyo	No	Yes
+arcade	Gunbird 2	1998	2	joy8way	3	Yes	Psikyo	No	Yes
+arcade	Gundhara	1995	2	joy8way	3	Yes	Banpresto	No	Yes
+arcade	Gunforce: Battle Fire Engulfed Terror Island	1991	2	joy8way	2	No	Irem	Yes	Yes
+arcade	Gunlock	1993	4	joy8way / dial	4	Yes	Taito	No	Yes
+arcade	Guwange	1999	2	joy8way	3	Yes	Cave / Atlus license	Yes	Yes
+arcade	Gyruss	1983	2	joy2way	1	Yes	Konami	Yes	Yes
+arcade	Hammerin' Harry	1990	2	joy8way	4	No	Irem	Yes	Yes
+arcade	Hang-On	1985	1	pedal / paddle	0	No	SEGA	Yes	No
+arcade	Haunted Castle	1988	2	joy4way	2	No	Konami	No	Yes
+arcade	Heavy Barrel	1987	2	positional / joy8way	2	Yes	Data East	Yes	Yes
+arcade	Hippodrome	1989	2	joy8way	2	No	Data East	Yes	Yes
+arcade	Hot Chase	1988	1	pedal / paddle	2	No	Konami	No	Yes
+arcade	Hyper Sports	1984	4	only_buttons	3	No	Konami / Centuri license	Yes	Yes
+arcade	Hyper Street Fighter 2: The Anniversary Edition	2004	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	I, Robot	1983	1	stick	2	No	Atari	No	Yes
+arcade	Ibara Kuro Black Label	2006	2	joy8way	4	Yes	Cave / AMI license	Yes	Yes
+arcade	Ikari 3: The Rescue	1989	2	positional / joy8way	3	No	SNK	Yes	Yes
+arcade	Ikari Warriors	1986	2	positional / joy8way	2	Yes	SNK	Yes	Yes
+arcade	In The Hunt	1993	2	joy8way	2	No	Irem	Yes	Yes
+arcade	Indiana Jones & the Temple of Doom	1985	1	joy8way	1	No	Atari Games / Atari	Yes	Yes
+arcade	Iron Horse	1986	2	joy4way	3	No	Konami	Yes	Yes
+arcade	Ironman Ivan Stewart's Super Off-Road Track-Pak	1989	3	pedal / dial	1	No	Leland Corporation	Yes	Yes
+arcade	Jackal	1986	2	joy8way	2	Yes	Konami	Yes	Yes
+arcade	Jail Break	1986	2	joy8way	2	No	Konami	Yes	Yes
+arcade	JoJo no Kimyou na Bouken: Mirai e no Isan	1999	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Joe & Mac Returns	1994	2	joy8way	3	No	Data East	No	Yes
+arcade	Joust	1982	2	joy2way	1	No	Williams	Yes	Yes
+arcade	Joust 2: Survival of the Fittest	1986	2	joy2way	2	Yes	Williams	No	Yes
+arcade	Jungle King	1982	2	joy8way	1	No	Taito	Yes	Yes
+arcade	Juno First	1983	2	joy8way	3	Yes	Konami	Yes	Yes
+arcade	Kageki	1988	2	joy8way	2	Yes	Kaneko / Taito	Yes	Yes
+arcade	Kangaroo	1982	2	joy8way	1	Yes	Sun Electronics / Sunsoft	Yes	Yes
+arcade	Karate Champ	1984	2	doublejoy4way	0	Yes	Data East	Yes	Yes
+arcade	Karnov	1987	2	joy8way	3	No	Data East	Yes	Yes
+arcade	Ketsui: Kizuna Jigoku Tachi	2002	2	joy8way	3	Yes	Cave / AMI license	Yes	Yes
+arcade	Kick & Run	1986	4	joy8way	2	No	Taito	Yes	Yes
+arcade	Kicker	1985	2	joy4way	2	Yes	Konami	Yes	Yes
+arcade	Killer Instinct	1994	2	joy8way	6	No	Rare / Midway license	Yes	Yes
+arcade	Killer Instinct 2	1996	2	joy8way	6	No	Rare / Midway license	Yes	Yes
+arcade	King of Dragons, The	1991	3	joy8way	2	No	Capcom	Yes	Yes
+arcade	King of Fighters '95, The	1995	2	joy8way	4	No	SNK	No	Yes
+arcade	King of Fighters '98, The: The Slugfest	1998	2	joy8way	4	No	SNK	Yes	Yes
+arcade	King of Fighters '99, The: Millennium Battle	1999	2	joy8way	4	No	SNK	No	Yes
+arcade	King of Fighters 2000, The	2000	2	joy8way	4	No	SNK	No	Yes
+arcade	King of Fighters 2001, The	2001	2	joy8way	4	No	Eolith / SNK	No	Yes
+arcade	King of Fighters 2002, The	2002	2	joy8way	4	No	Eolith / Playmore	Yes	Yes
+arcade	King of Fighters 2003, The	2003	2	joy8way	4	No	SNK Playmore / SNK	No	Yes
+arcade	King of the Monsters 2: The Next Thing	1992	2	joy8way	4	No	SNK	No	Yes
+arcade	Kingdom Grandprix	1994	2	joy8way	3	Yes	Raizing / Eighting	No	Yes
+arcade	Kizuna Encounter: Super Tag Battle	1996	2	joy8way	4	No	SNK	No	Yes
+arcade	Klax	1989	2	joy4way	1	No	Atari Games / Atari	No	Yes
+arcade	Knights of Valour	1999	4	joy8way	4	No	IGS	Yes	Yes
+arcade	Knights of Valour 2	2000	4	joy8way	4	No	IGS	Yes	Yes
+arcade	Knights of the Round	1991	3	joy8way	2	No	Capcom	Yes	Yes
+arcade	Knuckle Joe	1985	2	joy8way	2	No	Seibu Kaihatsu / Taito	Yes	Yes
+arcade	Kung-Fu Master	1984	2	joy8way	2	No	Irem	Yes	Yes
+arcade	Kuri Kinton	1988	2	joy8way	2	No	Taito	Yes	Yes
+arcade	Lady Bug	1981	2	joy4way	0	Yes	Universal	Yes	Yes
+arcade	Last Blade 2, The	1998	2	joy8way	4	No	SNK	Yes	Yes
+arcade	Last Blade, The	1997	2	joy8way	4	No	SNK	No	Yes
+arcade	Last Duel	1988	2	joy8way	2	Yes	Capcom	Yes	Yes
+arcade	Legend of Hero Tonma	1989	2	joy8way	4	No	Irem	Yes	Yes
+arcade	Legend of Kage, The	1984	2	joy8way	2	No	Taito	Yes	Yes
+arcade	Legendary Wings	1986	2	joy8way	2	Yes	Capcom	Yes	Yes
+arcade	Lethal Enforcers	1992	2	lightgun	1	No	Konami	No	Yes
+arcade	Lightning Fighters	1990	2	joy8way	3	Yes	Konami	No	Yes
+arcade	Lode Runner: The Dig Fight	2000	4	joy8way	3	No	Psikyo	Yes	Yes
+arcade	Lunar Lander	1979	1	pedal	3	No	Atari	Yes	No
+arcade	Lunar Rescue	1979	2	joy2way	1	Yes	Taito	Yes	Yes
+arcade	M.I.A.: Missing in Action	1989	2	joy8way	3	No	Konami	Yes	Yes
+arcade	Mad Gear	1989	2	joy8way	3	Yes	Capcom	Yes	Yes
+arcade	Mag Max	1985	2	joy8way	1	No	Nichibutsu	Yes	Yes
+arcade	Magic Sword: Heroic Fantasy	1990	2	joy8way	3	No	Capcom	Yes	Yes
+arcade	Magician Lord	1990	2	joy8way	4	No	Alpha Denshi Co. / ADK	No	Yes
+arcade	Major Havoc	1983	2	only_buttons / dial	2	No	Atari	Yes	Yes
+arcade	Major Title 2	1992	4	joy8way	2	No	Irem	No	Yes
+arcade	Mappy	1983	2	joy2way	1	Yes	Namco	Yes	Yes
+arcade	Marble Madness	1984	2	trackball	0	No	Atari Games / Atari	Yes	Yes
+arcade	Mario Bros.	1983	2	joy2way	1	No	Nintendo	Yes	Yes
+arcade	Mario Kart Arcade GP	2005	unknown	unknown	unknown	No	Namco / Nintendo	No	Yes
+arcade	Mario Kart Arcade GP 2	2007	unknown	unknown	unknown	No	Namco / Nintendo	No	Yes
+arcade	Mars Matrix: Hyper Solid Shooting	2000	2	joy8way	1	No	Takumi / Capcom	Yes	Yes
+arcade	Martial Masters	2001	4	joy8way	4	No	IGS	No	Yes
+arcade	Marvel Super Heroes	1995	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Marvel Super Heroes Vs. Street Fighter	1997	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Marvel Vs. Capcom 2: New Age of Heroes	2000	2	joy8way	6	No	Capcom / Marvel	No	Yes
+arcade	Marvel Vs. Capcom: Clash of Super Heroes	1998	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Matrimelee	2002	2	joy8way	4	No	Noise Factory / Atlus	No	Yes
+arcade	Mazinger Z	1994	2	joy8way	3	Yes	Banpresto / Dynamic Pl. Toei Animation	No	Yes
+arcade	Mechanized Attack	1989	2	lightgun	2	No	SNK	Yes	No
+arcade	Mega Man 2: The Power Fighters	1996	2	joy8way	3	No	Capcom	No	Yes
+arcade	Mega Twins	1990	2	joy8way	3	No	Capcom	No	Yes
+arcade	Mercs	1990	3	joy8way	2	Yes	Capcom	Yes	Yes
+arcade	Metal Slug 2 Turbo (NGM-9410)	2015	2	joy8way	4	No	hack / trap15	No	Yes
+arcade	Metal Slug 3	2000	2	joy8way	4	No	SNK	Yes	Yes
+arcade	Metal Slug 4	2002	2	joy8way	4	No	Mega / Noise Factory	Yes	Yes
+arcade	Metal Slug 5	2003	2	joy8way	4	No	SNK Playmore / SNK	Yes	Yes
+arcade	Metal Slug X: Super Vehicle-001	1999	2	joy8way	4	No	SNK	Yes	Yes
+arcade	Metal Slug: Super Vehicle-001	1996	2	joy8way	4	No	Nazca / Nazca Corporation	Yes	Yes
+arcade	Metro-Cross	1985	2	joy8way	1	No	Namco	Yes	No
+arcade	Michael Jackson's Moonwalker (World)	1990	3	joy8way	3	No	SEGA	Yes	Yes
+arcade	Midnight Resistance	1989	2	positional / joy8way	2	No	Data East	Yes	Yes
+arcade	Mighty! Pang	2000	2	joy8way	1	No	Mitchell / Capcom	No	Yes
+arcade	Mikie	1984	2	joy4way	2	Yes	Konami	Yes	Yes
+arcade	Mille Miglia 2: Great 1000 Miles Rally	1995	2	joy8way / paddle / dial	8	No	Kaneko	No	Yes
+arcade	Millipede	1982	2	joy8way / trackball	1	Yes	Atari	Yes	Yes
+arcade	Missile Command	1980	2	trackball	3	No	Atari	Yes	Yes
+arcade	Moon Cresta	1980	2	joy2way	1	Yes	Nichibutsu	Yes	Yes
+arcade	Moon Patrol	1982	2	joy2way	2	No	Irem	Yes	Yes
+arcade	Mortal Kombat	1992	2	joy8way	6	No	Midway	Yes	Yes
+arcade	Mortal Kombat 2	1993	2	joy8way	6	No	Midway	Yes	Yes
+arcade	Mr. Do!	1982	2	joy4way	1	Yes	Universal	Yes	Yes
+arcade	Mr. Do's Castle	1983	2	joy4way	2	Yes	Universal	No	Yes
+arcade	Ms. Pac-Man	1981	2	joy4way	0	Yes	Midway / General Computer Corporation	Yes	Yes
+arcade	Muchi Muchi Pork!	2007	2	joy8way	4	Yes	Cave / AMI license	No	Yes
+arcade	Mushihime-Sama	2004	2	joy8way	4	Yes	Cave / AMI license	No	Yes
+arcade	Mushihime-Sama Futari Ver 1.0	2006	2	joy8way	4	Yes	Cave / AMI license	Yes	Yes
+arcade	My Hero	1985	2	joy8way	2	No	Coreland / SEGA	Yes	Yes
+arcade	Mystic Warriors	1993	4	joy8way	3	No	Konami	Yes	Yes
+arcade	NBA Hangtime	1996	4	joy8way	3	No	Midway	No	Yes
+arcade	NBA Jam TE	1994	4	joy8way	3	No	Midway	Yes	Yes
+arcade	NBA Maximum Hangtime	1996	4	joy8way	3	No	Midway	No	Yes
+arcade	NFL Blitz	1997	2	joy8way / stick	3	No	Midway Games	Yes	Yes
+arcade	Narc	1988	2	joy8way	4	No	Williams	Yes	Yes
+arcade	Naughty Boy	1982	2	joy4way	1	Yes	Jaleco	Yes	Yes
+arcade	Nebulas Ray	1994	4	joy8way	3	Yes	Namco	No	Yes
+arcade	Nemo	1990	2	joy8way	3	No	Capcom	No	Yes
+arcade	Neo Drift Out: New Technology	1996	2	joy8way	4	No	Visco / SNK	Yes	No
+arcade	Neo Turf Masters	1996	2	joy8way	4	No	Nazca / Nazca Corporation	No	Yes
+arcade	New Zero Team	1997	2	joy8way	3	No	Seibu Kaihatsu	No	Yes
+arcade	NewZealand Story (World, new version), The	1988	2	joy8way	2	No	Taito	Yes	Yes
+arcade	Night Slashers	1994	3	joy8way	3	No	Data East	Yes	Yes
+arcade	Night Warriors: Darkstalkers' Revenge	1995	2	joy8way	6	No	Capcom	No	Yes
+arcade	Nightmare in the Dark	2000	2	joy8way	4	No	Eleven / Gavaking	No	Yes
+arcade	Ninja Baseball Bat Man	1993	4	joy8way	2	No	Irem	No	Yes
+arcade	Ninja Combat	1990	2	joy8way	4	No	Alpha Denshi Co. / SNK	No	Yes
+arcade	Ninja Commando	1992	2	joy8way	4	No	Alpha Denshi Co. / ADK	No	Yes
+arcade	Ninja Gaiden	1988	2	joy8way	3	No	Tecmo	Yes	Yes
+arcade	Ninja Kazan	1988	2	joy8way	2	No	Jaleco	No	Yes
+arcade	Ninja Spirit	1988	2	joy8way	4	No	Irem	Yes	Yes
+arcade	Ninja Warriors, The	1987	2	joy8way	2	No	Taito	No	Yes
+arcade	Ninja-Kid 2	1987	2	joy8way	2	No	UPL	No	Yes
+arcade	Operation Thunderbolt	1988	2	stick	2	No	Taito	Yes	Yes
+arcade	Operation Wolf	1987	1	lightgun	2	No	Taito	Yes	Yes
+arcade	Osman	1996	2	joy8way	3	No	Mitchell	No	Yes
+arcade	Out Run	1986	1	pedal / paddle	1	No	SEGA	Yes	Yes
+arcade	Out Zone	1990	2	joy8way	3	Yes	Toaplan	Yes	Yes
+arcade	OutRunners	1992	2	pedal / paddle	5	No	SEGA	Yes	Yes
+arcade	Outfoxies, The	1994	4	joy8way	3	No	Namco	No	Yes
+arcade	P-47 Aces	1995	2	joy8way	5	No	Jaleco	No	Yes
+arcade	P.O.W.: Prisoners of War	1988	2	joy8way	3	No	SNK	Yes	Yes
+arcade	Pac-Land	1984	2	only_buttons	3	No	Namco	Yes	Yes
+arcade	Pac-Man	1980	2	joy4way	0	Yes	Namco / Midway license	Yes	Yes
+arcade	Pac-Mania	1987	2	joy8way	3	Yes	Namco	Yes	Yes
+arcade	Paperboy	1984	1	stick	2	No	Atari Games / Atari	Yes	Yes
+arcade	Parodius DA!	1990	2	joy8way	3	No	Konami	No	Yes
+arcade	Pengo	1982	2	joy4way	1	Yes	SEGA	Yes	Yes
+arcade	Peter Pack Rat	1984	1	joy8way	2	No	Atari Games	No	Yes
+arcade	Phoenix	1980	2	joy2way	2	Yes	Amstar / Centuri	Yes	Yes
+arcade	Pink Sweets: Ibara Sorekara	2006	2	joy8way	4	Yes	Cave / AMI license	No	Yes
+arcade	Pirate Ship Higemaru	1984	2	joy4way	1	No	Capcom	Yes	Yes
+arcade	Pit Fighter	1990	3	joy8way	3	No	Atari Games / Atari	No	Yes
+arcade	Pitfall 2	1985	2	joy8way	2	No	SEGA	Yes	No
+arcade	Pleiads	1981	2	joy2way	1	Yes	Tehkan / Tehkan Ltd.	Yes	Yes
+arcade	Pole Position 2	1983	1	pedal / dial	1	No	Namco	No	Yes
+arcade	Pooyan	1982	2	joyvertical2way	1	Yes	Konami / bootleg	Yes	Yes
+arcade	Popeye	1982	2	joy4way	1	No	Nintendo	Yes	Yes
+arcade	Pound for Pound	1990	2	trackball	2	Yes	Irem	No	Yes
+arcade	Power Drift	1988	1	pedal / paddle	1	No	SEGA	Yes	Yes
+arcade	Prehistoric Isle 2	1999	2	joy8way	4	No	Yumekobo / Saurus	Yes	Yes
+arcade	Primal Rage	1994	2	joy8way	4	No	Atari Games	Yes	Yes
+arcade	Progear	2001	2	joy8way	3	No	Cave / Capcom	Yes	Yes
+arcade	Psychic 5	1987	2	joy8way	2	Yes	Jaleco / NMK	No	Yes
+arcade	Psycho Soldier	1987	2	joy8way	2	No	SNK	Yes	Yes
+arcade	Pulstar	1995	2	joy8way	4	No	Aicom / SNK	Yes	Yes
+arcade	Punch-Out!!	1984	1	joy4way	3	No	Nintendo	Yes	Yes
+arcade	Punisher, The	1993	2	joy8way	2	No	Capcom	Yes	Yes
+arcade	Puzzle Bobble 4	1997	4	joy8way / dial	4	No	Taito	Yes	Yes
+arcade	Q*bert	1982	2	joy8way	0	Yes	Gottlieb / D. Gottlieb & Co.	Yes	Yes
+arcade	Quartet 2	1986	2	joy8way	3	No	SEGA	Yes	Yes
+arcade	R-Type	1987	2	joy8way	4	No	Irem	Yes	Yes
+arcade	R-Type 2	1989	2	joy8way	4	No	Irem	Yes	Yes
+arcade	R-Type Leo	1992	2	joy8way	2	No	Irem	Yes	Yes
+arcade	Rabbit Punch	1987	2	joy8way	2	No	V-System Co. / Bally/Midway/Sente license	Yes	Yes
+arcade	Rad Mobile	1990	1	pedal / paddle	2	No	SEGA	No	Yes
+arcade	Radiant Silvergun	1998	4	joy8way	4	No	Treasure	No	Yes
+arcade	Rage of the Dragons	2002	2	joy8way	4	No	Evoga / Playmore	Yes	Yes
+arcade	Raiden	1990	2	joy8way	2	Yes	Seibu Kaihatsu / Fabtek	Yes	Yes
+arcade	Raiden DX	1994	2	joy8way	3	Yes	Seibu Kaihatsu	Yes	Yes
+arcade	Raiden Fighters	1996	2	joy8way	3	Yes	Seibu Kaihatsu / Tuning license	Yes	Yes
+arcade	Raiden Fighters 2: Operation Hell Dive	1997	2	joy8way	2	Yes	Seibu Kaihatsu / Tuning license	Yes	Yes
+arcade	Raiden Fighters Jet	1998	2	joy8way	2	Yes	Seibu Kaihatsu / Tuning license	Yes	Yes
+arcade	Rainbow Islands	1987	2	joy2way	2	No	Taito	Yes	Yes
+arcade	Rally X	1980	2	joy4way	1	No	Namco	Yes	Yes
+arcade	Rambo 3	1989	2	joy8way / trackball	2	No	Taito	No	Yes
+arcade	Rampage	1986	3	joy8way	2	No	Bally Midway / Barcrest / Red Gaming	Yes	Yes
+arcade	Rampage: World Tour	1997	3	joy8way	3	No	Midway / Game Refuge Inc.	Yes	Yes
+arcade	Rastan Saga	1987	2	joy8way	2	No	Taito	Yes	Yes
+arcade	Rave Racer	1995	1	pedal / joy8way / paddle	4	No	Namco	Yes	Yes
+arcade	Real Bout Fatal Fury 2: The Newcomers	1998	2	joy8way	4	No	SNK	No	Yes
+arcade	Real Bout Fatal Fury Special	1996	2	joy8way	4	No	SNK	Yes	Yes
+arcade	Red Earth	1996	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Renegade	1986	2	joy8way	3	No	Technos Japan / Taito	Yes	Yes
+arcade	Return of the Jedi	1984	1	stick	3	No	Atari	Yes	Yes
+arcade	Rezon	1991	2	joy8way	3	No	Allumer	No	Yes
+arcade	Ridge Racer	1993	1	pedal / joy8way / paddle	3	No	Namco	No	Yes
+arcade	Ridge Racer 2	1994	1	pedal / joy8way / paddle	3	No	Namco	No	Yes
+arcade	Ring of Destruction: Slammasters 2	1994	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Road Blasters	1987	1	pedal / stick	3	No	Atari Games	Yes	Yes
+arcade	Road Fighter	1984	2	joy8way	2	Yes	Konami	No	Yes
+arcade	Road Runner	1985	1	stick	2	No	Atari Games	Yes	Yes
+arcade	Robocop	1988	2	joy8way	2	No	Data East	Yes	Yes
+arcade	Robotron: 2084	1982	1	doublejoy8way	0	No	Williams / Vid Kidz	Yes	Yes
+arcade	Roc'n Rope	1983	2	joy4way	2	Yes	Konami	Yes	Yes
+arcade	Rolling Thunder	1986	2	joy4way	2	No	Namco	Yes	Yes
+arcade	Rygar	1986	2	joy8way	2	No	Tecmo	Yes	Yes
+arcade	S.T.U.N. Runner	1989	1	stick	2	No	Atari Games / Atari	No	Yes
+arcade	SAR: Search & Rescue	1989	2	positional / joy8way	2	Yes	SNK	Yes	Yes
+arcade	SNK vs. Capcom: SVC Chaos	2003	2	joy8way	4	No	Playmore / Capcom	No	Yes
+arcade	Salamander	1986	2	joy8way	2	No	Konami	Yes	Yes
+arcade	Samurai Shodown 2	1994	2	joy8way	4	No	SNK	Yes	Yes
+arcade	Samurai Shodown 4: Amakusa's Revenge	1996	2	joy8way	4	No	SNK	Yes	Yes
+arcade	Samurai Shodown V Special	2004	2	joy8way	4	No	Yuki Enterprise / SNK Playmore	Yes	Yes
+arcade	Saturday Night Slam Masters	1993	4	joy8way	3	No	Capcom	Yes	Yes
+arcade	Savage Reign	1995	2	joy8way	4	No	SNK	No	Yes
+arcade	Scramble	1981	2	joy8way	2	Yes	Konami	Yes	Yes
+arcade	Scud Race Plus Twin/DX	1997	1	pedal / paddle	8	No	SEGA	No	Yes
+arcade	Sea Fighter Poseidon	1984	2	joy8way	2	No	Taito	Yes	Yes
+arcade	Section Z	1985	2	joy8way	2	No	Capcom	No	Yes
+arcade	Sega Ninja	1985	2	joy8way	3	No	SEGA	Yes	Yes
+arcade	Sega Rally 2	1998	1	pedal / paddle	8	No	SEGA	No	Yes
+arcade	Sega Rally Championship: Twin/DX	1995	1	pedal / paddle	6	No	SEGA	No	Yes
+arcade	Sengoku 3	2001	2	joy8way	4	No	Noise Factory / SNK	No	Yes
+arcade	Sexy Parodius	1996	4	joy8way	3	No	Konami	No	Yes
+arcade	Shadow Dancer	1989	2	joy8way	3	No	SEGA	Yes	Yes
+arcade	Shadow Force	1993	2	joy8way	6	No	Technos Japan / Technos Japan Corp.	Yes	Yes
+arcade	Shinobi (set 6, System 16A)	1987	2	joy8way	3	No	SEGA	Yes	Yes
+arcade	Shock Troopers	1997	2	joy8way	4	No	Saurus / SNK	No	Yes
+arcade	Shock Troopers: 2nd Squad	1998	2	joy8way	4	No	Saurus / SNK	Yes	Yes
+arcade	Side Arms: Hyper Dyne	1986	2	joy8way	3	No	Capcom	Yes	Yes
+arcade	Side Pocket	1986	2	joy8way	2	No	Data East	Yes	Yes
+arcade	Silent Dragon	1992	4	joy8way	3	No	Taito	No	Yes
+arcade	Silk Worm	1988	2	joy8way	3	No	Tecmo	Yes	Yes
+arcade	Simpsons, The	1991	2	joy8way	2	No	Konami	Yes	Yes
+arcade	Sinistar	1982	1	stick	2	Yes	Williams	Yes	Yes
+arcade	Slap Fight	1986	2	joy8way	2	Yes	Toaplan / Taito	Yes	Yes
+arcade	Sly Spy	1989	2	joy8way	2	No	Data East	Yes	Yes
+arcade	Smash T.V.	1990	2	doublejoy8way	0	No	Williams	Yes	Yes
+arcade	Snow Bros. 2: With New Elves	1994	4	joy8way	2	No	Hanafram / Toaplan	No	Yes
+arcade	Snow Bros.: Nick & Tom	1990	2	joy8way	3	No	Toaplan	Yes	Yes
+arcade	Sol Divide: The Sword Of Darkness	1997	2	joy8way	3	No	Psikyo	No	Yes
+arcade	Solomon's Key	1986	2	joy8way	2	No	Tecmo	Yes	Yes
+arcade	Son Son	1984	2	joy4way	1	No	Capcom	Yes	Yes
+arcade	Sorcer Striker	1993	2	joy8way	3	Yes	Raizing	No	Yes
+arcade	Soul Calibur	1998	2	joy8way	6	No	Namco	No	Yes
+arcade	Soul Calibur	1998	2	joy8way	6	No	Namco	No	Yes
+arcade	Space Ace	1983	1	joy8way	1	No	Cinematronics	No	Yes
+arcade	Space Harrier	1985	1	stick	3	No	SEGA	Yes	Yes
+arcade	Space Invaders	1978	2	joy2way	1	Yes	Taito / Midway	No	Yes
+arcade	Space Invaders Part 2	1979	2	joy2way	1	Yes	Taito	Yes	No
+arcade	Special Criminal Investigation	1989	1	paddle	5	No	Taito	Yes	Yes
+arcade	Speed Rumbler, The	1986	2	joy8way	2	Yes	Capcom	Yes	Yes
+arcade	Spelunker 2: 23 no Kagi	1986	2	joy8way	2	No	Irem / licensed from Broderbund	Yes	Yes
+arcade	Spider-Man: The Videogame	1991	4	joy8way	2	No	SEGA	Yes	Yes
+arcade	Spin Master	1993	2	joy8way	4	No	Data East	No	Yes
+arcade	Splatter House (World, new version	1988	2	joy8way	3	No	Namco	Yes	Yes
+arcade	Spy Hunter	1983	1	pedal / paddle	5	Yes	Bally Midway	Yes	Yes
+arcade	Star Wars	1983	1	stick	4	No	Atari / Midway	Yes	Yes
+arcade	Stargate	1981	1	joyvertical2way	6	No	Williams / Vid Kidz	Yes	Yes
+arcade	Steel Gunner	1990	2	lightgun	2	No	Namco	No	Yes
+arcade	Steel Gunner 2	1991	2	lightgun	2	No	Namco	No	Yes
+arcade	Storm Blade	1996	2	joy8way	3	Yes	Visco	Yes	Yes
+arcade	Street Fighter	1987	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Street Fighter 2: Champion Edition	1992	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Street Fighter 2: Hyper Fighting	1992	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Street Fighter 2: The World Warrior	1991	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Street Fighter 3: New Generation	1997	2	joy8way	6	No	Capcom	No	Yes
+arcade	Street Fighter Alpha 2	1996	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Street Fighter Alpha 3	1998	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Street Fighter EX2	1998	2	joy8way	6	No	Capcom / Arika	No	Yes
+arcade	Street Fighter III 2nd Impact: Giant Attack	1997	2	joy8way	6	No	Capcom	No	Yes
+arcade	Street Fighter III 3rd Strike: Fight for the Future	1999	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Street Smart	1989	2	joy8way	3	No	SNK	Yes	Yes
+arcade	Strider	1989	2	joy8way	3	No	Capcom	Yes	Yes
+arcade	Strike Force	1991	2	joy8way	3	No	Midway	No	Yes
+arcade	Strikers 1945 2	1997	2	joy8way	2	Yes	Psikyo	Yes	Yes
+arcade	Strikers 1945 III (World)	1999	2	joy8way	3	Yes	Psikyo	Yes	Yes
+arcade	Sunset Riders	1991	2	joy8way	2	No	Konami	Yes	Yes
+arcade	Super Bagman	1984	2	joy4way	2	Yes	Valadon Automation	No	Yes
+arcade	Super Cobra	1981	2	joy8way	2	Yes	Konami	No	Yes
+arcade	Super Contra	1988	2	joy8way	2	Yes	Konami	Yes	Yes
+arcade	Super Gem Fighter Mini Mix	1997	2	joy8way	3	No	Capcom	Yes	Yes
+arcade	Super Hang-On (sitdown/upright)	1987	1	pedal / paddle	1	No	SEGA / bootleg	Yes	Yes
+arcade	Super Monaco GP (World, Rev B)	1989	1	pedal / paddle	2	No	SEGA	Yes	Yes
+arcade	Super Pang	1990	2	joy4way	2	No	Mitchell / Capcom	Yes	Yes
+arcade	Super Punch-Out!!	1984	1	joy4way	4	No	Nintendo	Yes	Yes
+arcade	Super Puzzle Fighter II Turbo	1996	2	joy8way	2	No	Capcom	Yes	Yes
+arcade	Super Sprint	1986	3	pedal / dial	0	No	Atari Games / Atari	Yes	Yes
+arcade	Super Street Fighter II Turbo	1994	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Super Zaxxon	1982	2	joy8way	1	Yes	SEGA	No	Yes
+arcade	Superman	1988	2	joy8way	2	No	Taito	No	Yes
+arcade	T.N.K 3	1985	2	positional / joy8way	2	Yes	SNK	Yes	Yes
+arcade	Tapper	1983	2	joy4way	1	No	Bally Midway	Yes	Yes
+arcade	Task Force Harrier	1989	2	joy8way	3	Yes	UPL	No	Yes
+arcade	Tecmo Bowl	1987	4	joy8way	2	No	Tecmo	No	Yes
+arcade	TeddyBoy Blues	1985	2	joy8way	2	No	SEGA	No	Yes
+arcade	Teenage Mutant Ninja Turtles	1989	2	joy8way	2	No	Konami	Yes	Yes
+arcade	Teenage Mutant Ninja Turtles: Turtles in Time	1991	2	joy8way	2	No	Konami	Yes	Yes
+arcade	Tehkan World Cup	1985	2	joy8way / trackball	1	No	Tehkan	Yes	Yes
+arcade	Tekken 2 Ver.B	1996	2	joy8way	4	No	Namco	Yes	Yes
+arcade	Tekken 3	1996	2	joy8way	6	No	Namco	Yes	Yes
+arcade	Tekken Tag Tournament	1999	2	joy8way	6	No	Namco	No	Yes
+arcade	Tempest	1980	2	dial	2	Yes	Atari	Yes	Yes
+arcade	Tengai	1996	2	joy8way	3	No	Psikyo	Yes	Yes
+arcade	Terminator 2: Judgment Day	1991	2	stick	2	No	Midway	Yes	Yes
+arcade	Terra Cresta	1985	2	joy8way	2	Yes	Nichibutsu	No	Yes
+arcade	Terra Force	1987	2	joy8way	3	No	Nichibutsu / bootleg	No	Yes
+arcade	Tetris	1988	2	joy3 (half4)way	1	No	Atari Games / bootleg	Yes	Yes
+arcade	Tetris The Absolute: The Grand Master 2 Plus	2000	2	joy4way	3	No	Arika	No	Yes
+arcade	Three Wonders	1991	2	joy8way	3	No	Capcom	Yes	Yes
+arcade	Thunder Blade (upright)	1987	1	stick	2	No	SEGA	Yes	Yes
+arcade	Thunder Fox	1990	2	joy8way	3	No	Taito	No	Yes
+arcade	ThunderJaws	1990	2	joy8way	2	No	Atari Games / Atari	No	Yes
+arcade	Thundercade	1987	2	joy8way	2	Yes	Seta / Taito	Yes	Yes
+arcade	Tiger Road	1987	2	joy8way	2	No	Capcom	Yes	Yes
+arcade	Tiger-Heli	1985	2	joy8way	2	Yes	Toaplan / Taito	Yes	Yes
+arcade	Time Crisis	1995	1	lightgun	2	No	Namco	No	Yes
+arcade	Time Pilot	1982	2	joy8way	1	Yes	Konami	Yes	Yes
+arcade	Time Pilot '84	1984	2	joy8way	2	Yes	Konami	Yes	Yes
+arcade	Time Soldiers	1987	2	positional / joy8way	2	Yes	Alpha Denshi Co. / SNK/Romstar license	Yes	Yes
+arcade	Toki	1989	2	joy8way	2	No	TAD Corporation / Tad Corporation	Yes	Yes
+arcade	Tokio	1986	2	joy8way	2	Yes	Taito / Romstar Incorporated	Yes	Yes
+arcade	Toobin'	1988	2	only_buttons	5	Yes	Atari Games / Atari	Yes	Yes
+arcade	Total Carnage	1992	2	doublejoy8way	0	No	Midway	Yes	Yes
+arcade	Track & Field	1983	4	only_buttons	3	No	Konami	Yes	Yes
+arcade	Traverse USA	1983	2	joy2way	2	Yes	Irem	Yes	Yes
+arcade	Trog	1990	4	joy4way	1	No	Midway	Yes	Yes
+arcade	Trojan	1986	2	joy8way	2	No	Capcom	Yes	Yes
+arcade	Tron	1982	2	joy8way / dial	1	Yes	Bally Midway	Yes	Yes
+arcade	Tropical Angel	1983	2	joy2way	2	No	Irem	Yes	Yes
+arcade	Truxton	1988	2	joy8way	2	Yes	Toaplan / Taito	Yes	Yes
+arcade	Truxton 2	1992	2	joy8way	3	Yes	Toaplan	No	Yes
+arcade	Turbo Out Run (cockpit)	1989	1	pedal / paddle	2	No	SEGA	No	Yes
+arcade	Tutankham	1982	2	doublejoy2way	2	Yes	Konami	Yes	Yes
+arcade	Twin Cobra	1987	2	joy8way	2	Yes	Toaplan / Taito	Yes	Yes
+arcade	Twin Eagle 2: The Rescue Mission	1994	2	joy8way	3	Yes	Seta	No	Yes
+arcade	Twin Eagle: Revenge Joe's Brother	1988	2	joy8way	2	Yes	Seta / Taito	Yes	Yes
+arcade	TwinBee	1985	2	joy8way	2	Yes	Konami	No	Yes
+arcade	Two Crude	1990	2	joy8way	3	No	Data East	Yes	Yes
+arcade	U.N. Squadron	1989	2	joy8way	3	No	Capcom	Yes	Yes
+arcade	US AAF Mustang	1990	2	joy8way	2	No	UPL	Yes	Yes
+arcade	Ultimate Mortal Kombat 3	1994	2	joy8way	6	No	Midway	Yes	Yes
+arcade	Ultra X Weapons	1995	2	joy8way	3	Yes	Banpresto / Tsuburaya Productions	No	Yes
+arcade	Undercover Cops	1992	3	joy8way	2	No	Irem	No	Yes
+arcade	Up'n Down	1983	2	joy8way	1	Yes	SEGA	Yes	Yes
+arcade	Vampire Savior 2: The Lord of Vampire	1997	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Vapor Trail: Hyper Offence Formation	1989	2	joy8way	2	Yes	Data East	Yes	Yes
+arcade	Varth: Operation Thunderstorm	1992	2	joy8way	3	Yes	Capcom	Yes	Yes
+arcade	Vasara	2000	2	joy8way	3	Yes	Visco	No	Yes
+arcade	Vasara 2	2001	2	joy8way	3	Yes	Visco	Yes	Yes
+arcade	Vendetta	1991	2	joy8way	2	No	Konami	No	Yes
+arcade	Victory Road	1986	2	positional / joy8way	2	Yes	SNK	Yes	Yes
+arcade	Viewpoint	1992	2	joy8way	4	No	Sammy / Aicom	No	Yes
+arcade	Vigilante	1988	2	joy8way	2	No	Irem / Data East	Yes	Yes
+arcade	Vimana	1991	2	joy8way	2	Yes	Toaplan	No	Yes
+arcade	Vindicators	1988	2	doublejoyvertical2way	4	No	Atari Games	Yes	Yes
+arcade	Violent Storm	1993	4	joy8way	3	No	Konami	Yes	Yes
+arcade	Viper Phase 1	1995	2	joy8way	3	Yes	Seibu Kaihatsu	Yes	Yes
+arcade	Virtua Fighter	1993	2	joy8way	3	No	SEGA	No	Yes
+arcade	Virtua Racing	1992	1	pedal / paddle	6	No	SEGA	Yes	Yes
+arcade	Vulgus	1984	2	joy8way	2	Yes	Capcom	Yes	Yes
+arcade	WWF Superstars	1989	2	joy8way	2	No	Technos Japan / Technos Japan Corp.	Yes	Yes
+arcade	WWF WrestleFest	1991	4	joy8way	2	No	Technos Japan / Tecmo license	Yes	Yes
+arcade	WWF: Wrestlemania	1995	2	joy8way	5	No	Midway	Yes	Yes
+arcade	Waku Waku 7	1996	2	joy8way	4	No	Sunsoft / SNK	No	Yes
+arcade	Wardner	1987	2	joy8way	2	No	Toaplan / Taito	Yes	Yes
+arcade	Warrior Blade: Rastan Saga Episode 3	1991	2	joy8way	3	No	Taito	No	Yes
+arcade	Warriors of Fate	1992	3	joy8way	2	No	Capcom	Yes	Yes
+arcade	Water Ski	1983	2	joy2way	2	Yes	Taito	No	Yes
+arcade	Wild Fang	1989	2	joy8way	3	No	Tecmo	Yes	Yes
+arcade	Wild West C.O.W.-Boys of Moo Mesa	1992	4	joy8way	2	No	Konami	Yes	Yes
+arcade	Willow	1989	2	joy8way	3	No	Capcom / Lucasfilm Games	Yes	Yes
+arcade	Windjammers	1994	2	joy8way	4	No	Data East / SNK	Yes	Yes
+arcade	Wizard Fire	1992	2	joy8way	2	No	Data East	Yes	Yes
+arcade	Wizard of Wor	1980	2	joy8way	2	No	Dave Nutting Associates / Midway	Yes	No
+arcade	Wonder Boy	1986	2	joy2way	2	No	Escape / SEGA	Yes	Yes
+arcade	Wonder Boy 3: Monster Lair (set 6, World, System 16B)	1988	2	joy8way	3	No	SEGA / Westone	No	Yes
+arcade	Wonder Boy in Monster Land	2009	2	joy8way	2	No	bootleg / mpatou	Yes	Yes
+arcade	World Heroes	1992	2	joy8way	4	No	Alpha Denshi Co. / ADK	No	Yes
+arcade	World Heroes Perfect	1995	2	joy8way	4	No	ADK / SNK	Yes	Yes
+arcade	World Rally	1993	2	joy8way / paddle / dial	2	No	Gaelco	Yes	Yes
+arcade	X Multiply	1989	2	joy8way	4	No	Irem	Yes	Yes
+arcade	X-Men	1992	4	joy8way	3	No	Konami	Yes	Yes
+arcade	X-Men Vs. Street Fighter	1996	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	X-Men: Children of the Atom	1994	2	joy8way	6	No	Capcom	Yes	Yes
+arcade	Xain'd Sleena	1986	2	joy8way	2	No	Technos Japan / Taito	Yes	Yes
+arcade	Xenophobe	1987	3	joy8way	3	No	Bally Midway	Yes	Yes
+arcade	Xevious	1982	2	joy8way	2	Yes	Namco	Yes	Yes
+arcade	Xexex	1991	2	joy8way	2	No	Konami	Yes	Yes
+arcade	Yie Ar Kung-Fu	1985	2	joy8way	3	No	Konami	Yes	Yes
+arcade	Zaxxon	1982	2	joy8way	1	Yes	SEGA	Yes	Yes
+arcade	Zero Gunner 2	2001	2	joy8way	6	No	Psikyo	No	Yes
+arcade	Zoo Keeper	1982	2	joy4way	1	No	Taito	Yes	Yes
+megadrive	Castlevania: Bloodlines	1994	1	unknown	unknown	No	Konami	No	Yes
+megadrive	Contra: Hard Corps	1994	2	unknown	unknown	No	Konami	Yes	Yes
+megadrive	Disney's Aladdin	1993	1	unknown	unknown	No	Virgin / SEGA	No	Yes
+megadrive	Disney's Castle of Illusion Starring Mickey Mouse	1990	1	unknown	unknown	No	SEGA	No	Yes
+megadrive	Earthworm Jim	1994	1	unknown	unknown	No	Shiny Entertainment / Virgin Interactive Entertainment	No	Yes
+megadrive	Ecco the Dolphin	1992	1	unknown	unknown	No	Novotrade / SEGA	Yes	Yes
+megadrive	Gunstar Heroes	1993	2	unknown	unknown	No	Treasure / SEGA	Yes	Yes
+megadrive	NHL Hockey '94	1993	4	unknown	unknown	No	High Score Productions / Electronic Arts	No	Yes
+megadrive	Revenge of Shinobi, The	1990	1	unknown	unknown	No	SEGA	Yes	Yes
+megadrive	Rocket Knight Adventures	1993	1	unknown	unknown	No	Konami	No	Yes
+megadrive	Shinobi 3: Return of the Ninja Master	1993	1	unknown	unknown	No	Megasoft / SEGA	Yes	Yes
+megadrive	Sonic CD	1993	1	unknown	unknown	No	Sonic Team / SEGA	No	Yes
+megadrive	Sonic the Hedgehog	1991	1	unknown	unknown	No	SEGA	Yes	Yes
+megadrive	Sonic the Hedgehog 2	1992	2	unknown	unknown	No	SEGA	Yes	Yes
+megadrive	Sonic the Hedgehog 3	1994	2	unknown	unknown	No	Sonic Team / SEGA	No	Yes
+megadrive	Streets of Rage	1991	2	unknown	unknown	No	SEGA	No	Yes
+megadrive	Streets of Rage 2	1992	2	unknown	unknown	No	SEGA	Yes	Yes
+megadrive	Streets of Rage 3	1997	2	unknown	unknown	No	SEGA	No	Yes
+megadrive	ToeJam & Earl	1992	2	unknown	unknown	No	SEGA	No	Yes
+n64	F-Zero X	1998	4	unknown	unknown	No	Nintendo	No	Yes
+n64	Mario Kart 64	1997	4	unknown	unknown	No	Nintendo	No	Yes
+n64	Star Fox 64	1997	4	unknown	unknown	No	Nintendo	No	Yes
+n64	Super Mario 64	1996	1	unknown	unknown	No	Nintendo	No	Yes
+psp	Ultimate Ghosts'n Goblins	2006	1	unknown	unknown	No	Capcom	No	Yes
+psx	Castlevania: Symphony of the Night	1997	1	unknown	unknown	No	Konami	No	Yes
+snes	Axelay	1992	1	unknown	unknown	No	Konami	Yes	Yes
+snes	Contra 3: The Alien Wars	1992	2	unknown	unknown	No	Konami	Yes	Yes
+snes	Demon's Crest	1994	1	unknown	unknown	No	Capcom	No	Yes
+snes	Disney's Aladdin	1993	1	unknown	unknown	No	Capcom	Yes	Yes
+snes	Donkey Kong Country	1994	2	unknown	unknown	No	Rareware / Nintendo	Yes	Yes
+snes	Donkey Kong Country 2: Diddy's Kong Quest	1995	2	unknown	unknown	No	Rareware / Nintendo	Yes	Yes
+snes	F-Zero	1992	1	unknown	unknown	No	Nintendo	Yes	Yes
+snes	Final Fight 2	1993	2	unknown	unknown	No	Capcom	Yes	Yes
+snes	Final Fight 3	1995	2	unknown	unknown	No	Capcom	No	Yes
+snes	International Superstar Soccer Deluxe	1995	4	unknown	unknown	No	Konami	No	Yes
+snes	Legend of Zelda, The: A Link to the Past	1992	1	unknown	unknown	No	Nintendo	Yes	Yes
+snes	Mega Man X	1994	1	unknown	unknown	No	Capcom	Yes	Yes
+snes	Mega Man X2	1995	1	unknown	unknown	No	Capcom	No	Yes
+snes	Mega Man X³	1996	1	unknown	unknown	No	Capcom	Yes	Yes
+snes	Ninja Warriors	1994	1	unknown	unknown	No	Natsume / Titus	Yes	Yes
+snes	Pocky & Rocky	1993	2	unknown	unknown	No	Natsume	Yes	Yes
+snes	Pocky & Rocky 2	1994	2	unknown	unknown	No	Natsume	No	Yes
+snes	Pop'n TwinBee	1993	2	unknown	unknown	No	Konami	No	Yes
+snes	Pop'n TwinBee: Rainbow Bell Adventures	1994	2	unknown	unknown	No	Konami	No	Yes
+snes	R-Type 3: The Third Lightning	1994	2	unknown	unknown	No	Jaleco / Irem	Yes	Yes
+snes	Super Castlevania 4	1991	1	unknown	unknown	No	Konami	Yes	Yes
+snes	Super Ghouls'n Ghosts	1991	1	unknown	unknown	No	Capcom	Yes	Yes
+snes	Super Mario All-Stars	1993	2	unknown	unknown	No	Nintendo	Yes	Yes
+snes	Super Mario Kart	1992	2	unknown	unknown	No	Nintendo	No	Yes
+snes	Super Mario World	1991	2	unknown	unknown	No	Nintendo	Yes	Yes
+snes	Super Mario World 2: Yoshi's Island	1995	1	unknown	unknown	No	Nintendo	Yes	Yes
+snes	Super Metroid	1994	1	unknown	unknown	No	Nintendo	Yes	Yes
+snes	Super Punch-Out!!	1994	1	unknown	unknown	No	Nintendo	Yes	Yes
+snes	Super Star Wars	1992	1	unknown	unknown	No	Sculptured Software / JVC	Yes	Yes
+snes	Super Star Wars: Return of the Jedi	1994	1	unknown	unknown	No	Sculptured Software / JVC	Yes	Yes
+snes	Super Star Wars: The Empire Strikes Back	1993	1	unknown	unknown	No	Sculptured Software / JVC	Yes	Yes
+snes	Wild Guns	1995	2	unknown	unknown	No	Natsume / Titus	Yes	Yes
+snes	Zombies Ate My Neighbors	1993	2	unknown	unknown	No	LucasArts / Konami	Yes	Yes
