@@ -27,10 +27,8 @@ public class Game extends MongoDocument {
     public GameInfo vman_blissGameInfo;
     public GameInfo rickdangerous_ultimateGameInfo;
     public GameInfo wolfanoz_12kGameInfo;
-    // coinops
-    public GameInfo playerlegends2GameInfo;
-    public GameInfo retroarcade2elitesGameInfo;
-    public GameInfo coinopsotherGameInfo;
+
+    public Set<String> coinopsVersions;
 
     public String year;
     public Integer players;

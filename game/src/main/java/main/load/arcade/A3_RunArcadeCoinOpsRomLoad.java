@@ -5,12 +5,13 @@ import com.lazygalaxy.engine.helper.MongoHelper;
 import com.lazygalaxy.engine.load.CSVLoad;
 import com.lazygalaxy.engine.load.LinuxListLoad;
 import com.lazygalaxy.engine.util.GeneralUtil;
-import com.lazygalaxy.game.Constant.GameSource;
+import com.lazygalaxy.game.Constant.CoinOpsVersion;
 import com.lazygalaxy.game.Constant.GameSystem;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
 import com.lazygalaxy.game.merge.GameMerge;
 import com.lazygalaxy.game.util.GameUtil;
+import com.lazygalaxy.game.util.SetUtil;
 import org.apache.commons.collections4.IterableUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
@@ -29,17 +30,17 @@ public class A3_RunArcadeCoinOpsRomLoad {
             GameMerge merge = new GameMerge();
 
             // Player 2 Legends
-            new RomSetLoad(GameSystem.ARCADE, GameSource.PLAYER_LEGENDS_2)
+            new RomSetLoad(GameSystem.ARCADE, CoinOpsVersion.PLAYER_LEGENDS_2)
                     .load("list/coinops/playerlegends2/arcade_roms.ls", 0, merge);
             LOGGER.info("Player 2 Legends arcade rom list completed!");
 
             // Retro Aracde 2 Elites
-            new RomSetLoad(GameSystem.ARCADE, GameSource.RETRO_ARCADE_2_ELITES)
+            new RomSetLoad(GameSystem.ARCADE, CoinOpsVersion.RETRO_ARCADE_2_ELITES)
                     .load("list/coinops/retroarcade2elites/arcade_roms.ls", 0, merge);
             LOGGER.info("Retro Arcade 2 Elites arcade rom list completed!");
 
             //Other
-            new OtherLoad(GameSystem.ARCADE, GameSource.COINOPS_OTHER)
+            new OtherLoad(GameSystem.ARCADE, CoinOpsVersion.OTHER)
                     .load("list/coinops/other.csv", 0, merge);
 
             LOGGER.info("Other rom list completed!");
@@ -52,12 +53,12 @@ public class A3_RunArcadeCoinOpsRomLoad {
 
     private static class RomSetLoad extends LinuxListLoad<Game> {
         private String systemId;
-        private String source;
+        private String coinopsVersion;
 
-        public RomSetLoad(String systemId, String source) throws Exception {
+        public RomSetLoad(String systemId, String coinopsVersion) throws Exception {
             super(Game.class);
             this.systemId = systemId;
-            this.source = source;
+            this.coinopsVersion = coinopsVersion;
         }
 
         @Override
@@ -83,8 +84,7 @@ public class A3_RunArcadeCoinOpsRomLoad {
                 game.addLabel(game.gameId);
             }
 
-            Game.class.getField(source + "GameInfo").set(game, new GameInfo(game.gameId, file, null));
-            GameUtil.pretifyName((GameInfo) Game.class.getField(source + "GameInfo").get(game));
+            game.coinopsVersions = SetUtil.addValueToTreeSet(game.coinopsVersions, coinopsVersion);
 
             return Arrays.asList(game);
         }
@@ -92,12 +92,12 @@ public class A3_RunArcadeCoinOpsRomLoad {
 
     private static class OtherLoad extends CSVLoad<Game> {
         private String systemId;
-        private String source;
+        private String coinopsVersion;
 
-        public OtherLoad(String systemId, String source) throws Exception {
+        public OtherLoad(String systemId, String coinopsVersion) throws Exception {
             super(Game.class);
             this.systemId = systemId;
-            this.source = source;
+            this.coinopsVersion = coinopsVersion;
         }
 
         @Override
@@ -110,8 +110,8 @@ public class A3_RunArcadeCoinOpsRomLoad {
                 game.addLabel(game.gameId);
             }
 
-            if (game.retroarcade2elitesGameInfo == null && game.playerlegends2GameInfo == null) {
-                Game.class.getField(source + "GameInfo").set(game, new GameInfo(game.gameId, null, null));
+            if (game.coinopsVersions == null || game.coinopsVersions.size() == 0) {
+                game.coinopsVersions = SetUtil.addValueToTreeSet(game.coinopsVersions, coinopsVersion);
             }
 
             return Arrays.asList(game);

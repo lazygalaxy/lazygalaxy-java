@@ -3,12 +3,13 @@ package main.load.console;
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.LinuxListLoad;
 import com.lazygalaxy.engine.util.GeneralUtil;
-import com.lazygalaxy.game.Constant.GameSource;
+import com.lazygalaxy.game.Constant.CoinOpsVersion;
 import com.lazygalaxy.game.Constant.GameSystem;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
 import com.lazygalaxy.game.merge.GameMerge;
 import com.lazygalaxy.game.util.GameUtil;
+import com.lazygalaxy.game.util.SetUtil;
 import com.mongodb.client.model.Filters;
 import org.apache.commons.collections4.IterableUtils;
 import org.apache.commons.lang3.StringUtils;
@@ -27,36 +28,36 @@ public class A3_RunConsoleCoinOpsRomLoad {
             GameMerge merge = new GameMerge();
 
             // Player 2 Legends
-            new RomSetLoad(GameSystem.MEGADRIVE, GameSource.PLAYER_LEGENDS_2)
+            new RomSetLoad(GameSystem.MEGADRIVE, CoinOpsVersion.PLAYER_LEGENDS_2)
                     .load("list/coinops/playerlegends2/megadrive_roms.ls", 0, merge);
             LOGGER.info("Player 2 Legends megadrive rom list completed!");
 
-            new RomSetLoad(GameSystem.SNES, GameSource.PLAYER_LEGENDS_2)
+            new RomSetLoad(GameSystem.SNES, CoinOpsVersion.PLAYER_LEGENDS_2)
                     .load("list/coinops/playerlegends2/snes_roms.ls", 0, merge);
             LOGGER.info("Player 2 Legends snes rom list completed!");
 
             // Retro Aracde 2 Elites
-            new RomSetLoad(GameSystem.MEGADRIVE, GameSource.RETRO_ARCADE_2_ELITES)
+            new RomSetLoad(GameSystem.MEGADRIVE, CoinOpsVersion.RETRO_ARCADE_2_ELITES)
                     .load("list/coinops/retroarcade2elites/megadrive_roms.ls", 0, merge);
             LOGGER.info("Retro Arcade 2 Elites megadrive rom list completed!");
 
-            new RomSetLoad(GameSystem.SNES, GameSource.RETRO_ARCADE_2_ELITES)
+            new RomSetLoad(GameSystem.SNES, CoinOpsVersion.RETRO_ARCADE_2_ELITES)
                     .load("list/coinops/retroarcade2elites/snes_roms.ls", 0, merge);
             LOGGER.info("Retro Arcade 2 Elites snes rom list completed!");
 
-            new RomSetLoad(GameSystem.N64, GameSource.RETRO_ARCADE_2_ELITES)
+            new RomSetLoad(GameSystem.N64, CoinOpsVersion.RETRO_ARCADE_2_ELITES)
                     .load("list/coinops/retroarcade2elites/n64_roms.ls", 0, merge);
             LOGGER.info("Retro Arcade 2 Elites n64 rom list completed!");
 
-            new RomSetLoad(GameSystem.PC, GameSource.RETRO_ARCADE_2_ELITES)
+            new RomSetLoad(GameSystem.PC, CoinOpsVersion.RETRO_ARCADE_2_ELITES)
                     .load("list/coinops/retroarcade2elites/pc_roms.ls", 0, merge);
             LOGGER.info("Retro Arcade 2 Elites pc rom list completed!");
 
-            new RomSetLoad(GameSystem.PSP, GameSource.RETRO_ARCADE_2_ELITES)
+            new RomSetLoad(GameSystem.PSP, CoinOpsVersion.RETRO_ARCADE_2_ELITES)
                     .load("list/coinops/retroarcade2elites/psp_roms.ls", 0, merge);
             LOGGER.info("Retro Arcade 2 Elites psp rom list completed!");
 
-            new RomSetLoad(GameSystem.PSX, GameSource.RETRO_ARCADE_2_ELITES)
+            new RomSetLoad(GameSystem.PSX, CoinOpsVersion.RETRO_ARCADE_2_ELITES)
                     .load("list/coinops/retroarcade2elites/psx_roms.ls", 0, merge);
             LOGGER.info("Retro Arcade 2 Elites psx rom list completed!");
         } finally {
@@ -68,12 +69,12 @@ public class A3_RunConsoleCoinOpsRomLoad {
 
     private static class RomSetLoad extends LinuxListLoad<Game> {
         private String systemId;
-        private String source;
+        private String coinopsVersion;
 
-        public RomSetLoad(String systemId, String source) throws Exception {
+        public RomSetLoad(String systemId, String coinopsVersion) throws Exception {
             super(Game.class);
             this.systemId = systemId;
-            this.source = source;
+            this.coinopsVersion = coinopsVersion;
         }
 
         @Override
@@ -114,7 +115,7 @@ public class A3_RunConsoleCoinOpsRomLoad {
                 LOGGER.warn(name + " not found for " + querySystemId);
             } else {
                 for (Game game : games) {
-                    Game.class.getField(source + "GameInfo").set(game, new GameInfo(game.gameId, file, name));
+                    game.coinopsVersions = SetUtil.addValueToTreeSet(game.coinopsVersions, coinopsVersion);
                 }
             }
 

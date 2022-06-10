@@ -1,8 +1,10 @@
 package main.reports;
 
 import com.google.common.collect.Lists;
+import com.lazygalaxy.game.Constant;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.util.GameUtil;
+import com.lazygalaxy.game.util.SetUtil;
 import com.mongodb.client.model.Filters;
 import com.mongodb.client.model.Sorts;
 import org.apache.commons.lang3.StringUtils;
@@ -23,7 +25,7 @@ public class GenerateCoinOpsGameListFromDB {
     public static void main(String[] args) throws Exception {
         List<Game> games = GameUtil.getGames(false, false, null,
                 Sorts.ascending(Lists.newArrayList("systemId", "name")),
-                Filters.or(Filters.ne("playerlegends2GameInfo", null), Filters.ne("retroarcade2elitesGameInfo", null), Filters.ne("coinopsotherGameInfo", null)));
+                Filters.in("coinopsVersions", Constant.CoinOpsVersion.ALL));
 
         String seperator = "\t";
 
@@ -52,8 +54,8 @@ public class GenerateCoinOpsGameListFromDB {
                             + seperator + (game.isVeritcal != null && game.isVeritcal ? "Yes" : "No") + seperator
                             + (StringUtils.equals(game.developer, game.publisher) ? game.developer
                             : game.developer + " / " + game.publisher)
-                            + seperator + (game.playerlegends2GameInfo != null ? "Yes" : "No") + seperator
-                            + (game.retroarcade2elitesGameInfo != null ? "Yes" : "No") + seperator + "Yes" + "\n",
+                            + seperator + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PLAYER_LEGENDS_2) ? "Yes" : "No") + seperator
+                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.RETRO_ARCADE_2_ELITES) ? "Yes" : "No") + seperator + "Yes" + "\n",
                     StandardOpenOption.APPEND);
         }
         LOGGER.info("report done");

@@ -65,14 +65,20 @@ public class Constant {
         public final static String RICKDANGEROUS_ULTIMATE = "rickdangerous_ultimate";
         public final static String WOLFANOZ_12K = "wolfanoz_12k";
         public final static String VMAN_BLISS = "vman_bliss";
-        // coinops
-        public final static String PLAYER_LEGENDS_2 = "playerlegends2";
-        public final static String RETRO_ARCADE_2_ELITES = "retroarcade2elites";
-        public final static String COINOPS_OTHER = "coinopsother";
-        // scummvm
+
+        public final static String COINOPS = "coinops";
+
         public final static String SCUMMVM = "scummvm";
 
         public final static List<String> ALL = Lists.newArrayList(LAZYGALAXY, MAME, RICKDANGEROUS_ULTIMATE,
                 WOLFANOZ_12K, VMAN_BLISS);
+    }
+
+    public static class CoinOpsVersion {
+        public final static String PLAYER_LEGENDS_2 = "playerlegends2";
+        public final static String RETRO_ARCADE_2_ELITES = "retroarcade2elites";
+        public final static String OTHER = "other";
+
+        public final static List<String> ALL = Lists.newArrayList(PLAYER_LEGENDS_2, RETRO_ARCADE_2_ELITES, OTHER);
     }
 }
