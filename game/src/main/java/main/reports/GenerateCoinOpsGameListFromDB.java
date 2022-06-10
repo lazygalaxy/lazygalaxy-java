@@ -28,7 +28,7 @@ public class GenerateCoinOpsGameListFromDB {
         String seperator = "\t";
 
         Path filePath = Paths
-                .get("/Users/vangos/Development/git/lazygalaxy-java/game/target/CoinOps_GameList_v1_2.txt");
+                .get("/Users/vangos/Development/git/lazygalaxy-java/game/src/main/resources/report/CoinOps_GameList_v1_2.txt");
         Files.writeString(filePath,
                 "System" + seperator + "Name" + seperator + "Year" + seperator + "ROM" + seperator + "Players" + seperator +
                         "Joystick" + seperator + "Buttons" + seperator + "LightGun" + seperator + "TrackBall" + seperator + "Other Input"

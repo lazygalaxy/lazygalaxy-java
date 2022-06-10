@@ -1,0 +1,19 @@
+-rwxrwxrwx+ 1 admin users  825026 Feb 15  2012 Disneys Aladdin.zip
+-rw-r--r-- 1 1000 1000    711301 Apr 17 04:31 Castlevania Bloodlines.zip
+-rw-rw-r-- 1 1000 1000   1626635 Jan 26  2010 Comix Zone.zip
+-rwxrwxrwx+ 1 admin users 1367096 Feb 15  2012 Contra Hard Corps.zip
+-rw-r--r-- 1 1000 1000   1903313 Apr 17 04:32 Earthworm Jim.zip
+-rw-r--r-- 1 1000 1000    543621 Apr 17 04:33 ECCO the Dolphin.zip
+-rw-rw-r-- 1 1000 1000   1229248 Sep 21  2015 Ecco The Tides of Time.zip
+-rw-r--r-- 1 1000 1000    662614 Apr 17 04:30 Gunstar Heroes.zip
+-rw-r--r-- 1 1000 1000    367302 Apr 17 04:34 Revenge of Shinobi.zip
+-rw-r--r-- 1 1000 1000    677514 Apr 17 04:33 Rocket Knight Adventures.zip
+-rw-r--r-- 1 1000 1000    640312 Apr 17 04:33 Shinobi III.zip
+-rw-r--r-- 1 1000 1000      2248 Apr 17 04:32 Sonic CD.cue
+-rw-r--r-- 1 1000 1000   1259506 Apr 17 04:23 Sonic The Hedgehog III.zip
+-rw-r--r-- 1 1000 1000    750113 Apr 17 04:30 Sonic The Hedgehog II.zip
+-rw-r--r-- 1 1000 1000    387866 Apr 17 04:34 Sonic The Hedgehog I.zip
+-rw-rw-r-- 1 1000 1000   1681472 Sep 21  2015 Streets of Rage III.zip
+-rw-r--r-- 1 1000 1000   1033965 Apr 17 04:32 Streets Of Rage II.zip
+-rw-r--r-- 1 1000 1000    373354 Apr 17 04:31 Streets Of Rage I.zip
+-rw-r--r-- 1 1000 1000    674030 Apr 17 04:32 Toejam and Earl.zip
