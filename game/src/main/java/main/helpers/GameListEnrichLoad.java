@@ -60,7 +60,7 @@ public class GameListEnrichLoad {
                         LOGGER.warn(source + " " + systemId + " no gamelist.xml found!");
                     }
                 } else {
-                    LOGGER.info("Nothing to load: " + systemId);
+                    LOGGER.debug("Nothing to load: " + systemId);
                 }
             }
         }

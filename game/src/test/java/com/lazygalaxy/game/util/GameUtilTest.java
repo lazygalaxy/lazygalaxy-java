@@ -10,6 +10,12 @@ public class GameUtilTest extends TestCase {
         GameInfo gameInfo = new GameInfo();
         gameInfo.year = "1981";
 
+        gameInfo.originalName = "Leisure Suit Larry 2: Goes looking for Love (In Several Wrong Places) (Keep Brackets)";
+        GameUtil.pretifyName(gameInfo);
+        assertEquals("Leisure Suit Larry 2: Goes looking for Love", Lists.newArrayList(gameInfo.names).get(0));
+        assertEquals("Leisure Suit Larry 2", Lists.newArrayList(gameInfo.names).get(1));
+        assertEquals("In Several Wrong Places Keep Brackets", gameInfo.version);
+
         gameInfo.originalName = "The Revenge of the Nerds - This is it";
         GameUtil.pretifyName(gameInfo);
         assertEquals("Revenge of the Nerds, The: This is it", Lists.newArrayList(gameInfo.names).get(0));
@@ -48,27 +54,27 @@ public class GameUtilTest extends TestCase {
 
         gameInfo.originalName = "Dungeons & Dragons -           Shadow over Mystara [USA]";
         GameUtil.pretifyName(gameInfo);
-        assertEquals("Dungeons & Dragons: Shadow over Mystara [USA]", Lists.newArrayList(gameInfo.names).get(0));
+        assertEquals("Dungeons & Dragons: Shadow over Mystara", Lists.newArrayList(gameInfo.names).get(0));
         assertEquals("Dungeons & Dragons", Lists.newArrayList(gameInfo.names).get(1));
-        assertNull(gameInfo.version);
+        assertEquals("USA", gameInfo.version);
 
         gameInfo.originalName = "Dungeons & Dragons -           Shadow over Mystara [USA](ver2.0)";
         GameUtil.pretifyName(gameInfo);
-        assertEquals("Dungeons & Dragons: Shadow over Mystara [USA]", Lists.newArrayList(gameInfo.names).get(0));
+        assertEquals("Dungeons & Dragons: Shadow over Mystara", Lists.newArrayList(gameInfo.names).get(0));
         assertEquals("Dungeons & Dragons", Lists.newArrayList(gameInfo.names).get(1));
-        assertEquals("ver2.0", gameInfo.version);
+        assertEquals("USA ver2.0", gameInfo.version);
 
         gameInfo.originalName = "Dungeons & Dragons -           Shadow over Mystara (USA)[ver2.0]";
         GameUtil.pretifyName(gameInfo);
         assertEquals("Dungeons & Dragons: Shadow over Mystara", Lists.newArrayList(gameInfo.names).get(0));
         assertEquals("Dungeons & Dragons", Lists.newArrayList(gameInfo.names).get(1));
-        assertEquals("USA[ver2.0]", gameInfo.version);
+        assertEquals("USA ver2.0", gameInfo.version);
 
         gameInfo.originalName = "Dungeons & Dragons -           Shadow over Mystara (USA) updated [ver2.0]";
         GameUtil.pretifyName(gameInfo);
         assertEquals("Dungeons & Dragons: Shadow over Mystara", Lists.newArrayList(gameInfo.names).get(0));
         assertEquals("Dungeons & Dragons", Lists.newArrayList(gameInfo.names).get(1));
-        assertEquals("USA updated [ver2.0]", gameInfo.version);
+        assertEquals("USA updated ver2.0", gameInfo.version);
 
         gameInfo.originalName = "Dungeons & Dragons    :           Shadow over Mystara";
         GameUtil.pretifyName(gameInfo);
@@ -84,19 +90,19 @@ public class GameUtilTest extends TestCase {
 
         gameInfo.originalName = "Dungeons & Dragons -           Shadow over Mystara     [ USA]";
         GameUtil.pretifyName(gameInfo);
-        assertEquals("Dungeons & Dragons: Shadow over Mystara [ USA]", Lists.newArrayList(gameInfo.names).get(0));
+        assertEquals("Dungeons & Dragons: Shadow over Mystara", Lists.newArrayList(gameInfo.names).get(0));
         assertEquals("Dungeons & Dragons", Lists.newArrayList(gameInfo.names).get(1));
-        assertNull(gameInfo.version);
+        assertEquals("USA", gameInfo.version);
 
         gameInfo.originalName = "Pong (Rev E) external [TTL]";
         GameUtil.pretifyName(gameInfo);
         assertEquals("Pong", Lists.newArrayList(gameInfo.names).get(0));
-        assertEquals("Rev E external [TTL]", gameInfo.version);
+        assertEquals("Rev E external TTL", gameInfo.version);
 
         gameInfo.originalName = "Pong [Rev E] external (TTL)";
         GameUtil.pretifyName(gameInfo);
-        assertEquals("Pong [Rev E] external", Lists.newArrayList(gameInfo.names).get(0));
-        assertEquals("TTL", gameInfo.version);
+        assertEquals("Pong", Lists.newArrayList(gameInfo.names).get(0));
+        assertEquals("Rev E external TTL", gameInfo.version);
 
         gameInfo.originalName = "Dragon's Lair II: Time Warp";
         GameUtil.pretifyName(gameInfo);
@@ -146,11 +152,5 @@ public class GameUtilTest extends TestCase {
         assertEquals("Sega Rally Championship: Twin/DX", Lists.newArrayList(gameInfo.names).get(0));
         assertEquals("Sega Rally Championship", Lists.newArrayList(gameInfo.names).get(1));
         assertEquals("Revision C", gameInfo.version);
-
-        gameInfo.originalName = "Leisure Suit Larry 2: Goes looking for Love (In Several Wrong Places) (Keep Brackets)";
-        GameUtil.pretifyName(gameInfo);
-        assertEquals("Leisure Suit Larry 2: Goes looking for Love (In Several Wrong Places)", Lists.newArrayList(gameInfo.names).get(0));
-        assertEquals("Leisure Suit Larry 2", Lists.newArrayList(gameInfo.names).get(1));
-        assertEquals("Keep Brackets", gameInfo.version);
     }
 }

@@ -60,7 +60,9 @@ public class A3_RunConsoleCoinOpsRomLoad {
                     .load("list/coinops/retroarcade2elites/psx_roms.ls", 0, merge);
             LOGGER.info("Retro Arcade 2 Elites psx rom list completed!");
         } finally {
-            MongoConnectionHelper.INSTANCE.close();
+            if (args.length == 0) {
+                MongoConnectionHelper.INSTANCE.close();
+            }
         }
     }
 

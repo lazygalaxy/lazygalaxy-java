@@ -21,12 +21,12 @@ public class GameUtil {
 
             int index = Integer.MAX_VALUE;
             if (StringUtils.contains(processName, ")")) {
-                index = Math.min(index, processName.lastIndexOf("("));
+                index = Math.min(index, processName.indexOf("("));
             }
 
-//			if (StringUtils.contains(processName, "]")) {
-//				index = Math.min(index, processName.indexOf("["));
-//			}
+            if (StringUtils.contains(processName, "]")) {
+                index = Math.min(index, processName.indexOf("["));
+            }
 
             if (index != Integer.MAX_VALUE) {
                 info.version = StringUtils.substring(processName, index, processName.length());
@@ -62,8 +62,15 @@ public class GameUtil {
             }
 
             if (info.version != null) {
-                info.version = info.version.replaceAll("\\)", "");
-                info.version = info.version.replaceAll("\\(", "");
+                info.version = info.version.replaceAll("\\)", " ");
+                info.version = info.version.replaceAll("\\(", " ");
+                info.version = info.version.replaceAll("\\]", " ");
+                info.version = info.version.replaceAll("\\[", " ");
+
+                while (StringUtils.contains(info.version, "  ")) {
+                    info.version = info.version.replaceAll("  ", " ");
+                }
+
                 info.version = info.version.trim();
             }
 
@@ -82,10 +89,10 @@ public class GameUtil {
             str = str.replaceAll("&amp;", "&");
             str = str.replaceAll(" and ", " & ");
             str = str.replaceAll(" And ", " & ");
-//            str = str.replaceAll("\\)", " ");
-//            str = str.replaceAll("\\(", " ");
-//			str = str.replaceAll("\\]", " ");
-//			str = str.replaceAll("\\[", " ");
+            str = str.replaceAll("\\)", " ");
+            str = str.replaceAll("\\(", " ");
+            str = str.replaceAll("\\]", " ");
+            str = str.replaceAll("\\[", " ");
 
             str = str.replaceAll(" - ", " : ");
             str = str.replaceAll("- ", ": ");

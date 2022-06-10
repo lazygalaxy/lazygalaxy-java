@@ -13,7 +13,7 @@ arcade	2020 Super Baseball	1991	2020bb	2	joy8way	4	No	No	none	No	SNK / Pallas	No
 arcade	3 Count Bout	1993	3countb	2	joy8way	4	No	No	none	No	SNK	No	No	Yes
 arcade	64th. Street: A Detective Story	1991	64street	2	joy8way	2	No	No	none	No	Jaleco / C.P. Brain	No	No	Yes
 arcade	720 Degrees	1986	720	1	none	2	No	No	stick/dial	No	Atari Games	No	Yes	Yes
-arcade	A.B. Cop (World)	1990	abcop	1	none	1	No	No	pedal/paddle	No	SEGA	No	No	Yes
+arcade	A.B. Cop	1990	abcop	1	none	1	No	No	pedal/paddle	No	SEGA	No	No	Yes
 arcade	APB: All Points Bulletin	1987	apb	1	none	2	No	No	pedal/dial	Yes	Atari Games / Atari	Yes	Yes	Yes
 arcade	ASO: Armored Scrum Object	1985	aso	2	joy8way	3	No	No	none	Yes	SNK	No	No	Yes
 arcade	Ace Attacker	1988	aceattac	4	none	1	No	Yes	pedal/positional/stick	Yes	SEGA	No	No	Yes
@@ -21,7 +21,7 @@ arcade	Ace Driver: Racing Evolution	1994	acedrvrw	2	joyvertical2way	4	No	No	peda
 arcade	Acrobat Mission	1991	acrobatm	2	joy8way	3	No	No	none	Yes	UPL / Taito	No	No	Yes
 arcade	Act-Fancer Cybernetick Hyper Weapon	1989	actfancr	2	joy8way	2	No	No	none	No	Data East	Yes	Yes	Yes
 arcade	Action Fighter	1986	afighter	2	joy8way	3	No	No	none	Yes	SEGA	No	No	Yes
-arcade	Aero Fighters (World	1992	aerofgt	2	joy8way	2	No	No	none	Yes	Video System Co. / Video System	No	No	Yes
+arcade	Aero Fighters	1992	aerofgt	2	joy8way	2	No	No	none	Yes	Video System Co. / Video System	No	No	Yes
 arcade	Aero Fighters 2	1994	sonicwi2	2	joy8way	4	No	No	none	No	Video System Co. / Video System	No	Yes	Yes
 arcade	Aero Fighters 3	1995	sonicwi3	2	joy8way	4	No	No	none	No	Video System Co. / Video System	No	Yes	Yes
 arcade	Aero Fighters Special	1996	aerofgts	4	joy8way	3	No	No	none	Yes	McO'River, Inc.	No	No	Yes
@@ -38,7 +38,7 @@ arcade	Airwolf	1987	airwolf	2	joy8way	2	No	No	none	No	Kyugo	No	No	Yes
 arcade	Ajax	1987	ajax	2	joy8way	3	No	No	none	Yes	Konami	No	Yes	Yes
 arcade	Akai Katana	2010	akatana	2	unknown	unknown	unknown	unknown	unknown	No	Cave / Rising Star Games	Yes	Yes	Yes
 arcade	Alex Kidd: The Lost Stars	1986	alexkidd	2	joy8way	3	No	No	none	No	SEGA	No	No	Yes
-arcade	Alien Storm (World, 2 Players)	1990	astorm	2	joy8way	3	No	No	none	No	SEGA	Yes	Yes	Yes
+arcade	Alien Storm	1990	astorm	2	joy8way	3	No	No	none	No	SEGA	Yes	Yes	Yes
 arcade	Alien Syndrome	1987	aliensyn	2	joy8way	3	No	No	none	No	SEGA	Yes	Yes	Yes
 arcade	Alien vs. Predator	1994	avsp	3	joy8way	3	No	No	none	No	Capcom	Yes	Yes	Yes
 arcade	Alien3: The Gun	1993	alien3	2	none	2	No	No	stick	No	SEGA	No	No	Yes
@@ -46,7 +46,7 @@ arcade	Aliens	1990	aliens	2	joy8way	2	No	No	none	No	Konami	Yes	Yes	Yes
 arcade	Alligator Hunt	1994	aligator	2	joy8way	3	No	No	none	No	Gaelco	No	No	Yes
 arcade	Alpha Mission 2	1991	alpham2	2	joy8way	4	No	No	none	No	SNK	No	Yes	Yes
 arcade	Alpine Ski	1982	alpine	2	joy2way	1	No	No	none	Yes	Taito / Pacific Kougyou	Yes	Yes	Yes
-arcade	Altered Beast (set 8)	1988	altbeast	2	joy8way	3	No	No	none	No	SEGA	Yes	Yes	Yes
+arcade	Altered Beast	1988	altbeast	2	joy8way	3	No	No	none	No	SEGA	Yes	Yes	Yes
 arcade	Ambush	1983	ambush	2	joy8way	2	No	No	none	No	Tecfri	No	No	Yes
 arcade	Amidar	1982	amidar	2	joy4way	1	No	No	none	Yes	Konami	Yes	Yes	Yes
 arcade	Andro Dunos	1992	androdun	2	joy8way	4	No	No	none	No	Visco / SNK	No	No	Yes
@@ -63,7 +63,7 @@ arcade	Arkanoid	1986	arkanoid	2	none	1	No	No	dial	Yes	Taito	No	No	Yes
 arcade	Arkanoid: Revenge of DOH	1987	arknoid2	2	none	1	No	No	dial	Yes	Taito	Yes	Yes	Yes
 arcade	Arm Wrestling	1985	armwrest	1	joy3 (half4)way	1	No	No	none	No	Nintendo	No	No	Yes
 arcade	Armed F	1988	armedf	2	joy8way	3	No	No	none	Yes	Nichibutsu	No	No	Yes
-arcade	Armed Police Batrider (Europe)	1998	batrider	2	joy8way	3	No	No	none	Yes	Raizing / Eighting	Yes	Yes	Yes
+arcade	Armed Police Batrider	1998	batrider	2	joy8way	3	No	No	none	Yes	Raizing / Eighting	Yes	Yes	Yes
 arcade	Armored Warriors	1994	armwar	3	joy8way	3	No	No	none	No	Capcom	Yes	Yes	Yes
 arcade	Art of Fighting	1992	aof	2	joy8way	4	No	No	none	No	SNK	Yes	Yes	Yes
 arcade	Art of Fighting 2	1994	aof2	2	joy8way	4	No	No	none	No	SNK	No	No	Yes
@@ -81,7 +81,7 @@ arcade	Asura Buster: Eternal Warriors	2001	asurabus	2	joy8way	3	No	No	none	No	Fu
 arcade	Asylum	1991	asylum	3	joy8way	2	No	No	none	Yes	Leland Corporation	No	No	Yes
 arcade	Athena	1986	athena	2	joy8way	2	No	No	none	No	SNK	Yes	Yes	Yes
 arcade	Atomic Robo-kid	1988	robokid	2	joy8way	2	No	No	none	No	UPL	No	No	Yes
-arcade	Aurail (set 3, US)	1990	aurail	2	joy8way	3	No	No	none	No	SEGA / Westone	No	No	Yes
+arcade	Aurail	1990	aurail	2	joy8way	3	No	No	none	No	SEGA / Westone	No	No	Yes
 arcade	Avengers	1987	avengers	2	joy8way	2	No	No	none	Yes	Capcom	Yes	Yes	Yes
 arcade	Avenging Spirit	1991	avspirit	2	joy8way	2	No	No	none	No	Jaleco	No	No	Yes
 arcade	B.C. Kid	1994	bonkadv	2	joy8way	4	No	No	none	No	Kaneko / Red Company	No	Yes	Yes
@@ -99,18 +99,18 @@ arcade	Batman	1991	batman	1	joy8way	2	No	No	none	No	Atari Games / Atari	No	No	Ye
 arcade	Batman Forever	1996	batmanfr	2	joy8way	3	No	No	none	No	Acclaim	No	No	Yes
 arcade	Batsugun: Special Version	1993	batsugunsp	2	joy8way	3	No	No	none	Yes	Toaplan	Yes	Yes	Yes
 arcade	Battlantis	1987	battlnts	2	joy8way	1	No	No	none	Yes	Konami	No	No	Yes
-arcade	Battle Bakraid: Unlimited Version (USA)	1999	bbakraid	2	joy8way	3	No	No	none	Yes	Eighting	Yes	Yes	Yes
+arcade	Battle Bakraid: Unlimited Version	1999	bbakraid	2	joy8way	3	No	No	none	Yes	Eighting	Yes	Yes	Yes
 arcade	Battle Chopper	1987	bchopper	2	joy8way	4	No	No	none	No	Irem	Yes	Yes	Yes
 arcade	Battle Circuit	1997	batcir	4	joy8way	2	No	No	none	No	Capcom	Yes	Yes	Yes
 arcade	Battle Flip Shot	1998	flipshot	2	joy8way	4	No	No	none	No	Visco	No	No	Yes
-arcade	Battle Garegga (Europe	1996	bgaregga	2	joy8way	3	No	No	none	Yes	Raizing / Eighting	Yes	Yes	Yes
+arcade	Battle Garegga	1996	bgaregga	2	joy8way	3	No	No	none	Yes	Raizing / Eighting	Yes	Yes	Yes
 arcade	Battle Lane! Vol. 5	1986	battlane	2	joy8way	2	No	No	none	Yes	Technos Japan / Taito	No	No	Yes
 arcade	Battle Rangers	1988	battlera	2	joy8way	3	No	No	none	No	Data East	No	Yes	Yes
 arcade	Battle Shark	1989	bsharkjjs	1	joy8way	2	No	No	none	No	Taito	No	No	Yes
 arcade	Battle Zone	1980	bzone	1	doublejoyvertical2way	1	No	No	none	No	Atari	Yes	Yes	Yes
 arcade	Battle of Atlantis	1981	atlantis	2	joy8way	2	No	No	none	Yes	Comsoft	No	No	Yes
 arcade	Battletoads	1994	btoads	3	joy8way	2	No	No	none	No	Rare / Electronic Arts	No	Yes	Yes
-arcade	Bay Route (set 3, World)	1989	bayroute	2	joy8way	3	No	No	none	No	Sunsoft / SEGA	No	Yes	Yes
+arcade	Bay Route	1989	bayroute	2	joy8way	3	No	No	none	No	Sunsoft / SEGA	No	Yes	Yes
 arcade	Beast Busters	1989	bbusters	3	none	2	Yes	No	none	No	SNK	No	No	Yes
 arcade	Bells & Whistles	1991	blswhstl	2	joy8way	2	No	No	none	Yes	Konami	No	No	Yes
 arcade	Bermuda Triangle	1987	bermudat	2	joy8way	2	No	No	positional	Yes	SNK	No	No	Yes
@@ -150,7 +150,7 @@ arcade	Bombjack Twin	1993	bjtwin	2	joy8way	2	No	No	none	Yes	NMK / NMK Co. Ltd	No
 arcade	Bonanza Bros	1990	bnzabros	2	joy8way	3	No	No	none	No	SEGA	No	No	Yes
 arcade	Bonze Adventure	1988	bonzeadv	2	joy8way	2	No	No	none	No	Taito	No	Yes	Yes
 arcade	Boogie Wings	1992	boogwing	2	joy8way	3	No	No	none	No	Data East	Yes	Yes	Yes
-arcade	Border Down (Rev A)	2003	bdrdown	2	joy8way	6	No	No	none	No	G.Rev	No	Yes	Yes
+arcade	Border Down	2003	bdrdown	2	joy8way	6	No	No	none	No	G.Rev	No	Yes	Yes
 arcade	Bosconian: Star Destroyer	1981	bosco	2	joy8way	1	No	No	none	No	Namco	Yes	Yes	Yes
 arcade	Boulder Dash	1990	bouldash	2	joy4way	2	No	No	none	No	Data East / licensed from First Star	No	No	Yes
 arcade	Boxy Boy	1990	boxyboy	2	joy8way	3	No	No	none	No	Namco	No	No	Yes
@@ -174,7 +174,7 @@ arcade	Bullet	1987	bullet	3	doublejoy8way	0	No	No	none	No	SEGA	No	No	Yes
 arcade	Bump 'n' Jump	1982	bnj	2	joy8way	1	No	No	none	Yes	Data East	Yes	Yes	Yes
 arcade	Burger Time	1982	btime	2	joy4way	1	No	No	none	Yes	Data East	Yes	Yes	Yes
 arcade	Burning Fight	1991	burningf	2	joy8way	4	No	No	none	No	SNK	No	No	Yes
-arcade	Burning Force (Japan, new version	1989	burnforc	2	joy8way	3	No	No	none	No	Namco	No	No	Yes
+arcade	Burning Force	1989	burnforc	2	joy8way	3	No	No	none	No	Namco	No	No	Yes
 arcade	Burning Rival	1992	brival	2	joy8way	6	No	No	none	No	SEGA	No	No	Yes
 arcade	Cabal	1988	cabal	2	joy8way	3	No	No	none	No	TAD Corporation / Tad Corporation	Yes	Yes	Yes
 arcade	Cadash	1989	cadash	2	joy8way	2	No	No	none	No	Taito	Yes	Yes	Yes
@@ -208,7 +208,7 @@ arcade	Chinese Hero	1984	chinhero	2	joy4way	4	No	No	none	Yes	Taiyo System	No	No	
 arcade	Choplifter	1985	chopliftbl	2	joy8way	2	No	No	none	No	bootleg	Yes	Yes	Yes
 arcade	Chopper 1	1988	chopper	2	joy8way	2	No	No	none	Yes	SNK	No	No	Yes
 arcade	Choutetsu Brikin'ger	1996	ironclad	2	joy8way	4	No	No	none	No	Saurus / SNK	No	Yes	Yes
-arcade	Chuka Taisen (World)	1988	chukatai	2	joy8way	2	No	No	none	No	Taito	No	No	Yes
+arcade	Chuka Taisen	1988	chukatai	2	joy8way	2	No	No	none	No	Taito	No	No	Yes
 arcade	Circus Charlie	1984	circusc	2	joy2way	1	No	No	none	Yes	Konami	Yes	Yes	Yes
 arcade	Cisco Heat	1990	cischeat	1	none	4	No	No	paddle	No	Jaleco	No	No	Yes
 arcade	City Bomber	1987	citybomb	2	joy8way	3	No	No	pedal/paddle	Yes	Konami	No	No	Yes
@@ -228,7 +228,7 @@ arcade	Cosmic Alien	1979	cosmica	2	joy2way	1	No	No	none	Yes	Universal	No	Yes	Yes
 arcade	Cosmic Cop	1991	cosmccop	2	joy8way	4	No	No	none	No	Irem	No	No	Yes
 arcade	Cosmo Gang the Video	1991	cosmogng	2	joy8way	3	No	No	none	Yes	Namco	No	No	Yes
 arcade	Cosmo Police Galivan	1985	galivan	2	joy8way	3	No	No	none	Yes	Nichibutsu	No	Yes	Yes
-arcade	Cotton (set 4, World)	1991	cotton	2	joy8way	3	No	No	none	No	Success / SEGA	No	No	Yes
+arcade	Cotton	1991	cotton	2	joy8way	3	No	No	none	No	Success / SEGA	No	No	Yes
 arcade	Cotton 2	1997	cotton2	4	joy8way	4	No	No	none	No	Success	Yes	Yes	Yes
 arcade	Cotton Boomerang	1998	cottonbm	4	joy8way	4	No	No	none	No	Success	No	No	Yes
 arcade	Crack Down	1989	crkdown	2	joy8way	3	No	No	none	No	SEGA	No	Yes	Yes
@@ -254,15 +254,15 @@ arcade	Cyber-Lip	1990	cyberlip	2	joy8way	4	No	No	none	No	SNK	Yes	Yes	Yes
 arcade	Cyberball 2072	1989	cyberbal2p	2	joy8way	1	No	No	none	No	Atari Games	No	No	Yes
 arcade	Cyberbots: Fullmetal Madness	1995	cybots	2	joy8way	4	No	No	none	No	Capcom	No	Yes	Yes
 arcade	Cyvern: The Dragon Weapons	1998	cyvern	2	joy8way	2	No	No	none	Yes	Kaneko	Yes	Yes	Yes
-arcade	D. D. Crew (World, 3 Players)	1991	ddcrew	3	joy8way	3	No	No	none	No	SEGA	No	No	Yes
+arcade	D. D. Crew	1991	ddcrew	3	joy8way	3	No	No	none	No	SEGA	No	No	Yes
 arcade	DJ Boy	1989	djboy	2	joy8way	3	No	No	none	No	Kaneko	Yes	Yes	Yes
 arcade	Daioh	1993	daioh	2	joy8way	6	No	No	none	Yes	Athena	No	Yes	Yes
 arcade	Dangerous Seed	1989	dangseed	2	joy8way	3	No	No	none	Yes	Namco	No	No	Yes
 arcade	Danny Sullivan's Indy Heat	1991	indyheat	3	none	2	No	No	pedal/dial	No	Leland Corporation	No	No	Yes
 arcade	Darius	1986	darius	2	joy8way	2	No	No	none	No	Taito	No	No	Yes
+arcade	Darius 2	1989	darius2do	2	joy8way	2	No	No	none	No	Taito	No	Yes	Yes
+arcade	Darius 2	1989	darius2	2	joy8way	2	No	No	none	No	Taito	No	No	Yes
 arcade	Darius Gaiden: Silver Hawk	1994	dariusg	4	joy8way	4	No	No	dial	No	Taito	No	No	Yes
-arcade	Darius II (dual screen)	1989	darius2do	2	joy8way	2	No	No	none	No	Taito	No	Yes	Yes
-arcade	Darius II (triple screen)	1989	darius2	2	joy8way	2	No	No	none	No	Taito	No	No	Yes
 arcade	Dark Edge	1992	darkedge	2	joy8way	5	No	No	none	No	SEGA	No	No	Yes
 arcade	Dark Seal	1990	darkseal	2	joy8way	2	No	No	none	No	Data East	Yes	Yes	Yes
 arcade	Darkstalkers: The Night Warriors	1994	dstlk	2	joy8way	6	No	No	none	No	Capcom	Yes	Yes	Yes
@@ -278,7 +278,7 @@ arcade	Demon Front	2002	dmnfrnt	4	joy8way	4	No	No	none	No	IGS	Yes	Yes	Yes
 arcade	Demon's World	1990	demonwld	2	joy8way	3	No	No	none	No	Toaplan	No	No	Yes
 arcade	Denjin Makai	1994	denjinmk	4	joy8way	3	No	No	none	No	Winkysoft / Banpresto license	No	No	Yes
 arcade	Desert Assault	1991	dassault	4	joy8way	2	No	No	none	No	Data East	No	Yes	Yes
-arcade	Desert Breaker (World)	1992	desertbr	3	joy8way	3	No	No	none	Yes	SEGA	Yes	Yes	Yes
+arcade	Desert Breaker	1992	desertbr	3	joy8way	3	No	No	none	Yes	SEGA	Yes	Yes	Yes
 arcade	Desert War	1995	desertwr	2	joy8way	5	No	No	none	Yes	Jaleco	No	No	Yes
 arcade	Devastators	1988	devstors	2	joy8way	2	No	No	none	Yes	Konami	Yes	Yes	Yes
 arcade	Devil World	1987	devilw	2	joy8way	3	No	No	none	No	Konami	No	Yes	Yes
@@ -323,7 +323,7 @@ arcade	Dragon Breed	1989	dbreed	2	joy8way	4	No	No	none	No	Irem	Yes	Yes	Yes
 arcade	Dragon Buster	1984	drgnbstr	2	joy4way	2	No	No	none	No	Namco	No	No	Yes
 arcade	Dragon Gun	1993	dragngun	2	none	2	Yes	No	none	No	Data East	No	No	Yes
 arcade	Dragon Saber	1990	dsaber	2	joy8way	3	No	No	none	Yes	Namco	No	No	Yes
-arcade	Dragon Spirit (new version	1987	dspirit	2	joy8way	3	No	No	none	Yes	Namco	No	No	Yes
+arcade	Dragon Spirit	1987	dspirit	2	joy8way	3	No	No	none	Yes	Namco	No	No	Yes
 arcade	Dragon Unit	1989	drgnunit	2	joy8way	3	No	No	none	No	Athena / Seta	No	No	Yes
 arcade	Dragon's Lair	1983	dlair	1	joy8way	1	No	No	none	No	Cinematronics	No	Yes	Yes
 arcade	Dragoon Might	1995	dragoona	2	joy8way	6	No	No	none	No	Konami	No	No	Yes
@@ -335,9 +335,9 @@ arcade	Dunk Shot	1987	dunkshot	4	none	2	No	Yes	none	No	SEGA	No	No	Yes
 arcade	Dyger	1989	dyger	1	joy8way	3	No	No	none	Yes	Philko	No	No	Yes
 arcade	Dyna Gear	1993	dynagear	2	joy8way	3	No	No	none	No	Sammy	No	Yes	Yes
 arcade	Dynamite Duke	1989	dynduke	2	joy8way	3	No	No	none	No	Seibu Kaihatsu	Yes	Yes	Yes
-arcade	Dynamite Dux (set 3, World)	1988	ddux	2	joy8way	3	No	No	none	No	SEGA	No	No	Yes
+arcade	Dynamite Dux	1988	ddux	2	joy8way	3	No	No	none	No	SEGA	No	No	Yes
 arcade	Dynasty Wars	1989	dynwar	2	joy8way	3	No	No	none	No	Capcom	Yes	Yes	Yes
-arcade	E-Swat: Cyber Police (set 4, World)	1989	eswat	2	joy8way	3	No	No	none	No	SEGA	Yes	Yes	Yes
+arcade	E-Swat: Cyber Police	1989	eswat	2	joy8way	3	No	No	none	No	SEGA	Yes	Yes	Yes
 arcade	E.D.F.: Earth Defense Force	1991	edf	2	joy8way	2	No	No	none	No	Jaleco	No	No	Yes
 arcade	ESP Ra.De.	1998	esprade	2	joy8way	3	No	No	none	Yes	Cave / Atlus license	Yes	Yes	Yes
 arcade	Eco Fighters	1993	ecofghtr	2	joy8way	3	No	No	dial	No	Capcom	Yes	Yes	Yes
@@ -366,7 +366,7 @@ arcade	Exzisus	1987	exzisus	2	joy8way	2	No	No	none	No	Taito	No	No	Yes
 arcade	Eyes	1982	eyes	2	joy4way	1	No	No	none	Yes	Techstar / Rock-Ola license	No	No	Yes
 arcade	F-1 Grand Prix	1991	f1gp	1	joy2way	2	No	No	stick	Yes	Video System Co.	No	No	Yes
 arcade	F1 Exhaust Note	1991	f1en	2	none	2	No	No	pedal/paddle	No	SEGA	No	No	Yes
-arcade	Fallen Angels (World), The	1998	daraku	2	joy8way	4	No	No	none	No	Psikyo / Steel Hearts	No	No	Yes
+arcade	Fallen Angels, The	1998	daraku	2	joy8way	4	No	No	none	No	Psikyo / Steel Hearts	No	No	Yes
 arcade	Fantastic Journey	1994	fantjour	4	joy8way	3	No	No	none	No	Konami	No	Yes	Yes
 arcade	Fantasy	1981	fantasyu	2	joy8way	0	No	No	none	Yes	SNK / Rock-Ola license	No	No	Yes
 arcade	Fantasy Zone	1986	fantzone	2	joy8way	3	No	No	none	No	SEGA	No	Yes	Yes
@@ -407,7 +407,7 @@ arcade	G-Darius Ver.2	1997	gdarius2	4	joy8way	3	No	No	none	No	Taito	No	No	Yes
 arcade	G-LOC Air Battle	1990	gloc	1	none	3	No	No	stick	No	SEGA	No	No	Yes
 arcade	G-Stream G2020	2002	gstream	2	joy8way	4	No	No	none	Yes	Oriental Soft Japan	No	No	Yes
 arcade	G.I. Joe	1992	gijoe	4	joy8way	3	No	No	none	No	Konami	Yes	Yes	Yes
-arcade	GP Rider (World, FD1094 317-0163)	1990	gprider	2	none	2	No	No	pedal/paddle	No	SEGA	No	No	Yes
+arcade	GP Rider	1990	gprider	2	none	2	No	No	pedal/paddle	No	SEGA	No	No	Yes
 arcade	Gaia Crusaders	1999	gaia	2	joy8way	4	No	No	none	No	Noise Factory	No	No	Yes
 arcade	Gaia: The Last Choice of Earth	1999	gaialast	2	joy8way	3	No	No	none	No	SemiCom / XESS	No	No	Yes
 arcade	Gaiapolis	1993	gaiapols	4	joy8way	3	No	No	none	Yes	Konami	No	No	Yes
@@ -442,7 +442,7 @@ arcade	Gigandes	1989	gigandes	2	joy8way	2	No	No	none	No	East Technology	No	No	Ye
 arcade	Gladiator	1986	gladiatr	2	joy8way	3	No	No	none	No	Allumer / Taito	Yes	Yes	Yes
 arcade	Gladiator, The	2003	theglad	4	joy8way	4	No	No	none	No	IGS	Yes	Yes	Yes
 arcade	Gogetsuji Legends	1995	plegends	2	joy8way	4	No	No	none	No	Atlus	No	No	Yes
-arcade	Golden Axe (set 6, US)	1989	goldnaxe	2	joy8way	3	No	No	none	No	SEGA	Yes	Yes	Yes
+arcade	Golden Axe	1989	goldnaxe	2	joy8way	3	No	No	none	No	SEGA	Yes	Yes	Yes
 arcade	Golden Axe: The Duel	1994	gaxeduel	2	joy8way	6	No	No	none	No	SEGA	No	No	Yes
 arcade	Golden Axe: The Revenge of Death Adder	1992	ga2	4	joy8way	3	No	No	none	No	SEGA	Yes	Yes	Yes
 arcade	Golden Tee '99	1999	gt99	2	none	2	No	Yes	none	No	Incredible Technologies	No	Yes	Yes
@@ -586,7 +586,7 @@ arcade	Kyros	1987	kyros	2	joy8way	2	No	No	none	Yes	Alpha Denshi Co. / World Game
 arcade	Lady Bug	1981	ladybug	2	joy4way	0	No	No	none	Yes	Universal	Yes	Yes	Yes
 arcade	Land Maker	1998	landmakr	4	joy8way	4	No	No	dial	No	Taito	No	No	Yes
 arcade	Land Sea Air Squad	1986	lsasquad	2	joy8way	2	No	No	none	Yes	Taito	No	No	Yes
-arcade	Laser Ghost (World)	1990	lghost	3	none	2	Yes	No	none	No	SEGA	No	No	Yes
+arcade	Laser Ghost	1990	lghost	3	none	2	Yes	No	none	No	SEGA	No	No	Yes
 arcade	Last Blade 2, The	1998	lastbld2	2	joy8way	4	No	No	none	No	SNK	Yes	Yes	Yes
 arcade	Last Blade, The	1997	lastblad	2	joy8way	4	No	No	none	No	SNK	No	Yes	Yes
 arcade	Last Duel	1988	lastduel	2	joy8way	2	No	No	none	Yes	Capcom	Yes	Yes	Yes
@@ -656,7 +656,7 @@ arcade	Mega Zone	1983	megazone	2	joy8way	1	No	No	none	Yes	Konami	No	No	Yes
 arcade	Meikyu Jima	1988	kikcubic	2	joy4way	2	No	No	none	No	Irem	No	No	Yes
 arcade	Mercs	1990	mercs	3	joy8way	2	No	No	none	Yes	Capcom	Yes	Yes	Yes
 arcade	Metal Hawk	1988	metlhawk	2	none	2	No	No	stick	Yes	Namco	No	No	Yes
-arcade	Metal Slug 2 Turbo (NGM-9410)	2015	mslug2t	2	joy8way	4	No	No	none	No	hack / trap15	No	Yes	Yes
+arcade	Metal Slug 2 Turbo	2015	mslug2t	2	joy8way	4	No	No	none	No	hack / trap15	No	Yes	Yes
 arcade	Metal Slug 3	2000	mslug3	2	joy8way	4	No	No	none	No	SNK	Yes	Yes	Yes
 arcade	Metal Slug 4	2002	mslug4	2	joy8way	4	No	No	none	No	Mega / Noise Factory	Yes	Yes	Yes
 arcade	Metal Slug 5	2003	mslug5	2	joy8way	4	No	No	none	No	SNK Playmore / SNK	Yes	Yes	Yes
@@ -665,7 +665,7 @@ arcade	Metal Slug: Super Vehicle-001	1996	mslug	2	joy8way	4	No	No	none	No	Nazca 
 arcade	Metamoqester	1995	metmqstr	2	joy8way	4	No	No	none	No	Banpresto / Pandorabox	No	No	Yes
 arcade	Metamorphic Force	1993	metamrph	4	joy8way	3	No	No	none	No	Konami	No	No	Yes
 arcade	Metro-Cross	1985	metrocrs	2	joy8way	1	No	No	none	No	Namco	Yes	No	Yes
-arcade	Michael Jackson's Moonwalker (World)	1990	mwalk	3	joy8way	3	No	No	none	No	SEGA	Yes	Yes	Yes
+arcade	Michael Jackson's Moonwalker	1990	mwalk	3	joy8way	3	No	No	none	No	SEGA	Yes	Yes	Yes
 arcade	Midnight Resistance	1989	midres	2	joy8way	2	No	No	positional	No	Data East	Yes	Yes	Yes
 arcade	Mighty! Pang	2000	mpang	2	joy8way	1	No	No	none	No	Mitchell / Capcom	No	Yes	Yes
 arcade	Mikie	1984	mikie	2	joy4way	2	No	No	none	Yes	Konami	Yes	Yes	Yes
@@ -720,7 +720,7 @@ arcade	Neo Mr. Do!	1996	neomrdo	2	joy8way	4	No	No	none	No	Visco	No	No	Yes
 arcade	Neo Turf Masters	1996	turfmast	2	joy8way	4	No	No	none	No	Nazca / Nazca Corporation	No	Yes	Yes
 arcade	New Rally X	1981	nrallyx	2	joy4way	1	No	No	none	No	Namco	No	No	Yes
 arcade	New Zero Team	1997	nzeroteam	2	joy8way	3	No	No	none	No	Seibu Kaihatsu	No	Yes	Yes
-arcade	NewZealand Story (World, new version), The	1988	tnzs	2	joy8way	2	No	No	none	No	Taito	Yes	Yes	Yes
+arcade	NewZealand Story, The	1988	tnzs	2	joy8way	2	No	No	none	No	Taito	Yes	Yes	Yes
 arcade	Nibbler	1982	nibbler	2	joy4way	0	No	No	none	Yes	Rock-Ola	No	No	Yes
 arcade	Night Slashers	1994	nslashers	3	joy8way	3	No	No	none	No	Data East	Yes	Yes	Yes
 arcade	Night Striker	1989	nightstr	1	joy8way	2	No	No	stick	No	Taito	No	No	Yes
@@ -765,7 +765,7 @@ arcade	Pang	1989	pang	2	joy4way	2	No	No	none	No	Mitchell	No	No	Yes
 arcade	Panic Street	1999	panicstr	2	joy8way	1	No	No	none	No	Kaneko	No	No	Yes
 arcade	Paperboy	1984	paperboy	1	none	2	No	No	stick	No	Atari Games / Atari	Yes	Yes	Yes
 arcade	Parodius DA!	1990	parodius	2	joy8way	3	No	No	none	No	Konami	No	Yes	Yes
-arcade	Passing Shot (World, 2 Players)	1988	passsht	2	joy8way	4	No	No	none	Yes	SEGA	No	No	Yes
+arcade	Passing Shot	1988	passsht	2	joy8way	4	No	No	none	Yes	SEGA	No	No	Yes
 arcade	Pengo	1982	pengo	2	joy4way	1	No	No	none	Yes	SEGA	Yes	Yes	Yes
 arcade	Peter Pack Rat	1984	peterpak	1	joy8way	2	No	No	none	No	Atari Games	No	Yes	Yes
 arcade	Phelios	1988	phelios	2	joy8way	3	No	No	none	Yes	Namco	No	No	Yes
@@ -946,7 +946,7 @@ arcade	Shadow Dancer	1989	shdancer	2	joy8way	3	No	No	none	No	SEGA	Yes	Yes	Yes
 arcade	Shadow Force	1993	shadfrce	2	joy8way	6	No	No	none	No	Technos Japan / Technos Japan Corp.	Yes	Yes	Yes
 arcade	Shadowland	1987	shadowld	2	joy8way	3	No	No	none	No	Namco	No	No	Yes
 arcade	Shienryu	1997	shienryu	4	joy8way	4	No	No	none	Yes	Warashi	No	No	Yes
-arcade	Shinobi (set 6, System 16A)	1987	shinobi	2	joy8way	3	No	No	none	No	SEGA	Yes	Yes	Yes
+arcade	Shinobi	1987	shinobi	2	joy8way	3	No	No	none	No	SEGA	Yes	Yes	Yes
 arcade	Shock Troopers	1997	shocktro	2	joy8way	4	No	No	none	No	Saurus / SNK	No	Yes	Yes
 arcade	Shock Troopers: 2nd Squad	1998	shocktr2	2	joy8way	4	No	No	none	No	Saurus / SNK	Yes	Yes	Yes
 arcade	Side Arms: Hyper Dyne	1986	sidearms	2	joy8way	3	No	No	none	No	Capcom	Yes	Yes	Yes
@@ -999,7 +999,7 @@ arcade	Spider-Man: The Videogame	1991	spidman	4	joy8way	2	No	No	none	No	SEGA	Yes
 arcade	Spiders	1981	spiders	2	joy2way	1	No	No	none	Yes	Sigma Enterprises Inc.	No	No	Yes
 arcade	Spin Master	1993	spinmast	2	joy8way	4	No	No	none	No	Data East	No	Yes	Yes
 arcade	Spinal Breakers	1990	spinlbrk	2	joy8way	3	No	No	none	No	V-System Co.	No	No	Yes
-arcade	Splatter House (World, new version	1988	splatter	2	joy8way	3	No	No	none	No	Namco	Yes	Yes	Yes
+arcade	Splatter House	1988	splatter	2	joy8way	3	No	No	none	No	Namco	Yes	Yes	Yes
 arcade	Sprint 2	1976	sprint2	2	none	6	No	No	dial	No	Atari / Kee Games	No	No	Yes
 arcade	Spy Hunter	1983	spyhunt	1	none	5	No	No	pedal/paddle	Yes	Bally Midway	Yes	Yes	Yes
 arcade	Stadium Cross	1992	scross	2	joy8way	3	No	No	pedal/paddle	No	SEGA	No	No	Yes
@@ -1036,7 +1036,7 @@ arcade	Strike Force	1991	strkforc	2	joy8way	3	No	No	none	No	Midway	No	Yes	Yes
 arcade	Strike Gunner S.T.G	1991	stg	2	joy8way	3	No	No	none	Yes	Athena / Tecmo	No	No	Yes
 arcade	Strikers 1945	1995	s1945	2	joy8way	3	No	No	none	Yes	Psikyo	No	No	Yes
 arcade	Strikers 1945 2	1997	s1945ii	2	joy8way	2	No	No	none	Yes	Psikyo	Yes	Yes	Yes
-arcade	Strikers 1945 III (World)	1999	s1945iii	2	joy8way	3	No	No	none	Yes	Psikyo	Yes	Yes	Yes
+arcade	Strikers 1945 3	1999	s1945iii	2	joy8way	3	No	No	none	Yes	Psikyo	Yes	Yes	Yes
 arcade	Strikers 1945 Plus	1999	s1945p	2	joy8way	4	No	No	none	No	Psikyo	No	No	Yes
 arcade	Subroc-3D	1982	subroc3d	1	joy8way	1	No	No	none	No	SEGA	No	No	Yes
 arcade	Sunset Riders	1991	ssriders	4	joy8way	2	No	No	none	No	Konami	No	No	Yes
@@ -1049,9 +1049,9 @@ arcade	Super Contra	1988	scontra	2	joy8way	2	No	No	none	Yes	Konami	Yes	Yes	Yes
 arcade	Super Dodge Ball	1996	sdodgeb	2	joy8way	4	No	No	none	No	Technos Japan / Tecmo	No	No	Yes
 arcade	Super Dodge Ball	1987	spdodgeb	2	joy8way	2	No	No	none	No	Technos Japan	No	No	Yes
 arcade	Super Gem Fighter Mini Mix	1997	sgemf	2	joy8way	3	No	No	none	No	Capcom	Yes	Yes	Yes
-arcade	Super Hang-On (sitdown/upright)	1987	shangon	1	none	1	No	No	pedal/paddle	No	SEGA / bootleg	Yes	Yes	Yes
+arcade	Super Hang-On	1987	shangon	1	none	1	No	No	pedal/paddle	No	SEGA / bootleg	Yes	Yes	Yes
 arcade	Super High Impact	1991	shimpact	4	joy8way	1	No	No	none	No	Midway	No	No	Yes
-arcade	Super Monaco GP (World, Rev B)	1989	smgp	1	none	2	No	No	pedal/paddle	No	SEGA	Yes	Yes	Yes
+arcade	Super Monaco GP	1989	smgp	1	none	2	No	No	pedal/paddle	No	SEGA	Yes	Yes	Yes
 arcade	Super Pac-Man	1982	superpac	2	joy4way	1	No	No	none	Yes	Namco	No	No	Yes
 arcade	Super Pang	1990	spang	2	joy4way	2	No	No	none	No	Mitchell / Capcom	Yes	Yes	Yes
 arcade	Super Punch-Out!!	1984	spnchout	1	joy4way	4	No	No	none	No	Nintendo	Yes	Yes	Yes
@@ -1107,7 +1107,7 @@ arcade	Tetris	1988	atetris	2	joy3 (half4)way	1	No	No	none	No	Atari Games / bootl
 arcade	Tetris The Absolute: The Grand Master 2 Plus	2000	tgm2p	2	joy4way	3	No	No	none	No	Arika	No	Yes	Yes
 arcade	Thrash Rally	1991	trally	2	joy8way	4	No	No	none	No	Alpha Denshi Co.	No	No	Yes
 arcade	Three Wonders	1991	3wonders	2	joy8way	3	No	No	none	No	Capcom	Yes	Yes	Yes
-arcade	Thunder Blade (upright)	1987	thndrbld	1	none	2	No	No	stick	No	SEGA	Yes	Yes	Yes
+arcade	Thunder Blade	1987	thndrbld	1	none	2	No	No	stick	No	SEGA	Yes	Yes	Yes
 arcade	Thunder Cross	1988	thunderx	2	joy8way	2	No	No	none	No	Konami	No	No	Yes
 arcade	Thunder Cross 2	1991	thndrx2	2	joy8way	2	No	No	none	No	Konami	No	No	Yes
 arcade	Thunder Dragon	1991	tdragon	2	joy8way	2	No	No	none	Yes	NMK / Tecmo license	No	No	Yes
@@ -1133,10 +1133,10 @@ arcade	Toki no Senshi: Chrono Soldier	1987	tokisens	2	joy8way	2	No	No	none	Yes	S
 arcade	Tokio	1986	tokio	2	joy8way	2	No	No	none	Yes	Taito / Romstar Incorporated	Yes	Yes	Yes
 arcade	Toobin'	1988	toobin	2	none	5	No	No	none	Yes	Atari Games / Atari	Yes	Yes	Yes
 arcade	Top Hunter: Roddy & Cathy	1994	tophuntr	2	joy8way	4	No	No	none	No	SNK	No	No	Yes
-arcade	Top Ranking Stars (Ver 2.1O 1993/05/21)	1993	trstar	4	joy8way	4	No	No	dial	No	Taito	No	No	Yes
+arcade	Top Ranking Stars	1993	trstar	4	joy8way	4	No	No	dial	No	Taito	No	No	Yes
 arcade	Top Speed	1987	topspeed	1	none	4	No	No	pedal/paddle/dial	No	Taito	No	No	Yes
 arcade	Total Carnage	1992	totcarn	2	doublejoy8way	0	No	No	none	No	Midway	Yes	Yes	Yes
-arcade	Tough Turf (set 2, Japan)	1989	tturf	2	joy8way	3	No	No	none	No	SEGA / Sunsoft	No	No	Yes
+arcade	Tough Turf	1989	tturf	2	joy8way	3	No	No	none	No	SEGA / Sunsoft	No	No	Yes
 arcade	Tower of Druaga, The	1984	todruaga	2	joy4way	1	No	No	none	Yes	Namco	No	No	Yes
 arcade	Track & Field	1983	trackfld	4	none	3	No	No	none	No	Konami	Yes	Yes	Yes
 arcade	Transformer	1986	transfrm	1	joy8way	2	No	No	none	No	SEGA	No	No	Yes
@@ -1152,7 +1152,7 @@ arcade	Tube Panic	1984	tubep	2	joy8way	1	No	No	none	No	Nichibutsu / Fujitek	No	N
 arcade	Tumble Pop	1991	tumblep	2	joy8way	2	No	No	none	No	Data East	No	No	Yes
 arcade	Turbo	1981	turbo	1	none	3	No	No	dial	Yes	SEGA	No	No	Yes
 arcade	Turbo Force	1991	turbofrc	3	joy8way	1	No	No	none	Yes	Video System Co.	No	No	Yes
-arcade	Turbo Out Run (cockpit)	1989	toutrun3	1	none	2	No	No	pedal/paddle	No	SEGA	No	Yes	Yes
+arcade	Turbo Out Run	1989	toutrun3	1	none	2	No	No	pedal/paddle	No	SEGA	No	Yes	Yes
 arcade	Turkey Shoot	1984	tshoot	1	none	3	No	No	stick	No	Williams	No	No	Yes
 arcade	Turtle Ship	1988	turtship	2	joy8way	3	No	No	none	No	Philko / Sharp Image license	No	No	Yes
 arcade	Tutankham	1982	tutankhm	2	doublejoy2way	2	No	No	none	Yes	Konami	Yes	Yes	Yes
@@ -1173,7 +1173,7 @@ arcade	Ufo Robo Dangar	1986	dangar	2	joy8way	3	No	No	none	Yes	Nichibutsu	No	No	Y
 arcade	Ultimate 11, The: The SNK Football Championship	1996	ssideki4	2	joy8way	4	No	No	none	No	SNK	No	No	Yes
 arcade	Ultimate Mortal Kombat 3	1994	umk3	2	joy8way	6	No	No	none	No	Midway	Yes	Yes	Yes
 arcade	Ultra X Weapons	1995	ultrax	2	joy8way	3	No	No	none	Yes	Banpresto / Tsuburaya Productions	No	Yes	Yes
-arcade	Under Defeat (Japan)	2005	undefeat	2	joy8way	6	No	No	none	Yes	G.Rev	No	Yes	Yes
+arcade	Under Defeat	2005	undefeat	2	joy8way	6	No	No	none	Yes	G.Rev	No	Yes	Yes
 arcade	Undercover Cops	1992	uccops	3	joy8way	2	No	No	none	No	Irem	No	Yes	Yes
 arcade	UniWar S	1980	uniwars	2	joy2way	1	No	No	none	Yes	Irem	No	No	Yes
 arcade	Up'n Down	1983	upndown	2	joy8way	1	No	No	none	Yes	SEGA	Yes	Yes	Yes
@@ -1225,7 +1225,7 @@ arcade	Wing Force	1993	wingforc	2	joy8way	2	No	No	none	Yes	A.I / Atlus license	N
 arcade	Wizard Fire	1992	wizdfire	2	joy8way	2	No	No	none	No	Data East	Yes	Yes	Yes
 arcade	Wizard of Wor	1980	wow	2	joy8way	2	No	No	none	No	Dave Nutting Associates / Midway	Yes	No	Yes
 arcade	Wonder Boy	1986	wboy	2	joy2way	2	No	No	none	No	Escape / SEGA	Yes	Yes	Yes
-arcade	Wonder Boy 3: Monster Lair (set 6, World, System 16B)	1988	wb3	2	joy8way	3	No	No	none	No	SEGA / Westone	No	Yes	Yes
+arcade	Wonder Boy 3: Monster Lair	1988	wb3	2	joy8way	3	No	No	none	No	SEGA / Westone	No	Yes	Yes
 arcade	Wonder Boy in Monster Land	2009	wbmlvcd	2	joy8way	2	No	No	none	No	bootleg / mpatou	Yes	Yes	Yes
 arcade	Wonder Planet	1987	wndrplnt	2	joy8way	2	No	No	none	Yes	Data East	No	No	Yes
 arcade	World Class Bowling Deluxe	1999	wcbowldx	2	none	2	No	Yes	none	No	Incredible Technologies	No	No	Yes
@@ -1236,7 +1236,7 @@ arcade	World Heroes Perfect	1995	whp	2	joy8way	4	No	No	none	No	ADK / SNK	Yes	Yes
 arcade	World Rally	1993	wrally	2	joy8way	2	No	No	paddle/dial	No	Gaelco	Yes	Yes	Yes
 arcade	World Rally 2: Twin Racing	1995	wrally2	2	joy8way	2	No	No	paddle	No	Gaelco	No	No	Yes
 arcade	World Wars	1987	worldwar	2	joy8way	2	No	No	positional	Yes	SNK	No	No	Yes
-arcade	Wrestle War (set 3, World)	1989	wrestwar	2	joy8way	3	No	No	none	Yes	SEGA	No	No	Yes
+arcade	Wrestle War	1989	wrestwar	2	joy8way	3	No	No	none	Yes	SEGA	No	No	Yes
 arcade	Wyvern F-0	1985	wyvernf0	2	joy8way	3	No	No	none	Yes	Taito	No	No	Yes
 arcade	X Multiply	1989	xmultipl	2	joy8way	4	No	No	none	No	Irem	Yes	Yes	Yes
 arcade	X-Men	1992	xmen	4	joy8way	3	No	No	none	No	Konami	Yes	Yes	Yes

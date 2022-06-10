@@ -13,7 +13,9 @@ public class A2_RunConsoleRickDangerousUltimateGameListLoad extends GameListEnri
             load(GameSource.RICKDANGEROUS_ULTIMATE, true, false, Constant.GameSystem.CONSOLE.toArray(new String[Constant.GameSystem.CONSOLE.size()]));
 
         } finally {
-            MongoConnectionHelper.INSTANCE.close();
+            if (args.length == 0) {
+                MongoConnectionHelper.INSTANCE.close();
+            }
         }
     }
 }
