@@ -77,8 +77,11 @@ public class Constant {
     public static class CoinOpsVersion {
         public final static String PLAYER_LEGENDS_2 = "playerlegends2";
         public final static String RETRO_ARCADE_2_ELITES = "retroarcade2elites";
+
+        public final static String PI4_LEGENDS_V3 = "pi4legendsv3";
+
         public final static String OTHER = "other";
 
-        public final static List<String> ALL = Lists.newArrayList(PLAYER_LEGENDS_2, RETRO_ARCADE_2_ELITES, OTHER);
+        public final static List<String> ALL = Lists.newArrayList(PI4_LEGENDS_V3, PLAYER_LEGENDS_2, RETRO_ARCADE_2_ELITES, OTHER);
     }
 }

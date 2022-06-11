@@ -34,7 +34,7 @@ public class GenerateCoinOpsGameListFromDB {
         Files.writeString(filePath,
                 "System" + seperator + "Name" + seperator + "Year" + seperator + "ROM" + seperator + "Players" + seperator +
                         "Joystick" + seperator + "Buttons" + seperator + "LightGun" + seperator + "TrackBall" + seperator + "Other Input"
-                        + seperator + "Vertical" + seperator + "Manufacturers" + seperator + "Player Legends 2" + seperator + "Retro Arcade 2 Elites" + seperator + "Other CoinOps\n",
+                        + seperator + "Vertical" + seperator + "Manufacturers" + seperator + "Pi4 Legends v3" + seperator + "Player Legends 2" + seperator + "Retro Arcade 2 Elites" + seperator + "Other CoinOps\n",
                 StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
 
         for (Game game : games) {
@@ -53,8 +53,8 @@ public class GenerateCoinOpsGameListFromDB {
                             + (game.inputs != null ? (getOtherInputString(game.inputs, "joy", "doublejoy", "only_buttons", "lightgun", "trackball")) : "unknown")
                             + seperator + (game.isVeritcal != null && game.isVeritcal ? "Yes" : "No") + seperator
                             + (StringUtils.equals(game.developer, game.publisher) ? game.developer
-                            : game.developer + " / " + game.publisher)
-                            + seperator + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PLAYER_LEGENDS_2) ? "Yes" : "No") + seperator
+                            : game.developer + " / " + game.publisher) + seperator + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PI4_LEGENDS_V3) ? "Yes" : "No") +
+                            seperator + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PLAYER_LEGENDS_2) ? "Yes" : "No") + seperator
                             + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.RETRO_ARCADE_2_ELITES) ? "Yes" : "No") + seperator + "Yes" + "\n",
                     StandardOpenOption.APPEND);
         }

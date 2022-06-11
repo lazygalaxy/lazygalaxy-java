@@ -29,16 +29,14 @@ public class A3_RunArcadeCoinOpsRomLoad {
         try {
             GameMerge merge = new GameMerge();
 
-            // Player 2 Legends
-            new RomSetLoad(GameSystem.ARCADE, CoinOpsVersion.PLAYER_LEGENDS_2)
-                    .load("list/coinops/playerlegends2/arcade_roms.ls", 0, merge);
-            LOGGER.info("Player 2 Legends arcade rom list completed!");
-
-            // Retro Aracde 2 Elites
-            new RomSetLoad(GameSystem.ARCADE, CoinOpsVersion.RETRO_ARCADE_2_ELITES)
-                    .load("list/coinops/retroarcade2elites/arcade_roms.ls", 0, merge);
-            LOGGER.info("Retro Arcade 2 Elites arcade rom list completed!");
-
+            for (String coinopsVersion : CoinOpsVersion.ALL) {
+                if (!StringUtils.equals(coinopsVersion, CoinOpsVersion.OTHER)) {
+                    new RomSetLoad(GameSystem.ARCADE, coinopsVersion)
+                            .load("list/coinops/" + coinopsVersion + "/arcade_roms.ls", 0, merge);
+                    LOGGER.info(coinopsVersion + " arcade rom list completed!");
+                }
+            }
+            
             //Other
             new OtherLoad(GameSystem.ARCADE, CoinOpsVersion.OTHER)
                     .load("list/coinops/other.csv", 0, merge);

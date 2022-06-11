@@ -4,7 +4,7 @@ import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.XMLLoad;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.engine.util.XMLUtil;
-import com.lazygalaxy.game.Constant.Control;
+import com.lazygalaxy.game.Constant;
 import com.lazygalaxy.game.Constant.GameSystem;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
@@ -27,9 +27,12 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
         try {
             GameMerge merge = new GameMerge();
 
-            // enrich the exiting roms with information from the latest mameatabase
             new MameGameInfoLoad().load("source/mame/mame240.xml", "machine", merge);
-            LOGGER.info("mame enrich game completed!");
+            LOGGER.info("latest mame enrich game completed!");
+            new MameGameInfoLoad().load("source/mame/mame2010.xml", "game", merge);
+            LOGGER.info("mame2010 enrich game completed!");
+            new MameGameInfoLoad().load("source/mame/mame2003.xml", "game", merge);
+            LOGGER.info("mame2003 enrich game completed!");
         } finally {
             if (args.length == 0) {
                 MongoConnectionHelper.INSTANCE.close();
@@ -77,7 +80,7 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
             String gameId = XMLUtil.getAttributeAsString(element, "name");
             Set<String> inputs = XMLUtil.getTagAttributeAsStringSet(element, "control", "type");
 
-            if (isMechanical || StringUtils.contains(gameId, "_") || (inputs != null && Control.isExcluded(inputs))) {
+            if ((isMechanical != null && isMechanical) || StringUtils.contains(gameId, "_") || (inputs != null && Constant.Control.isExcluded(inputs))) {
                 return null;
             }
 
@@ -133,20 +136,45 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
 
         private List<Game> process(Game game, Element element, Boolean isGuess, String gameId) throws Exception {
             List<Game> allGamesToReturn = new ArrayList<Game>();
+            if (game.mameGameInfo != null) {
+                return allGamesToReturn;
+            }
             allGamesToReturn.add(game);
 
             String originalName = XMLUtil.getTagAsString(element, "description", 0);
             String year = XMLUtil.getTagAsString(element, "year", 0);
             String players = XMLUtil.getTagAttributeAsString(element, "input", "players", 0);
             String manufacturer = XMLUtil.getTagAsString(element, "manufacturer", 0);
-            Integer rotate = XMLUtil.getTagAttributeAsInteger(element, "display", "rotate", 0);
-            Boolean isVertical = false;
-            if (rotate != null && (rotate == 90 || rotate == 270)) {
+            String rotate = XMLUtil.getTagAttributeAsString(element, "display", "rotate", 0);
+            if (rotate == null) {
+                rotate = XMLUtil.getTagAttributeAsString(element, "video", "orientation", 0);
+            }
+            Boolean isVertical = null;
+            if (rotate != null && StringUtils.equalsAny(rotate, "90", "270", "vertical")) {
                 isVertical = true;
+            } else if (rotate != null && StringUtils.equalsAny(rotate, "0", "180", "horizontal")) {
+                isVertical = false;
             }
             Set<String> inputs = XMLUtil.getTagAttributeAsStringSet(element, "control", "type");
+            if (inputs == null || inputs.size() == 0) {
+                String control = XMLUtil.getTagAttributeAsString(element, "input", "control", 0);
+                if (StringUtils.endsWith(control, "way")) {
+                    SetUtil.addValueToTreeSet(inputs, StringUtils.substring(control, 0, control.length() - 4));
+                }
+            }
             String ways = XMLUtil.getTagAttributeAsString(element, "control", "ways", 0);
+            if (ways == null) {
+                ways = XMLUtil.getTagAttributeAsString(element, "input", "control", 0);
+                if (StringUtils.endsWith(ways, "way")) {
+                    ways = GeneralUtil.numerify(ways);
+                } else {
+                    ways = null;
+                }
+            }
             Integer buttons = XMLUtil.getTagAttributeAsInteger(element, "control", "buttons", 0);
+            if (buttons == null) {
+                buttons = XMLUtil.getTagAttributeAsInteger(element, "input", "buttons", 0);
+            }
             String status = XMLUtil.getTagAttributeAsString(element, "driver", "status", 0);
             String cloneOf = XMLUtil.getAttributeAsString(element, "cloneof");
 

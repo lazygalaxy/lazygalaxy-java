@@ -86,7 +86,6 @@
 -rw-rw-r-- 1 1000 1000    769533 Feb 12  2020 deadang.zip
 -rw-r--r-- 1 1000 1000     22326 Apr 17 04:31 defender.zip
 -rw-rw-r-- 1 1000 1000   3609160 Jun 29  2019 desertbr.zip
--rw-r--r-- 1 1000 1000       728 Apr 17 04:34 desktop.ini
 -rw-r--r-- 1 1000 1000    639953 Apr 17 04:34 devstors.zip
 -rw-r--r-- 1 1000 1000     28515 Apr 17 04:30 digdug.zip
 -rw-r--r-- 1 1000 1000  14932874 Apr 17 04:32 dimahoo.zip
@@ -97,7 +96,6 @@
 -rw-r--r-- 1 1000 1000     22302 Apr 17 04:23 dkong.zip
 -rw-r--r-- 1 1000 1000  25111015 Apr 17 04:34 dmnfrnt.zip
 -rw-rw-r-- 1 1000 1000  82633645 Feb 26  2021 dolphin.zip
--rw-r--r-- 1 1000 1000  14604584 Apr 17 04:23 doom2.wad
 -rw-rw-r-- 1 1000 1000  16712925 Feb 12  2020 dragnblz.zip
 -rw-r--r-- 1 1000 1000         0 May  6 17:39 dlair.zip
 -rw-r--r-- 1 1000 1000  82681482 Apr 17 04:33 dsmbl.zip
@@ -256,7 +254,6 @@
 -rw-r--r-- 1 1000 1000     34710 Apr 17 04:31 pooyan.zip
 -rw-rw-r-- 1 1000 1000     40671 Feb 12  2020 popeye.zip
 -rw-r--r-- 1 1000 1000    806201 Apr 17 04:23 pow.zip
--rw-r--r-- 1 1000 1000    143312 Apr 17 04:31 prboom.wad
 -rw-rw-r-- 1 1000 1000  55260910 Feb 12  2020 preisle2.zip
 -rw-rw-r-- 1 1000 1000  24306046 Feb 12  2020 primrage.zip
 -rw-r--r-- 1 1000 1000  14355714 Apr 17 04:34 progear.zip
@@ -331,7 +328,7 @@
 -rw-r--r-- 1 1000 1000    289681 Apr 17 04:33 snowbros.zip
 -rw-r--r-- 1 1000 1000    108231 Apr 17 04:33 solomon.zip
 -rw-r--r-- 1 1000 1000     64728 Apr 17 04:34 sonson.zip
--rw-r--r-- 1 1000 1000         0 May  6 17:41 sace.zip
+-rw-r--r-- 1 1000 1000         0 May  6 17:41 spaceace.zip
 -rw-r--r-- 1 1000 1000    648787 Apr 17 04:33 spang.zip
 -rw-rw-r-- 1 1000 1000    136512 Feb 12  2020 spelunk2.zip
 -rw-r--r-- 1 1000 1000   5243313 Apr 17 04:23 spf2t.zip
