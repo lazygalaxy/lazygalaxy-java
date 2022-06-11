@@ -159,7 +159,7 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
             if (inputs == null || inputs.size() == 0) {
                 String control = XMLUtil.getTagAttributeAsString(element, "input", "control", 0);
                 if (StringUtils.endsWith(control, "way")) {
-                    SetUtil.addValueToTreeSet(inputs, StringUtils.substring(control, 0, control.length() - 4));
+                    inputs = SetUtil.addValueToTreeSet(inputs, StringUtils.substring(control, 0, control.length() - 4));
                 }
             }
             String ways = XMLUtil.getTagAttributeAsString(element, "control", "ways", 0);
