@@ -26,7 +26,7 @@ public class GameInfo {
     public Double rating;
     public Integer players;
     public List<String> manufacturers;
-    public String emulator;
+    public Set<String> emulatorVersions;
 
 
     // derived
@@ -34,7 +34,7 @@ public class GameInfo {
     public String version;
 
     // mame
-    public Boolean isVeritcal;
+    public Boolean isVertical;
     public Set<String> inputs;
     public String ways;
     public Integer buttons;
@@ -48,15 +48,15 @@ public class GameInfo {
     // retroarch constructor
     public GameInfo(String gameId, String systemId, String path, String originalName, String year, String description,
                     String genre, String image, String video, String marquee, Double rating, String players,
-                    List<String> manufacturers, String emulator) {
+                    List<String> manufacturers, Set<String> emulatorVersions, Set<String> inputs, String ways, Integer buttons) {
         this(gameId, systemId, path, originalName, year, description, genre, image, video, marquee, rating, players,
-                manufacturers, emulator, null, null, null, null, null, null);
+                manufacturers, emulatorVersions, null, inputs, ways, buttons, null, null);
     }
 
     // mame constructor
-    public GameInfo(String gameId, String originalName, String year, String players, List<String> manufacturers,
+    public GameInfo(String gameId, String originalName, String year, String players, List<String> manufacturers, Set<String> emulatorVersions,
                     Boolean isVertical, Set<String> inputs, String ways, Integer buttons, String status, Boolean isGuess) {
-        this(gameId, null, null, originalName, year, null, null, null, null, null, null, players, manufacturers, null,
+        this(gameId, null, null, originalName, year, null, null, null, null, null, null, players, manufacturers, emulatorVersions,
                 isVertical, inputs, ways, buttons, status, isGuess);
     }
 
@@ -69,7 +69,7 @@ public class GameInfo {
     // general constructor
     public GameInfo(String gameId, String systemId, String path, String originalName, String year, String description,
                     String genre, String image, String video, String marquee, Double rating, String players,
-                    List<String> manufacturers, String emulator, Boolean isVeritcal, Set<String> inputs, String ways,
+                    List<String> manufacturers, Set<String> emulatorVersions, Boolean isVertical, Set<String> inputs, String ways,
                     Integer buttons, String status, Boolean isGuess) {
         this.gameId = gameId;
         this.systemId = systemId;
@@ -107,10 +107,10 @@ public class GameInfo {
             }
         }
 
-        this.emulator = emulator;
+        this.emulatorVersions = emulatorVersions;
 
-        if (isVeritcal != null && isVeritcal) {
-            this.isVeritcal = isVeritcal;
+        if (isVertical != null) {
+            this.isVertical = isVertical;
         }
 
         this.inputs = inputs;

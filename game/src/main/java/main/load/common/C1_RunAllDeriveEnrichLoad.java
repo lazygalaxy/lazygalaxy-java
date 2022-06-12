@@ -83,7 +83,7 @@ public class C1_RunAllDeriveEnrichLoad {
             game.developer = null;
             game.publisher = null;
             setField(game, "manufacturers");
-            setField(game, "isVeritcal");
+            setField(game, "isVertical");
             setField(game, "buttons");
             setField(game, "inputs");
             setField(game, "ways");

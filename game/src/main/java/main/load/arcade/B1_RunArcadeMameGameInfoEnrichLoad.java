@@ -4,7 +4,6 @@ import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.XMLLoad;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.engine.util.XMLUtil;
-import com.lazygalaxy.game.Constant;
 import com.lazygalaxy.game.Constant.GameSystem;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
@@ -23,16 +22,14 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
     private static final Logger LOGGER = LogManager.getLogger(B1_RunArcadeMameGameInfoEnrichLoad.class);
     private static final GameInfo gameInfoStatic = new GameInfo();
 
+
     public static void main(String[] args) throws Exception {
         try {
             GameMerge merge = new GameMerge();
 
-            new MameGameInfoLoad().load("source/mame/mame240.xml", "machine", merge);
-            LOGGER.info("latest mame enrich game completed!");
-            new MameGameInfoLoad().load("source/mame/mame2010.xml", "game", merge);
-            LOGGER.info("mame2010 enrich game completed!");
-            new MameGameInfoLoad().load("source/mame/mame2003.xml", "game", merge);
-            LOGGER.info("mame2003 enrich game completed!");
+            load("mame240", "machine", merge);
+            load("mame2010", "game", merge);
+            load("mame2003", "game", merge);
         } finally {
             if (args.length == 0) {
                 MongoConnectionHelper.INSTANCE.close();
@@ -40,14 +37,23 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
         }
     }
 
+    private static void load(String emulator, String gameTagName, GameMerge merge) throws Exception {
+        new MameGameInfoLoad(emulator).load("source/mame/" + emulator + ".xml", gameTagName, merge);
+        LOGGER.info(emulator + " enrich game completed!");
+    }
+
     private static class MameGameInfoLoad extends XMLLoad<Game> {
 
-        private Map<String, Game> mameGameByIdMap = new HashMap<String, Game>();
-        private Map<String, List<Game>> mameGameByNameYearMap = new HashMap<String, List<Game>>();
-        private Map<String, List<Game>> mameGameByNameMap = new HashMap<String, List<Game>>();
+        private final Map<String, Game> mameGameByIdMap = new HashMap<String, Game>();
+        private final Map<String, List<Game>> mameGameByNameYearMap = new HashMap<String, List<Game>>();
+        private final Map<String, List<Game>> mameGameByNameMap = new HashMap<String, List<Game>>();
 
-        public MameGameInfoLoad() throws Exception {
+        private final String emulatorVersion;
+
+        public MameGameInfoLoad(String emulatorVersion) throws Exception {
             super(Game.class);
+
+            this.emulatorVersion = emulatorVersion;
 
             List<Game> games = GameUtil.getGames(false, false, null, null, Filters.in("systemId", GameSystem.MAME));
             for (Game game : games) {
@@ -76,13 +82,7 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
 
         @Override
         protected List<Game> getMongoDocument(Element element, List<String> extraTagValues) throws Exception {
-            Boolean isMechanical = XMLUtil.getAttributeAsBoolean(element, "ismechanical");
             String gameId = XMLUtil.getAttributeAsString(element, "name");
-            Set<String> inputs = XMLUtil.getTagAttributeAsStringSet(element, "control", "type");
-
-            if ((isMechanical != null && isMechanical) || StringUtils.contains(gameId, "_") || (inputs != null && Constant.Control.isExcluded(inputs))) {
-                return null;
-            }
 
             gameId = GeneralUtil.alphanumerify(gameId);
             Game game = mameGameByIdMap.get(gameId);
@@ -136,10 +136,11 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
 
         private List<Game> process(Game game, Element element, Boolean isGuess, String gameId) throws Exception {
             List<Game> allGamesToReturn = new ArrayList<Game>();
-            if (game.mameGameInfo != null) {
+            allGamesToReturn.add(game);
+            if (game.mameGameInfo != null && !StringUtils.equals(game.mameGameInfo.emulatorVersions.iterator().next(), emulatorVersion)) {
+                game.mameGameInfo.emulatorVersions = SetUtil.addValueToLinkedHashSet(game.mameGameInfo.emulatorVersions, emulatorVersion);
                 return allGamesToReturn;
             }
-            allGamesToReturn.add(game);
 
             String originalName = XMLUtil.getTagAsString(element, "description", 0);
             String year = XMLUtil.getTagAsString(element, "year", 0);
@@ -186,7 +187,7 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
             }
             manufacturers.add(gameInfoStatic.version);
 
-            game.mameGameInfo = new GameInfo(gameId, originalName, year, players, manufacturers, isVertical, inputs,
+            game.mameGameInfo = new GameInfo(gameId, originalName, year, players, manufacturers, SetUtil.addValueToLinkedHashSet(game.mameGameInfo.emulatorVersions, emulatorVersion), isVertical, inputs,
                     ways, buttons, status, isGuess);
             GameUtil.pretifyName(game.mameGameInfo);
 

@@ -10,6 +10,7 @@ import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
 import com.lazygalaxy.game.merge.GameMerge;
 import com.lazygalaxy.game.util.GameUtil;
+import com.lazygalaxy.game.util.SetUtil;
 import com.mongodb.client.model.Filters;
 import org.apache.commons.lang3.RegExUtils;
 import org.apache.commons.lang3.StringUtils;
@@ -191,12 +192,16 @@ public class GameListEnrichLoad {
             String players = XMLUtil.getTagAsString(element, "players", 0);
             String developer = XMLUtil.getTagAsString(element, "developer", 0);
             String publisher = XMLUtil.getTagAsString(element, "publisher", 0);
+            String inputs = XMLUtil.getTagAsString(element, "inputs", 0);
+            String ways = XMLUtil.getTagAsString(element, "ways", 0);
+            Integer buttons = XMLUtil.getTagAsInteger(element, "buttons", 0);
 
             for (Game game : gameList) {
+                String emulatorVersion = emulatorMap.containsKey(game.id) ? emulatorMap.get(game.id) : defaultEmulator;
                 Game.class.getField(source + "GameInfo").set(game,
                         new GameInfo(game.gameId, systemId, path, originalName, year, description, genre, image, video,
                                 marquee, rating, players, Lists.newArrayList(developer, publisher),
-                                emulatorMap.containsKey(game.id) ? emulatorMap.get(game.id) : defaultEmulator));
+                                SetUtil.addValueToLinkedHashSet(null, emulatorVersion), inputs != null ? SetUtil.addValueToTreeSet(null, StringUtils.split(inputs, ",")) : null, ways, buttons));
 
                 GameUtil.pretifyName((GameInfo) Game.class.getField(source + "GameInfo").get(game));
 

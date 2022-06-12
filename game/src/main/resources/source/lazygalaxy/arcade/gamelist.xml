@@ -5,6 +5,13 @@
 		<database>LazyGalaxy</database>
 	</provider>
 	<game>
+		<path>./abclimax.lazygalaxy</path>
+		<players>1</players>
+		<buttons>2</buttons>
+		<inputs>joy,sticks</inputs>
+		<ways>vertical2</ways>
+	</game>
+	<game>
 		<path>./akatana.lazygalaxy</path>
 		<name>Akai Katana</name>
 		<desc>Set in a parallel world resembling Japan's Taishō period, the people have discovered the powerful Blood Swords, the titular Akai Katana. Requiring human sacrifices to unleash their immense destructive power, these swords have been used by the empire to crush neighbouring countries. However, all the bloodshed and power gained through sacrificing close family members has made some of the swordsmen reconsider. With new fighter planes and the powered up swords at their disposal, this small band of rebels now fight back against the tyrannical empire.</desc>
@@ -14,6 +21,9 @@
 		<publisher>Rising Star Games</publisher>
 		<genre>Shooter / Flying Horizontal</genre>
 		<players>1-2</players>
+		<buttons>4</buttons>
+		<inputs>joy</inputs>
+		<ways>8</ways>
 	</game>
 	<game>
 		<path>./bublcave.lazygalaxy</path>
@@ -25,5 +35,17 @@ The "Lost Cave" version gathers together the best 100 levels created in-house by
 	<game>
 		<path>./kodure.lazygalaxy</path>
 		<name>Kozure Ookami / Kodure Ookami</name>
+	</game>
+	<game>
+		<path>./mkartagp.lazygalaxy</path>
+		<players>1</players>
+		<buttons>2</buttons>
+		<inputs>pedal,paddle</inputs>
+	</game>
+	<game>
+		<path>./mkartag2.lazygalaxy</path>
+		<players>1</players>
+		<buttons>2</buttons>
+		<inputs>pedal,paddle</inputs>
 	</game>
 </gameList>

@@ -51,7 +51,7 @@ public class GenerateCoinOpsGameListFromDB {
                             + (game.inputs != null ? (game.inputs.contains("trackball") ? "Yes" : "No") : "unknown")
                             + seperator
                             + (game.inputs != null ? (getOtherInputString(game.inputs, "joy", "doublejoy", "only_buttons", "lightgun", "trackball")) : "unknown")
-                            + seperator + (game.isVeritcal != null && game.isVeritcal ? "Yes" : "No") + seperator
+                            + seperator + (game.isVertical != null && game.isVertical ? "Yes" : "No") + seperator
                             + (StringUtils.equals(game.developer, game.publisher) ? game.developer
                             : game.developer + " / " + game.publisher) + seperator + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PI4_LEGENDS_V3) ? "Yes" : "No") +
                             seperator + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PLAYER_LEGENDS_2) ? "Yes" : "No") + seperator
