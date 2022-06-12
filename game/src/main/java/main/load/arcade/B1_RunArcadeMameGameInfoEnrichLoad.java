@@ -27,7 +27,7 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
         try {
             GameMerge merge = new GameMerge();
 
-            load("mame240", "machine", merge);
+            load("latest", "machine", merge);
             load("mame2010", "game", merge);
             load("mame2003", "game", merge);
         } finally {
