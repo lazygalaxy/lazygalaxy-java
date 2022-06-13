@@ -27,6 +27,7 @@ public class A3_RunConsoleCoinOpsRomLoad {
         try {
             GameMerge merge = new GameMerge();
 
+
             // Player 2 Legends
             new RomSetLoad(GameSystem.MEGADRIVE, CoinOpsVersion.PLAYER_LEGENDS_2)
                     .load("list/coinops/playerlegends2/megadrive_roms.ls", 0, merge);

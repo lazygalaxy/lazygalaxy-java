@@ -17,7 +17,7 @@ arcade	A.B. Cop	1990	abcop	1	none	1	No	No	pedal/paddle	No	SEGA	No	No	No	Yes
 arcade	APB: All Points Bulletin	1987	apb	1	none	2	No	No	pedal/dial	Yes	Atari Games / Atari	Yes	Yes	Yes	Yes
 arcade	ASO: Armored Scrum Object	1985	aso	2	joy8way	3	No	No	none	Yes	SNK	No	No	No	Yes
 arcade	Ace Attacker	1988	aceattac	4	none	1	No	Yes	pedal/positional/stick	Yes	SEGA	No	No	No	Yes
-arcade	Ace Driver: Racing Evolution	1994	acedrvrw	2	joyvertical2way	4	No	No	pedal/paddle	No	Namco	No	No	No	Yes
+arcade	Ace Driver	1994	acedrvrw	1	none	6	No	No	pedal/paddle	No	Namco	No	No	No	Yes
 arcade	Acrobat Mission	1991	acrobatm	2	joy8way	3	No	No	none	Yes	UPL / Taito	No	No	No	Yes
 arcade	Act-Fancer Cybernetick Hyper Weapon	1989	actfancr	2	joy8way	2	No	No	none	No	Data East	Yes	Yes	Yes	Yes
 arcade	Action Fighter	1986	afighter	2	joy8way	3	No	No	none	Yes	SEGA	No	No	No	Yes
@@ -655,7 +655,7 @@ arcade	Marvel Super Heroes Vs. Street Fighter	1997	mshvsfa	2	joy8way	6	No	No	non
 arcade	Marvel Vs. Capcom 2: New Age of Heroes	2000	mvsc2	2	joy8way	6	No	No	none	No	Capcom / Marvel	No	No	Yes	Yes
 arcade	Marvel Vs. Capcom: Clash of Super Heroes	1998	mvsc	2	joy8way	6	No	No	none	No	Capcom	Yes	Yes	Yes	Yes
 arcade	Marvel Vs. Capcom: Clash of Super Heroes	1998	mvscb	2	joy8way	6	No	No	none	No	Capcom	No	No	No	Yes
-arcade	Matrimelee	2002	matrim	2	joy8way	4	No	No	none	No	Noise Factory / Atlus	No	No	Yes	Yes
+arcade	Matrimelee	2003	matrim	2	joy8way	4	No	No	none	No	Noise Factory / Atlus	No	No	Yes	Yes
 arcade	Maze of Flott	1989	mofflott	2	joy8way	2	No	No	none	Yes	Taito	No	No	No	Yes
 arcade	Mazinger Z	1994	mazinger	2	joy8way	3	No	No	none	Yes	Banpresto / Dynamic Pl. Toei Animation	Yes	No	Yes	Yes
 arcade	Mechanized Attack	1989	mechatt	2	none	2	Yes	No	none	No	SNK	Yes	Yes	No	Yes
@@ -865,7 +865,7 @@ arcade	Rampage: World Tour	1997	rmpgwt	3	joy8way	3	No	No	none	No	Midway / Game R
 arcade	Rampart	1990	rampart2p	3	joy8way	2	No	No	none	No	Atari Games	No	No	No	Yes
 arcade	Rapid Hero	1994	raphero	2	joy8way	3	No	No	none	Yes	NMK	No	No	No	Yes
 arcade	Rastan Saga	1987	rastsaga	2	joy8way	2	No	No	none	No	Taito	Yes	Yes	Yes	Yes
-arcade	Rave Racer	1995	raveracw	1	joy8way	4	No	No	pedal/paddle	No	Namco	No	Yes	Yes	Yes
+arcade	Rave Racer	1995	raveracw	1	none	9	No	No	pedal/paddle	No	Namco	No	Yes	Yes	Yes
 arcade	Ray Crisis	1998	raycris	4	joy8way	3	No	No	none	No	Taito	No	No	No	Yes
 arcade	Ray Storm	1996	raystorm	4	joy8way	3	No	No	none	No	Taito	No	No	No	Yes
 arcade	Reactor	1982	reactor	1	none	2	No	Yes	none	No	Gottlieb	No	No	No	Yes
@@ -933,7 +933,7 @@ arcade	Samurai Shodown 3	1995	samsho3	2	joy8way	4	No	No	none	No	SNK	No	No	No	Yes
 arcade	Samurai Shodown 4: Amakusa's Revenge	1996	samsho4	2	joy8way	4	No	No	none	No	SNK	Yes	Yes	Yes	Yes
 arcade	Samurai Shodown 5	2003	samsho5	2	joy8way	4	No	No	none	No	Yuki Enterprise / SNK Playmore	No	No	No	Yes
 arcade	Samurai Shodown V Special	2004	samsh5sp	2	joy8way	4	No	No	none	No	Yuki Enterprise / SNK Playmore	Yes	Yes	Yes	Yes
-arcade	San Francisco Rush	1996	sfrush	2	none	13	No	No	pedal/paddle	No	Atari Games	No	No	No	Yes
+arcade	San Francisco Rush	1996	sfrush	1	none	13	No	No	pedal/paddle	No	Atari Games	No	No	No	Yes
 arcade	Sand Scorpion	1992	sandscrp	2	joy8way	2	No	No	none	Yes	Face	No	No	No	Yes
 arcade	Satan's Hollow	1981	shollow	2	joy2way	2	No	No	none	Yes	Bally Midway / Arcade Engineering	No	No	No	Yes
 arcade	Saturday Night Slam Masters	1993	slammast	4	joy8way	3	No	No	none	No	Capcom	Yes	Yes	Yes	Yes
@@ -1246,8 +1246,8 @@ arcade	Wizard Fire	1992	wizdfire	2	joy8way	2	No	No	none	No	Data East	Yes	Yes	Yes
 arcade	Wizard of Wor	1980	wow	2	joy8way	2	No	No	none	No	Dave Nutting Associates / Midway	Yes	Yes	No	Yes
 arcade	Wonder Boy	1986	wboy	2	joy2way	2	No	No	none	No	Escape / SEGA	Yes	Yes	Yes	Yes
 arcade	Wonder Boy 3: Monster Lair	1988	wb3	2	joy8way	3	No	No	none	No	SEGA / Westone	No	No	Yes	Yes
-arcade	Wonder Boy in Monster Land	2009	wbmlvc	2	joy8way	2	No	No	none	No	SEGA	Yes	No	No	Yes
-arcade	Wonder Boy in Monster Land	2009	wbmlvcd	2	joy8way	2	No	No	none	No	bootleg / mpatou	No	Yes	Yes	Yes
+arcade	Wonder Boy: Monster Land	2009	wbmlvc	2	joy8way	2	No	No	none	No	SEGA	Yes	No	No	Yes
+arcade	Wonder Boy: Monster Land	2009	wbmlvcd	2	joy8way	2	No	No	none	No	bootleg / mpatou	No	Yes	Yes	Yes
 arcade	Wonder Planet	1987	wndrplnt	2	joy8way	2	No	No	none	Yes	Data East	No	No	No	Yes
 arcade	World Class Bowling Deluxe	1999	wcbowldx	2	none	2	No	Yes	none	No	Incredible Technologies	No	No	No	Yes
 arcade	World Heroes	1992	wh1	2	joy8way	4	No	No	none	No	Alpha Denshi Co. / ADK	No	No	Yes	Yes

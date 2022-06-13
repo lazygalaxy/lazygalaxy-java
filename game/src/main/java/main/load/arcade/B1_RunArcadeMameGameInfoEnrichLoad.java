@@ -27,7 +27,7 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
         try {
             GameMerge merge = new GameMerge();
 
-            load("latest", "machine", merge);
+            load("mameXXXX", "machine", merge);
             load("mame2010", "game", merge);
             load("mame2003", "game", merge);
         } finally {
@@ -138,7 +138,7 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
             List<Game> allGamesToReturn = new ArrayList<Game>();
             allGamesToReturn.add(game);
             if (game.mameGameInfo != null && !StringUtils.equals(game.mameGameInfo.emulatorVersions.iterator().next(), emulatorVersion)) {
-                game.mameGameInfo.emulatorVersions = SetUtil.addValueToLinkedHashSet(game.mameGameInfo.emulatorVersions, emulatorVersion);
+                game.mameGameInfo.emulatorVersions = SetUtil.addValueToTreeSet(game.mameGameInfo.emulatorVersions, emulatorVersion);
                 return allGamesToReturn;
             }
 
@@ -187,7 +187,7 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
             }
             manufacturers.add(gameInfoStatic.version);
 
-            game.mameGameInfo = new GameInfo(gameId, originalName, year, players, manufacturers, SetUtil.addValueToLinkedHashSet(game.mameGameInfo.emulatorVersions, emulatorVersion), isVertical, inputs,
+            game.mameGameInfo = new GameInfo(gameId, originalName, year, players, manufacturers, game.mameGameInfo != null ? SetUtil.addValueToTreeSet(game.mameGameInfo.emulatorVersions, emulatorVersion) : SetUtil.addValueToTreeSet(null, emulatorVersion), isVertical, inputs,
                     ways, buttons, status, isGuess);
             GameUtil.pretifyName(game.mameGameInfo);
 

@@ -201,7 +201,7 @@ public class GameListEnrichLoad {
                 Game.class.getField(source + "GameInfo").set(game,
                         new GameInfo(game.gameId, systemId, path, originalName, year, description, genre, image, video,
                                 marquee, rating, players, Lists.newArrayList(developer, publisher),
-                                SetUtil.addValueToLinkedHashSet(null, emulatorVersion), inputs != null ? SetUtil.addValueToTreeSet(null, StringUtils.split(inputs, ",")) : null, ways, buttons));
+                                SetUtil.addValueToTreeSet(null, emulatorVersion), inputs != null ? SetUtil.addValueToTreeSet(null, StringUtils.split(inputs, ",")) : null, ways, buttons));
 
                 GameUtil.pretifyName((GameInfo) Game.class.getField(source + "GameInfo").get(game));
 
