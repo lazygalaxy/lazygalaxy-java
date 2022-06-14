@@ -1280,61 +1280,75 @@ arcade	Zombie Raid	1995	zombraid	2	none	2	Yes	No	none	No	American Sammy	No	No	No
 arcade	Zoo Keeper	1982	zookeep	2	joy4way	1	No	No	none	No	Taito	Yes	Yes	Yes	Yes
 arcade	Zupapa!	2001	zupapa	2	joy8way	4	No	No	none	No	SNK	No	No	No	Yes
 arcade	Zwackery	1984	zwackery	1	joy8way	4	No	No	dial	No	Bally Midway	No	No	No	Yes
-megadrive	Castlevania: Bloodlines	1994	Castlevania - Bloodlines (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Konami	No	No	Yes	Yes
-megadrive	Contra: Hard Corps	1994	Contra - Hard Corps (USA, Korea)	2	unknown	unknown	unknown	unknown	unknown	No	Konami	No	Yes	Yes	Yes
-megadrive	Disney's Aladdin	1993	Aladdin (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Virgin / SEGA	No	No	Yes	Yes
+megadrive	Castlevania: Bloodlines	1994	Castlevania - Bloodlines (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Konami	Yes	No	Yes	Yes
+megadrive	Comix Zone	1995	Comix Zone (USA)	1	unknown	unknown	unknown	unknown	unknown	No	SEGA	Yes	No	No	Yes
+megadrive	Contra: Hard Corps	1994	Contra - Hard Corps (USA, Korea)	2	unknown	unknown	unknown	unknown	unknown	No	Konami	Yes	Yes	Yes	Yes
+megadrive	Disney's Aladdin	1993	Aladdin (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Virgin / SEGA	Yes	No	Yes	Yes
 megadrive	Disney's Castle of Illusion Starring Mickey Mouse	1990	Castle of Illusion Starring Mickey Mouse (USA, Europe)	1	unknown	unknown	unknown	unknown	unknown	No	SEGA	No	No	Yes	Yes
-megadrive	Earthworm Jim	1994	Earthworm Jim (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Shiny Entertainment / Virgin Interactive Entertainment	No	No	Yes	Yes
-megadrive	Ecco the Dolphin	1992	Ecco the Dolphin (USA, Europe, Korea)	1	unknown	unknown	unknown	unknown	unknown	No	Novotrade / SEGA	No	Yes	Yes	Yes
-megadrive	Gunstar Heroes	1993	Gunstar Heroes (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Treasure / SEGA	No	Yes	Yes	Yes
+megadrive	Earthworm Jim	1994	Earthworm Jim (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Shiny Entertainment / Virgin Interactive Entertainment	Yes	No	Yes	Yes
+megadrive	Ecco the Dolphin	1992	Ecco the Dolphin (USA, Europe, Korea)	1	unknown	unknown	unknown	unknown	unknown	No	Novotrade / SEGA	Yes	Yes	Yes	Yes
+megadrive	Ecco: The Tides of Time	1994	Ecco - The Tides of Time (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Novotrade / SEGA	Yes	No	No	Yes
+megadrive	Gunstar Heroes	1993	Gunstar Heroes (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Treasure / SEGA	Yes	Yes	Yes	Yes
 megadrive	NHL Hockey '94	1993	NHL '94 (USA, Europe)	4	unknown	unknown	unknown	unknown	unknown	No	High Score Productions / Electronic Arts	No	No	Yes	Yes
-megadrive	Revenge of Shinobi, The	1990	Revenge of Shinobi, The (USA, Europe)	1	unknown	unknown	unknown	unknown	unknown	No	SEGA	No	Yes	Yes	Yes
-megadrive	Rocket Knight Adventures	1993	Rocket Knight Adventures (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Konami	No	No	Yes	Yes
-megadrive	Shinobi 3: Return of the Ninja Master	1993	Shinobi III - Return of the Ninja Master (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Megasoft / SEGA	No	Yes	Yes	Yes
-megadrive	Sonic CD	1993	soniccd	1	unknown	unknown	unknown	unknown	unknown	No	Sonic Team / SEGA	No	No	Yes	Yes
-megadrive	Sonic the Hedgehog	1991	Sonic The Hedgehog (USA, Europe)	1	unknown	unknown	unknown	unknown	unknown	No	SEGA	No	Yes	Yes	Yes
-megadrive	Sonic the Hedgehog 2	1992	Sonic The Hedgehog 2 (World) (Rev A)	2	unknown	unknown	unknown	unknown	unknown	No	SEGA	No	Yes	Yes	Yes
-megadrive	Sonic the Hedgehog 3	1994	Sonic The Hedgehog 3 (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Sonic Team / SEGA	No	No	Yes	Yes
-megadrive	Streets of Rage	1991	Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World) (Rev A)	2	unknown	unknown	unknown	unknown	unknown	No	SEGA	No	No	Yes	Yes
-megadrive	Streets of Rage 2	1992	Streets of Rage 2 (USA)	2	unknown	unknown	unknown	unknown	unknown	No	SEGA	No	Yes	Yes	Yes
-megadrive	Streets of Rage 3	1997	Streets of Rage 3 (USA)	2	unknown	unknown	unknown	unknown	unknown	No	SEGA	No	No	Yes	Yes
-megadrive	ToeJam & Earl	1992	ToeJam & Earl (USA, Europe, Korea)	2	unknown	unknown	unknown	unknown	unknown	No	SEGA	No	No	Yes	Yes
-n64	F-Zero X	1998	F-Zero X (USA)	4	unknown	unknown	unknown	unknown	unknown	No	Nintendo	No	No	Yes	Yes
-n64	Mario Kart 64	1997	Mario Kart 64 (USA)	4	unknown	unknown	unknown	unknown	unknown	No	Nintendo	No	No	Yes	Yes
-n64	Star Fox 64	1997	Star Fox 64 (USA) (Rev 1)	4	unknown	unknown	unknown	unknown	unknown	No	Nintendo	No	No	Yes	Yes
-n64	Super Mario 64	1996	Super Mario 64 (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Nintendo	No	No	Yes	Yes
+megadrive	Revenge of Shinobi, The	1990	Revenge of Shinobi, The (USA, Europe)	1	unknown	unknown	unknown	unknown	unknown	No	SEGA	Yes	Yes	Yes	Yes
+megadrive	Rocket Knight Adventures	1993	Rocket Knight Adventures (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Konami	Yes	No	Yes	Yes
+megadrive	Shinobi 3: Return of the Ninja Master	1993	Shinobi III - Return of the Ninja Master (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Megasoft / SEGA	Yes	Yes	Yes	Yes
+megadrive	Sonic CD	1993	soniccd	1	unknown	unknown	unknown	unknown	unknown	No	Sonic Team / SEGA	Yes	No	Yes	Yes
+megadrive	Sonic the Hedgehog	1991	Sonic The Hedgehog (USA, Europe)	1	unknown	unknown	unknown	unknown	unknown	No	SEGA	Yes	Yes	Yes	Yes
+megadrive	Sonic the Hedgehog 2	1992	Sonic The Hedgehog 2 (World) (Rev A)	2	unknown	unknown	unknown	unknown	unknown	No	SEGA	Yes	Yes	Yes	Yes
+megadrive	Sonic the Hedgehog 3	1994	Sonic The Hedgehog 3 (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Sonic Team / SEGA	Yes	No	Yes	Yes
+megadrive	Streets of Rage	1991	Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World) (Rev A)	2	unknown	unknown	unknown	unknown	unknown	No	SEGA	Yes	No	Yes	Yes
+megadrive	Streets of Rage 2	1992	Streets of Rage 2 (USA)	2	unknown	unknown	unknown	unknown	unknown	No	SEGA	Yes	Yes	Yes	Yes
+megadrive	Streets of Rage 3	1997	Streets of Rage 3 (USA)	2	unknown	unknown	unknown	unknown	unknown	No	SEGA	Yes	No	Yes	Yes
+megadrive	ToeJam & Earl	1992	ToeJam & Earl (USA, Europe, Korea)	2	unknown	unknown	unknown	unknown	unknown	No	SEGA	Yes	No	Yes	Yes
+n64	F-Zero X	1998	F-Zero X (USA)	4	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	No	Yes	Yes
+n64	Mario Kart 64	1997	Mario Kart 64 (USA)	4	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	No	Yes	Yes
+n64	Star Fox 64	1997	Star Fox 64 (USA) (Rev 1)	4	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	No	Yes	Yes
+n64	Super Mario 64	1996	Super Mario 64 (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	No	Yes	Yes
+nes	Legend of Zelda, The	1994	Legend of Zelda, The (USA) (Rev 1)	1	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	No	No	Yes
+nes	Super Mario Bros.	1985	Super Mario Bros. - Cooperative two-player (Super Mario Bros. modification) (1.0)	2	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	No	No	Yes
+nes	Super Mario Bros.	1985	Super Mario Bros. (World)	2	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	No	No	Yes
+nes	Super Mario Bros. 3	1990	Super Mario Bros. 3 (USA) (Rev 1)	2	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	No	No	Yes
+pc	Doom	1995	DOOM (1993)	1	unknown	unknown	unknown	unknown	unknown	No	id Software / GT Interactive	No	No	Yes	Yes
 psp	Ultimate Ghosts'n Goblins	2006	Ghosts_N_Goblins_EUR_PROPER_PSP-pSyPSP	1	unknown	unknown	unknown	unknown	unknown	No	Capcom	No	No	Yes	Yes
-psx	Castlevania: Symphony of the Night	1997	Castlevania - Symphony of the Night (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Konami	No	No	Yes	Yes
-snes	Axelay	1992	Axelay (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Konami	No	Yes	Yes	Yes
-snes	Contra 3: The Alien Wars	1992	Contra III - The Alien Wars (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Konami	No	Yes	Yes	Yes
-snes	Demon's Crest	1994	Demon's Crest (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Capcom	No	No	Yes	Yes
-snes	Disney's Aladdin	1993	Aladdin (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Capcom	No	Yes	Yes	Yes
-snes	Donkey Kong Country	1994	Donkey Kong Country (USA) (Rev 2)	2	unknown	unknown	unknown	unknown	unknown	No	Rareware / Nintendo	No	Yes	Yes	Yes
-snes	Donkey Kong Country 2: Diddy's Kong Quest	1995	Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)	2	unknown	unknown	unknown	unknown	unknown	No	Rareware / Nintendo	No	Yes	Yes	Yes
-snes	F-Zero	1992	F-Zero (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Nintendo	No	Yes	Yes	Yes
-snes	Final Fight 2	1993	Final Fight 2 (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Capcom	No	Yes	Yes	Yes
-snes	Final Fight 3	1995	Final Fight 3 (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Capcom	No	No	Yes	Yes
+psx	Castlevania: Symphony of the Night	1997	Castlevania - Symphony of the Night (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Konami	Yes	No	Yes	Yes
+psx	Crash Bandicoot	1996	Crash Bandicoot (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Naughty Dog / Sony	Yes	No	No	Yes
+psx	Crash Bandicoot 3: Warped	1998	Crash Bandicoot - Warped (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Naughty Dog / Sony	Yes	No	No	Yes
+psx	R4: Ridge Racer Type 4	1998	R4 - Ridge Racer Type 4 (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Namco / Sony	Yes	No	No	Yes
+psx	Tekken 3	1998	Tekken 3 (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Namco	Yes	No	No	Yes
+snes	Axelay	1992	Axelay (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Konami	Yes	Yes	Yes	Yes
+snes	Batman Returns	1993	Batman Returns (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Konami	Yes	No	No	Yes
+snes	Contra 3: The Alien Wars	1992	Contra III - The Alien Wars (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Konami	Yes	Yes	Yes	Yes
+snes	Demon's Crest	1994	Demon's Crest (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Capcom	Yes	No	Yes	Yes
+snes	Disney's Aladdin	1993	Aladdin (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Capcom	Yes	Yes	Yes	Yes
+snes	Donkey Kong Country	1994	Donkey Kong Country (USA) (Rev 2)	2	unknown	unknown	unknown	unknown	unknown	No	Rareware / Nintendo	Yes	Yes	Yes	Yes
+snes	Donkey Kong Country 2: Diddy's Kong Quest	1995	Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)	2	unknown	unknown	unknown	unknown	unknown	No	Rareware / Nintendo	Yes	Yes	Yes	Yes
+snes	F-Zero	1992	F-Zero (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	Yes	Yes	Yes
+snes	Final Fight 2	1993	Final Fight 2 (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Capcom	Yes	Yes	Yes	Yes
+snes	Final Fight 3	1995	Final Fight 3 (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Capcom	Yes	No	Yes	Yes
 snes	International Superstar Soccer Deluxe	1995	International Superstar Soccer Deluxe (USA)	4	unknown	unknown	unknown	unknown	unknown	No	Konami	No	No	Yes	Yes
 snes	Legend of Zelda, The: A Link to the Past	1992	Legend of Zelda, The - A Link to the Past (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Nintendo	No	Yes	Yes	Yes
 snes	Mega Man X	1994	Mega Man X (USA) (Rev 1)	1	unknown	unknown	unknown	unknown	unknown	No	Capcom	No	Yes	Yes	Yes
-snes	Mega Man X2	1995	Mega Man X2 (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Capcom	No	No	Yes	Yes
+snes	Mega Man X2	1995	Mega Man X2 (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Capcom	Yes	No	Yes	Yes
 snes	Mega Man X³	1996	Mega Man X3 (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Capcom	No	Yes	Yes	Yes
-snes	Ninja Warriors	1994	Ninjawarriors (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Natsume / Titus	No	Yes	Yes	Yes
-snes	Pocky & Rocky	1993	Pocky & Rocky (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Natsume	No	Yes	Yes	Yes
-snes	Pocky & Rocky 2	1994	Pocky & Rocky 2 (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Natsume	No	No	Yes	Yes
+snes	Ninja Warriors	1994	Ninjawarriors (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Natsume / Titus	Yes	Yes	Yes	Yes
+snes	Pilotwings	1991	Pilotwings (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	No	No	Yes
+snes	Pocky & Rocky	1993	Pocky & Rocky (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Natsume	Yes	Yes	Yes	Yes
+snes	Pocky & Rocky 2	1994	Pocky & Rocky 2 (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Natsume	Yes	No	Yes	Yes
 snes	Pop'n TwinBee	1993	Pop'n TwinBee (Europe)	2	unknown	unknown	unknown	unknown	unknown	No	Konami	No	No	Yes	Yes
 snes	Pop'n TwinBee: Rainbow Bell Adventures	1994	Pop'n TwinBee - Rainbow Bell Adventures (Europe)	2	unknown	unknown	unknown	unknown	unknown	No	Konami	No	No	Yes	Yes
-snes	R-Type 3: The Third Lightning	1994	R-Type III (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Jaleco / Irem	No	Yes	Yes	Yes
-snes	Super Castlevania 4	1991	Super Castlevania IV (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Konami	No	Yes	Yes	Yes
-snes	Super Ghouls'n Ghosts	1991	Super_Ghoulsn_Ghosts_USA_-_Restoration	1	unknown	unknown	unknown	unknown	unknown	No	Capcom	No	Yes	Yes	Yes
-snes	Super Mario All-Stars	1993	Super Mario All-Stars (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Nintendo	No	Yes	Yes	Yes
-snes	Super Mario Kart	1992	Super Mario Kart (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Nintendo	No	No	Yes	Yes
-snes	Super Mario World	1991	Super Mario World (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Nintendo	No	Yes	Yes	Yes
-snes	Super Mario World 2: Yoshi's Island	1995	Super Mario World 2 - Yoshi's Island (USA, Asia) (Rev 1)	1	unknown	unknown	unknown	unknown	unknown	No	Nintendo	No	Yes	Yes	Yes
-snes	Super Metroid	1994	Super Metroid (Japan, USA) (En,Ja)	1	unknown	unknown	unknown	unknown	unknown	No	Nintendo	No	Yes	Yes	Yes
-snes	Super Punch-Out!!	1994	Super Punch-Out!! (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Nintendo	No	Yes	Yes	Yes
-snes	Super Star Wars	1992	Super Star Wars (USA) (Rev 1)	1	unknown	unknown	unknown	unknown	unknown	No	Sculptured Software / JVC	No	Yes	Yes	Yes
-snes	Super Star Wars: Return of the Jedi	1994	Super Star Wars - Return of the Jedi (USA) (Rev 1)	1	unknown	unknown	unknown	unknown	unknown	No	Sculptured Software / JVC	No	Yes	Yes	Yes
-snes	Super Star Wars: The Empire Strikes Back	1993	Super Star Wars - The Empire Strikes Back (USA) (Rev 1)	1	unknown	unknown	unknown	unknown	unknown	No	Sculptured Software / JVC	No	Yes	Yes	Yes
-snes	Wild Guns	1995	Wild Guns (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Natsume / Titus	No	Yes	Yes	Yes
-snes	Zombies Ate My Neighbors	1993	Zombies Ate My Neighbors (USA)	2	unknown	unknown	unknown	unknown	unknown	No	LucasArts / Konami	No	Yes	Yes	Yes
+snes	R-Type 3: The Third Lightning	1994	R-Type III (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Jaleco / Irem	Yes	Yes	Yes	Yes
+snes	Super Castlevania 4	1991	Super Castlevania IV (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Konami	Yes	Yes	Yes	Yes
+snes	Super Double Dragon	1992	Super Double Dragon (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Tecmo / Tradewest	Yes	No	No	Yes
+snes	Super Ghouls'n Ghosts	1991	Super_Ghoulsn_Ghosts_USA_-_Restoration	1	unknown	unknown	unknown	unknown	unknown	No	Capcom	Yes	Yes	Yes	Yes
+snes	Super Mario All-Stars	1993	Super Mario All-Stars (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	Yes	Yes	Yes
+snes	Super Mario Kart	1992	Super Mario Kart (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	No	Yes	Yes
+snes	Super Mario World	1991	Super Mario World (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	Yes	Yes	Yes
+snes	Super Mario World 2: Yoshi's Island	1995	Super Mario World 2 - Yoshi's Island (USA, Asia) (Rev 1)	1	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	Yes	Yes	Yes
+snes	Super Metroid	1994	Super Metroid (Japan, USA) (En,Ja)	1	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	Yes	Yes	Yes
+snes	Super Punch-Out!!	1994	Super Punch-Out!! (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	Yes	Yes	Yes
+snes	Super Star Wars	1992	Super Star Wars (USA) (Rev 1)	1	unknown	unknown	unknown	unknown	unknown	No	Sculptured Software / JVC	Yes	Yes	Yes	Yes
+snes	Super Star Wars: Return of the Jedi	1994	Super Star Wars - Return of the Jedi (USA) (Rev 1)	1	unknown	unknown	unknown	unknown	unknown	No	Sculptured Software / JVC	Yes	Yes	Yes	Yes
+snes	Super Star Wars: The Empire Strikes Back	1993	Super Star Wars - The Empire Strikes Back (USA) (Rev 1)	1	unknown	unknown	unknown	unknown	unknown	No	Sculptured Software / JVC	Yes	Yes	Yes	Yes
+snes	Wild Guns	1995	Wild Guns (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Natsume / Titus	Yes	Yes	Yes	Yes
+snes	Zombies Ate My Neighbors	1993	Zombies Ate My Neighbors (USA)	2	unknown	unknown	unknown	unknown	unknown	No	LucasArts / Konami	Yes	Yes	Yes	Yes

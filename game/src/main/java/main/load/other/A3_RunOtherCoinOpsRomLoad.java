@@ -1,4 +1,4 @@
-package main.load.console;
+package main.load.other;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.LinuxListLoad;
@@ -18,49 +18,37 @@ import org.apache.logging.log4j.Logger;
 
 import java.util.List;
 
-public class A3_RunConsoleCoinOpsRomLoad {
+public class A3_RunOtherCoinOpsRomLoad {
 
-    private static final Logger LOGGER = LogManager.getLogger(A3_RunConsoleCoinOpsRomLoad.class);
+    private static final Logger LOGGER = LogManager.getLogger(A3_RunOtherCoinOpsRomLoad.class);
     private static final GameInfo gameInfoStatic = new GameInfo();
 
     public static void main(String[] args) throws Exception {
         try {
             GameMerge merge = new GameMerge();
 
+            for (String coinopsVersion : CoinOpsVersion.ALL) {
+                if (!StringUtils.equals(coinopsVersion, CoinOpsVersion.OTHER)) {
+                    for (String computerSystem : GameSystem.COMPUTER) {
+                        new RomSetLoad(computerSystem, coinopsVersion)
+                                .load("list/coinops/" + coinopsVersion + "/" + computerSystem + "_roms.ls", 0, merge);
+                        LOGGER.info(coinopsVersion + " " + computerSystem + " rom list completed!");
+                    }
 
-            // Player 2 Legends
-            new RomSetLoad(GameSystem.MEGADRIVE, CoinOpsVersion.PLAYER_LEGENDS_2)
-                    .load("list/coinops/playerlegends2/megadrive_roms.ls", 0, merge);
-            LOGGER.info("Player 2 Legends megadrive rom list completed!");
+                    for (String consoleSystem : GameSystem.CONSOLE) {
+                        new RomSetLoad(consoleSystem, coinopsVersion)
+                                .load("list/coinops/" + coinopsVersion + "/" + consoleSystem + "_roms.ls", 0, merge);
+                        LOGGER.info(coinopsVersion + " " + consoleSystem + " rom list completed!");
+                    }
 
-            new RomSetLoad(GameSystem.SNES, CoinOpsVersion.PLAYER_LEGENDS_2)
-                    .load("list/coinops/playerlegends2/snes_roms.ls", 0, merge);
-            LOGGER.info("Player 2 Legends snes rom list completed!");
+                    for (String handheldSystem : GameSystem.HANDHELD) {
+                        new RomSetLoad(handheldSystem, coinopsVersion)
+                                .load("list/coinops/" + coinopsVersion + "/" + handheldSystem + "_roms.ls", 0, merge);
+                        LOGGER.info(coinopsVersion + " " + handheldSystem + " rom list completed!");
+                    }
 
-            // Retro Aracde 2 Elites
-            new RomSetLoad(GameSystem.MEGADRIVE, CoinOpsVersion.RETRO_ARCADE_2_ELITES)
-                    .load("list/coinops/retroarcade2elites/megadrive_roms.ls", 0, merge);
-            LOGGER.info("Retro Arcade 2 Elites megadrive rom list completed!");
-
-            new RomSetLoad(GameSystem.SNES, CoinOpsVersion.RETRO_ARCADE_2_ELITES)
-                    .load("list/coinops/retroarcade2elites/snes_roms.ls", 0, merge);
-            LOGGER.info("Retro Arcade 2 Elites snes rom list completed!");
-
-            new RomSetLoad(GameSystem.N64, CoinOpsVersion.RETRO_ARCADE_2_ELITES)
-                    .load("list/coinops/retroarcade2elites/n64_roms.ls", 0, merge);
-            LOGGER.info("Retro Arcade 2 Elites n64 rom list completed!");
-
-            new RomSetLoad(GameSystem.PC, CoinOpsVersion.RETRO_ARCADE_2_ELITES)
-                    .load("list/coinops/retroarcade2elites/pc_roms.ls", 0, merge);
-            LOGGER.info("Retro Arcade 2 Elites pc rom list completed!");
-
-            new RomSetLoad(GameSystem.PSP, CoinOpsVersion.RETRO_ARCADE_2_ELITES)
-                    .load("list/coinops/retroarcade2elites/psp_roms.ls", 0, merge);
-            LOGGER.info("Retro Arcade 2 Elites psp rom list completed!");
-
-            new RomSetLoad(GameSystem.PSX, CoinOpsVersion.RETRO_ARCADE_2_ELITES)
-                    .load("list/coinops/retroarcade2elites/psx_roms.ls", 0, merge);
-            LOGGER.info("Retro Arcade 2 Elites psx rom list completed!");
+                }
+            }
         } finally {
             if (args.length == 0) {
                 MongoConnectionHelper.INSTANCE.close();
