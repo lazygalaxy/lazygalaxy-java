@@ -2854,6 +2854,7 @@
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Racing</genre>
+		<players>1</players>
 		<image>./boxart/Crazy Taxi.jpg</image>
 		<video>./snaps/Crazy Taxi.mp4</video>
 	</game>

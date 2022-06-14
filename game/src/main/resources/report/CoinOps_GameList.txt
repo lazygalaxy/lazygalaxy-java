@@ -1280,6 +1280,15 @@ arcade	Zombie Raid	1995	zombraid	2	none	2	Yes	No	none	No	American Sammy	No	No	No
 arcade	Zoo Keeper	1982	zookeep	2	joy4way	1	No	No	none	No	Taito	Yes	Yes	Yes	Yes
 arcade	Zupapa!	2001	zupapa	2	joy8way	4	No	No	none	No	SNK	No	No	No	Yes
 arcade	Zwackery	1984	zwackery	1	joy8way	4	No	No	dial	No	Bally Midway	No	No	No	Yes
+c64	Uridium	1986	Uridium	2	unknown	unknown	unknown	unknown	unknown	No	Hewson / Graftgold	Yes	No	No	Yes
+c64	Uridium+	1986	Uridium+	2	unknown	unknown	unknown	unknown	unknown	No	Hewson / Graftgold	Yes	No	No	Yes
+dreamcast	Border Down	2003	Border Down	2	unknown	unknown	unknown	unknown	unknown	No	G.Rev	Yes	No	No	Yes
+dreamcast	Crazy Taxi	2000	Crazy Taxi	1	unknown	unknown	unknown	unknown	unknown	No	SEGA	Yes	No	No	Yes
+dreamcast	Ikaruga	2002	Ikaruga	2	unknown	unknown	unknown	unknown	unknown	No	Entertainment Software Publishing / Treasure	Yes	No	No	Yes
+dreamcast	Marvel vs. Capcom 2: New Age of Heroes	2000	Marvel vs. Capcom 2 v1.001 (2000)(Capcom)(US)[!]	2	unknown	unknown	unknown	unknown	unknown	No	Capcom / Virgin	Yes	No	No	Yes
+dreamcast	Soul Calibur	1999	Soul Calibur	2	unknown	unknown	unknown	unknown	unknown	No	Namco	Yes	No	No	Yes
+dreamcast	Under Defeat	2006	Under Defeat	2	unknown	unknown	unknown	unknown	unknown	No	G.Rev	Yes	No	No	Yes
+dreamcast	Zero Gunner 2	2001	Zero Gunner 2	2	unknown	unknown	unknown	unknown	unknown	No	Psikyo	Yes	No	No	Yes
 megadrive	Castlevania: Bloodlines	1994	Castlevania - Bloodlines (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Konami	Yes	No	Yes	Yes
 megadrive	Comix Zone	1995	Comix Zone (USA)	1	unknown	unknown	unknown	unknown	unknown	No	SEGA	Yes	No	No	Yes
 megadrive	Contra: Hard Corps	1994	Contra - Hard Corps (USA, Korea)	2	unknown	unknown	unknown	unknown	unknown	No	Konami	Yes	Yes	Yes	Yes
@@ -1310,6 +1319,10 @@ nes	Super Mario Bros.	1985	Super Mario Bros. - Cooperative two-player (Super Mar
 nes	Super Mario Bros.	1985	Super Mario Bros. (World)	2	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	No	No	Yes
 nes	Super Mario Bros. 3	1990	Super Mario Bros. 3 (USA) (Rev 1)	2	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Yes	No	No	Yes
 pc	Doom	1995	DOOM (1993)	1	unknown	unknown	unknown	unknown	unknown	No	id Software / GT Interactive	No	No	Yes	Yes
+pc	Doom 2: Hell on Earth	1994	DOOM II (1994)	unknown	unknown	unknown	unknown	unknown	unknown	No	id Software / GT Interactive	Yes	No	No	Yes
+pcengine	Bonk's Revenge	1991	Bonk's Revenge (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Red Company / NEC	Yes	No	No	Yes
+pcengine	Devil's Crush	1990	Devil's Crush (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Compile / NEC	Yes	No	No	Yes
+pcengine	Parasol Stars: The Story of Bubble Bobble 3	1991	Parasol Stars - The Story of Bubble Bobble III (USA)	2	unknown	unknown	unknown	unknown	unknown	No	Taito / Working Designs	Yes	No	No	Yes
 psp	Ultimate Ghosts'n Goblins	2006	Ghosts_N_Goblins_EUR_PROPER_PSP-pSyPSP	1	unknown	unknown	unknown	unknown	unknown	No	Capcom	No	No	Yes	Yes
 psx	Castlevania: Symphony of the Night	1997	Castlevania - Symphony of the Night (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Konami	Yes	No	Yes	Yes
 psx	Crash Bandicoot	1996	Crash Bandicoot (USA)	1	unknown	unknown	unknown	unknown	unknown	No	Naughty Dog / Sony	Yes	No	No	Yes

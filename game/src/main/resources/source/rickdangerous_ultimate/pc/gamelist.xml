@@ -2795,6 +2795,7 @@
 		<developer>id Software</developer>
 		<publisher>GT Interactive</publisher>
 		<genre>Action</genre>
+		<players>1</players>
 		<image>./boxart/DOOM II (1994).jpg</image>
 		<video>./snaps/DOOM II (1994).mp4</video>
 	</game>

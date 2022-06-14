@@ -34,13 +34,17 @@ public class Constant {
     public static class GameSystem {
         public final static String ARCADE = "arcade";
         public final static String ATOMISWAVE = "atomiswave";
+        public final static String C64 = "c64";
         public final static String DAPHNE = "daphne";
+        public final static String DREAMCAST = "dreamcast";
+        public final static String GBA = "gba";
         public final static String MODEL3 = "model3";
         public final static String N64 = "n64";
         public final static String NAOMI = "naomi";
         public final static String NEOGEO = "neogeo";
         public final static String NES = "nes";
         public final static String PC = "pc";
+        public final static String PCENGINE = "pcengine";
         public final static String PSP = "psp";
         public final static String PSX = "psx";
         public final static String SNES = "snes";
@@ -49,11 +53,11 @@ public class Constant {
         public final static String SCUMMVM = "scummvm";
 
         public final static List<String> MAME = Lists.newArrayList(ARCADE, ATOMISWAVE, DAPHNE, MODEL3, NAOMI, NEOGEO);
-        public final static List<String> CONSOLE = Lists.newArrayList(MEGADRIVE, N64, NES, PSX, SNES);
+        public final static List<String> CONSOLE = Lists.newArrayList(DREAMCAST, MEGADRIVE, N64, NES, PCENGINE, PSX, SNES);
 
-        public final static List<String> COMPUTER = Lists.newArrayList(PC, SCUMMVM);
+        public final static List<String> COMPUTER = Lists.newArrayList(C64, PC, SCUMMVM);
 
-        public final static List<String> HANDHELD = Lists.newArrayList(PSP);
+        public final static List<String> HANDHELD = Lists.newArrayList(GBA, PSP);
 
     }
 
