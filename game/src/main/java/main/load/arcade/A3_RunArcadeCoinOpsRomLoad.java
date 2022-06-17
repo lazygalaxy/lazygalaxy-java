@@ -2,7 +2,6 @@ package main.load.arcade;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.helper.MongoHelper;
-import com.lazygalaxy.engine.load.CSVLoad;
 import com.lazygalaxy.engine.load.LinuxListLoad;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.game.Constant.CoinOpsVersion;
@@ -30,19 +29,13 @@ public class A3_RunArcadeCoinOpsRomLoad {
             GameMerge merge = new GameMerge();
 
             for (String coinopsVersion : CoinOpsVersion.ALL) {
-                if (!StringUtils.equals(coinopsVersion, CoinOpsVersion.OTHER)) {
-                    for (String gameSystem : GameSystem.MAME) {
-                        if (new RomSetLoad(GameSystem.ARCADE, coinopsVersion)
-                                .load("list/coinops/" + coinopsVersion + "/" + gameSystem + "_roms.ls", 0, merge)) {
-                            LOGGER.info(coinopsVersion + " " + gameSystem + " rom list completed!");
-                        }
+                for (String gameSystem : GameSystem.MAME) {
+                    if (new RomSetLoad(GameSystem.ARCADE, coinopsVersion)
+                            .load("list/coinops/" + coinopsVersion + "/" + gameSystem + "_roms.ls", 0, merge)) {
+                        LOGGER.info(coinopsVersion + " " + gameSystem + " rom list completed!");
                     }
                 }
             }
-
-            //Other
-            new OtherLoad(GameSystem.ARCADE, CoinOpsVersion.OTHER)
-                    .load("list/coinops/other.csv", 0, merge);
 
             LOGGER.info("Other rom list completed!");
         } finally {
@@ -86,34 +79,6 @@ public class A3_RunArcadeCoinOpsRomLoad {
             }
 
             game.coinopsVersions = SetUtil.addValueToTreeSet(game.coinopsVersions, coinopsVersion);
-
-            return Arrays.asList(game);
-        }
-    }
-
-    private static class OtherLoad extends CSVLoad<Game> {
-        private String systemId;
-        private String coinopsVersion;
-
-        public OtherLoad(String systemId, String coinopsVersion) throws Exception {
-            super(Game.class);
-            this.systemId = systemId;
-            this.coinopsVersion = coinopsVersion;
-        }
-
-        @Override
-        protected List<Game> getMongoDocument(String[] tokens) throws Exception {
-            String gameId = tokens[0].trim().toLowerCase();
-
-            Game game = game = MongoHelper.getHelper(Game.class).getDocumentById(Game.createId(systemId, gameId, null));
-            if (game == null) {
-                game = new Game(systemId, gameId, null, null);
-                game.addLabel(game.gameId);
-            }
-
-            if (game.coinopsVersions == null || game.coinopsVersions.size() == 0) {
-                game.coinopsVersions = SetUtil.addValueToTreeSet(game.coinopsVersions, coinopsVersion);
-            }
 
             return Arrays.asList(game);
         }

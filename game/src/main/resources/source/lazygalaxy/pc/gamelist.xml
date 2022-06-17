@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>PC Dos</System>
+		<database>LazyGalaxy</database>
+	</provider>
+	<game>
+		<path>./outrun2006.zip</path>
+		<name>OutRun 2006: Coast 2 Coast</name>
+		<sortname />
+		<desc>Race from coast to coast with a new mission structure andlicense mode. Features 15 fully-licensed Ferrari models, including the all-new F430 and F430 Spider.</desc>
+		<releasedate>2006</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>SEGA</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./ultrastreetfighter4.zip</path>
+		<name>Ultra Street Fighter 4</name>
+		<desc>This is an update of Super Street Fighter IV: Arcade Edition and the fourth update to the Street Fighter IV series overall. It features five additional characters, six additional stages, and character tweaks based on community feedback. This title update also features brand new modes.</desc>
+		<releasedate>2014</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+	</game>
+</gameList>

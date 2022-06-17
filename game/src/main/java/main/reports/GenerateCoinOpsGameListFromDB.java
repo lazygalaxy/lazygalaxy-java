@@ -32,20 +32,19 @@ public class GenerateCoinOpsGameListFromDB {
         Path filePath = Paths
                 .get("/Users/vangos/Development/git/lazygalaxy-java/game/src/main/resources/report/CoinOps_GameList.txt");
         Files.writeString(filePath,
-                "System" + seperator + "Name" + seperator + "Year" + seperator + "ROM" + seperator + "Players" + seperator +
+                "System" + seperator + "Name" + seperator + "Year" + seperator + "ROM" + seperator + "Version" + seperator + "Players" + seperator +
                         "Joystick" + seperator + "Buttons" + seperator + "LightGun" + seperator + "TrackBall" + seperator + "Other Input"
                         + seperator + "Vertical" + seperator + "Manufacturers" + seperator +
                         "Collections Arcade" + seperator +
                         "Collections Legends" + seperator +
                         "Pi4 Legends v3" + seperator +
                         "Player Legends 2" + seperator +
-                        "Retro Arcade 2 Elites" + seperator +
-                        "Other CoinOps\n",
+                        "Retro Arcade 2 Elites\n",
                 StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
 
         for (Game game : games) {
             Files.writeString(filePath,
-                    game.systemId + seperator + game.name + seperator + game.year + seperator + game.gameId + seperator
+                    game.systemId + seperator + game.name + seperator + game.year + seperator + game.gameId + seperator + (game.version != null ? game.version : "none") + seperator
                             + (game.players != null && game.players > 0 ? game.players : "unknown")
                             + seperator
                             + (game.inputs != null ? (game.inputs.contains("joy") ? "joy" + game.ways + "way" : (game.inputs.contains("doublejoy") ? "doublejoy" + game.ways + "way" : "none")) : "unknown")
@@ -64,8 +63,7 @@ public class GenerateCoinOpsGameListFromDB {
                             (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.COLLECTIONS_LEGENDS) ? "Yes" : "No") + seperator +
                             (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PI4_LEGENDS_V3) ? "Yes" : "No") + seperator +
                             (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PLAYER_LEGENDS_2) ? "Yes" : "No") + seperator +
-                            (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.RETRO_ARCADE_2_ELITES) ? "Yes" : "No") + seperator +
-                            "Yes" + "\n",
+                            (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.RETRO_ARCADE_2_ELITES) ? "Yes" : "No") + "\n",
                     StandardOpenOption.APPEND);
         }
         LOGGER.info("report done");

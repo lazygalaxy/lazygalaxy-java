@@ -28,25 +28,22 @@ public class A3_RunOtherCoinOpsRomLoad {
             GameMerge merge = new GameMerge();
 
             for (String coinopsVersion : CoinOpsVersion.ALL) {
-                if (!StringUtils.equals(coinopsVersion, CoinOpsVersion.OTHER)) {
-                    for (String computerSystem : GameSystem.COMPUTER) {
-                        new RomSetLoad(computerSystem, coinopsVersion)
-                                .load("list/coinops/" + coinopsVersion + "/" + computerSystem + "_roms.ls", 0, merge);
-                        LOGGER.info(coinopsVersion + " " + computerSystem + " rom list completed!");
-                    }
+                for (String computerSystem : GameSystem.COMPUTER) {
+                    new RomSetLoad(computerSystem, coinopsVersion)
+                            .load("list/coinops/" + coinopsVersion + "/" + computerSystem + "_roms.ls", 0, merge);
+                    LOGGER.info(coinopsVersion + " " + computerSystem + " rom list completed!");
+                }
 
-                    for (String consoleSystem : GameSystem.CONSOLE) {
-                        new RomSetLoad(consoleSystem, coinopsVersion)
-                                .load("list/coinops/" + coinopsVersion + "/" + consoleSystem + "_roms.ls", 0, merge);
-                        LOGGER.info(coinopsVersion + " " + consoleSystem + " rom list completed!");
-                    }
+                for (String consoleSystem : GameSystem.CONSOLE) {
+                    new RomSetLoad(consoleSystem, coinopsVersion)
+                            .load("list/coinops/" + coinopsVersion + "/" + consoleSystem + "_roms.ls", 0, merge);
+                    LOGGER.info(coinopsVersion + " " + consoleSystem + " rom list completed!");
+                }
 
-                    for (String handheldSystem : GameSystem.HANDHELD) {
-                        new RomSetLoad(handheldSystem, coinopsVersion)
-                                .load("list/coinops/" + coinopsVersion + "/" + handheldSystem + "_roms.ls", 0, merge);
-                        LOGGER.info(coinopsVersion + " " + handheldSystem + " rom list completed!");
-                    }
-
+                for (String handheldSystem : GameSystem.HANDHELD) {
+                    new RomSetLoad(handheldSystem, coinopsVersion)
+                            .load("list/coinops/" + coinopsVersion + "/" + handheldSystem + "_roms.ls", 0, merge);
+                    LOGGER.info(coinopsVersion + " " + handheldSystem + " rom list completed!");
                 }
             }
         } finally {

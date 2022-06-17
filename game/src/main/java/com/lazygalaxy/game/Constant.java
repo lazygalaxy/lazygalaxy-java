@@ -91,8 +91,6 @@ public class Constant {
 
         public final static String PI4_LEGENDS_V3 = "pi4legendsv3";
 
-        public final static String OTHER = "other";
-
-        public final static List<String> ALL = Lists.newArrayList(COLLECTIONS_ARCADE, COLLECTIONS_LEGENDS, PI4_LEGENDS_V3, PLAYER_LEGENDS_2, RETRO_ARCADE_2_ELITES, OTHER);
+        public final static List<String> ALL = Lists.newArrayList(COLLECTIONS_ARCADE, COLLECTIONS_LEGENDS, PI4_LEGENDS_V3, PLAYER_LEGENDS_2, RETRO_ARCADE_2_ELITES);
     }
 }
