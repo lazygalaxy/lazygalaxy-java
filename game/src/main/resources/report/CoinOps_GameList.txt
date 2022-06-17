@@ -1,6 +1,4 @@
 System	Name	Year	ROM	Players	Joystick	Buttons	LightGun	TrackBall	Other Input	Vertical	Manufacturers	Collections Legends	Pi4 Legends v3	Player Legends 2	Retro Arcade 2 Elites	Other CoinOps
-arcade	null	null	segac	unknown	unknown	unknown	unknown	unknown	unknown	No	null	Yes	No	No	No	Yes
-arcade	null	null	sne	unknown	unknown	unknown	unknown	unknown	unknown	No	null	Yes	No	No	No	Yes
 arcade	'88 Games	1988	88games	4	none	3	No	No	none	No	Konami	No	No	No	No	Yes
 arcade	10-Yard Fight	1983	10yard	2	joy8way	2	No	No	none	No	Irem	No	No	No	Yes	Yes
 arcade	1941: Counter Attack	1990	1941	2	joy8way	2	No	No	none	Yes	Capcom	Yes	Yes	Yes	Yes	Yes

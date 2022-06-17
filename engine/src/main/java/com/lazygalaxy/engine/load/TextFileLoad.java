@@ -26,7 +26,7 @@ public abstract class TextFileLoad<T extends MongoDocument> {
         load(file, 0, null);
     }
 
-    public void load(String file, long skipLines, Merge<T> merge) throws Exception {
+    public boolean load(String file, long skipLines, Merge<T> merge) throws Exception {
         URL url = ClassLoader.getSystemResource(file);
         if (url != null) {
             Stream<String> lines = Files.lines(Paths.get(url.toURI())).skip(skipLines);
@@ -45,7 +45,9 @@ public abstract class TextFileLoad<T extends MongoDocument> {
                 }
             });
             lines.close();
+            return true;
         }
+        return false;
     }
 
     protected abstract List<T> getMongoDocument(String line) throws Exception;

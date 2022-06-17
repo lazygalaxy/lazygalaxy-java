@@ -31,12 +31,15 @@ public class A3_RunArcadeCoinOpsRomLoad {
 
             for (String coinopsVersion : CoinOpsVersion.ALL) {
                 if (!StringUtils.equals(coinopsVersion, CoinOpsVersion.OTHER)) {
-                    new RomSetLoad(GameSystem.ARCADE, coinopsVersion)
-                            .load("list/coinops/" + coinopsVersion + "/arcade_roms.ls", 0, merge);
-                    LOGGER.info(coinopsVersion + " arcade rom list completed!");
+                    for (String gameSystem : GameSystem.MAME) {
+                        if (new RomSetLoad(GameSystem.ARCADE, coinopsVersion)
+                                .load("list/coinops/" + coinopsVersion + "/" + gameSystem + "_roms.ls", 0, merge)) {
+                            LOGGER.info(coinopsVersion + " " + gameSystem + " rom list completed!");
+                        }
+                    }
                 }
             }
-            
+
             //Other
             new OtherLoad(GameSystem.ARCADE, CoinOpsVersion.OTHER)
                     .load("list/coinops/other.csv", 0, merge);

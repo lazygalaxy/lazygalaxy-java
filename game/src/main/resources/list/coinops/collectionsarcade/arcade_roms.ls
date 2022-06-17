@@ -21,7 +21,6 @@
 -rwxrwxrwx+ 1 admin users    8707404 Nov 20  2021 aerofgts.zip
 -rwxrwxrwx+ 1 admin users    2083061 May 28  2018 aerofgt.zip
 -rwxrwxrwx+ 1 admin users     395122 Mar 11  2018 afighter.zip
--rwxrwxrwx+ 1 admin users      62708 Mar  3  2018 After Burner Climax.zip
 -rwxrwxrwx+ 1 admin users    7359197 Mar  8  2018 agallet.zip
 -rwxrwxrwx+ 1 admin users    3297772 Nov 21  2021 airass.zip
 -rwxrwxrwx+ 1 admin users     693968 Mar  8  2018 airbustr.zip
@@ -78,8 +77,6 @@
 -rwxrwxrwx+ 1 admin users    1343019 May  7  2018 avspirit.zip
 -rwxrwxrwx+ 1 admin users   10450015 Mar  6  2018 avsp.zip
 -rwxrwxrwx+ 1 admin users     455438 Mar  3  2018 baddudes.zip
--rwxrwxrwx+ 1 admin users         10 Mar 29  2021 Badlandss.zip
--rwxrwxrwx+ 1 admin users     365958 Mar  8  2018 badlands.zip
 -rwxrwxrwx+ 1 admin users      23250 Mar 11  2018 bagman.zip
 -rwxrwxrwx+ 1 admin users     353663 Oct 18  2018 bakutotu.zip
 -rwxrwxrwx+ 1 admin users   22153855 Mar 16  2018 bangbead.zip
@@ -275,7 +272,6 @@
 -rwxrwxrwx+ 1 admin users    4274562 May  7  2018 denjinmk.zip
 -rwxrwxrwx+ 1 admin users    3609160 Mar  5  2018 desertbr.zip
 -rwxrwxrwx+ 1 admin users   10622326 May  7  2018 desertwr.zip
--rwxrwxrwx+ 1 admin users       1214 Jun 18  2021 desktop.ini
 -rwxrwxrwx+ 1 admin users    1211120 Mar  8  2018 devilw.zip
 -rwxrwxrwx+ 1 admin users     639925 Mar 10  2018 devstors.zip
 -rwxrwxrwx+ 1 admin users   10053856 Nov 21  2021 diehard.zip
@@ -307,8 +303,6 @@
 -rwxrwxrwx+ 1 admin users    1708516 May  5  2018 downtownj.zip
 -rwxrwxrwx+ 1 admin users   16713106 Mar  3  2018 dragnblz.zip
 -rwxrwxrwx+ 1 admin users   23093365 Mar  7  2018 dragngun.zip
--rwxrwxrwx+ 1 admin users         10 Mar 29  2021 Dragons Lair 2.zip
--rwxrwxrwx+ 1 admin users         10 Mar 29  2021 Dragons Lair.zip
 -rwxrwxrwx+ 1 admin users   11444414 Nov 21  2021 dragoona.zip
 -rwxrwxrwx+ 1 admin users      60346 Mar  3  2018 drgnbstr.zip
 -rwxrwxrwx+ 1 admin users    1821007 Oct 19  2018 drgnunit.zip
@@ -623,8 +617,6 @@
 -rwxrwxrwx+ 1 admin users      28424 Mar  3  2018 mappy.zip
 -rwxrwxrwx+ 1 admin users     242601 Mar  3  2018 marble.zip
 -rwxrwxrwx+ 1 admin users     904484 May 24 20:30 marblmd2.zip
--rwxrwxrwx+ 1 admin users         18 Jan  5  2020 Mario Kart Arcade GP 2.zip
--rwxrwxrwx+ 1 admin users         18 Jan  5  2020 Mario Kart Arcade GP.zip
 -rwxrwxrwx+ 1 admin users      36588 Mar  6  2018 mario.zip
 -rwxrwxrwx+ 1 admin users   30619610 Mar  3  2018 martmast.zip
 -rwxrwxrwx+ 1 admin users   83910574 Mar 12  2018 matrim.zip
@@ -737,7 +729,6 @@
 -rwxrwxrwx+ 1 admin users    6627697 Mar  3  2018 osman.zip
 -rwxrwxrwx+ 1 admin users    1831394 Mar  3  2018 othunder.zip
 -rwxrwxrwx+ 1 admin users    8436946 Mar 13  2018 outfxies.zip
--rwxrwxrwx+ 1 admin users          0 Oct 26  2020 OutRun 2006.zip
 -rwxrwxrwx+ 1 admin users     877001 Mar  3  2018 outrun.zip
 -rwxrwxrwx+ 1 admin users     952132 Mar  3  2018 outzone.zip
 -rwxrwxrwx+ 1 admin users   13846102 Apr 30  2018 overtop.zip
@@ -1137,7 +1128,6 @@
 -rwxrwxrwx+ 1 admin users   10664590 Mar 14  2018 twinspri.zip
 -rwxrwxrwx+ 1 admin users    1806802 Mar  4  2018 twocrude.zip
 -rwxrwxrwx+ 1 admin users    3414250 Mar  8  2018 uccops.zip
--rwxrwxrwx+ 1 admin users          0 Oct 26  2020 Ultra Street Fighter IV.zip
 -rwxrwxrwx+ 1 admin users    8314291 Mar 14  2018 ultrax.zip
 -rwxrwxrwx+ 1 admin users   22108635 Mar  3  2018 umk3.zip
 -rwxrwxrwx+ 1 admin users      89808 May  7  2018 uniwars.zip

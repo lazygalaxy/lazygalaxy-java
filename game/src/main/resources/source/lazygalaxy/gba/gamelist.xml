@@ -5,8 +5,9 @@
 		<database>LazyGalaxy</database>
 	</provider>
 	<game>
-		<path>./International Karate Plus (USA).7z</path>
+		<path>./International Karate Plus (USA).lazygalaxy</path>
 		<name>International Karate Plus</name>
+		<releasedate>1987</releasedate>
 		<players>1</players>
 	</game>
 </gameList>

@@ -43,6 +43,7 @@ public class Constant {
         public final static String NAOMI = "naomi";
         public final static String NEOGEO = "neogeo";
         public final static String NES = "nes";
+        public final static String TRIFORCE = "triforce";
         public final static String PC = "pc";
         public final static String PCENGINE = "pcengine";
         public final static String PSP = "psp";
@@ -52,7 +53,7 @@ public class Constant {
         public final static String OPENBOR = "openbor";
         public final static String SCUMMVM = "scummvm";
 
-        public final static List<String> MAME = Lists.newArrayList(ARCADE, ATOMISWAVE, DAPHNE, MODEL3, NAOMI, NEOGEO);
+        public final static List<String> MAME = Lists.newArrayList(ARCADE, ATOMISWAVE, DAPHNE, MODEL3, NAOMI, NEOGEO, TRIFORCE);
         public final static List<String> CONSOLE = Lists.newArrayList(DREAMCAST, MEGADRIVE, N64, NES, PCENGINE, PSX, SNES);
 
         public final static List<String> COMPUTER = Lists.newArrayList(C64, PC, SCUMMVM);
@@ -83,6 +84,7 @@ public class Constant {
     }
 
     public static class CoinOpsVersion {
+        public final static String COLLECTIONS_ARCADE = "collectionsarcade";
         public final static String COLLECTIONS_LEGENDS = "collectionslegends";
         public final static String PLAYER_LEGENDS_2 = "playerlegends2";
         public final static String RETRO_ARCADE_2_ELITES = "retroarcade2elites";
@@ -91,6 +93,6 @@ public class Constant {
 
         public final static String OTHER = "other";
 
-        public final static List<String> ALL = Lists.newArrayList(COLLECTIONS_LEGENDS, PI4_LEGENDS_V3, PLAYER_LEGENDS_2, RETRO_ARCADE_2_ELITES, OTHER);
+        public final static List<String> ALL = Lists.newArrayList(COLLECTIONS_ARCADE, COLLECTIONS_LEGENDS, PI4_LEGENDS_V3, PLAYER_LEGENDS_2, RETRO_ARCADE_2_ELITES, OTHER);
     }
 }

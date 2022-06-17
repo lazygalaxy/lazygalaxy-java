@@ -15,7 +15,6 @@
 		<path>./akatana.lazygalaxy</path>
 		<name>Akai Katana</name>
 		<desc>Set in a parallel world resembling Japan's Taishō period, the people have discovered the powerful Blood Swords, the titular Akai Katana. Requiring human sacrifices to unleash their immense destructive power, these swords have been used by the empire to crush neighbouring countries. However, all the bloodshed and power gained through sacrificing close family members has made some of the swordsmen reconsider. With new fighter planes and the powered up swords at their disposal, this small band of rebels now fight back against the tyrannical empire.</desc>
-		<rating>0.8</rating>
 		<releasedate>2010</releasedate>
 		<developer>Cave</developer>
 		<publisher>Rising Star Games</publisher>
@@ -37,15 +36,26 @@ The "Lost Cave" version gathers together the best 100 levels created in-house by
 		<name>Kozure Ookami / Kodure Ookami</name>
 	</game>
 	<game>
-		<path>./mkartagp.lazygalaxy</path>
+		<path>./mariokartarcadegp.lazygalaxy</path>
 		<players>1</players>
 		<buttons>2</buttons>
 		<inputs>pedal,paddle</inputs>
 	</game>
 	<game>
-		<path>./mkartag2.lazygalaxy</path>
+		<path>./mariokartarcadegp2.lazygalaxy</path>
 		<players>1</players>
 		<buttons>2</buttons>
 		<inputs>pedal,paddle</inputs>
+	</game>
+	<game>
+		<path>./marblmd2.zip</path>
+		<name>Marble Madness 2</name>
+		<desc>Marble Madness 2 is an abstract maze game for one or two players. The game was a cancelled arcade game planned for release in 1991 as the sequel to the 1984 arcade game.</desc>
+		<releasedate>1991</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-3</players>
+		<inputs>trackball</inputs>
 	</game>
 </gameList>
