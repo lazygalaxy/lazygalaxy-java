@@ -5,6 +5,10 @@
         <database>LazyGalaxy</database>
     </provider>
     <game>
+        <path>./Aladdin (USA).zip</path>
+        <name>Disney's Aladdin / AladdinMD</name>
+    </game>
+    <game>
         <path>./soniccd.lazygalaxy</path>
         <name>Sonic CD</name>
         <rating>0.8</rating>

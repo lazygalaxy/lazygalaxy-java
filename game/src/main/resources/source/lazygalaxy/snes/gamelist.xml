@@ -5,6 +5,10 @@
 		<database>LazyGalaxy</database>
 	</provider>
 	<game>
+		<path>./Aladdin (USA).zip</path>
+		<name>Disney's Aladdin / Aladdin</name>
+	</game>
+	<game>
 		<path>./Goof Troop (USA).lazygalaxy</path>
 		<name>Goof Troop</name>
 	</game>
