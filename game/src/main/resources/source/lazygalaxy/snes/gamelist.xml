@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Super Nintendo</System>
+		<database>LazyGalaxy</database>
+	</provider>
+	<game>
+		<path>./Goof Troop (USA).lazygalaxy</path>
+		<name>Goof Troop</name>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - A Link to the Past (USA).zip</path>
+		<name>The Legend of Zelda: A Link to the Past / Legend of Zelda: Link to the Past</name>
+	</game>
+	<game>
+		<path>./Mega Man X (USA) (Rev 1).lazygalaxy</path>
+		<name>Mega Man X1 / Mega Man X</name>
+	</game>
+	<game>
+		<path>./Super Bomberman 5.zip</path>
+		<name>Super Bomberman 5</name>
+		<desc>An evil Bomber named Emperor Terrorin who has the power of time itself has freed various criminal Bombers from their prison cells in orbit around Planet Bomber. Setting them up in a warped time and space, White Bomber, Black Bomber, and their Louie (Rooey) companions must travel through stages and defeat them before going up against Emperor Terrorin himself.</desc>
+		<rating>0.85</rating>
+		<releasedate>19970297T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>1-5</players>
+	</game>
+	<game>
+		<path>./Super Star Wars - The Empire Strikes Back (USA) (Rev 1).zip</path>
+		<name>Super Star Wars 2: The Empire Strikes Back</name>
+	</game>
+	<game>
+		<path>./Super Star Wars - Return of the Jedi (USA) (Rev 1).zip</path>
+		<name>Super Star Wars 3: Return of the Jedi</name>
+	</game>
+</gameList>

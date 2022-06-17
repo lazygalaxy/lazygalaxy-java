@@ -2438,7 +2438,7 @@
 		<developer>Sculptured Software</developer>
 		<publisher>JVC</publisher>
 		<genre>Action</genre>
-		<players>1</players>
+					<players>1</players>
 		<image>./boxart/Super Star Wars - Return of the Jedi (USA) (Rev 1).jpg</image>
 		<video>./snaps/Super Star Wars - Return of the Jedi (USA) (Rev 1).mp4</video>
 	</game>

@@ -152,5 +152,11 @@ public class GameUtilTest extends TestCase {
         assertEquals("Sega Rally Championship: Twin/DX", Lists.newArrayList(gameInfo.names).get(0));
         assertEquals("Sega Rally Championship", Lists.newArrayList(gameInfo.names).get(1));
         assertEquals("Revision C", gameInfo.version);
+
+        gameInfo.originalName = "Resident Evil 2 - Dual Shock Ver. (USA)";
+        GameUtil.pretifyName(gameInfo);
+        assertEquals("Resident Evil 2: Dual Shock Ver.", Lists.newArrayList(gameInfo.names).get(0));
+        assertEquals("Resident Evil 2", Lists.newArrayList(gameInfo.names).get(1));
+        assertEquals("USA", gameInfo.version);
     }
 }
