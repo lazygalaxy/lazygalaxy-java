@@ -29,10 +29,10 @@ public class A3_RunArcadeCoinOpsRomLoad {
             GameMerge merge = new GameMerge();
 
             for (String coinopsVersion : CoinOpsVersion.ALL) {
-                for (String gameSystem : GameSystem.MAME) {
-                    if (new RomSetLoad(GameSystem.ARCADE, coinopsVersion)
-                            .load("list/coinops/" + coinopsVersion + "/" + gameSystem + "_roms.ls", 0, merge)) {
-                        LOGGER.info(coinopsVersion + " " + gameSystem + " rom list completed!");
+                for (String subSystemId : GameSystem.MAME) {
+                    if (new RomSetLoad(GameSystem.ARCADE, subSystemId, coinopsVersion)
+                            .load("list/coinops/" + coinopsVersion + "/" + subSystemId + "_roms.ls", 0, merge)) {
+                        LOGGER.info(coinopsVersion + " " + subSystemId + " rom list completed!");
                     }
                 }
             }
@@ -47,11 +47,13 @@ public class A3_RunArcadeCoinOpsRomLoad {
 
     private static class RomSetLoad extends LinuxListLoad<Game> {
         private String systemId;
+        private String subSystemId;
         private String coinopsVersion;
 
-        public RomSetLoad(String systemId, String coinopsVersion) throws Exception {
+        public RomSetLoad(String systemId, String subSystemId, String coinopsVersion) throws Exception {
             super(Game.class);
             this.systemId = systemId;
+            this.subSystemId = subSystemId;
             this.coinopsVersion = coinopsVersion;
         }
 
@@ -79,6 +81,9 @@ public class A3_RunArcadeCoinOpsRomLoad {
             }
 
             game.coinopsVersions = SetUtil.addValueToTreeSet(game.coinopsVersions, coinopsVersion);
+            if (!StringUtils.equals(subSystemId, systemId)) {
+                game.coinopsGameInfo = new GameInfo(gameId, subSystemId);
+            }
 
             return Arrays.asList(game);
         }

@@ -76,6 +76,8 @@ public class C1_RunAllDeriveEnrichLoad {
         @Override
         protected List<Game> getMongoDocument(Game game) throws Exception {
 
+            game.subSystemId = null;
+            setField(game, "systemId");
             setField(game, "names");
             setField(game, "year");
             setField(game, "players");
@@ -114,6 +116,11 @@ public class C1_RunAllDeriveEnrichLoad {
                                     game.publisher = manufacturer;
                                     return;
                                 }
+                            }
+                        } else if (StringUtils.equals(field, "systemId")) {
+                            if (fieldObject != null && !StringUtils.equals(game.systemId, (String) fieldObject)) {
+                                game.subSystemId = (String) fieldObject;
+                                return;
                             }
                         } else {
                             Game.class.getField(field).set(game, fieldObject);

@@ -13,6 +13,7 @@ public class Game extends MongoDocument {
 
     public String gameId;
     public String systemId;
+    public String subSystemId;
     public String version;
     public Long fileSize;
 
@@ -21,6 +22,8 @@ public class Game extends MongoDocument {
     public Boolean hide;
 
     public GameInfo lazygalaxyGameInfo;
+
+    public GameInfo coinopsGameInfo;
     public GameInfo mameGameInfo;
     public GameInfo scummvmGameInfo;
     // retropie images

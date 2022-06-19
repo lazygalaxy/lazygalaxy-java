@@ -60,7 +60,13 @@ public class GameInfo {
                 isVertical, inputs, ways, buttons, status, isGuess);
     }
 
-    // coinops consrtuctor
+    //coinops constructor
+    public GameInfo(String gameId, String systemId) {
+        this(gameId, systemId, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
+                null, null, null, null);
+    }
+
+    // scummvm consrtuctor
     public GameInfo(String gameId, String path, String originalName) {
         this(gameId, null, path, originalName, null, null, null, null, null, null, null, null, null, null, null, null,
                 null, null, null, null);

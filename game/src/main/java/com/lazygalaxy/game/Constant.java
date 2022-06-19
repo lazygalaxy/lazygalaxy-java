@@ -79,7 +79,7 @@ public class Constant {
 
         public final static String SCUMMVM = "scummvm";
 
-        public final static List<String> ALL = Lists.newArrayList(LAZYGALAXY, MAME, RICKDANGEROUS_ULTIMATE,
+        public final static List<String> ALL = Lists.newArrayList(LAZYGALAXY, MAME, RICKDANGEROUS_ULTIMATE, COINOPS,
                 WOLFANOZ_12K, VMAN_BLISS);
     }
 

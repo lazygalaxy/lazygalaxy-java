@@ -32,7 +32,7 @@ public class GenerateCoinOpsGameListFromDB {
         Path filePath = Paths
                 .get("/Users/vangos/Development/git/lazygalaxy-java/game/src/main/resources/report/CoinOps_GameList.txt");
         Files.writeString(filePath,
-                "System" + seperator + "Name" + seperator + "Year" + seperator + "ROM" + seperator + "Version" + seperator + "Players" + seperator +
+                "System" + seperator + "SubSystem" + seperator + "Name" + seperator + "Year" + seperator + "ROM" + seperator + "Version" + seperator + "Players" + seperator +
                         "Joystick" + seperator + "Buttons" + seperator + "LightGun" + seperator + "TrackBall" + seperator + "Other Input"
                         + seperator + "Vertical" + seperator + "Manufacturers" + seperator +
                         "Collections Arcade" + seperator +
@@ -44,7 +44,7 @@ public class GenerateCoinOpsGameListFromDB {
 
         for (Game game : games) {
             Files.writeString(filePath,
-                    game.systemId + seperator + game.name + seperator + game.year + seperator + game.gameId + seperator + (game.version != null ? game.version : "none") + seperator
+                    game.systemId + seperator + (game.subSystemId != null && !StringUtils.equals(game.subSystemId, game.systemId) ? game.subSystemId : "none") + seperator + game.name + seperator + game.year + seperator + game.gameId + seperator + (game.version != null ? game.version : "none") + seperator
                             + (game.players != null && game.players > 0 ? game.players : "unknown")
                             + seperator
                             + (game.inputs != null ? (game.inputs.contains("joy") ? "joy" + game.ways + "way" : (game.inputs.contains("doublejoy") ? "doublejoy" + game.ways + "way" : "none")) : "unknown")
