@@ -54,9 +54,9 @@ public class GameInfo {
     }
 
     // mame constructor
-    public GameInfo(String gameId, String originalName, String year, String players, List<String> manufacturers, Set<String> emulatorVersions,
+    public GameInfo(String gameId, String systemId, String originalName, String year, String players, List<String> manufacturers, Set<String> emulatorVersions,
                     Boolean isVertical, Set<String> inputs, String ways, Integer buttons, String status, Boolean isGuess) {
-        this(gameId, null, null, originalName, year, null, null, null, null, null, null, players, manufacturers, emulatorVersions,
+        this(gameId, systemId, null, originalName, year, null, null, null, null, null, null, players, manufacturers, emulatorVersions,
                 isVertical, inputs, ways, buttons, status, isGuess);
     }
 

@@ -98,7 +98,7 @@ arcade	none	Batsugun: Special Version	1993	batsugunsp	none	2	joy8way	3	No	No	non
 arcade	none	Battle Bakraid: Unlimited Version	1999	bbakraid	USA Tue Jun 8 1999	2	joy8way	3	No	No	none	Yes	Eighting	Yes	No	Yes	Yes	Yes
 arcade	none	Battle Chopper	1987	bchopper	World	2	joy8way	4	No	No	none	No	Irem	Yes	Yes	Yes	Yes	Yes
 arcade	none	Battle Circuit	1997	batcir	Euro 970319	4	joy8way	2	No	No	none	No	Capcom	Yes	Yes	Yes	Yes	Yes
-arcade	none	Battle Flip Shot	1998	flipshot	none	2	joy8way	4	No	No	none	No	Visco	Yes	No	No	No	No
+arcade	neogeo	Battle Flip Shot	1998	flipshot	none	2	joy8way	4	No	No	none	No	Visco	Yes	No	No	No	No
 arcade	none	Battle Garegga	1996	bgaregga	Europe / USA / Japan / Asia Sat Feb 3 1996	2	joy8way	3	No	No	none	Yes	Raizing / Eighting	Yes	Yes	No	Yes	Yes
 arcade	none	Battle Garegga	1996	battlega	Europe / USA / Japan / Asia Sat Feb 3 1996	2	joy8way	3	No	No	none	Yes	Raizing / Eighting	No	No	Yes	No	No
 arcade	none	Battle Lane! Vol. 5	1986	battlane	set 1	2	joy8way	2	No	No	none	Yes	Technos Japan / Taito	Yes	No	No	No	No
@@ -179,7 +179,7 @@ arcade	naomi	Capcom Vs. SNK: Millennium Fight 2000 Pro	2001	cvsgd	Japan GDL-0004
 arcade	none	Captain America & The Avengers	1991	captaven	Asia Rev 1.4	4	joy8way	2	No	No	none	No	Data East	Yes	Yes	Yes	Yes	Yes
 arcade	none	Captain Commando	1991	captcomm	World 911202	4	joy8way	2	No	No	none	No	Capcom	Yes	Yes	Yes	Yes	Yes
 arcade	none	Captain Silver	1987	csilver	World	2	joy8way	2	No	No	none	No	Data East	Yes	No	No	No	Yes
-arcade	none	Captain Tomaday	1999	ctomaday	none	2	joy8way	4	No	No	none	No	Visco	Yes	No	No	No	Yes
+arcade	neogeo	Captain Tomaday	1999	ctomaday	none	2	joy8way	4	No	No	none	No	Visco	Yes	No	No	No	Yes
 arcade	none	CarnEvil	1998	carnevil	v1.0.3	2	none	2	Yes	No	none	No	Midway Games	Yes	No	No	No	No
 arcade	none	Carnival	1980	carnival	upright, AY8912 music	1	joy2way	1	No	No	none	Yes	SEGA	Yes	No	No	No	No
 arcade	none	Carrier Air Wing	1990	cawing	World 901012	2	joy8way	3	No	No	none	No	Capcom	Yes	Yes	Yes	Yes	Yes
@@ -232,11 +232,11 @@ arcade	none	Cotton Boomerang	1998	cottonbm	JUET 980709 V1.000	4	joy8way	4	No	No	
 arcade	none	Crack Down	1989	crkdown	World, Floppy Based, FD1094 317-0058-04c	2	joy8way	3	No	No	none	No	SEGA	Yes	No	No	No	Yes
 arcade	none	Crazy Climber	1980	cclimber	US set 1	2	doublejoy8way	0	No	No	none	No	Nichibutsu	Yes	No	Yes	Yes	Yes
 arcade	none	Crazy Climber 2	1988	cclimbr2	Japan	2	doublejoy8way	0	No	No	none	No	Nichibutsu	Yes	No	No	No	No
-arcade	none	Crazy Taxi	1999	crzytaxi	none	1	none	2	No	No	pedal/paddle	No	SEGA	No	No	No	No	Yes
+arcade	naomi	Crazy Taxi	1999	crzytaxi	none	1	none	2	No	No	pedal/paddle	No	SEGA	No	No	No	No	Yes
 arcade	none	Crime City	1989	crimec	World	2	joy8way	2	No	No	none	No	Taito	Yes	No	No	No	No
 arcade	none	Crime Fighters	1989	crimfght	World 2 players	2	joy8way	3	No	No	none	No	Konami	Yes	No	No	No	No
 arcade	none	Crossbow	1983	crossbow	version 2.0	1	none	1	Yes	No	none	No	Exidy	Yes	No	No	No	No
-arcade	none	Crossed Swords	1991	crsword	ALM-002 ~ ALH-002	2	joy8way	4	No	No	none	No	Alpha Denshi Co.	Yes	No	No	No	Yes
+arcade	neogeo	Crossed Swords	1991	crsword	ALM-002 ~ ALH-002	2	joy8way	4	No	No	none	No	Alpha Denshi Co.	Yes	No	No	No	Yes
 arcade	neogeo	Crossed Swords 2	1996	crswd2bl	bootleg of CD version	2	joy8way	4	No	No	none	No	bootleg / Razoola	Yes	No	No	No	No
 arcade	none	Cruis'n USA	1994	crusnusa	v4.5	1	none	8	No	No	pedal/paddle	No	Midway	Yes	No	No	No	Yes
 arcade	none	Cruis'n World	1996	crusnwld	v2.5	1	none	8	No	No	pedal/paddle	No	Midway	Yes	No	No	No	No
@@ -270,7 +270,7 @@ arcade	naomi	Death Crimson OX	2000	deathcox	USA	2	none	2	Yes	No	none	No	Ecole So
 arcade	none	Deathsmiles MegaBlack Label	2008	dsmbl	2008/10/06 MEGABLACK LABEL VER	2	joy8way	4	No	No	none	No	Cave / AMI license	Yes	Yes	Yes	Yes	Yes
 arcade	none	Deep, The	1987	thedeep	Japan	2	joy8way	2	No	No	none	Yes	Woodplace Inc.	Yes	No	No	No	No
 arcade	none	Defender	1980	defender	Red label	1	joyvertical2way	5	No	No	none	No	Williams	Yes	Yes	Yes	Yes	Yes
-arcade	none	Demolish Fist	2003	demofist	none	2	joy8way	6	No	No	none	No	Polygon Magic / Dimps	Yes	No	No	No	No
+arcade	atomiswave	Demolish Fist	2003	demofist	none	2	joy8way	6	No	No	none	No	Polygon Magic / Dimps	Yes	No	No	No	No
 arcade	none	Demon Front	2002	dmnfrnt	68k label V105, ROM M105XX 08/05/02 ARM label V105, ROM 08/05/02 S105XX	4	joy8way	4	No	No	none	No	IGS	Yes	Yes	Yes	Yes	Yes
 arcade	none	Demon's World	1990	demonwld	set 1	2	joy8way	3	No	No	none	No	Toaplan	Yes	No	No	No	No
 arcade	none	Denjin Makai	1994	denjinmk	set 1	4	joy8way	3	No	No	none	No	Winkysoft / Banpresto license	Yes	No	No	No	No
@@ -295,7 +295,7 @@ arcade	none	DoDonPachi 3	2002	ddp3	World, 2002.05.15 Master Ver	2	joy8way	3	No	N
 arcade	none	DoDonPachi Dai-Fukkatsu Ver 1.5	2008	ddpdfk	2008/06/23 MASTER VER 1.5	2	joy8way	4	No	No	none	Yes	Cave / AMI license	Yes	Yes	Yes	Yes	Yes
 arcade	none	DoDonPachi Dai-Ou-Jou	2002	ddpdoj	Japan, 2002.04.05.Master Ver, 68k Label V101	2	joy8way	3	No	No	none	Yes	Cave / AMI license	Yes	Yes	No	Yes	Yes
 arcade	none	Dogyuun	1992	dogyuun	none	2	joy8way	3	No	No	none	Yes	Toaplan	Yes	No	No	No	No
-arcade	none	Dolphin Blue	2003	dolphin	none	2	joy8way	6	No	No	none	No	Sammy	Yes	No	Yes	No	Yes
+arcade	atomiswave	Dolphin Blue	2003	dolphin	none	2	joy8way	6	No	No	none	No	Sammy	Yes	No	Yes	No	Yes
 arcade	none	Domino Man	1982	domino	none	2	joy4way	1	No	No	none	No	Bally Midway	Yes	No	No	No	No
 arcade	none	Don Doko Don	1989	dondokod	World	2	joy8way	2	No	No	none	No	Taito	Yes	No	No	No	No
 arcade	none	DonPachi	1995	donpachi	US	2	joy8way	3	No	No	none	Yes	Cave / Atlus license	Yes	No	No	No	Yes
@@ -306,7 +306,7 @@ arcade	none	Donkey Kong 3	1983	dkong3	US	2	joy4way	1	No	No	none	Yes	Nintendo	Yes
 arcade	none	Donkey Kong Junior	1982	dkongjr	US set F-2	2	joy4way	1	No	No	none	Yes	Nintendo	Yes	Yes	Yes	Yes	Yes
 arcade	none	Double Axle	1991	dblaxle	US, Rev 1	1	none	5	No	No	paddle	No	Taito	Yes	No	No	No	No
 arcade	none	Double Dragon	1987	ddragon	Japan	2	joy8way	3	No	No	none	No	Technos Japan / Technos Japan Corp.	Yes	Yes	Yes	Yes	Yes
-arcade	none	Double Dragon	1995	doubledr	Neo-Geo	2	joy8way	4	No	No	none	No	Technos Japan	Yes	No	No	No	No
+arcade	neogeo	Double Dragon	1995	doubledr	Neo-Geo	2	joy8way	4	No	No	none	No	Technos Japan	Yes	No	No	No	No
 arcade	none	Double Dragon 2: The Revenge	1988	ddragon2	World	2	joy8way	3	No	No	none	No	Technos Japan / Technos Japan Corp.	Yes	Yes	Yes	Yes	Yes
 arcade	none	Double Dragon 3: The Rosetta Stone	1990	ddragon3	US	3	joy8way	3	No	No	none	No	East Technology / Technos Japan	Yes	No	No	No	No
 arcade	none	Double Dribble	1986	ddribble	none	2	joy8way	3	No	No	none	No	Konami	Yes	No	No	No	No
@@ -339,7 +339,7 @@ arcade	none	E.D.F.: Earth Defense Force	1991	edf	set 1	2	joy8way	2	No	No	none	No
 arcade	none	ESP Ra.De.	1998	esprade	World, 1998 4/22 International Ver.	2	joy8way	3	No	No	none	Yes	Cave / Atlus license	Yes	Yes	Yes	Yes	Yes
 arcade	none	Eco Fighters	1993	ecofghtr	World 931203	2	joy8way	3	No	No	dial	No	Capcom	Yes	No	Yes	Yes	Yes
 arcade	none	Eight Forces	1994	eightfrc	none	2	joy8way	2	No	No	none	Yes	Tecmo	Yes	No	No	No	No
-arcade	none	Eight Man	1991	eightman	NGM-025 ~ NGH-025	2	joy8way	4	No	No	none	No	SNK / Pallas	Yes	No	No	No	No
+arcade	neogeo	Eight Man	1991	eightman	NGM-025 ~ NGH-025	2	joy8way	4	No	No	none	No	SNK / Pallas	Yes	No	No	No	No
 arcade	none	Elevator Action	1983	elevator	BA3, 4 PCB version, 1.1	2	joy8way	2	No	No	none	No	Taito	Yes	Yes	Yes	Yes	Yes
 arcade	none	Elevator Action Returns	1994	elvactr	Ver 2.2O 1995/02/20	4	joy8way	4	No	No	dial	No	Taito	Yes	Yes	Yes	Yes	Yes
 arcade	model3	Emergency Call Ambulance	1999	eca	Export	1	joyvertical2way	3	No	No	pedal/paddle	No	SEGA	Yes	No	No	No	No
@@ -368,11 +368,11 @@ arcade	none	Fantasy Zone	1986	fantzone	Rev A, unprotected	2	joy8way	3	No	No	none
 arcade	none	Fantasy Zone 2: The Tears of Opa-Opa	1988	fantzn2	MC-8123, 317-0057	1	joy8way	2	No	No	none	No	SEGA	Yes	No	No	No	No
 arcade	neogeo	Far East of Eden: Kabuki Klash	1995	kabukikl	none	2	joy8way	4	No	No	none	No	Hudson / Red Company	Yes	No	No	No	Yes
 arcade	none	Fast Lane	1987	fastlane	none	2	joy8way	2	No	No	none	Yes	Konami	Yes	No	No	No	No
-arcade	naomi	Faster Than Speed	2004	ftspeed	none	1	none	2	No	No	pedal/paddle	No	Sammy / Sammy Studios	Yes	No	No	No	No
+arcade	atomiswave	Faster Than Speed	2004	ftspeed	none	1	none	2	No	No	pedal/paddle	No	Sammy / Sammy Studios	Yes	No	No	No	No
 arcade	neogeo	Fatal Fury 2	1992	fatfury2	NGM-047 ~ NGH-047	2	joy8way	4	No	No	none	No	SNK	Yes	No	No	No	Yes
 arcade	neogeo	Fatal Fury 3: Road to the Final Victory	1995	fatfury3	NGM-069 ~ NGH-069	2	joy8way	4	No	No	none	No	SNK	Yes	No	No	No	No
 arcade	neogeo	Fatal Fury Special	1993	fatfursp	NGM-058 ~ NGH-058, set 1	2	joy8way	4	No	No	none	No	SNK	Yes	No	No	No	Yes
-arcade	none	Fatal Fury: King of Fighters	1991	fatfury1	NGM-033 ~ NGH-033	2	joy8way	4	No	No	none	No	SNK	Yes	No	No	No	No
+arcade	neogeo	Fatal Fury: King of Fighters	1991	fatfury1	NGM-033 ~ NGH-033	2	joy8way	4	No	No	none	No	SNK	Yes	No	No	No	No
 arcade	none	Fever SOS	1998	feversos	World, 98/09/25 VER	2	joy8way	3	No	No	none	Yes	Cave / Nihon System license	Yes	No	No	No	No
 arcade	none	Fighter's History	1993	fghthist	World ver 43-09, DE-0395-1 PCB	2	joy8way	6	No	No	none	No	Data East	Yes	No	No	No	No
 arcade	none	Fighting Hawk	1988	fhawk	World	2	joy8way	2	No	No	none	Yes	Taito	Yes	No	No	No	No
@@ -384,13 +384,13 @@ arcade	none	Final Round, The	1988	fround	version M	2	joy8way	3	No	No	none	No	Kon
 arcade	none	Final Star Force	1992	fstarfrc	US	2	joy8way	2	No	No	none	Yes	Tecmo	Yes	No	No	No	No
 arcade	none	Fire Shark	1990	fireshrk	none	2	joy8way	2	No	No	none	Yes	Toaplan	Yes	No	No	No	No
 arcade	none	Fire Trap	1986	firetrap	US, rev A	2	doublejoy4way	1	No	No	none	Yes	Woodplace Inc. / Data East	Yes	No	No	No	No
-arcade	naomi	Fist Of The North Star	2005	fotns	none	2	joy8way	6	No	No	none	No	Arc System Works / SEGA	Yes	No	No	No	No
+arcade	atomiswave	Fist Of The North Star	2005	fotns	none	2	joy8way	6	No	No	none	No	Arc System Works / SEGA	Yes	No	No	No	No
 arcade	none	FixEight	1992	fixeight	Europe	3	joy8way	2	No	No	none	Yes	Toaplan	Yes	No	No	No	No
 arcade	none	Flicky	1984	flicky	128k Version, 315-5051	2	joy2way	1	No	No	none	No	SEGA	Yes	Yes	Yes	Yes	Yes
 arcade	none	Flying Shark	1987	fshark	World	2	joy8way	2	No	No	none	Yes	Toaplan / Taito	Yes	Yes	Yes	Yes	Yes
 arcade	none	Food Fight	1982	foodf2	rev 2	2	none	1	No	No	stick	No	General Computer Corporation / Atari license	Yes	No	No	No	Yes
 arcade	none	Football Champ	1990	footchmp	World	4	joy8way	2	No	No	none	No	Taito	Yes	No	No	No	No
-arcade	none	Football Frenzy	1992	fbfrenzy	NGM-034 ~ NGH-034	2	joy8way	4	No	No	none	No	SNK	Yes	No	No	No	No
+arcade	neogeo	Football Frenzy	1992	fbfrenzy	NGM-034 ~ NGH-034	2	joy8way	4	No	No	none	No	SNK	Yes	No	No	No	No
 arcade	none	Forgotten Worlds	1988	forgottn	World, newer	2	joy8way	1	No	No	dial	No	Capcom	Yes	Yes	Yes	Yes	Yes
 arcade	none	Formation Z	1984	formatz	none	2	joy8way	2	No	No	none	No	Jaleco	Yes	No	No	No	No
 arcade	none	Frenzy	1981	frenzy	revision RA1	2	joy8way	1	No	No	none	No	Stern Electronics / Stern Electronics, Inc.	Yes	No	No	No	No
@@ -410,11 +410,11 @@ arcade	none	Galactic Storm	1992	galastrm	Japan	1	none	4	No	No	stick	No	Taito	Yes
 arcade	none	Galaga	1981	galaga	Namco rev. B	2	joy2way	1	No	No	none	Yes	Namco / Midway	Yes	Yes	Yes	Yes	Yes
 arcade	none	Galaga '88	1987	galaga88	none	2	joy8way	3	No	No	none	Yes	Namco	Yes	No	Yes	Yes	Yes
 arcade	none	Galaxian	1979	galaxian	Namco set 1	2	joy2way	1	No	No	none	Yes	Namco	Yes	Yes	Yes	Yes	Yes
-arcade	none	Galaxy Fight: Universal Warriors	1995	galaxyfg	none	2	joy8way	4	No	No	none	No	Sunsoft	Yes	No	No	No	No
+arcade	neogeo	Galaxy Fight: Universal Warriors	1995	galaxyfg	none	2	joy8way	4	No	No	none	No	Sunsoft	Yes	No	No	No	No
 arcade	none	Galaxy Force 2	1988	gforce2	none	1	none	2	No	No	stick	No	SEGA	Yes	Yes	Yes	Yes	Yes
 arcade	none	Gang Busters	1988	gbusters	set 1	2	joy8way	2	No	No	none	Yes	Konami	Yes	No	Yes	Yes	Yes
 arcade	none	Gang Wars	1989	gangwars	none	2	joy8way	3	No	No	none	No	Alpha Denshi Co.	Yes	No	No	No	No
-arcade	none	Ganryu	1999	ganryu	none	2	joy8way	4	No	No	none	No	Visco	Yes	No	No	No	No
+arcade	neogeo	Ganryu	1999	ganryu	none	2	joy8way	4	No	No	none	No	Visco	Yes	No	No	No	No
 arcade	none	Gaplus	1984	gaplus	GP2 rev. B	2	joy8way	1	No	No	none	Yes	Namco	Yes	Yes	Yes	Yes	Yes
 arcade	neogeo	Garou: Mark of the Wolves	1999	garou	NGM-2530	2	joy8way	4	No	No	none	No	SNK	Yes	Yes	Yes	Yes	Yes
 arcade	none	Gauntlet	1985	gauntlet2p	2 Players, rev 6	4	joy8way	2	No	No	none	No	Atari Games	Yes	No	No	No	No
@@ -458,8 +458,8 @@ arcade	none	Guardian Force	1998	grdforce	JUET 980318 V0.105	4	joy8way	4	No	No	no
 arcade	none	Guardians	1995	grdians	P-FG01-1 PCB	2	joy8way	3	No	No	none	No	Winkysoft / Banpresto license	Yes	No	No	No	No
 arcade	none	Guardians of the 'Hood	1992	guardian	none	3	joy8way	5	No	No	none	No	Atari Games	Yes	No	No	No	No
 arcade	none	Guerrilla War	1987	gwarb	Joystick hack bootleg	2	joy8way	2	No	No	positional	Yes	bootleg / SNK	Yes	Yes	Yes	Yes	Yes
-arcade	none	Guilty Gear Isuka	2004	ggisuka	none	4	joy8way	6	No	No	none	No	Arc System Works / Sammy	Yes	No	No	No	No
-arcade	none	Guilty Gear X ver. 1.5	2003	ggx15	none	2	joy8way	6	No	No	none	No	Arc System Works / Sammy	Yes	No	No	No	No
+arcade	atomiswave	Guilty Gear Isuka	2004	ggisuka	none	4	joy8way	6	No	No	none	No	Arc System Works / Sammy	Yes	No	No	No	No
+arcade	atomiswave	Guilty Gear X ver. 1.5	2003	ggx15	none	2	joy8way	6	No	No	none	No	Arc System Works / Sammy	Yes	No	No	No	No
 arcade	naomi	Guilty Gear XX	2002	ggxx	GDL-0011	2	joy8way	6	No	No	none	No	Arc System Works	Yes	No	No	No	No
 arcade	naomi	Guilty Gear XX #Reload	2003	ggxxrl	Japan, Rev A GDL-0019A	2	joy8way	6	No	No	none	No	Arc System Works	Yes	No	No	No	No
 arcade	none	Gulf Storm	1991	gulfstrm	set 1	2	joy8way	2	No	No	none	Yes	Dooyong	Yes	No	No	No	No
@@ -514,7 +514,7 @@ arcade	none	Insector X	1989	insectx	World	2	joy8way	2	No	No	none	No	Taito	Yes	No
 arcade	none	Iron Fortress	1998	ironfort	none	2	joy8way	2	No	No	none	No	Eolith	Yes	No	No	No	No
 arcade	none	Iron Horse	1986	ironhors	version K	2	joy4way	3	No	No	none	No	Konami	Yes	Yes	Yes	Yes	Yes
 arcade	none	Ironman Ivan Stewart's Super Off-Road Track-Pak	1989	offroadt	none	3	none	1	No	No	pedal/dial	No	Leland Corporation	Yes	No	Yes	Yes	Yes
-arcade	none	Irritating Maze, The	1997	irrmaze	none	2	none	2	No	Yes	none	No	SNK / Saurus	Yes	No	No	No	No
+arcade	neogeo	Irritating Maze, The	1997	irrmaze	none	2	none	2	No	Yes	none	No	SNK / Saurus	Yes	No	No	No	No
 arcade	none	J. J. Squawkers	1993	jjsquawk	none	2	joy8way	3	No	No	none	No	Athena / Able	Yes	No	No	No	No
 arcade	none	Jackal	1986	jackal	World, 8-way Joystick	2	joy8way	2	No	No	none	Yes	Konami	Yes	Yes	Yes	Yes	Yes
 arcade	none	Jackie Chan in Fists of Fire	1995	jchan2	none	2	joy8way	4	No	No	none	No	Kaneko	Yes	No	No	No	No
@@ -560,17 +560,17 @@ arcade	neogeo	King of Fighters 2000, The	2000	kof2000	NGM-2570 ~ NGH-2570	2	joy8
 arcade	neogeo	King of Fighters 2001, The	2001	kof2001	NGM-262?	2	joy8way	4	No	No	none	No	Eolith / SNK	Yes	No	No	No	Yes
 arcade	neogeo	King of Fighters 2002, The	2002	kof2002	NGM-2650 ~ NGH-2650	2	joy8way	4	No	No	none	No	Eolith / Playmore	Yes	Yes	Yes	Yes	Yes
 arcade	neogeo	King of Fighters 2003, The	2003	kof2003	NGM-2710, Export	2	joy8way	4	No	No	none	No	SNK Playmore / SNK	Yes	No	No	No	Yes
-arcade	none	King of Fighters Neowave, The	2004	kofnw	none	2	joy8way	6	No	No	none	No	Sammy / SNK Playmore	Yes	No	No	No	No
-arcade	none	King of Fighters XI, The	2005	kofxi	none	2	joy8way	6	No	No	none	No	Sammy / SNK Playmore	Yes	No	No	No	No
+arcade	atomiswave	King of Fighters Neowave, The	2004	kofnw	none	2	joy8way	6	No	No	none	No	Sammy / SNK Playmore	Yes	No	No	No	No
+arcade	atomiswave	King of Fighters XI, The	2005	kofxi	none	2	joy8way	6	No	No	none	No	Sammy / SNK Playmore	Yes	No	No	No	No
 arcade	neogeo	King of the Monsters	1991	kotm	set 1	2	joy8way	4	No	No	none	No	SNK	Yes	No	No	No	No
-arcade	none	King of the Monsters 2: The Next Thing	1992	kotm2	NGM-039 ~ NGH-039	2	joy8way	4	No	No	none	No	SNK	Yes	No	No	No	Yes
+arcade	neogeo	King of the Monsters 2: The Next Thing	1992	kotm2	NGM-039 ~ NGH-039	2	joy8way	4	No	No	none	No	SNK	Yes	No	No	No	Yes
 arcade	none	Kingdom Grandprix	1994	kingdmgp	none	2	joy8way	3	No	No	none	Yes	Raizing / Eighting	Yes	No	No	No	Yes
 arcade	neogeo	Kizuna Encounter: Super Tag Battle	1996	kizuna	none	2	joy8way	4	No	No	none	No	SNK	Yes	No	No	No	Yes
 arcade	none	Klax	1989	klax	version 6	2	joy4way	1	No	No	none	No	Atari Games / Atari	Yes	No	No	No	Yes
 arcade	none	Knights of Valour	1999	kov	ver. 117, Hong Kong	4	joy8way	4	No	No	none	No	IGS	Yes	Yes	Yes	Yes	Yes
 arcade	none	Knights of Valour 2	2000	kov2	ver. 107, 102, 100HK	4	joy8way	4	No	No	none	No	IGS	Yes	Yes	Yes	Yes	Yes
 arcade	none	Knights of Valour 3	2011	kov3	V104, China, Hong Kong, Taiwan	4	joy8way	4	No	No	none	No	IGS / Huatong license	Yes	No	No	No	No
-arcade	naomi	Knights of Valour: The Seven Spirits	2003	kov7sprt	none	2	joy8way	6	No	No	none	No	IGS / Sammy	Yes	No	No	No	No
+arcade	atomiswave	Knights of Valour: The Seven Spirits	2003	kov7sprt	none	2	joy8way	6	No	No	none	No	IGS / Sammy	Yes	No	No	No	No
 arcade	none	Knights of the Round	1991	knights	World 911127	3	joy8way	2	No	No	none	No	Capcom	Yes	Yes	Yes	Yes	Yes
 arcade	none	Knuckle Bash	1993	kbash	none	2	joy8way	3	No	No	none	No	Toaplan / Atari	Yes	No	No	No	No
 arcade	none	Knuckle Bash 2	1999	kbash2	bootleg	2	joy8way	3	No	No	none	No	bootleg	Yes	No	No	No	No
@@ -647,7 +647,7 @@ arcade	naomi	Marvel Vs. Capcom 2: New Age of Heroes	2000	mvsc2	Export, Korea, Re
 arcade	none	Marvel Vs. Capcom: Clash of Super Heroes	1998	mvscb	Brazil 980123	2	joy8way	6	No	No	none	No	Capcom	Yes	No	No	No	No
 arcade	none	Marvel Vs. Capcom: Clash of Super Heroes	1998	mvsc	Euro 980123	2	joy8way	6	No	No	none	No	Capcom	Yes	Yes	Yes	Yes	Yes
 arcade	neogeo	Matrimelee	2003	matrim	NGM-2660 ~ NGH-2660	2	joy8way	4	No	No	none	No	Noise Factory / Atlus	Yes	No	No	No	Yes
-arcade	none	Maximum Speed	2003	maxspeed	none	1	none	2	No	No	pedal/paddle	No	SIMS / Sammy	Yes	No	No	No	No
+arcade	atomiswave	Maximum Speed	2003	maxspeed	none	1	none	2	No	No	pedal/paddle	No	SIMS / Sammy	Yes	No	No	No	No
 arcade	none	Maze of Flott	1989	mofflott	Japan	2	joy8way	2	No	No	none	Yes	Taito	Yes	No	No	No	No
 arcade	none	Mazinger Z	1994	mazinger	World	2	joy8way	3	No	No	none	Yes	Banpresto / Dynamic Pl. Toei Animation	Yes	No	Yes	No	Yes
 arcade	none	Mechanized Attack	1989	mechatt	World	2	none	2	Yes	No	none	No	SNK	Yes	No	Yes	Yes	No
@@ -659,11 +659,11 @@ arcade	none	Mega Zone	1983	megazone	program code L	2	joy8way	1	No	No	none	Yes	Ko
 arcade	none	Meikyu Jima	1988	kikcubic	Japan	2	joy4way	2	No	No	none	No	Irem	Yes	No	No	No	No
 arcade	none	Mercs	1990	mercs	World 900302	3	joy8way	2	No	No	none	Yes	Capcom	Yes	Yes	Yes	Yes	Yes
 arcade	none	Metal Hawk	1988	metlhawk	Rev C	2	none	2	No	No	stick	Yes	Namco	Yes	No	No	No	No
-arcade	none	Metal Slug 2 Turbo	2015	mslug2t	NGM-9410 hack	2	joy8way	4	No	No	none	No	hack / trap15	Yes	No	No	No	Yes
+arcade	neogeo	Metal Slug 2 Turbo	2015	mslug2t	NGM-9410 hack	2	joy8way	4	No	No	none	No	hack / trap15	Yes	No	No	No	Yes
 arcade	neogeo	Metal Slug 3	2000	mslug3	NGM-2560	2	joy8way	4	No	No	none	No	SNK	Yes	Yes	Yes	Yes	Yes
 arcade	neogeo	Metal Slug 4	2002	mslug4	NGM-2630	2	joy8way	4	No	No	none	No	Mega / Noise Factory	Yes	Yes	Yes	Yes	Yes
 arcade	neogeo	Metal Slug 5	2003	mslug5	NGM-2680	2	joy8way	4	No	No	none	No	SNK Playmore / SNK	Yes	Yes	Yes	Yes	Yes
-arcade	none	Metal Slug 6	2006	mslug6	none	2	joy8way	6	No	No	none	No	SEGA / SNK Playmore	Yes	No	No	No	No
+arcade	atomiswave	Metal Slug 6	2006	mslug6	none	2	joy8way	6	No	No	none	No	SEGA / SNK Playmore	Yes	No	No	No	No
 arcade	neogeo	Metal Slug X: Super Vehicle-001	1999	mslugx	NGM-2500 ~ NGH-2500	2	joy8way	4	No	No	none	No	SNK	Yes	Yes	Yes	Yes	Yes
 arcade	neogeo	Metal Slug: Super Vehicle-001	1996	mslug	none	2	joy8way	4	No	No	none	No	Nazca / Nazca Corporation	Yes	Yes	Yes	Yes	Yes
 arcade	none	Metamoqester	1995	metmqstr	World	2	joy8way	4	No	No	none	No	Banpresto / Pandorabox	Yes	No	No	No	No
@@ -722,7 +722,7 @@ arcade	none	Nemo	1990	nemo	World 901130	2	joy8way	3	No	No	none	No	Capcom	Yes	No	
 arcade	neogeo	Neo Bomberman	1997	neobombe	none	2	joy8way	4	No	No	none	No	Hudson / SNK	Yes	No	No	No	No
 arcade	neogeo	Neo Drift Out: New Technology	1996	neodrift	none	2	joy8way	4	No	No	none	No	Visco / SNK	Yes	No	Yes	Yes	No
 arcade	neogeo	Neo Turf Masters	1996	turfmast	none	2	joy8way	4	No	No	none	No	Nazca / Nazca Corporation	Yes	No	No	No	Yes
-arcade	none	NeoGeo Battle Coliseum	2005	ngbc	none	2	joy8way	6	No	No	none	No	Sammy / SNK Playmore	Yes	No	No	No	No
+arcade	atomiswave	NeoGeo Battle Coliseum	2005	ngbc	none	2	joy8way	6	No	No	none	No	Sammy / SNK Playmore	Yes	No	No	No	No
 arcade	none	New Rally X	1981	nrallyx	none	2	joy4way	1	No	No	none	No	Namco	Yes	No	No	No	No
 arcade	none	New Zero Team	1997	nzeroteam	V33 SYSTEM TYPE_B hardware	2	joy8way	3	No	No	none	No	Seibu Kaihatsu	Yes	No	No	No	Yes
 arcade	none	NewZealand Story, The	1988	tnzs	World, new version P0-043A PCB	2	joy8way	2	No	No	none	No	Taito	Yes	Yes	Yes	Yes	Yes
@@ -832,7 +832,7 @@ arcade	none	Radar Scope	1980	radarscp	TRS02, rev. D	2	joy2way	1	No	No	none	Yes	N
 arcade	none	Radiant Silvergun	1998	rsgun	JUET 980523 V1.000	4	joy8way	4	No	No	none	No	Treasure	Yes	No	No	No	Yes
 arcade	none	Radikal Bikers	1998	radikalb	Version 2.02	1	joy1way	3	No	No	paddle	No	Gaelco	Yes	No	No	No	No
 arcade	neogeo	Rage of the Dragons	2002	rotd	NGM-2640?	2	joy8way	4	No	No	none	No	Evoga / Playmore	Yes	Yes	Yes	Yes	Yes
-arcade	none	Ragnagard	1996	ragnagrd	none	2	joy8way	4	No	No	none	No	Saurus	Yes	No	No	No	No
+arcade	neogeo	Ragnagard	1996	ragnagrd	none	2	joy8way	4	No	No	none	No	Saurus	Yes	No	No	No	No
 arcade	none	Raiden	1990	raiden	set 1	2	joy8way	2	No	No	none	Yes	Seibu Kaihatsu / Fabtek	Yes	No	Yes	Yes	Yes
 arcade	none	Raiden 2	1993	raiden2	US, set 1	2	joy8way	2	No	No	none	Yes	Seibu Kaihatsu / Fabtek license	Yes	No	No	No	No
 arcade	none	Raiden DX	1994	raidendx	UK	2	joy8way	3	No	No	none	Yes	Seibu Kaihatsu	Yes	Yes	Yes	Yes	Yes
@@ -850,7 +850,7 @@ arcade	none	Rambo 3	1989	rambo3	Europe	2	joy8way	2	No	Yes	none	No	Taito	Yes	No	N
 arcade	none	Rampage	1986	rampage	Rev 3, 8/27/86	3	joy8way	2	No	No	none	No	Bally Midway / Barcrest / Red Gaming	Yes	Yes	Yes	Yes	Yes
 arcade	none	Rampage: World Tour	1997	rmpgwt	rev 1.3	3	joy8way	3	No	No	none	No	Midway / Game Refuge Inc.	Yes	Yes	Yes	Yes	Yes
 arcade	none	Rampart	1990	rampart2p	Joystick, bigger ROMs	3	joy8way	2	No	No	none	No	Atari Games	Yes	No	No	No	No
-arcade	none	Ranger Mission	2004	rangrmsn	none	1	none	2	No	No	pedal/paddle	No	RIZ Inc./ Sammy	Yes	No	No	No	No
+arcade	atomiswave	Ranger Mission	2004	rangrmsn	none	1	none	2	No	No	pedal/paddle	No	RIZ Inc./ Sammy	Yes	No	No	No	No
 arcade	none	Rapid Hero	1994	raphero	NMK	2	joy8way	3	No	No	none	Yes	NMK	Yes	No	No	No	No
 arcade	none	Rastan Saga	1987	rastsaga	Japan Rev 1	2	joy8way	2	No	No	none	No	Taito	Yes	Yes	Yes	Yes	Yes
 arcade	none	Rave Racer	1995	raveracw	Rev. RV2, World	1	none	9	No	No	pedal/paddle	No	Namco	Yes	Yes	No	Yes	Yes
@@ -870,7 +870,7 @@ arcade	none	Rezon	1991	rezon	none	2	joy8way	3	No	No	none	No	Allumer	Yes	No	No	No
 arcade	none	Ridge Racer	1993	ridgerac	Rev. RR2 Ver.B, World	1	joy8way	3	No	No	pedal/paddle	No	Namco	Yes	No	No	No	Yes
 arcade	none	Ridge Racer 2	1994	ridgera2	Rev. RRS2, World	1	joy8way	3	No	No	pedal/paddle	No	Namco	Yes	No	No	No	Yes
 arcade	none	Riding Fight	1992	ridingf	Ver 1.0O	4	joy8way	4	No	No	dial	No	Taito	Yes	No	No	No	No
-arcade	none	Riding Hero	1990	ridhero	NGM-006 ~ NGH-006	2	joy8way	4	No	No	none	No	SNK	Yes	No	No	No	No
+arcade	neogeo	Riding Hero	1990	ridhero	NGM-006 ~ NGH-006	2	joy8way	4	No	No	none	No	SNK	Yes	No	No	No	No
 arcade	none	Ring of Destruction: Slammasters 2	1994	ringdest	Euro 940902	2	joy8way	6	No	No	none	No	Capcom	Yes	Yes	Yes	Yes	Yes
 arcade	none	Riot	1992	riot	none	2	joy8way	3	No	No	none	No	NMK	Yes	No	No	No	No
 arcade	none	Riot City	1991	riotcity	Japan	2	joy8way	3	No	No	none	No	SEGA / Westone	Yes	No	No	No	No
@@ -892,8 +892,8 @@ arcade	none	Rollergames	1991	rollerg	US	2	joy8way	2	No	No	none	No	Konami	Yes	No	
 arcade	none	Rolling Thunder	1986	rthunder	rev 3	2	joy4way	2	No	No	none	No	Namco	Yes	Yes	Yes	Yes	Yes
 arcade	none	Rolling Thunder 2	1990	rthun2	none	2	joy8way	3	No	No	none	No	Namco	Yes	No	No	No	No
 arcade	none	Rough Racer	1990	roughrac	Japan, Floppy Based, FD1094 317-0058-06b	2	joy8way	3	No	No	dial	No	SEGA	Yes	No	No	No	No
-arcade	naomi	Rumble Fish 2, The	2005	rumblef2	none	2	joy8way	6	No	No	none	No	Sammy / Dimps	Yes	No	No	No	No
-arcade	naomi	Rumble Fish, The	2004	rumblef	none	2	joy8way	6	No	No	none	No	Sammy / Dimps	Yes	No	No	No	No
+arcade	atomiswave	Rumble Fish 2, The	2005	rumblef2	none	2	joy8way	6	No	No	none	No	Sammy / Dimps	Yes	No	No	No	No
+arcade	atomiswave	Rumble Fish, The	2004	rumblef	none	2	joy8way	6	No	No	none	No	Sammy / Dimps	Yes	No	No	No	No
 arcade	none	Run & Gun	1993	rungun	ver EAA 1993 10.8	4	joy8way	3	No	No	none	No	Konami	Yes	No	No	No	No
 arcade	none	Run & Gun 2	1996	rungun2	ver UAA	4	joy8way	3	No	No	none	No	Konami	Yes	No	No	No	No
 arcade	none	Rygar	1986	rygar	US set 1	2	joy8way	2	No	No	none	No	Tecmo	Yes	Yes	Yes	Yes	Yes
@@ -917,7 +917,7 @@ arcade	neogeo	Samurai Shodown 3	1995	samsho3	NGM-087	2	joy8way	4	No	No	none	No	S
 arcade	neogeo	Samurai Shodown 4: Amakusa's Revenge	1996	samsho4	NGM-222 ~ NGH-222	2	joy8way	4	No	No	none	No	SNK	Yes	Yes	Yes	Yes	Yes
 arcade	neogeo	Samurai Shodown 5	2003	samsho5	NGM-2700, set 1	2	joy8way	4	No	No	none	No	Yuki Enterprise / SNK Playmore	Yes	No	No	No	No
 arcade	neogeo	Samurai Shodown V Special	2004	samsh5sp	NGM-2720	2	joy8way	4	No	No	none	No	Yuki Enterprise / SNK Playmore	Yes	Yes	Yes	Yes	Yes
-arcade	none	Samurai Spirits Tenkaichi Kenkakuden	2005	samsptk	none	2	joy8way	6	No	No	none	No	Sammy / SNK Playmore	Yes	No	No	No	No
+arcade	atomiswave	Samurai Spirits Tenkaichi Kenkakuden	2005	samsptk	none	2	joy8way	6	No	No	none	No	Sammy / SNK Playmore	Yes	No	No	No	No
 arcade	none	San Francisco Rush	1996	sfrush	boot rom L 1.0	1	none	13	No	No	pedal/paddle	No	Atari Games	Yes	No	No	No	No
 arcade	none	Sand Scorpion	1992	sandscrp	none	2	joy8way	2	No	No	none	Yes	Face	Yes	No	No	No	No
 arcade	none	Satan's Hollow	1981	shollow	set 1	2	joy2way	2	No	No	none	Yes	Bally Midway / Arcade Engineering	Yes	No	No	No	No
@@ -1105,7 +1105,7 @@ arcade	none	Terra Cresta	1985	terracre	YM3526 set 1	2	joy8way	2	No	No	none	Yes	N
 arcade	none	Terra Force	1987	terraf	none	2	joy8way	3	No	No	none	No	Nichibutsu / bootleg	Yes	No	No	No	Yes
 arcade	none	Tetris	1988	atetris	set 1	2	joy3 (half4)way	1	No	No	none	No	Atari Games / bootleg	Yes	No	Yes	Yes	Yes
 arcade	none	Tetris The Absolute: The Grand Master 2 Plus	2000	tgm2p	none	2	joy4way	3	No	No	none	No	Arika	Yes	No	No	No	Yes
-arcade	none	Thrash Rally	1991	trally	ALM-003 ~ ALH-003	2	joy8way	4	No	No	none	No	Alpha Denshi Co.	Yes	No	No	No	No
+arcade	neogeo	Thrash Rally	1991	trally	ALM-003 ~ ALH-003	2	joy8way	4	No	No	none	No	Alpha Denshi Co.	Yes	No	No	No	No
 arcade	none	Three Wonders	1991	3wonders	World 910520	2	joy8way	3	No	No	none	No	Capcom	Yes	Yes	Yes	Yes	Yes
 arcade	none	Thunder Blade	1987	thndrbld	upright FD1094 317-0056	1	none	2	No	No	stick	No	SEGA	Yes	Yes	Yes	Yes	Yes
 arcade	none	Thunder Cross	1988	thunderx	set 1	2	joy8way	2	No	No	none	No	Konami	Yes	No	No	No	No
@@ -1167,10 +1167,10 @@ arcade	none	U.N. Squadron	1989	unsquad	USA	2	joy8way	3	No	No	none	No	Capcom	Yes	
 arcade	none	U.S. Championship V'ball	1988	vball	US	4	joy8way	2	No	No	none	No	Technos Japan / SPS	Yes	No	No	No	No
 arcade	none	US AAF Mustang	1990	mustang	25th May. 1990	2	joy8way	2	No	No	none	No	UPL	Yes	No	Yes	Yes	Yes
 arcade	none	Ufo Robo Dangar	1986	dangar	4/07/1987	2	joy8way	3	No	No	none	Yes	Nichibutsu	Yes	No	No	No	No
-arcade	none	Ultimate 11, The: The SNK Football Championship	1996	ssideki4	none	2	joy8way	4	No	No	none	No	SNK	Yes	No	No	No	No
+arcade	neogeo	Ultimate 11, The: The SNK Football Championship	1996	ssideki4	none	2	joy8way	4	No	No	none	No	SNK	Yes	No	No	No	No
 arcade	none	Ultimate Mortal Kombat 3	1994	umk3	rev 1.2	2	joy8way	6	No	No	none	No	Midway	Yes	Yes	Yes	Yes	Yes
 arcade	none	Ultra X Weapons	1995	ultrax	none	2	joy8way	3	No	No	none	Yes	Banpresto / Tsuburaya Productions	Yes	No	No	No	Yes
-arcade	none	Under Defeat	2005	undefeat	Japan GDL-0035	2	joy8way	6	No	No	none	Yes	G.Rev	No	No	No	No	Yes
+arcade	naomi	Under Defeat	2005	undefeat	Japan GDL-0035	2	joy8way	6	No	No	none	Yes	G.Rev	No	No	No	No	Yes
 arcade	none	Undercover Cops	1992	uccops	World	3	joy8way	2	No	No	none	No	Irem	Yes	No	No	No	Yes
 arcade	none	UniWar S	1980	uniwars	none	2	joy2way	1	No	No	none	Yes	Irem	Yes	No	No	No	No
 arcade	none	Up'n Down	1983	upndown	315-5030	2	joy8way	1	No	No	none	Yes	SEGA	Yes	No	Yes	Yes	Yes
@@ -1205,7 +1205,7 @@ arcade	none	Virtua Fighter 2	1994	vf2	Version 2.1	2	joy8way	3	No	No	none	No	SEGA
 arcade	model3	Virtua Fighter 3	1996	vf3	Revision D	2	joy8way	4	No	No	none	No	SEGA	Yes	No	No	No	No
 arcade	none	Virtua Racing	1992	vr	none	1	none	6	No	No	pedal/paddle	No	SEGA	Yes	No	No	Yes	Yes
 arcade	model3	Virtua Striker 2	1997	vs2	Step 2.0, Export, USA	2	joy8way	4	No	No	none	No	SEGA	Yes	No	No	No	No
-arcade	none	Voltage Fighter: Gowcaizer	1995	gowcaizr	none	2	joy8way	4	No	No	none	No	Technos Japan	Yes	No	No	No	No
+arcade	neogeo	Voltage Fighter: Gowcaizer	1995	gowcaizr	none	2	joy8way	4	No	No	none	No	Technos Japan	Yes	No	No	No	No
 arcade	none	Vulgus	1984	vulgus	set 1	2	joy8way	2	No	No	none	Yes	Capcom	Yes	Yes	Yes	Yes	Yes
 arcade	none	WEC Le Mans 24	1986	wecleman	v2.01	1	none	2	No	No	pedal/paddle	No	Konami	Yes	No	No	No	No
 arcade	none	WWF Superstars	1989	wwfsstar	Europe	2	joy8way	2	No	No	none	No	Technos Japan / Technos Japan Corp.	Yes	Yes	Yes	Yes	Yes
@@ -1233,7 +1233,7 @@ arcade	none	Wonder Boy: Monster Land	2009	wbmlvc	English, Virtual Console	2	joy8
 arcade	none	World Class Bowling Deluxe	1999	wcbowldx	v2.00	2	none	2	No	Yes	none	No	Incredible Technologies	Yes	No	No	No	No
 arcade	neogeo	World Heroes	1992	wh1	ALM-005	2	joy8way	4	No	No	none	No	Alpha Denshi Co. / ADK	Yes	No	No	No	Yes
 arcade	neogeo	World Heroes 2	1993	wh2	ALM-006 ~ ALH-006	2	joy8way	4	No	No	none	No	ADK / SNK	Yes	No	No	No	No
-arcade	none	World Heroes 2 Jet	1994	wh2j	ADM-007 ~ ADH-007	2	joy8way	4	No	No	none	No	ADK / SNK	Yes	No	No	No	No
+arcade	neogeo	World Heroes 2 Jet	1994	wh2j	ADM-007 ~ ADH-007	2	joy8way	4	No	No	none	No	ADK / SNK	Yes	No	No	No	No
 arcade	neogeo	World Heroes Perfect	1995	whp	none	2	joy8way	4	No	No	none	No	ADK / SNK	Yes	Yes	Yes	Yes	Yes
 arcade	none	World Rally	1993	wrally	Version 1.0, Checksum 0E56	2	joy8way	2	No	No	paddle/dial	No	Gaelco	Yes	No	Yes	Yes	Yes
 arcade	none	World Rally 2: Twin Racing	1995	wrally2	mask ROM version	2	joy8way	2	No	No	paddle	No	Gaelco	Yes	No	No	No	No
@@ -1254,7 +1254,7 @@ arcade	none	Xybots	1987	xybots	rev 2	2	joy8way	3	No	No	none	No	Atari Games / Ata
 arcade	none	Yie Ar Kung-Fu	1985	yiear	program code I	2	joy8way	3	No	No	none	No	Konami	Yes	Yes	Yes	Yes	Yes
 arcade	none	Zaxxon	1982	zaxxon	set 1, rev D	2	joy8way	1	No	No	none	Yes	SEGA	Yes	Yes	Yes	Yes	Yes
 arcade	neogeo	Zed Blade	1994	zedblade	none	2	joy8way	4	No	No	none	No	NMK / Saurus	Yes	No	No	No	No
-arcade	none	Zero Gunner 2	2001	zerogu2	none	2	joy8way	6	No	No	none	No	Psikyo	No	No	No	No	Yes
+arcade	naomi	Zero Gunner 2	2001	zerogu2	none	2	joy8way	6	No	No	none	No	Psikyo	No	No	No	No	Yes
 arcade	none	Zero Wing	1989	zerowing	2P set	2	joy8way	2	No	No	none	No	Toaplan / Taito	Yes	No	No	No	No
 arcade	none	Zombie Raid	1995	zombraid	9/28/95, US	2	none	2	Yes	No	none	No	American Sammy	Yes	No	No	No	No
 arcade	none	Zoo Keeper	1982	zookeep	set 1	2	joy4way	1	No	No	none	No	Taito	Yes	Yes	Yes	Yes	Yes

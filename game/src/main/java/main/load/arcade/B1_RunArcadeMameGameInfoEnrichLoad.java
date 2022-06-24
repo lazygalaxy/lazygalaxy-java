@@ -179,6 +179,7 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
             String status = XMLUtil.getTagAttributeAsString(element, "driver", "status", 0);
             String cloneOf = XMLUtil.getAttributeAsString(element, "cloneof");
 
+
             gameInfoStatic.originalName = manufacturer;
             GameUtil.pretifyName(gameInfoStatic);
             List<String> manufacturers = new ArrayList<String>();
@@ -187,7 +188,24 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
             }
             manufacturers.add(gameInfoStatic.version);
 
-            game.mameGameInfo = new GameInfo(gameId, originalName, year, players, manufacturers, game.mameGameInfo != null ? SetUtil.addValueToTreeSet(game.mameGameInfo.emulatorVersions, emulatorVersion) : SetUtil.addValueToTreeSet(null, emulatorVersion), isVertical, inputs,
+            String subSystemId = null;
+
+            String sourceFile = XMLUtil.getAttributeAsString(element, "sourcefile");
+            if (StringUtils.contains(sourceFile, "atomiswave")) {
+                subSystemId = GameSystem.ATOMISWAVE;
+            } else if (StringUtils.contains(sourceFile, "dlair")) {
+                subSystemId = GameSystem.DAPHNE;
+            } else if (StringUtils.contains(sourceFile, "model3")) {
+                subSystemId = GameSystem.MODEL3;
+            } else if (StringUtils.contains(sourceFile, "naomi")) {
+                subSystemId = GameSystem.NAOMI;
+            } else if (StringUtils.contains(sourceFile, "neogeo")) {
+                subSystemId = GameSystem.NEOGEO;
+            } else if (StringUtils.contains(sourceFile, "triforce")) {
+                subSystemId = GameSystem.TRIFORCE;
+            }
+
+            game.mameGameInfo = new GameInfo(gameId, subSystemId, originalName, year, players, manufacturers, game.mameGameInfo != null ? SetUtil.addValueToTreeSet(game.mameGameInfo.emulatorVersions, emulatorVersion) : SetUtil.addValueToTreeSet(null, emulatorVersion), isVertical, inputs,
                     ways, buttons, status, isGuess);
             GameUtil.pretifyName(game.mameGameInfo);
 
