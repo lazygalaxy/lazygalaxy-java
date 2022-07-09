@@ -117,6 +117,7 @@ public class C1_RunAllDeriveEnrichLoad {
                                     return;
                                 }
                             }
+                            return;
                         } else if (StringUtils.equals(field, "systemId")) {
                             if (fieldObject != null && !StringUtils.equals(game.systemId, (String) fieldObject)) {
                                 game.subSystemId = (String) fieldObject;

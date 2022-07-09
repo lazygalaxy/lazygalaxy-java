@@ -1,0 +1,1 @@
+-rwxrwxrwx+ 1 admin users  6262602 Apr 18  2019 Super Mario 64.zip

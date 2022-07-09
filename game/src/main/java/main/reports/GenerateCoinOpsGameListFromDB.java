@@ -33,8 +33,10 @@ public class GenerateCoinOpsGameListFromDB {
                 .get("/Users/vangos/Development/git/lazygalaxy-java/game/src/main/resources/report/CoinOps_GameList.txt");
         Files.writeString(filePath,
                 "System" + seperator + "SubSystem" + seperator + "Name" + seperator + "Year" + seperator + "ROM" + seperator + "Version" + seperator + "Players" + seperator +
-                        "Joystick" + seperator + "Buttons" + seperator + "LightGun" + seperator + "TrackBall" + seperator + "Other Input"
-                        + seperator + "Vertical" + seperator + "Manufacturers" + seperator +
+                        "Joystick" + seperator + "Buttons" + seperator + "LightGun" + seperator + "TrackBall" + seperator + "Other Input" + seperator +
+                        "Vertical" + seperator +
+                        "Developer" + seperator +
+                        "Publisher" + seperator +
                         "Collections Arcade" + seperator +
                         "Collections Legends" + seperator +
                         "Pi4 Legends v3" + seperator +
@@ -57,8 +59,8 @@ public class GenerateCoinOpsGameListFromDB {
                             + seperator
                             + (game.inputs != null ? (getOtherInputString(game.inputs, "joy", "doublejoy", "only_buttons", "lightgun", "trackball")) : "unknown")
                             + seperator + (game.isVertical != null && game.isVertical ? "Yes" : "No") + seperator
-                            + (StringUtils.equals(game.developer, game.publisher) ? game.developer
-                            : game.developer + " / " + game.publisher) + seperator +
+                            + (game.developer != null ? game.developer : "unknown") + seperator
+                            + (game.publisher != null ? game.publisher : "unknown") + seperator +
                             (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.COLLECTIONS_ARCADE) ? "Yes" : "No") + seperator +
                             (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.COLLECTIONS_LEGENDS) ? "Yes" : "No") + seperator +
                             (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PI4_LEGENDS_V3) ? "Yes" : "No") + seperator +

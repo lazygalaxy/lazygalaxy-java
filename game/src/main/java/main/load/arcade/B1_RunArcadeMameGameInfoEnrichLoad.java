@@ -11,6 +11,7 @@ import com.lazygalaxy.game.merge.GameMerge;
 import com.lazygalaxy.game.util.GameUtil;
 import com.lazygalaxy.game.util.SetUtil;
 import com.mongodb.client.model.Filters;
+import org.apache.commons.lang3.RegExUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -146,6 +147,9 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
             String year = XMLUtil.getTagAsString(element, "year", 0);
             String players = XMLUtil.getTagAttributeAsString(element, "input", "players", 0);
             String manufacturer = XMLUtil.getTagAsString(element, "manufacturer", 0);
+            if (manufacturer != null) {
+                manufacturer = RegExUtils.replaceAll(manufacturer, "/", " / ");
+            }
             String rotate = XMLUtil.getTagAttributeAsString(element, "display", "rotate", 0);
             if (rotate == null) {
                 rotate = XMLUtil.getTagAttributeAsString(element, "video", "orientation", 0);
@@ -178,7 +182,6 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
             }
             String status = XMLUtil.getTagAttributeAsString(element, "driver", "status", 0);
             String cloneOf = XMLUtil.getAttributeAsString(element, "cloneof");
-
 
             gameInfoStatic.originalName = manufacturer;
             GameUtil.pretifyName(gameInfoStatic);

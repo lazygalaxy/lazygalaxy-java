@@ -158,5 +158,10 @@ public class GameUtilTest extends TestCase {
         assertEquals("Resident Evil 2: Dual Shock Ver.", Lists.newArrayList(gameInfo.names).get(0));
         assertEquals("Resident Evil 2", Lists.newArrayList(gameInfo.names).get(1));
         assertEquals("USA", gameInfo.version);
+
+        gameInfo.originalName = "Alpha Denshi Co. (World Games Inc. license)";
+        GameUtil.pretifyName(gameInfo);
+        assertEquals("Alpha Denshi Co.", Lists.newArrayList(gameInfo.names).get(0));
+        assertEquals("World Games Inc. license", gameInfo.version);
     }
 }
