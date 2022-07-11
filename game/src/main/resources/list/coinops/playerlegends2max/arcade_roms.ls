@@ -35,7 +35,6 @@
 -rwxrwxrwx+ 1 admin users    4197974 Mar  5  2018 bgaregga.zip
 -rwxrwxrwx+ 1 admin users     341032 Mar  3  2018 bionicc.zip
 -rwxrwxrwx+ 1 admin users   23189029 Mar  5  2018 blazstar.zip
--rwxrwxrwx+ 1 admin users  261621227 May 17  2017 blitz.chd
 -rwxrwxrwx+ 1 admin users      79390 Apr  5  2019 blitz.zip
 -rwxrwxrwx+ 1 admin users     338722 Mar  3  2018 blktiger.zip
 -rwxrwxrwx+ 1 admin users    1165108 Mar  6  2018 bloodbro.zip
@@ -58,7 +57,6 @@
 -rwxrwxrwx+ 1 admin users    2214000 Mar  4  2018 calibr50.zip
 -rwxrwxrwx+ 1 admin users    7450252 Mar  3  2018 captaven.zip
 -rwxrwxrwx+ 1 admin users    2544788 Mar  6  2018 captcomm.zip
--rwxrwxrwx+ 1 admin users   37160624 Mar 13  2018 cap-wzd-5.chd
 -rwxrwxrwx+ 1 admin users    1440062 Mar  3  2018 cawing.zip
 -rwxrwxrwx+ 1 admin users      28065 Mar  4  2018 ccastles.zip
 -rwxrwxrwx+ 1 admin users      28613 Mar  6  2018 cclimber.zip
@@ -142,7 +140,7 @@
 -rwxrwxrwx+ 1 admin users     268250 Mar  3  2018 gladiatr.zip
 -rwxrwxrwx+ 1 admin users     158211 Mar  4  2018 gng.zip
 -rwxrwxrwx+ 1 admin users    1164058 Mar  3  2018 goldnaxe.zip
--rwxrwxrwx+ 1 admin users 1079381022 May 17  2017 golf_fore_complete_v6.00.01.chd
+-rwxrwxrwx+ 1 admin users    3607394 Apr  7  2019 gtfore06.zip
 -rwxrwxrwx+ 1 admin users      24868 Mar  6  2018 gorf.zip
 -rwxrwxrwx+ 1 admin users    1040305 May 27  2018 gradius2.zip
 -rwxrwxrwx+ 1 admin users    3607394 Apr  7  2019 gtfore06.zip
@@ -179,9 +177,7 @@
 -rwxrwxrwx+ 1 admin users   20364484 Mar  3  2018 ket.zip
 -rwxrwxrwx+ 1 admin users      50641 Mar  4  2018 kicker.zip
 -rwxrwxrwx+ 1 admin users     153345 Mar  4  2018 kicknrun.zip
--rwxrwxrwx+ 1 admin users  131618430 Apr 25  2018 kinst2.chd
 -rwxrwxrwx+ 1 admin users    6216474 Apr 25  2018 kinst2.zip
--rwxrwxrwx+ 1 admin users   93887850 Apr 25  2018 kinst.chd
 -rwxrwxrwx+ 1 admin users    5843251 Apr 25  2018 kinst.zip
 -rwxrwxrwx+ 1 admin users     129241 Mar 15  2018 kncljoe.zip
 -rwxrwxrwx+ 1 admin users    2357874 Mar  6  2018 knights.zip

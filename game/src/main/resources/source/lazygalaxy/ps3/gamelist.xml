@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Playstation 3</System>
+		<database>LazyGalaxy</database>
+	</provider>
+	<game>
+		<path>./After Burner Climax.gz</path>
+		<name>After Burner Climax</name>
+		<rating>0.7</rating>
+		<releasedate>2010</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Combat Flight Simulation</genre>
+		<players>1</players>
+	</game>
+</gameList>

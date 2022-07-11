@@ -36,8 +36,6 @@ public class A3_RunArcadeCoinOpsRomLoad {
                     }
                 }
             }
-
-            LOGGER.info("Other rom list completed!");
         } finally {
             if (args.length == 0) {
                 MongoConnectionHelper.INSTANCE.close();

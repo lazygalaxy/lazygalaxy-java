@@ -82,6 +82,7 @@ public class C1_RunAllDeriveEnrichLoad {
             setField(game, "year");
             setField(game, "players");
             setField(game, "description");
+            setField(game, "genre");
             setField(game, "version");
             game.developer = null;
             game.publisher = null;

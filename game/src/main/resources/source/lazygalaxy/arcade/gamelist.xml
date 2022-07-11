@@ -5,13 +5,6 @@
 		<database>LazyGalaxy</database>
 	</provider>
 	<game>
-		<path>./abclimax.lazygalaxy</path>
-		<players>1</players>
-		<buttons>2</buttons>
-		<inputs>joy,sticks</inputs>
-		<ways>vertical2</ways>
-	</game>
-	<game>
 		<path>./akatana.lazygalaxy</path>
 		<name>Akai Katana</name>
 		<desc>Set in a parallel world resembling Japan's Taishō period, the people have discovered the powerful Blood Swords, the titular Akai Katana. Requiring human sacrifices to unleash their immense destructive power, these swords have been used by the empire to crush neighbouring countries. However, all the bloodshed and power gained through sacrificing close family members has made some of the swordsmen reconsider. With new fighter planes and the powered up swords at their disposal, this small band of rebels now fight back against the tyrannical empire.</desc>

@@ -9,6 +9,16 @@
 		<name>Disney's Aladdin / Aladdin</name>
 	</game>
 	<game>
+		<path>./Flashback (USA).zip</path>
+		<name>Flashback: The Quest for Identity</name>
+		<rating>0.9</rating>
+		<releasedate>19940201T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
 		<path>./Goof Troop (USA).lazygalaxy</path>
 		<name>Goof Troop</name>
 	</game>

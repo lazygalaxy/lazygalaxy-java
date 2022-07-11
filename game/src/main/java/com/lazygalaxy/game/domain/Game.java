@@ -38,6 +38,8 @@ public class Game extends MongoDocument {
     public String description;
     public String developer;
     public String publisher;
+    public String genre;
+    
     public Boolean isVertical;
     public Set<String> inputs;
     public String ways;

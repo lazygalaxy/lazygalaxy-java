@@ -37,6 +37,8 @@ public class Constant {
         public final static String C64 = "c64";
         public final static String DAPHNE = "daphne";
         public final static String DREAMCAST = "dreamcast";
+        public final static String GAMEANDWATCH = "gameandwatch";
+        public final static String GAMECUBE = "gc";
         public final static String GBA = "gba";
         public final static String MODEL3 = "model3";
         public final static String N64 = "n64";
@@ -46,6 +48,8 @@ public class Constant {
         public final static String TRIFORCE = "triforce";
         public final static String PC = "pc";
         public final static String PCENGINE = "pcengine";
+        public final static String PS2 = "ps2";
+        public final static String PS3 = "ps3";
         public final static String PSP = "psp";
         public final static String PSX = "psx";
         public final static String SNES = "snes";
@@ -54,11 +58,11 @@ public class Constant {
         public final static String SCUMMVM = "scummvm";
 
         public final static List<String> MAME = Lists.newArrayList(ARCADE, ATOMISWAVE, DAPHNE, MODEL3, NAOMI, NEOGEO, TRIFORCE);
-        public final static List<String> CONSOLE = Lists.newArrayList(DREAMCAST, MEGADRIVE, N64, NES, PCENGINE, PSX, SNES);
+        public final static List<String> CONSOLE = Lists.newArrayList(DREAMCAST, GAMECUBE, MEGADRIVE, N64, NES, PCENGINE, PSX, PS2, PS3, SNES);
 
         public final static List<String> COMPUTER = Lists.newArrayList(C64, PC, SCUMMVM);
 
-        public final static List<String> HANDHELD = Lists.newArrayList(GBA, PSP);
+        public final static List<String> HANDHELD = Lists.newArrayList(GAMEANDWATCH, GBA, PSP);
 
     }
 
@@ -87,10 +91,12 @@ public class Constant {
         public final static String COLLECTIONS_ARCADE = "collectionsarcade";
         public final static String COLLECTIONS_LEGENDS = "collectionslegends";
         public final static String PLAYER_LEGENDS_2 = "playerlegends2";
+
+        public final static String PLAYER_LEGENDS_2_MAX = "playerlegends2max";
         public final static String RETRO_ARCADE_2_ELITES = "retroarcade2elites";
 
         public final static String PI4_LEGENDS_V3 = "pi4legendsv3";
 
-        public final static List<String> ALL = Lists.newArrayList(COLLECTIONS_ARCADE, COLLECTIONS_LEGENDS, PI4_LEGENDS_V3, PLAYER_LEGENDS_2, RETRO_ARCADE_2_ELITES);
+        public final static List<String> ALL = Lists.newArrayList(COLLECTIONS_ARCADE, COLLECTIONS_LEGENDS, PI4_LEGENDS_V3, PLAYER_LEGENDS_2_MAX, PLAYER_LEGENDS_2, RETRO_ARCADE_2_ELITES);
     }
 }

@@ -37,9 +37,11 @@ public class GenerateCoinOpsGameListFromDB {
                         "Vertical" + seperator +
                         "Developer" + seperator +
                         "Publisher" + seperator +
+                        "Genre" + seperator +
                         "Collections Arcade" + seperator +
                         "Collections Legends" + seperator +
                         "Pi4 Legends v3" + seperator +
+                        "Player Legends 2 Max" + seperator +
                         "Player Legends 2" + seperator +
                         "Retro Arcade 2 Elites\n",
                 StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
@@ -60,10 +62,12 @@ public class GenerateCoinOpsGameListFromDB {
                             + (game.inputs != null ? (getOtherInputString(game.inputs, "joy", "doublejoy", "only_buttons", "lightgun", "trackball")) : "unknown")
                             + seperator + (game.isVertical != null && game.isVertical ? "Yes" : "No") + seperator
                             + (game.developer != null ? game.developer : "unknown") + seperator
-                            + (game.publisher != null ? game.publisher : "unknown") + seperator +
+                            + (game.publisher != null ? game.publisher : "unknown") + seperator
+                            + (game.genre != null ? game.genre : "unknown") + seperator +
                             (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.COLLECTIONS_ARCADE) ? "Yes" : "No") + seperator +
                             (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.COLLECTIONS_LEGENDS) ? "Yes" : "No") + seperator +
                             (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PI4_LEGENDS_V3) ? "Yes" : "No") + seperator +
+                            (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PLAYER_LEGENDS_2_MAX) ? "Yes" : "No") + seperator +
                             (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PLAYER_LEGENDS_2) ? "Yes" : "No") + seperator +
                             (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.RETRO_ARCADE_2_ELITES) ? "Yes" : "No") + "\n",
                     StandardOpenOption.APPEND);
