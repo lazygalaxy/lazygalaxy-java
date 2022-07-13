@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="B1_RunArcadeMameGameInfoEnrichLoad" type="Application" factoryName="Application" nameIsGenerated="true">
+  <configuration default="false" name="main.load.arcade.B1_RunArcadeMameGameInfoEnrichLoad" type="Application" factoryName="Application" nameIsGenerated="true">
     <option name="MAIN_CLASS_NAME" value="main.load.arcade.B1_RunArcadeMameGameInfoEnrichLoad" />
     <module name="game" />
     <option name="VM_PARAMETERS" value="-Xmx8G" />

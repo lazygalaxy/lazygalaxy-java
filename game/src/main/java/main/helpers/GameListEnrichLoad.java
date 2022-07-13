@@ -185,6 +185,7 @@ public class GameListEnrichLoad {
             String year = XMLUtil.getTagAsString(element, "releasedate", 0);
             String description = XMLUtil.getTagAsString(element, "desc", 0);
             String genre = XMLUtil.getTagAsString(element, "genre", 0);
+            String subGenre = XMLUtil.getTagAsString(element, "subgenre", 0);
             String image = XMLUtil.getTagAsString(element, "image", 0);
             String video = XMLUtil.getTagAsString(element, "video", 0);
             String marquee = XMLUtil.getTagAsString(element, "marquee", 0);
@@ -199,7 +200,7 @@ public class GameListEnrichLoad {
             for (Game game : gameList) {
                 String emulatorVersion = emulatorMap.containsKey(game.id) ? emulatorMap.get(game.id) : defaultEmulator;
                 Game.class.getField(source + "GameInfo").set(game,
-                        new GameInfo(game.gameId, systemId, path, originalName, year, description, genre, image, video,
+                        new GameInfo(game.gameId, systemId, path, originalName, year, description, genre, subGenre, image, video,
                                 marquee, rating, players, Lists.newArrayList(developer, publisher),
                                 SetUtil.addValueToTreeSet(null, emulatorVersion), inputs != null ? SetUtil.addValueToTreeSet(null, StringUtils.split(inputs, ",")) : null, ways, buttons));
 

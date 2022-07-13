@@ -20,6 +20,7 @@ public class GameInfo {
     public String year;
     public String description;
     public String genre;
+    public String subGenre;
     public String image;
     public String video;
     public String marquee;
@@ -47,34 +48,34 @@ public class GameInfo {
 
     // retroarch constructor
     public GameInfo(String gameId, String systemId, String path, String originalName, String year, String description,
-                    String genre, String image, String video, String marquee, Double rating, String players,
+                    String genre, String subGenre, String image, String video, String marquee, Double rating, String players,
                     List<String> manufacturers, Set<String> emulatorVersions, Set<String> inputs, String ways, Integer buttons) {
-        this(gameId, systemId, path, originalName, year, description, genre, image, video, marquee, rating, players,
+        this(gameId, systemId, path, originalName, year, description, genre, subGenre, image, video, marquee, rating, players,
                 manufacturers, emulatorVersions, null, inputs, ways, buttons, null, null);
     }
 
     // mame constructor
     public GameInfo(String gameId, String systemId, String originalName, String year, String players, List<String> manufacturers, Set<String> emulatorVersions,
                     Boolean isVertical, Set<String> inputs, String ways, Integer buttons, String status, Boolean isGuess) {
-        this(gameId, systemId, null, originalName, year, null, null, null, null, null, null, players, manufacturers, emulatorVersions,
+        this(gameId, systemId, null, originalName, year, null, null, null, null, null, null, null, players, manufacturers, emulatorVersions,
                 isVertical, inputs, ways, buttons, status, isGuess);
     }
 
     //coinops constructor
     public GameInfo(String gameId, String systemId) {
         this(gameId, systemId, null, null, null, null, null, null, null, null, null, null, null, null, null, null,
-                null, null, null, null);
+                null, null, null, null, null);
     }
 
     // scummvm consrtuctor
     public GameInfo(String gameId, String path, String originalName) {
         this(gameId, null, path, originalName, null, null, null, null, null, null, null, null, null, null, null, null,
-                null, null, null, null);
+                null, null, null, null, null);
     }
 
     // general constructor
     public GameInfo(String gameId, String systemId, String path, String originalName, String year, String description,
-                    String genre, String image, String video, String marquee, Double rating, String players,
+                    String genre, String subGenre, String image, String video, String marquee, Double rating, String players,
                     List<String> manufacturers, Set<String> emulatorVersions, Boolean isVertical, Set<String> inputs, String ways,
                     Integer buttons, String status, Boolean isGuess) {
         this.gameId = gameId;
@@ -91,6 +92,7 @@ public class GameInfo {
         }
         this.description = description;
         this.genre = genre;
+        this.subGenre = subGenre;
         this.image = image;
         this.video = video;
         this.marquee = marquee;

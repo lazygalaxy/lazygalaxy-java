@@ -5,6 +5,10 @@
 		<database>LazyGalaxy</database>
 	</provider>
 	<game>
+		<path>./acedrvrw.lazygalaxy</path>
+		<genre>Racing</genre>
+	</game>
+	<game>
 		<path>./akatana.lazygalaxy</path>
 		<name>Akai Katana</name>
 		<desc>Set in a parallel world resembling Japan's Taishō period, the people have discovered the powerful Blood Swords, the titular Akai Katana. Requiring human sacrifices to unleash their immense destructive power, these swords have been used by the empire to crush neighbouring countries. However, all the bloodshed and power gained through sacrificing close family members has made some of the swordsmen reconsider. With new fighter planes and the powered up swords at their disposal, this small band of rebels now fight back against the tyrannical empire.</desc>
@@ -25,6 +29,27 @@
 The "Lost Cave" version gathers together the best 100 levels created in-house by Taito for its home/handheld conversions of the popular Bubble Bobble coin-op. It is a huge mash-up which mixes NES, Game Boy, Sega Master System and Game Boy Color exclusive levels and injects them in the original arcade ROMs, creating a fresh gameplay experience.</desc>
 	</game>
 	<game>
+		<path>./cyberbal2p.lazygalaxy</path>
+		<genre>Sports</genre>
+		<subgenre>Football</subgenre>
+	</game>
+	<game>
+		<path>./dw.lazygalaxy</path>
+		<genre>Fighter</genre>
+	</game>
+	<game>
+		<path>./futari10.lazygalaxy</path>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./jojoban.lazygalaxy</path>
+		<genre>Fighter</genre>
+	</game>
+	<game>
+		<path>./jojon.lazygalaxy</path>
+		<genre>Fighter</genre>
+	</game>
+	<game>
 		<path>./kodure.lazygalaxy</path>
 		<name>Kozure Ookami / Kodure Ookami</name>
 	</game>
@@ -33,12 +58,14 @@ The "Lost Cave" version gathers together the best 100 levels created in-house by
 		<players>1</players>
 		<buttons>2</buttons>
 		<inputs>pedal,paddle</inputs>
+		<genre>Racing</genre>
 	</game>
 	<game>
 		<path>./mariokartarcadegp2.lazygalaxy</path>
 		<players>1</players>
 		<buttons>2</buttons>
 		<inputs>pedal,paddle</inputs>
+		<genre>Racing</genre>
 	</game>
 	<game>
 		<path>./marblmd2.zip</path>
@@ -50,5 +77,21 @@ The "Lost Cave" version gathers together the best 100 levels created in-house by
 		<genre>Action</genre>
 		<players>1-3</players>
 		<inputs>trackball</inputs>
+	</game>
+	<game>
+		<path>./rainbow.lazygalaxy</path>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./raveracw.lazygalaxy</path>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./sf1.lazygalaxy</path>
+		<genre>Fighter</genre>
+	</game>
+	<game>
+		<path>./sprint2.lazygalaxy</path>
+		<genre>Racing</genre>
 	</game>
 </gameList>

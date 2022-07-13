@@ -2,16 +2,16 @@ package main.load.common;
 
 import com.google.common.collect.Lists;
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
-import com.lazygalaxy.engine.load.MapOfSetDocumentoad;
 import com.lazygalaxy.engine.load.MongoLoad;
+import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.game.Constant.GameSource;
 import com.lazygalaxy.game.Constant.GameSystem;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
 import com.lazygalaxy.game.merge.GameMerge;
 import com.lazygalaxy.game.util.GameUtil;
-import com.lazygalaxy.game.util.SetUtil;
 import com.mongodb.client.model.Filters;
+import org.apache.commons.lang3.RegExUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -28,9 +28,8 @@ public class C1_RunAllDeriveEnrichLoad {
             new DeriveSourceEnrichLoad().load(merge, null);
             LOGGER.info("derive source enrich completed!");
 
-            // new FamilyDeriveEnrichLoad().load(merge, getMapObject());
-            // LOGGER.info("family derive enrich completed!");
-
+            new DeriveFamilySourceEnrichLoad().load(merge, null);
+            LOGGER.info("derive family source enrich completed!");
         } finally {
             if (args.length == 0) {
                 MongoConnectionHelper.INSTANCE.close();
@@ -82,6 +81,7 @@ public class C1_RunAllDeriveEnrichLoad {
             setField(game, "year");
             setField(game, "players");
             setField(game, "description");
+            setField(game, "subGenre");
             setField(game, "genre");
             setField(game, "version");
             game.developer = null;
@@ -124,6 +124,22 @@ public class C1_RunAllDeriveEnrichLoad {
                                 game.subSystemId = (String) fieldObject;
                                 return;
                             }
+                        } else if (StringUtils.equals(field, "genre")) {
+                            String value = (String) fieldObject;
+                            if (StringUtils.containsAny(value, "/", ",")) {
+                                if (StringUtils.containsIgnoreCase(value, "Sports")) {
+                                    game.genre = "Sports";
+                                    game.subGenre = StringUtils.capitalize(RegExUtils.replaceAll(GeneralUtil.alphanumerify(value), "sports", ""));
+                                } else if (StringUtils.containsIgnoreCase(value, "Race")) {
+                                    game.genre = "Racing";
+                                    game.subGenre = null;
+                                } else {
+                                    game.genre = value;
+                                }
+                            } else {
+                                game.genre = value;
+                            }
+                            return;
                         } else {
                             Game.class.getField(field).set(game, fieldObject);
                             return;
@@ -144,26 +160,27 @@ public class C1_RunAllDeriveEnrichLoad {
         }
     }
 
-    private static class FamilyDeriveEnrichLoad extends MapOfSetDocumentoad<Game> {
+    private static class DeriveFamilySourceEnrichLoad extends MongoLoad<Game, Game> {
 
-        public FamilyDeriveEnrichLoad() throws Exception {
-            super(Game.class);
+        public DeriveFamilySourceEnrichLoad() throws Exception {
+            super(Game.class, Game.class);
+
         }
 
         @Override
-        protected Collection<Game> getMongoDocument(String key, Set<Game> storedDocument) throws Exception {
-            if (storedDocument.size() > 1) {
-                for (Game game1 : storedDocument) {
-                    for (Game game2 : storedDocument) {
-                        game1.family = SetUtil.addValueToTreeSet(game1.family, game2.gameId);
-                        if (game2.family != null) {
-                            game1.family = SetUtil.addValueToTreeSet(game1.family,
-                                    game2.family.toArray(new String[game2.family.size()]));
-                        }
+        protected List<Game> getMongoDocument(Game game) throws Exception {
+
+            if (game.genre == null && game.family != null) {
+                List<Game> games = GameUtil.getGames(false, false, null, null, Filters.in("family", game.family));
+                for (Game familyGame : games) {
+                    if (familyGame.genre != null) {
+                        game.genre = familyGame.genre;
+                        game.subGenre = familyGame.subGenre;
+                        return Arrays.asList(game);
                     }
                 }
-                return storedDocument;
             }
+
             return null;
         }
     }

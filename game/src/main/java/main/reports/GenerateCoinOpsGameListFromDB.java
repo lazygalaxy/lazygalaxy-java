@@ -32,12 +32,13 @@ public class GenerateCoinOpsGameListFromDB {
         Path filePath = Paths
                 .get("/Users/vangos/Development/git/lazygalaxy-java/game/src/main/resources/report/CoinOps_GameList.txt");
         Files.writeString(filePath,
-                "System" + seperator + "SubSystem" + seperator + "Name" + seperator + "Year" + seperator + "ROM" + seperator + "Version" + seperator + "Players" + seperator +
+                "System" + seperator + "SubSystem" + seperator + "Name" + seperator + "Year" + seperator + "ROM" + seperator + "Players" + seperator +
                         "Joystick" + seperator + "Buttons" + seperator + "LightGun" + seperator + "TrackBall" + seperator + "Other Input" + seperator +
                         "Vertical" + seperator +
                         "Developer" + seperator +
                         "Publisher" + seperator +
                         "Genre" + seperator +
+                        "SubGenre" + seperator +
                         "Collections Arcade" + seperator +
                         "Collections Legends" + seperator +
                         "Pi4 Legends v3" + seperator +
@@ -48,7 +49,7 @@ public class GenerateCoinOpsGameListFromDB {
 
         for (Game game : games) {
             Files.writeString(filePath,
-                    game.systemId + seperator + (game.subSystemId != null && !StringUtils.equals(game.subSystemId, game.systemId) ? game.subSystemId : "none") + seperator + game.name + seperator + game.year + seperator + game.gameId + seperator + (game.version != null ? game.version : "none") + seperator
+                    game.systemId + seperator + (game.subSystemId != null && !StringUtils.equals(game.subSystemId, game.systemId) ? game.subSystemId : "none") + seperator + game.name + seperator + game.year + seperator + game.gameId + seperator
                             + (game.players != null && game.players > 0 ? game.players : "unknown")
                             + seperator
                             + (game.inputs != null ? (game.inputs.contains("joy") ? "joy" + game.ways + "way" : (game.inputs.contains("doublejoy") ? "doublejoy" + game.ways + "way" : "none")) : "unknown")
@@ -63,7 +64,8 @@ public class GenerateCoinOpsGameListFromDB {
                             + seperator + (game.isVertical != null && game.isVertical ? "Yes" : "No") + seperator
                             + (game.developer != null ? game.developer : "unknown") + seperator
                             + (game.publisher != null ? game.publisher : "unknown") + seperator
-                            + (game.genre != null ? game.genre : "unknown") + seperator +
+                            + (game.genre != null ? game.genre : "unknown") + seperator
+                            + (game.subGenre != null ? game.subGenre : "unknown") + seperator +
                             (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.COLLECTIONS_ARCADE) ? "Yes" : "No") + seperator +
                             (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.COLLECTIONS_LEGENDS) ? "Yes" : "No") + seperator +
                             (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PI4_LEGENDS_V3) ? "Yes" : "No") + seperator +

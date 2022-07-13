@@ -29,9 +29,6 @@ public class XX_RunGameRatingsLoad {
 //			game.id = scores.id;
 //			game.rating = 0.0;
 //
-//			if (scores.vman != null) {
-//				game.rating += scores.vman;
-//			}
 //
 //			if (scores.watchMojo != null) {
 //				game.rating += scores.watchMojo;

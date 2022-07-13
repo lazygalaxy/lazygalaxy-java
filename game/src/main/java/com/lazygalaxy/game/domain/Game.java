@@ -27,7 +27,6 @@ public class Game extends MongoDocument {
     public GameInfo mameGameInfo;
     public GameInfo scummvmGameInfo;
     // retropie images
-    public GameInfo vman_blissGameInfo;
     public GameInfo rickdangerous_ultimateGameInfo;
     public GameInfo wolfanoz_12kGameInfo;
 
@@ -39,7 +38,8 @@ public class Game extends MongoDocument {
     public String developer;
     public String publisher;
     public String genre;
-    
+    public String subGenre;
+
     public Boolean isVertical;
     public Set<String> inputs;
     public String ways;

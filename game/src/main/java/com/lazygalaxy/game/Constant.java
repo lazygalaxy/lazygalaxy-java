@@ -37,9 +37,14 @@ public class Constant {
         public final static String C64 = "c64";
         public final static String DAPHNE = "daphne";
         public final static String DREAMCAST = "dreamcast";
+
+        public final static String FBNEO = "fbneo";
         public final static String GAMEANDWATCH = "gameandwatch";
         public final static String GAMECUBE = "gc";
         public final static String GBA = "gba";
+
+        public final static String MAME2003 = "mame2003";
+        public final static String MAME2010 = "mame2010";
         public final static String MODEL3 = "model3";
         public final static String N64 = "n64";
         public final static String NAOMI = "naomi";
@@ -57,7 +62,7 @@ public class Constant {
         public final static String OPENBOR = "openbor";
         public final static String SCUMMVM = "scummvm";
 
-        public final static List<String> MAME = Lists.newArrayList(ARCADE, ATOMISWAVE, DAPHNE, MODEL3, NAOMI, NEOGEO, TRIFORCE);
+        public final static List<String> MAME = Lists.newArrayList(ARCADE, ATOMISWAVE, DAPHNE, FBNEO, MAME2003, MAME2010, MODEL3, NAOMI, NEOGEO, TRIFORCE);
         public final static List<String> CONSOLE = Lists.newArrayList(DREAMCAST, GAMECUBE, MEGADRIVE, N64, NES, PCENGINE, PSX, PS2, PS3, SNES);
 
         public final static List<String> COMPUTER = Lists.newArrayList(C64, PC, SCUMMVM);
@@ -77,14 +82,12 @@ public class Constant {
         public final static String MAME = "mame";
         public final static String RICKDANGEROUS_ULTIMATE = "rickdangerous_ultimate";
         public final static String WOLFANOZ_12K = "wolfanoz_12k";
-        public final static String VMAN_BLISS = "vman_bliss";
 
         public final static String COINOPS = "coinops";
 
         public final static String SCUMMVM = "scummvm";
 
-        public final static List<String> ALL = Lists.newArrayList(LAZYGALAXY, MAME, RICKDANGEROUS_ULTIMATE, COINOPS,
-                WOLFANOZ_12K, VMAN_BLISS);
+        public final static List<String> ALL = Lists.newArrayList(LAZYGALAXY, MAME, RICKDANGEROUS_ULTIMATE, WOLFANOZ_12K, COINOPS);
     }
 
     public static class CoinOpsVersion {
