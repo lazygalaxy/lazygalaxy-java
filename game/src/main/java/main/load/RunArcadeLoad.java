@@ -2,7 +2,7 @@ package main.load;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import main.load.arcade.*;
-import main.load.common.C1_RunAllDeriveEnrichLoad;
+import main.load.common.C1_RunCommonDeriveEnrichLoad;
 
 public class RunArcadeLoad {
     public static void main(String[] args) throws Exception {
@@ -14,7 +14,7 @@ public class RunArcadeLoad {
             A4_RunArcadeCoinOpsRomLoad.main(newArgs);
             B1_RunArcadeMameGameInfoEnrichLoad.main(newArgs);
             B2_RunArcadeCategoryEnrichLoad.main(newArgs);
-            C1_RunAllDeriveEnrichLoad.main(newArgs);
+            C1_RunCommonDeriveEnrichLoad.main(newArgs);
         } finally {
             MongoConnectionHelper.INSTANCE.close();
         }

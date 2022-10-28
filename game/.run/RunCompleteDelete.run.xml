@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="RunOtherLoad" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="main.load.RunOtherLoad" />
+  <configuration default="false" name="RunCompleteDelete" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="main.load.RunCompleteDelete" />
     <module name="game" />
     <extension name="coverage">
       <pattern>

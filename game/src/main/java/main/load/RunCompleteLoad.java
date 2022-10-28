@@ -2,7 +2,7 @@ package main.load;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import main.load.arcade.*;
-import main.load.common.C1_RunAllDeriveEnrichLoad;
+import main.load.common.C1_RunCommonDeriveEnrichLoad;
 import main.load.other.A1_RunOtherLazyGalaxyGameListLoad;
 import main.load.other.A2_RunOtherRickDangerousUltimateGameListLoad;
 import main.load.other.A3_RunOtherCoinOpsRomLoad;
@@ -24,7 +24,7 @@ public class RunCompleteLoad {
             B1_RunArcadeMameGameInfoEnrichLoad.main(newArgs);
             B2_RunArcadeCategoryEnrichLoad.main(newArgs);
 
-            C1_RunAllDeriveEnrichLoad.main(newArgs);
+            C1_RunCommonDeriveEnrichLoad.main(newArgs);
         } finally {
             MongoConnectionHelper.INSTANCE.close();
         }

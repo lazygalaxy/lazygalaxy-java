@@ -18,8 +18,8 @@ import org.apache.logging.log4j.Logger;
 
 import java.util.*;
 
-public class C1_RunAllDeriveEnrichLoad {
-    private static final Logger LOGGER = LogManager.getLogger(C1_RunAllDeriveEnrichLoad.class);
+public class C1_RunCommonDeriveEnrichLoad {
+    private static final Logger LOGGER = LogManager.getLogger(C1_RunCommonDeriveEnrichLoad.class);
 
     public static void main(String[] args) throws Exception {
         try {

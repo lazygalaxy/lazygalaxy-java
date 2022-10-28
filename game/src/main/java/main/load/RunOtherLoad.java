@@ -1,7 +1,7 @@
 package main.load;
 
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
-import main.load.common.C1_RunAllDeriveEnrichLoad;
+import main.load.common.C1_RunCommonDeriveEnrichLoad;
 import main.load.other.A1_RunOtherLazyGalaxyGameListLoad;
 import main.load.other.A2_RunOtherRickDangerousUltimateGameListLoad;
 import main.load.other.A3_RunOtherCoinOpsRomLoad;
@@ -13,7 +13,7 @@ public class RunOtherLoad {
             A1_RunOtherLazyGalaxyGameListLoad.main(newArgs);
             A2_RunOtherRickDangerousUltimateGameListLoad.main(newArgs);
             A3_RunOtherCoinOpsRomLoad.main(newArgs);
-            C1_RunAllDeriveEnrichLoad.main(newArgs);
+            C1_RunCommonDeriveEnrichLoad.main(newArgs);
         } finally {
             MongoConnectionHelper.INSTANCE.close();
         }

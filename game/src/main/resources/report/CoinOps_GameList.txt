@@ -99,7 +99,7 @@ arcade	none	Battle Chopper	1987	bchopper	2	joy8way	4	No	No	none	No	Irem	Irem	Arm
 arcade	none	Battle Circuit	1997	batcir	4	joy8way	2	No	No	none	No	Capcom	Capcom	Fighter	Hero	Yes	Yes	Yes	Yes	Yes	Yes
 arcade	neogeo	Battle Flip Shot	1998	flipshot	2	joy8way	4	No	No	none	No	Visco	Visco	Sports	Speed Ball	Yes	No	No	No	No	No
 arcade	none	Battle Garegga	1996	bgaregga	2	joy8way	3	No	No	none	Yes	Raizing	Eighting	Army	Airforce 3	Yes	Yes	No	Yes	Yes	Yes
-arcade	none	Battle Garegga	1996	battlega	2	joy8way	3	No	No	none	Yes	Raizing	Eighting	Shoot'em Up-Shoot'em up / Vertical	unknown	No	No	Yes	No	No	No
+arcade	none	Battle Garegga	1996	battlega	2	joy8way	3	No	No	none	Yes	Raizing	Eighting	Army	Airforce 3	No	No	Yes	No	No	No
 arcade	none	Battle Lane! Vol. 5	1986	battlane	2	joy8way	2	No	No	none	Yes	Technos Japan	Taito	Racing	Motorbike	Yes	No	No	No	No	No
 arcade	none	Battle Rangers	1988	battlera	2	joy8way	3	No	No	none	No	Data East	Data East	Army	Fighter	Yes	No	No	No	No	Yes
 arcade	none	Battle Zone	1980	bzone	1	doublejoyvertical2way	1	No	No	none	No	Atari	Atari	Army	Tank 3D	Yes	Yes	Yes	Yes	Yes	Yes
@@ -197,8 +197,8 @@ arcade	none	Chiller	1986	chiller	1	none	1	Yes	No	none	No	Exidy	Exidy	Adventure	H
 arcade	none	Chimera Beast	1993	chimerab	2	joy8way	2	No	No	none	No	Jaleco	Jaleco	Platform	Water Diving	Yes	No	No	No	No	No
 arcade	none	China Gate	1988	chinagat	2	joy8way	3	No	No	none	No	Technos Japan	Romstar	Fighter	Asian	Yes	No	No	No	No	No
 arcade	none	Chinese Hero	1984	chinhero	2	joy4way	4	No	No	none	Yes	Taiyo System	Taiyo System	Fighter	Asian	Yes	No	No	No	No	No
-arcade	none	Choplifter	1985	chopliftbl	2	joy8way	2	No	No	none	No	unknown	unknown	Shoot'em up	unknown	Yes	Yes	No	Yes	Yes	Yes
 arcade	none	Choplifter	1985	chplftbl	2	joy8way	2	No	No	none	No	SEGA	SEGA	Shoot'em Up-Shoot'em up / Horizontal	unknown	No	No	Yes	No	No	No
+arcade	none	Choplifter	1985	chopliftbl	2	joy8way	2	No	No	none	No	unknown	unknown	Shoot'em up	unknown	Yes	Yes	No	Yes	Yes	Yes
 arcade	none	Chopper 1	1988	chopper	2	joy8way	2	No	No	none	Yes	SNK	SNK	Army	Helicopter	Yes	No	No	No	No	No
 arcade	neogeo	Choutetsu Brikin'ger	1996	ironclad	2	joy8way	4	No	No	none	No	Saurus	Saurus	Space	Defender 3D	Yes	No	No	No	No	Yes
 arcade	none	Chuka Taisen	1988	chukatai	2	joy8way	2	No	No	none	No	Taito	Taito	Space	Jetman	Yes	No	No	No	No	No
@@ -206,7 +206,7 @@ arcade	none	Circus Charlie	1984	circusc	2	joy2way	1	No	No	none	Yes	Konami	Konami
 arcade	none	Cisco Heat	1990	cischeat	1	none	4	No	No	paddle	No	Jaleco	Jaleco	Racing	3D	Yes	No	No	No	No	No
 arcade	none	City Bomber	1987	citybomb	2	joy8way	3	No	No	pedal/paddle	Yes	Konami	Konami	Racing	Cars 4	Yes	No	No	No	No	No
 arcade	none	City Connection	1985	citycon	2	joy8way	2	No	No	none	No	Jaleco	Jaleco	Racing	Cars 4	Yes	Yes	Yes	Yes	Yes	Yes
-arcade	none	Cliff Hanger	1983	cliffhanger	2	joy8way	2	No	No	none	No	Stern Electronics	Stern Electronics	Action	unknown	Yes	No	No	No	No	No
+arcade	none	Cliff Hanger	1983	cliffhanger	2	joy8way	2	No	No	none	No	Stern Electronics	Stern Electronics	Action	none	Yes	No	No	No	No	No
 arcade	daphne	Cliff Hanger	1983	cliffhgr	2	joy8way	2	No	No	none	No	Stern Electronics	Stern Electronics	Movie	TV	Yes	No	No	Yes	No	No
 arcade	none	Cliffhanger, The: Edward Randy	1990	edrandy	2	joy8way	2	No	No	none	No	Data East	Data East	Action	none	Yes	No	No	No	No	No
 arcade	none	Cobra Command	1984	cobracommand	1	joy8way	3	No	No	none	No	Data East	Data East	Army	Helicopter	Yes	No	No	No	No	No
@@ -330,8 +330,8 @@ arcade	none	Dyger	1989	dyger	1	joy8way	3	No	No	none	Yes	Philko	Philko	Army	Airfo
 arcade	none	Dyna Gear	1993	dynagear	2	joy8way	3	No	No	none	No	Sammy	Sammy	Fighter	Warriors	Yes	No	No	No	No	Yes
 arcade	none	Dynamite Duke	1989	dynduke	2	joy8way	3	No	No	none	No	Seibu Kaihatsu	Seibu Kaihatsu	Army	Fighter 3D	Yes	Yes	Yes	Yes	Yes	Yes
 arcade	none	Dynamite Dux	1988	ddux	2	joy8way	3	No	No	none	No	SEGA	SEGA	Platform	Extra	Yes	No	No	No	No	No
-arcade	none	Dynasty Wars	1989	dynwar	2	joy8way	3	No	No	none	No	Capcom	Capcom	Fighter	Warriors	Yes	Yes	No	Yes	Yes	Yes
 arcade	none	Dynasty Wars	1989	dw	2	joy8way	3	No	No	none	No	Capcom	Capcom	Fighter	unknown	No	No	Yes	No	No	No
+arcade	none	Dynasty Wars	1989	dynwar	2	joy8way	3	No	No	none	No	Capcom	Capcom	Fighter	Warriors	Yes	Yes	No	Yes	Yes	Yes
 arcade	none	E-Swat: Cyber Police	1989	eswat	2	joy8way	3	No	No	none	No	SEGA	SEGA	Games	Netlist	Yes	Yes	No	Yes	Yes	Yes
 arcade	none	E-Swat: Cyber Police	1989	eswatbl	2	joy8way	3	No	No	none	No	unknown	unknown	Games	Netlist	No	No	Yes	No	No	No
 arcade	none	E.D.F.: Earth Defense Force	1991	edf	2	joy8way	2	No	No	none	No	Jaleco	Jaleco	Space	Defender	Yes	No	No	No	No	No
@@ -473,7 +473,7 @@ arcade	none	Gunforce: Battle Fire Engulfed Terror Island	1991	gunforce	2	joy8way
 arcade	none	Gunlock	1993	gunlock	4	joy8way	4	No	No	dial	Yes	Taito	Taito	Space	Force	Yes	No	No	No	No	Yes
 arcade	none	Guwange	1999	guwange	2	joy8way	3	No	No	none	Yes	Cave	Atlus	Fighter	Warriors 2	Yes	Yes	Yes	Yes	Yes	Yes
 arcade	none	Gyruss	1983	gyruss	2	joy2way	1	No	No	none	Yes	Konami	Konami	Space	Shooter	Yes	Yes	Yes	Yes	Yes	Yes
-arcade	none	Halley's Comet	1986	halleys	2	none	2	No	No	joy8way	Yes	Taito	Coin-It	Shoot'em Up-Shoot'em up / Vertical	unknown	Yes	No	No	No	No	No
+arcade	none	Halley's Comet	1986	halleys	2	joy8way	2	No	No	none	Yes	Taito	Coin-It	Shoot'em Up-Shoot'em up / Vertical	unknown	Yes	No	No	No	No	No
 arcade	none	Hammerin' Harry	1990	hharry	2	joy8way	4	No	No	none	No	Irem	Irem	Platform	Men at Work	Yes	No	Yes	Yes	Yes	Yes
 arcade	none	Hang-On	1985	hangon	1	none	0	No	No	pedal/paddle	No	SEGA	SEGA	Racing	Motorbike 2	Yes	No	Yes	Yes	Yes	No
 arcade	none	Hard Drivin'	1988	harddriv	1	none	0	No	No	pedal/stick/paddle	No	Atari	Atari	Racing	Cars 5	Yes	No	No	No	No	No
@@ -641,10 +641,10 @@ arcade	none	Martial Masters	2001	martmast	4	joy8way	4	No	No	none	No	IGS	IGS	Figh
 arcade	none	Marvel Super Heroes	1995	msh	2	joy8way	6	No	No	none	No	Capcom	Capcom	Movie	TV	Yes	Yes	No	Yes	Yes	Yes
 arcade	none	Marvel Super Heroes	1995	mshu	2	joy8way	6	No	No	none	No	Capcom	Capcom	Movie	TV	No	No	Yes	No	No	No
 arcade	none	Marvel Super Heroes Vs. Street Fighter	1997	mshvsf	2	joy8way	6	No	No	none	No	Capcom	Capcom	Marvel Universe	none	Yes	Yes	Yes	Yes	Yes	Yes
-arcade	none	Marvel Super Heroes Vs. Street Fighter	1997	mshvsfa	2	joy8way	6	No	No	none	No	Capcom	Capcom	Marvel Universe	Street Fighter	Yes	No	No	No	No	No
+arcade	none	Marvel Super Heroes Vs. Street Fighter	1997	mshvsfa	2	joy8way	6	No	No	none	No	Capcom	Capcom	Marvel Universe	none	Yes	No	No	No	No	No
 arcade	naomi	Marvel Vs. Capcom 2: New Age of Heroes	2000	mvsc2	2	joy8way	6	No	No	none	No	Capcom	Marvel	Marvel Universe	none	Yes	No	No	No	No	Yes
-arcade	none	Marvel Vs. Capcom: Clash of Super Heroes	1998	mvscb	2	joy8way	6	No	No	none	No	Capcom	Capcom	Marvel Universe	Street Fighter 2	Yes	No	No	No	No	No
 arcade	none	Marvel Vs. Capcom: Clash of Super Heroes	1998	mvsc	2	joy8way	6	No	No	none	No	Capcom	Capcom	Marvel Universe	none	Yes	Yes	Yes	Yes	Yes	Yes
+arcade	none	Marvel Vs. Capcom: Clash of Super Heroes	1998	mvscb	2	joy8way	6	No	No	none	No	Capcom	Capcom	Marvel Universe	none	Yes	No	No	No	No	No
 arcade	neogeo	Matrimelee	2003	matrim	2	joy8way	4	No	No	none	No	Noise Factory	Atlus	Fighter	Street Fighter 2	Yes	No	No	No	No	Yes
 arcade	atomiswave	Maximum Speed	2003	maxspeed	1	none	2	No	No	pedal/paddle	No	SIMS	Sammy	Racing	F1-3D	Yes	No	No	No	No	No
 arcade	none	Maze of Flott	1989	mofflott	2	joy8way	2	No	No	none	Yes	Taito	Taito	Racing	Cars 2	Yes	No	No	No	No	No
@@ -1010,8 +1010,8 @@ arcade	none	Stargate	1981	stargate	1	joyvertical2way	6	No	No	none	No	Williams	Vi
 arcade	none	Steel Gunner	1990	sgunner	2	none	2	Yes	No	none	No	Namco	Namco	Adventure	Cops	Yes	No	No	No	No	Yes
 arcade	none	Steel Gunner 2	1991	sgunner2	2	none	2	Yes	No	none	No	Namco	Namco	Action	Shooting 2	Yes	No	No	No	No	Yes
 arcade	none	Storm Blade	1996	stmblade	2	joy8way	3	No	No	none	Yes	Visco	Visco	Army	Airforce 3	Yes	Yes	Yes	Yes	Yes	Yes
-arcade	none	Street Fighter	1987	sf	2	joy8way	6	No	No	none	No	Capcom	Capcom	Fighter	Street Fighter	Yes	Yes	No	Yes	Yes	Yes
 arcade	none	Street Fighter	1987	sf1	2	joy8way	6	No	No	none	No	Capcom	Capcom	Fighter	unknown	No	No	Yes	No	No	No
+arcade	none	Street Fighter	1987	sf	2	joy8way	6	No	No	none	No	Capcom	Capcom	Fighter	Street Fighter	Yes	Yes	No	Yes	Yes	Yes
 arcade	none	Street Fighter 2: Champion Edition	1992	sf2ce	2	joy8way	6	No	No	none	No	Capcom	Capcom	Fighter	Street Fighter	Yes	Yes	Yes	Yes	Yes	Yes
 arcade	none	Street Fighter 2: Hyper Fighting	1992	sf2hf	2	joy8way	6	No	No	none	No	Capcom	Capcom	Fighter	Street Fighter	Yes	Yes	No	Yes	Yes	Yes
 arcade	none	Street Fighter 2: The World Warrior	1991	sf2	2	joy8way	6	No	No	none	No	Capcom	Capcom	Fighter	Street Fighter	Yes	Yes	Yes	Yes	Yes	Yes

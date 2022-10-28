@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="RunCompleteLoad" type="Application" factoryName="Application" nameIsGenerated="true">
+  <configuration default="false" name="RunCompleteLoad" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="main.load.RunCompleteLoad" />
     <module name="game" />
     <option name="VM_PARAMETERS" value="-Xmx8G" />
