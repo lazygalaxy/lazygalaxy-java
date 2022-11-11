@@ -397,15 +397,14 @@
 	<game>
 		<path>./PACCOLL.ZIP</path>
 		<name>Pac-Man Collection!</name>
+		<sortname />
 		<desc>Pac-Man Collection! is a round-up of the various official (and some not so official) releases of one of the most popular games in history.</desc>
-		<image>./boxart/PACCOLL.jpg</image>
-		<video>./snaps/PACCOLL.mp4</video>
 		<releasedate>20061205T000000</releasedate>
 		<developer>Bally Midway</developer>
 		<publisher>AtariAge</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T085706</lastplayed>
+		<image>./boxart/PACCOLL.jpg</image>
+		<video>./snaps/PACCOLL.mp4</video>
 	</game>
 </gameList>

@@ -63,7 +63,7 @@
 	</game>
 	<game>
 		<path>./Beauty &amp; the Beast (USA, Europe).zip</path>
-		<name>Beauty and the Beast</name>
+		<name>Beauty &amp; the Beast</name>
 		<sortname />
 		<desc>Horrible Hank has grabbed Tiny Mabel and climbed the old Mutton Building. Only Bashful Buford can save her. Help him scale the building - but watch out for those rolling boulders! birds and bats swoop down on Buford, and he leaps over scurrying rats. If Buford catches a heart Tiny Mabel throws him, he becomes invincible!</desc>
 		<rating>0.8</rating>
@@ -339,7 +339,7 @@
 	</game>
 	<game>
 		<path>./PGA Golf ~ Golf (World).zip</path>
-		<name>PGA Golf</name>
+		<name>Golf</name>
 		<sortname />
 		<desc>PGA Golf is a golf game played from an overhead point of view. Up to four players can compete on a nine hole, par 38 course containing a variety of terrain (greens, fairway, rough, water, and sand) as well as numerous trees. Each player has nine clubs (3 woods, 4 irons, a wedge, and a putter) and is able hook, slice, and control the power of each shot. You will receive penalty strokes for balls that land out of bounds and in the water, and of course the lowest score at the end of the round wins!</desc>
 		<rating>0.35</rating>
@@ -529,7 +529,7 @@
 	</game>
 	<game>
 		<path>./Swords &amp; Serpents (USA, Europe).zip</path>
-		<name>Swords and Serpents</name>
+		<name>Swords &amp; Serpents</name>
 		<sortname />
 		<desc>A one or two player "Dungeons &amp; Dragons"-style dungeon crawl. In a one-player game, the player controls the Warrior Prince on his quest to collect treasures, learn the secrets of the Fortress of the Sinister Serpent, and locate the Serpent's lair. In a two-player game, the right player controls the Warrior Prince, while the left player controls Nilrem the Wizard.</desc>
 		<releasedate>19820101T000000</releasedate>
@@ -556,7 +556,7 @@
 	</game>
 	<game>
 		<path>./Tower of Doom (USA).zip</path>
-		<name>Tower Of Doom</name>
+		<name>Tower of Doom</name>
 		<sortname />
 		<desc>Reaching high towards the heavens, the Tower of Doom stands, beckoning brave adventures to confront the bizarre creatures and brave the deadly traps it contains in hopes of collecting the bountiful treasures and magical items found within its corridors.</desc>
 		<releasedate>19870101T000000</releasedate>
@@ -583,7 +583,7 @@
 	</game>
 	<game>
 		<path>./US Ski Team Skiing ~ Skiing (World).zip</path>
-		<name>U.S. Ski Team Skiing</name>
+		<name>Skiing</name>
 		<sortname />
 		<desc>In U.S. Ski Team Skiing, players race down the hill, avoiding trees and jumping moguls in their path. The game features both slalom and downhill courses. 1 player may race against the clock, or 2 to 6 players can alternate turns and race to see who gets the fastest time, and each race has 3 heats. Both downhill and slalom courses have 15 different slope grade settings to affect acceleration. 4 different settings for overall game speed are also available.</desc>
 		<rating>0.95</rating>
@@ -610,7 +610,7 @@
 	</game>
 	<game>
 		<path>./TRON Deadly Discs (USA, Europe).zip</path>
-		<name>TRON: Deadly Discs</name>
+		<name>Tron: Deadly Discs</name>
 		<sortname />
 		<desc>Based on the movie from Walt Disney, you play a man trapped in a computer world who must keep moving to avoid being hurt. Enemies will come at you three at a time, and will throw discs at you. You must keep moving to avoid them while also firing discs right back at them. There are different doors you can enter that will teleport you to another part of the room, giving you a chance to catch the enemies off guard. There are two skill levels, and the higher your score, the harder the game becomes. Do good, and your enemies will move faster, become more accurate, and the discs will go much faster.</desc>
 		<rating>0.75</rating>
@@ -624,7 +624,7 @@
 	</game>
 	<game>
 		<path>./BurgerTime (USA, Europe).zip</path>
-		<name>BurgerTime</name>
+		<name>Burger Time</name>
 		<sortname />
 		<desc>You play as Chef Pepper and your goal is to make giant hamburgers while evil eggs, sausages and pickles chase you around the game area. To properly make a hamburger you must assemble all of the ingredients together, dropping them from higher up onto the the burger area below. To actually do this you have to let Chef Pepper step all over the burger ingredients. As soon as an ingredient (a piece of lettuce for instance) has been stepped on, it will fall to the next level below.</desc>
 		<rating>0.85</rating>
@@ -666,30 +666,28 @@
 	<game>
 		<path>./Loco-Motion (USA).zip</path>
 		<name>Loco-Motion</name>
+		<sortname />
 		<desc>Based on a 1982 coin-op, Loco-Motion is a puzzle-style arcade game in which a train is riding on a grid of movable track pieces. The goal is to guide the train through the train stations located around the edge of the playfield. An empty section in the grid allows the player to shift adjacent track pieces into that section to alter the train's path, and a tracing light shows the path the train is taking as it moves. An accelerator button moves the train more quickly on its path, and a panic button will switch the piece of track the train is on with a random track piece on the grid.</desc>
-		<image>./boxart/Loco-Motion (USA).jpg</image>
-		<video>./snaps/Loco-Motion (USA).mp4</video>
 		<releasedate>19820101T000000</releasedate>
 		<developer>Mattel Electronics</developer>
 		<publisher>Mattel Electronics</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T090222</lastplayed>
+		<image>./boxart/Loco-Motion (USA).jpg</image>
+		<video>./snaps/Loco-Motion (USA).mp4</video>
 	</game>
 	<game>
 		<path>./Venture (USA, Europe).zip</path>
 		<name>Venture</name>
+		<sortname />
 		<desc>Venture is a conversion of the popular arcade game. You control Winky, the heroic adventurer. Your goal is to collect as many treasures as you can which are scattered throughout numerous dungeons. In each dungeon, there are several chambers which each contain a treasure. Armed only with your crossbow, you need to get past the varied creatures which guard the chamber, snag the treasure, and make it out again. When you collect the treasure from each of the chambers in a dungeon, you can then move on to the next, more difficult dungeon.</desc>
-		<image>./boxart/Venture (USA, Europe).jpg</image>
-		<video>./snaps/Venture (USA, Europe).mp4</video>
 		<rating>0.8</rating>
 		<releasedate>19820101T000000</releasedate>
 		<developer>Exidy, Inc.</developer>
 		<publisher>Coleco Industries, Inc.</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
-		<playcount>2</playcount>
-		<lastplayed>20220222T090542</lastplayed>
+		<image>./boxart/Venture (USA, Europe).jpg</image>
+		<video>./snaps/Venture (USA, Europe).mp4</video>
 	</game>
 </gameList>

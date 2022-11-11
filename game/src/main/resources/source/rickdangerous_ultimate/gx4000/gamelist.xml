@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>GX4000</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Burnin Rubber.zip</path>
+		<name>Burnin' Rubber</name>
+		<sortname />
+		<desc>Burnin' Rubber is the game that was included with every Plus and GX4000 on a cartridge, in a bid to showcase the Plus machine's new hardware abilities. Therefore it was quite popular, although it did not really show off the Plus capabilities, being an early title and all. Despite that, it wasn't a bad game on its own and is considered one of the good racing games on the Amstrad.</desc>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Burnin Rubber.jpg</image>
+		<video>./snaps/Burnin Rubber.mp4</video>
+	</game>
+	<game>
+		<path>./Klax.zip</path>
+		<name>Klax</name>
+		<sortname />
+		<desc>An action/puzzle game, the object is to catch assorted color falling tiles and create rows, columns, or diagonals of a single color. Each level requires a different pattern to be made, and the tiles fall faster, more at a time, and in an increasing number</desc>
+		<rating>0.65</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Domark</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Klax.jpg</image>
+		<video>./snaps/Klax.mp4</video>
+	</game>
+	<game>
+		<path>./Navy Seals.zip</path>
+		<name>Navy Seals</name>
+		<sortname />
+		<desc>Like many of Ocean's games this was licensed from a film, in this case one by Orion, the company best known for Robocop. You control a succession of the USA's elite fighters with the aim of destroying missiles held by terrorists. You must destroy the mis</desc>
+		<rating>0.55</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Navy Seals.jpg</image>
+		<video>./snaps/Navy Seals.mp4</video>
+	</game>
+	<game>
+		<path>./Panza Kick Boxing.zip</path>
+		<name>Panza Kick Boxing</name>
+		<sortname />
+		<desc>Endorsed by AndrÃ© Panza, this video game adaptation of Thai kick boxing features over 35 moves. Use the training gym to build up your character's abilities until you feel ready to take on an opponent. You also have the ability to customize your attacks.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Futura</developer>
+		<publisher>Titus</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Panza Kick Boxing.jpg</image>
+		<video>./snaps/Panza Kick Boxing.mp4</video>
+	</game>
+	<game>
+		<path>./Plotting.zip</path>
+		<name>Plotting</name>
+		<sortname />
+		<desc>Plotting involves several different types of blocks, bearing symbols such as squares, circles and crosses. Using a small yellow object to direct a block across onto a particular section of a shaped wall. It will then rebound onto a set of blocks at a part</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Ocean</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Plotting.jpg</image>
+		<video>./snaps/Plotting.mp4</video>
+	</game>
+	<game>
+		<path>./Pro Tennis Tour.zip</path>
+		<name>Pro Tennis Tour</name>
+		<sortname />
+		<desc>Okay Tennis Ace, now's your chance to compete with the best. Step into center court, tighten your grip and prepare to serve up your best shot. Pro Tennis Tour is about to begin.</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Blue Byte</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Pro Tennis Tour.jpg</image>
+		<video>./snaps/Pro Tennis Tour.mp4</video>
+	</game>
+	<game>
+		<path>./Robocop 2.zip</path>
+		<name>RoboCop 2</name>
+		<sortname />
+		<desc>RoboCop 2 is a mission-based platform game. Missions have various objectives, such as destroying nukes or killing all the enemies. If you didn't destroy/kill enough, you'll be transported to a training mission, which is a first-person perspective shoot 'e</desc>
+		<rating>0.35</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Robocop 2.jpg</image>
+		<video>./snaps/Robocop 2.mp4</video>
+	</game>
+	<game>
+		<path>./Switchblade.zip</path>
+		<name>Switchblade</name>
+		<sortname />
+		<desc>The Fireblade, sacred symbol of the ancient Switchblade clan, has been smashed into 16 pieces by the evil Havoc - but they say that a Hiro can save it, and as Hiro, you must retrieve the 16 pieces and restore your people's pride. The gameplay is platform</desc>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Switchblade.jpg</image>
+		<video>./snaps/Switchblade.mp4</video>
+	</game>
+	<game>
+		<path>./Tintin on the Moon.zip</path>
+		<name>Tintin on the Moon</name>
+		<sortname />
+		<desc>Tintin on the Moon is a video game loosely based on the Destination Moon and Explorers on the Moon comic books from The Adventures of Tintin, the series by Belgian cartoonist Hergé. It is a first person shoot 'em up/side scroller and the first Tintin video game.</desc>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Tintin on the Moon.jpg</image>
+		<video>./snaps/Tintin on the Moon.mp4</video>
+	</game>
+	<game>
+		<path>./Crazy Cars II.zip</path>
+		<name>Crazy Cars II</name>
+		<sortname />
+		<desc>Racing game through four states of the USA driving a Ferrari F40. You have a given amount of time to reach a distant city. Using the added map you have to find the best way by yourself through the junctions. While there are no other private cars the police tries to stop you using patrol cars and road blocks.</desc>
+		<rating>0.4</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Racing</genre>
+		<image>./boxart/Crazy Cars II.jpg</image>
+		<video>./snaps/Crazy Cars II.mp4</video>
+	</game>
+	<game>
+		<path>./Dick Tracy.zip</path>
+		<name>Dick Tracy</name>
+		<sortname />
+		<desc>Dick Tracy is a tie in to the 1990 movie adaptation of the classic comic strip, staring Warren Beatty and Madonna. This is a side scrolling action game, where you control Dick Tracy as he moves through five stages, shooting gangsters with an assortment o</desc>
+		<rating>0.65</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Beat'em up</genre>
+		<image>./boxart/Dick Tracy.jpg</image>
+		<video>./snaps/Dick Tracy.mp4</video>
+	</game>
+	<game>
+		<path>./Fire and Forget II.zip</path>
+		<name>Fire &amp; Forget II</name>
+		<sortname />
+		<desc>Fire &amp;amp; Forget II is a 1990 futuristic racing-shooting video game developed by Titus Arcade and published by Sega for the Master System, and by Amstrad for the GX4000. It is the sequel to Fire and Forget, which was developed by Titus France SA for a number of platforms including the ZX Spectrum. Fire &amp;amp; Forget II is one of a number of similar games which emerged in the late 1980s and early 1990s in the wake of Sega's popular arcade driving game Out Run (1986). It is notable for the variety of its enemy sprites, and for its use of parallax scrolling. It is also notable for being one of the first video games to be launched simultaneously on two consoles.</desc>
+		<rating>0.45</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Racing</genre>
+		<image>./boxart/Fire and Forget II.jpg</image>
+		<video>./snaps/Fire and Forget II.mp4</video>
+	</game>
+	<game>
+		<path>./Pang.zip</path>
+		<name>Pang</name>
+		<sortname />
+		<desc>Pang is a platform game which consists of 50 levels in total. It can be played with one or two players on the same screen, and the other player can join anytime within the game. Your goal is to destroy the balloons which bounce around the playfield. To ac</desc>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Mitchell Corporation</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Pang.jpg</image>
+		<video>./snaps/Pang.mp4</video>
+	</game>
+	<game>
+		<path>./Barbarian II.zip</path>
+		<name>Barbarian II: The Dungeon of Drax</name>
+		<sortname />
+		<desc>Barbarian II features only a single-player mode, in which the player assumes the role of either sword-wielding Princess Mariana or the titular savage, who is armed with a battleaxe. Their common quest is to pursue the evil wizard Drax, who has fled to his dungeon hideout after his defeat in the first game. The player characters battle their way through an inhospitable wasteland, a system of caves, and a dungeon before facing Drax in his inner sanctum for a showdown.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Palace</developer>
+		<publisher>Ocean</publisher>
+		<genre>Fighting</genre>
+		<image>./boxart/Barbarian II.jpg</image>
+		<video>./snaps/Barbarian II.mp4</video>
+	</game>
+	<game>
+		<path>./Batman the Movie.zip</path>
+		<name>Batman</name>
+		<sortname />
+		<desc>The game consists of five stages based on events from the movie. Each stage has a time limit and a health gauge (represented by Batman's face turning into the Joker's), with Batman losing a life if he runs out. The 5 levels offer different gameplay.</desc>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Batman the Movie.jpg</image>
+		<video>./snaps/Batman the Movie.mp4</video>
+	</game>
+</gameList>

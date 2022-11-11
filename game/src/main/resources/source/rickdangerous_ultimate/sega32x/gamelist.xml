@@ -228,4 +228,101 @@
 		<image>./boxart/Pinocchio (Proto) (US)(Color Restoration v1.0).jpg</image>
 		<video>./snaps/Pinocchio (Proto) (US)(Color Restoration v1.0).mp4</video>
 	</game>
+	<game>
+		<path>./BC Racers (USA).zip</path>
+		<name>BC Racers</name>
+		<sortname />
+		<desc>BC Racers is a kart racing game starring characters from the Core Design's Chuck Rock series of games. Each of the racers in this game rides a prehistoric motorcycle with a side car. On each two-character team, one person drives the motorcycle, and the other fights off opponents using clubs, punches, kicks, etc. Graphics in BC Racers consist of a flat landscape decorated with scaled sprites to compose the track and scenery.</desc>
+		<rating>0.55</rating>
+		<releasedate>19950601T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Front Street Publishing</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/BC Racers (USA).jpg</image>
+		<video>./snaps/BC Racers (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Doom (Japan, USA).zip</path>
+		<name>Doom</name>
+		<sortname />
+		<desc>Doom is the definitive first person shooter developed by id Software and released in 1993. It became a Sega 32X launch title and is widely considered to be one of the games that pioneered and popularized the first person shooter genre. Doom retains a large, dedicated fan base to this day. The player assumes the role of a nameless Space Marine who uses a variety of weaponry to fight his way through several Mars moonbases and the depths of Hell itself.</desc>
+		<rating>0.55</rating>
+		<releasedate>19941203T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Doom (Japan, USA).jpg</image>
+		<video>./snaps/Doom (Japan, USA).mp4</video>
+	</game>
+	<game>
+		<path>./FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).zip</path>
+		<name>FIFA Soccer 96</name>
+		<sortname />
+		<desc>FIFA Soccer 96 featured revolutionary commentary for its time -- the renowned British commentator John Motson covers all the the action on the pitch in real-time. FIFA Soccer 96 boasts 11 leagues from around the world, ranging from unknown players in the Malaysian league to the celebrated stars of the English and Italian leagues. 59 International teams are available for friendlies tournaments (including the World Cup). You can also create your own dream team through the custom team creator.</desc>
+		<rating>0.5</rating>
+		<releasedate>19951130T000000</releasedate>
+		<developer>Extended Play Productions</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).jpg</image>
+		<video>./snaps/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).mp4</video>
+	</game>
+	<game>
+		<path>./NFL Quarterback Club (World).zip</path>
+		<name>NFL Quarterback Club</name>
+		<sortname />
+		<desc>One of the earliest in the NFL Quarterback series, this version features the standard game modes such as Exhibition, Season, Playoffs, etc. and features a full NFL license with players and their teams respective names and logos. One feature that is present in this game is the Quarterback Skills Challenge where the player can choose from 13 different quarterbacks such as John Elway, Steve Young, Dan Marino and many others in a QB competition. The goal is to complete a series of drills such as hitting a bulls-eyes, throwing long distances, competing in obstacle courses or test out their throwing accuracy. It also has a two-player option where friends can compete head-to-head.</desc>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/NFL Quarterback Club (World).jpg</image>
+		<video>./snaps/NFL Quarterback Club (World).mp4</video>
+	</game>
+	<game>
+		<path>./Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).zip</path>
+		<name>Zaxxon's Motherbase 2000</name>
+		<sortname />
+		<desc>This 32X-exclusive sci-fi shooter has gameplay is somewhat like Sega arcade classic Zaxxon. The graphics consist of a diagonally scrolling playfield which creates a pseudo 3D environment. The backgrounds are drawn using 2D scrolling planes, but the enemy and ship objects are drawn using 3D flat-shaded polygons. Although the basic goal of each of the 9 levels is to shoot everything without getting shot, the game has a strategic element. Your basic spacecraft has very little firepower, and can only sustain one hit. To make matters worse, there are very few power-ups. In order to survive, you have to jump on top of enemies and take control of their weapons systems. This system allows for a large variety of player-controllable ships.</desc>
+		<rating>0.65</rating>
+		<releasedate>19950601T000000</releasedate>
+		<developer>CSK Research Institute Corp.</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).jpg</image>
+		<video>./snaps/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).mp4</video>
+	</game>
+	<game>
+		<path>./WWF Raw (World).zip</path>
+		<name>WWF Raw</name>
+		<sortname />
+		<desc>WWF Raw is a professional wrestling game featuring 10 superstars from the World Wrestling Federation. The wrestlers you can choose from include Bret "Hit Man" Hart, Bam Bam Bigelow, 1-2-3 Kid, Diesel, Doink, Lex Luger, Luna Vachon, Owen Hart, Razor Ramon, Shawn Michaels, Undertaker, and Yokozuna. In this game, you attempt to pin your opponent to the mat by reducing his power meter until he can fight no more. There is a large number of moves to perform, including turnbuckle maneuvers and "illegal" acts such as hitting your opponent with a metal folding chair.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/WWF Raw (World).jpg</image>
+		<video>./snaps/WWF Raw (World).mp4</video>
+	</game>
+	<game>
+		<path>./Doom (Europe) Resurecction 2.0 Fixed.32x</path>
+		<name>Doom: Resurrection</name>
+		<sortname />
+		<desc>This patch completely replaces the original engine, adding performance improvements and new features, as well as missing levels from the Jaguar port. Doom is the definitive first person shooter developed by id Software and released in 1993. It became a Sega 32X launch title and is widely considered to be one of the games that pioneered and popularized the first person shooter genre. Doom retains a large, dedicated fan base to this day. The player assumes the role of a nameless Space Marine who uses a variety of weaponry to fight his way through several Mars moonbases and the depths of Hell itself.</desc>
+		<rating>0.55</rating>
+		<releasedate>19941203T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Doom (Europe) Resurecction 2.0 Fixed.jpg</image>
+		<video>./snaps/Doom (Europe) Resurecction 2.0 Fixed.mp4</video>
+	</game>
 </gameList>

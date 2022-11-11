@@ -90,20 +90,6 @@
 		<video>./snaps/Rampart (Europe).mp4</video>
 	</game>
 	<game>
-		<path>./Terminator, The (Europe).zip</path>
-		<name>The Terminator</name>
-		<sortname />
-		<desc>The Terminator licensed game for the Sega consoles was a fairly standard side-scrolling platform game. However, the game's six levels mirror the story-line of The Terminator movie very closely as you take on the role of Kyle Reese and his quest to save Sarah Connor from termination. Because the game follows the movie so closely, the first mission which involves blowing up the SkyNet computer and escaping through time is one of the hardest and something that most players remember with love/hate.</desc>
-		<rating>0.4</rating>
-		<releasedate>19920801T000000</releasedate>
-		<developer>Probe Software Ltd.</developer>
-		<publisher>Tec Toy</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./boxart/Terminator, The (Europe).jpg</image>
-		<video>./snaps/Terminator, The (Europe).mp4</video>
-	</game>
-	<game>
 		<path>./Wonder Boy III - The Dragon's Trap (USA, Europe).zip</path>
 		<name>Wonder Boy III: The Dragon's Trap</name>
 		<sortname />
@@ -314,7 +300,7 @@
 	</game>
 	<game>
 		<path>./Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil).zip</path>
-		<name>Disney's Lucky Dime Caper Starring Donald Duck, The</name>
+		<name>Disney's The Lucky Dime Caper Starring Donald Duck</name>
 		<sortname />
 		<desc>The Lucky Dime Caper is a 2D platform game featuring Donald Duck in search of Uncle Scrooge's lucky dime, stolen by Magica De Spell. The game is the 8-bit counterpart for Quack Shot (released only for Sega Genesis), which also features Donald Duck, but the story and gameplay are totally different.</desc>
 		<rating>0.75</rating>
@@ -384,7 +370,7 @@
 	</game>
 	<game>
 		<path>./R-Type (World).zip</path>
-		<name>R-Type</name>
+		<name>R·Type</name>
 		<sortname />
 		<desc>R-Type is a side scrolling shoot 'em up best known for its extremely tough and strategic gameplay. You control the R-9 spaceship as it launches a last-ditch effort to repel the evil Bydo empire. The R-9 comes equipped as standard with a small gun which can only take down the smallest of enemies without firing several shots.</desc>
 		<rating>0.85</rating>
@@ -874,9 +860,9 @@
 	</game>
 	<game>
 		<path>./Battle Out Run (Europe, Brazil).zip</path>
-		<name>Battle Out Run</name>
+		<name>Battle OutRun</name>
 		<sortname />
-		<desc>Battle Out Run is Sega's answer to Taito's Chase H.Q. You drive a red sports car and must apprehend eight target vehicles in selected cities across the USA, including Los Angeles, Chicago, Miami, and New York. You have to do this while avoiding yellow cars and other obstacles. Halfway through the eight stages, you enter a shop that allows you to upgrade your car and get some nitros, as long as you have money, and you will be rewarded if you apprehend the vehicles. This can be done by bumping into them to disable them.</desc>
+		<desc>Battle OutRun is Sega's answer to Taito's Chase H.Q. You drive a red sports car and must apprehend eight target vehicles in selected cities across the USA, including Los Angeles, Chicago, Miami, and New York. You have to do this while avoiding yellow cars and other obstacles. Halfway through the eight stages, you enter a shop that allows you to upgrade your car and get some nitros, as long as you have money, and you will be rewarded if you apprehend the vehicles. This can be done by bumping into them to disable them.</desc>
 		<rating>0.6</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -958,7 +944,7 @@
 	</game>
 	<game>
 		<path>./Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe, Brazil) (En,Fr,De,Es,It).zip</path>
-		<name>Desert Speedtrap Starring Road Runner and Wile E.</name>
+		<name>Desert Speedtrap Starring Road Runner and Wile E. Coyote</name>
 		<sortname />
 		<desc>This is a platform game starring Looney Tunes famous Road Runner(who you control) and nemesis Wile E. Coyote. Road Runner can jump, eat birdseed to replenish life and run, of course! Holding the D-pad down speeds him up. The clock is ticking and if you run out of time a try is lost, collecting stars adds time to the clock There are various items/powerups and bonus areas 3 difficulty settings, choice to play with or without music and/or sound effects and an option to play the game music while not in game.</desc>
 		<rating>0.65</rating>
@@ -997,20 +983,6 @@
 		<players>1</players>
 		<image>./boxart/Ecco the Dolphin (Europe, Brazil).jpg</image>
 		<video>./snaps/Ecco the Dolphin (Europe, Brazil).mp4</video>
-	</game>
-	<game>
-		<path>./F1 (Europe, Brazil).zip</path>
-		<name>F1</name>
-		<sortname />
-		<desc>F1 is an Official Formula One Racing Game. There are two modes of play available: "Arcade", "Grand Prix". In both of these modes you complete a certain number of laps (4, 8, or 12) and select which circuit that you want to race on. The circuits include San Marino, France, Britain, Germany, Italy, Portugal, Japan, and Australia. Some circuits are easy, while some are difficult.</desc>
-		<rating>0.55</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Lankhor</developer>
-		<publisher>Domark</publisher>
-		<genre>Racing</genre>
-		<players>1-2</players>
-		<image>./boxart/F1 (Europe, Brazil).jpg</image>
-		<video>./snaps/F1 (Europe, Brazil).mp4</video>
 	</game>
 	<game>
 		<path>./Fantasy Zone (World) (Rev 1).zip</path>
@@ -1458,20 +1430,6 @@
 		<video>./snaps/Super Space Invaders (Europe).mp4</video>
 	</game>
 	<game>
-		<path>./Flash, The (Europe, Brazil).zip</path>
-		<name>The Flash</name>
-		<sortname />
-		<desc>The Flash is a side-scrolling platformer starring the eponymous D.C. comics hero. The game is divided into six rounds, each round has two stages and a boss fight. Within each stage, Flash must get to the exit before the time limit runs out, though the exit must first be unlocked by activating a switch. Apart from a speedy protagonist, the game has some similarities to Sonic the Hedgehog, as the levels have a similarly complex structure with different passages and many optional areas.</desc>
-		<rating>0.65</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Probe</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<image>./boxart/Flash, The (Europe, Brazil).jpg</image>
-		<video>./snaps/Flash, The (Europe, Brazil).mp4</video>
-	</game>
-	<game>
 		<path>./Jungle Book, The (Europe, Brazil).zip</path>
 		<name>Disney's The Jungle Book</name>
 		<sortname />
@@ -1487,7 +1445,7 @@
 	</game>
 	<game>
 		<path>./NewZealand Story, The (Europe).zip</path>
-		<name>New Zealand Story, The</name>
+		<name>Newzealand Story, The</name>
 		<sortname />
 		<desc>One day, a kiwi tribe was having fun and games outside the zoo, only to be kidnapped by the evil-minded Leopard Seal, who plans to sell them at the black market. Fortunately, during the kidnapping process, Tiki, leader of the tribe, managed to escape the sack, and her job is to rescue Phee-Phee and the other kiwis scattered around New Zealand, and are held in cages in various locations that include Auckland, Rotorua, Waitomo Caves, Strait Cook, and Mt. Cook.</desc>
 		<rating>0.65</rating>
@@ -1498,20 +1456,6 @@
 		<players>1</players>
 		<image>./boxart/NewZealand Story, The (Europe).jpg</image>
 		<video>./snaps/NewZealand Story, The (Europe).mp4</video>
-	</game>
-	<game>
-		<path>./Smurfs, The (Europe, Brazil) (En,Fr,De,Es).zip</path>
-		<name>The Smurfs</name>
-		<sortname />
-		<desc>The evil Gargamel has captured three of the smurfs, so that he can have them for dinner (Once again). One of the smurfs must go out on a dangerous journey and rescue the captured smurfs. Beat the first two bosses to rescue the first two smurfs, then you can take on Gargamel. Make your way through forests, swamps, mountains, mines and more. Also ride storks, mine carts and logs to defeat Gargamel and his minions and to rescue the missing smurfs.</desc>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Bit Managers</developer>
-		<publisher>Infogrames</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<image>./boxart/Smurfs, The (Europe, Brazil) (En,Fr,De,Es).jpg</image>
-		<video>./snaps/Smurfs, The (Europe, Brazil) (En,Fr,De,Es).mp4</video>
 	</game>
 	<game>
 		<path>./Wimbledon II ~ Wimbledon (Europe, Brazil).zip</path>
@@ -1570,7 +1514,7 @@
 	</game>
 	<game>
 		<path>./Alex Kidd in Miracle World 2.zip</path>
-		<name>Alex Kidd In Miracle World 2 (fan-made)</name>
+		<name>Alex Kidd in Miracle World 2</name>
 		<sortname>Alex Kidd 2</sortname>
 		<desc>Alex Kidd in Miracle World 2 is essentially a fan-made ROM hack of the original game. It uses the same game engine (with some custom modifications) but introduces a whole new set of levels and other features. It was designed as a direct sequel to the original game and ignores the events of Enchanted Castle on the Mega Drive.</desc>
 		<releasedate>20170501T000000</releasedate>
@@ -2109,21 +2053,8 @@
 		<video>./snaps/Aerial Assault (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1).zip</path>
-		<name>Alex Kidd in Miracle World</name>
-		<sortname>Alex Kidd 1</sortname>
-		<desc>Many centuries ago, on the planet Aries, there lived a boy called Alex Kidd. For seven years, he lived on Mt. Eternal studying Shellcore, an ancient art that makes one strong enough to break rocks into pieces. As he was leaving the mountain one day to travel to his spiritual homeland, a dying man told him that the peaceful city of Radactian was in grave danger. Before taking his last breath, the man gave Alex a piece of a map and a medallion made of Sun Stone. There are eleven locations in which Alex must explore, each of them has its own unique dangers.</desc>
-		<rating>0.8</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<image>./boxart/Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1).jpg</image>
-		<video>./snaps/Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1).mp4</video>
-	</game>
-	<game>
 		<path>./Alien 3 (Europe, Brazil).zip</path>
-		<name>Alien 3</name>
+		<name>Alien³</name>
 		<sortname />
 		<desc>Alien 3 is a video game based on the movie sequel of the same name. The plot of the movie picks up directly after the end of Aliens. Ellen Ripley, the main character of the Alien series, is in cryo-sleep aboard the space ship Sulaco. Unfortunately, an alien or two has stowed away on the Sulaco, and wreaked havoc within the ship. Thus, it crash lands on the prison colony planet Fiorina 161. Ripley and the unarmed prisoners have to figure out a way to survive the aliens terrorizing the colony until help arrives.</desc>
 		<rating>0.8</rating>
@@ -2176,7 +2107,7 @@
 	</game>
 	<game>
 		<path>./Alex Kidd 3 - Curse in Miracle World.zip</path>
-		<name>Alex kidd 3: Curse in Miracle World</name>
+		<name>Alex Kidd 3: Curse in Miracle World</name>
 		<sortname>Alex Kidd 3</sortname>
 		<desc>A dark spell has transformed the neighbouring region of Radaxian to a wasteland. The green valley of Hananotani is now filled with a thousand dangers, aggressive monsters and deserted villages. After the defeat of the tyran Janken the Great, members of its gang have come to avenge him, and they have decided to reduce all Miracle World to slavery.</desc>
 		<releasedate>20160101T000000</releasedate>
@@ -2203,29 +2134,470 @@
 	<game>
 		<path>./Action Fighter (USA, Europe, Brazil) (Rev 1).zip</path>
 		<name>Action Fighter</name>
+		<sortname />
 		<desc>This is a top down vertically scrolling shooter, in which you start off as a motorbike. You are quite vulnerable to attack at first, but power ups come in the form of a Sega van which you have to dock with. The first time you dock you get double fire, the second time gives you a rocket, the third gives a rear force field and the fourth invulnerablility.</desc>
-		<image>./boxart/Action Fighter (USA, Europe, Brazil) (Rev 1).jpg</image>
-		<video>./snaps/Action Fighter (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<rating>0.5</rating>
 		<releasedate>19860101T000000</releasedate>
 		<developer>SEGA</developer>
 		<publisher>SEGA</publisher>
 		<genre>Racing</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220221T223552</lastplayed>
+		<image>./boxart/Action Fighter (USA, Europe, Brazil) (Rev 1).jpg</image>
+		<video>./snaps/Action Fighter (USA, Europe, Brazil) (Rev 1).mp4</video>
 	</game>
 	<game>
 		<path>./Bruce Lee (World) (Unl).zip</path>
 		<name>Bruce Lee</name>
+		<sortname />
 		<desc>Bruce Lee is a hybrid Beat 'em up/platform game, in which the player controls Bruce Lee. To progress, the player must collect a number of lanterns suspended at different points in the game. Each room is guarded by two mobile enemies, The Ninja and the Green Yamo, who attack with fists and kicks. A multiplayer mode allows a second player to control the Yamo, or allows two players in turn to control Bruce Lee. Ninja and Yamo are also vulnerable to the dangers of the screen, but have an infinite number of lives.</desc>
-		<image>./boxart/Bruce Lee (World) (Unl).jpg</image>
-		<video>./snaps/Bruce Lee (World) (Unl).mp4</video>
 		<releasedate>20150304T000000</releasedate>
 		<developer>Kagesan</developer>
 		<genre>Action</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T094319</lastplayed>
+		<image>./boxart/Bruce Lee (World) (Unl).jpg</image>
+		<video>./snaps/Bruce Lee (World) (Unl).mp4</video>
+	</game>
+	<game>
+		<path>./Addams Family, The (Europe).zip</path>
+		<name>Addams Family, The</name>
+		<sortname />
+		<desc>The Addams Family is a side-scrolling platformer based on the movie of the same name. The player takes the role of Gomez who searches for his missing family members. To find them he has to explore six different parts of the mansion, e.g. the woods, which are basic platform levels: the player moves from left to right while jumping a lot and avoiding enemies. Some of them can be dispatched of by a jump on their heads. The main difference to the other versions of this game is a unique level design. There is also a life meter which allows to get hit more often before dying.</desc>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<publisher>Flying Edge</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Addams Family, The (Europe).jpg</image>
+		<video>./snaps/Addams Family, The (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bank Panic (Europe, Brazil).zip</path>
+		<name>Bank Panic</name>
+		<sortname />
+		<desc>Bandits are holding up a bank and have taken people hostage, and as a gunslinger, it's your job to shoot them. The bank has 12 doors, and the bandits are behind each one of them. When they pull a gun out at you when you open a door, you have only a few seconds to shoot them before they shoot you. If you shoot them too early (ie: before he sticks his gun out at you), it is considered unfair, and you won't score any points, but if you're too late, he'll shoot you and you lose one of your three lives.If you waste too much time, a bandit will come out from one of the doors and stick dynamite on it. You must then shoot the dynamite to get rid of it. If you're lucky, either a man or a woman will throw you a bag of gold coins.</desc>
+		<rating>0.65</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sanritsu Denki</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Bank Panic (Europe, Brazil).jpg</image>
+		<video>./snaps/Bank Panic (Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Bonanza Bros. (Europe, Brazil).zip</path>
+		<name>Bonanza Bros.</name>
+		<sortname />
+		<desc>Mobo and Robo Bonanza are enjoying their favorite television show when the picture crackles and a shadowy figure of a mysterious stranger appears on screen. This figure asks them to collect certain items that he has placed inside various buildings to test his security force. If they return the items successfully, Mobo and Robo will be rewarded. The two of them state that they will get the job done in just three minutes. However, little do they know that each building is packed with security guards who will raise the alarm if they are caught red-handed. Fortunately both Mobo and Robo are equipped with bullets that can knock the guards unconscious for a few seconds. An $100 reward will be given out if Mobo and Robo are apprehended.</desc>
+		<rating>0.8</rating>
+		<releasedate>19911001T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Bonanza Bros. (Europe, Brazil).jpg</image>
+		<video>./snaps/Bonanza Bros. (Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Chuck Rock (Europe, Brazil).zip</path>
+		<name>Chuck Rock</name>
+		<sortname />
+		<desc>Chuck Rock is your typical average cave man. He likes to spend his Sunday afternoons watching football and drinking beer. Unfortunately, his peaceful existence is interrupted one day when his wife, Ophelia Rock, is kidnapped by the village wierdo, Gary Gritter. So, Chuck is rather upset about this whole situation and you have to help him make things right. The game is a side-scrolling platformer. Chuck fights of a variety of dinosaurs using his belly-buster attack and a jump kick. Occasionally he has to pick up and throw rocks to defeat enemies and allow him to jump to greater heights.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920801T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Virgin Games</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Chuck Rock (Europe, Brazil).jpg</image>
+		<video>./snaps/Chuck Rock (Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Desert Strike (Europe) (En,Fr,De,Es).zip</path>
+		<name>Desert Strike</name>
+		<sortname />
+		<desc>The first game in the Strike series. A year after the Gulf War, a self styled General named Kilbaba (Muababa in the GBA version) takes over an Arab Emirate and threatens to start WWIII against its enemy in the West, the U.S. The whole world holds their breath as the President chooses you to destroy Kilbaba and his terrorist army before he launches a nuclear attack on the world! You must fly an specially designed AH-64A Apache on a series of missions from rescuing MIAs, destroying power plants, to blowing apart SCUD missles! Take out his defenses while trying to find out Kilbaba's plans. Take on the Madman and forever rid this threat....in the desert!</desc>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>The Kremlin</developer>
+		<publisher>Domark</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Desert Strike (Europe) (En,Fr,De,Es).jpg</image>
+		<video>./snaps/Desert Strike (Europe) (En,Fr,De,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Double Dragon (World).zip</path>
+		<name>Double Dragon</name>
+		<sortname />
+		<desc>Set in a post-apocalyptic New York, Double Dragon is the story of Billy and Jimmy Lee, twin brothers trained in the fighting style of Sou-Setsu-Ken. Together, they manage a small martial arts training school, teaching their students in self-defense. One day, Billy's girlfriend, Marian, is kidnapped off the street by the "Black Warriors", a savage street gang led by a man named Willy. The Black Warriors demand the Lee brothers disclose their martial arts secrets in exchange for Marian's freedom. The Lee brothers set out on a rescue mission to crush the Black Warriors and save Marian.</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Double Dragon (World).jpg</image>
+		<video>./snaps/Double Dragon (World).mp4</video>
+	</game>
+	<game>
+		<path>./Dynamite Dux (Europe, Brazil).zip</path>
+		<name>Dynamite Düx</name>
+		<sortname />
+		<desc>Side-scrolling beat 'em ups in which you must rescue a trapped female friend are nothing unusual. Being able to use direct-combat moves as well as collecting bonus weapons, and food for energy recharging, is pretty typical as well. Games of this type that were converted from the arcade to home computers are particularly commonplace - Renegade and the Double Dragon series are famous examples. Where this one stands out, however, is the setting of your character as a duck called Bin, and with motion having a clear waddling appearance. The enemies to fight are all from the animal kingdom, but somewhat warped - crocodiles with boxing moves and cows armed with rocket packs for example.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>AM2</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+		<image>./boxart/Dynamite Dux (Europe, Brazil).jpg</image>
+		<video>./snaps/Dynamite Dux (Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Global Gladiators (Europe, Brazil).zip</path>
+		<name>Global Gladiators</name>
+		<sortname />
+		<desc>Global Gladiators is a fairly standard platform game with the most notable fact being that the characters were created and licensed from McDonalds (yes, THE McDonalds). While playing through the game's 12 levels you'll notice McDonalds logos, burgers and all sorts of family restaurant type stuff as you take Mick and Mack (the game's protagonists) on a journey to clean up "Monsters of Slime World", "Toxi-Town" and more.</desc>
+		<rating>0.55</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Krisalis Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Global Gladiators (Europe, Brazil).jpg</image>
+		<video>./snaps/Global Gladiators (Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Lion King, The (Europe, Brazil).zip</path>
+		<name>Disney's The Lion King</name>
+		<sortname />
+		<desc>Young Simba just can't wait to be king. His father is the current King of the Savannah and the young prince is able to frolic the lands at will; jumping on and around other subjects of this animal kingdom. When Simba's father, King Mufasa, is killed and his evil brother Scar takes over the kingdom, Simba is banished from the lands of his birthright and has to grow up fast, honing his skills, for the day of his return. The Lion King, based on the famous Disney movie, is a platform game where you control Simba - initially as a young cub, and later as an adult lion. The plot of the game follows the plot of the movie. Each of the levels represents a part of the movie.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Syrox Developments</developer>
+		<publisher>Virgin</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Lion King, The (Europe, Brazil).jpg</image>
+		<video>./snaps/Lion King, The (Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Marble Madness (Europe).zip</path>
+		<name>Marble Madness</name>
+		<sortname />
+		<desc>A port of the arcade game. The idea is deceptively simple: Guide a marble down a path without hitting any obstacles or straying off the course. The game is viewed from an isometric perspective, which makes it harder to stay focused on the direction the ball is to follow. There are tight corridors to follow and enemies to avoid. There is a 2-player mode in which players must race to the finish; otherwise you're racing against the clock.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920601T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Virgin</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Marble Madness (Europe).jpg</image>
+		<video>./snaps/Marble Madness (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Mortal Kombat (Europe, Brazil).zip</path>
+		<name>Mortal Kombat</name>
+		<sortname />
+		<desc>Five Hundred years ago, an ancient and well respected Shaolin fighting tournament, held every 50 years, was corrupted by an evil and elderly sorcerer by the name of Shang Tsung. Shang was accompanied by Prince Goro, a warrior of the Shokan race (a four armed half-human/half-dragon). Knowing that if ten tournaments in a row were won by the Outworld champion, the Earth Realm would be conquered by evil and fall into darkness, Shang entered Goro in the tournament and had him defeat the great Kung Lao. Goro has been reigning supreme as the undefeated fighting champion for five hundred years now.</desc>
+		<rating>0.65</rating>
+		<releasedate>19930913T000000</releasedate>
+		<developer>Probe</developer>
+		<publisher>Arena Entertainment</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Mortal Kombat (Europe, Brazil).jpg</image>
+		<video>./snaps/Mortal Kombat (Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Mortal Kombat II (Europe, Brazil).zip</path>
+		<name>Mortal Kombat II</name>
+		<sortname />
+		<desc>The Mortal Kombat fighters, plus several new ones, return for a tournament held by the evil Shang Tsung of the Outworld. The action is one-on-one as before, and famed for its high level of violence and blood (other than the sanitised Nintendo version). There are 5 difficulty levels and optional credits, as well as the usual two player mode including same character duels. To win the main tournament, the player must beat each of the other human players, before taking on Shang Tsung, Kintaro and finally Shao Kahn. Players have a range of punches and kicks available, as well as flying kicks, uppercuts, roundhouses, and the special moves, which vary for each player.</desc>
+		<rating>0.65</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Probe</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Mortal Kombat II (Europe, Brazil).jpg</image>
+		<video>./snaps/Mortal Kombat II (Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./PGA Tour Golf (Europe).zip</path>
+		<name>PGA Tour Golf</name>
+		<sortname />
+		<desc>PGA Tour Golf introduced many of the conventions commonly seen in the genre since. The three-click control method (the first to start the swing, the second setting power and over-swing, the third setting draw or fade) allowed for a multitude of different shots, and required a sense of timing. Four courses are included, one of them a fantasy 'links' course designed by the programmers. Some of the holes are fiendish, with bunkers, water hazards and trees, and the need to plan strategies to get the best approach to the green. When playing a tournament there are 60 opponents, each representing top US golfers - ten of these appear with tactical advice for each hole.</desc>
+		<rating>0.45</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Polygames</developer>
+		<publisher>Tengen</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/PGA Tour Golf (Europe).jpg</image>
+		<video>./snaps/PGA Tour Golf (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Rambo III (USA, Europe, Brazil).zip</path>
+		<name>Rambo III</name>
+		<sortname />
+		<desc>Play as Rambo in this light phaser friendly game. Battle your way through Afghanistan in a solo rescue mission. You are fighting alone for two reasons. One being the C.I.A. doesn't want to stir up a war, two being your Rambo! Your mission is to rescue your comrade Colonel Trautman from the Soviets. He was taken in as prisoner while he was delivering weapons to the Mujahedin freedom fighters. He is being held captive in a prison camp. For weapons you have an AK-47 and grenades. You can pick up grenades by blasting open containers such as pots and crates. Use your fire-power to destroy all enemies and you will continue to the next stage. The first stage is a Soviet army base packed with plenty soldiers.</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Rambo III (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Rambo III (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Rampage (USA, Europe, Brazil).zip</path>
+		<name>Rampage</name>
+		<sortname />
+		<desc>George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a Gorilla, Lizard and Werewolf respectively. Following this, the three of them plan to go round destroying buildings, and up to 3 human players can join in. Smashing at the edges of the buildings for long enough will make them collapse. The police and military are after you, and will shoot at you, so try to destroy them (failing that, you can avoid the bullets). You will need to eat regularly, with things like plants on offer, to avoid shrinking back to being human</desc>
+		<rating>0.7</rating>
+		<releasedate>19890701T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Rampage (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Rampage (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Rescue Mission (USA, Europe, Brazil).zip</path>
+		<name>Rescue Mission</name>
+		<sortname />
+		<desc>Your comrades are wounded and stranded on the battlefield. The only way to get to them, is via a handcart on a railroad track. Your job is to protect the medics, who are riding the rails to get to the wounded. In their path, are hordes of enemies on the ground and in the air shooting everything from fireballs to rockets. In addition to the chaos, there are land-mines lying on the track just waiting to be run over.</desc>
+		<rating>0.65</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Rescue Mission (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Rescue Mission (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Sega Chess (Europe, Brazil).zip</path>
+		<name>Sega Chess</name>
+		<sortname />
+		<desc>Sega Chess is a chess game for one or two players. The game follows the standard chess rules. There are 11 difficulty modes: beginner, novice, amateur, intermediate, professional, chess champion, grand chess champion, chess master, grand chess master, adaptive (which tries to adapt to the player's skill and infinite think mode. The game also offers a problem solving mode. Gameplay consists in moving a hand icon across the board selecting the piece to move and the target location. The player can ask for hint moves and when it is the computer's turn, he can force the opponent to move. The table side can also be flipped during the gameplay. The plays are recorded and the players can see it in the main menu screen.</desc>
+		<rating>0.55</rating>
+		<releasedate>19910801T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>SEGA</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
+		<image>./boxart/Sega Chess (Europe, Brazil).jpg</image>
+		<video>./snaps/Sega Chess (Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Speedball (Europe) (Rev 1).zip</path>
+		<name>Speedball</name>
+		<sortname />
+		<desc>The original future sport game, Speedball is played out on a small court with five players on each team, making it more frantic than the more famous sequel. The ball must be thrown into the goal at your opponent's end. Any amount of physical contact can be made, and there are no illegal ways to get the ball or the goal. Before each match you can bribe the referee into awarding you a head-start or strengthening the abilities of your players. You compete in a simple knockout cup tournament, or in individual 2-player games.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910301T000000</releasedate>
+		<developer>The Bitmap Brothers</developer>
+		<publisher>Virgin</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Speedball (Europe) (Rev 1).jpg</image>
+		<video>./snaps/Speedball (Europe) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Streets of Rage (Europe, Brazil).zip</path>
+		<name>Streets of Rage</name>
+		<sortname />
+		<desc>Streets of Rage, Sega's answer to Final Fight, follows the story of three young police officers (Adam Hunter, Axel Stone and Blaze Fielding) in a city controlled by a criminal syndicate led by a "Mr. X" where crime is rampant, which leads the three heroes to make a pact to leave the force and topple the syndicate by themselves. Gameplay is straightforward and simple. Three buttons are used, one to jump, other to attack and another to perform a range attack from a support police car.</desc>
+		<rating>0.6</rating>
+		<releasedate>19930607T000000</releasedate>
+		<developer>Ancient</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Streets of Rage (Europe, Brazil).jpg</image>
+		<video>./snaps/Streets of Rage (Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Streets of Rage II (Europe, Brazil).zip</path>
+		<name>Streets of Rage II</name>
+		<sortname />
+		<desc>After Axel Stone, Blaze Fielding and Adam Hunter destroyed the evil Syndicate leader, Mr. X, the city became a peaceful place to live, and each one of them followed their own paths. One year later, after their reunion, Adam's brother Sammy returned from school to find their apartment in a mess, and Adam nowhere to be seen, and after calling his two friends, one of them notices a photo of Adam chained to a wall, next to someone they knew very well - Mr. X, who returned to turn the peaceful city once again into a war zone. Now, Axel, Blaze, Sammy, and Axel's good friend Max, a pro wrestler, must head out to stop Mr. X once again...hopefully for good... Streets of Rage 2 differs from the previous title in several ways.</desc>
+		<rating>0.5</rating>
+		<releasedate>19940201T000000</releasedate>
+		<developer>Japan System House</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Streets of Rage II (Europe, Brazil).jpg</image>
+		<video>./snaps/Streets of Rage II (Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Super Off Road (Europe).zip</path>
+		<name>Super Off Road</name>
+		<sortname />
+		<desc>Super Off-Road is the ultimate off-road racing event. Four tough trucks speed around rough and ready tracks packed with pitfalls, power-boosters and prizes. No one knows the meaning of sportsmanship here. Have you got the skill and determination to come out on top?</desc>
+		<rating>0.45</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Graftgold</developer>
+		<publisher>Virgin</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Off Road (Europe).jpg</image>
+		<video>./snaps/Super Off Road (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Taito Chase H.Q. (Europe).zip</path>
+		<name>Taito Chase H.Q.</name>
+		<sortname />
+		<desc>As an undercover agent of Chase Headquarters, your job is to patrol the streets and track down five criminals. You are given a mission briefing before you start which gives information on the suspect and what car they drive. Then you drive across the city without crashing into other cars, and catch up with the criminal's car. To arrest the suspects, you must keep bumping into their car until it is no longer functional. And you have to do this under a strict time limit. You can't afford to crash into cars or buildings or you waste time getting on the road again. However, once you've caught up with your suspect, you are given more time.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Taito Chase H.Q. (Europe).jpg</image>
+		<video>./snaps/Taito Chase H.Q. (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Tennis Ace ~ Super Tennis (Europe, Brazil).zip</path>
+		<name>Tennis Ace</name>
+		<sortname />
+		<desc>Using a top-down view, Tennis Ace lets you play single or double games with computer players. Two human players can either duel or work cooperatively in a doubles game. By working your way to one of the six grand slam finals, with practice games and exhibition matches, you gain experience, which improves your playing style. All the basic strokes are available: serves (either flat or a lob - fast-low, slow-high and curved), smashes, drop shots, lobs, flat forehands and backhands. Upon serving, the screen switches to a side-view and you have to time the throw and the hit to perform a succesful serve. The in-game progress can be saved with a password function.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Tennis Ace ~ Super Tennis (Europe, Brazil).jpg</image>
+		<video>./snaps/Tennis Ace ~ Super Tennis (Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Thunder Blade (USA, Europe, Brazil).zip</path>
+		<name>Thunder Blade</name>
+		<sortname />
+		<desc>Aboard the lethal Gunship Gladiator helicopter, it is your job to ensure that a coup fails to install a dictator as leader. The game features 12 levels split into three distinct styles. First of all you'll be flying over a city in your helicopter, shooting out tanks by ducking low enough to target them, but also climbing to avoid the skyscrapers in the area. The third section is viewed similarly, but sees you attempting to wipe out the planes mounted on an aircraft carrier. The second section is viewed behind your helicopter in full 3D, and adds helicopters and planes to be shot, with dodging their bullets as you duck down to shoot the tanks being the main challenge.</desc>
+		<rating>0.65</rating>
+		<releasedate>19881105T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Thunder Blade (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Thunder Blade (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Wanted (USA, Europe, Brazil).zip</path>
+		<name>Wanted</name>
+		<sortname />
+		<desc>Get ready for an adventure in Sega's wild, wild west! Become the Sheriff of the western territories. You've got a silver star and a trusty Sega Light Phaser. Your gunfighting skills are about to be put to the test by the meanest bunch of desperadoes ever to ride the outlaw trail. In towns. Across country. Down dusty streets. Your job is to clean them up! When you find the outlaws, shoot fast...or they'll plug you first! To make matters worse, the townspeople are walking the streets. Hit them and you'll lose part of your life meter! In between rounds you'll find challenge scenes to help you improve your shooting and make some more gold! Fight your way to the seventh round and you'll face the big boss in a sunset battle.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890801T000000</releasedate>
+		<developer>Sanritsu Denki</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Wanted (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Wanted (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./World Soccer ~ Great Soccer ~ Super Futebol (World).zip</path>
+		<name>Great Soccer</name>
+		<sortname />
+		<desc>Get ready to play like a professional on this fast-paced soccer green. Your arena? It's international and you're up against the best soccer teams in the world. Will you play with Italian passion, Argentine stamina or the calculating cool of the West Germans? Maybe you'll want to push the young U.S.A. team to championship status. Your strategy: combine athletic skill and accurate timing to win points and block goals. And it won't be easy. Your opponents are tough and after the glory. So pass, dribble and kick your way to victory. You've got the ball, now run with it.</desc>
+		<rating>0.8</rating>
+		<releasedate>19871001T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/World Soccer ~ Great Soccer ~ Super Futebol (World).jpg</image>
+		<video>./snaps/World Soccer ~ Great Soccer ~ Super Futebol (World).mp4</video>
+	</game>
+	<game>
+		<path>./Zool - Ninja of the 'Nth' Dimension (Europe).zip</path>
+		<name>Zool: Ninja of the “Nth” Dimension</name>
+		<sortname />
+		<desc>Once every year, the games world is rocked by a game so stunning, so fast, so colorful, so big, so demanding, so mega, so awesome, so varied, so incredible, and so full of fabulous features and unexpected treats, that everybody just looks at it and says "THAT'S IT!" This year, Zool, The Ninja From the Nth Dimension, is definitely "IT!"</desc>
+		<rating>0.35</rating>
+		<releasedate>19940201T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Zool - Ninja of the 'Nth' Dimension (Europe).jpg</image>
+		<video>./snaps/Zool - Ninja of the 'Nth' Dimension (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./F1 (Europe, Brazil).zip</path>
+		<name>F1</name>
+		<sortname />
+		<desc>F1 is an Official Formula One Racing Game. There are two modes of play available: "Arcade", "Grand Prix". In both of these modes you complete a certain number of laps (4, 8, or 12) and select which circuit that you want to race on. The circuits include San Marino, France, Britain, Germany, Italy, Portugal, Japan, and Australia. Some circuits are easy, while some are difficult.</desc>
+		<rating>0.55</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Lankhor</developer>
+		<publisher>Domark</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/F1 (Europe, Brazil).jpg</image>
+		<video>./snaps/F1 (Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Flash, The (Europe, Brazil).zip</path>
+		<name>Flash, The</name>
+		<sortname />
+		<desc>The Flash is a side-scrolling platformer starring the eponymous D.C. comics hero. The game is divided into six rounds, each round has two stages and a boss fight. Within each stage, Flash must get to the exit before the time limit runs out, though the exit must first be unlocked by activating a switch. Apart from a speedy protagonist, the game has some similarities to Sonic the Hedgehog, as the levels have a similarly complex structure with different passages and many optional areas.</desc>
+		<rating>0.65</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Probe</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Flash, The (Europe, Brazil).jpg</image>
+		<video>./snaps/Flash, The (Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Smurfs, The (Europe, Brazil) (En,Fr,De,Es).zip</path>
+		<name>Smurfs, The</name>
+		<sortname />
+		<desc>The evil Gargamel has captured three of the smurfs, so that he can have them for dinner (Once again). One of the smurfs must go out on a dangerous journey and rescue the captured smurfs. Beat the first two bosses to rescue the first two smurfs, then you can take on Gargamel. Make your way through forests, swamps, mountains, mines and more. Also ride storks, mine carts and logs to defeat Gargamel and his minions and to rescue the missing smurfs.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Bit Managers</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Smurfs, The (Europe, Brazil) (En,Fr,De,Es).jpg</image>
+		<video>./snaps/Smurfs, The (Europe, Brazil) (En,Fr,De,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Terminator, The (Europe).zip</path>
+		<name>Terminator, The</name>
+		<sortname />
+		<desc>The Terminator licensed game for the Sega consoles was a fairly standard side-scrolling platform game. However, the game's six levels mirror the story-line of The Terminator movie very closely as you take on the role of Kyle Reese and his quest to save Sarah Connor from termination. Because the game follows the movie so closely, the first mission which involves blowing up the SkyNet computer and escaping through time is one of the hardest and something that most players remember with love/hate.</desc>
+		<rating>0.4</rating>
+		<releasedate>19920801T000000</releasedate>
+		<developer>Probe Software Ltd.</developer>
+		<publisher>Tec Toy</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Terminator, The (Europe).jpg</image>
+		<video>./snaps/Terminator, The (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1).zip</path>
+		<name>Alex Kidd in Miracle World</name>
+		<sortname>Alex Kidd 1</sortname>
+		<desc>Many centuries ago, on the planet Aries, there lived a boy called Alex Kidd. For seven years, he lived on Mt. Eternal studying Shellcore, an ancient art that makes one strong enough to break rocks into pieces. As he was leaving the mountain one day to travel to his spiritual homeland, a dying man told him that the peaceful city of Radactian was in grave danger. Before taking his last breath, the man gave Alex a piece of a map and a medallion made of Sun Stone. There are eleven locations in which Alex must explore, each of them has its own unique dangers.</desc>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1).jpg</image>
+		<video>./snaps/Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1).mp4</video>
 	</game>
 </gameList>

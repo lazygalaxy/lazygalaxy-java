@@ -34,7 +34,7 @@
 	</game>
 	<game>
 		<path>./Sega-Galaga (Japan, Australia).zip</path>
-		<name>SEGA Galaga</name>
+		<name>Sega Galaga</name>
 		<sortname />
 		<desc>Take control of a fighter space craft and shoot down the invading aliens. Watch out for the swooping motherships, which will try to steal your fighter. Rescue captured fighters to double your firepower. Earn Perfect Bonuses as you battle your way through wave after wave in different challenging stages.</desc>
 		<releasedate>19830101T000000</releasedate>
@@ -57,19 +57,6 @@
 		<players>1</players>
 		<image>./boxart/Star Force (Japan, Australia).jpg</image>
 		<video>./snaps/Star Force (Japan, Australia).mp4</video>
-	</game>
-	<game>
-		<path>./Castle, The (Japan).zip</path>
-		<name>The Castle</name>
-		<sortname />
-		<desc>The game has a fairly standard plot of rescuing a princess from a castle, though the game itself was considered very large for the time. It also contains a map system similar to that of later Metroid and Castlevania games.</desc>
-		<releasedate>19860101T000000</releasedate>
-		<developer>ASCII Corporation</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./boxart/Castle, The (Japan).jpg</image>
-		<video>./snaps/Castle, The (Japan).mp4</video>
 	</game>
 	<game>
 		<path>./Flicky (Japan, New Zealand).zip</path>
@@ -204,5 +191,18 @@
 		<players>1</players>
 		<image>./boxart/Bank Panic (Japan).jpg</image>
 		<video>./snaps/Bank Panic (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Castle, The (Japan).zip</path>
+		<name>Castle, The</name>
+		<sortname />
+		<desc>The game has a fairly standard plot of rescuing a princess from a castle, though the game itself was considered very large for the time. It also contains a map system similar to that of later Metroid and Castlevania games.</desc>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>ASCII Corporation</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Castle, The (Japan).jpg</image>
+		<video>./snaps/Castle, The (Japan).mp4</video>
 	</game>
 </gameList>

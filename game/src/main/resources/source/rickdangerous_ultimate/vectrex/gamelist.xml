@@ -132,7 +132,7 @@
 	</game>
 	<game>
 		<path>./Mine Storm II (USA) (Rev 2).zip</path>
-		<name>MineStorm II</name>
+		<name>Mine Storm II</name>
 		<sortname />
 		<desc>Mine Storm is the built-in game that came with every Vectrex unit. It was also released in a 3-D version that required the use of the Vectrex 3D Imager and Mine Storm 2 is a debugged version of Mine Storm. One of the built-in versions of Mine Storm had a glitch that made the game crash at level 13, so GCE decided to send a copy of Mine Storm 2 to gamers that wrote to the company and complained.</desc>
 		<releasedate>19830101T000000</releasedate>
@@ -173,7 +173,7 @@
 	</game>
 	<game>
 		<path>./Rip Off (World).zip</path>
-		<name>Rip-Off</name>
+		<name>Rip Off</name>
 		<sortname />
 		<desc>Beware of scavenging pirates trying to steal your precious fuel cells! The more pirates you destroy, the faster their successors become. Guard your tanks carefully, you are always outnumbered!</desc>
 		<rating>0.5</rating>
@@ -283,7 +283,7 @@
 	</game>
 	<game>
 		<path>./WebWars (USA).zip</path>
-		<name>Web Warp</name>
+		<name>Web Wars</name>
 		<sortname />
 		<desc>Enter a galaxy of the future filled with adventure and danger a galaxy unlike any you have imagined before. You become the Hawk King a creature capable of incredible speed and power - as you attempt to capture the amazing creatures that inhabit the speeding Web of Fantasy. All 20 creatures are protected by guardians and the dreaded Cosmic Dragon and each will become progressively more difficult to capture. No one has ever captured the elusive twentieth creature. Will you?</desc>
 		<rating>0.8</rating>
@@ -294,20 +294,6 @@
 		<players>1-2</players>
 		<image>./boxart/WebWars (USA).jpg</image>
 		<video>./snaps/WebWars (USA).mp4</video>
-	</game>
-	<game>
-		<path>./Armor..Attack (World).zip</path>
-		<name>Armor..Attack</name>
-		<sortname />
-		<desc>Maneuver your jeep through the streets and alleys of an occupied town. Hide from the enemy tanks behind buildings and launch your own surprise attack! Improve your chance of survival by playing with an alley. But beware of the deadly helicopter flying overhead no place is safe from this treacherous enemy.</desc>
-		<rating>0.75</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Cinematronics</developer>
-		<publisher>GCE</publisher>
-		<genre>Shoot'em up</genre>
-		<players>1-2</players>
-		<image>./boxart/Armor..Attack (World).jpg</image>
-		<video>./snaps/Armor..Attack (World).mp4</video>
 	</game>
 	<game>
 		<path>./Space Wars (World).zip</path>
@@ -350,5 +336,19 @@
 		<players>1</players>
 		<image>./boxart/THRUST.jpg</image>
 		<video>./snaps/THRUST.mp4</video>
+	</game>
+	<game>
+		<path>./Armor..Attack (World).zip</path>
+		<name>Armor..Attack</name>
+		<sortname />
+		<desc>Maneuver your jeep through the streets and alleys of an occupied town. Hide from the enemy tanks behind buildings and launch your own surprise attack! Improve your chance of survival by playing with an alley. But beware of the deadly helicopter flying overhead no place is safe from this treacherous enemy.</desc>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Armor..Attack (World).jpg</image>
+		<video>./snaps/Armor..Attack (World).mp4</video>
 	</game>
 </gameList>

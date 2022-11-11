@@ -22,7 +22,7 @@
 	</game>
 	<game>
 		<path>./Hino Tori - Houou Hen - Gaou no Bouken (Japan).nes</path>
-		<name>Hi no Tori Hououhen: Gaou no Bouken</name>
+		<name>Hi no Tori: Hōō-hen: Gaō no Bōken (Phoenix Chronicles: Gaou's Adventure)</name>
 		<sortname />
 		<desc>Based on the Osamu Tezuka's manga "Phoenix", this platformer is mostly based on the fifth volume, "Hō-ō" (later called "Karma" when it reached North America in May 2004). Here you play as the bandit Gaou, who lost an arm and eye as a baby and as such was scorned by his peers. Since then he has resorted to various tactics, not least murder, to survive. However, one day he fought a monk who encouraged him to change his ways and follow his unfound natural talent to sculpt, which is thus put to good use in a variety of sculptures unique in their raw emotion.</desc>
 		<releasedate>19870104T000000</releasedate>
@@ -35,7 +35,7 @@
 	</game>
 	<game>
 		<path>./Holy Diver (Japan) (en).nes</path>
-		<name>Holy Diver</name>
+		<name>Hōrī Daivā (Holy Diver)</name>
 		<sortname />
 		<desc>Randy, the Holy Diver, is setting out to retrieve the five emblem seals belonging to the King Crimson Family in order to expel the greatest evil, the Black Slayer, back into another dimension.</desc>
 		<rating>0.85</rating>
@@ -46,20 +46,6 @@
 		<players>1-2</players>
 		<image>./boxart/Holy Diver (Japan) (en).jpg</image>
 		<video>./snaps/Holy Diver (Japan) (en).mp4</video>
-	</game>
-	<game>
-		<path>./Joy Mech Fight (Japan) (en).nes</path>
-		<name>Joi Meka Faito: Joy Mech Fight</name>
-		<sortname />
-		<desc>The evil scientist Warunachi has hacked all the otherwise peaceful robots in Japan and now plans to launch an attack for world domination the likes of which the world has never seen. Fortunately his former partner, Dr. Eamon, saved one robot from the takeover and has now programmed him to defeat the other robots and foil Dr. Warunachi's evil plans.</desc>
-		<rating>0.65</rating>
-		<releasedate>19930521T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Fighting</genre>
-		<players>1-2</players>
-		<image>./boxart/Joy Mech Fight (Japan) (en).jpg</image>
-		<video>./snaps/Joy Mech Fight (Japan) (en).mp4</video>
 	</game>
 	<game>
 		<path>./Moon Crystal (Japan) (en).nes</path>
@@ -91,7 +77,7 @@
 	</game>
 	<game>
 		<path>./Summer Carnival '92 - Recca (Japan).nes</path>
-		<name>Summer Carnival '92: Recca</name>
+		<name>Samā Kānibaru '92: Rekka (Summer Carnival '92: Recca)</name>
 		<sortname />
 		<desc>Conceived as an entry for a game development competition, this game would later be published by Naxat Soft in 1992. This frenetic shoot-'em-up taxes the Famicom system and the player's reflexes with huge quantities of enemies while maintaining smooth, fast gameplay!.</desc>
 		<rating>1</rating>
@@ -105,7 +91,7 @@
 	</game>
 	<game>
 		<path>./Samurai Pizza Cats (Japan) [T-En by Vice Translations v1.01] [US adaptation] [n].nes</path>
-		<name>Kyattō Ninden Teyandē</name>
+		<name>Kyattō Ninden Teyandē (Legendary Ninja Cats)</name>
 		<sortname />
 		<desc>Edoropolis is home to a race of Animaloids, anthropomorphic animals which are a combination of flesh and cybernetic body parts. They are ruled by Shogun Tokugawa Lei Lei and his daughter, Tokugawa Usako. Unfortunately for them, the Prime Minister Kitsunezuka Ko'on No Kami is actively trying to depose both of them and wants to assume power by force! He's always got a plan up his sleeves, usually involving attacking the city using an army of Ninja Crows, led by Karamaru and Karasu Gennarisai (who also serves as Ko'on No Kami's advisor).</desc>
 		<rating>0.95</rating>
@@ -119,7 +105,7 @@
 	</game>
 	<game>
 		<path>./Binary Land (Japan).nes</path>
-		<name>Bainarī Rando: Binary Land</name>
+		<name>Bainarī Rando (Binary Land)</name>
 		<sortname />
 		<desc>In this game, you have to guide two penguins, one male and one female, through top-down vertical levels. The penguins are in love with each other and must be re-united! The penguins start on opposite sides, separated by walls, bricks, and other obstacles. You take control of one of the penguins. The other makes exactly the same movements as you, but in the opposite direction.</desc>
 		<rating>0.4</rating>
@@ -133,7 +119,7 @@
 	</game>
 	<game>
 		<path>./Bio Miracle Bokutte Upa (Japan).nes</path>
-		<name>Baio Mirakuru Bokutte Upa: Bio Miracle</name>
+		<name>Baio Mirakuru: Bokutte Upa (Bio Miracle: I'm Upa)</name>
 		<sortname />
 		<desc>In this game, you control a little baby! The baby crawls through imaginary worlds, made of candy, chocolate, toys, and other things a baby would dream of. It has to traverse those platform levels to defeat or avoid various enemies. The way the baby deals with the enemies is quite unusual: it inflates them. When inflated, the enemies lose control and begin to float, until they finally explode. The baby can use this to its advantage, riding the enemies while they are floating, kicking them to various directions, making them bounce off walls, using them as projectiles to hit other enemies, etc. Such strategies are necessary when dealing with the bosses you encounter.</desc>
 		<rating>0.65</rating>
@@ -189,7 +175,7 @@
 	</game>
 	<game>
 		<path>./Digital Devil Monogatari - Megami Tensei.zip</path>
-		<name>Digital Devil Story: Megami Tensei</name>
+		<name>Dejitaru Debiru Sutōrī Megami Tensei (Digital Devil Story: Reincarnation of the Goddess)</name>
 		<sortname />
 		<desc>A high-school student and skillful computer programmer named Akemi Nakajima created a software called "Devil Summoning Program". At first Nakajima intended to use the software to gain revenge on a classmate who bullied him. However, things went out of control and Nakajima summoned malicious demons. Together with his friend Yumiko Shirasagi, a transfer student, he now must fight the demons he unleashed!</desc>
 		<rating>0.6</rating>
@@ -230,7 +216,7 @@
 	</game>
 	<game>
 		<path>./Famicom Wars (J) [o2] (en).nes</path>
-		<name>Famicom Wars</name>
+		<name>Famikon Wōzu (Famicom Wars)</name>
 		<sortname />
 		<desc>The Red Star nation and the Blue Moon nation are at war. Each has deployed troops and works to obtain enough funds so as to buy the necessary military hardware to overcome the other side.</desc>
 		<rating>0.9</rating>
@@ -244,7 +230,7 @@
 	</game>
 	<game>
 		<path>./Final Fantasy III (Japan)(en).nes</path>
-		<name>Final Fantasy III</name>
+		<name>Fainaru Fantajī Surī (Final Fantasy III)</name>
 		<sortname />
 		<desc>In a remote village of Ur, four orphan boys were raised by the priest Topapa. Once, the Crystal of Wind, guarded by the people of Ur, sank deep into the earth. The four boys decided to retrieve it from there and went down into an underground cave. But when they found the crystal, it spoke to them and from its words they understood they were chosen for a much more important and world-embracing mission.</desc>
 		<rating>0.6</rating>
@@ -271,7 +257,7 @@
 	</game>
 	<game>
 		<path>./Getsu Fuuma Den (Japan) (en).nes</path>
-		<name>Getsu Fuuma Den</name>
+		<name>Getsu Fūma Den (The Legend of Getsu Fūma)</name>
 		<sortname />
 		<desc>In the first years of the Demon Age, a horrible demon named "Dragon Master" was revived by his minions in hell. To protect the peace of the overworld, the two eldest Fuuma brothers fought the Dragon Master. Both were unable to defeat him and were killed, losing their legendary Wave Swords, also called Hadoukens. To avenge their deaths, the last of the Fuuma brothers vowed to slay the Dragon Master, and take back the Hadoukens.</desc>
 		<releasedate>19870707T000000</releasedate>
@@ -284,7 +270,7 @@
 	</game>
 	<game>
 		<path>./Gimmick! (Japan).nes</path>
-		<name>Gimmick!</name>
+		<name>Gimikku! (Gimmick!)</name>
 		<sortname />
 		<desc>Mr. Gimmick is a little doll with a life of its own, that's given to a girl for her birthday. The girl's other toys quickly become jealous of the attention given to Mr. Gimmick, and they decide to carry her away to a mystical land. Mr. Gimmick goes after them to bring his owner back.</desc>
 		<rating>0.85</rating>
@@ -298,7 +284,7 @@
 	</game>
 	<game>
 		<path>./Gradius II (Japan).nes</path>
-		<name>Gradius II</name>
+		<name>Gradiusu Tsū: Gofā no Yabō (Gradius II: Gofer's Ambition)</name>
 		<sortname />
 		<desc>Gradius II is a sequel to Gradius and Life Force, and is a horizontal space shooter composed of seven levels. Like in its predecessor, it is possible to collect power-ups from enemies and choose which type to use and when. This time, this system is enhanced with the option of choosing between four different power-up sequences, allowing the player to use different types of weapons against enemies.</desc>
 		<rating>0.75</rating>
@@ -312,7 +298,7 @@
 	</game>
 	<game>
 		<path>./Sweet Home (Japan) (en).nes</path>
-		<name>Suwīto Hōmu: Sweet Home</name>
+		<name>Suwīto Hōmu (Sweet Home)</name>
 		<sortname />
 		<desc>"Sweet Home" follows the exploits of five members of an investigation group: Kazuo, Akiko, Taro, Asuka, and Emi. The famous painter Mamiya Ichirou lived many years in a secluded mansion, and rumor says there are some valuable frescos to find inside. Our investigators decide to take some pictures of the frescos. However, upon entering the mansion, a ghost-like figure of Mamiya appears and threatens them. After this, they find themselves trapped in the mansion.</desc>
 		<rating>0.9</rating>
@@ -340,7 +326,7 @@
 	</game>
 	<game>
 		<path>./Goonies, The (Japan).nes</path>
-		<name>The Goonies</name>
+		<name>Gūnīzu (The Goonies)</name>
 		<sortname />
 		<desc>The Goonies is based on a movie of the same name from 1985. A group of youngsters from a neighborhood called the "Goon Docks" are trying to find the lost treasure of One-Eyed Willie to prevent the foreclosure of their houses. Unfortunately, the treasure is buried under the hide-out of the infamous Fratelli gang, a family of ruthless criminals who are on the run from the law. You play as the asthmatic Mikey, who must find the treasure and save the other Goonies before time runs out.</desc>
 		<rating>0.6</rating>
@@ -354,7 +340,7 @@
 	</game>
 	<game>
 		<path>./Suddenly! Machoman (Japan) [T-En by Pacnsacdave v1.0] [[n].nes</path>
-		<name>Totsuzen! Machoman: Amagon</name>
+		<name>Totsuzen! Machoman (Amagon)</name>
 		<sortname />
 		<desc>In Amagon, your mission is to investigate a dangerous, monster-infested island. As Amagon, you begin the game with only a machine gun and a limited amount of ammo to protect yourself from the inhabitants of the island. Gameplay is an arcade style platform game with six levels, each with a variety of creatures and a large boss at the end.</desc>
 		<rating>0.5</rating>
@@ -368,7 +354,7 @@
 	</game>
 	<game>
 		<path>./Wai Wai World (Japan) (en).nes</path>
-		<name>Wai Wai Wārudo</name>
+		<name>Wai Wai Wārudo (Water Water World)</name>
 		<sortname />
 		<desc>The player starts the game as Konami Man, and can switch between Konami Man and Konami Lady. If two players are gaming, then one will play as Konami Man and the other as Konami Lady. Both players are not able to switch characters until they rescue at least one character from one of the six levels. The player must play through six different selectable levels that take place in different Konami games and save that game's star character with a key who the player can then play as. Each character has different abilities to begin with as well as ones they can eventually gain.</desc>
 		<releasedate>19880114T000000</releasedate>
@@ -381,7 +367,7 @@
 	</game>
 	<game>
 		<path>./Wai Wai World 2 - SOS!! Paseri Jou (Japan) (en).nes</path>
-		<name>Wai Wai Wārudo Tsū: Esuōesu!! Paseri Jō</name>
+		<name>Wai Wai Wārudo Tsū: Esuōesu!! Paseri Jō (Water Water World 2: SOS!! Parsley Castle)</name>
 		<sortname />
 		<desc>Parsley Castle, an outer space kingdom, has been invaded! And strange beings are to blame. Playing as Rickle, a cyborg built by Dr. Cinnamon from Konami's Twinbee series, and several of his friends from other (mostly Japan-only) Konami games, your objective is to save Parsley Castle and once again bring peace to Konami World.</desc>
 		<releasedate>19910105T000000</releasedate>
@@ -421,7 +407,7 @@
 	</game>
 	<game>
 		<path>./Akumajou Densetsu (Japan) (Castlevania Anniversary Collection).nes</path>
-		<name>Akumajō Densetsu: Demon Castle Legend</name>
+		<name>Akumajō Densetsu (Castlevania III: Dracula's Curse)</name>
 		<sortname />
 		<desc>Taking place 100 years before the events of Castlevania 1 and Castlevania 2, Dracula the Vampire has risen up to threaten the small village of Warakiya. Citizens who had banished the Belmont family now beg for Trevor Belmont's help in slaying Dracula. In his strange castle, Dracula has been assembling a massive army of undead creatures to sweep the Earth clean of life and bring everlasting darkness. Trevor agrees to help and equips his family's hereditary whip, the "Vampire Slayer", in order to destroy Dracula.</desc>
 		<rating>0.9</rating>
@@ -431,5 +417,19 @@
 		<genre>Platform</genre>
 		<image>./boxart/Akumajou Densetsu (Japan) (Castlevania Anniversary Collection).jpg</image>
 		<video>./snaps/Akumajou Densetsu (Japan) (Castlevania Anniversary Collection).mp4</video>
+	</game>
+	<game>
+		<path>./Joy Mech Fight (Japan) (en).nes</path>
+		<name>Joi Meka Faito (Joy Mech Fight)</name>
+		<sortname />
+		<desc>The evil scientist Warunachi has hacked all the otherwise peaceful robots in Japan and now plans to launch an attack for world domination the likes of which the world has never seen. Fortunately his former partner, Dr. Eamon, saved one robot from the takeover and has now programmed him to defeat the other robots and foil Dr. Warunachi's evil plans.</desc>
+		<rating>0.65</rating>
+		<releasedate>19930521T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Joy Mech Fight (Japan) (en).jpg</image>
+		<video>./snaps/Joy Mech Fight (Japan) (en).mp4</video>
 	</game>
 </gameList>

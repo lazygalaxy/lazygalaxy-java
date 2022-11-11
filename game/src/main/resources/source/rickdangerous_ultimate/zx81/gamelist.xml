@@ -8,7 +8,7 @@
 	</provider>
 	<game>
 		<path>./3DDefender.p</path>
-		<name>3DDefender</name>
+		<name>3D Defender</name>
 		<sortname />
 		<desc>You have to save your home planet from marauding Alien spacecraft.</desc>
 		<releasedate>19810101T000000</releasedate>
@@ -21,7 +21,7 @@
 	</game>
 	<game>
 		<path>./3DMonsterMaze.p</path>
-		<name>3DMonsterMaze</name>
+		<name>3D Monster Maze</name>
 		<sortname />
 		<desc>3D Monster Maze was one of the first computer games to use a first-person 3D perspective. After being introduced to the game by a circus crier, the player character is transferred to a randomly generated 16x16 maze and has to find the exit. There is but</desc>
 		<releasedate>19810101T000000</releasedate>
@@ -47,64 +47,59 @@
 	<game>
 		<path>./Booster (19xx)(Cosmic Cockerel).p</path>
 		<name>Booster</name>
+		<sortname />
 		<desc>Booster is a follow up to Rocket Man. Like that game it is a platformer where the player uses a jetpack to fly between platforms. The objective of the game is to collect fuel cells that appear at random positions on the right side of the screen. These then have to be transported back to the player's flying saucer which is located on the left side. In the way there are plenty of hazards and bad guys that the player has to avoid. These include spiders, skulls, pests and nettles. The player also can't take too long as he has a limited supply of air. Another way of dying is crashing into a platform with the jetpack. The game has five levels that can be played in any order.</desc>
-		<image>./boxart/Booster (19xx)(Cosmic Cockerel).jpg</image>
-		<video>./snaps/Booster (19xx)(Cosmic Cockerel).mp4</video>
 		<releasedate />
 		<publisher>Cosmic Cockerel</publisher>
 		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220218T091043</lastplayed>
+		<image>./boxart/Booster (19xx)(Cosmic Cockerel).jpg</image>
+		<video>./snaps/Booster (19xx)(Cosmic Cockerel).mp4</video>
 	</game>
 	<game>
 		<path>./FlightSimulation.p</path>
-		<name>FlightSimulation</name>
+		<name>Flight Simulation</name>
+		<sortname />
 		<desc>Popular Computing Weekly said of Psion's Flight Simulation on the ZX81 "No words can do justice to this most elegant of programs ... You will not see a better computer game till Psion produce one for the Spectrum". Here it is. Learn to fly, bank, dive and climb, see the world outside through the cockpit windows, land and take-off with the aid of the many cockpit instruments.</desc>
-		<image>./boxart/FlightSimulation.jpg</image>
-		<video>./snaps/FlightSimulation.mp4</video>
 		<releasedate>19810101T000000</releasedate>
 		<publisher>Psion Software</publisher>
 		<genre>Simulation</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220218T091214</lastplayed>
+		<image>./boxart/FlightSimulation.jpg</image>
+		<video>./snaps/FlightSimulation.mp4</video>
 	</game>
 	<game>
 		<path>./Galaxy Invaders (19xx)(-).p</path>
 		<name>Galaxy Invaders</name>
+		<sortname />
 		<desc>Galaxy Invaders is a Space Invaders clone where you control a craft on the bottom of the screen moving left or right, blasting aliens above in formation. The aliens move across the screen slowly descending downwards. As you blast the aliens, you must avoid the bombs that they drop because if you hit one or allow an alien to land on the bottom of the screen you lose one of three lives. Between your craft and the aliens are five shields but parts disappear when hit by your bullets or the alien's bombs. Before the game you can choose the speed of the game (0-9) from easy to very hard.</desc>
-		<image>./boxart/Galaxy Invaders (19xx)(-).jpg</image>
-		<video>./snaps/Galaxy Invaders (19xx)(-).mp4</video>
 		<releasedate>19810101T000000</releasedate>
 		<developer>Bridge Software</developer>
 		<publisher>Bridge Software</publisher>
 		<genre>Shoot'em up</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220218T091509</lastplayed>
+		<image>./boxart/Galaxy Invaders (19xx)(-).jpg</image>
+		<video>./snaps/Galaxy Invaders (19xx)(-).mp4</video>
 	</game>
 	<game>
 		<path>./Glooper (19xx)(Quicksilva).p</path>
 		<name>Glooper</name>
+		<sortname />
 		<desc>A Pac-Man clone where you have to move about a maze to eat all the dots while avoiding three creatures moving about the maze. If you touch a creature then you lose one of three lives but there are power-pills that can be collected.</desc>
-		<image>./boxart/Glooper (19xx)(Quicksilva).jpg</image>
-		<video>./snaps/Glooper (19xx)(Quicksilva).mp4</video>
 		<releasedate>19830101T000000</releasedate>
 		<developer>M. P. Crane</developer>
 		<publisher>Quicksilva</publisher>
 		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220218T091626</lastplayed>
+		<image>./boxart/Glooper (19xx)(Quicksilva).jpg</image>
+		<video>./snaps/Glooper (19xx)(Quicksilva).mp4</video>
 	</game>
 	<game>
 		<path>./Graffity.p</path>
 		<name>Graffity</name>
+		<sortname />
 		<desc>Action game in the vein of Zolyx or Quicksilva's Damper. Surround all squares with paint before the cleaners wipe it off.</desc>
-		<image>./boxart/Graffity.jpg</image>
-		<video>./snaps/Graffity.mp4</video>
 		<releasedate>19890101T000000</releasedate>
 		<publisher>Carlo Delhez</publisher>
 		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220218T091812</lastplayed>
+		<image>./boxart/Graffity.jpg</image>
+		<video>./snaps/Graffity.mp4</video>
 	</game>
 	<game>
 		<path>./galaxians.p</path>
@@ -133,39 +128,38 @@
 	<game>
 		<path>./mazogs.p</path>
 		<name>Mazogs</name>
+		<sortname />
 		<desc>Run through the maze to get the treasure before the Mazogs eat you.</desc>
 		<releasedate>19810101T000000</releasedate>
 		<developer>Don Priestley</developer>
 		<publisher>Bug-Byte Software</publisher>
 		<genre>Action</genre>
 		<players>1</players>
-		<hash />
 		<image>./boxart/mazogs.jpg</image>
 		<video>./snaps/mazogs.mp4</video>
 	</game>
 	<game>
 		<path>./zuckman.p</path>
 		<name>Zuckman</name>
+		<sortname />
 		<desc>Zuckman is based on the arcade game Pac-Man and has you moving about a maze attempting to clear it by eating all the dots. As you move around the maze there are four ghosts moving around as well and if you touch one then you lose one of three lives. There are power-pills though and when eaten, allow you to eat the ghosts for a short time.</desc>
 		<releasedate>19820101T000000</releasedate>
 		<publisher>David &amp; John Looker</publisher>
 		<genre>Action</genre>
 		<players>1</players>
-		<hash>E518A2BD</hash>
 		<image>./boxart/zuckman.jpg</image>
 		<video>./snaps/zuckman.mp4</video>
 	</game>
 	<game>
 		<path>./Forty Niner (19xx)(Cosmic Cockerel).p</path>
 		<name>Forty Niner</name>
+		<sortname />
 		<desc>It's 1849 and the American gold rush has just started. The player in this game is one of the many that set off to the west coast in search for the precious metal. He must dig his way through the earth and excavate the gold but at the same time avoid the creatures that move around under ground.</desc>
-		<image>./boxart/Forty Niner (19xx)(Cosmic Cockerel).jpg</image>
-		<video>./snaps/Forty Niner (19xx)(Cosmic Cockerel).mp4</video>
 		<releasedate>19830101T000000</releasedate>
 		<developer>Software Farm</developer>
 		<publisher>Software Farm</publisher>
 		<genre>Action</genre>
-		<playcount>2</playcount>
-		<lastplayed>20220219T182643</lastplayed>
+		<image>./boxart/Forty Niner (19xx)(Cosmic Cockerel).jpg</image>
+		<video>./snaps/Forty Niner (19xx)(Cosmic Cockerel).mp4</video>
 	</game>
 </gameList>

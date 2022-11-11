@@ -20,9 +20,9 @@
 	</game>
 	<game>
 		<path>./PAT Shooter.p8.png</path>
-		<name>PAT Shooter</name>
+		<name>P.A.T. Shooter</name>
 		<sortname />
-		<desc>PAT Shooter is your typical top down scrolling blaster game with enemy waves appearing from both above and below. It is also a very difficult game requiring fast reaction times as when the bullets starting flying in all directions, you've got to avoid them or be wiped out and your only life is lost.</desc>
+		<desc>P.A.T. Shooter is your typical top down scrolling blaster game with enemy waves appearing from both above and below. It is also a very difficult game requiring fast reaction times as when the bullets starting flying in all directions, you've got to avoid them or be wiped out and your only life is lost.</desc>
 		<releasedate>20150603T000000</releasedate>
 		<developer>benjamin_soule</developer>
 		<publisher>benjamin_soule</publisher>
@@ -65,16 +65,6 @@
 		<video>./snaps/48046.p8.mp4</video>
 	</game>
 	<game>
-		<path>./pinballvania.png</path>
-		<name>Pinballvania!</name>
-		<sortname />
-		<desc>Collect all the green pickups to open the exit (double yellow circle) of each stage. Finish all 20 stages fast, brag your best times online on your favorite social network!</desc>
-		<genre>Simulation</genre>
-		<players>1</players>
-		<image>./boxart/pinballvania.jpg</image>
-		<video>./snaps/pinballvania.mp4</video>
-	</game>
-	<game>
 		<path>./vortex_invader_1.01.png</path>
 		<name>Vortex Invader</name>
 		<sortname />
@@ -88,7 +78,7 @@
 	</game>
 	<game>
 		<path>./tetyis.png</path>
-		<name>TETYIS</name>
+		<name>TETYiS</name>
 		<sortname />
 		<desc>A TETRIS Clone for PICO-8. The main goal here was to make it compliant to the 2009 Tetris guideline (a big document the Tetris company uses that says exactly how a Tetris game should be made) though I disregarded that going back to it, so it's halfway or so there. Also, SRS isn't implemented properly, it's good enough but it's not perfect, and the title is a typo I thought was funny so I rolled with it.</desc>
 		<genre>Puzzle</genre>
@@ -156,19 +146,6 @@
 		<video>./snaps/18991.p8.mp4</video>
 	</game>
 	<game>
-		<path>./40736.p8.png</path>
-		<name>PicoBreed</name>
-		<sortname />
-		<desc>I am a soldier in the interstellar marine corps. My ship, the IMC Durham was overrun by something we picked up on IX538. Some wicked fast alien creatures with big teeth and ferocious appetites. These things came bursting out of the the decks where they had been hiding below. They moved quick and bit hard, everybody was butchered, we had to scuttle the ship.</desc>
-		<releasedate>20170518T000000</releasedate>
-		<developer>gabrielcrowe</developer>
-		<publisher>gabrielcrowe</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./boxart/40736.p8.jpg</image>
-		<video>./snaps/40736.p8.mp4</video>
-	</game>
-	<game>
 		<path>./brutal_pico_race_1.0.4.png</path>
 		<name>Brutal Pico Race</name>
 		<sortname />
@@ -182,7 +159,7 @@
 	</game>
 	<game>
 		<path>./Celeste (v1.0).p8.png</path>
-		<name>Celeste Classic</name>
+		<name>Celeste</name>
 		<sortname />
 		<desc>A hardcore platformer by Matt Thorson and Noel Berry, made in 4 days. We used pretty much all our resources for this. 8186/8192 code, the entire spritemap, the entire map, and 63/64 sounds. The original game that inspired the more fleshed out version of Celeste. You can find this game hidden inside the bigger one.</desc>
 		<releasedate>20151008T000000</releasedate>
@@ -195,7 +172,7 @@
 	</game>
 	<game>
 		<path>./Celeste Classic 2.p8.png</path>
-		<name>Celeste Classic 2</name>
+		<name>Celeste 2: Lani's Trek</name>
 		<sortname />
 		<desc>A PICO-8 platformer about hiking around a mountain, made in three days to celebrate Celeste's third anniversary.</desc>
 		<genre>Platform</genre>
@@ -372,26 +349,6 @@
 		<video>./snaps/lunokhod10-1.p8.mp4</video>
 	</game>
 	<game>
-		<path>./deep-0.p8.png</path>
-		<name>The Merciless Deep</name>
-		<sortname />
-		<desc>Reach the deepest deapths possible and then safley come back up to your boat.</desc>
-		<genre>Platform</genre>
-		<players>1</players>
-		<image>./boxart/deep-0.p8.jpg</image>
-		<video>./snaps/deep-0.p8.mp4</video>
-	</game>
-	<game>
-		<path>./agility-0.p8.png</path>
-		<name>Agility</name>
-		<sortname />
-		<desc>Guide your trusty hound through a series of dog agility championships.</desc>
-		<genre>Sports</genre>
-		<players>1</players>
-		<image>./boxart/agility-0.p8.jpg</image>
-		<video>./snaps/agility-0.p8.mp4</video>
-	</game>
-	<game>
 		<path>./Alpine Alpaca.png</path>
 		<name>Alpine Alpaca</name>
 		<sortname />
@@ -403,7 +360,7 @@
 	</game>
 	<game>
 		<path>./delunky102-0.p8.png</path>
-		<name>Delunky</name>
+		<name>Delunky: Endless Descent</name>
 		<sortname />
 		<desc>A 'demake' of Spelunky. Enter the caves and try to find as much gold as you can before you perish to the dangers of the depths. Use your trusty whip in combination with bombs, ropes, and whatever you scavenge to get as far as you can.</desc>
 		<genre>Platform</genre>
@@ -522,16 +479,6 @@
 		<video>./snaps/pepsiman-1.p8.mp4</video>
 	</game>
 	<game>
-		<path>./rtype-0.p8.png</path>
-		<name>R-Type</name>
-		<sortname />
-		<desc>After months of hard work, here is the release version of Irem’s R-Type* pico-8 port, featuring the first 3 stages in a 32kb cart, which I think is pretty good considering the PC-Engine port featured 4 stages in a 256kb hu-card.</desc>
-		<genre>Shoot'em up</genre>
-		<players>1</players>
-		<image>./boxart/rtype-0.p8.jpg</image>
-		<video>./snaps/rtype-0.p8.mp4</video>
-	</game>
-	<game>
 		<path>./Rain Maker.png</path>
 		<name>Rain Maker</name>
 		<sortname />
@@ -543,7 +490,7 @@
 	</game>
 	<game>
 		<path>./saturn91devilskitchen_1-0.p8.png</path>
-		<name>Devils Kitchen</name>
+		<name>Devil's Kitchen</name>
 		<sortname />
 		<desc>You are one of the devils many servant and have to feed him in time. And your workshedule is litarly hell! Can you make it through your shift? This game is a combination of cooking and Platforming. You can beat the 20 Levels one after an other or in a pretty challenging Speedrun mode. You start with 3 Health, if you get damaged you can refill your health by eating some of the food, but the Master does not like this!</desc>
 		<genre>Platform</genre>
@@ -563,7 +510,7 @@
 	</game>
 	<game>
 		<path>./snail-9.p8.png</path>
-		<name>Snail</name>
+		<name>Snail!</name>
 		<sortname />
 		<desc>You play as Snail-Chan, and are tasked with defending the Dream castle! You can run, jump, thwack enemies, and use stars you collect for special powers! Inspired by the musician Snail's House.</desc>
 		<genre>Platform</genre>
@@ -573,7 +520,7 @@
 	</game>
 	<game>
 		<path>./stomp-6.p8.png</path>
-		<name>Stomp</name>
+		<name>Stomp!</name>
 		<sortname />
 		<desc>A turn-based-platformer-roguelike. The objective is to get a high score in 300 turns (10,000 is good). Use your stomp to set rocks rolling, spikes falling, and bombs exploding.</desc>
 		<genre>Platform</genre>
@@ -712,16 +659,6 @@
 		<video>./snaps/ingeste-1.p8.mp4</video>
 	</game>
 	<game>
-		<path>./polarpanic-0.p8.png</path>
-		<name>Polar Panic</name>
-		<sortname />
-		<desc>Stay alive in the arctic while climate change destroys your habitat! Eat fish to keep your hunger down or you will starve! Stay away from trash and don't fall into the water. A reminder to do what you can to have as little negative impact on the environment as you can.</desc>
-		<genre>Platform</genre>
-		<players>1</players>
-		<image>./boxart/polarpanic-0.p8.jpg</image>
-		<video>./snaps/polarpanic-0.p8.mp4</video>
-	</game>
-	<game>
 		<path>./upward-0.p8.png</path>
 		<name>Upward</name>
 		<sortname />
@@ -830,7 +767,7 @@
 	</game>
 	<game>
 		<path>./picozelda-2.p8.png</path>
-		<name>Pico Zelda</name>
+		<name>Legend of Zelda: Pico, The</name>
 		<sortname />
 		<desc>A Pico Sized Adventure: Join Link as he fights through 3 dangerous dungeons, solves dastardly puzzles and fights deadly bosses all packed into a bite sized PNG. Bring peace to the world!</desc>
 		<genre>Role Playing Games</genre>
@@ -849,16 +786,6 @@
 		<video>./snaps/startrek1978-1.p8.mp4</video>
 	</game>
 	<game>
-		<path>./the_lost_night-5.p8.png</path>
-		<name>The Lost Night</name>
-		<sortname />
-		<desc>You wake up in the middle of a spooky town trying to find your way back home. Help the citizens of this weird town and they will open paths for you. BUT BEWARE! The streets are swarming with spirits and if you let them, they will take you away. Shoot them down with your mysterious powers and win candy in return. Spend your candy on vending machines across the town, and grow in power. Make sure to find them all as the night progresses, the spirits become spookier.</desc>
-		<genre>Role Playing Games</genre>
-		<players>1</players>
-		<image>./boxart/the_lost_night-5.p8.jpg</image>
-		<video>./snaps/the_lost_night-5.p8.mp4</video>
-	</game>
-	<game>
 		<path>./Pico Fox.png</path>
 		<name>Pico Fox</name>
 		<sortname />
@@ -868,14 +795,93 @@
 		<video>./snaps/Pico Fox.mp4</video>
 	</game>
 	<game>
+		<path>./40736.p8.png</path>
+		<name>PicoBreed</name>
+		<sortname />
+		<desc>I am a soldier in the interstellar marine corps. My ship, the IMC Durham was overrun by something we picked up on IX538. Some wicked fast alien creatures with big teeth and ferocious appetites. These things came bursting out of the the decks where they had been hiding below. They moved quick and bit hard, everybody was butchered, we had to scuttle the ship.</desc>
+		<releasedate>20170518T000000</releasedate>
+		<developer>gabrielcrowe</developer>
+		<publisher>gabrielcrowe</publisher>
+		<genre>Action</genre>
+		<image>./boxart/40736.p8.jpg</image>
+		<video>./snaps/40736.p8.mp4</video>
+	</game>
+	<game>
+		<path>./rtype-0.p8.png</path>
+		<name>R·Type</name>
+		<sortname />
+		<desc>After months of hard work, here is the release version of Irem’s R·Type* pico-8 port, featuring the first 3 stages in a 32kb cart, which I think is pretty good considering the PC-Engine port featured 4 stages in a 256kb hu-card.</desc>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/rtype-0.p8.jpg</image>
+		<video>./snaps/rtype-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./pinballvania.png</path>
+		<name>Pinballvania!</name>
+		<sortname />
+		<desc>Collect all the green pickups to open the exit (double yellow circle) of each stage. Finish all 20 stages fast, brag your best times online on your favorite social network!</desc>
+		<genre>Simulation</genre>
+		<image>./boxart/pinballvania.jpg</image>
+		<video>./snaps/pinballvania.mp4</video>
+	</game>
+	<game>
+		<path>./polarpanic-0.p8.png</path>
+		<name>Polar Panic</name>
+		<sortname />
+		<desc>Stay alive in the arctic while climate change destroys your habitat! Eat fish to keep your hunger down or you will starve! Stay away from trash and don't fall into the water. A reminder to do what you can to have as little negative impact on the environment as you can.</desc>
+		<genre>Platform</genre>
+		<image>./boxart/polarpanic-0.p8.jpg</image>
+		<video>./snaps/polarpanic-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./poom_0-9.p8.png</path>
+		<name>Poom</name>
+		<sortname />
+		<desc>Mars base, Union Aerospace Corporation experiments opened a portal to Hell. You appear to be the last human, fight your way out!</desc>
+		<genre>Action</genre>
+		<image>./boxart/poom_0-9.p8.jpg</image>
+		<video>./snaps/ppoom_0-9.p8.mp4</video>
+	</game>
+	<game>
+		<path>./deep-0.p8.png</path>
+		<name>Merciless Deep, The</name>
+		<sortname />
+		<desc>Reach the deepest deapths possible and then safley come back up to your boat.</desc>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<genre>Platform</genre>
+		<image>./boxart/deep-0.p8.jpg</image>
+		<video>./snaps/deep-0.p8.mp4</video>
+	</game>
+	<game>
+		<path>./the_lost_night-5.p8.png</path>
+		<name>Lost Night, The</name>
+		<sortname />
+		<desc>You wake up in the middle of a spooky town trying to find your way back home. Help the citizens of this weird town and they will open paths for you. BUT BEWARE! The streets are swarming with spirits and if you let them, they will take you away. Shoot them down with your mysterious powers and win candy in return. Spend your candy on vending machines across the town, and grow in power. Make sure to find them all as the night progresses, the spirits become spookier.</desc>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/the_lost_night-5.p8.jpg</image>
+		<video>./snaps/the_lost_night-5.p8.mp4</video>
+	</game>
+	<game>
 		<path>./+Start PICO8.sh</path>
 		<name>PICO-8 Emulator</name>
 		<sortname>+ABC</sortname>
 		<desc>PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. It feels like a regular console, but runs on Windows / Mac / Linux. When you turn it on, the machine greets you with a commandline, a suite of cartridge creation tools and an online cartridge browser called SPLORE.</desc>
-		<image>./boxart/pico-8.jpg</image>
-		<video>./snaps/pico-8.mp4</video>
 		<rating>0</rating>
 		<releasedate>19700101T010000</releasedate>
-		<genre>Emulator</genre>
+		<genre>Action</genre>
+		<image>./boxart/pico-8.jpg</image>
+		<video>./snaps/pico-8.mp4</video>
+	</game>
+	<game>
+		<path>./agility-0.p8.png</path>
+		<name>Agility</name>
+		<sortname />
+		<desc>Guide your trusty hound through a series of dog agility championships.</desc>
+		<genre>Sports</genre>
+		<image>./boxart/agility-0.p8.jpg</image>
+		<video>./snaps/agility-0.p8.mp4</video>
 	</game>
 </gameList>

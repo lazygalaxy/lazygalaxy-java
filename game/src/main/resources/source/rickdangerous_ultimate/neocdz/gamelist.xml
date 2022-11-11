@@ -105,9 +105,9 @@
 	</game>
 	<game>
 		<path>./Ironclad.chd</path>
-		<name>Ironclad</name>
+		<name>Chōtetsu Brikin'ger: Iron Clad</name>
 		<sortname />
-		<desc>Ironclad is a side-scrolling shoot 'em up for the Neo Geo CD. Use your war ship to save the Kingdom of Chop from the Iron Mask Republic. You can use three main blast weapons, which are upgradable when you collect more items, a charged attack available when Iron Clad is attached to your ship, three melee weapons, a bomber that clears all enemy bullets, and varying shooting patterns. Stages are selectable, and there are multiple endings.</desc>
+		<desc>Chōtetsu Brikin'ger: Iron Clad is a side-scrolling shoot 'em up for the Neo Geo CD. Use your war ship to save the Kingdom of Chop from the Iron Mask Republic. You can use three main blast weapons, which are upgradable when you collect more items, a charged attack available when Iron Clad is attached to your ship, three melee weapons, a bomber that clears all enemy bullets, and varying shooting patterns. Stages are selectable, and there are multiple endings.</desc>
 		<rating>0.8</rating>
 		<releasedate>19960920T000000</releasedate>
 		<developer>Saurus</developer>
@@ -286,7 +286,7 @@
 	</game>
 	<game>
 		<path>./Metal Slug 2 (Japan, USA) (En,Ja).chd</path>
-		<name>Metal Slug 2: Super Vehicle</name>
+		<name>Metal Slug 2</name>
 		<sortname>Metal Slug 2</sortname>
 		<desc>As Marco, Eri, Tarma, or Fio, you must defeat the evil General Morden and his henchman. To do this, you must defeat various enemies that get in your way. Throughout the game, you can collect new weapons including the Heavy Machine Gun, Shot Gun, Rocket Launcher, Flame Shot, Laser Shot, Flame Bottles, and Armor Piercer. Also scattered throughout the game, you can ride in four different vehicles (aka: Slugs) such as the Metal Slug, Slug Flyer, Camel Slug, and SlugNoid. By using these vehicles, you can cause awesome destruction against Morden's evil army.</desc>
 		<rating>0.9</rating>
@@ -328,7 +328,7 @@
 	</game>
 	<game>
 		<path>./Nam-1975 (Japan) (En,Ja).chd</path>
-		<name>Nam-1975</name>
+		<name>NAM-1975</name>
 		<sortname />
 		<desc>As a soldier, you and/or a friend must travel through Vietnam to stop the scientist and his world destroying laser machine. In the game, you must shoot enemy soldiers, tanks, helicopters, jeeps, and more by aiming the machine gun cursor and shooting at them. Within each location, you can pick up more powerful weapons such as machine guns and flame throwers, but these have a limited supply of ammunition. Pressing down on the joystick while running at the same time will cause your character to perform a somersault and be invincible for a second.</desc>
 		<rating>0.6</rating>
@@ -370,7 +370,7 @@
 	</game>
 	<game>
 		<path>./Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja).chd</path>
-		<name>Ninja Master's</name>
+		<name>Ninja Masutāzu: Haō Ninpō Chō (Ninja Master's: Scrolls of the Supreme Ninja Arts)</name>
 		<sortname />
 		<desc>Another one-on-one fighting game straight from the arcades for the Neo Geo. Ninja Master's (sic.) is set on feudal Japan, and tells the story of 10 unique ninjas who fight each other for their own personal reasons and the chance to defeat the evil Nobunaga and bring peace back to Japan.</desc>
 		<rating>0.75</rating>
@@ -455,7 +455,7 @@
 	<game>
 		<path>./Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (Japan, USA) (En,Ja,Es,Pt).chd</path>
 		<name>Samurai Shodown IV: Amakusa's Revenge</name>
-		<sortname />
+		<sortname>Samurai Shodown 4</sortname>
 		<desc>Bringing a new breath to SNK's swordsman fighting series, this 4th installment marks the return of 3 classic characters (Yagyu Jubei, Charlotte and Tam Tam, now with updated stuff), introduces 2 newcomers for the pantheon (the brothers Sogetsu Kazama and Kazuki Kazama) and brings some new backgrounds.</desc>
 		<rating>0.8</rating>
 		<releasedate>19961227T000000</releasedate>
@@ -468,8 +468,8 @@
 	</game>
 	<game>
 		<path>./Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (Japan, USA) (En,Ja,Es,Pt).chd</path>
-		<name>Samurai Shodown III: Blades of Blood</name>
-		<sortname />
+		<name>Samurai Showdown III</name>
+		<sortname>Samurai Shodown 3</sortname>
 		<desc>The 12 samurai (and ninja) elite are back, this time to answer the threat of the demon Zankuro, Minazuki. The possessed swordsman has brutally slaughtered innocents in his path, yet could not raise his blade to the cries of an innocent baby. Vowing never to spill innocent blood again, he targets those who live by the way of the sword.but now the hunter becomes the hunted. The third series of Samurai Shodown introduces 2 different techniques for each character.</desc>
 		<rating>0.75</rating>
 		<releasedate>19951229T000000</releasedate>
@@ -483,7 +483,7 @@
 	<game>
 		<path>./Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja).chd</path>
 		<name>Samurai Shodown</name>
-		<sortname />
+		<sortname>Samurai Shodown 1</sortname>
 		<desc>In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness. Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.</desc>
 		<rating>0.7</rating>
 		<releasedate>19940909T000000</releasedate>
@@ -511,7 +511,7 @@
 	<game>
 		<path>./Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (Japan, USA) (En,Ja).chd</path>
 		<name>Samurai Shodown II</name>
-		<sortname />
+		<sortname>Samurai Shodown 2</sortname>
 		<desc>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half. do whatever it takes. live by the sword, and die by its blade.</desc>
 		<rating>0.7</rating>
 		<releasedate>19941215T000000</releasedate>
@@ -580,7 +580,7 @@
 	</game>
 	<game>
 		<path>./Top Hunter - Roddy &amp; Cathy (Japan) (En,Ja).chd</path>
-		<name>Top Hunter: Roddy and Cathy</name>
+		<name>Top Hunter: Roddy &amp; Cathy</name>
 		<sortname />
 		<desc>As either Roddy or Cathy, make your way through four locations that include Forest, Ice, Wind, and Fire, and destroy the two bosses in these locations. Both Roddy and Cathy have retractable arms which can be used to grab enemies or other gameplay elements. They can then be thrown at others to destroy them. Both players and enemies can interact with the scenery.</desc>
 		<rating>0.95</rating>
@@ -789,7 +789,7 @@
 	</game>
 	<game>
 		<path>./Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (Japan, USA) (En,Ja,Es,Pt).chd</path>
-		<name>Art of Fighting 3: The Path of the Warrior </name>
+		<name>Art of Fighting 3: The Path of the Warrior</name>
 		<sortname />
 		<desc>In this third and final entry in the Art of Fighting series, the story shifts from Ryo Sakazaki to his best friend and rival, Robert Garcia, as he ventures into Mexico to try and locate Freia Lawrence, a childhood friend, who asked for his help. However, he leaves without the consent of The Garcia Foundation, which sends an agent named Karman Cole to get him back. But not everything is as simple as it looks. because Robert is not the only one looking for Freia.</desc>
 		<rating>0.55</rating>
@@ -887,7 +887,7 @@
 	</game>
 	<game>
 		<path>./RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja).chd</path>
-		<name>Real Bout Fatal Fury 2: The Newcomers</name>
+		<name>Real Bout Fatal Fury 2: RB2: The Newcomers</name>
 		<sortname />
 		<desc>SNK's Fatal Fury fighting series reaches its 7th episode bringing a lot of "innovations" and some significant changes, starting from characters: all the 20 fighters from previous game return with new artworks and battle stages completely redrawn, as well as some remodeled (or new) moves.</desc>
 		<rating>0.65</rating>

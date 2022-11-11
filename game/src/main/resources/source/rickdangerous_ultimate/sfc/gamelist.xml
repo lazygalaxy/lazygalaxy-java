@@ -8,7 +8,7 @@
 	</provider>
 	<game>
 		<path>./Final Fantasy V (Japan) [T-En by RPGe v1.10].sfc</path>
-		<name>Final Fantasy V</name>
+		<name>Fainaru Fantajī Faibu (Final Fantasy V)</name>
 		<sortname />
 		<desc>The Elemental Crystals, the life source of the planet. With them, gentle winds blow, the seas are active, fire burns bright, and the earth is full of life. All seems well in the world, until the wind suddenly stops, the sea begin to grow stagnant, the heat of fire becomes scarce, and the earth begins to wither.</desc>
 		<rating>0.7</rating>
@@ -22,7 +22,7 @@
 	</game>
 	<game>
 		<path>./Final_Fantasy_IV_Namingway_Edition.sfc</path>
-		<name>Final Fantasy IV</name>
+		<name>Fainaru Fantajī Fō (Final Fantasy IV)</name>
 		<sortname />
 		<desc>The military country of Baron is one of the strongest in the land, with a proud army and a majestic air force known as the Red Wings. But, while their armies are kind and loyal, the recent actions of the King are anything but. The young Captain of the Red Wings, Cecil, is ordered to steal a crystal from a village of innocent magicians, and when he questions the actions of his King, Cecil is immediately thrown out of the country and sent off to kill strange monsters. Little does he realize the price the King's actions will pay, and what the true secret of the crystals, and their powers, truly is.</desc>
 		<rating>0.8</rating>
@@ -36,7 +36,7 @@
 	</game>
 	<game>
 		<path>./Final_Fantasy_VI_uncensored_patch_id.sfc</path>
-		<name>Final Fantasy VI</name>
+		<name>Fainaru Fantajī Shikkusu (Final Fantasy VI)</name>
 		<sortname />
 		<desc>1000 years ago, the War of the Magi occurred. People remember it as one of the most horrible tragedies in history. Since the War of the Magi, magic has been all but forgotten, technology began to grow, and people returned to seemingly normal lives. The only true worry people had was the Empire, whose leaders were looking to revive the great force once known as "magic". But then something happened that would change the course of history forever.</desc>
 		<rating>0.8</rating>
@@ -50,7 +50,7 @@
 	</game>
 	<game>
 		<path>./Flying_Hero_-_Bugyuru_no_Daibouken_SNES.sfc</path>
-		<name>Flying Hero: Bugyuru no Daibouken</name>
+		<name>Flying Hero: Bugyuru no Daibouken (Flying Hero: Bugyuru's Adventure)</name>
 		<sortname />
 		<desc>Flying Hero: Bugyuru no Daibouken ("Bugyuru's Great Adventure") is a vertically scrolling shoot 'em up with a bright, cartoony style, similar to games like Sega's Fantasy Zone or Konami's TwinBee series. The game features Bugyuru, a flying ball, whose girlfriend Pao gets kidnapped by a mysterious vampire named Biblio. Bugyuru takes off in close pursuit, flying across various worlds and taking down bizarre enemies like flying monkeys and giant rhino beetles.</desc>
 		<rating>0.65</rating>
@@ -120,7 +120,7 @@
 	</game>
 	<game>
 		<path>./Dragon Quest VI - Realms of Revelation (Japan) [T-En by NoPrgress v0.90b2] [n].sfc</path>
-		<name>Dragon Quest VI: Maboroshi no Daichi</name>
+		<name>Doragon Kuesuto VI Maboroshi no Daichi (Dragon Quest VI: Realms of Revelation)</name>
 		<sortname />
 		<desc>You and two of your friends decide to attack the Archenemy - the evil Mudo - in his castle. But as you reach his throne, he attacks you and send the three friends into three different places. Was this just a dream? You have just fallen out of your bed dreaming! It's time to go to the village elder, to get a seemingly simple assignment - to sell some goods at a bazaar in the nearest town. But soon the hero will discover his dream was not so far away from reality.</desc>
 		<rating>0.9</rating>
@@ -134,7 +134,7 @@
 	</game>
 	<game>
 		<path>./Dragon Quest V - Hand of the Heavenly Bride (Japan) [T-En by Byuu &amp; spSpiff v0.91] [n].sfc</path>
-		<name>Dragon Quest V</name>
+		<name>Doragon Kuesuto V: Tenkū no Hanayome (Dragon Quest V: Hand of the Heavenly Bride)</name>
 		<sortname />
 		<desc>You are the son of the brave warrior, Lord Papas. It appears that your mother died just after giving birth to you, and your father took you on a long journey when you were a little baby, and all you know is that he was searching for something. Now you are six years old, and Lord Papas brings you to your home village. After some time, you learn that His Highness Prince Henry was kidnapped by bandits. Your father attempts to rescue him, and during this action you discover that perhaps your mother is still alive.</desc>
 		<rating>0.9</rating>
@@ -148,7 +148,7 @@
 	</game>
 	<game>
 		<path>./Fire Emblem - Seisen no Keifu (Japan) [T-En by Dark Twilkitri Net v0.87g] [Add by Gharnef v1.0] [i].sfc</path>
-		<name>Fire Emblem: Seisen no Keifu</name>
+		<name>Faiā Emuburemu: Seisen no Keifu (Fire Emblem: Genealogy of the Holy War)</name>
 		<sortname />
 		<desc>The fourth installment in the popular strategy series, set in the continent of Jugdral, southeast of Akaneia. The game's first fifth chapters follow the Prince of Chalphy, Sigurd -- from there, his son Celis becomes the protagonist. The game uses the same turn-based strategy gameplay as its predecessors, but changes up the promotion system by making it entirely level-based, adds RPG-style status effects, and introduces the concept of the weapons triangle, in that a sword is strong against an axe, spear against the sword, and axe against the spear.</desc>
 		<rating>0.95</rating>
@@ -162,7 +162,7 @@
 	</game>
 	<game>
 		<path>./Fire Emblem - Thracia 776 (Japan) [T-En by Cirosan v1.04] [Add by Miacis v1.07].sfc</path>
-		<name>Fire Emblem: Thracia 776</name>
+		<name>Faiā Emuburemu: Torakia Nana Nana Roku (Fire Emblem: Thracia 776)</name>
 		<sortname />
 		<desc>The events transpire during Fire Emblem: Seisen no Keifu and the game contains many of the same characters from that game, while featuring cameos of many more. At its most simple the story is of Prince Leaf of Lenster's struggle to free his native land from two forces, the Grandbell Empire and the Loptus religion. Features introduced into this part of the series include fog of war and night maps with limited vision, this requires characters to use torches and wands to light their way. Also the capture command which allowed enemies to be subdued and their weapons taken.</desc>
 		<rating>0.8</rating>
@@ -344,7 +344,7 @@
 	</game>
 	<game>
 		<path>./Super Soukoban (Japan) [T-En by MrRichard999 &amp; Krom v0.5] [i].sfc</path>
-		<name>Super Sōko-ban </name>
+		<name>Super Sōko-ban</name>
 		<sortname />
 		<desc>Super Sōko-ban is a puzzle game in which the player must push crates around a maze to their designated storage area, ensuring they do not accidentally push a crate into a position where it cannot be recovered. Thinking Rabbit created the original game in 1982 on home computers, and Super Sokoban is the first Super Famicom game to follow the same blueprint. The intro establishes that the eponymous Sokoban, or warehouse worker, must perform enough box-pushing puzzles to earn enough cash for a flashy new car so that he might finally impress the girl of his dreams.</desc>
 		<rating>0.7</rating>
@@ -386,7 +386,7 @@
 	</game>
 	<game>
 		<path>./Great Battle IV, The (Japan) [T-En by Aeon Genesis v1.1] [n].sfc</path>
-		<name>The Great Battle IV</name>
+		<name>Great Battle IV, The</name>
 		<sortname />
 		<desc>The greater Compati Hero Series which aims to combine the heroes and villains of Ultraman, Gundam and Kamen Rider in an SD format where everyone is at a uniform size. The Great Battle are the "core" Compati Hero Series games, presenting a standard side-scrolling 2D action game with shooter and platforming elements.nnnnPlayers can switch their playable character between the three protagonists from the series' respective franchises at any point, and each has their own strengths and weaknesses.</desc>
 		<rating>0.8</rating>
@@ -400,7 +400,7 @@
 	</game>
 	<game>
 		<path>./Great_Battle_V_eng_good.sfc</path>
-		<name>The Great Battle V</name>
+		<name>Great Battle V, The</name>
 		<sortname />
 		<desc>The Great Battle V is an action game for the Super Famicom and the fifth game in The Great Battle sub-series, which in turn is part of the larger Compati Hero Series that combines the universes of Ultraman, Kamen Rider and SD Gundam.nnnnThis game sees the four main characters - Ultraman, Kamen Rider, SD Knight Gundam and Fighter Roar - fight their usual enemies on a Wild West planet. The levels are split between 2D side-scrolling platformer/action stages and third-person shooter stages that resemble those from Natsume's popular Wild Guns.</desc>
 		<rating>0.75</rating>
@@ -456,7 +456,7 @@
 	</game>
 	<game>
 		<path>./Fire Emblem - Mystery of the Emblem (Japan) [T-En by RPGuy96 &amp; VincentASM v0.98] [Add by Quirino v0.14] [n].sfc</path>
-		<name>Fire Emblem: Monshou no Nazo</name>
+		<name>Faiā Emuburemu: Monshō no Nazo (Fire Emblem: Mystery of the Emblem)</name>
 		<sortname />
 		<desc>A remake and expansion of the first NES/Famicom Fire Emblem, Marth must face the betrayal if Hardin and an old enemy he thought long vanquished, the Dragon King Medeus. Book 1 of the game is essentially a remake of the first NES game. Book 2 continues the story with the same characters. This game expands the series, however it drops explorable towns and the navigation through a world map which was introduced in Fire Emblem: Gaiden. New features include the ability to dismount the horse and pegasus mounted units, to allow the riders to fight indoors if needed.</desc>
 		<rating>0.8</rating>
@@ -484,7 +484,7 @@
 	</game>
 	<game>
 		<path>./Bahamut Lagoon (Japan) [T-En by DeJap &amp; Neill Corlett &amp; Tomato v1.3] (Emulation Hack).sfc</path>
-		<name>Bahamut Lagoon</name>
+		<name>Bahamūto Ragūn (Bahamut Lagoon)</name>
 		<sortname />
 		<desc>The evil Emperor Sauzer, obsessed by his world domination ideas, is preparing to invade the kingdom. The king sends his best troops of knights and wizards to face the enemy, but in vain - the kingdom is conquered by Sauzer, the king is murdered, and his lovely daughter is kidnapped. You were brave, Leader of the Dragon Squad, but now you will have to become strong. Remember the promise you gave the princess a long time ago: always to be at her side.</desc>
 		<rating>0.7</rating>
@@ -582,7 +582,7 @@
 	</game>
 	<game>
 		<path>./Amazing Spider-Man, The - Lethal Foes (Japan) [T-En by Gorgyrip v1.0].sfc</path>
-		<name>The Amazing Spider-Man: Lethal Foes</name>
+		<name>Amazing Spider-Man: Lethal Foes, The</name>
 		<sortname />
 		<desc>The Amazing Spider-Man: Lethal Foes is based on the Spider-Man cartoon of the time and pits Spider-Man against several of his old foes as well as an army of Spider-Slayers. Spider-Man can attack with a hand-to-hand combo or by shooting out pellets of webbing. He can crawl on any wall or ceiling and also swing along with his webbing strands if he has enough clearance. The story is told in dialogue scenes with the stage's boss as well as Spider-Man's allies at the end of each stage.</desc>
 		<rating>0.6</rating>
@@ -666,7 +666,7 @@
 	</game>
 	<game>
 		<path>./Demon Child Zenki - Battle Raiden (Japan) [T-En by Dynamic Designs v1.00] [n].sfc</path>
-		<name>Demon Child Zenki</name>
+		<name>Kishin Douji Zenki: Rettou Gaiden (Demon Child Zenki: Battle Raiden)</name>
 		<sortname />
 		<desc>A top-down scrolling shooter. Players control a helicopter and must fight their way through several levels, shooting everything that moves. Defeated enemies sometimes drop power-ups that improve the helicopter's standard weapon or equip it with homing missiles as secondary weapon. In addition to the standard "shooting mode" D-Force also features an "exploration mode". In exploration mode, the player's helicopter is attacked by animals instead of warplanes or other helicopters. In this mode, the shoulder buttons can be used to change the helicopters altitude and attack (or dodge) enemies at different heights.</desc>
 		<rating>0.6</rating>
@@ -694,7 +694,7 @@
 	</game>
 	<game>
 		<path>./Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [Add by Jonny v1.0] [Nephew Colors Hack] [n].sfc</path>
-		<name>Disney's Magical Quest Starring Mickey &amp; Donald</name>
+		<name>Disney's Mikkī to Donarudo Majikaru Adobenchā 3 (Magical Quest 3 Staring Mickey &amp; Donald)</name>
 		<sortname />
 		<desc>Magical Adventure 3 follows Disney mascots Mickey Mouse and Donald Duck as they traverse through Storybook Land to rescue Donald's duckling nephews Huey, Dewey, and Louie from the evil King Pete.nnnnAlong with a new fantasy setting.</desc>
 		<rating>0.8</rating>
@@ -750,7 +750,7 @@
 	</game>
 	<game>
 		<path>./Doraemon 4 - In the Moon Kingdom (Japan) [T-En by Sgt. Bowhack v0.94b] [n].sfc</path>
-		<name>Doraemon 4: Nobita to Tsuki no Oukoku</name>
+		<name>Doraemon 4: Nobita to Tsuki no Oukoku (Doraemon 4: In the Moon Kingdom)</name>
 		<sortname />
 		<desc>The game is based on the popular manga series Doraemon. Doraemon is a blue cat robot who came from the future to protect a Japanese boy named Nobita. Nobita always gets himself in all kinds of troubles, so his grandson in the future decided to help him by sending Doraemon to keep an eye on him. One day, Nobita and Doraemon are looking at the beautiful moon, when suddenly a strange light engulfs them. They learn that something terrible has happened in the Moon Kingdom. Now they must travel to the moon and discover what is going on.</desc>
 		<rating>0</rating>
@@ -904,7 +904,7 @@
 	</game>
 	<game>
 		<path>./Clock Tower (Japan) [T-En by Aeon Genesis v1.01].sfc</path>
-		<name>Clock Tower</name>
+		<name>Kurokku Tawā (Clock Tower)</name>
 		<sortname />
 		<desc>Jennifer and her friends are adopted by a nice lady named Mary one day. They expect to be going to a wonderful new home, at the Barrows Mansion. There they will live with Mary and Mr. Barrows. Unfortunately, something goes terribly wrong and Jennifer's friends are showing up dead one by one. While this is happening, Mary is missing and Jennifer ends up being chased by a crazed psychopath known only as Scissorman. Now she must survive and get out of the mansion in this point-and-click horror adventure. Being a teenage girl, you have no special abilities at all, just your wits and your will to survive.</desc>
 		<rating>0.85</rating>
@@ -932,7 +932,7 @@
 	</game>
 	<game>
 		<path>./Aretha II - Ariel's Wonderful Adventure (Japan) [T-En by Dynamic Designs v0.91] [n].sfc</path>
-		<name>Aretha II: Arial's Wonderful Adventure</name>
+		<name>Aretha II: Ariel no Fushigi na Tabi (Aretha II: Ariel's Mysterious Journey)</name>
 		<sortname />
 		<desc>This time around, Arial has a bad dream about two of her former companions from Aretha 1 being in trouble. Then after she wakes, a letter arrives informing her that those same companions are battling great evil which threatens to destroy the world.</desc>
 		<releasedate>19941126T000000</releasedate>
@@ -945,7 +945,7 @@
 	</game>
 	<game>
 		<path>./Eien no Filerna (Japan) [En by Satsu v0.98] (~Eternal Filena).sfc</path>
-		<name>Eternal Filena</name>
+		<name>Eien no Firēna (Eternal Filena)</name>
 		<sortname />
 		<desc>The game's story begins with Filena, a girl raised as a boy by her grandfather Zenna. Filena is raised as a boy because the Empire ruling the country forces girls into prostitution and turns boys into gladiators. After turning 16 Filena prepares to make her debut in the imperial coliseum, however before the battle she and her fellow gladiators are assigned concubines. Filena ignores her assigned bedmate, Lila, but Lila forces her way into Filena's room and learns the truth about her gender.</desc>
 		<rating>0.8</rating>
@@ -959,7 +959,7 @@
 	</game>
 	<game>
 		<path>./Chaos Seed (English Patched v1.02).smc</path>
-		<name>Chaos Seed: Fuusui Kairouki</name>
+		<name>Chaos Seed: Fūsui Kairouki</name>
 		<sortname />
 		<desc>In this action-strategy-RPG hybrid you play the role of a young member of a cave-dwelling race of warriors. As the planet is dying, it is your task to build the necessary mystic rooms in your caves to channel the energy back to the planet, but the surface-dwellers think that you are to blame for the current situation and constantly send waves of explorers and adventurers trying to clear your "dungeon".</desc>
 		<rating>0.8</rating>
@@ -987,7 +987,7 @@
 	</game>
 	<game>
 		<path>./Do-Re-Mi Fantasy - Milon's Quest (Japan) [T-En by Gaijin Productions &amp; RPGOne v1.3] [n].sfc</path>
-		<name>DoReMi Fantasy: Milon no DokiDoki Daibouken</name>
+		<name>DoReMi Fantasy: Milon no DokiDoki Daibouken (DoReMi Fantasy: Milon's Heart Pounding Adventure)</name>
 		<sortname />
 		<desc>A young boy named Milon sets off to save Alis, his fairy friend, after she was captured by the evil sorcerer Amon. He later learns that the only way to defeat Amon is by collecting five legendary instruments which Amon has stolen. The sorcerer placed a curse on these instruments so that their true powers cannot be used and then left them in the hands of his minions. The only way to lift the curse is by collecting five stars. Armed with only his bubble shooter, Milon must retrieve the legendary instruments, lift their curses and use their powers to defeat Amon and rescue Alis.</desc>
 		<rating>0.8</rating>
@@ -1029,7 +1029,7 @@
 	</game>
 	<game>
 		<path>./Langrisser, Der (Japan) (Rev 1) [T-En by Byuu &amp; Derrick Sobodash v1.3].sfc</path>
-		<name>Der Langrisser</name>
+		<name>Der Langrisser (The Sword of Light)</name>
 		<sortname />
 		<desc>The Blue Dragon Knights of the Rayguard Empire are trying to steal the virtuous sorceress Riana. Their goal is to make her serve the evil Emperor Bozel, whose intention is to find the most powerful evil sword in the land, the Alhazard. Naturally, the main hero of the game, the knight Elwin, has not only to rescue Riana, but to retrieve the legendary holy sword Langrisser, the only artifact that is more powerful than Alhazard. At first, Elwin automatically follows the "good" path, but as the game progresses, he can choose whether to continue being good, to become an ally with Rayguard, or to side with the forces of Chaos whose goal is utter destruction.</desc>
 		<rating>0.6</rating>
@@ -1266,7 +1266,7 @@
 	</game>
 	<game>
 		<path>./Dragon Quest I &amp; II (Japan) [T-En by RPGOne v2.0 DQ] [Add by Mziab v1.0].sfc</path>
-		<name>Dragon Quest I.II</name>
+		<name>Doragon Kuesuto I.II (Dragon Quest I.II)</name>
 		<sortname />
 		<desc>In Dragon Quest (known as Dragon Warrior in the US), you play as the descendant of the legendary warrior Erdrick, and your goal is to recover the magical Ball of Light from Erdrick's and the humanity's arch-enemy, the Dragon Lord. In Dragon Quest II, you assume the role of the descendant of the hero of the first game, and must join forces with two other characters in order to defeat a demon lord who destroyed a nearby city and killed its inhabitants.</desc>
 		<rating>0.55</rating>
@@ -1294,7 +1294,7 @@
 	</game>
 	<game>
 		<path>./Dragon Quest III - And into the Legend (Japan) [T-En by DQ Translations v1.1] [n].sfc</path>
-		<name>Dragon Quest III</name>
+		<name>Doragon Kuesuto III Soshite Densetsu e… (Dragon Quest III: The Seeds of Salvation)</name>
 		<sortname />
 		<desc>Dragon Warrior III is the concluding game of the first Dragon Quest/Dragon Warrior trilogy, and its story takes us back to the time period of the legendary Erdrick (also known as Loto), the ancestor of the first game's hero. You are the son of a powerful warrior Ortega, skillful in physical combat and spellcasting. Your father went out to fight the evil Baramos, who is responsible for the appearance of monsters in your region, and never returned. You are sent by the king on a quest to continue your father's brave deeds and to defeat Baramos.</desc>
 		<rating>0.95</rating>
@@ -1336,7 +1336,7 @@
 	</game>
 	<game>
 		<path>./Assault Suits Valken (Japan) [T-En by Aeon Genesis v1.00] [n].sfc</path>
-		<name>Assault Suits Valken</name>
+		<name>Jūsō Kihei Varuken (Assault Suits Valken)</name>
 		<sortname />
 		<desc>In a future where fossil fuels are limited, major countries and forces of the world are at war with one another over territory. Alliances are made, forming two major sides: The Axis and The Federation. The elite units in these wars are Assault Suits, man-piloted combat mechs called Assault Suits. Jake is one such pilot, drafted into the Pacific States' Marine Corp under the Federation. During his training, the war has grown substantially and upon being assigned to a platoon, he is immediately thrown into combat.</desc>
 		<rating>0.85</rating>
@@ -1350,7 +1350,7 @@
 	</game>
 	<game>
 		<path>./Dragon Ball Z - Super Saiya Densetsu (Japan) (Rev 1) [T-En by Klepto Software v1.02] [n].sfc</path>
-		<name>Dragon Ball Z: Super Saiya Densetsu</name>
+		<name>Doragon Bōru Zetto: Sūpā Saiya Densetsu (Dragon Ball Z: Legend of the Saiyans)</name>
 		<sortname>Dragon Ball Z 1</sortname>
 		<desc>The game starts just where the tale of Dragon Ball begins. Son Goku goes to meet his friends, but is stopped by a mysterious stranger named Raditz who tells Son Goku they are relatives. Raditz demands from him to destroy humanity, and as Son Goku refuses, takes his son Son Gohan hostage. To rescue his son, Son Goku joins forces with his arch-rival, the Demon King Piccolo, who obviously has his own plans concerning Raditz. And thus begins the story during which Son Goku will learn of his true origin.</desc>
 		<rating>0.5</rating>
@@ -1364,7 +1364,7 @@
 	</game>
 	<game>
 		<path>./Dragon Ball Z - Hyper Dimension (Japan) [T-En by Twilight Translations v1.00].sfc</path>
-		<name>Dragon Ball Z: Hyper Dimension</name>
+		<name>Doragon Bōru Zetto: Haipā Dimenshon (Dragon Ball Z: Hyper Dimension)</name>
 		<sortname>Dragon Ball Z 2</sortname>
 		<desc>Dragon Ball Z: Hyper Dimension is a fighting game based on the Dragon Ball Z series. Players select one of ten fighters: Freeza, Gotenks, Kid Buu, Majin Buu, Majin Vegeta, Perfect Cell, Piccolo, Son Goku, Ultimate Gohan and Vegetto.</desc>
 		<rating>0.8</rating>
@@ -1420,7 +1420,7 @@
 	</game>
 	<game>
 		<path>./Warriors - Legend of the Blue Dragon - The Two Heroes (Japan) [T-En by DDSTranslation v2.0] [n].zip</path>
-		<name>Bushi Seiryūden: Futari no Yūsha</name>
+		<name>Bushi Seiryūden: Futari no Yūsha (Warriors Legend of the Blue Dragon: The Two Heroes)</name>
 		<sortname />
 		<desc>The plot of the game concerns a grand battle that involves mythical gods and monstrous creatures both big and small. The player takes the role of an orphaned child, the son of one of the four Warriors who served the Goddess of the Mountains on Gotou Island.</desc>
 		<rating>0.65</rating>
@@ -1462,7 +1462,7 @@
 	</game>
 	<game>
 		<path>./Alcahest (Japan) [T-En by FH v1.0b] [Add by KingMike].sfc</path>
-		<name>Alcahest</name>
+		<name>Arukaesuto (Alcahest)</name>
 		<sortname />
 		<desc>This is an action game with RPG elements. You wander around slaying enemies in real time combat, gathering treasure on the way, and occasionally participating in boss battles. When you gather enough experience from fighting, you gain extra hit points. You can also upgrade your weapons. On the way you'll meet some characters who will join your party for short time, and you'll be able to use their special attacks and magic. Past and future are connected in a way mortals do not understand. A star was glowing up in the sky, and the demon god Alcahest appeared, bringing chaos and destruction to the world.</desc>
 		<rating>0.8</rating>
@@ -1476,7 +1476,7 @@
 	</game>
 	<game>
 		<path>./Donald Duck and the Magical Hat (Japan) [T-En by Gorgyrip v1.0] [n].sfc</path>
-		<name>Disney's Donald Duck no Mahō no Bōshi</name>
+		<name>Disney's Donald Duck no Mahō no Bōshi (Donald Duck and the Magical Hat)</name>
 		<sortname />
 		<desc>Donald Duck no Mahō no Bōshi ("Donald Duck's The Magic Hat" or "Donald Duck in The Magic Hat") is a Super Famicom platformer that features the irascible Disney character Donald Duck as he first attempts to raise money to buy the eponymous magic hat for his girlfriend Daisy, and then gets involved in more misadventures due to the headwear.</desc>
 		<rating>0</rating>
@@ -1489,7 +1489,7 @@
 	</game>
 	<game>
 		<path>./Mickey no Tokyo Disneyland Daibouken (English v1.0).sfc</path>
-		<name>Disney's Mickey's Great Adventure in Tokyo Disneyland</name>
+		<name>Disney's Mikkī no Tōkyō Dizunīrando Daibōken (Mickey's Great Adventure in Tokyo Disneyland)</name>
 		<sortname />
 		<desc>Mickey has taken a trip to Tokyo Disneyland. But when he arrives, he finds out from Minnie that his friends have been kidnapped and the park has been hijacked by none other than Pete. Armed with nothing but a combo water/helium backpack and some balloons, Mickey must trek through the different sections of the park to rescue his friends, held captive in some of the park's most iconic attractions, and stop Pete.</desc>
 		<rating>0.6</rating>

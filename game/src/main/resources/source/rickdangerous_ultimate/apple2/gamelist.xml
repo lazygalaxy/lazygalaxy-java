@@ -26,19 +26,6 @@
 		<video>./snaps/AE.mp4</video>
 	</game>
 	<game>
-		<path>./Airheart.dsk</path>
-		<name>Airheart</name>
-		<sortname />
-		<desc>Operating a floatation device similar to Toobin‘, but jet-propelled, you challenge for supreme title of Airheart as you navigate or fight against robotic defenses. The robots themselves can harm you and the craft, destroying them without removing their pod they will reemerge. Spirit guardians will instruct you to gather certain items like a sword or goblet before you can enter the last battle and free the infant boy prince. Beware of the bubbles that encase you or dangers on and underwater.</desc>
-		<rating>0.8</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Dan Gorlin Productions</developer>
-		<publisher>Brøderbund Software</publisher>
-		<genre>Action</genre>
-		<image>./boxart/Airheart.jpg</image>
-		<video>./snaps/Airheart.mp4</video>
-	</game>
-	<game>
 		<path>./Alien Ambush.dsk</path>
 		<name>Alien Ambush</name>
 		<sortname />
@@ -105,7 +92,7 @@
 	</game>
 	<game>
 		<path>./Ardy The Aardvark.dsk</path>
-		<name>Ardy The Aardvark</name>
+		<name>Ardy the Aardvark</name>
 		<sortname />
 		<desc>Ardy the Aardvark is a maze-game inspired by, and a near clone of, the arcade game Anteater. The player navigates the tongue of the animal as it moves through an underground maze. The objective is to eat drops of food lying underground while trying to evade worms, stinging ants and spiders. While the worms can pass through the tongue and only cause aardvark’s death when being directly in touch with his tip of the tongue, other critters will instantly kill the player upon touching any part of the tongue. The lowest levels of the underground area usually have two special objects which clear out the whole screen from enemies if touched by Ardy’s tongue.</desc>
 		<rating>0.6</rating>
@@ -195,8 +182,8 @@
 	</game>
 	<game>
 		<path>./Boulder Dash II.dsk</path>
-		<name>Boulder Dash II</name>
-		<sortname />
+		<name>Boulder Dash II: Rockford's Revenge</name>
+		<sortname>Boulder Dash 2</sortname>
 		<desc>In part two of the Boulder Dash series the overall game design hasn’t changed compared to the original, but sixteen new levels have been created. The basis of the game is the same, you still have to mine diamonds while avoiding falling rocks and cave monsters of all sorts. As in part one, later levels become more difficult because many puzzle elements are added.</desc>
 		<rating>0.8</rating>
 		<releasedate>19850101T000000</releasedate>
@@ -247,7 +234,7 @@
 	</game>
 	<game>
 		<path>./Captain Goodnight.dsk</path>
-		<name>Captain Goodnight</name>
+		<name>Captain Goodnight and the Islands of Fear</name>
 		<sortname />
 		<desc>[!! 2-disc game - swapping needed !!] --- In this action game, the player assumes control of Captain Goodnight, and must travel to the Fear Islands to find and destroy Doctor Maybe’s doomsday machine before it can be activated. The islands are well guarded and Captain Goodnight will have to battle Doctor Maybe’s fiendish defense robots on land, in the air, and on sea. In the course of the game, Captain Goodnight must fly a jet across F.O.E. territory, battle robots on foot and in a tank and a jeep, ride a tram, cross the ocean in boats and a sub, and battle killer robots in tunnels.</desc>
 		<rating>0.6</rating>
@@ -325,9 +312,9 @@
 	</game>
 	<game>
 		<path>./Chess 7.0.dsk</path>
-		<name>Chess 7.0</name>
+		<name>Chess: Version 7.0</name>
 		<sortname />
-		<desc>Chess 7.0 is a chess playing tool for multiple systems that allows for 2-player chess play, or 1-player versus the computer with multiple available difficulty levels. Allows for graphical representation of the chess board, and follows standard chess rules. Unique gameplay options include the ability to flip the board, as well as allowing blind play were the rank of different pieces is hidden. The computer can optionally list best moves for players, and games in process can be saved to disk.</desc>
+		<desc>Chess: Version 7.0 is a chess playing tool for multiple systems that allows for 2-player chess play, or 1-player versus the computer with multiple available difficulty levels. Allows for graphical representation of the chess board, and follows standard chess rules. Unique gameplay options include the ability to flip the board, as well as allowing blind play were the rank of different pieces is hidden. The computer can optionally list best moves for players, and games in process can be saved to disk.</desc>
 		<rating>0.8</rating>
 		<releasedate>19820101T000000</releasedate>
 		<developer>Odesta</developer>
@@ -563,7 +550,7 @@
 	</game>
 	<game>
 		<path>./Frogger.dsk</path>
-		<name>Frogger</name>
+		<name>Official Frogger, The</name>
 		<sortname />
 		<desc>Your task in this arcade game is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made. The road is full of cars and trucks, at variable speeds. The river water itself is fatal, as are the snakes which hover within on later levels. Frogger must use the arrangement of logs, turtles (which are only there for a short time) and alligators (but stay away from their faces), and then jump into one of the open home-cells, ideally one containing a fly for extra points. Once all holes have been filled, you move onto the next, harder, level.</desc>
 		<rating>0.6</rating>
@@ -894,7 +881,7 @@
 	</game>
 	<game>
 		<path>./One On One.dsk</path>
-		<name>One-On-One</name>
+		<name>One-on-One: Dr. J vs. Larry Bird</name>
 		<sortname />
 		<desc>Control either Julius Erving or Larry Bird in front of a single basket, in a game of one on one. The user can select to play either to a certain score or for a certain amount of time. When on offense, the player can rotate to keep away from his rival, take a shot from a distance or move in to the basket for special up-close slam-dunks. When on defense, you can try to take your rival’s ball or jump up to block a shot. Particularly good set-ups get a slow-motion replay. You can even smash the glass on the backboard, which will send an irate janitor onto the court to clean up the mess.</desc>
 		<rating>0.6</rating>
@@ -934,7 +921,7 @@
 	</game>
 	<game>
 		<path>./Photar.dsk</path>
-		<name>Photar (a.k.a Nightcrawler)</name>
+		<name>Photar</name>
 		<sortname />
 		<desc>The player controls a small spaceship that can only shoot vertically upwards. The ship can move horizontally through the length of the screen, and can also move a short distance vertically. At the beginning of each level, a number of alien vessels slowly approach the player’s vessel by strafing left and right. Small barriers on the game play area deflect alien ships, and also block the player’s shots. Larger alien shields worth bonus points bounce about the screen. If the player destroys all the small alien vessels, they move to a more difficult level with faster moving vessels. The goal is to achieve a high score, for which the player only has one life.</desc>
 		<rating>0.8</rating>
@@ -1025,7 +1012,7 @@
 	</game>
 	<game>
 		<path>./Robot Odyssey.dsk</path>
-		<name>Robot Odyssey</name>
+		<name>Robot Odyssey I</name>
 		<sortname />
 		<desc>[!! 2-disc game - swapping needed !!] Robot Odyssey is a logic adventure game. You have been taken into Robotropolis, an underground city of robots. To escape, you must program your robot helpers Sparky, Checkers, and Scanner to solve the puzzles and escape.</desc>
 		<rating>0.6</rating>
@@ -1051,7 +1038,7 @@
 	</game>
 	<game>
 		<path>./Robotron 2084.dsk</path>
-		<name>Robotron 2084</name>
+		<name>Robotron: 2084</name>
 		<sortname />
 		<desc>You are a mutant human, who by some freak of nature has the ability to shoot energy pulses from his body in eight different directions! Your job is simple: save humanity from their own creation the ROBOTRONS! The gameplay is pretty unique for the time. You can move and fire in any of eight directions. You get thrown in a room with various evil baddies strewn about, you’ve got to kill all the robots while at the same time finding some way to grab humans and avoid death.</desc>
 		<rating>1</rating>
@@ -1182,7 +1169,7 @@
 	</game>
 	<game>
 		<path>./Snake-Byte.dsk</path>
-		<name>Snake-Byte (Remix)</name>
+		<name>Snake Byte: Remix</name>
 		<sortname />
 		<desc>The object is to guide your snake to the apples that appear on the screen. Gobble up an apple, and another appears. Your snake also grows longer. Gobble up ten apples without hitting a wall or any part of your own ever-growing body, and a door to the next level opens. As you move from level to level, the obstacles become more difficult. As you play, bars on each side of the display inch toward the top of the screen. Should they complete their journey before you’ve eaten an apple, you are penalized: Three more apples are added to the total you must eat before completing the level.</desc>
 		<rating>0.8</rating>
@@ -1260,9 +1247,9 @@
 	</game>
 	<game>
 		<path>./Starblaster.dsk</path>
-		<name>Starblaster</name>
+		<name>Star Blaster</name>
 		<sortname />
-		<desc>Starblaster (a.k.a. Star Blaster) is an early scrolling Shoot’em Up in which the player attempts to beat back an alien invasion force, dead-set on destroying the Earth (a staple of alien invasion forces everywhere, it would seem). The player’s solitary space fighter must blast its way through continuous waves of intruders, and then face off against the dreaded Annihilator. Rather unusually for a side-scrolling shooter, the ship flies from right to left. Each attack wave features a different type of enemy, and when the final mothership is destroyed, the action loops back to start - each time at an increased difficulty level.</desc>
+		<desc>Star Blaster is an early scrolling Shoot’em Up in which the player attempts to beat back an alien invasion force, dead-set on destroying the Earth (a staple of alien invasion forces everywhere, it would seem). The player’s solitary space fighter must blast its way through continuous waves of intruders, and then face off against the dreaded Annihilator. Rather unusually for a side-scrolling shooter, the ship flies from right to left. Each attack wave features a different type of enemy, and when the final mothership is destroyed, the action loops back to start - each time at an increased difficulty level.</desc>
 		<rating>0.8</rating>
 		<releasedate>19820101T000000</releasedate>
 		<developer>Piccadilly Software Inc.</developer>
@@ -1419,7 +1406,7 @@
 	</game>
 	<game>
 		<path>./Zork I - The Great Underground Empire.dsk</path>
-		<name>Zork I: Great Underground Empire, The</name>
+		<name>Zork I: The Great Underground Empire</name>
 		<sortname />
 		<desc>It beckons you into a world fraught with danger and discovery. Using all the cunning you can muster, you’ll plunge far below the surface of the earth in search of the incomparable treasures of Zork. But this is no mere treasure hunt. During your amazing journey, you’ll come face to face with creatures so outlandish, they defy description. And you’ll wander through an underground domain so vast, with so many twists and turns, it can offer you new surprises no matter how many times you explore it.</desc>
 		<rating>0.6</rating>
@@ -1432,7 +1419,7 @@
 	</game>
 	<game>
 		<path>./Zork II - The Wizard of Frobozz.dsk</path>
-		<name>Zork II: Wizard of Frobozz, The</name>
+		<name>Zork II: The Wizard of Frobozz</name>
 		<sortname />
 		<desc>Zork II: The Wizard of Frobozz is a text adventure, a sequel to the classic first Zork. Once again, the game is set in the Great Underground Empire, but this time the main goal is to face off against the titular Wizard. Like its predecessor, Zork II plays like any other text adventure: there are no graphics - only text - and the player types commands such as ‚‘lift cage‘‘ or ‚‘examine robot‘‘.</desc>
 		<rating>0.6</rating>
@@ -1445,7 +1432,7 @@
 	</game>
 	<game>
 		<path>./Zork III - The Dungeon Master.dsk</path>
-		<name>Zork III: Dungeon Master, The</name>
+		<name>Zork III: The Dungeon Master</name>
 		<sortname />
 		<desc>In the third game of the adventure game series Zork, you are once again a nameless adventurer, only this time you won’t travel through a beautiful magical land, but are immediately cast into a deep dungeon. Like in a dream, you hear a mysterious voice telling you that you have passed all the tests but one. When conscience returns to you, you find yourself on the endless spiral of stairs, with only your trusty lantern near you, will you be able to survive the horrors of the Dungeon?</desc>
 		<rating>0.6</rating>
@@ -1562,7 +1549,7 @@
 	</game>
 	<game>
 		<path>./Prince of Persia.dsk</path>
-		<name>Prince Of Persia</name>
+		<name>Prince of Persia</name>
 		<sortname />
 		<desc>[!! 3-disc game - swapping needed !!] --- Prince of Persia is a 2D platformer that is commonly regarded as a progenitor of the cinematic platformer genre. Rather than following the more common jump-and-run mechanics, it focuses on careful advancement through fairly complex levels, emphasizing the protagonist’s vulnerability and survival aspect. Rotoscoping technique is used to give more realism to the animation of the characters‘ movements. The protagonist must avoid deadly traps, solve some simple jumping and environmental puzzles (such as stepping on pressure plates to raise portcullis), and engage in sword fights with the guards.</desc>
 		<rating>1</rating>
@@ -1703,5 +1690,81 @@
 		<genre>Shoot'em up</genre>
 		<image>./boxart/Night Flight.jpg</image>
 		<video>./snaps/Night Flight.mp4</video>
+	</game>
+	<game>
+		<path>./The Bard's Tale.dsk</path>
+		<name>Bard's Tale: Tales of the Unknown, The</name>
+		<sortname />
+		<desc>The Bard's Tale is a straightforward "dungeon crawl". The objective is to gain experience and advance characters' skills through (mostly) random combat with enemies and monsters. This is done while exploring maze-like dungeons, solving occasional puzzles and riddles, and finding or buying better weapons, armor and other equipment.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Interplay</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/The Bard's Tale.jpg</image>
+		<video>./snaps/The Bard's Tale.mp4</video>
+	</game>
+	<game>
+		<path>./Pinball Construction Set.dsk</path>
+		<name>Pinball Construction Set</name>
+		<sortname />
+		<desc>Pinball Construction Set is considered the first construction set game that launched the concept and genre. Construct a pinball game by dropping parts onto the table (or alter the table itself). Alter world physics like gravity, bounce, kick, and speed. Paint custom backboards. Wire together targets for specials and bonus points. Finally, save creations for later, or generate a self-loading version of the table to distribute to friends (original program not needed to play).</desc>
+		<releasedate>19820101T000000</releasedate>
+		<developer>BudgeCo</developer>
+		<publisher>BudgeCo., Inc.</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Pinball Construction Set.jpg</image>
+		<video>./snaps/Pinball Construction Set.mp4</video>
+	</game>
+	<game>
+		<path>./Sundog Frozen Legacy.dsk</path>
+		<name>Sundog: Frozen Legacy</name>
+		<sortname />
+		<desc>You just inherited a one-man star freighter - the SunDog - from an uncle who died under mysterious circumstances. You also inherited the contract he signed to aid in the building of a colony for a religious group. You have three tasks to perform: find the location of the colony; find, buy, and deliver goods needed for its construction; and locate the cryogenically-frozen colonists needed to populate the colony.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>FTL Games</developer>
+		<publisher>Accolade</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Sundog Frozen Legacy.jpg</image>
+		<video>./snaps/Sundog Frozen Legacy.mp4</video>
+	</game>
+	<game>
+		<path>./Taipan.dsk</path>
+		<name>Taipan</name>
+		<sortname />
+		<desc>Loosely based on Clavell's Taipan, this game is a trading simulation set in the Far East during the 1800s. The player is based out of Hong Kong and has a single trading ship with which he can transport one of four cargoes from place to place. There are different cargoes to be traded, from the cheaper general goods to the more expensive arms and silks, culminating in the opportunity to trade in the illegal opium trade. Generally, the strategy here was buy low, sell high. To add some tension to the game, there is a random chance that you will encounter several obstacles to your trading empire. Random pirates, pickpockets, and thieves who rob you and your warehouse are all out there for their own benefit (and your detriment!</desc>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Adventure International</publisher>
+		<genre>Strategy</genre>
+		<image>./boxart/Taipan.jpg</image>
+		<video>./snaps/Taipan.mp4</video>
+	</game>
+	<game>
+		<path>./The Oregon Trail.dsk</path>
+		<name>Oregon Trail, The</name>
+		<sortname />
+		<desc>As a covered wagon party of pioneers, you head out west from Independence, MI to the Willamette River and valley in Oregon. You first must stock up on provisions, and then, while traveling, make decisions such as when to rest, how much food to eat, etc. The Oregon Trail incorporates strategy and planning ahead along with discovery and adventure as well as action (hunting and floating down the Dalles river).</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>MECC</developer>
+		<publisher>MECC</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/The Oregon Trail.jpg</image>
+		<video>./snaps/The Oregon Trail.mp4</video>
+	</game>
+	<game>
+		<path>./Airheart.dsk</path>
+		<name>Airheart</name>
+		<sortname />
+		<desc>Operating a floatation device similar to Toobin‘, but jet-propelled, you challenge for supreme title of Airheart as you navigate or fight against robotic defenses. The robots themselves can harm you and the craft, destroying them without removing their pod they will reemerge. Spirit guardians will instruct you to gather certain items like a sword or goblet before you can enter the last battle and free the infant boy prince. Beware of the bubbles that encase you or dangers on and underwater.</desc>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Dan Gorlin Productions</developer>
+		<publisher>Brøderbund Software</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Airheart.jpg</image>
+		<video>./snaps/Airheart.mp4</video>
 	</game>
 </gameList>

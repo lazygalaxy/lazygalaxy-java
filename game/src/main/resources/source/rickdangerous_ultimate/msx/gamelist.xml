@@ -77,7 +77,7 @@
 	</game>
 	<game>
 		<path>./Knightmare - Majou Densetsu (Japan).zip</path>
-		<name>Knightmare: Majou Densetsu</name>
+		<name>Knightmare</name>
 		<sortname>Knightmare 1</sortname>
 		<desc>In Knightmare, the player takes control of a brave knight named Popolon, who has to rescue his sweetheart Aphrodite from the clutches of the evil Hudnos. The game is essentially a top-down shooter. Popolon can shoot arrows at his enemies, and at the end of level face bosses, such as witches, etc. Shooting monsters, avoiding obstacles, passing the bridges and collecting upgrades for his weapon leads him to glory. Digitized music and sound add more to the arcade-like gameplay.</desc>
 		<rating>0.7</rating>
@@ -154,5 +154,281 @@
 		<genre>Puzzle</genre>
 		<image>./boxart/Bomber Man (1983) (Hudson).jpg</image>
 		<video>./snaps/Bomber Man (1983) (Hudson).mp4</video>
+	</game>
+	<game>
+		<path>./Beam Rider (Japan).zip</path>
+		<name>Beamrider</name>
+		<sortname />
+		<desc>Beamrider takes place above Earth's atmosphere, where a large alien shield called the Restrictor Shield surrounds the Earth. The player's objective is to clear the Shield's 99 sectors of alien craft while piloting the Beamrider ship. The Beamrider is equipped with a short-range laser lariat and a limited supply of torpedoes. The player is given three at the start of each sector.</desc>
+		<rating>0.65</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Pony Canyon</developer>
+		<publisher>Activision</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Beam Rider (Japan).jpg</image>
+		<video>./snaps/Beam Rider (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Boulder Dash (Japan).zip</path>
+		<name>Boulder Dash</name>
+		<sortname />
+		<desc>You are Rockford, and you have to dig through monster infested caves in search of diamonds. In each level you must collect a certain number of these diamonds, in order to open a portal to the next stage. Enemies can be squashed by falling boulders, which are released when the ground below them is removed or they are pushed onto empty ground, but be careful because these can also squash you. In later levels, difficulty is increased by many puzzle elements and shorter time limits. There are 16 levels to be completed and five different skill levels available, which affect the number of jewels which must be collected and the time limit.</desc>
+		<rating>0.6</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>First Star Software</developer>
+		<publisher>Orpheus Ltd</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Boulder Dash (Japan).jpg</image>
+		<video>./snaps/Boulder Dash (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Castle Excellent (Japan).zip</path>
+		<name>Castle Excellent</name>
+		<sortname />
+		<desc>The puzzle and platform game Castle Excellent is a sequel to The Castle. In Castle Excellent you control a prince that has to save the princess again. To find your princess you have to explore the castle, which has 100 different rooms. Each room is a puzzle on its own as you have to avoid enemy knights, fat Tiroler men, hazardous objects and have to use objects to get to the next door. In each room you have to collect keys and items like rings and gold bars. The keys may have different colors and only opens doors with the corresponding key color. The main difference with the original The Castle game is that the castle rooms are completely redesigned and contain many new challenges. The game play has not changed.</desc>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>ASCII Corporation</developer>
+		<publisher>ASCII Corporation</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Castle Excellent (Japan).jpg</image>
+		<video>./snaps/Castle Excellent (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Galaga (Japan).zip</path>
+		<name>Galaga</name>
+		<sortname />
+		<desc>Galaga is a vertical arcade shooter from Namco. You control a space fighter at the bottom of the screen, scrolling left and right in order to avoid oncoming bombs and kamikaze attacks from alien invaders--and to fire your own missiles to fight back! There are an infinite number of stages to progress through. Every third level is a "challenge stage" in which you have a free chance to shoot as many aliens as possible and rack up bonus points. Certain aliens have tractor beams they can use to capture one of your ships. If that wasn't your last "life," you can try to shoot that alien down and recapture your ship, giving you two ships at once and doubling your firepower.</desc>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Bug-Byte Software</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Galaga (Japan).jpg</image>
+		<video>./snaps/Galaga (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Goonies, The (Japan).zip</path>
+		<name>Goonies, The</name>
+		<sortname />
+		<desc>While this MSX version of The Goonies borrows the basic concept from the Famicom (NES) version, it features completely different levels and enemies. Rather than play Mikey and save the remaining Goonies, you play as Sloth who must rescue all the Goonies, meaning you need to rescue seven Goonies per stage instead of just one so the stages are significantly longer and more complicated. To open doors you need to use keys instead of bombs, and you can only carry one key at a time. There's also an experience meter that increases every time you kill an enemy.</desc>
+		<rating>0.85</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Goonies, The (Japan).jpg</image>
+		<video>./snaps/Goonies, The (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./H.E.R.O. (Japan).zip</path>
+		<name>H.E.R.O.</name>
+		<sortname />
+		<desc>There is trouble in the mines! Volcanic activity has trapped numerous miners, and it is your job to save them. As Roderick Hero, you need to make your way through the dangerous mineshaft avoiding the dangerous creatures and lava, and find out where the miners are located before you run out of energy. To help on your mission, Roderick Hero has several useful types of equipment. A prop pack will allow you to hover and fly around the mineshaft and (hopefully) avoid the many dangers within. Your helmet features a short range microlaser beam which can be used to destroy the bats, spiders, snakes, and other creatures you'll encounter in the mines. From time to time, your path through the mine may be blocked by stone or lava walls.</desc>
+		<rating>0.75</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/H.E.R.O. (Japan).jpg</image>
+		<video>./snaps/H.E.R.O. (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Mopiranger (Japan).zip</path>
+		<name>Mopiranger</name>
+		<sortname />
+		<desc>The peaceful land of the Mopira have been invaded by the Razons. In this platform game you 'll play Mopiranger and you have to save the young Moplits, who have been kidnapped by the dastardly Razons. The levels are build in a maze-like pattern in which you have to find and rescue the young Moplits from the hostile Razons. Using the obstacles present in the game you can block the Razons, but also lock yourself in...</desc>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Mopiranger (Japan).jpg</image>
+		<video>./snaps/Mopiranger (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Nemesis (Japan, Europe).zip</path>
+		<name>Nemesis</name>
+		<sortname />
+		<desc>Nemesis is the first entry in the long-running Gradius series on the Game Boy. Its side-scrolling shoot'em up gameplay follows the series template closely. Players control the Vic Viper through five levels, most based on levels in earlier entries, for a kind of 'greatest hits' of the series. There is a cave level (as in level 1 of the original Gradius), the mandatory Moai stage, a Gigeresque organic level, a graveyard (similar to bonus stages in the MSX and PC Engine version of the original Gradius) and a high-tech base. Besides the classic core ship in the first level, all boss enemies are entirely new.</desc>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Ultra Games</publisher>
+		<genre>Shoot'em up</genre>
+		<players>2</players>
+		<image>./boxart/Nemesis (Japan, Europe).jpg</image>
+		<video>./snaps/Nemesis (Japan, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Nemesis 2 (Japan, Europe).zip</path>
+		<name>Nemesis 2</name>
+		<sortname />
+		<desc>In the year 6664 Dr. Venom, the director of the Space Science Agency, was exiled to the planet Sard for his involvement in a failed rebellion and illegal scientific activities. One year later, he joined forces with the Bacterion invaders, escaped Sard, and took control of the space surrounding the planet Gradius. In 6666, the local government sends Colonel James Burton on the newest hyperspace fighter known as Metalion. The goal is clear: stop Dr. Venom and the Bacterion army before they conquer the planet. Nemesis 2 (Gradius 2 in Japan) is a side-scrolling shoot-em-up. The gameplay is for the most part similar to that of Gradius. The player-controlled ship can alternate between three main weapons: Missile, Double, and Laser.</desc>
+		<rating>0.85</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Nemesis 2 (Japan, Europe).jpg</image>
+		<video>./snaps/Nemesis 2 (Japan, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Nemesis 3 - The Eve of Destruction (Japan, Europe).zip</path>
+		<name>Nemesis 3</name>
+		<sortname />
+		<desc>Gofer no Yabou: Episode II (ã‚´ãƒ¼ãƒ•ã‚¡ãƒ¼ã ®é‡Žæœ›ã‚¨ãƒ”ã‚½ãƒ¼ãƒ‰II lit. Gofer's Ambition Episode II) is a side-scrolling shooter developed and published by Konami for the MSX home computer in 1988. It was published in Europe as Nemesis 3: The Eve of Destruction later on the same year. The game is part of the long running Gradius series, and is a spin-off of the arcade game Gradius II: Gofer no Yabou. It is the second game of the series to be released exclusively for the MSX after Gradius 2. In terms of the story; the game is a sequel to Gradius II and Salamander. The game takes place almost 200 years after the crisis with Dr. Venom and James Burton has died in the year 6718.</desc>
+		<rating>0.9</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Nemesis 3 - The Eve of Destruction (Japan, Europe).jpg</image>
+		<video>./snaps/Nemesis 3 - The Eve of Destruction (Japan, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Pac-Man (Japan).zip</path>
+		<name>Pac-Man</name>
+		<sortname />
+		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board. Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde). One touch from any of these ghosts means a loss of life for Pac-Man. Pac-Man can turn the tables on his pursuers by eating of the four Energizers located within the maze. During this time, the ghosts turn blue, and Pac-Man can eat them for bonus points.</desc>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Bug-Byte Software</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Pac-Man (Japan).jpg</image>
+		<video>./snaps/Pac-Man (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Parodius (Japan) [T-En by A&amp;L Software v1.0] (Cartridge).zip</path>
+		<name>Parodius</name>
+		<sortname />
+		<desc>The first title in the Parodius series, although it is often confused with its sequel Parodius! From Myth to Laughter. The name itself is a portmanteau of "Gradius" and "Parody" and, eponymously, the game is a parody of the Gradius series of space-based horizontally scrolling shooters. Many of the characters and enemies are derived from that famous shooter series, while other elements are extracted from other Konami titles, such as Antarctic Adventure and TwinBee. This game is of particular note in the series as being heavily infused with Japanese culture and folklore. The gameplay is very similar to the Gradius games, with other aspects from games such as TwinBee.</desc>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Parodius (Japan) [T-En by A&amp;L Software v1.0] (Cartridge).jpg</image>
+		<video>./snaps/Parodius (Japan) [T-En by A&amp;L Software v1.0] (Cartridge).mp4</video>
+	</game>
+	<game>
+		<path>./Pippols (Japan).zip</path>
+		<name>Pippols</name>
+		<sortname />
+		<desc>You are Pippols, a brave boy, who is seeking the Holy Gem to bring back light to the world. Watch out as the fairies of darkness will try to stop you in your journey across the various countries of the world of Magic. Pippols is a vertically scrolling shooter in which you take control of a lad who navigates what seems to be a garden and shoots hearts at enemies. The screen is divided into five vertical paths by rows of flowers (or other shrubbery and obstacles in later stages). Within the path the protagonist can move freely up and down, but to change the path he needs to jump left or right if there is an opening. You can collect coins and various power-ups as you go.</desc>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Pippols (Japan).jpg</image>
+		<video>./snaps/Pippols (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Road Fighter (Japan).zip</path>
+		<name>Road Fighter</name>
+		<sortname />
+		<desc>A top view racing game. You have to reach the finish line before time runs out. Don't crash into the wall, cars or trucks. Because if you do you will lose gasoline. You can get additional gasoline by picking up fuel items. Especially avoid the purple cars, they do change lanes! And remember... oil makes road slippery...</desc>
+		<rating>0.95</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Road Fighter (Japan).jpg</image>
+		<video>./snaps/Road Fighter (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Salamander (Japan).zip</path>
+		<name>Salamander</name>
+		<sortname />
+		<desc>In a distant part of the universe, an alien creature called Zelos was born. As he grew so did his appetite, and soon he began devouring galaxies, planets, and stars by the hundreds. Now your planet has appeared in Zelos' path, and it is up to you and a partner to fly into battle to save your world. Life Force is an action packed shooter based on the arcade game. There are six levels which alternate between side and vertical scrolling, each of them ending with a powerful guardian. Throughout the game, destroying certain enemies will release power ups which can be used to equip your ship with more powerful weapons, extra speed, and shields.</desc>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up</genre>
+		<players>2</players>
+		<image>./boxart/Salamander (Japan).jpg</image>
+		<video>./snaps/Salamander (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan).zip</path>
+		<name>Yie Ar Kung-Fu 2: The Emperor Yie-Gah</name>
+		<sortname />
+		<desc>Yie Ar Kung-Fu 2: The Emperor Yie-Gah is a sequel to the MSX / Famicom (NES) version of Yie Ar Kung-Fu, rather than the versions directly based on the arcade release. The game follows the quest of Lee Young, the main character from the previous game, to become a kung-fu master. This involves fighting with a wide range of opponents in a traditional one-on-one 2D environment. Lee Young has a wide range of attack moves he can use to lower his opponent's life bar, including traditional punching and kicking attacks as well as jumping ones. Opponents are well equipped with unique weapons and attacks.</desc>
+		<rating>0.85</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan).jpg</image>
+		<video>./snaps/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Arkanoid (Japan).zip</path>
+		<name>Arkanoid</name>
+		<sortname />
+		<desc>The original Breakout concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game. The game's plot redefines the bat as a Vaus spaceship, the ball as an energy bolt, and the bricks form a mysterious wall stopping the ship from progressing to safety. By the mid-80s, power-ups were popular in most types of arcade games, and Arkanoid features them. They are caught by positioning the bat below them as they fall (meaning that you risk missing the ball if you go for them at the wrong time).</desc>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Arkanoid (Japan).jpg</image>
+		<video>./snaps/Arkanoid (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Athletic Land (Japan).zip</path>
+		<name>Athletic Land</name>
+		<sortname />
+		<desc>You play a child on a metro-cross-like dash across an obstacle course with a time limit. Your physical prowess is tested to the limit as you leap, duck, turn and twist to avoid all hazards. There are several screens with different combinations of obstacles.</desc>
+		<rating>0.45</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Athletic Land (Japan).jpg</image>
+		<video>./snaps/Athletic Land (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./B.C.'s Quest (Japan).zip</path>
+		<name>B.C.'s Quest for Tires</name>
+		<sortname />
+		<desc>B.C.'s Quest for Tires is a 1983 video game designed by Rick Banks and Michael Bate and published by Sierra On-Line. It was released for the Commodore 64, Atari 8-bit family, ColecoVision, ZX Spectrum, MSX, and Apple II. The game is based on the comic strip B.C. by Johnny Hart, with the title being a play on the title of the contemporaneous film Quest for Fire.</desc>
+		<rating>0.65</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Sydney</developer>
+		<publisher>Toshiba EMI</publisher>
+		<genre>Action</genre>
+		<image>./boxart/B.C.'s Quest (Japan).jpg</image>
+		<video>./snaps/B.C.'s Quest (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Golvellius.zip</path>
+		<name>Golvellius</name>
+		<sortname />
+		<desc>Golvellius is an action adventure video game for the Japanese MSX home computer system that plays much like The Legend of Zelda. The scenario is the same in all the three different versions of Golvellius. The ending promised a sequel, which was never developed/released.</desc>
+		<rating>0.6</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Compile</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/Golvellius.jpg</image>
+		<video>./snaps/Golvellius.mp4</video>
 	</game>
 </gameList>

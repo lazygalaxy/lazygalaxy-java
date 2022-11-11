@@ -1,0 +1,308 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>WonderSwan Color</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Engacho! for WonderSwan (Japan).zip</path>
+		<name>Engacho!</name>
+		<sortname />
+		<desc>Engacho is based on a popular Japanese children game. You play a little boy named Sunzuki, who wants to prove to his angry father that he is not a coward and can stand up against the terrible monsters of the Oops Five group. Those five guys are extremely ugly and can contaminate you with an awful disease the moment they touch you. So you should outsmart them and run away before they can catch you. The gameplay is turn-based.</desc>
+		<releasedate>19991028T000000</releasedate>
+		<developer>Nihon Application</developer>
+		<publisher>Nihon Application</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Engacho! for WonderSwan (Japan).jpg</image>
+		<video>./snaps/Engacho! for WonderSwan (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./From TV Animation One Piece - Grand Battle Swan Colosseum (Japan).zip</path>
+		<name>One Piece: Grand Battle Swan Colosseum</name>
+		<sortname />
+		<desc>A real high point in the WonderSwan One Piece series</desc>
+		<rating>0.55</rating>
+		<releasedate>20020712T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/From TV Animation One Piece - Grand Battle Swan Colosseum (Japan).jpg</image>
+		<video>./snaps/From TV Animation One Piece - Grand Battle Swan Colosseum (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Ganso Jajamaru-kun (Japan).zip</path>
+		<name>Ganso JaJaMaru-kun</name>
+		<sortname />
+		<desc>Ganso JaJaMaru-kun is a remake of the NES platformer Ninja JaJaMaru-kun. It includes new levels and bosses that stretch the gameplay in novel ways. Lord Namazu Dayuu has kidnapped JaJaMaru-kun's beloved Princess Sakura. This piratical lord is no laughing matter, despite his sadistically gleeful disposition, he possess an army of creatures drawn from Japanese folklore to prevent you from reuniting with your princess ever again. The game is quite simple and plays, for the most part, much like its predecessor. Jajamaru-kun begins on the bottom of a three tiered horizontal field. On each level of this field there are two enemies on each tier.</desc>
+		<rating>0.6</rating>
+		<releasedate>19990415T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Ganso Jajamaru-kun (Japan).jpg</image>
+		<video>./snaps/Ganso Jajamaru-kun (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Guilty Gear Petit (Japan).zip</path>
+		<name>Guilty Gear Petit</name>
+		<sortname />
+		<desc>The game takes place in 22th century. Scientists developed a new technique that allowed them to merge the DNA of humans and animals, producing powerful creatures known as "gears". The characters of the game participate in a tournament, the winner of which would face a gear who went out of control and is threatening to lead a gear rebellion against the humans. The game allows you to play as familiar characters from Guilty Gear series, such as the main hero Sol Badguy, who has a certain connection to the gears, and his rival, the leader of the Holy Knights named Ky Kiske. It also introduces a new character, the nurse Fanny, who fights with a syringe and has a mysterious connection to the genius surgeon, and later serial murderer, Dr.</desc>
+		<rating>0.65</rating>
+		<releasedate>20010125T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>Sammy</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Guilty Gear Petit (Japan).jpg</image>
+		<video>./snaps/Guilty Gear Petit (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Guilty Gear Petit 2 (Japan).zip</path>
+		<name>Guilty Gear Petit 2</name>
+		<sortname />
+		<desc>In 22th century, scientists found a way to create artificial beings whom they called "gears". These gears were very powerful, but did not have wills of their own, and were completely obedient to the humans. However, a gear named Justice was able to free himself from the control and led a rebellion against the humans. Since then, the humanity lived in fear that the gears will one day gain the power on the Earth. For that purpose, the Sacred Order of the Holy Knights organized fighting tournaments to find out who is strong enough to face the renegade gears.</desc>
+		<rating>0.8</rating>
+		<releasedate>20010927T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Guilty Gear Petit 2 (Japan).jpg</image>
+		<video>./snaps/Guilty Gear Petit 2 (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./GunPey (Japan).zip</path>
+		<name>GunPey</name>
+		<sortname />
+		<desc>Gunpey is a puzzle game set in the wild west. Your goal is to connect pieces of fuses to get one long fuse going across the board, making it explode and disappear. There are several game modes in Gunpey, such as the classical puzzle game modes "Endless mode", where you can either play until you mess up or timed, either for 2 or 5 minutes. "Stage mode", where you have to clear a certain amount of tiles before advancing to the next stage. "Puzzle mode", where you have a set amount of fuse pieces and you need to make them all go away in one explosion. And finally "Vs. mode", where you can face off against a friend.</desc>
+		<releasedate>19990304T000000</releasedate>
+		<developer>Koto Laboratory</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/GunPey (Japan).jpg</image>
+		<video>./snaps/GunPey (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./GunPey EX (Japan).zip</path>
+		<name>GunPey EX</name>
+		<sortname />
+		<desc>Direct sequel to the original Gunpey on the WonderSwan, Gunpey EX adds a number of new elements to the classic; most notably, color. In addition to earning points for completing a line across the field you will now earn points if those lines are of a matching color. Previously only gray lines were possible now red, blue, and green lines appear. Gunpey EX has the same modes as the previous game, except a story mode. Time Attack mode where one has to eliminate as many tiles as possible in two of five minutes. Endless mode give the player unlimited time to crank out whatever score they desire. Stage mode presents a set number of tiles to remove in a given time.</desc>
+		<rating>0.55</rating>
+		<releasedate>20001209T000000</releasedate>
+		<developer>Koto Laboratory</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/GunPey EX (Japan).jpg</image>
+		<video>./snaps/GunPey EX (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21).zip</path>
+		<name>Judgement Silversword: Rebirth Edition</name>
+		<sortname />
+		<desc>In your space fighter, the S-AIXAK, you'll be going up against the minions of the Judgement Silversword. Starting from a small space station above the earth your lone fighter will travail the bullet filled cosmos, always a shot away from death, to achieve this goal. Judgement Silversword is a vertically scrolling shooter in which wave upon wave of multifarious of opposing craft will try to take you down with bullets, bombs, lasers, or even their own fuselages. Using the Y-Buttons as a directional pad and the X-Buttons for your weaponry you'll try your hand at completing the S-AIXAKs destiny.</desc>
+		<rating>1</rating>
+		<releasedate>20040205T000000</releasedate>
+		<developer>M-KAI</developer>
+		<publisher>Qute</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21).jpg</image>
+		<video>./snaps/Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21).mp4</video>
+	</game>
+	<game>
+		<path>./Kaze no Klonoa - Moonlight Museum (Japan).zip</path>
+		<name>Kaze no Kuronoa: Mūnraito Myūjiamu (Klonoa of the Wind: Moonlight Museum)</name>
+		<sortname />
+		<desc>In this game, you control a boy named Klonoa. One day he sees a dream in which he learns that somebody has stolen a fragment of the moon. He is told that the thieves are probably some painters who took the moon fragment into a museum. As Klonoa enters the music, he gets teleported into a mysterious world. Now he has to use his wit in order to overcome all the obstacles in this world and retrieve the moon fragment. Kaze no Klonoa: Moonlight Museum is a platform game with an emphasis on puzzle-solving. The enemies you encounter can be inflated with the help of Klonoa's yo-yo, and carried around. You can throw them at other enemies, or use them to jump to higher ledges.</desc>
+		<rating>0.85</rating>
+		<releasedate>19990520T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Kaze no Klonoa - Moonlight Museum (Japan).jpg</image>
+		<video>./snaps/Kaze no Klonoa - Moonlight Museum (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Pocket Fighter (Japan).zip</path>
+		<name>Pocket Fighter</name>
+		<sortname />
+		<desc>Pocket Fighter is a crossover fighting game that takes characters from the Street Fighter, Darkstalkers, and Red Earth fighting series, and presents them in a cute shrunken chibi form with ridiculous moves and costumes. The games fights take place in various Capcom locations. At the top of the screen is your, and your opponents, health bar. Below that is a meter showing how many gems you've collected. Gems are produced from a character when they are hit by a kick or a punch, these gems will then lie on the ground until someone picks them up. Filling up your gem gauge will increase your special attack meters on the bottom of the screen.</desc>
+		<releasedate>20000406T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Pocket Fighter (Japan).jpg</image>
+		<video>./snaps/Pocket Fighter (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Rainbow Islands - Putty's Party (Japan).zip</path>
+		<name>Rainbow Islands: Putty's Party</name>
+		<sortname />
+		<desc>A spin-off of the Rainbow Islands games, this title features Putty instead of the classic Bub and Bob. Like the previous games set on the island the character's main tools and weapons are rainbows. These rainbows can be walked on to scale heights or cover gaps. Rainbows can also be used to kill enemies by striking them with the arc as it is created, or after it has taken form jumping on it so that it breaks and the shards rain death on those below. Enemies can also be trapped in rainbows. Enemies killed by rainbow shards will sometimes drop a special item or a gem. A series of gems are needed to properly clear each level. The goal of each area, aside from collecting gems, is to scale to the top of the island.</desc>
+		<releasedate>20000629T000000</releasedate>
+		<developer>MegaHouse Corporation</developer>
+		<publisher>Takara</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Rainbow Islands - Putty's Party (Japan).jpg</image>
+		<video>./snaps/Rainbow Islands - Putty's Party (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Rhyme Rider Kerorican (Japan).zip</path>
+		<name>Raimuraidā Kerorikan (Rhyme Rider Kerorican)</name>
+		<sortname />
+		<desc>You play as the rhyme rider Kerorcian, a vivacious space girl with a large frog helmet, as she skips to the music through the games four stages. The games music is largely comprised of jazzy techno pieces. Kerorcian skips down a set line while randomly placed enemies and obstacles appear before her. Various button combos will avoid certain obstacles, although a "one-button" easy mode is available. When you avoid an obstacle a note will sound, clearing long chains of obstacles will result in funky melodies popping up inside the song that is playing. This gameplay is reminiscent of the studios earlier game Vib Ribbon.</desc>
+		<rating>0.6</rating>
+		<releasedate>20001209T000000</releasedate>
+		<developer>NanaOn-Sha Co., Ltd.</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Rhyme Rider Kerorican (Japan).jpg</image>
+		<video>./snaps/Rhyme Rider Kerorican (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./SD Gundam - Operation U.C. (Japan).zip</path>
+		<name>SD Gundam: Operation U.C.</name>
+		<sortname />
+		<desc>When you start playing the game and reach the main menu, you will have some things which you can cho</desc>
+		<rating>0.7</rating>
+		<releasedate>20020216T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/SD Gundam - Operation U.C. (Japan).jpg</image>
+		<video>./snaps/SD Gundam - Operation U.C. (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy II (Japan) [T-En by RPGOne v0.97].wsc</path>
+		<name>Final Fantasy II</name>
+		<sortname />
+		<desc>FINAL FANTASY II is highly anticipated follow-up to the original FINAL FANTASY, released in Japan in 1988. The game features the bitter and beautiful tale of four war-orphaned heroes who become embroiled in a conflict between the hostile Empire of Palamecia and the rebel resistance. By eschewing conventional leveling for a proficiency system that allows players to tailor their characters' growth and incorporating a key term memory system that makes dialogue integral to gameplay, this game sparked the spirit of innovation for which the series has become known. This release also contains the bonus dungeons added to later editions of the game--the Soul of Rebirth and the Arcane Labyrinth.</desc>
+		<rating>0.7</rating>
+		<releasedate>20010503T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Final Fantasy II (Japan) [T-En by RPGOne v0.97].jpg</image>
+		<video>./snaps/Final Fantasy II (Japan) [T-En by RPGOne v0.97].mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy IV (Japan) [T-En by MottZilla v0.5] [i].wsc</path>
+		<name>Final Fantasy IV</name>
+		<sortname />
+		<desc>This is the fourth entry in the Final Fantasy series. It was known as Final Fantasy II internationally, because the second and third games were never released outside of Japan. The military country of Baron is one of the strongest in the land, with a proud army and a majestic air force known as the Red Wings. But, while their armies are kind and loyal, the recent actions of the King are anything but. The young Captain of the Red Wings, Cecil, is ordered to steal a crystal from a village of innocent magicians, and when he questions the actions of his King, Cecil is immediately thrown out of the country and sent off to kill strange monsters.</desc>
+		<rating>0.7</rating>
+		<releasedate>20020328T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Final Fantasy IV (Japan) [T-En by MottZilla v0.5] [i].jpg</image>
+		<video>./snaps/Final Fantasy IV (Japan) [T-En by MottZilla v0.5] [i].mp4</video>
+	</game>
+	<game>
+		<path>./Spirit World Tower Warrior Sa-Ga (Japan) [T-En by Tower Reversed v1.2] [n].wsc</path>
+		<name>Makai Tōshi SaGa (The Final Fantasy Legend)</name>
+		<sortname />
+		<desc>This remake of SaGa features several changes compared to the original. The graphics have been updated to 16-bit level, with new sprites and artwork drawn by Toshiyuki Itahana. New animated sequences have been added to the game as well as an intro sequence. Other new features include the ability to see what a monster would change to if they eat a new meat ahead of time, a bestiary, and the ability to re-target enemies when a previous target is slain by another character. There's even an option to play a straight port of the original Game Boy version as well.</desc>
+		<rating>1</rating>
+		<releasedate>20020320T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Spirit World Tower Warrior Sa-Ga (Japan) [T-En by Tower Reversed v1.2] [n].jpg</image>
+		<video>./snaps/Spirit World Tower Warrior Sa-Ga (Japan) [T-En by Tower Reversed v1.2] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man Battle Network WS (Japan) [T-En by Boco &amp; Greiga Master &amp; Megarockexe v1.0] [n].wsc</path>
+		<name>Mega Man Battle Network WS</name>
+		<sortname />
+		<desc>Mega Man Battle Network WS is a spin-off loosely based on Mega Man Battle Network's anime adaption. The game attempts to blend traditional platforming with Battle Network's chip collection.</desc>
+		<rating>0.7</rating>
+		<releasedate>20030208T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Mega Man Battle Network WS (Japan) [T-En by Boco &amp; Greiga Master &amp; Megarockexe v1.0] [n].jpg</image>
+		<video>./snaps/Mega Man Battle Network WS (Japan) [T-En by Boco &amp; Greiga Master &amp; Megarockexe v1.0] [n].mp4</video>
+	</game>
+	<game>
+		<path>./D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).zip</path>
+		<name>D's Garāji 21 Kōbo Gēmu: Tane o Maku Tori (D's Garage 21 Open Call for Participants Game: Birds Sowing Seeds)</name>
+		<sortname />
+		<desc>The raven has made a friend. But sorrow be to this raven, for this fellow avian migrates, and will not return for seasons. Filled with sadness and regret the raven takes wing. As he soars through his lonely world his tears begin to fall... and water dying flowers. At last he knows what he must do until his friend returns, he will make new friends in the flowers. He will help them grow and spread their seeds. Each level in Tane wo Maku Tori contains four pillars bridged by a series of horizontal or vertical rows. These rows are different for each of the three spaces formed by the pillar. The rows may be moved up and down, one set at a time. At the foot of a column, up to three in harder areas, will be a nascent flower.</desc>
+		<releasedate>19991222T000000</releasedate>
+		<developer>Ludic</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).jpg</image>
+		<video>./snaps/D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Digimon 02 - D1 Tamers (Japan) [T-En by NikcDC v0.97] [n].wsc</path>
+		<name>Dejimon Adobenchā 02 Dī Wan Teimāzu (Digimon Adventure 02: D1 Tamers)</name>
+		<sortname />
+		<desc>This is a sequel to Digimon Adventure 02: Tag Tamers, set in the world of digital monsters based on the popular manga series. After having defeated the evil Millenniumon, our hero Ryou thought that would be his last travel to the Digiworld. However, the four sacred Digimons summon him once again, to participate in the D1 monster fighting tournament. But that is not all: it appears that Millenniumon is still alive, and is looking for revenge! Now Ryou has to win the tournament and defeat his archenemy once again. The gameplay is nearly identical to that of the previous game. You travel through top-down and isometric locations, fighting monsters with your own monster team, and then recruiting new monsters and assembling a collection.</desc>
+		<rating>0.5</rating>
+		<releasedate>20001209T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Digimon 02 - D1 Tamers (Japan) [T-En by NikcDC v0.97] [n].jpg</image>
+		<video>./snaps/Digimon 02 - D1 Tamers (Japan) [T-En by NikcDC v0.97] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Mr. Driller (Japan) [T-En by PmHacks v0.70] [i].wsc</path>
+		<name>Mr. Driller</name>
+		<sortname />
+		<desc>Mr Driller's world has been covered with mysterious blocks. Armed with only a mighty drill, you'll have to dig your way down to safety before his air supply runs out! Mr Driller is a real-time puzzle game that relies solely on quick-thinking and a bit of planning. Gameplay is a combination of Tetris and Boulder Dash: You have to drill down through multi-colored blocks to reach the bottom while avoiding the consequences of reckless drilling (blocks may fall on you and crush you).</desc>
+		<rating>0.9</rating>
+		<releasedate>20010405T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Puzzle</genre>
+		<image>./boxart/Mr. Driller (Japan) [T-En by PmHacks v0.70] [i].jpg</image>
+		<video>./snaps/Mr. Driller (Japan) [T-En by PmHacks v0.70] [i].mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy (Japan) [T-En by Kalas v0.91] [i].wsc</path>
+		<name>Final Fantasy</name>
+		<sortname />
+		<desc>Hironobu Sakaguchi's Final Fantasy. The first of one of the longest role-playing game series known to mankind. Final Fantasy is the game for the NES console that started it all. The world is veiled in darkness. Winds don't blow, the seas are stormy, and the earth rots. All people can hope for is that the ancient prophecy will be finally fulfilled. "When the world is veiled in darkness, four warriors will come" And indeed, they come - the four characters you have previously chosen. Their first quest is to free a princess from the evil Garland, and then the real journey begins. Final Fantasy is played with an adventuring party rather than with a single character.</desc>
+		<rating>0.55</rating>
+		<releasedate>20001209T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Final Fantasy (Japan) [T-En by Kalas v0.91] [i].jpg</image>
+		<video>./snaps/Final Fantasy (Japan) [T-En by Kalas v0.91] [i].mp4</video>
+	</game>
+	<game>
+		<path>./Dicing Knight. (Japan) [T-En by Aeon Genesis v1.00].wsc</path>
+		<name>Dicing Knight.</name>
+		<sortname />
+		<desc>Dicing Knight. follows the journey of a nameless knight fighting through a series of randomly generated dungeons. The game will start on the floor of a dungeon, your goal being to find the floors key to progress to the next floor. Eventually you will reach a dungeon boss, after you beat it you'll be allowed access to a new more difficult dungeon. Dungeons are timed by a “Food Gauge” which when depleted will force you to exit the dungeon.azq</desc>
+		<rating>0.5</rating>
+		<releasedate>20040531T000000</releasedate>
+		<developer>Platine Dispositif</developer>
+		<publisher>Qute</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Dicing Knight. (Japan) [T-En by Aeon Genesis v1.00].jpg</image>
+		<video>./snaps/Dicing Knight. (Japan) [T-En by Aeon Genesis v1.00].mp4</video>
+	</game>
+</gameList>

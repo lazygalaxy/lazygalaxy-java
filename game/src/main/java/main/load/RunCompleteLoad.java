@@ -16,7 +16,7 @@ public class RunCompleteLoad {
 
             A2_RunArcadeRickDangerousUltimateGameListLoad.main(newArgs);
             A2_RunOtherRickDangerousUltimateGameListLoad.main(newArgs);
-            A3_RunArcadeWolfanoz2kGameListLoad.main(newArgs);
+            //A3_RunArcadeWolfanoz2kGameListLoad.main(newArgs);
 
             A3_RunOtherCoinOpsRomLoad.main(newArgs);
             A4_RunArcadeCoinOpsRomLoad.main(newArgs);

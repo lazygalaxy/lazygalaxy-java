@@ -408,17 +408,16 @@
 	</game>
 	<game>
 		<path>./BurgerTime (USA, Europe).zip</path>
-		<name>BurgerTime</name>
+		<name>Burger Time</name>
+		<sortname />
 		<desc>You play as Chef Pepper and your goal is to make giant hamburgers while evil eggs, sausages and pickles chase you around the game area.</desc>
-		<image>./boxart/BurgerTime (USA, Europe).jpg</image>
-		<video>./snaps/BurgerTime (USA, Europe).mp4</video>
 		<rating>0.85</rating>
 		<releasedate>19840101T000000</releasedate>
 		<developer>Data East</developer>
 		<publisher>Coleco Industries, Inc.</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T085915</lastplayed>
+		<image>./boxart/BurgerTime (USA, Europe).jpg</image>
+		<video>./snaps/BurgerTime (USA, Europe).mp4</video>
 	</game>
 </gameList>

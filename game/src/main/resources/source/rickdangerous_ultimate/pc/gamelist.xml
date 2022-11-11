@@ -161,7 +161,7 @@
 	</game>
 	<game>
 		<path>./Disney's Duck Tales - The Quest for Gold (1990).zip</path>
-		<name>Disney's DuckTales: The Quest for Gold </name>
+		<name>Disney's DuckTales: The Quest for Gold</name>
 		<sortname />
 		<desc>Although not commonly regarded as a formidable software developer, Disney nevertheless scores big with this game, an entertaining mixture of platform and arcade, with a bit of strategy thrown in (you can buy/sell stocks, and choose where to hunt treasures).</desc>
 		<rating>0</rating>
@@ -215,7 +215,7 @@
 	</game>
 	<game>
 		<path>./Duke Nukem - Episode 2 - Mission - Moonbase (1991).zip</path>
-		<name>Duke Nukem: Episode 2 - Mission: Moonbasee</name>
+		<name>Duke Nukem: Episode 2: Mission Moonbase</name>
 		<sortname />
 		<desc>Set in the year 1997, your mission is to stop Dr. Proton, a madman bent on ruling the world with his army of Techbots. As the irrepressible hero Duke Nukem, you'll chase Dr. Proton deep into the Earth, then to his lunar space station, and eventually into the Earth's nuclear ravished future.</desc>
 		<rating>0.6</rating>
@@ -299,7 +299,7 @@
 	</game>
 	<game>
 		<path>./Secret Agent.zip</path>
-		<name>Secret Agent: Mission 1 - The Hunt for Red Rock Rover</name>
+		<name>Secret Agent: Mission 1: The Hunt for Red Rock Rover</name>
 		<sortname />
 		<desc>As Agent 006, you are the world's only hope: the terrorist organization known as the D.V.S. has captured the blueprints to a new, powerful weapon known as the ''Red Rock Rover''. Your mission is to infiltrate an island occupied by the D.V.S. and retrieve the first part of the blueprints.</desc>
 		<rating>0</rating>
@@ -313,7 +313,7 @@
 	</game>
 	<game>
 		<path>./Elder Scrolls, The - Arena (1994).zip</path>
-		<name>The Elder Scrolls: Arena</name>
+		<name>Elder Scrolls: Arena, The</name>
 		<sortname />
 		<desc>The Elder Scrolls: Arena is a first-person action role-playing game, in which you must rescue the Emperor Uriel Septim VII from his dimensional prison by recovering the eight pieces of the Staff of Chaos. The emperor's position has been usurped by impersonator Jagar Tharn whose slain apprentice rallies the player in his dreams to find the eight pieces of the staff and return the status quo.</desc>
 		<releasedate />
@@ -339,22 +339,8 @@
 		<video>./snaps/Descent II (1996).mp4</video>
 	</game>
 	<game>
-		<path>./Wolfenstein 3D (1992).zip</path>
-		<name>Wolfenstein 3D</name>
-		<sortname />
-		<desc>The first three episodes of the game focus on William "B.J." Blazkowicz's attempts to escape from Castle Wolfenstein and overthrow the Nazi regime. In the first episode, Escape from Castle Wolfenstein, B.J., an Allied spy, has been captured while trying to find the plans for Operation Eisenfaust, and was imprisoned in Castle Wolfenstein. Initially armed only with a knife and a Walther P38 (obtained by overpowering the guard in his cell), B.J. tries to escape the castle prison. Taking on SS guards, he eventually finds himself face to face with head prison guard Hans Grosse.</desc>
-		<rating>0.6</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>id Software</developer>
-		<publisher>Apogee Software</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./boxart/Wolfenstein 3D (1992).jpg</image>
-		<video>./snaps/Wolfenstein 3D (1992).mp4</video>
-	</game>
-	<game>
 		<path>./Need for Speed, The - Special Edition (1996).zip</path>
-		<name>The Need for Speed</name>
+		<name>Need for Speed, The</name>
 		<sortname />
 		<desc>Drive some of your favourite sports cars through wild and fast tracks, including the Dodge Viper, Lamborghini, Ferrari, Porshe, Corvette, Mazda RX7, Toyota Supra Turbo, and Acura NSX. Some of the tracks are open road, meaning you simply fly down a huge highway, with cops following in hot pursuit. One of the options in the game allows you to pick which time of the day to race in.</desc>
 		<rating>0.55</rating>
@@ -423,7 +409,7 @@
 	</game>
 	<game>
 		<path>./Duke Nukem - Episode 1 - Shrapnel City (1991).zip</path>
-		<name>Duke Nukem: Episode 1 - Shrapnel City </name>
+		<name>Duke Nukem: Episode 1: Shrapnel City</name>
 		<sortname />
 		<desc>Set in the year 1997, your mission is to stop Dr. Proton, a madman bent on ruling the world with his army of Techbots. As the irrepressible hero Duke Nukem, you'll chase Dr. Proton deep into the Earth, then to his lunar space station, and eventually into the Earth's nuclear ravished future.</desc>
 		<rating>0.6</rating>
@@ -465,7 +451,7 @@
 	</game>
 	<game>
 		<path>./Duke Nukem - Episode 3 - Trapped in the Future (1991).zip</path>
-		<name>Duke Nukem: Episode 3 - Trapped in the Future</name>
+		<name>Duke Nukem: Episode 3: Trapped in the Future</name>
 		<sortname />
 		<desc>Set in the year 1997, your mission is to stop Dr. Proton, a madman bent on ruling the world with his army of Techbots. As the irrepressible hero Duke Nukem, you'll chase Dr. Proton deep into the Earth, then to his lunar space station, and eventually into the Earth's nuclear ravished future.</desc>
 		<rating>0.6</rating>
@@ -479,7 +465,7 @@
 	</game>
 	<game>
 		<path>./Settlers II, The (Gold Edition) (1997).zip</path>
-		<name>The Settlers II: Veni, Vidi, Vici (Gold Edition)</name>
+		<name>Settlers II: Veni, Vidi, Vici (Gold Edition), The</name>
 		<sortname />
 		<desc>You start your settlement with only one main building. To build any other buildings, you first must find a source for stones and wood. So you start to build little roads where your men transport all the different goods along. There exist more than 30 different professions your men can have, and many different building types. Of course, there are other settlers in your area, too, so war is unavoidable. The graphics are now in SVGA, and the soundtrack is available as CD-Audio or MIDI.</desc>
 		<rating>0</rating>
@@ -536,7 +522,7 @@
 	<game>
 		<path>./Ultima Underworld - The Stygian Abyss (1992).zip</path>
 		<name>Ultima Underworld: The Stygian Abyss</name>
-		<sortname />
+		<sortname>Ultima X</sortname>
 		<desc>Ultima Underworld is set in Britannia, the fantasy world of the Ultima series. Specifically, the game takes place inside a large, underground dungeon called the Great Stygian Abyss. The dungeon's entrance lies on the Isle of the Avatar, an island ruled by Baron Almric. The Abyss first appeared in Ultima IV: Quest of the Avatar, in which it contains the player's final goal, the Codex of Ultimate Wisdom.</desc>
 		<rating>0</rating>
 		<releasedate>19700101T010000</releasedate>
@@ -605,7 +591,7 @@
 	</game>
 	<game>
 		<path>./Ultima I - The First Age of Darkness (1986).zip</path>
-		<name>Ultima I: The First Age Of Darkness</name>
+		<name>Ultima I: The First Age of Darkness</name>
 		<sortname />
 		<desc>Ultima revolves around a quest to find and destroy the Gem of Immortality, which is being used by the evil wizard Mondain to enslave the lands of Sosaria. With the gem in his possession, he cannot be killed, and his minions roam and terrorize the countryside. The player takes on the role of "The Stranger", an individual summoned from another world to end the rule of Mondain. The game follows the endeavors of the stranger in this task, which involves progressing through many aspects of game play, including dungeon crawling and space travel.</desc>
 		<releasedate />
@@ -653,20 +639,6 @@
 		<players>1</players>
 		<image>./boxart/Ark of Time (1997).jpg</image>
 		<video>./snaps/Ark of Time (1997).mp4</video>
-	</game>
-	<game>
-		<path>./Battle Chess Enhanced (1992).zip</path>
-		<name>Battle Chess: Enhanced</name>
-		<sortname />
-		<desc>This version of Battle Chess, while retaining the gameplay of the original release, features improved 256-color VGA graphics as well as new visual effects and animations. In addition, it has a symphonic soundtrack in redbook (CD audio) format.</desc>
-		<rating>0</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Interplay</developer>
-		<publisher>Interplay</publisher>
-		<genre>Strategy</genre>
-		<players>1-2</players>
-		<image>./boxart/Battle Chess Enhanced (1992).jpg</image>
-		<video>./snaps/Battle Chess Enhanced (1992).mp4</video>
 	</game>
 	<game>
 		<path>./Betrayal at Krondor (1993).zip</path>
@@ -736,7 +708,7 @@
 	</game>
 	<game>
 		<path>./Blood and Magic (1996).zip</path>
-		<name>Blood &amp; Magic</name>
+		<name>Advanced Dungeons &amp; Dragons: Blood &amp; Magic</name>
 		<sortname />
 		<desc>Blood &amp; Magic is a real-time strategy game focused on unit management rather than base construction. It uses the Advanced Dungeons &amp; Dragons license (and thus has AD&amp;D type units) and takes place in the Forgotten Realms AD&amp;D setting. There are five separate storyline scenarios of increasing difficulty with three missions per scenario, playable from the side of both factions each, for a total of 30 missions in the game. The game is tile-based with a 2D top-down perspective.</desc>
 		<rating>0</rating>
@@ -789,20 +761,6 @@
 		<players>1</players>
 		<image>./boxart/Prisoner of Ice (1995).jpg</image>
 		<video>./snaps/Prisoner of Ice (1995).mp4</video>
-	</game>
-	<game>
-		<path>./Challenge Of The Ancient Empires.zip</path>
-		<name>Challenge of the Ancient Empires!</name>
-		<sortname />
-		<desc>Challenge of the Ancient Empires!, also known as "Super Solvers: Ancient Empires!" is an educational computer game created by The Learning Company in 1990.</desc>
-		<rating>0</rating>
-		<releasedate>19900301T133458</releasedate>
-		<developer>The Learning Company</developer>
-		<publisher />
-		<genre>Puzzle</genre>
-		<players>1</players>
-		<image>./boxart/Challenge Of The Ancient Empires.jpg</image>
-		<video>./snaps/Challenge Of The Ancient Empires.mp4</video>
 	</game>
 	<game>
 		<path>./Colony 28 (1997).zip</path>
@@ -903,7 +861,7 @@
 	</game>
 	<game>
 		<path>./Dangerous Dave in the Haunted Mansion (1991).zip</path>
-		<name>Dangerous Dave in the Haunted Mansion</name>
+		<name>Dangerous Dave II: Dangerous Dave in the Haunted Mansion</name>
 		<sortname />
 		<desc>In this side-scrolling action game you run through a huge mansion with many different levels, battling all kinds of monsters and collecting items (mostly bonus points). Every so-and-so points you get an additional life, and every so-and-so levels you combat a boss. One of the things that make this game unique is that instead of just having a limited amount of ammunition, you have a shotgun and can shoot 8 bullets at any given time. However, you must wait in order for Dave to reload his gun. Another thing that sets the game apart is the ability to aim your gun in several angles (generally: up, down or straight ahead).</desc>
 		<releasedate />
@@ -1286,7 +1244,7 @@
 	</game>
 	<game>
 		<path>./One Must Fall 2097 (1994).zip</path>
-		<name>One Must Fall 2097</name>
+		<name>One Must Fall: 2097</name>
 		<sortname />
 		<desc>One Must Fall 2097 is a fighting game with a twist. Instead of the usual Street Fighter II trend of games, in this game you play one of 10 characters controlling one of 10 huge robots in a fighting match. According to the game, in the year 2097, the human race is controlled by one company known as W.A.R., which started as a small company providing the Earth government with construction robots. After a while W.A.R. grew further and further and eventually took over Earth Gov.In the year 2097, W.A.R. decided to colonize Ganymede, one of Jupiter's moons.</desc>
 		<rating>0</rating>
@@ -1366,19 +1324,6 @@
 		<video>./snaps/Raptor - Call of the Shadows (1994).mp4</video>
 	</game>
 	<game>
-		<path>./Redneck Rampage Rides Again (1998).zip</path>
-		<name>Redneck Rampage Rides Again</name>
-		<sortname />
-		<desc>This stand-alone sequel to Redneck Rampage finds Leonard and Bubba shooting their way back to Hickston after crash-landing the UFO at the end of the first game. Using the same engine and most of the same graphics as the original, RRRA adds vehicles, some new weapons (including a sling blade), new alien clones (a Dennis Hopper-ish biker and an evil cheerleader), and fourteen levels of ass-whuppin'.</desc>
-		<releasedate />
-		<developer>Xatrix</developer>
-		<publisher>Interplay</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./boxart/Redneck Rampage Rides Again (1998).jpg</image>
-		<video>./snaps/Redneck Rampage Rides Again (1998).mp4</video>
-	</game>
-	<game>
 		<path>./Little Big Adventure (1994).zip</path>
 		<name>Relentless: Twinsen's Adventure</name>
 		<sortname />
@@ -1434,7 +1379,7 @@
 	</game>
 	<game>
 		<path>./SimAnt - The Electronic Ant Colony (1991).zip</path>
-		<name>SimAnt: The Electronic Ant Colony</name>
+		<name>SimAnt</name>
 		<sortname />
 		<desc>SimAnt explores the detail of the lives of ants, as you take full control of an ant colony. Build up your colony to conquer the other colonies in the yard. Foes include spiders and humans - make their lives a misery by invading their homes. A Quick Game option focuses on battles with other groups of ants, and a full Tutorial mode is provided. Biological detail of real ants is provided, to help make the package more educational.</desc>
 		<releasedate>19910101T000000</releasedate>
@@ -1670,7 +1615,7 @@
 	</game>
 	<game>
 		<path>./Transport Tycoon Deluxe (1995).zip</path>
-		<name>Transport Tycoon</name>
+		<name>Transport Tycoon Deluxe</name>
 		<sortname />
 		<desc>In Transport Tycoon, you are in charge of a transport company starting in 1930 in the midst of The Great Depression, and your aim is to build up an empire of trains, ships, lorries, planes and helicopters, with technological evolution to be taken into account. You can play alone, or with a number of computer-controlled rivals. At the beginning of the game, you (and your rivals) have a large terrain at your disposal. The terrain includes hills, rivers, lakes, bridges, industrial facilities and a lot of small towns. It is up to you to decide how to start building your empire.</desc>
 		<rating>0</rating>
@@ -1684,7 +1629,7 @@
 	</game>
 	<game>
 		<path>./Ultima II - Revenge of the Enchantress (1983).zip</path>
-		<name>Ultima II: Revenge Of The Enchantress</name>
+		<name>Ultima II: Revenge of the Enchantress</name>
 		<sortname />
 		<desc>The plot of Ultima II revolves around the evil enchantress Minax, taking over the world and exacting revenge on the player for the player's defeat of Mondain in Ultima. The player travels through time to acquire the means to defeat Minax and restore the world to peace. Ultima II has a larger game world than Ultima I, and hosts advances in graphics and in gameplay.</desc>
 		<releasedate />
@@ -1697,7 +1642,7 @@
 	</game>
 	<game>
 		<path>./Warcraft II - Tides of Darkness (1995).zip</path>
-		<name>Warcraft II: Tides of Darkness</name>
+		<name>WarCraft II: Tides of Darkness</name>
 		<sortname />
 		<desc>Players must collect resources, and produce buildings and units in order to defeat an opponent in combat on the ground, in the air and in some maps at sea. The more advanced combat units are produced at the same buildings as the basic units but also need the assistance of other buildings, or must be produced at buildings that have prerequisite buildings.</desc>
 		<releasedate>19951209T000000</releasedate>
@@ -1724,7 +1669,7 @@
 	</game>
 	<game>
 		<path>./Wing Commander II Deluxe Edition (1992).zip</path>
-		<name>Wing Commander II: Deluxe Edition</name>
+		<name>Wing Commander II: Vengeance of the Kilrathi (Deluxe Edition)</name>
 		<sortname />
 		<desc>The year is 2655. The TCS Tiger's Claw, pride of the Terran Confederation's fleet, is on campaign in the Enigma sector, near the Kilrathi sector headquarters, the K'tithrak Mang starbase. In a sudden attack, it is lost with all hands, save a few pilots who had been transferred off, and one who was out on patrol: the player's character, whose name and call sign are specified by the player. Origin personnel, in these days, called him "Bluehair" after his most defining feature; in Wing Commander III: Heart of the Tiger, his name was changed to Christopher "Maverick" Blair. Blair's claims that some sort of "Kilrathi stealth fighter" destroyed the Claw are summarily dismissed, especially since his flight data recorder is damaged.</desc>
 		<releasedate />
@@ -2049,7 +1994,7 @@
 	</game>
 	<game>
 		<path>./Dark Sun - Shattered Lands (1993).zip</path>
-		<name>Dark Sun: Shattered Lands</name>
+		<name>Advanced Dungeons &amp; Dragons: Dark Sun: Shattered Lands</name>
 		<sortname />
 		<desc>Dark Sun: Shattered Lands takes place in the fictional land of Athas, a dying and hostile desert world. The locale is Draj, a city-state ruled by a powerful sorcerer-king. Nearby are several "free cities", surviving in the desert thanks to the hard work of their citizens.</desc>
 		<releasedate />
@@ -2073,9 +2018,9 @@
 	</game>
 	<game>
 		<path>./Asterix and Obelix (1996).zip</path>
-		<name>Astérix &amp; Obelix</name>
+		<name>Astérix &amp; Obélix</name>
 		<sortname />
-		<desc>Asterix &amp; Obelix is a platform game where one player can choose to control either Asterix or Obelix or two players can play simultaneously. The mission of the two Gauls is to acquire artifacts from all across Europe. The game, like the comics, is set around 50 BC. It includes some bonus levels like a rugby match and the Olympic Games in Greece. Codes are used to save the player's progress.</desc>
+		<desc>Astérix &amp; Obélix is a platform game where one player can choose to control either Asterix or Obelix or two players can play simultaneously. The mission of the two Gauls is to acquire artifacts from all across Europe. The game, like the comics, is set around 50 BC. It includes some bonus levels like a rugby match and the Olympic Games in Greece. Codes are used to save the player's progress.</desc>
 		<releasedate />
 		<developer>Infogrames</developer>
 		<publisher>Infogrames</publisher>
@@ -2209,7 +2154,7 @@
 	</game>
 	<game>
 		<path>./Gateway 2 - Homeworld (1993).zip</path>
-		<name>Gateway 2: Homeworld</name>
+		<name>Gateway II: Homeworld</name>
 		<sortname />
 		<desc>The sequel to the original Gateway game, this is also a text based (but graphically enhanced) text game, in which you will explore hazardous situations and new worlds, and ultimately find out the fate of the mystic Heechee race.</desc>
 		<releasedate>19930101T000000</releasedate>
@@ -2379,7 +2324,7 @@
 	</game>
 	<game>
 		<path>./Star Wars - Rebel Assault II - The Hidden Empire (1995).zip</path>
-		<name>Star Wars: Rebel Assault II - The Hidden Empire</name>
+		<name>Star Wars: Rebel Assault II: The Hidden Empire</name>
 		<sortname />
 		<desc>Following his successes for the Rebel Alliance in the previous game, the adventures of the starfighter pilot ''Rookie One'' continue. While out scouting in the Dreighton Nebula, Rookie One's patrols receive a distress call from a freighter. As this is an area where ships are known to disappear, any deviation from the flight path is dangerous. But what they find is an Imperial presence where there shouldn't be one and a new secret project to bring about the destruction of the Rebel Alliance.</desc>
 		<rating>0</rating>
@@ -2407,9 +2352,9 @@
 	</game>
 	<game>
 		<path>./Battle Isle 2 (1993).zip</path>
-		<name>Battle Isle 2200</name>
+		<name>Battle Isle 2: Titan's Legacy</name>
 		<sortname />
-		<desc>Battle Isle 2200 is the second title in Blue Byte's Battle Isle series. After a long space flight, the player arrives on the planet of Chromos and must save the planet's civilization from the Titan-net Empire. Titan-net, the computer overfiend of part one, and its allies have begun a devastating final campaign against all Drullian forces. The player commands the forces with the computer ''military operations console'', nicknamed MilOp.</desc>
+		<desc>Battle Isle 2: Titan's Legacy is the second title in Blue Byte's Battle Isle series. After a long space flight, the player arrives on the planet of Chromos and must save the planet's civilization from the Titan-net Empire. Titan-net, the computer overfiend of part one, and its allies have begun a devastating final campaign against all Drullian forces. The player commands the forces with the computer ''military operations console'', nicknamed MilOp.</desc>
 		<releasedate />
 		<developer>Blue Byte</developer>
 		<publisher>Accolade</publisher>
@@ -2499,9 +2444,9 @@
 	</game>
 	<game>
 		<path>./Sid Meier's Colonization (1994).zip</path>
-		<name>Sid Meier's Colonization</name>
+		<name>Colonization</name>
 		<sortname />
-		<desc>Sid Meier's Colonization is a strategy game which puts you in the role of Viceroy of the New World. You are sent by your King and country to establish colonies in the newly-discovered Americas that lie to the west. You face many of the same challenges that faced colonial organizers of the time-competition from other Old World powers, strange native cultures, the problems of establishing profitable trade programs, and the problems of organizing an army from a rag-tag band of colonists. The game begins with the European discovery of the Americas (1500) and continues until approximately the time of the American.</desc>
+		<desc>Colonization is a strategy game which puts you in the role of Viceroy of the New World. You are sent by your King and country to establish colonies in the newly-discovered Americas that lie to the west. You face many of the same challenges that faced colonial organizers of the time-competition from other Old World powers, strange native cultures, the problems of establishing profitable trade programs, and the problems of organizing an army from a rag-tag band of colonists. The game begins with the European discovery of the Americas (1500) and continues until approximately the time of the American.</desc>
 		<rating>0.85</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>MicroProse</developer>
@@ -2513,7 +2458,7 @@
 	</game>
 	<game>
 		<path>./Star Trek The Next Generation - A Final Unity (1995).zip</path>
-		<name>Star Trek: The Next Generation - A Final Unity</name>
+		<name>Star Trek: The Next Generation: A Final Unity</name>
 		<sortname />
 		<desc>You're Jean-Luc Picard (best known from ''The Next Generation'' episodes), captain of the Federation starship USS Enterprise-D, on a mission to encounter an ultimate threat to the known galaxy. The game starts with a Federation outpost detecting an unknown ship approaching Federation space; the Enterprise is sent to deal with this new situation. The mystery ship appears to be a small scout-ship from Garid that has lost power to its engines and as a result has sailed off of its intended course. Before you can blink however, a Romulan Warbird battleship from Garid uncloaks itself right between you and this new ship and this is only the beginning of the game's story.</desc>
 		<releasedate />
@@ -2605,7 +2550,7 @@
 	<game>
 		<path>./Ultima Underworld 2 - Labyrinth of Worlds (1993).zip</path>
 		<name>Ultima Underworld II: Labyrinth of Worlds</name>
-		<sortname />
+		<sortname>Ultima XI</sortname>
 		<desc>Ultima Underworld II: Labyrinth of Worlds takes place one year after the events of Ultima VII: The Black Gate. To celebrate the defeat of the Guardian, Lord British invites the Avatar and his companions to his castle. However, in the night of the feast the Guardian attacks again, encasing the castle in a giant gem of blackrock. Deep in the sewers of the castle, another blackrock gem is found, created as an aftereffect of the attack. This gem is a teleporter to other worlds controlled by the Guardian. Now you, the Avatar, must travel to these worlds in order to free the castle from the Guardian's spell.</desc>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Looking Glass Technologies, Inc.</developer>
@@ -2643,7 +2588,7 @@
 	</game>
 	<game>
 		<path>./World of Aden - Thunderscape (1995).zip</path>
-		<name>World Of Aden: Thunderscape</name>
+		<name>World of Aden: Thunderscape</name>
 		<sortname />
 		<desc>World of Aden: Thunderscape is a 3D dungeon-crawling role-playing game. The player creates a party of up to six characters, choosing among several races, including traditional medieval fantasy species such as elves and dwarves, but also some races unique to the game. The player also chooses the class and the initial combat-oriented skills of the characters. Combat is turn-based and takes place on the same screen as exploration. When characters gain enough experience to level up, the player can raise their parameters or have them learn new magic spells.</desc>
 		<releasedate />
@@ -2680,7 +2625,7 @@
 	</game>
 	<game>
 		<path>./Terminator, The - Future Shock (1995).zip</path>
-		<name>Terminator, The: Future Shock</name>
+		<name>Terminator: Future Shock, The</name>
 		<sortname />
 		<desc>The year is 2015, and machines, under the leadership of the super-computer Skynet, control the Earth. Deprived of their civilization, the surviving humans continue to resist the mechanical rulers. The protagonist escapes from the machines' extermination camp with the help of resistance soldiers. Eventually he meets the leader of the resistance, John Connor, and the young Kyle Reese, who send him on missions which are vital for humanity's survival.</desc>
 		<rating>0</rating>
@@ -2795,7 +2740,6 @@
 		<developer>id Software</developer>
 		<publisher>GT Interactive</publisher>
 		<genre>Action</genre>
-		<players>1</players>
 		<image>./boxart/DOOM II (1994).jpg</image>
 		<video>./snaps/DOOM II (1994).mp4</video>
 	</game>
@@ -2894,7 +2838,7 @@
 	<game>
 		<path>./ARSENAL Taste the Power (1998).zip</path>
 		<name>A·R·S·E·N·A·L: Taste the Power</name>
-		<sortname />
+		<sortname>Arsenal</sortname>
 		<desc>A·R·S·E·N·A·L: Taste the Power is a shareware real-time strategy game that is in many aspects similar to Command &amp; Conquer. Gameplay elements include base construction, resource gathering and large-scale combat with ground, naval and air units. The game also introduces several unique elements to the genre: for example, all vehicles consume fuel, and the players need to maintain a supply network of gasoline trucks to keep their forces operational. Units also gain experience in combat, and this places an emphasis on micromanagement, encouraging the player to protect and repair damaged units, rather than rely on waves of expendable forces.</desc>
 		<releasedate />
 		<developer>TACTICAL Soft Inc.</developer>
@@ -3004,19 +2948,6 @@
 		<genre>Strategy</genre>
 		<image>./boxart/Dominus (1994).jpg</image>
 		<video>./snaps/Dominus (1994).mp4</video>
-	</game>
-	<game>
-		<path>./1830 Railroads and Robber Barons (1995).zip</path>
-		<name>1830: Railroads and Robber Barons</name>
-		<sortname />
-		<desc>Based on Avalon Hill's board game of the same name, 1830 is a railroad empire building game that is along the same lines (although a different style of gameplay) as the much more famous Railroad Tycoon.</desc>
-		<releasedate />
-		<developer>SimTex, Inc.</developer>
-		<publisher>Avalon Hill</publisher>
-		<genre>Strategy</genre>
-		<players>1</players>
-		<image>./boxart/1830 Railroads and Robber Barons (1995).jpg</image>
-		<video>./snaps/1830 Railroads and Robber Barons (1995).mp4</video>
 	</game>
 	<game>
 		<path>./Corruption (1988).zip</path>
@@ -3255,7 +3186,7 @@
 	</game>
 	<game>
 		<path>./Defcon 5 (1995).zip</path>
-		<name>Defcon 5</name>
+		<name>Defcon 5: Peace Has a Price</name>
 		<sortname />
 		<desc>The player takes the role of a DOD operative who must use the BMD(Ballistic Missile Defense System) to protect the United States. This system is composed of ground-based, land-launched, and space-based system components. The goal is to destroy, defeat, confound, or destabilize incoming ballistic missiles.</desc>
 		<rating>0.7</rating>
@@ -3308,7 +3239,7 @@
 	<game>
 		<path>./FIFA Soccer 96 (1995).zip</path>
 		<name>FIFA Soccer 96</name>
-		<sortname />
+		<sortname>Fifa 96</sortname>
 		<desc>Aiming to be the first football simulation that is realistic in the true sense of the word, FIFA Soccer 96 was extremely popular at the time of release. It was hailed as the first really successful FIFA release, and opened the way for yearly revisions of the concept.</desc>
 		<releasedate />
 		<developer>Extended Play Productions</developer>
@@ -3346,7 +3277,7 @@
 	</game>
 	<game>
 		<path>./Pro Pinball - Timeshock! (V1.07).zip</path>
-		<name>Pro Pinball: Timeshock</name>
+		<name>Pro Pinball: Timeshock!</name>
 		<sortname />
 		<desc>Prepare yourself for total assault of a multi-layered adventure in vision and sound through four different time zones. Experience gleaming Silicon Graphics that test your capabilities to the limit. Pro Pinball- Timshock! Brings you full 3D pinball table on screen with a specially recorded soundtrack by Bruce Foxton and Jake Burns of Stiff Little Fingers. The table is so detailed you'll even think you can see your reflection in the careering ball and gleaming metal fittings. This is the most complex, rewarding, frustrating and entertaining experience ever.</desc>
 		<rating>0</rating>
@@ -3411,8 +3342,8 @@
 	</game>
 	<game>
 		<path>./the incredible machine 2.zip</path>
-		<name>The Incredible Machine 2</name>
-		<sortname />
+		<name>Incredible Machine 2, The</name>
+		<sortname>Incredible Machine 2</sortname>
 		<desc>This game involves puzzle solving, while creating wacky machines. Each level of the game contains a machine designed to do a specific task. The only problem is, there are parts missing, and it is your job to figure out where to put what in order to get the machine to work. The game features many wacky machine parts, including cats, super balls, lava lamps, flashlights, can openers, monkeys on treadmills, and many more wacky parts to get your machine working. The game also comes with an editor to let you design your own unique machines from scratch. These can either be for fun, or you can set it so that the person playing has to fill in the missing parts, just like in the campaign.</desc>
 		<rating>0</rating>
 		<releasedate>19700101T010000</releasedate>
@@ -3425,8 +3356,8 @@
 	</game>
 	<game>
 		<path>./Incredible Machine, The (1993).zip</path>
-		<name>The Incredible Machine</name>
-		<sortname />
+		<name>Incredible Machine, The</name>
+		<sortname>Incredible Machine 1</sortname>
 		<desc>The Incredible Machine is a series of video games that were originally designed and coded by Kevin Ryan and produced by Jeff Tunnell, the now-defunct Jeff Tunnell Productions, and published by Dynamix; the 1993 through 1995 versions had the same development team.</desc>
 		<rating>0</rating>
 		<releasedate>19931201T140631</releasedate>
@@ -3451,7 +3382,7 @@
 	</game>
 	<game>
 		<path>./Secret Agent Mission 2.zip</path>
-		<name>Secret Agent: Mission 2 - Kill Again Island</name>
+		<name>Secret Agent: Mission 2: Kill Again Island</name>
 		<sortname />
 		<desc>As Agent 006, you are the world's only hope: the terrorist organization known as the D.V.S. has captured the blueprints to a new, powerful weapon known as the ''Red Rock Rover''. Your mission is to infiltrate an island occupied by the D.V.S. and retrieve the first part of the blueprints.</desc>
 		<rating>0</rating>
@@ -3464,7 +3395,7 @@
 	</game>
 	<game>
 		<path>./Secret Agent Mission 3.zip</path>
-		<name>Secret Agent: Mission 3 - Dr. No Body</name>
+		<name>Secret Agent: Mission 3: Dr. No Body</name>
 		<sortname />
 		<desc>As Agent 006, you are the world's only hope: the terrorist organization known as the D.V.S. has captured the blueprints to a new, powerful weapon known as the ''Red Rock Rover''. Your mission is to infiltrate an island occupied by the D.V.S. and retrieve the first part of the blueprints.</desc>
 		<rating>0</rating>
@@ -3478,42 +3409,632 @@
 	<game>
 		<path>./Alien Carnage (1993).zip</path>
 		<name>Alien Carnage</name>
+		<sortname />
 		<desc>Alien Carnage (also known as Halloween Harry) is a follow-up to the 1985 game Halloween Harry, created for the Microbee System by John Passfield in 1985, but it has very little in common with the original game.</desc>
-		<image>./boxart/Alien Carnage (1993).jpg</image>
-		<video>./snaps/Alien Carnage (1993).mp4</video>
 		<rating>0.9</rating>
 		<releasedate>19931010T000000</releasedate>
 		<developer>Interactive Binary Illusions</developer>
 		<publisher>Apogee Software</publisher>
 		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220223T222343</lastplayed>
+		<image>./boxart/Alien Carnage (1993).jpg</image>
+		<video>./snaps/Alien Carnage (1993).mp4</video>
+	</game>
+	<game>
+		<path>./Championship Manager 97-98 (1997).zip</path>
+		<name>Championship Manager Season 97/98</name>
+		<sortname />
+		<desc>This was the final update to Championship Manager 2, and it was fully debugged and had the AI tidied up in several areas. The team and player data was updated for the 97/98 season, meaning that Michael Owen has emerged at Liverpool and Emmanuel Petit has joined Arsenal, for example. Nine different leagues are included, and up to 3 of these can be played at once on 16 Megabyte machines. As a result of this, more teams and players are included in the game system than ever, making for a more realistic player-signing challenge. A full data editor is included for the first time.</desc>
+		<releasedate />
+		<developer>Sports Interactive Limited</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Strategy</genre>
+		<image>./boxart/Championship Manager 97-98 (1997).jpg</image>
+		<video>./snaps/Championship Manager 97-98 (1997).mp4</video>
+	</game>
+	<game>
+		<path>./Challenge Of The Ancient Empires.zip</path>
+		<name>Challenge of the Ancient Empires!</name>
+		<sortname />
+		<desc>Challenge of the Ancient Empires!, also known as "Super Solvers: Ancient Empires!" is an educational computer game created by The Learning Company in 1990.</desc>
+		<rating>0</rating>
+		<releasedate>19900301T133458</releasedate>
+		<developer>The Learning Company</developer>
+		<publisher />
+		<genre>Puzzle</genre>
+		<image>./boxart/Challenge Of The Ancient Empires.jpg</image>
+		<video>./snaps/Challenge Of The Ancient Empires.mp4</video>
+	</game>
+	<game>
+		<path>./Disney's Aladdin (1994).zip</path>
+		<name>Disney's Aladdin</name>
+		<sortname />
+		<desc>As Aladdin, baffle the guards in the streets of Agrabah. Elude the tempting traps in the Cave of Wonders, and the dangers of the Sultan's Palace. Ride the magic carpet through breathtaking skies. Then challenge the evil Jafar to a duel of swords and magic!</desc>
+		<rating>0.9</rating>
+		<releasedate>19931111T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Virgin</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Disney's Aladdin (1994).jpg</image>
+		<video>./snaps/Disney's Aladdin (1994).mp4</video>
+	</game>
+	<game>
+		<path>./Frontier - Elite 2 (1993).zip</path>
+		<name>Elite II: Frontier</name>
+		<sortname />
+		<desc>Elite II: Frontier is, of course, the sequel to Elite and it continues in much the same way. You have a ship and limited funds, and nowhere to go but out into space. Trade, fight, hunt criminals, work for the various governments, anything goes in Frontier. There are few, if any, limits on what you can do or where you can go. And Frontier's universe (with approx. 100,000,000,000 planets and moons) is so big you'll never see the end of it.</desc>
+		<releasedate />
+		<developer>GameTek</developer>
+		<publisher>Konami</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Frontier - Elite 2 (1993).jpg</image>
+		<video>./snaps/Frontier - Elite 2 (1993).mp4</video>
+	</game>
+	<game>
+		<path>./Realms of Chaos (1995).zip</path>
+		<name>Realms of Chaos</name>
+		<sortname />
+		<desc>Realms of Chaos is one of the many action 3D Realms made back in the days they called themselves Apogee.Endrick, the warrior, and Elandra, the sorceress, have to travel through 26 levels, split into 3 'episodes' to find the source of what's corrupting the land of Mysteria. Endrick uses his sword fight enemies in close combat, and Elandra uses a supply of gems to blast them with fireballs from a distance.You can switch between characters at any time, but they both share their own health bars, and if one dies, you'll still need to restart the level.</desc>
+		<releasedate>19951101T000000</releasedate>
+		<developer>Apogee Software</developer>
+		<publisher>Apogee Software</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Realms of Chaos (1995).jpg</image>
+		<video>./snaps/Realms of Chaos (1995).mp4</video>
+	</game>
+	<game>
+		<path>./War Planets - Age of Chaos (1997).zip</path>
+		<name>War Planets: Age of Chaos</name>
+		<sortname />
+		<desc>Don Diego Vega has a secret identity - that of Zorro, a masked swordsman who has sworn to protect the innocents of California, at the time a Spanish colony. Among the powerful and corrupted men there is Don Cortez, who hopes to gain even more power by discovering an ancient treasure. Honoring his word, Zorro sets out to stop the Cortez, alone against nearly impossible odds.</desc>
+		<releasedate />
+		<developer>Trendmasters, Inc.</developer>
+		<publisher>Trendmasters, Inc.</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/War Planets - Age of Chaos (1997).jpg</image>
+		<video>./snaps/War Planets - Age of Chaos (1997).mp4</video>
 	</game>
 	<game>
 		<path>./Cannon Fodder (1993).zip</path>
 		<name>Cannon Fodder</name>
+		<sortname />
 		<desc>Guide a team of up to four soldiers through 72 levels of combat in this innovative top-down action/strategy hybrid, best thought of as Lemmings crossed with Commando crossed with Dune 2. The characters are controlled indirectly using the mouse, as you activate each soldier or group of them by highlighting them, click the left button to move them to a particular spot, and the right button for them to fire guns at an enemy. You can also pick up grenades, which can be used to destroy groups of enemies or buildings (by pressing both buttons at once).</desc>
-		<image>./boxart/Cannon Fodder (1993).jpg</image>
-		<video>./snaps/Cannon Fodder (1993).mp4</video>
 		<rating>0.8</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Sensible Software</developer>
 		<publisher>Virgin</publisher>
 		<genre>Strategy</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220223T222636</lastplayed>
+		<image>./boxart/Cannon Fodder (1993).jpg</image>
+		<video>./snaps/Cannon Fodder (1993).mp4</video>
 	</game>
 	<game>
-		<path>./Championship Manager 97-98 (1997).zip</path>
-		<name>Championship Manager Season 97/98</name>
-		<desc>This was the final update to Championship Manager 2, and it was fully debugged and had the AI tidied up in several areas. The team and player data was updated for the 97/98 season, meaning that Michael Owen has emerged at Liverpool and Emmanuel Petit has joined Arsenal, for example. Nine different leagues are included, and up to 3 of these can be played at once on 16 Megabyte machines. As a result of this, more teams and players are included in the game system than ever, making for a more realistic player-signing challenge. A full data editor is included for the first time.</desc>
-		<image>./boxart/Championship Manager 97-98 (1997).jpg</image>
-		<video>./snaps/Championship Manager 97-98 (1997).mp4</video>
-		<releasedate></releasedate>
-		<developer>Sports Interactive Limited</developer>
-		<publisher>Eidos Interactive</publisher>
+		<path>./CyClones (1994).zip</path>
+		<name>CyClones</name>
+		<sortname />
+		<desc>Legions of alien Cybernetic Clones (''CyClones'') have devastated the Earth. Humanity's only hope lies with Havoc, himself a cybernetic warrior that had been manipulated by the CyClones to do their evil bidding. Havoc must fight the CyClones without mercy, protecting the Earth and avenging his own past.CyClones is a first-person shooter in which the player controls Havoc, exploring maze-like environments and blasting hostile aliens with a variety of firearms. The game is notable for pioneering the use of mouse control in games of its genre, allowing the player to aim independently of movement and move the aiming cursor to any part of the screen.</desc>
+		<releasedate />
+		<developer>Raven Software</developer>
+		<publisher>Strategic Simulations</publisher>
+		<genre>Action</genre>
+		<image>./boxart/CyClones (1994).jpg</image>
+		<video>./snaps/CyClones (1994).mp4</video>
+	</game>
+	<game>
+		<path>./FIFA Soccer 97 (1996).zip</path>
+		<name>FIFA 97</name>
+		<sortname>Fifa 97</sortname>
+		<desc>This iteration of the FIFA lineage includes commentary from John Motson with summaries from Andy Gray, with the between-match sections covered by Des Lynam. All player moves are from David Ginola using the MotionBlending technology. Full interactive replays are included. You can play a league or cup tournament, and practice your skills before playing. The game can be tailored to action or simulation style, with fouls, injuries and offsides available to toggle on or off. This version also includes a 6 vs 6 indoor play mode, and various multiplayer options.</desc>
+		<releasedate />
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
+		<image>./boxart/FIFA Soccer 97 (1996).jpg</image>
+		<video>./snaps/FIFA Soccer 97 (1996).mp4</video>
+	</game>
+	<game>
+		<path>./Fuzzy's World of Miniature Space Golf (1995).zip</path>
+		<name>Fuzzy's World of Miniature Space Golf</name>
+		<sortname />
+		<desc>Do you want to play Space golf? It sounds really amazing. If your answer is yes, probably this game is your only option which has a miniature shape in "zany" scenarios.</desc>
+		<releasedate />
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Fuzzy's World of Miniature Space Golf (1995).jpg</image>
+		<video>./snaps/Fuzzy's World of Miniature Space Golf (1995).mp4</video>
+	</game>
+	<game>
+		<path>./Cosmo's Cosmic Adventure - Forbidden Planet (1992).zip</path>
+		<name>Cosmo's Cosmic Adventure: Forbidden Planet</name>
+		<sortname />
+		<desc>Cosmo’s Cosmic Adventure is a side-scrolling platform game developed and published by Apogee Software and released for DOS in 1992. The game has many references to another Apogee title, Duke Nukem (one of my favorites), throughout.</desc>
+		<releasedate />
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Cosmo's Cosmic Adventure - Forbidden Planet (1992).jpg</image>
+		<video>./snaps/Cosmo's Cosmic Adventure - Forbidden Planet (1992).mp4</video>
+	</game>
+	<game>
+		<path>./F Godmom (1991).zip</path>
+		<name>F. Godmom</name>
+		<sortname />
+		<desc>All the fairy godmothers are captured, and only you are left. You have to free them, by collecting all the tokens on a screen, grabbing the key and going to the exit, to the next challenge. You'll also have to survive the monsters, and for this you have only one weapon: a magic wand that can be used to transform objects (wall to ladder, ladder to wall, etc.)</desc>
+		<releasedate />
+		<developer>Soggybread Software</developer>
+		<publisher>Soggybread Software</publisher>
 		<genre>Strategy</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220223T222737</lastplayed>
+		<players>1</players>
+		<image>./boxart/F Godmom (1991).jpg</image>
+		<video>./snaps/F Godmom (1991).mp4</video>
+	</game>
+	<game>
+		<path>./Once Upon a Forest (1995).zip</path>
+		<name>Once Upon a Forest</name>
+		<sortname />
+		<desc>Lots of games are made from movies and also movies made from games, neither often turn out very well in the translation though. Once upon a forest was first made as a movie but I never saw it so I can't really judge it. The game is about a number of forest creatures who are called the furlings, one day they go into the forest and the youngest of them eats a poisoned mushroom. There is a cure but unfortunately the herbs are far away and it's a long and dangerous road. The three furlings decide to go and find the herbs to save their friend and this is where your adventure starts.</desc>
+		<releasedate />
+		<developer>Sanctuary Woods</developer>
+		<publisher>Sanctuary Woods</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Once Upon a Forest (1995).jpg</image>
+		<video>./snaps/Once Upon a Forest (1995).mp4</video>
+	</game>
+	<game>
+		<path>./Chex Quest 2 (1996).zip</path>
+		<name>Chex Quest 2</name>
+		<sortname />
+		<desc>Chex Quest 2 was made in 1997, a year after Chex Quest. You could only find this on chexquest.com when it was first released. It is not there anymore, but you can find it on many Chex Quest fan sites. The basic gameplay is the same as the first Chex Quest game. It is an add-on to the original, as the first Chex Quest is required to play it.</desc>
+		<rating>0.75</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Digital Café</developer>
+		<publisher>Ralston Foods, Inc</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Chex Quest 2 (1996).jpg</image>
+		<video>./snaps/Chex Quest 2 (1996).mp4</video>
+	</game>
+	<game>
+		<path>./Chex Quest 3 (1996).zip</path>
+		<name>Chex Quest 3</name>
+		<sortname />
+		<desc>Chex Quest 3 is the newest edition to Chex Quest, created by original Digital Café team member Charles Jacobi. Only one map was planned originally, but Charles got more into making his map, and he announced in June 2008 that he was creating a full sequel, with much cheering by fans. It also includes improved versions of Chex Quest and Chex Quest 2.</desc>
+		<rating>0.75</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Digital Café</developer>
+		<publisher>Ralston Foods, Inc</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Chex Quest 3 (1996).jpg</image>
+		<video>./snaps/Chex Quest 3 (1996).mp4</video>
+	</game>
+	<game>
+		<path>./Dig It! (1996).zip</path>
+		<name>Dig It!</name>
+		<sortname />
+		<desc>Dig It! is a platform game. In it, you take the role of Dug Kewl, who returns home one day to find that his wife has been taken by the Supreme Spurkasaur. Using his trusty drill and gun, Dug must travel through four worlds rescue his beloved Dugette before it is too late.Each world in the game is made up of levels. In each level, Dug must find the place marked with an X and dig down to reach the next level. On the way he will encounter dragons, giant snails, armoured hedgehogs and all kinds of monsters to kill as well as plenty of treasure to collect. Dug can also dig in certain unmarked places, which will transport him to secret areas with plenty of treasure.</desc>
+		<releasedate />
+		<developer>Pixel Painters Corporation</developer>
+		<publisher>Pixel Painters Corporation</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Dig It! (1996).jpg</image>
+		<video>./snaps/Dig It! (1996).mp4</video>
+	</game>
+	<game>
+		<path>./Lords of Midnight (1995).zip</path>
+		<name>Lords of Midnight</name>
+		<sortname />
+		<desc>Lords of Midnight - also known as Lords of Midnight III: The Citadel - is the third game in the Lords of Midnight series, and a direct sequel to Doomdark's Revenge. The story begins with Luxor the Moonprince (an old man by now) trying to obtain the legendary Eye of the Moon. However, during his quest he is captured by Boroth Wolfheart and imprisoned. His son Morkin must rescue him and find a way to defeat the forces of evil.</desc>
+		<releasedate />
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Lords of Midnight (1995).jpg</image>
+		<video>./snaps/Lords of Midnight (1995).mp4</video>
+	</game>
+	<game>
+		<path>./Seal Team (1993).zip</path>
+		<name>Seal Team</name>
+		<sortname />
+		<desc>Seal Team simulates American operations in the Vietnam war. Missions include Patrol (kill enemies), Ambush (kill enemies), Demolition (building or well), Rescue (friendlies), Recover (certain object), Snatch (capture enemy leader), and Observe (call in the fire support teams). The player controls a single character giving orders to the others, with his statistics improving as the game progresses. True to the danger of Vietnam, you can run into traps like tripwire, panji stake pits, and more. As point man, you'll need to ''mark'' those so the follow-up don't run into the trap. Seal Team is one of the few games in which you get to see the ''riverine'' attack boats, including the Swift and PBR's.</desc>
+		<releasedate />
+		<developer>Andre Gagnon</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Simulation</genre>
+		<image>./boxart/Seal Team (1993).jpg</image>
+		<video>./snaps/Seal Team (1993).mp4</video>
+	</game>
+	<game>
+		<path>./Starlord (1993).zip</path>
+		<name>Starlord</name>
+		<sortname />
+		<desc>Starlord is a game of exploration and conquest from Mike Singleton, the author of the similarly-focused Midwinter and The Lords of Midnight. As the title implies, Starlord is set in a science-fiction world, as opposed to the fantasy universes of those previous games. Your family are Starlords of a single planet, but seek dominance of a vast space consisting of 1000 individually-ruled planets. If you are to come out on top you will have to manage resources across each of your starbases, using revenue to ensure enough fuel, food and minerals are available. Trade with other leaders and form tactical agreements. To actually take over planets, you will have to lead your ships into space combat, which is played out in multiple-view 3D.</desc>
+		<releasedate />
+		<developer>Maelstrom Games</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Strategy</genre>
+		<image>./boxart/Starlord (1993).jpg</image>
+		<video>./snaps/Starlord (1993).mp4</video>
+	</game>
+	<game>
+		<path>./Scorched Earth (1991).zip</path>
+		<name>Scorched Earth</name>
+		<sortname />
+		<desc>It's all-out war in Scorched Earth, a simple, yet exciting artillery combat game! You and up to nine friends can duke it out on hills and in valleys as you nuke each other into submission in this turn-based tank battle. At the start of each round, each player purchases their weaponry, and if they choose, shields and parachutes for defense and safety from long drops. Then it's off to battle! Aim your cannon, taking note of trajectory and wind, and fire off your weapons in attempt to take out the opposition. Most of the options are very intuitive, and you can begin playing with only a little bit of information. The variety of weapons is the real highlight of Scorched Earth.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Freeware</developer>
+		<publisher>Freeware</publisher>
+		<genre>Strategy</genre>
+		<players>1-10</players>
+		<image>./boxart/Scorched Earth (1991).jpg</image>
+		<video>./snaps/Scorched Earth (1991).mp4</video>
+	</game>
+	<game>
+		<path>./Sid Meier's Civilization (1991).zip</path>
+		<name>Civilization</name>
+		<sortname />
+		<desc>Civilization is a turn-based single- or multiplayer strategy game. The player takes on the role of the ruler of a civilization, starting with only one settler unit and one warrior, and attempts to build an empire in competition with one to eleven other civilizations. The game requires a fair amount of micromanagement (although less than any of the simulation games). Along with the larger tasks of exploration, warfare and diplomacy, the player has to make decisions about where to build new cities, which improvements or units to build in each city, which advances in knowledge should be sought (and at what rate), and how to transform the land surrounding the cities for maximum benefit.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>MicroProse</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Sid Meier's Civilization (1991).jpg</image>
+		<video>./snaps/Sid Meier's Civilization (1991).mp4</video>
+	</game>
+	<game>
+		<path>./Sid Meier's Railroad Tycoon Deluxe (1993).zip</path>
+		<name>Railroad Tycoon Deluxe</name>
+		<sortname />
+		<desc>The deluxe version of Railroad Tycoon adds VGA graphics and new continents South America and Africa, and 11 new trains.It also adds new historical periods: two more for the Eastern and Western United States, and one more for Europe.It takes into account drastically falling stock prices to improve the depth of the economic model.Train Bandits were included in the North American scenarios, which attempt to prey on mail cargoes</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>MPS Labs</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Sid Meier's Railroad Tycoon Deluxe (1993).jpg</image>
+		<video>./snaps/Sid Meier's Railroad Tycoon Deluxe (1993).mp4</video>
+	</game>
+	<game>
+		<path>./Starflight (1986).zip</path>
+		<name>Starflight</name>
+		<sortname />
+		<desc />
+		<releasedate />
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Starflight (1986).jpg</image>
+		<video>./snaps/Starflight (1986).mp4</video>
+	</game>
+	<game>
+		<path>./Starflight 2 - Trade Routes of the Cloud Nebula (1989).zip</path>
+		<name>Starflight 2: Trade Routes of the Cloud Nebula</name>
+		<sortname />
+		<desc>L'ultime génération dans l'exploration spatiale. Les Spemin, ces "Blobs" du cosmos, sont devenus la race la plus redoutée de la galaxie. Vous et votre équipe devez découvrir pourquoi. Suivez donc les routes commerciales interstellaires vers de nouveaux mondes, de nouvelles espèces et de nouvelles technologies dans une quête pour découvrir les mystères enveloppés dans le passé. -Plus de 500 planètes. 30 races extraterrestres. -Vaisseau puissant avec de nouvelles armes et technologies: modules de saut dans l'hyper-espace, scanner système, "Pods Blasto", sondes psychiques et plus encore.... -Aucune expérience dans Starflight 1 nécessaire. -Totale liberté de jeu! Scénario ouvert et intrigues secondaires.</desc>
+		<releasedate />
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Starflight 2 - Trade Routes of the Cloud Nebula (1989).jpg</image>
+		<video>./snaps/Starflight 2 - Trade Routes of the Cloud Nebula (1989).mp4</video>
+	</game>
+	<game>
+		<path>./Ultima III - Exodus (1983).zip</path>
+		<name>Ultima III: Exodus</name>
+		<sortname />
+		<desc>After the defeat of the evil wizard Mondain and his mistress Minax in the previous two Ultimas, peace has returned to the land of Sorsaria. Times passes and eventually geological disruptions and a resurgence of the monster populace occur, and it is soon learned that Mondain and Minax had conceived a child named Exodus before their death. Now that child has become an adult with the power to avenge the death of his parents. Obviously, it falls upon the hero from Earth to find and stop him. The third title in the Ultima series was the first to feature a party of adventurers instead of a single player character.</desc>
+		<releasedate />
+		<developer>Origin Systems</developer>
+		<publisher>Origin Systems</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Ultima III - Exodus (1983).jpg</image>
+		<video>./snaps/Ultima III - Exodus (1983).mp4</video>
+	</game>
+	<game>
+		<path>./Ultima IV - Quest of the Avatar (1985).zip</path>
+		<name>Ultima IV: Quest of the Avatar</name>
+		<sortname />
+		<desc>The fourth game in the Ultima series features an improved game engine, with color graphics and enhanced character interaction: the player can have conversations with non-playable characters by typing names of various topics. However, the main difference between Ultima IV and its predecessors in the series (as well as other role-playing games) lies in the game's objectives and the ways to fulfill them. Instead of building up a character by any means possible in order to face a villain in the end of the game, in Ultima IV the player is trying to become the Avatar, a role model for people. This means upholding the Eight Virtues, basically trying to become a better person.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Origin Systems</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Ultima IV - Quest of the Avatar (1985).jpg</image>
+		<video>./snaps/Ultima IV - Quest of the Avatar (1985).mp4</video>
+	</game>
+	<game>
+		<path>./Wing Commander (1990).zip</path>
+		<name>Wing Commander</name>
+		<sortname />
+		<desc>The Confederation have been at war with the Kilrathi for the past 20 years, and you're just now joining the Vega campaign. You're a 2nd Lieutenant just out of the Academy, with some good work under your belt. You're posted to Tiger's Claw, the flagship of the Confederation Fleet. Will you help the Confederation to victory, or go down in infamy? Wing Commander is a space combat simulator interspersed with shipboard dialogs. Onboard the ship, you can save/load game, visit the bar to get the latest gossip, or go on to the next mission briefing, and the 3D space combat part. The 3D space combat has you sitting in the cockpit, where you control the craft like roll, turn, up/down, afterburner, as well as fire guns and launch missiles.</desc>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Origin Systems</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Wing Commander (1990).jpg</image>
+		<video>./snaps/Wing Commander (1990).mp4</video>
+	</game>
+	<game>
+		<path>./Action Soccer (1995).zip</path>
+		<name>Action Soccer</name>
+		<sortname />
+		<desc>Action soccer is a quick and uncomplicated soccer game with two different graphic styles (2D overview and 3D isometric). The 16 teams have 6 skills like speed, strength, shotpower etc.. There are no things like offside, fatigue or tactic. You can play a friendly game, the UBI-Cup, a championship or a tournament. In few options you can change the weather (sun, night, rain, snow) or little tactic (offense, defense, normal). Worth mentioning is also the funny audio-commentary from Jonathan Pearce and the editor.</desc>
+		<releasedate />
+		<developer>Ludi Media</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Simulation</genre>
+		<image>./boxart/Action Soccer (1995).jpg</image>
+		<video>./snaps/Action Soccer (1995).mp4</video>
+	</game>
+	<game>
+		<path>./Softporn Adventure (1991).zip</path>
+		<name>Softporn Adventure</name>
+		<sortname />
+		<desc>Softporn Adventure is a comedic, adult-oriented adventure game, originally written by Chuck Benton for Apple II and became the inspiration for the animated Leisure Suit Larry series. Players must type the verb and the noun to do different actions and finally break virginity of protagonist. The player's name is not yet Larry, but the plot of the game is very similar to Leisure Suit Larry in the Land of the Lounge Lizards. The player has to collect items to win over women in creative ways.</desc>
+		<releasedate />
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/Softporn Adventure (1991).jpg</image>
+		<video>./snaps/Softporn Adventure (1991).mp4</video>
+	</game>
+	<game>
+		<path>./Dungeon Master II - The Legend of Skullkeep (1994).zip</path>
+		<name>Dungeon Master II: The Legend of Skullkeep</name>
+		<sortname />
+		<desc>Dungeon Master II: The Legend of Skullkeep is a role-playing game in which you play Thoram Zed, who must enter Skullkeep Castle to kill the infamous Dragoth. Access to the castle requiring the four keys of destiny, the player must first worry about finding these before starting his quest. To do this, gather a team of four fighters and carry out a number of missions.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>FTL</developer>
+		<publisher>Interplay</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Dungeon Master II - The Legend of Skullkeep (1994).jpg</image>
+		<video>./snaps/Dungeon Master II - The Legend of Skullkeep (1994).mp4</video>
+	</game>
+	<game>
+		<path>./FX Fighter (1995).zip</path>
+		<name>FX Fighter</name>
+		<sortname />
+		<desc>FX Fighter is a 3D fighting game similar to Virtua Fighter by SEGA. You choose one of the eight comic book style characters to become the greatest fighter in the universe.Each character has its own special / hidden moves as well as a planet of their own housing the gruesome challenges with 3rd-person flying camera perspectives...</desc>
+		<releasedate>19950624T000000</releasedate>
+		<developer>Argonaut Software</developer>
+		<publisher>GTE Entertainment</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/FX Fighter (1995).jpg</image>
+		<video>./snaps/FX Fighter (1995).mp4</video>
+	</game>
+	<game>
+		<path>./Gender Wars (1996).zip</path>
+		<name>Gender Wars</name>
+		<sortname />
+		<desc>After eons of fighting between the genders, men and women have broken into separate factions, each using genetic engineering to create new followers, and waging terrible war upon each other. Upon selecting the side you wish to play (depicted as either clueless blondes who can't drive, or beer-swigging lazy oafs), you select a team of 4 for your missions, arm them up with guns and other assorted weaponry, and wreak havoc on the 'enemy' in this isometric Syndicate-like game. Progress through the levels to the final conflict, collecting tanks and other assorted 'powerups' along the way, and watching the humourous cutscenes as you go.</desc>
+		<releasedate />
+		<developer>SCi Games</developer>
+		<publisher>GT Interactive</publisher>
+		<genre>Strategy</genre>
+		<image>./boxart/Gender Wars (1996).jpg</image>
+		<video>./snaps/Gender Wars (1996).mp4</video>
+	</game>
+	<game>
+		<path>./Heroes of Might and Magic (1995).zip</path>
+		<name>Heroes of Might and Magic</name>
+		<sortname />
+		<desc>Heroes of Might and Magic is a turn-based strategy game in which the player takes on the role of one of four different heroes: the warlock, sorceress, barbarian, or knight. As the hero the player must build up his or her castle by adding different buildings to earn different units to strengthen the hero's army with. Units include dragons, cyclopes, phoenixes, paladins, and many more fantasy creatures. Bulidings and units cost money and resources. Buildings can also be upgraded to unlock new unit types. Another aspect of the game is exploring the world and discovering treasures, spells, mines to gather resources, nomad camps, magic lamps, ultimate artifacts, and more.</desc>
+		<rating>0.85</rating>
+		<releasedate>19950925T000000</releasedate>
+		<developer>New World Computing's</developer>
+		<publisher>New World Computing's</publisher>
+		<genre>Strategy</genre>
+		<players>1-4</players>
+		<image>./boxart/Heroes of Might and Magic (1995).jpg</image>
+		<video>./snaps/Heroes of Might and Magic (1995).mp4</video>
+	</game>
+	<game>
+		<path>./Heroes of Might and Magic II (Deluxe Edition) (1998).zip</path>
+		<name>Heroes of Might and Magic II: The Succession Wars</name>
+		<sortname />
+		<desc>Heroes of Might and Magic II is a fantasy role-playing game which takes place in the land of Enroth, a place of magic. There are a multitude of creature types, from griffins to rocs, golems to pikemen, unicorns to hydras, and four different dragons. Each castle type has six different creatures, from the weak to the strong. There are six castle types, each corresponding to a hero class: Knight, Sorceress, Wizard (Good side), Barbarian, Necromancer and Warlock (Evil side). There are also six different types of neutral creatures you can recruit in special structures scattered about the maps. Compared to the first game, this sequel has larger and more interactive combat screens.</desc>
+		<rating>0.8</rating>
+		<releasedate>19961001T000000</releasedate>
+		<developer>New World Computing's</developer>
+		<publisher>3DO</publisher>
+		<genre>Strategy</genre>
+		<players>1-6</players>
+		<image>./boxart/Heroes of Might and Magic II (Deluxe Edition) (1998).jpg</image>
+		<video>./snaps/Heroes of Might and Magic II (Deluxe Edition) (1998).mp4</video>
+	</game>
+	<game>
+		<path>./Metaltech Earthsiege (1994).zip</path>
+		<name>MetalTech EarthSiege</name>
+		<sortname />
+		<desc>Command heavily-armed HERCs against relentless automated Cybrids (Cyborg Hybrids; intelligent creatures designed by mankind, who rebelled against us) in this MechWarrior-ish first-person simulation. Earthsiege is not a product of FASA's BattleTech universe (as the MechWarrior games are), though the resemblances are too close for legal comfort. You control your HERC in 45 missions on varied terrain ranging from slaughter to escort to protection. Note that the game should ideally be controlled by more than just the keyboard for best play value.Full Motion Video clips from your commander detail your missions while keeping you in touch with the bigger picture as the war develops.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Dynamix</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Metaltech Earthsiege (1994).jpg</image>
+		<video>./snaps/Metaltech Earthsiege (1994).mp4</video>
+	</game>
+	<game>
+		<path>./NASCAR Racing (1994).zip</path>
+		<name>NASCAR Racing</name>
+		<sortname />
+		<desc>In Papyrus' third racing game, the focus is moved from open-wheeled cars (IndyCar Racing) to closed-cockpit Nascar stock cars. 640x480 is the highest resolution on offer, on the CD-ROM version. Nascar Racing is a detailed simulation with realistic car models, accurate controls and room for a distinct racing style. Nine tracks are featured, the Watkins Glen road course alongside oval racing. You have full control over the car's set up and paint job. To reach a wide audience, various driving aids are available, such as auto-shifting and auto-braking. Races can be fine-tuned with the amount of laps. One of the notable features is drafting, by which you can position your car just inches off the rear of competitors in front of you.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Papyrus Design Group, Inc.</developer>
+		<publisher>Virgin</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/NASCAR Racing (1994).jpg</image>
+		<video>./snaps/NASCAR Racing (1994).mp4</video>
+	</game>
+	<game>
+		<path>./Pool of Radiance (1988).zip</path>
+		<name>Advanced Dungeons &amp; Dragons: Pool of Radiance</name>
+		<sortname />
+		<desc>You and and your party first help the city of Phlan defeat the evils that threaten it, then search for the legendary Pool of Radiance. The first in a series of successful ''gold box'' AD&amp;D games for SSI, you create your party and maneuver it through 1st-perspective dungeons and overhead-view turn-based sequences.</desc>
+		<releasedate />
+		<developer>Strategic Simulations</developer>
+		<publisher>Strategic Simulations</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Pool of Radiance (1988).jpg</image>
+		<video>./snaps/Pool of Radiance (1988).mp4</video>
+	</game>
+	<game>
+		<path>./Populous (1989).zip</path>
+		<name>Populous</name>
+		<sortname />
+		<desc>You play a god, gaming against other gods in a celestial game of conquest. To win, you must help your chosen people take over the world and wipe out the vermin who worship that other god. Each god starts out with a single human, dumped into the middle of the wilderness. Sometimes there is inhabitable land in sight, sometimes not. To get win, you must change the landscape, creating flat land for your followers to build on. The more followers you have you have, the more powerful you will be, so take care of them. Build as fast as you can, because the other god is doing the same. When you have enough followers, you can make the leader of your people into a hero.</desc>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Bullfrog</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Populous (1989).jpg</image>
+		<video>./snaps/Populous (1989).mp4</video>
+	</game>
+	<game>
+		<path>./PowerMonger (1992).zip</path>
+		<name>PowerMonger</name>
+		<sortname />
+		<desc>Powermonger takes the basic design and concepts of Bullfrog's previous game Populous, and places it in a war context. The game cast the player as a dispossessed warlord plundering his way through 195 territories on the way to world conquest. Several other leaders have the same goal. The gameworld is now made up of polygons, so the view can be rotated and moved with greater freedom than Populous. Trade, diplomacy, inventions, and scorched earth invasions all play a key role in how the player progressed through the game. Two-player games via modem links are available on computer versions.</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bullfrog</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/PowerMonger (1992).jpg</image>
+		<video>./snaps/PowerMonger (1992).mp4</video>
+	</game>
+	<game>
+		<path>./Secret of the Silver Blades (1990).zip</path>
+		<name>Advanced Dungeons &amp; Dragons: Secret of the Silver Blades</name>
+		<sortname />
+		<desc>The heroes from Pool of Radiance and Curse of the Azure Bonds return once again. This time, they arrive naked via a magical well inside a frozen town wishing for heroes to help them. The party once again attempts to save a town under siege (once re-equipped) and struggles to learn the secret of the Silver Blades The gameplay is quite similar to that of the previous Gold Box games. Following the AD&amp;D rules of role-playing, the player creates a party of characters (up to the maximum of six). Exploration takes place in pseudo-3D environments, from first-person view. Battles (random as well as pre-set) take the player-controlled and enemy party to a top-down battle screen.</desc>
+		<releasedate />
+		<developer>Strategic Simulations</developer>
+		<publisher>Strategic Simulations</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Secret of the Silver Blades (1990).jpg</image>
+		<video>./snaps/Secret of the Silver Blades (1990).mp4</video>
+	</game>
+	<game>
+		<path>./Assault Trooper (1997).zip</path>
+		<name>Assault Trooper</name>
+		<sortname />
+		<desc>Assault Trooper is an isometric shooter game with tactical and stealth elements. The player controls a commando (no details are given on the government or organisation he belongs to) on clandestine solo assignments in various hot spots of the world. Missions include rescue, document retrieval, destruction of military targets, sabotage and assassinations. The ten available regions have five missions each that are gradually unlocked as more assignments are completed.</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Juha Kauppinen</developer>
+		<publisher>Spectrum Pacific Publishing</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Assault Trooper (1997).jpg</image>
+		<video>./snaps/Assault Trooper (1997).mp4</video>
+	</game>
+	<game>
+		<path>./Ultima V - Warriors of Destiny (1988).zip</path>
+		<name>Ultima V: Warriors of Destiny</name>
+		<sortname />
+		<desc>The Avatar, the embodiment of the Eight Virtues and the hero of Britannia, is called back to deal with a grave threat. Lord British, the country's benevolent monarch, has disappeared, and a man named Blackthorn has usurped his throne. The tyrant rules the land by enforcing the virtues upon the will of the people, corrupting their meaning in the process. His fundamentalist visions led him to create a police state, where failure to adhere to the virtues is punishable by death. Behind Blackthorn are the three Shadowlords, anti-thesis to the three principles of Truth, Love, and Courage.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Ultima V - Warriors of Destiny (1988).jpg</image>
+		<video>./snaps/Ultima V - Warriors of Destiny (1988).mp4</video>
+	</game>
+	<game>
+		<path>./Ultima VI - The False Prophet (1990).zip</path>
+		<name>Ultima VI: The False Prophet</name>
+		<sortname />
+		<desc>This is the first Ultima game to be created first for the PC and then converted later to other home computer systems rather than the other way around. Because of this, the game is larger and richer in its graphical environment and interactivity. In this conclusion to the Second Trilogy, you, the Avatar, are summoned back to save Britannia from the Gargoyles, a strange race of beings who have taken control of the Eight Shrines of Virtue. Conceived to be evil by the people of Britannia, the Gargoyles are discovered to be struggling for survival against ancient forces you had not imagined. You must help the Gargoyle race by learning their culture, language and vocabulary.</desc>
+		<rating>0.85</rating>
+		<releasedate>19900601T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Origin Systems</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Ultima VI - The False Prophet (1990).jpg</image>
+		<video>./snaps/Ultima VI - The False Prophet (1990).mp4</video>
+	</game>
+	<game>
+		<path>./Ultima VII Part 1 - The Black Gate + Forge of Virtue (1992).zip</path>
+		<name>Ultima VII: Part One: The Black Gate &amp; Forge of Virtue</name>
+		<sortname />
+		<desc>Even today Ultima VII is still considered one of the greatest roleplaying games ever made. The game begins when you, the Avatar, are summoned after receiving a taunting message from a being known as the Guardian. Upon arriving, the Avatar is confronted by the scene of a brutal murder. As you begin to investigate, it becomes clear that all is not as it should be in Britannia. Magic is dying, mages are affected by a strange madness, and despite your previous adventures people have forgotten who you are. Many are now captivated by virtuous and benevolent organization known as The Fellowship, who is perhaps not as they seem.</desc>
+		<rating>0.95</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Ultima VII Part 1 - The Black Gate + Forge of Virtue (1992).jpg</image>
+		<video>./snaps/Ultima VII Part 1 - The Black Gate + Forge of Virtue (1992).mp4</video>
+	</game>
+	<game>
+		<path>./Ultima VII Part 2 - Serpent Isle + The Silver Seed (1993).zip</path>
+		<name>Ultima VII: Part Two: Serpent Isle &amp; The Silver Seed</name>
+		<sortname />
+		<desc>The events of the game take place eighteen months after those described in Ultima VII: The Black Gate. Batlin, the leader of the Fellowship has disappeared, as well as Iolo's wife Gwenno. A map is found that points to the Serpent Isle where the Guardian is still planning to destroy Britannia. Lord British sends the Avatar and his companions to this new land. Once there, the Avatar discovers that a great imbalance is upon the isle and it is up to him to fix it. To do so, he must learn the philosophies of the original inhabitants of this land, who worshipped giant serpents symbolizing the principles of Order, Chaos and Balance.</desc>
+		<releasedate />
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Ultima VII Part 2 - Serpent Isle + The Silver Seed (1993).jpg</image>
+		<video>./snaps/Ultima VII Part 2 - Serpent Isle + The Silver Seed (1993).mp4</video>
+	</game>
+	<game>
+		<path>./1830 Railroads and Robber Barons (1995).zip</path>
+		<name>1830: Railroads &amp; Robber Barons</name>
+		<sortname />
+		<desc>Based on Avalon Hill's board game of the same name, 1830 is a railroad empire building game that is along the same lines (although a different style of gameplay) as the much more famous Railroad Tycoon.</desc>
+		<releasedate />
+		<developer>SimTex, Inc.</developer>
+		<publisher>Avalon Hill</publisher>
+		<genre>Strategy</genre>
+		<image>./boxart/1830 Railroads and Robber Barons (1995).jpg</image>
+		<video>./snaps/1830 Railroads and Robber Barons (1995).mp4</video>
+	</game>
+	<game>
+		<path>./World Rally Fever - Born on the Road (1996).zip</path>
+		<name>World Rally Fever: Born on the Road</name>
+		<sortname />
+		<desc>World Rally Fever: Born on the Road is a racing game with simple driving controls and no realistic simulated physics. The emphasis is on speed and arcade-like gameplay; for this end there are power-ups and the cars' ability to jump at the press of a button.</desc>
+		<releasedate />
+		<developer>Team 17</developer>
+		<publisher>Ocean</publisher>
+		<genre>Racing</genre>
+		<image>./boxart/World Rally Fever - Born on the Road (1996).jpg</image>
+		<video>./snaps/World Rally Fever - Born on the Road (1996).mp4</video>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D (1992).zip</path>
+		<name>Wolfenstein 3D</name>
+		<sortname />
+		<desc>The first three episodes of the game focus on William "B.J." Blazkowicz's attempts to escape from Castle Wolfenstein and overthrow the Nazi regime. In the first episode, Escape from Castle Wolfenstein, B.J., an Allied spy, has been captured while trying to find the plans for Operation Eisenfaust, and was imprisoned in Castle Wolfenstein. Initially armed only with a knife and a Walther P38 (obtained by overpowering the guard in his cell), B.J. tries to escape the castle prison. Taking on SS guards, he eventually finds himself face to face with head prison guard Hans Grosse.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>Apogee Software</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Wolfenstein 3D (1992).jpg</image>
+		<video>./snaps/Wolfenstein 3D (1992).mp4</video>
+	</game>
+	<game>
+		<path>./Battle Chess Enhanced (1992).zip</path>
+		<name>Battle Chess: Enhanced</name>
+		<sortname />
+		<desc>This version of Battle Chess, while retaining the gameplay of the original release, features improved 256-color VGA graphics as well as new visual effects and animations. In addition, it has a symphonic soundtrack in redbook (CD audio) format.</desc>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Interplay</developer>
+		<publisher>Interplay</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Battle Chess Enhanced (1992).jpg</image>
+		<video>./snaps/Battle Chess Enhanced (1992).mp4</video>
 	</game>
 </gameList>

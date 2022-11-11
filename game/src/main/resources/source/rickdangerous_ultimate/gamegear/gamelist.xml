@@ -106,7 +106,7 @@
 	</game>
 	<game>
 		<path>./Puyo Puyo Tsuu (Japan).zip</path>
-		<name>Puyo Puyo Tsuu</name>
+		<name>Puyo Puyo Tsū</name>
 		<sortname />
 		<desc>A falling block game in which the goal is the combine four or more blocks of the same color which then disappear. The remain blocks will fall down and can produce combos which can cause special blocks (can only be destroyed by eliminating adjunct blocks) to appear at the enemies field.</desc>
 		<rating>0.8</rating>
@@ -120,7 +120,7 @@
 	</game>
 	<game>
 		<path>./Ristar ~ Ristar - The Shooting Star (World).zip</path>
-		<name>Ristar: The Shooting Star</name>
+		<name>Ristar</name>
 		<sortname />
 		<desc>An evil tyrant with a silly name (Greedy) has arisen to control a solar system full of sentient beings. He Corrupts the leaders of each world and thereby enslaves the populace. He has sent his minions in the disguise of planet natives into the worlds to enforce his rule.</desc>
 		<rating>0.7</rating>
@@ -288,7 +288,7 @@
 	</game>
 	<game>
 		<path>./Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil).zip</path>
-		<name>Disney's Lucky Dime Caper Starring Donald Duck, The</name>
+		<name>Disney's The Lucky Dime Caper Staring Donald Duck</name>
 		<sortname />
 		<desc>Lucky Dime Caper is a 2D platform game featuring Donald Duck in search of Uncle Scrooge's lucky dime, stolen by Magica De Spell.</desc>
 		<rating>0.85</rating>
@@ -470,7 +470,7 @@
 	</game>
 	<game>
 		<path>./Simpsons, The - Bart vs. the Space Mutants (USA, Europe).zip</path>
-		<name>Simpsons: Bart vs the Space Mutants, The</name>
+		<name>Simpsons: Bart vs. the Space Mutants, The</name>
 		<sortname />
 		<desc>Bart vs. The Space Mutants is a platform game where the player goes into the role of Bart Simpson (from the TV show The Simpsons) and must stop the Space Mutants from invading Springfield.</desc>
 		<rating>0.4</rating>
@@ -526,7 +526,7 @@
 	</game>
 	<game>
 		<path>./Alien 3 (USA, Europe).zip</path>
-		<name>Alien 3</name>
+		<name>Alien³</name>
 		<sortname />
 		<desc>The ALIENS are fast, spit acid and are right behind you! The motion tracker is your only warning. No time to think, no time to catch your breath! Can't see very far ahead in these air ducts. Hard to breathe. Face-huggers can be anywhere. You have the firepower to blast the ALIENS with your machine gun, flame thrower and grenade launcher. You know what you have to do, rescue the trapped prisoners and end this nightmare! Just keep telling yourself, "This isn't really happening. It's only a game.</desc>
 		<rating>0.7</rating>
@@ -540,7 +540,7 @@
 	</game>
 	<game>
 		<path>./Lunar - Sanposuru Gakuen (Japan) [T-En by Aeon Genesis &amp; Some Good Shit Translations v1.00].zip</path>
-		<name>Lunar: Sanposuru Gakuen</name>
+		<name>Lunar: Sanposuru Gakuen (Lunar: Walking School</name>
 		<sortname />
 		<desc>This is a side-story, set in the same world as the famous Lunar RPGs: Silver Star and Eternal Blue. The town of Burg is populated by harvesters, and you take control of two girls, Ellie and Lena. One day, they are sent to the island of Ien where they should study magic, and there begins their adventure. The game is a traditional Japanese-style RPG. You navigate your party through a top-down world, visiting towns and hostile areas. Enemy encounters are random, the battles are turn-based and are viewed from first-person perspective.</desc>
 		<rating>0.65</rating>
@@ -554,7 +554,7 @@
 	</game>
 	<game>
 		<path>./Royal Stone (Japan) [T-En by Aeon Genesis v1.00] [n].zip</path>
-		<name>Royal Stone: Hirakareshi Toki no Tobira</name>
+		<name>Roiaru Sutōn: Hirakareshi Toki no Tobira (Royal Stone: The Door When Opened)</name>
 		<sortname />
 		<desc>Royal Stone: Hirakareshi Toki no Tobira is a strategy RPG for the Sega Game Gear and a sequel to Crystal Warriors. The game follows the story of Eva, a former knight from Martalia, exiled from her kingdom for betraying the trust of the people and turning against her own team.</desc>
 		<rating>0.8</rating>
@@ -568,7 +568,7 @@
 	</game>
 	<game>
 		<path>./Coca-Cola Kid (Japan) [T-En by Filler v1.1].zip</path>
-		<name>Sassou Shounen Eiyuuden Coca-Cola Kid</name>
+		<name>Sassō Shōnen Eiyū-den: Koka Kōra Kiddo (Dashing Boy Hero Legend: Coca-Cola Kid)</name>
 		<sortname />
 		<desc>Coca Cola Kid is platformer starring the eponymous mascot of the Coca Cola company in the 90s. On his way through the levels, the kid can make use of a skateboard, but has to continue by foot if knocked off. Enemies can be defeated by kicks and flying kicks, energy is -not surprisingly- restored by collecting cans of a certain soft drink. The game was released in Japan only.</desc>
 		<rating>0.65</rating>
@@ -593,5 +593,1195 @@
 		<players>1</players>
 		<image>./boxart/Shining Force Gaiden - Final Conflict (Japan) [T-En by Shining Force Central v070606 Final].jpg</image>
 		<video>./snaps/Shining Force Gaiden - Final Conflict (Japan) [T-En by Shining Force Central v070606 Final].mp4</video>
+	</game>
+	<game>
+		<path>./Addams Family, The (World).zip</path>
+		<name>Addams Family, The</name>
+		<sortname />
+		<desc>The Addams Family is a side-scrolling platformer based on the movie of the same name. The player takes the role of Gomez who searches for his missing family members. To find them he has to explore six different parts of the mansion, e.g. the woods, which are basic platform levels: the player moves from left to right while jumping a lot and avoiding enemies. Some of them can be dispatched of by a jump on their heads. The main difference to the other versions of this game is a unique level design. There is also a life meter which allows to get hit more often before dying.</desc>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Arc Developments</developer>
+		<publisher>Flying Edge</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Addams Family, The (World).jpg</image>
+		<video>./snaps/Addams Family, The (World).mp4</video>
+	</game>
+	<game>
+		<path>./Adventures of Batman &amp; Robin, The (USA, Europe).zip</path>
+		<name>Adventures of Batman &amp; Robin, The</name>
+		<sortname />
+		<desc>The game is based on the famous 1990s animated series of the same name. The player takes control solely of Batman, as the Joker has kidnapped Robin in order to lure Batman into a game. Furthermore, the Jokers lets Gotham's most feared criminals compete with one another in order to distract Batman. Naturally, Batman has to take care of the other master criminals, too, while trying to free Robin. The Adventures of Batman &amp; Robin is 2D platformer/ beat'em up. The goal in each stage and level is to walk from left to right to reach the (sub)boss and the end of the stage. To beat his foes, Batman uses punches and kicks in close combat and several weapons for short distances.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950601T000000</releasedate>
+		<developer>Novotrade</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Adventures of Batman &amp; Robin, The (USA, Europe).jpg</image>
+		<video>./snaps/Adventures of Batman &amp; Robin, The (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Aladdin (USA, Europe, Brazil).zip</path>
+		<name>Disney's Aladdin</name>
+		<sortname />
+		<desc>Sega's 8-bit systems received a unique adaptation of Disney's 1992 animated film Aladdin. Like other versions, it is a side-scrolling action game. The player controls Aladdin, making his way through a variety of locations, including the streets of Agrabah, the Cave of Wonders, the Sultan's palace and more. Gameplay takes several different forms: some levels are chases, where Aladdin runs automatically, but must be made to jump over chasms or rolling rocks and barrels, evade falling objects and avoid getting caught by a guard. Other levels are platforming affairs: Aladdin must run, jump and climb, find keys or switches to open doors while searching for the exit.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940623T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Aladdin (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Aladdin (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Alien Syndrome (Europe).zip</path>
+		<name>Alien Syndrome</name>
+		<sortname />
+		<desc>Alien Syndrome is a scrolling shooter arcade conversion. Your job is to run around and rescue all the captives and make it to the escape hatch before the time bomb explodes. Then face the mother alien at the end of the level. You can play as a single player or two people, taking turns. (Player 2 starts the game after Player 1 dies and vice versa.)</desc>
+		<rating>0.55</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Alien Syndrome (Europe).jpg</image>
+		<video>./snaps/Alien Syndrome (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Asterix and the Secret Mission (Europe) (En,Fr,De).zip</path>
+		<name>Astérix and the Secret Mission</name>
+		<sortname />
+		<desc>The druid Getafix is out of magic potion, and Astérix and Obelix are set out on a secret mission: to find the necessary herbs, so he can brew the potion again. In this side-scrolling action game, the player can choose to play either Astérix or Obelix at the start of each one of the six levels. Although the main setting of each level is the same to both characters (forests, caves, deserts, underwater stages, waterfalls and such) the level design for each one may vary. In two player mode (Master System version), players will take turns playing as Astérix and Obelix. Both characters jump (by pressing button 2), punch enemies and break blocks (by pressing button 1).</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Asterix and the Secret Mission (Europe) (En,Fr,De).jpg</image>
+		<video>./snaps/Asterix and the Secret Mission (Europe) (En,Fr,De).mp4</video>
+	</game>
+	<game>
+		<path>./Bare Knuckle ~ Streets of Rage (World).zip</path>
+		<name>Streets of Rage</name>
+		<sortname />
+		<desc>Streets of Rage, Sega's answer to Final Fight, follows the story of three young police officers (Adam Hunter, Axel Stone and Blaze Fielding) in a city controlled by a criminal syndicate led by a "Mr. X" where crime is rampant, which leads the three heroes to make a pact to leave the force and topple the syndicate by themselves. Gameplay is straightforward and simple. Three buttons are used, one to jump, other to attack and another to perform a range attack from a support police car.</desc>
+		<rating>0.6</rating>
+		<releasedate>19921231T000000</releasedate>
+		<developer>Ancient</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Bare Knuckle ~ Streets of Rage (World).jpg</image>
+		<video>./snaps/Bare Knuckle ~ Streets of Rage (World).mp4</video>
+	</game>
+	<game>
+		<path>./Batman Returns (World).zip</path>
+		<name>Batman Returns</name>
+		<sortname />
+		<desc>From Sega 8-bit specialists Aspect comes one of many adaptations of Tim Burton's 1992 superhero sequel Batman Returns. Like other versions, it is a side-scrolling platformer. While very similar to the Master System version, the Game Gear version has slightly different levels and gameplay mechanics. Batman must move through five stages on his way to defeat the Penguin. These include the streets and rooftops of Gotham City, Max Shreck's department store, the sewers, and the Penguin's lair. For the first four levels, a route can be selected from two options, allowing for different paths through the game.</desc>
+		<rating>0.55</rating>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Aspect Co., Ltd.</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+		<image>./boxart/Batman Returns (World).jpg</image>
+		<video>./snaps/Batman Returns (World).mp4</video>
+	</game>
+	<game>
+		<path>./Batter Up (USA).zip</path>
+		<name>Batter Up</name>
+		<sortname />
+		<desc>Batter Up, known as Gear Stadium in Japan, is a baseball game developed and published by Namco for the Sega Game Gear. It is a handheld entry in Namco's World Stadium series, itself inspired by the earlier Family Stadium series for the Famicom, whose first entry, Pro Yakyuu Family Stadium, dates back to 1986. It has a two-player mode which makes use of the Gear-to-Gear Cable peripheral. An updated version titled Gear Stadium Heiseiban was released in Japan in 1995.</desc>
+		<rating>0.55</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Batter Up (USA).jpg</image>
+		<video>./snaps/Batter Up (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Battletoads (USA).zip</path>
+		<name>Battletoads</name>
+		<sortname />
+		<desc>The Dark Queen has attacked and kidnapped (toadnapped?) your best buddy.. To make matters worse, she nabbed the best looking girl around! So, what will you do? Cry? Whimper? Hide? Call the Starcops? NO! Cause you're a Battletoad! Battletoads don't cry, hide or call for help! And they certainly don't whimper! They get MAD then they get EVEN! So grab your blaster, hop on the Toadster and go get 'em! You will control a battletoad through various levels. Some are side-scrolling beat-em-ups, other are vertical drops down a shaft, fighting as you go, others have you riding a rocket or surfboard, shooting or avoiding enemies. At the end of each area, there is a boss. In some areas, about half-way through, you may have a mini-boss.</desc>
+		<rating>0.9</rating>
+		<releasedate>19931201T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+		<image>./boxart/Battletoads (USA).jpg</image>
+		<video>./snaps/Battletoads (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Bram Stoker's Dracula (USA).zip</path>
+		<name>Dracula</name>
+		<sortname />
+		<desc>Dracula is a side-scroller platform game loosely based on the 1992 film of the same name. Players take the role of Jonathan Harker whose mission to to destroy Count Dracula by first heading to Transylvania and then London. Jonathan Harker can move left and right, jump and attack with a weapon, the most basic of which is a knife. The status display on the screen shows Harker's health bar, countdown timer to complete the level and currently held weapon. Throughout the levels question mark boxes (similar to the Mario games) can be found, attacking these will reveal power ups which include health restoration, timer increase and new weapons. Among these new weapons are axes, daggers and a shotgun.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930801T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Sony Electronic Publishing</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Bram Stoker's Dracula (USA).jpg</image>
+		<video>./snaps/Bram Stoker's Dracula (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Chase H.Q. (USA).zip</path>
+		<name>Chase H.Q.</name>
+		<sortname />
+		<desc>As an undercover agent of Chase Headquarters, your job is to patrol the streets and track down five criminals. You are given a mission briefing before you start which gives information on the suspect and what car they drive. Then you drive across the city without crashing into other cars, and catch up with the criminal's car. To arrest the suspects, you must keep bumping into their car until it is no longer functional. And you have to do this under a strict time limit. You can't afford to crash into cars or buildings or you waste time getting on the road again. However, once you've caught up with your suspect, you are given more time.</desc>
+		<rating>0.65</rating>
+		<releasedate>19911231T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Chase H.Q. (USA).jpg</image>
+		<video>./snaps/Chase H.Q. (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Chessmaster, The (USA, Europe, Brazil).zip</path>
+		<name>Chessmaster, The</name>
+		<sortname />
+		<desc>The Chessmaster is a game where the player has the chance to play against the CPU controlled Chessmaster at a standard game of chess. To play the game the player must pick up the chess pieces with there hand cursor and place it in the desired location, within the rules a standard chess game. There are 16 different difficulty levels that includes 2 beginner levels, 13 standard levels (ranging from an average of 5 seconds to 4.5 minutes per shot depending on level), and a infinite level that will keep thinking of a shot until a perfect shot can be made or it is forced to move. There is also a teaching mode that shows the player all the possible moves with the selected piece.</desc>
+		<rating>0.45</rating>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Novalogic</developer>
+		<publisher>SEGA</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
+		<image>./boxart/Chessmaster, The (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Chessmaster, The (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Chuck Rock II - Son of Chuck (USA).zip</path>
+		<name>Chuck Rock II: Son of Chuck</name>
+		<sortname />
+		<desc>The story in this Chuck Rock game takes up a little while after the end of the first game. As you may remember, Chuck Rock had to rescue his girl, Ophelia from the bad dude Gary Gritter. Well, he was successful in his efforts, and now Chuck and Ophelia are married. Eventually, they have a son, named Junior. Chuck works in a factory, where he develops great skill at carving automobiles out of stone. A rival manufacturer becomes jealous of Chuck's abilities and kidnaps him. Now it is up to Junior to rescue his dad! The gameplay in this sequel is similar to the first game, but with some minor differences since you are playing as Junior, rather than Chuck.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Chuck Rock II - Son of Chuck (USA).jpg</image>
+		<video>./snaps/Chuck Rock II - Son of Chuck (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Columns (USA, Europe, Brazil) (Rev 2).zip</path>
+		<name>Columns</name>
+		<sortname />
+		<desc>Columns is loosely derived from Tetris, as it involves arranging falling blocks in such a way as to clear them. However, in columns they are groups of 3 same-size but varying color blocks, which must be arranged into sequences of 3 or more, either horizontally, vertically or diagonally. Sequences of 4 or 5 count for double or triple points, and diagonal sequences score the most. The real trick is to set up 'combos' - where one line causes other blocks to drop so as to create other lines. As well as the normal game mode, there is also a 'flash' mode, in which the aim is simply to remove a particular block from the base of the pre-formed pile of bricks.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Columns (USA, Europe, Brazil) (Rev 2).jpg</image>
+		<video>./snaps/Columns (USA, Europe, Brazil) (Rev 2).mp4</video>
+	</game>
+	<game>
+		<path>./Cool Spot (USA).zip</path>
+		<name>Cool Spot</name>
+		<sortname />
+		<desc>Cool Spot is a solid, colorful platform game featuring the 7-up mascot in the hero position. The game objective is fairly simple; you have to collect enough number of bonuses throughout each level in order to find the trapped Spots.</desc>
+		<rating>0.85</rating>
+		<releasedate>19931001T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Virgin</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Cool Spot (USA).jpg</image>
+		<video>./snaps/Cool Spot (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Cosmic Spacehead (USA, Europe).zip</path>
+		<name>Cosmic Spacehead</name>
+		<sortname />
+		<desc>Linus had crash landed on a distant planet called Earth, and made his way back home again. Trouble is, no one believes his tale of the planet he discovered! Your job is to help Linus make his way back to planet Earth so he can take some pictures to convince his friends. Gameplay consists of two parts, an adventure and arcade action. In adventure mode you can explore lands, find objects, and talk to people. Sentences can be constructed by using the pointer to select actions or objects on the screen (This is similar to the interface LucasArts used in games such as Maniac Mansion.) To reach many new locations involves the action mode, where you will need to cross treacherous landscapes and evade dangerous creatures.</desc>
+		<rating>0.45</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Supersonic Software</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Cosmic Spacehead (USA, Europe).jpg</image>
+		<video>./snaps/Cosmic Spacehead (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Crystal Warriors (USA, Europe).zip</path>
+		<name>Crystal Warriors</name>
+		<sortname />
+		<desc>The continent of Tyramus has lived in peace for almost a century, thanks to the four elemental crystals of the kingdom of Arliel. However, peace is threatened by the invading armies of the Jyn Empire, led by Emperor Grym, who wants to use the four crystals to rule over Tyramus. Fortunately, Princess Iris can escape with one of the crystals and now the player has to protect her and the crystal and somehow find a way to drive back the hordes of Jyn. Gameplay in Crystal Warriors is quite similar to Shining Force. The player fights in turn-based battles controlling different characters like fighters, healers, rangers and mages, all with different strengths and skills.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920401T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Crystal Warriors (USA, Europe).jpg</image>
+		<video>./snaps/Crystal Warriors (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Deep Duck Trouble Starring Donald Duck (USA, Europe).zip</path>
+		<name>Disney's Deep Duck Trouble Starring Donald Duck</name>
+		<sortname />
+		<desc>Donald meets Hewey, Dewey and Louie, back from their latest adventure with Uncle Scrooge. But Uncle Scrooge has been cursed by a pendant he found while adventuring, and is now floating in the air like a balloon! He gives Donald his adventurer's diary and asks Donald to retrace his steps and return the pendant to its rightful place - this is the only thing that will return Scrooge to normal. Deep Duck Trouble is a platform game where you play as Donald Duck. You must make your way through four different areas of the island - the jungle, an inlet, a volcano, and a valley - and defeat bosses at the end of each area. Donald can defeat enemies by jumping on their heads.</desc>
+		<rating>0.65</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Aspect Co., Ltd.</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Deep Duck Trouble Starring Donald Duck (USA, Europe).jpg</image>
+		<video>./snaps/Deep Duck Trouble Starring Donald Duck (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil).zip</path>
+		<name>Desert Speedtrap Starring Road Runner and Wile E. Coyote</name>
+		<sortname />
+		<desc>This is a platform game starring Looney Tunes famous Road Runner(who you control) and nemesis Wile E. Coyote. Road Runner can jump, eat birdseed to replenish life and run, of course! Holding the D-pad down speeds him up. The clock is ticking and if you run out of time a try is lost, collecting stars adds time to the clock There are various items/powerups and bonus areas 3 difficulty settings, choice to play with or without music and/or sound effects and an option to play the game music while not in game</desc>
+		<rating>0.5</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil).jpg</image>
+		<video>./snaps/Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Desert Strike - Return to the Gulf (USA).zip</path>
+		<name>Desert Strike: Return to the Gulf</name>
+		<sortname />
+		<desc>The first game in the Strike series. A year after the Gulf War, a self styled General named Kilbaba (Muababa in the GBA version) takes over an Arab Emirate and threatens to start WWIII against its enemy in the West, the U.S. The whole world holds their breath as the President chooses you to destroy Kilbaba and his terrorist army before he launches a nuclear attack on the world! You must fly an specially designed AH-64A Apache on a series of missions from rescuing MIAs, destroying power plants, to blowing apart SCUD missles! Take out his defenses while trying to find out Kilbaba's plans. Take on the Madman and forever rid this threat....in the desert!</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Tiertex</developer>
+		<publisher>Domark</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Desert Strike - Return to the Gulf (USA).jpg</image>
+		<video>./snaps/Desert Strike - Return to the Gulf (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Devilish (USA).zip</path>
+		<name>Devilish</name>
+		<sortname />
+		<desc>Genki's first game is a paddle/pong game with a background story. Once upon a time there were a prince and a princess who loved each other. But the evil jealous demon named "Y" turn them both into stone paddles. Suddenly, a blue sphere fell from the sky, becoming the ball which the paddles can now push forwards, overcoming obstacles and defeating demons. "Devilish" is different from other paddle games by letting you play with two paddles. The lower one behaves just like a usual paddle - you use it to prevent the ball from dropping down. The upper one can move and turn, allowing you to hit the ball from different angles and from different parts of the screen.</desc>
+		<rating>0.7</rating>
+		<releasedate>19911101T000000</releasedate>
+		<developer>Genki</developer>
+		<publisher>SEGA</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Devilish (USA).jpg</image>
+		<video>./snaps/Devilish (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dropzone (Europe).zip</path>
+		<name>Dropzone</name>
+		<sortname />
+		<desc>Dropzone was the first game to propel Archer Maclean to stardom. The game, originally written for the 8-bit Ataris, is basically a Defender clone, but popular because it so closely recreates the gameplay of the original Defender, with its speedy scrolling and frantic gameplay. The player is a spaceman with a jet-pack, flying across a barren landscape whose skies are inhabited by a number of different aliens; from the simple Planter to the slowly advancing Blunder Storm or the quick, aggressive Nemesite. Planters and Nemesites will try to pickup the small men walking on the surface, who must then be rescued. You must shoot down the alien, while avoiding to hit the man.</desc>
+		<rating>0.65</rating>
+		<releasedate>19940701T000000</releasedate>
+		<developer>Big Red Software</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Dropzone (Europe).jpg</image>
+		<video>./snaps/Dropzone (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Earthworm Jim (USA).zip</path>
+		<name>Earthworm Jim</name>
+		<sortname />
+		<desc>A crow is chasing a worm named Jim while in outer space Psy-Crow is chasing a renegade ship. The ship's captain has stolen an ultra-high-tech-indestructible-super-space-cyber-suit and Queen Slug-for-a-Butt has ordered Psy-Crow to get it, since it can make her more beautiful than Princess-What's-Her-Name. Psy-Crow blasts the captain and the suit falls to Planet Earth. Back on earth Jim wonders if he is finally safe when an ultra-high-tech-indestructible-super-space-cyber-suit lands on him. Luckily Jim rests in the neck ring of the suit. Then the space particles begin interacting with Jim, causing a light-speed evolution. Jim soon realizes he is in control of the suit.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950701T000000</releasedate>
+		<developer>Shiny Entertainment</developer>
+		<publisher>Virgin</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Earthworm Jim (USA).jpg</image>
+		<video>./snaps/Earthworm Jim (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ecco - The Tides of Time (USA, Europe, Brazil).zip</path>
+		<name>Ecco: The Tides of Time</name>
+		<sortname />
+		<desc>The followup to Ecco the Dolphin, in which Ecco successfully destroyed the Vortex. Unfortunately, it turns out that the Vortex Queen followed it to the Earth and eventually destroyed the Asterite. All the world's oceans are threatened, and actually already doomed. In order to restore the Asterite and finally defeat the Vortex Queen, Ecco will have to confront once again the tides of time, which have split into two possible futures, the regular one and the dark one dominated by the Vortex Queen. Ecco: The Tides of Time features even better graphics than its predecessor, and introduces a new gameplay mode in which the camera follows the dolphin from behind instead of from the side.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Novotrade</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Ecco - The Tides of Time (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Ecco - The Tides of Time (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Ecco the Dolphin (USA, Europe, Brazil).zip</path>
+		<name>Ecco the Dolphin</name>
+		<sortname />
+		<desc>Travel through time along with Ecco the dolphin, in the only game that could call itself a "dolphin simulator". Indeed, you can do pretty much everything a typical dolphin does, including eating fish, surfacing in order to breathe, using your biological sonar and of course, jumping out of the water to amaze your friends. The storyline is actually deeper that one may think by looking at the box illustration. As Ecco, you are the only dolphin who managed to escape from a giant whirlpool which sucked down your entire pod. The five shining stars on your forehead show that you are the chosen one to save them.</desc>
+		<rating>0.65</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Novotrade</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Ecco the Dolphin (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Ecco the Dolphin (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Ernie Els Golf (Europe) (En,Fr,De,Es,It).zip</path>
+		<name>Ernie Els Golf</name>
+		<sortname />
+		<desc>Ernie Els Golf is a golf game for the Sega Game Gear released exclusively in Europe.</desc>
+		<rating>0.4</rating>
+		<releasedate>19940701T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Ernie Els Golf (Europe) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Ernie Els Golf (Europe) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Evander Holyfield's 'Real Deal' Boxing (USA, Europe).zip</path>
+		<name>Evander Holyfield's 'Real Deal' Boxing</name>
+		<sortname />
+		<desc>Evander Holyfield's "Real Deal" Boxing is a boxing simulation. Holyfield is the only licensed boxer, the rest are fictitious. Rather than a fanciful approach like Mike Tyson's Punch-Out!!, the developers went for a more strategic sim. Differently from its Genesis counterpart, the game is played from a first or third person point of view, with the fighters facing each other directly. The player can choose to see the fight from his or from the opponent's point of view ("through his eyes"). Players can either play a quick exhibition match or fight their way through the Career mode, using a created boxer to work their way up the 15-boxer ranking list until they fight Holyfield himself.</desc>
+		<rating>0.45</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Novotrade</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Evander Holyfield's 'Real Deal' Boxing (USA, Europe).jpg</image>
+		<video>./snaps/Evander Holyfield's 'Real Deal' Boxing (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./F1~ Formula One (USA, Europe).zip</path>
+		<name>Formula One: F1</name>
+		<sortname />
+		<desc>F1 is an Official Formula One Racing Game. There are two modes of play available: "Arcade", "Grand Prix". In both of these modes you complete a certain number of laps (4, 8, or 12) and select which circuit that you want to race on. The circuits include San Marino, France, Britain, Germany, Italy, Portugal, Japan, and Australia. Some circuits are easy, while some are difficult. There are slight differences between the two modes. For instance, "Arcade" allows you to select the circuit in any order that you like, whereas "Grand Prix" only allows you to fine-tune your car before starting a race. You also need to race a circuit in the order that they appear on the circuit selection screen, but you can skip a track if you want.</desc>
+		<rating>0.35</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Teque London</developer>
+		<publisher>Domark</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/F1~ Formula One (USA, Europe).jpg</image>
+		<video>./snaps/F1~ Formula One (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Factory Panic (Europe, Brazil).zip</path>
+		<name>Factory Panic</name>
+		<sortname />
+		<desc>Mister Greede, a corrupt tycoon and factory owner, deprives the local citizens of the goods they need and deserve. That’s why you have infiltrated his factory. Now you must manipulate the conveyor belts skillfully to deliver the correct product to the right person waiting outside, but you have only a limited amount of time. Unfortunately, thugs with bats or even guns patrol the factory. Your only weapon against these security guards is a battle cry that temporarily stuns them, but not for too long. Factory Panic consists of four rounds, and each round consists of eight stages. Before a stage starts, the game tells you how many people are waiting in line and what product they are waiting for.</desc>
+		<rating>0.6</rating>
+		<releasedate>19911001T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Factory Panic (Europe, Brazil).jpg</image>
+		<video>./snaps/Factory Panic (Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Fantasy Zone (USA, Brazil).zip</path>
+		<name>Fantasy Zone</name>
+		<sortname />
+		<desc>Take command of the spaceship Opa-Opa and blast your way through various fantastical levels as you try to take out all the enemy bases in each stage. Once you've destroyed the bases, you'll have to beat the stage boss in order to move on to the next level. By using your guns and bombs wisely, you'll be able to take down your enemies and explore each of the crazy environments in this side-scroller. You can also buy upgraded weapons for your ship by accessing the shop.</desc>
+		<rating>0.55</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sanritsu Denki</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Fantasy Zone (USA, Brazil).jpg</image>
+		<video>./snaps/Fantasy Zone (USA, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Fatal Fury Special (USA).zip</path>
+		<name>Fatal Fury Special</name>
+		<sortname />
+		<desc>Fatal Fury Special is an improved version of SNK's 2D one-on-one fighter Fatal Fury 2. It's a conversion of the 1993 arcade game of the same name. The objective is still to win the tournament by defeating all other fighters including end boss Wolfgang Krauser. Fatal Fury Special features a fairly large selection of fighters that includes: 1. The eight regular fighters from Fatal Fury 2: Terry Bogard, Andy Bogard, Joe Higashi, Kim Kaphwan, Jubei Yamada, Cheng Sinzan, Mai Shiranui and Big Bear.The four bosses from Fatal Fury 2: Billy Kane, Axel Hawk, Lawrence Blood and Wolfgang Krauser (this time they're all immediately playable).</desc>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Aspect</developer>
+		<publisher>Takara</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Fatal Fury Special (USA).jpg</image>
+		<video>./snaps/Fatal Fury Special (USA).mp4</video>
+	</game>
+	<game>
+		<path>./FIFA International Soccer (USA, Europe).zip</path>
+		<name>FIFA International Soccer</name>
+		<sortname />
+		<desc>The game that started the best-selling series licensed by football's world governing body, this first installment in the long running series used a dimetric (colloquially known as "isometric") viewpoint, previously unusual in football games but quickly imitated by several titles. The televisual presentation, one of the unique points of the early EA Sports titles, with hosts introducing the matches, was another thing making the game stand out from a market dominated by Sensible Soccer and Kick Off games. Based on international teams (with fictional player names), their abilities in each skill area rated out of 10 to give the player an overall impression of how good they are.</desc>
+		<rating>0.05</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Tiertex</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/FIFA International Soccer (USA, Europe).jpg</image>
+		<video>./snaps/FIFA International Soccer (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Garfield - Caught in the Act (USA, Europe).zip</path>
+		<name>Garfield: Caught in the Act</name>
+		<sortname />
+		<desc>As lazy cartoon cat Garfield, you're somehow trapped in your TV, that's what happens with too much TV watching. Go and find all remote-control pieces to get out of that box, and check the fridge for a change. The player advances through levels and bonus rounds in his attempt to escape. Unlike most other platform games of its time, Garfield boasted completely unique art on each of its six levels, both for tile art and character costumes. The levels are inspired by classic movies, but given a Garfield twist, like "Catsablanca" and "The Curse of Cleofartra.</desc>
+		<rating>0.7</rating>
+		<releasedate>19951101T000000</releasedate>
+		<developer>Novotrade</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Garfield - Caught in the Act (USA, Europe).jpg</image>
+		<video>./snaps/Garfield - Caught in the Act (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./GG Aleste (Japan).zip</path>
+		<name>GG Aleste</name>
+		<sortname />
+		<desc>In the first installment of the Aleste series for the GG, you play as Ellinor Waisen, the daughter of the original Aleste pilot Ray Waisen. As usual, your task is to exterminate level upon level of nasties with your space ship. The usual Aleste powerup systems remains fairly intact. You still have powerup pods which release P capsules for upgrading your main weapon. On the other hand, secondary weapon upgrades are no longer released from ground bases, but from another type of flying pods. When you start out, your secondary weapon is a laser, which can later be replaced with powerups ranging from split fire to napalm rockets and target seeking power balls.</desc>
+		<rating>0.85</rating>
+		<releasedate>19911229T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Compile</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/GG Aleste (Japan).jpg</image>
+		<video>./snaps/GG Aleste (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Global Gladiators (Europe).zip</path>
+		<name>Global Gladiators</name>
+		<sortname />
+		<desc>Global Gladiators is a fairly standard platform game with the most notable fact being that the characters were created and licensed from McDonalds (yes, THE McDonalds). While playing through the game's 12 levels you'll notice McDonalds logos, burgers and all sorts of family restaurant type stuff as you take Mick and Mack (the game's protagonists) on a journey to clean up "Monsters of Slime World", "Toxi-Town" and more.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930526T000000</releasedate>
+		<developer>Krisalis Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Global Gladiators (Europe).jpg</image>
+		<video>./snaps/Global Gladiators (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./GP Rider (World).zip</path>
+		<name>GP Rider</name>
+		<sortname />
+		<desc>This portable version is different from other console versions in terms of graphics while the gameplay is still the same. The player takes control of a professional motorcycle rider in 15 different courses around the world, go up against over a dozen different opponents in an attempt to win the race and advance to the next level. Players must avoid from hitting other riders to keep from wrecking their bike. If a player bumps another racer from behind, they can run off to the side of the road or lose control and send their rider flying through the air. There are four different game modes to choose from such as Exhibition and Grand Prix. Two friends can also go head-to-head using the Link Cable.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/GP Rider (World).jpg</image>
+		<video>./snaps/GP Rider (World).mp4</video>
+	</game>
+	<game>
+		<path>./Griffin (Japan).zip</path>
+		<name>Griffin</name>
+		<sortname />
+		<desc>Griffin is a shoot-'em-up game developed by Telenet Japan's "Renovation Game" division (which is not the same as Renovation Products) and published by Telenet Japan's RIOT division for the Sega Game Gear. It was only released in Japan.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910726T000000</releasedate>
+		<developer>Telenet Japan</developer>
+		<publisher>Renovation Game</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Griffin (Japan).jpg</image>
+		<video>./snaps/Griffin (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Halley Wars (USA, Europe, Brazil).zip</path>
+		<name>Halley Wars</name>
+		<sortname />
+		<desc>It’s the middle of the 21st century. The armies of Lord Halley are launching attacks on planet Earth. You are the last chance for Earth, piloting a craft specially developed to engage these hordes. You must fight your way through their defenses to the final goal, the alien base. The final battle is about to commence! Halley Wars is a vertical scrolling shooter. The game has 6 stages set in locations in space such as, above planets or in asteroid fields. There are end of levels bosses at the end of each stage each with their own weaknesses. There are power-ups, which can be picked up along the way when you shoot particular asteroids or satellites. These upgrade your weapon strength, speed, add explosive pods and shields.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>ITL</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Halley Wars (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Halley Wars (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Indiana Jones and the Last Crusade (USA, Europe, Brazil).zip</path>
+		<name>Indiana Jones and the Last Crusade</name>
+		<sortname />
+		<desc>As in the movie (and the more famous graphic adventure), your task is to find the Holy Grail. Before this can be done you must find the Cross of Coronado, a shield and a diary. This makes for a four-level arcade adventure combining climbs, exploration (with several routes through each level, and some traps) and puzzles. Indy is armed with his trusty whip to fight off foes, but can also get involved in hand-to-hand combat. The first level takes place in caves underneath Colorado, before you reach a moving circus train strewn with traps, a Zeppelin which is full of guards and ladders, and then Castle Grunwald in Austria.</desc>
+		<rating>0.7</rating>
+		<releasedate>19921001T000000</releasedate>
+		<developer>Tiertex</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Indiana Jones and the Last Crusade (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Indiana Jones and the Last Crusade (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./James Pond II - Codename RoboCod (USA).zip</path>
+		<name>James Pond II: Codename RoboCod</name>
+		<sortname />
+		<desc>In his second adventure James Pond must retrieve the toys Dr Maybe has stolen. Pond has been armed with an Inspector Gadget-style stretch device, which he can use to view higher areas or claw onto ceilings so as to slide across them. The gameplay takes place across worlds themed around particular types of toys, such as sporting goods, candy and aircraft. The levels scroll sideways, although a small amount of vertical movement is included. On each level Pond must collect 2 penguins and reach the exit, although there are usually multiple exits and lots of secret areas to explore. After completing each pair of two worlds (each of which has three sub levels), a boss must be faced.</desc>
+		<rating>0.95</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Millenium Interactive</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/James Pond II - Codename RoboCod (USA).jpg</image>
+		<video>./snaps/James Pond II - Codename RoboCod (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Joe Montana Football (USA, Europe).zip</path>
+		<name>Joe Montana Football</name>
+		<sortname />
+		<desc>It's a snap! This is your chance to rub shoulder pads with Joe Montana, the man who led the "Team of the Eighties" to four Super Bowl Championships. You provide all the fourth quarter heroics, play-calling brilliance, and pinpoint passing as you hit the field against any of 28 pro teams. Call all your own plays! Each team has a playbook with 17 offensive and six defensive options. Pick the play that you think will work best, or take the advice of Joe Montana himself, as he recommends the play he would call in each situation. You control the action on the field by switching to the key players as the play unfolds. Your strength and speed will vary by position, just like the real sport.</desc>
+		<rating>0.45</rating>
+		<releasedate>19910815T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Joe Montana Football (USA, Europe).jpg</image>
+		<video>./snaps/Joe Montana Football (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Jungle Book, The (USA).zip</path>
+		<name>Disney's The Jungle Book</name>
+		<sortname />
+		<desc>This 8-bit adaptation of Disney's 1967 animated film Jungle Book is slightly different from the other versions. Although most of the main elements remain the same, the most noticeable differences are in level design and some missing items. The player controls Mowgli in his journey to the human village. Mowgli will swing on and climb vines, run and jump while facing enemies such as coconut-throwing monkeys, snakes and vampire bats. To fight them, Mowgli can throw bananas in eight directions. He'll also find upgrades and weapons such as boomerangs inside banana bunches. There are some boss fights with main characters of the movie, such as the snake Kaa.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Syrox Developments, Ltd.</developer>
+		<publisher>Virgin</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Jungle Book, The (USA).jpg</image>
+		<video>./snaps/Jungle Book, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Jungle Strike (USA).zip</path>
+		<name>Jungle Strike: The Sequel to Desert Strike</name>
+		<sortname />
+		<desc>Now the storm hits the jungle! The Desert Madman is dead - now his vicious son plots a nuclear strike against the U.S.A. He's enlisted a powerful ally - a ruthless South American Drug Lord with an army of hi-tech mercenaries. It's YOUR mission to take them out! Turn night into day with your explosions on a deadly night mission. Penetrate the Drug Lord's air defenses in an F-117A Stealth fighter. Stalk the terrorists from the streets of Washington D.C. to the deadly jungles, rivers and snow-covered peaks of South America! Stunning cinematics and digitized sound effects create a spectacular movie-like experience!</desc>
+		<rating>0.65</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Unexpected Development</developer>
+		<publisher>Black Pearl Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Jungle Strike (USA).jpg</image>
+		<video>./snaps/Jungle Strike (USA).mp4</video>
+	</game>
+	<game>
+		<path>./KLAX (USA, Europe).zip</path>
+		<name>Klax</name>
+		<sortname />
+		<desc>An action/puzzle game, the object is to catch assorted color falling tiles and create rows, columns, or diagonals of a single color. Each level requires a different pattern to be made, and the tiles fall faster, more at a time, and in an increasing number of colors as the game progresses.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Tengen</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/KLAX (USA, Europe).jpg</image>
+		<video>./snaps/KLAX (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Illusion Starring Mickey Mouse (USA, Europe).zip</path>
+		<name>Disney's Legend of Illusion Starring Mickey Mouse</name>
+		<sortname />
+		<desc>Once upon a mouse, there was a kingdom that was ruled by the selfish king Pete. One day, a terrible shadow crept over the kingdom, threatening the lives of its inhabitants. The king's adviser said the only way to stop the shadow would be for the king himself to travel out and to seek the cure. But the cowardly king Pete preferred to stay in the castle, and sent a simple laundry boy named Mickey instead! As Mickey Mouse, you will travel through various levels in this platform game. Mickey shoots an unlimited amount of little balls on the enemies, can jump, climb on stairs, hang on ropes, and perform other tricks.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Aspect Co., Ltd.</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Legend of Illusion Starring Mickey Mouse (USA, Europe).jpg</image>
+		<video>./snaps/Legend of Illusion Starring Mickey Mouse (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Lemmings (World).zip</path>
+		<name>Lemmings</name>
+		<sortname />
+		<desc>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards. You are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom are a selection of functions which can be assigned to a Lemming, including climbing, floating and bashing. You must click to select the appropriate function, then click on the Lemming to activate it.</desc>
+		<rating>0.7</rating>
+		<releasedate>19941206T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>SEGA</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Lemmings (World).jpg</image>
+		<video>./snaps/Lemmings (World).mp4</video>
+	</game>
+	<game>
+		<path>./Lion King, The (USA).zip</path>
+		<name>Disney's The Lion King</name>
+		<sortname />
+		<desc>Young Simba just can't wait to be king. His father is the current King of the Savannah and the young prince is able to frolic the lands at will; jumping on and around other subjects of this animal kingdom. When Simba's father, King Mufasa, is killed and his evil brother Scar takes over the kingdom, Simba is banished from the lands of his birthright and has to grow up fast, honing his skills, for the day of his return. The Lion King, based on the famous Disney movie, is a platform game where you control Simba - initially as a young cub, and later as an adult lion. The plot of the game follows the plot of the movie. Each of the levels represents a part of the movie.</desc>
+		<rating>0.85</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Syrox Developments, Ltd.</developer>
+		<publisher>Virgin</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Lion King, The (USA).jpg</image>
+		<video>./snaps/Lion King, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Magical Puzzle Popils (World) (En,Ja).zip</path>
+		<name>Magical Puzzle Popils</name>
+		<sortname />
+		<desc>Magical Puzzle Popils is a single screen platform puzzle game. The object in each round is to go through the labyrinth until the player reaches the princess (or the princess reaches the player). The player can break blocks, climb ladders, go through portals. There are also hazards to avoid, like red spikes and enemies. Breaking blocks is the most important gameplay element. Breaking a block causes the column of blocks above it to fall one place down. The player must use this block breaking ability to change the labyrinth and create a way to the princess. The short introduction sequence shows the back story: A beautiful princess fell in love with you! And you fell in love with her too...</desc>
+		<rating>0.75</rating>
+		<releasedate>19910712T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Tengen</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Magical Puzzle Popils (World) (En,Ja).jpg</image>
+		<video>./snaps/Magical Puzzle Popils (World) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Marble Madness (USA, Europe).zip</path>
+		<name>Marble Madness</name>
+		<sortname />
+		<desc>A port of the arcade game. The idea is deceptively simple: Guide a marble down a path without hitting any obstacles or straying off the course. The game is viewed from an isometric perspective, which makes it harder to stay focused on the direction the ball is to follow. There are tight corridors to follow and enemies to avoid. There is a 2-player mode in which players must race to the finish; otherwise you're racing against the clock.</desc>
+		<rating>0.75</rating>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Tengen</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Marble Madness (USA, Europe).jpg</image>
+		<video>./snaps/Marble Madness (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Micro Machines (USA, Europe).zip</path>
+		<name>Micro Machines</name>
+		<sortname />
+		<desc>If you're bored of racing Formula 1 cars, rally cars or MotoGP bikes in their natural habitats, the Micro Machines series could be for you. It involves racing miniatures representing particular vehicle types across a particular terrain found around the house. The Sports Cars race on the desktop, 4x4s in the sandpit, Formula 1 cars on a snooker table, and so on. These levels were packed with variation. The Snooker tables has the track painted on, although this is open to deviation (as are most levels), and had you racing through the pockets and across the rim of the table. Tanks raced as well, with the chance of shooting out your opponent if they got directly in front of you.</desc>
+		<rating>0.7</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Micro Machines (USA, Europe).jpg</image>
+		<video>./snaps/Micro Machines (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Micro Machines 2 - Turbo Tournament (Europe).zip</path>
+		<name>Micro Machines 2: Turbo Tournament</name>
+		<sortname />
+		<desc>The second game of the Micro Machines series. Like in its predecessor, you behind the steering wheel of an extremely small car. You race around on interesting places, like a table, a treehouse and many more. The control of the cars is sometimes quite difficult, especially if you don't know the tracks (the top-down view is not very clear). The CD-ROM version additionally features CD-Audio music and a track editor.</desc>
+		<rating>0.85</rating>
+		<releasedate>19950501T000000</releasedate>
+		<developer>Supersonic Software</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Micro Machines 2 - Turbo Tournament (Europe).jpg</image>
+		<video>./snaps/Micro Machines 2 - Turbo Tournament (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Mortal Kombat (USA, Europe).zip</path>
+		<name>Mortal Kombat</name>
+		<sortname />
+		<desc>Five Hundred years ago, an ancient and well respected Shaolin fighting tournament, held every 50 years, was corrupted by an evil and elderly sorcerer by the name of Shang Tsung. Shang was accompanied by Prince Goro, a warrior of the Shokan race (a four armed half-human/half-dragon). Knowing that if ten tournaments in a row were won by the Outworld champion, the Earth Realm would be conquered by evil and fall into darkness, Shang entered Goro in the tournament and had him defeat the great Kung Lao. Goro has been reigning supreme as the undefeated fighting champion for five hundred years now.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930913T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Arena Entertainment</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Mortal Kombat (USA, Europe).jpg</image>
+		<video>./snaps/Mortal Kombat (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Mortal Kombat II (World).zip</path>
+		<name>Mortal Kombat II</name>
+		<sortname />
+		<desc>The Mortal Kombat fighters, plus several new ones, return for a tournament held by the evil Shang Tsung of the Outworld. The action is one-on-one as before, and famed for its high level of violence and blood (other than the sanitised Nintendo version). There are 5 difficulty levels and optional credits, as well as the usual two player mode including same character duels. To win the main tournament, the player must beat each of the other human players, before taking on Shang Tsung, Kintaro and finally Shao Kahn. Players have a range of punches and kicks available, as well as flying kicks, uppercuts, roundhouses, and the special moves, which vary for each player.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Mortal Kombat II (World).jpg</image>
+		<video>./snaps/Mortal Kombat II (World).mp4</video>
+	</game>
+	<game>
+		<path>./NBA Jam (USA) (Rev 1).zip</path>
+		<name>NBA JAM</name>
+		<sortname />
+		<desc>NBA Jam is a two-on-two basketball game You can play any NBA team, and you can play as players like Barkley, Starks, Pippen, and Grant. Each human player controls a single player, so choose your squad wisely to take team-mate skill into account. The game is action-oriented, and players can perform unrealistic slam-dunks. Full performance statistics are automatically recorded. The play clock and 3-point line apply, but other rules are largely overlooked.</desc>
+		<rating>0.5</rating>
+		<releasedate>19940429T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Arena Entertainment</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/NBA Jam (USA) (Rev 1).jpg</image>
+		<video>./snaps/NBA Jam (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./NHL Hockey (USA, Europe).zip</path>
+		<name>NHL Hockey</name>
+		<sortname />
+		<desc>NHL Hockey is a Sports game, developed by Realtime Associates and published by EA Sports, which was released in Europe in 1994.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/NHL Hockey (USA, Europe).jpg</image>
+		<video>./snaps/NHL Hockey (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Ninja Gaiden (USA, Europe, Brazil).zip</path>
+		<name>Ninja Gaiden</name>
+		<sortname />
+		<desc>Ninja Gaiden begins with a cinematic animation in which 2 ninjas duel to the death; one goes down. It is revealed that the doomed ninja is the father of Ryu Hayabusa. When Ryu learns of this, he embarks on a quest to find out who killed his father and why. This quest takes him to America to find an archaeologist with whom Ryu's father was working. From there, Ryu becomes embroiled in an evil, supernatural conspiracy involving a villain named Jaquio who has plans to use an ancient castle and some relics to unleash a terrifying evil upon the world. Ninja Gaiden is a side scrolling game where Ryu the ninja can run, jump, and slash with his ninja sword. He can also attach to any vertical surface.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Japan System House Co., Ltd.</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Ninja Gaiden (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Ninja Gaiden (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Olympic Gold (Japan, USA, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).zip</path>
+		<name>Olympic Gold</name>
+		<sortname />
+		<desc>Experience for yourself the thrill and excitement of competing in seven spectacular Olympic track, field and pool events. Olympic Gold, the challenge - to win you'll need all the strength, skill and determination you can muster!</desc>
+		<rating>0.55</rating>
+		<releasedate>19920601T000000</releasedate>
+		<developer>Tiertex</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Olympic Gold (Japan, USA, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).jpg</image>
+		<video>./snaps/Olympic Gold (Japan, USA, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).mp4</video>
+	</game>
+	<game>
+		<path>./Ottifants, The (Europe) (En,Fr,De,Es,It).zip</path>
+		<name>Ottifants, The</name>
+		<sortname />
+		<desc>Bruno is a baby Ottifant. It's an ordinary evening, and Bruno's dad is working late at office. Reason enough for Bruno's vivid imagination to run riot, thinking that his dad has been kidnapped by aliens! Jelly babies, that fell from his father's pocket on the way to work, blaze a trail to the office. Now it's up to Bruno to fight his way through hordes of terrorizing toys, Ottifant-eating plants, tear through gloomy caverns of doom and cut across a perilous jungle - workaday objects and boringly normal settings as seen through kids' eyes - and rescue his dad!</desc>
+		<rating>0.9</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Graftgold</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Ottifants, The (Europe) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Ottifants, The (Europe) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./OutRun Europa (USA).zip</path>
+		<name>OutRun Europa</name>
+		<sortname />
+		<desc>The third game in the OutRun series, which revolutionised the third-person perspective style of racing games. The levels are set across Europe, as you bid to escape from the police. Unlike in the predecessors, you use a different vehicle on each level, with motorbikes and jet-skis adding variety and taking different skill to use. You must complete each level within the strict time limits, and the roads are dogged with other cars to avoid and overtake. You can choose between sound effects or music.</desc>
+		<rating>0.75</rating>
+		<releasedate>19920601T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/OutRun Europa (USA).jpg</image>
+		<video>./snaps/OutRun Europa (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pete Sampras Tennis (USA, Europe).zip</path>
+		<name>Pete Sampras Tennis</name>
+		<sortname />
+		<desc>Play singles and doubles exhibition games, knockout tournaments or go on a world tour. Choose from 30 different players including world seed #1, Pete Sampras. The actions is viewed from the traditional third-person viewpoint. A tutorial mode is provided to help you get used to the forehand, lob and drop shots on offer. Several venues from all over the world can be played on, on Hard, Grass and Clay courts. The Game Gear version of this game allowed two players to share one Game Gear, or four players to play doubles by linking two handhelds.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940819T000000</releasedate>
+		<developer>The Big Red Software Company Ltd.</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Pete Sampras Tennis (USA, Europe).jpg</image>
+		<video>./snaps/Pete Sampras Tennis (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./PGA Tour 96 (USA, Europe).zip</path>
+		<name>PGA Tour 96</name>
+		<sortname />
+		<desc>PGA Tour 96 is a Sports game, developed by Ceris Software and published by Black Pearl, which was released in Europe in 1996.</desc>
+		<rating>0.45</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Ceris Software</developer>
+		<publisher>Black Pearl Software</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/PGA Tour 96 (USA, Europe).jpg</image>
+		<video>./snaps/PGA Tour 96 (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./PGA Tour Golf II (USA, Europe).zip</path>
+		<name>PGA Tour Golf II</name>
+		<sortname />
+		<desc>A follow-up to PGA Tour Golf and a reduced version of it's Genesis counterpart where the player can choose play as a generic pro golfer or as an amateur and compete against four real-life pros including Fred Couples, Paul Azinger, Craig Stadler &amp; Fuzzy Zoeller with six different locations to choose from. Players can choose to either play in Tournament mode, Skins Play or learn the basics of the game in Practice mode. Players use a cursor on a top-down view of a map to determine the location as well as another view from behind the golfer to avoid various obstacles such as trees. After selecting their location they can then use a meter to the bottom left to determine how much draw or fade will be put into the shot.</desc>
+		<rating>0.35</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Polygames</developer>
+		<publisher>Time Warner Interactive</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/PGA Tour Golf II (USA, Europe).jpg</image>
+		<video>./snaps/PGA Tour Golf II (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Primal Rage (USA, Europe).zip</path>
+		<name>Primal Rage</name>
+		<sortname />
+		<desc>A meteor struck the Earth, and caused great chaos. Seven gods from ancient times awoke, and are now attempting to take control of the post-apocalyptic world. Primal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as the fighters. The graphics are done with digitized stop-motion animation. Gameplay is similar to Mortal Kombat in that it is viewed from a side perspective, and features deadly finishing moves at the end of the match.</desc>
+		<rating>0.5</rating>
+		<releasedate>19950825T000000</releasedate>
+		<developer>Probe Entertainment</developer>
+		<publisher>Time Warner Interactive</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Primal Rage (USA, Europe).jpg</image>
+		<video>./snaps/Primal Rage (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (USA, Europe).zip</path>
+		<name>Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy</name>
+		<sortname />
+		<desc>Ren and Stimpy just found a pair of hooves which belong to the great Shaven Yak, who lost them in the last Yak shaving day. Now they must find the Shaven Yak and return him his hooves, or there won't be any more Yak shaving days! In this platform game the player is prompted to choose playing either as Ren or Stimpy at the start of new life or some stages. Both can jump and shoot (Ren shoots toothbrushes, Stimpy spits), but each one has his own special ability: Ren can perform high jumps, Stimpy can smash things jumping over them. Each character starts the game with three lives.</desc>
+		<rating>0.5</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (USA, Europe).jpg</image>
+		<video>./snaps/Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Rastan Saga (Japan).zip</path>
+		<name>Rastan Saga</name>
+		<sortname />
+		<desc>Rastan features five levels or hacking and slashing gameplay with a boss at the end of each level. Numerous enemies assault you on your journey such as flying demons, chimeras, valkyries, piranhas, skeleton undead and more. Fight through to the end and save the land of Lograth from certain doom. The game features different weapons such axes, maces and fire swords, each with its own attributes like extended range or attack power. Armour can also be picked up in the forms shields, cloaks and armour, reducing the damage from enemy attacks. Other items include rings (increase the speed of your weapon) and jewelery for bonus points.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910809T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Rastan Saga (Japan).jpg</image>
+		<video>./snaps/Rastan Saga (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./RoboCop versus The Terminator (USA, Europe).zip</path>
+		<name>RoboCop versus The Terminator</name>
+		<sortname />
+		<desc>In the future, human soldiers of John Conner's resistance force against the machines are fighting a losing war against Skynet and it's robot forces. Discovering that one of the foundation technologies for Skynet is the cybernetics technology used in the creation of Robocop. One of the resistances' soldiers, Flo is sent back in time before the Rise of the Machines to destroy Robocop and stop Skynet from being built. However Skynet learns of the time travel attempt and sends Terminators to stop Flo. In the game you control Robocop who may move across the screen, jump, fire and exchange weapons. Robocop starts with the Auto-9 which has unlimited ammunition... other weapons may be more powerful but contain limited ammo.</desc>
+		<rating>0.55</rating>
+		<releasedate>19940301T000000</releasedate>
+		<developer>NMS Software Ltd.</developer>
+		<publisher>Virgin</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/RoboCop versus The Terminator (USA, Europe).jpg</image>
+		<video>./snaps/RoboCop versus The Terminator (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Sensible Soccer - European Champions (Europe).zip</path>
+		<name>Sensible Soccer: European Champions</name>
+		<sortname />
+		<desc>With the original Sensible Soccer having sold hugely, this updated version was released some months later (and then used as the basis for the later console versions). The teams are updated, with the sides present in the 92-93 European tournaments included, and the player names updated to take transfers into account. The game was tidied up and changed in a number of areas. The most significant change is the addition of red and yellow cards for discipline (2 yellow card offenses or one ‘professional foul’ (denying your opponent a clear goal-scoring opportunity) results in that player being sent off). The goalkeepers have been improved in skill, and the 1994 World Cup Qualifying tournament was added.</desc>
+		<rating>0.6</rating>
+		<releasedate>19931102T000000</releasedate>
+		<developer>Eurocom</developer>
+		<publisher>Sony Electronic Publishing</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Sensible Soccer - European Champions (Europe).jpg</image>
+		<video>./snaps/Sensible Soccer - European Champions (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Sonic Drift Racing ~ Sonic Drift 2 (World).zip</path>
+		<name>Sonic Drift 2</name>
+		<sortname />
+		<desc>Sonic Drift 2 is the sequel to Sonic Drift, also on the Game Gear and the first in the series to be released outside Japan. One of the new things in the sequel is a lag boost system, which means that anyone who is behind gets a boost to catch up again. This keeps the action in the game. Another new thing is that the gadgets touched while racing do not come into effect immediately. They need to be triggered manually by pressing up on the D-pad. There are 3 GPs to compete in and each GP has 6 tracks. The names of the GPs are: 1. Purple Chaos GP 2. White Chaos GP 3.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950317T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Sonic Drift Racing ~ Sonic Drift 2 (World).jpg</image>
+		<video>./snaps/Sonic Drift Racing ~ Sonic Drift 2 (World).mp4</video>
+	</game>
+	<game>
+		<path>./Sonic Labyrinth (World).zip</path>
+		<name>Sonic Labyrinth</name>
+		<sortname />
+		<desc>One day, Sonic woke up from a nap to find that his classic red sneakers have been replaced with Dr. Eggman's new invention, Speed Down Boots. Curses! In order to remove them, Sonic must go through Eggman's great labyrinth and retrieve the Chaos Emeralds. Like the later Sonic 3D Blast, this game uses a 3/4 isometric view. Make your way across four main zones, each divided into four stages. In order to complete a stage, you must find the three keys and open the exit before time runs out. But watch out! Enemies want to hinder your progress. Knock them out with your Spin Dash. And be on the look out for obstacles like bumpers, flippers, teleporters, spikes, and conveyor belts. Collect power-ups to increase your chances of success.</desc>
+		<rating>0.4</rating>
+		<releasedate>19951101T000000</releasedate>
+		<developer>Minato Giken</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Sonic Labyrinth (World).jpg</image>
+		<video>./snaps/Sonic Labyrinth (World).mp4</video>
+	</game>
+	<game>
+		<path>./Sonic Spinball (USA, Europe).zip</path>
+		<name>Sonic the Hedgehog Spinball</name>
+		<sortname />
+		<desc>The evil doctor Robotnik has a new plan to take over the world. He has built a new weapon, the Veg-O-Fortress on Mount Mobius and with it, he is transforming all creatures into robots. Sonic sneaks into the fortress and tries to stop Robotnik. Use Sonic as a pinball in 4 dangerous levels. Score points, get rings, collect Chaos Emeralds and destroy the boss at the end of each level.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940901T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Sonic Spinball (USA, Europe).jpg</image>
+		<video>./snaps/Sonic Spinball (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Space Harrier (World).zip</path>
+		<name>Space Harrier</name>
+		<sortname />
+		<desc>Run… fly… dodge those obstacles, but return fire on wave after wave of attacking aliens. Armed with a really big gun, you have to defend yourself against the alien hordes using your wits to navigate around the screen. But watch out for those end of level bosses!</desc>
+		<rating>0.75</rating>
+		<releasedate>19911101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Space Harrier (World).jpg</image>
+		<video>./snaps/Space Harrier (World).mp4</video>
+	</game>
+	<game>
+		<path>./Spider-Man - Return of the Sinister Six (USA, Europe).zip</path>
+		<name>Spider-Man: Return of the Sinister Six</name>
+		<sortname />
+		<desc>From the ingame intro: "Doctor Octopus is plotting the crowning caper of his criminal career... to rule the world. He has reunited the Sinister Six and with these super-villains together again, nothing stands in their way - except Spider-Man!" Spider-Man: Return of the Sinister Six is a side-scrolling game which puts you in the role of Spidey throughout six levels against Electro, Sandman, Mysterio, Vulture, Hobgoblin and Doctor Octopus respectively. Some puzzle solving (like finding a key) is necessary to beat some levels. Spidey can duck jump, climb walls, punch, shoot webs to swing (by pressing punch and jump together) and perform a jump kick (by pressing the punch button twice).</desc>
+		<rating>0.55</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>B.I.T.S.</developer>
+		<publisher>Flying Edge</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Spider-Man - Return of the Sinister Six (USA, Europe).jpg</image>
+		<video>./snaps/Spider-Man - Return of the Sinister Six (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Spider-Man - X-Men - Arcade's Revenge (USA).zip</path>
+		<name>Spider-Man &amp; X-Men: Arcade's Revenge</name>
+		<sortname />
+		<desc>Spider-Man and members of the X-Men have teamed up in this side-scrolling action game to fight against Arcade, who has built a giant amusement park for the sole purpose of trapping and destroying the super-heroes. You first play as Spider-Man, who sees the X-Men get kidnapped by Arcade and follows them. Once you make it inside Arcade's park you can choose to play as Spider-Man, Cyclops, Storm, Gambit, or Wolverine, each of whom are trapped in a different part of Arcade's maze of deadly traps. You must navigate all five of them safely out, using their different skills and abilities while defeating baddies and bosses along the way.</desc>
+		<rating>0.5</rating>
+		<releasedate>19940301T000000</releasedate>
+		<developer>Software Creations</developer>
+		<publisher>Flying Edge</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Spider-Man - X-Men - Arcade's Revenge (USA).jpg</image>
+		<video>./snaps/Spider-Man - X-Men - Arcade's Revenge (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Star Wars (USA, Europe).zip</path>
+		<name>Star Wars</name>
+		<sortname />
+		<desc>This game is based closely on Star Wars Episode IV: A New Hope. It combines a number of gameplay styles, but primarily it is a side scrolling run-and-jump platformer. The game begins on Tatooine, where you, as Luke Skywalker, must travel around and meet up with R2D2, C3PO, Obi-Wan, and so on. Eventually, you travel through Mos Eisley and the Death Star as well. While most of the game has you controlling Luke, Han or Leia directly, some of the various game styles include a first-person Millennium Falcon asteroid belt sequence, and an overhead view Death Star trench run.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Tiertex</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Star Wars (USA, Europe).jpg</image>
+		<video>./snaps/Star Wars (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Super Columns (USA, Europe).zip</path>
+		<name>Super Columns</name>
+		<sortname />
+		<desc>Super Columns is an updated version of Columns with more options of play, but with the same setup, maneuvering falling blocks into groups of three or more to eliminate them from the screen. Along with a Versus mode there is also a Story mode as well. An evil sorcerer by the name of Surhand has stolen a mystical amulet which brings peace and serenity to the land of Phoenicia and hopes to use it to bring death and destruction to the land. The player must battle their way through his four guards in a series of best two-out-of-three games of Columns in order to face off against Surhand and bring peace back to the land.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950605T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Super Columns (USA, Europe).jpg</image>
+		<video>./snaps/Super Columns (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Super Golf (USA).zip</path>
+		<name>Super Golf</name>
+		<sortname />
+		<desc>Super Golf is a golf game developed by Sigma Enterprises and published by Sigma in Japan, Sage's Creation in the US, for the Sega Game Gear.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sigma Enterprises</developer>
+		<publisher>Sage's Creation</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Super Golf (USA).jpg</image>
+		<video>./snaps/Super Golf (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).zip</path>
+		<name>Super Kick Off</name>
+		<sortname />
+		<desc>Super Kick Off is an enhanced developed version of the popular football game developed by Dino Dini for consoles. It includes 40 teams (16 national and 24 club), along the ability to edit club team names and shirts and player names and looks. Game modes include friendlies, Domestic League and Cup (composed by eight English teams), European League (16 European teams) and International cup (eight team tournament). Training allows to practice free kicks, penalties or to pass, shoot and dribble without opposition. Players can compete head to head, or play cooperatively against the computer in the same team.</desc>
+		<rating>0.65</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Tiertex</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).jpg</image>
+		<video>./snaps/Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).mp4</video>
+	</game>
+	<game>
+		<path>./Taz-Mania (USA, Europe, Brazil).zip</path>
+		<name>Taz-Mania</name>
+		<sortname />
+		<desc>One evening, Taz's father is telling an intriguing tale. Somewhere on Tazmania is a Lost Valley, and in that valley nests a huge seabird, so huge that one of it's eggs could feed a family for a year! Just think of the omelette one of those could make! Thus Taz becomes fascinated and leaves in search of one of those eggs before his Dad has even finished the story... Taz can Jump, perform a Spinning Jump and a Spin Attack. Munch roast chickens to replenish life. Gain extra points by moving quickly through the levels - there are six stages and each stage has two rounds. There are a few other items and pickups such as: 1. Spring: boings Taz up to high ledges. 2. Blocks: destructible. 3. 1-UP: extra life. 4. Star: invulnerability.</desc>
+		<rating>0.65</rating>
+		<releasedate>19921001T000000</releasedate>
+		<developer>NuFX, Inc.</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Taz-Mania (USA, Europe, Brazil).jpg</image>
+		<video>./snaps/Taz-Mania (USA, Europe, Brazil).mp4</video>
+	</game>
+	<game>
+		<path>./Tempo Jr. (World).zip</path>
+		<name>Tempo Jr.</name>
+		<sortname />
+		<desc>Tempo Jr. is platforming game and sequel to Tempo on the Sega 32X. The player again takes control of the cute grasshopper Tempo and guides him through various stages. The goal in each level is just to find the exit. Each level consists of two stages and a boss fight. After finishing a level, Tempo can take part in a mini game if he found coins in the completed level and win additional points or lives. Tempo can shoot notes from his hands to stun enemies, which will then automatically be kicked away on contact. He can also use his wings to move faster, float in the air or fall more slowly and more controlled.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Tempo Jr. (World).jpg</image>
+		<video>./snaps/Tempo Jr. (World).mp4</video>
+	</game>
+	<game>
+		<path>./Tom and Jerry - The Movie (USA, Europe).zip</path>
+		<name>Tom and Jerry: The Movie</name>
+		<sortname />
+		<desc>Tom &amp; Jerry: The Movie is a Tom &amp; Jerry game that's pretty much just Tom chasing Jerry while negotiating a bunch of ridiculously-placed platforms.</desc>
+		<rating>0.5</rating>
+		<releasedate>19930701T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Tom and Jerry - The Movie (USA, Europe).jpg</image>
+		<video>./snaps/Tom and Jerry - The Movie (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Wagyan Land (Japan).zip</path>
+		<name>Wagyan Land</name>
+		<sortname />
+		<desc>Wagyan Land was only released in Japan, and is a slightly enhanced port of a 1989 Famicom game of the same name and was released as part of the Wagyan Land series. Wagyan Land is a semi-educational title, comprised of both platforming segments and minigames such as shiritori (which is seen as the main reason no games in the series have seen western releases). The Game Gear port features redesigned levels to accommodate the smaller screen, a slightly altered plot and some powerups from Wagyan Land 2.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910726T000000</releasedate>
+		<developer>Now Production</developer>
+		<publisher>Namco</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Wagyan Land (Japan).jpg</image>
+		<video>./snaps/Wagyan Land (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Wimbledon (World).zip</path>
+		<name>Wimbledon</name>
+		<sortname />
+		<desc>The oldest of the four Grand Slam tournaments, held in London on grass every July, is the basis for this tennis game. The ball comes off the grass surface fast and low, reflecting the surface's reputation for providing the most exciting tennis. It's viewed in the typical third person perspective, although with quite a distinct 3D effect and with shadows. You can play standard 1 or 2 player matches, or play the full tournament from the quarter-final stages onwards. You can play standard shots as well as lobs and drop shots, and full service rules are featured. You can select your character and build up their skills as the game progresses.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920801T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Wimbledon (World).jpg</image>
+		<video>./snaps/Wimbledon (World).mp4</video>
+	</game>
+	<game>
+		<path>./Wolfchild (Europe).zip</path>
+		<name>Wolfchild</name>
+		<sortname />
+		<desc>Dr. Kal Morrow, expert in genetic research and creation of human-animal hybrids, has been kidnapped and his family brutally murdered by the terrorist organization CHIMERA. His surviving son Saul takes it upon himself to avenge his family. Using his father's research, he turns into a man-wolf and sets out to find CHIMERA's base and defeat their leader Karl Draxx. As Saul, it is your job to traverse five different areas on your way to Draxx. When Saul collects enough power-ups, he turns into his wolf form and gains a special psychic shot attack, which can be improved by collecting futher power-ups. However, if Saul loses health, he turns back into his human form and only has his fists to fight the numerous enemies.</desc>
+		<rating>0.95</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Virgin</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Wolfchild (Europe).jpg</image>
+		<video>./snaps/Wolfchild (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./World Class Leaderboard Golf ~ World Class Leader Board (USA, Europe).zip</path>
+		<name>World Class Leaderboard Golf</name>
+		<sortname />
+		<desc>Before the long-running Links series, Access produced the Leader Board lineage, which concludes here. Wind, snap and power are the main considerations as you dodge the bunkers, water and rough which make for more complex courses than the 8-bit versions of the original. A course editor is provided. The courses provided include real courses like St. Andrews, a fictional designs such as The Gauntlet, which as the name suggests is designed to push your skills to the maximum. The PC version revolutionized the use of the PC speaker to reproduce voice samples via their patented "RealSound" process. Quips like "No doubt about it, he's deep in the sandtrap", "Straight onto the fairway", and "Looks like he hit the tree, Jim.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910901T000000</releasedate>
+		<developer>Tiertex</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/World Class Leaderboard Golf ~ World Class Leader Board (USA, Europe).jpg</image>
+		<video>./snaps/World Class Leaderboard Golf ~ World Class Leader Board (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Zool - Ninja of the 'Nth' Dimension (USA).zip</path>
+		<name>Zool: Ninja of the “Nth” Dimension</name>
+		<sortname />
+		<desc>His name is Zool. He is a Ninja in the 2345th dimension, 6 worlds each with 3 stages. In this platformer, you can run, jump, climb walls and shoot the enemies. In the levels are also some power-ups for Zool. There are life-spending hearts, smart bombs, shields, more powerful jump-skill and a twin Zool. This "twin" makes all your motions a few seconds after you do. In the options you can change the difficulty and the game-speed two times, the continues and the background music (Rock or Funk).</desc>
+		<rating>0.5</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Gremlin Graphics Software</developer>
+		<publisher>Gremlin Graphics Software</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Zool - Ninja of the 'Nth' Dimension (USA).jpg</image>
+		<video>./snaps/Zool - Ninja of the 'Nth' Dimension (USA).mp4</video>
 	</game>
 </gameList>

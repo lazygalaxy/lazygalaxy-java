@@ -1798,19 +1798,6 @@
 		<video>./snaps/Xenophobe (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Adventure (USA).zip</path>
-		<name>Adventure</name>
-		<sortname />
-		<desc>An evil magician has stolen the Enchanted Chalice and has hidden it somewhere in the Kingdom. The object of the game is to rescue the Enchanted Chalice and place it inside the Golden Castle where it belongs. This is no easy task, as the Evil Magician has created three Dragons to hinder you in your quest for the Golden Chalice. There is Yorgie, the Yellow Dragon, who is just plain mean; there is Grundle, the Green Dragon, who is mean and ferocious; and there is Rhindle, the Red Dragon, who is the most ferocious of all. Rhindle is also the fastest Dragon and is the most difficult to outmaneuver.</desc>
-		<rating>0.75</rating>
-		<releasedate>20030101T000000</releasedate>
-		<developer>Sears</developer>
-		<publisher>Atari</publisher>
-		<genre>Adventure</genre>
-		<image>./boxart/Adventure (USA).jpg</image>
-		<video>./snaps/Adventure (USA).mp4</video>
-	</game>
-	<game>
 		<path>./H.E.R.O. (USA).zip</path>
 		<name>H.E.R.O.</name>
 		<sortname />
@@ -1990,7 +1977,7 @@
 	</game>
 	<game>
 		<path>./Hunt &amp; Score ~ Memory Match (USA).zip</path>
-		<name>Hunt and Score</name>
+		<name>Hunt &amp; Score</name>
 		<sortname />
 		<desc>Hunt and Score is similar to the game Memory. The player is presented with a numbered grid; behind each grid section is a picture. On each turn, the player chooses two grid sections in an attempt to find two matching pictures. Points are earned for finding matching pictures, and the player with the most points at the end wins. Several game options include a 16 or 30 square game grid, the ability to handicap one of the players, and the ability to enable or disable wild cards.</desc>
 		<rating>0.3</rating>
@@ -2194,7 +2181,7 @@
 	</game>
 	<game>
 		<path>./Roc 'n Rope (USA).zip</path>
-		<name>Roc 'n Rope</name>
+		<name>Roc'n Rope</name>
 		<sortname />
 		<desc>Your player is a mountain climber who must avoid cavemen, dinosaurs and pterodactyls as he climbs up the cliff-sides. Your goal in each level is to climb up and reach a mystical bird with great plumage, while staying one step above the bonus timer which determines how long you may stay on each level. The mountain climber has only one ability; to shoot rope at 45 degree angles which he may then climb up to other platforms. His other action is a stun beam which will allow him to walk past enemies who get too close; but will only work horizontally from him.</desc>
 		<rating>0.4</rating>
@@ -2456,43 +2443,67 @@
 	<game>
 		<path>./Crazy Climber (USA).zip</path>
 		<name>Crazy Climber</name>
+		<sortname />
 		<desc>As Crazy Climber, climb your way to the top of a series of buildings, where a helicopter is waiting to pick you up and take you to the next building. As Climber scales a building, he is able to climb up and sideways but he cannot climb down. While climbing a building, windows will open and close simultaneously. If any window closes on either of his hands he will lose his grip. However, if a window closes on both of his hands, he will fall to his death, resulting in the loss of a life. You have three Climbers in total, but you are awarded an extra Climber every 30,000 points.</desc>
-		<image>./boxart/Crazy Climber (USA).jpg</image>
-		<video>./snaps/Crazy Climber (USA).mp4</video>
 		<rating>0.4</rating>
 		<releasedate>19830101T000000</releasedate>
 		<developer>Nichibutsu</developer>
 		<publisher>Atari</publisher>
 		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220222T084851</lastplayed>
+		<image>./boxart/Crazy Climber (USA).jpg</image>
+		<video>./snaps/Crazy Climber (USA).mp4</video>
 	</game>
 	<game>
 		<path>./Gremlins (USA).zip</path>
 		<name>Gremlins</name>
+		<sortname />
 		<desc>This game is based on the Steven Spielberg movie of the same name but is different than the other versions. In this version, on the first screen, Mogwai are jumping from the roof to get at hamburgers on the ground. You, as Billy, must catch them before the hit the ground. If you get them all, it is off to the next, faster, level. If you miss eight, then you go to a shooting screen.</desc>
-		<image>./boxart/Gremlins (USA).jpg</image>
-		<video>./snaps/Gremlins (USA).mp4</video>
 		<releasedate>19840101T000000</releasedate>
 		<developer>Atari</developer>
 		<publisher>Atari</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T085046</lastplayed>
+		<image>./boxart/Gremlins (USA).jpg</image>
+		<video>./snaps/Gremlins (USA).mp4</video>
 	</game>
 	<game>
 		<path>./Klax (USA).zip</path>
 		<name>Klax</name>
+		<sortname />
 		<desc>Klax features a conveyor belt at the top of the screen. It constantly rolls toward the playing area, delivering a steady supply of blocks. The player controls a small device which sits at the interface between the conveyor belt and the playing area, and can be moved left and right to catch the blocks and either deposit them in the playing area or push them back up the conveyor belt. The device can hold up to five blocks. A block which is not caught and placed in the playing area or pushed back up the belt is considered a drop. The blocks are solid colours, but there is also a flashing block which can be used as a wildcard on any colour.</desc>
-		<image>./boxart/Klax (USA).jpg</image>
-		<video>./snaps/Klax (USA).mp4</video>
 		<rating>0.7</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Atari</developer>
 		<publisher>Atari</publisher>
 		<genre>Puzzle</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220222T085235</lastplayed>
+		<image>./boxart/Klax (USA).jpg</image>
+		<video>./snaps/Klax (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Adventure (USA).zip</path>
+		<name>Adventure</name>
+		<sortname />
+		<desc>An evil magician has stolen the Enchanted Chalice and has hidden it somewhere in the Kingdom. The object of the game is to rescue the Enchanted Chalice and place it inside the Golden Castle where it belongs. This is no easy task, as the Evil Magician has created three Dragons to hinder you in your quest for the Golden Chalice. There is Yorgie, the Yellow Dragon, who is just plain mean; there is Grundle, the Green Dragon, who is mean and ferocious; and there is Rhindle, the Red Dragon, who is the most ferocious of all. Rhindle is also the fastest Dragon and is the most difficult to outmaneuver.</desc>
+		<rating>0.75</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sears</developer>
+		<publisher>Atari</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/Adventure (USA).jpg</image>
+		<video>./snaps/Adventure (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pac-Man (USA).zip</path>
+		<name>Pac-Man</name>
+		<sortname />
+		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board. Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde). One touch from any of these ghosts means a loss of life for Pac-Man.</desc>
+		<rating>0.55</rating>
+		<releasedate>19820409T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Pac-Man (USA).jpg</image>
+		<video>./snaps/Pac-Man (USA).mp4</video>
 	</game>
 </gameList>

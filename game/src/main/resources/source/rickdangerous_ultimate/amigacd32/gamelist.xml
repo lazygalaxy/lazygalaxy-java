@@ -87,7 +87,7 @@
 	</game>
 	<game>
 		<path>./Bubba 'n' Stix (Europe).cue</path>
-		<name>Bubba 'n' Stix</name>
+		<name>Bubba 'N' Stix</name>
 		<sortname />
 		<desc>The player controls Bubba, a redneck character, who is accompanied by a sentient stick named Stix. Stix can be used in various ways to help Bubba defeat enemies and get past obstacles: for instance, Stix can be thrust into a hole in the side of a platform so that Bubba can climb higher.</desc>
 		<releasedate>19940101T000000</releasedate>
@@ -296,7 +296,7 @@
 	</game>
 	<game>
 		<path>./Jungle Strike - The Sequel to Desert Strike (Europe).cue</path>
-		<name>Jungle Strike</name>
+		<name>Jungle Strike: The Sequel to Desert Strike</name>
 		<sortname />
 		<desc>Some time after Operation Desert Strike, Ibn Kilbaba, son of Kilbaba S.R, threatens to annihilate America. After his father was killed, the people who were under his control, sent his son running off, along with his father's money and nuclear weapons program. Kilbaba, more ruthless than his father, longs for revenge of his father's death and decides to shed the blood of those who killed him, the Americans. Already armed, Kilbaba hires Carlos Ortega to help him set up his Nuclear Weapons program, deep in South America. Carlos Ortega, the world's most notorious druglord, also yearns to seek revenge. With his own private army, armed with the most hi-tech weapons, he's ready to fight America at all costs.</desc>
 		<rating>0.8</rating>
@@ -526,7 +526,7 @@
 	</game>
 	<game>
 		<path>./Zool - Ninja of the Nth Dimension (Europe).cue</path>
-		<name>Zool: Ninja of the Nth Dimension</name>
+		<name>Zool: Ninja of the “Nth” Dimension</name>
 		<sortname>Zool 1</sortname>
 		<desc>His name is Zool, and he is a gremlin-like creature from another dimension. He is forced to land on the Earth, but his sole goal is to attain the prestigious ranking of a Ninja. To do that, Zool will have to travel through six worlds, each divided into three stages, defeat his enemies, and prove himself worthy of that title.</desc>
 		<releasedate>19930101T000000</releasedate>
@@ -658,7 +658,7 @@
 	</game>
 	<game>
 		<path>./Labyrinth of Time, The (Europe) [CD32].cue</path>
-		<name>The Labyrinth of Time</name>
+		<name>Labyrinth of Time, The</name>
 		<sortname />
 		<desc>The game begins during player's commute home from work. While aboard the subway, the player and their train car are suddenly sucked into an alternate dimension. An illusion in the form of the mythological character Daedalus explains that King Minos has forced him to oversee the construction of a labyrinth that spans the space-time continuum. Upon its construction, King Minos will invade and conquer all times and places with his supernatural powers. Daedalus pleads for the player to find a way to destroy the labyrinth before Minos can complete his conquest.</desc>
 		<rating>0.6</rating>
@@ -737,18 +737,6 @@
 		<players>1</players>
 		<image>./boxart/Defender of the Crown II (USA) (En,Fr,De,Es,It).jpg</image>
 		<video>./snaps/Defender of the Crown II (USA) (En,Fr,De,Es,It).mp4</video>
-	</game>
-	<game>
-		<path>./Alfred Chicken (Europe).cue</path>
-		<name>Alfred Chicken</name>
-		<sortname />
-		<desc>Alfred the chicken must rescue his friends and his bird (pardon the pun) Floella from the Meka Chickens. The result is a platform game across differently-themed levels, which are finished by either climbing to the top of the level or killing a boss. Bonus games and secret rooms have been included, and progression sometimes requires solving positional puzzles.</desc>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Twilight</developer>
-		<publisher>Mindscape</publisher>
-		<genre>Platform</genre>
-		<image>./boxart/Alfred Chicken (Europe).jpg</image>
-		<video>./snaps/Alfred Chicken (Europe).mp4</video>
 	</game>
 	<game>
 		<path>./Base Jumpers (Europe).cue</path>
@@ -974,19 +962,6 @@
 		<video>./snaps/Sabre Team (1994)(Krisalis)(M5)[!].mp4</video>
 	</game>
 	<game>
-		<path>./Sensible Soccer - European Champions v1.1 (1993)(Renegade)(M4)[!].cue</path>
-		<name>Sensible Soccer: European Champions</name>
-		<sortname />
-		<desc>La mouture European Champions de Sensible Soccer inclut les noms des joueurs présents en clubs européens lors de la saison 92/93. Vous pouvez aussi participer aux qualifications pour la Coupe du Monde 94. L'un des arguments majeurs du jeu à l'époque était la prise en compte des cartons.</desc>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sensible Software</developer>
-		<publisher>Renegade Software</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-		<image>./boxart/Sensible Soccer - European Champions v1.1 (1993)(Renegade)(M4)[!].jpg</image>
-		<video>./snaps/Sensible Soccer - European Champions v1.1 (1993)(Renegade)(M4)[!].mp4</video>
-	</game>
-	<game>
 		<path>./International Sensible Soccer - World Champions (Europe) (En,Fr,De,It).cue</path>
 		<name>International Sensible Soccer: World Champions</name>
 		<sortname />
@@ -1108,7 +1083,7 @@
 	</game>
 	<game>
 		<path>./Overkill &amp; Lunar-C (Europe).cue</path>
-		<name>Overkill  and  Lunar-C</name>
+		<name>Overkill | Lunar-C</name>
 		<sortname />
 		<desc>This CD contains two shoot 'em ups: Overkill (a Defender clone), and Lunar-C (a Gradius/Lifeforce clone). Lunar-C is unique in that it was only released in this compilation.</desc>
 		<releasedate>19930101T000000</releasedate>
@@ -1144,5 +1119,107 @@
 		<players>1-2</players>
 		<image>./boxart/Skeleton Krew (Europe).jpg</image>
 		<video>./snaps/Skeleton Krew (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Alfred Chicken (Europe).cue</path>
+		<name>Alfred Chicken</name>
+		<sortname />
+		<desc>Alfred the chicken must rescue his friends and his bird (pardon the pun) Floella from the Meka Chickens. The result is a platform game across differently-themed levels, which are finished by either climbing to the top of the level or killing a boss. Bonus games and secret rooms have been included, and progression sometimes requires solving positional puzzles.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Twilight</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Alfred Chicken (Europe).jpg</image>
+		<video>./snaps/Alfred Chicken (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Dangerous Streets and Wing Commander.cue</path>
+		<name>Wing Commander | Dangerous Streets</name>
+		<sortname />
+		<desc>A two game compilation that came packaged with the Amiga CD32 system. It includes the 2D one-on-one fighting game Dangerous Streets, and the futuristic space-combat simulator Wing Commander (in an AGA-enhanced version only available in this compilation).</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Micromania</developer>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Dangerous Streets and Wing Commander.jpg</image>
+		<video>./snaps/Dangerous Streets and Wing Commander.mp4</video>
+	</game>
+	<game>
+		<path>./Arabian Nights (1993)(Buzz)(M4)[!].cue</path>
+		<name>Arabian Nights</name>
+		<sortname />
+		<desc>In Arabian Nights, you play Sinbad Jr., a gardener at the royal palace who loves to sneak a peek at the princess every now and again. One day, Sinbad looks up and sees a huge demon kidnapping the princess. He dashes to save the princess, only to be caught by the palace guards and thrown in the dungeon. There are nine levels in the game. In several levels, there are various gameplay elements which include flying on the magic carpet and racing against your opponent in a mine cart. You will also meet some characters, which if you give them an item they want, they will give you something in return. In other levels, you have to do things yourself.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Krisalis Software</developer>
+		<publisher>Krisalis Software</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Arabian Nights (1993)(Buzz)(M4)[!].jpg</image>
+		<video>./snaps/Arabian Nights (1993)(Buzz)(M4)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Fightin' Spirit (1996)(NEO)(M3)[!][Amiga-CD32].cue</path>
+		<name>Fightin' Spirit</name>
+		<sortname />
+		<desc>Fightin' Spirit is a one-on-one beat 'em up centred around a competition by a gang overlord to find new heavies for his organisation. Ten tough-nuts have come forward, such as Burke the squaddie and Eric the biker. Many of these have special moves in which they can turn into an animal - Tong Lee can become a tiger and Lorente a puma. Special moves are selected using a combination of joystick/pad movements followed by a tap of fire. The game can be played with or without blood, and in a turbo speed mode, with tournament and tag-team options for potential multi-player tournaments. The game supports CD32 controllers as well as one-button joysticks.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Fightin' Spirit (1996)(NEO)(M3)[!][Amiga-CD32].jpg</image>
+		<video>./snaps/Fightin' Spirit (1996)(NEO)(M3)[!][Amiga-CD32].mp4</video>
+	</game>
+	<game>
+		<path>./James Pond 3 - Operation Starfi5h (1994)(Millennium)[!].cue</path>
+		<name>James Pond 3: Operation Starfish</name>
+		<sortname />
+		<desc>The gameplay in Operation Starfish is similar to Super Mario World. The map of the Moon consists of many levels connected with pathways. The levels are grouped into themed sections including cheese, custard, ice cream and more, with each section culminating in a boss fight. Many stage names are a play on words, such as "The Garden of Edam" for the first level (named after the Garden of Eden). A unique twist to the standard "Super Mario"-style gameplay is that Pond's magno-boots allow him to run up walls. Once on a ceiling, Pond will only fall down if he jumps off, and some levels have sections which the player must navigate in this upside-down fashion.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Vectordean</developer>
+		<publisher>Millennium Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/James Pond 3 - Operation Starfi5h (1994)(Millennium)[!].jpg</image>
+		<video>./snaps/James Pond 3 - Operation Starfi5h (1994)(Millennium)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Subwar 2050 (1994)(MicroProse)(M3)[!].cue</path>
+		<name>Subwar 2050</name>
+		<sortname />
+		<desc>The year is 2050. Ocean is the next frontier, and war inevitably reached there. As an independent mercenary working for a corporate conglomerate, the player has to pilot the latest fighter subs to protect the corporate interests, so they can get rewarded with cold hard cash. With 5 different theater of operations (of varying difficulty) and an interesting mix of aerial and submarine tactics, this game can be described as Strike Commander under the sea, without the narrative.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Particle Systems</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Subwar 2050 (1994)(MicroProse)(M3)[!].jpg</image>
+		<video>./snaps/Subwar 2050 (1994)(MicroProse)(M3)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Theme Park (1995)(Mindscape)[!].cue</path>
+		<name>Theme Park</name>
+		<sortname />
+		<desc>Dominating the exciting world of Theme Park ownership is your goal in this strategy game from Bullfrog. The first task is to set up your rides within the available land, structuring convenient paths and queues and ideally leaving some space for bigger rides once they become available, and include some lakes and trees to increase the park's allure. Rides range from Teacups and Haunted Houses to the biggest most elaborate roller-coaster you can design, and water rides that loop around other rides.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Bullfrog</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Theme Park (1995)(Mindscape)[!].jpg</image>
+		<video>./snaps/Theme Park (1995)(Mindscape)[!].mp4</video>
+	</game>
+	<game>
+		<path>./Sensible Soccer - European Champions v1.1 (1993)(Renegade)(M4)[!].cue</path>
+		<name>Sensible Soccer: European Champions</name>
+		<desc>La mouture European Champions de Sensible Soccer inclut les noms des joueurs présents en clubs européens lors de la saison 92/93. Vous pouvez aussi participer aux qualifications pour la Coupe du Monde 94. L'un des arguments majeurs du jeu à l'époque était la prise en compte des cartons.</desc>
+		<image>./boxart/Sensible Soccer - European Champions v1.1 (1993)(Renegade)(M4)[!].jpg</image>
+		<video>./snaps/Sensible Soccer - European Champions v1.1 (1993)(Renegade)(M4)[!].mp4</video>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sensible Software</developer>
+		<publisher>Renegade Software</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

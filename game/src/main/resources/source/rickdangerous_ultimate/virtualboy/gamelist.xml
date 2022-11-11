@@ -1,0 +1,339 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Virtual Boy</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Galactic Pinball (Japan, USA).vb</path>
+		<name>Galactic Pinball</name>
+		<sortname />
+		<desc>Galactic Pinball is a pinball video game released in 1995 on Virtual Boy. In addition to the high scores, you can choose between four pinball tables. These are named Alien, UFO, Colony and cosmic.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950814T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Galactic Pinball (Japan, USA).jpg</image>
+		<video>./snaps/Galactic Pinball (Japan, USA).mp4</video>
+	</game>
+	<game>
+		<path>./Innsmouth no Yakata (Japan).vb</path>
+		<name>Insumausu no Yakata (The Innsmouth Hall)</name>
+		<sortname />
+		<desc>Deep within the pitch-black forest of the dead lies a terrible secret, a mansion filled with horrendous monsters called the Innsmouth Mansion! Once someone enters, they will have to escape from each floor before it's too late. However, no matter how many monsters you go through, you won't be able to run from Innsmouth's evil clutches so easily. Will you be able to escape the horrifying monsters of Innsmouth and reach safety? Everything is up to you.</desc>
+		<rating>0.5</rating>
+		<releasedate>19951013T000000</releasedate>
+		<developer>Betop</developer>
+		<publisher>I'Max</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Innsmouth no Yakata (Japan).jpg</image>
+		<video>./snaps/Innsmouth no Yakata (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Jack Bros. (USA).vb</path>
+		<name>Jack Bros.</name>
+		<sortname />
+		<desc>Jack Bros., is an adventure video game released in 1995 on Virtual Boy. Once a year, at Halloween, the door between our country and the fairies opens. All fairy should return to Fairieland 23:00, otherwise, they will be banished forever. You must choose one of three Jack Bros. as your character. Each has its own attributes and weapons and special attacks.</desc>
+		<rating>0.8</rating>
+		<releasedate>19951030T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Jack Bros. (USA).jpg</image>
+		<video>./snaps/Jack Bros. (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mario Clash (Japan, USA).vb</path>
+		<name>Mario Clash</name>
+		<sortname />
+		<desc>Mario Clash is a game of out platforms on Virtual Boy. The player incarnates Mario. The Clash House Tower was invaded by monsters. This is Mario entrusted to the task of evacuating them. But the tower is difficult to access and Mario is forced to fight in large rooms consist of long platforms, and in the tubing.</desc>
+		<rating>0.6</rating>
+		<releasedate>19950928T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Mario Clash (Japan, USA).jpg</image>
+		<video>./snaps/Mario Clash (Japan, USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mario's Tennis (Japan, USA).vb</path>
+		<name>Mario's Tennis</name>
+		<sortname />
+		<desc>Mario's Tennis Tennis is a game released in 1995 on Virtual Boy. Seven characters from the Mario universe are present: Mario, Luigi, Toad, Peach, Koopa, Yoshi and Donkey Kong Jr. playing only on one short pipe surrounded by a landscape.</desc>
+		<rating>0.6</rating>
+		<releasedate>19950721T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Mario's Tennis (Japan, USA).jpg</image>
+		<video>./snaps/Mario's Tennis (Japan, USA).mp4</video>
+	</game>
+	<game>
+		<path>./Nester's Funky Bowling (USA).vb</path>
+		<name>Nester's Funky Bowling</name>
+		<sortname />
+		<desc>Nester's Funky Bowling is a bowling game released in 1996 on Virtual Boy. Funky Bowling Nester is a classic bowling simulation. You can choose the mode Bowl game: if you want to play for points, in order to enroll in the high score list, Practical: if you just want to practice once, and the last challenge: if you want to play with predefined tasks.</desc>
+		<rating>0.6</rating>
+		<releasedate>19960226T000000</releasedate>
+		<developer>Saffire Corporation</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Nester's Funky Bowling (USA).jpg</image>
+		<video>./snaps/Nester's Funky Bowling (USA).mp4</video>
+	</game>
+	<game>
+		<path>./NikoChan Battle (J) (Prototype).vb</path>
+		<name>NikoChan Battle (Faceball)</name>
+		<sortname />
+		<desc>Faceball was going to be one of the games to support the unreleased Virtual Boy GameLink cable. Like the Faceball games on other consoles (like Faceball 2000 on Game Boy and SNES), the Virtual Boy version could be described as an ego shooter with smiley balls. In a maze, which completely misses all unnecessary details and even textures, you have to hunt down and shoot all enemies in a certain time limit, which gets smaller from level to level. A radar in the upper right corner and a map of the maze, which you can be displayed by pressing Start, help you locate your foes. There's a total of 11 enemies called "Shot Me", "Ninja", "Death", "Stalker", "Invisible", "Bound", "Shieldman", "Ghost", "Hydra", "Wraith" and "Berserker".</desc>
+		<rating>0.4</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Bullet Proof Software</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/NikoChan Battle (J) (Prototype).jpg</image>
+		<video>./snaps/NikoChan Battle (J) (Prototype).mp4</video>
+	</game>
+	<game>
+		<path>./Panic Bomber (USA).vb</path>
+		<name>Panic Bomber</name>
+		<sortname />
+		<desc>Bomberman Blasts the Island of Ever Mist! Get ready for explosive puzzler action with Bomberman! Detonate the worlds of Scary Ruins, Sinister Forest, and Desert Desolation. Conquer the Island of Ever Mist and capture the three celestial models of power. Don't panic! Or you might get scorched by greedy Ms. Flashy or the deadly Count Dracu-Doom. Ignite the dreaded Doom Castle with bombastic moves and combustive strategy. Only then can you open the gates to the legendary Golden Statue of Bomberman. It's a puzzling blast!</desc>
+		<rating>0.65</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Panic Bomber (USA).jpg</image>
+		<video>./snaps/Panic Bomber (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Red Alarm (USA).vb</path>
+		<name>Red Alarm</name>
+		<sortname />
+		<desc>Bursting through incredible dimensions of Virtual space the final mission is clear. Obliterate all enemies and obstacles created by KAOS and terminate this menacing battle system from within. Employing an impressive arsenal of high-tech weapons and evasive maneuvers the Tech-Wing Fighter speeds on. Spinning deaths, spy pods and mosquito mechs appear from everywhere! The fate of humanity will soon be defined. Red Alarm! Red Alarm! Alarm Condition Red!!</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Technical Engineering Support</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Red Alarm (USA).jpg</image>
+		<video>./snaps/Red Alarm (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Space Invaders - Virtual Collection (Japan).vb</path>
+		<name>Space Invaders: Virtual Collection</name>
+		<sortname />
+		<desc>Attention all Earthlings! Relentless alien hordes have been identified near you. Prevent the dangerous Space Invaders from landing on your territory. Use your cannon to defend against waves of descending alien invaders. Don't let them hit the ground or it's all over for you and the Earth! Destroy them and score points!</desc>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Space Invaders - Virtual Collection (Japan).jpg</image>
+		<video>./snaps/Space Invaders - Virtual Collection (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Space Squash (Japan) (Translated).vb</path>
+		<name>Space Squash</name>
+		<sortname />
+		<desc>Space Squash is one of those games where the premise is so simple you could write it on the back of a postage stamp and still have room to spare. You guard one end of a tunnel and your opponent guards the other as you both float around smacking a spiked ball between one another. Get it past the opposition to score a point. First to three wins.</desc>
+		<rating>0.65</rating>
+		<releasedate>19950909T000000</releasedate>
+		<developer>Tomcat System</developer>
+		<publisher>Coconuts Japan</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Space Squash (Japan) (Translated).jpg</image>
+		<video>./snaps/Space Squash (Japan) (Translated).mp4</video>
+	</game>
+	<game>
+		<path>./Teleroboxer (Japan, USA).vb</path>
+		<name>Teleroboxer</name>
+		<sortname />
+		<desc>In a savage display of pounding moves and lightning action, robotic boxers from around the globe step into a futuristic ring. Mirroring the movements of the humans in control, each Teleroboxer is capable of surviving defense matches unbearable to mankind. Slug it out to the staggering end to determine the true world champion. Created with specialized Techtronic powers and unique personalities, these responsive machines show no mercy on their way to the brutal top.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950721T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Teleroboxer (Japan, USA).jpg</image>
+		<video>./snaps/Teleroboxer (Japan, USA).mp4</video>
+	</game>
+	<game>
+		<path>./Vertical Force (USA).vb</path>
+		<name>Vertical Force</name>
+		<sortname />
+		<desc>The game takes place in "Space Era 210." The giant computer that takes care of a human colony planet named Odin suddenly malfunctions and decides to send an army of drone starfighters to destroy Earth. These drones emit a signal that renders all Earth starfighters useless. An archaeology team finds an ancient starfighter on the planet Ragnarok that is fortuitously impervious to the drones' signal. It is up to the player to command this starship and destroy all the alien drones.</desc>
+		<rating>0.65</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Vertical Force (USA).jpg</image>
+		<video>./snaps/Vertical Force (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Virtual Bowling (Japan).vb</path>
+		<name>Virtual Bowling</name>
+		<sortname />
+		<desc>Virtual Bowling is an arcade-style bowling game similar to World Bowling on Game Boy and Nester's Funky Bowling, where the player participates in one of three modes of play available: Standard, Training and Tournament.</desc>
+		<rating>0.3</rating>
+		<releasedate>19951222T000000</releasedate>
+		<developer>Athena</developer>
+		<publisher>Athena</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Virtual Bowling (Japan).jpg</image>
+		<video>./snaps/Virtual Bowling (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Virtual Boy Wario Land (Japan, USA).vb</path>
+		<name>Virtual Boy Wario Land</name>
+		<sortname />
+		<desc>Yikes!!! Get ready for a devious treasure hunt with the infamous scheming Wario. Capture the shining gold and vast treasures locked deep inside a hidden cave. But, beware of poison ponds, perilous prisons, endless walls and creepy woods! Make a quick change into Sea Dragon Wario, Eagle Wario or Bull Wario and utilize their mighty strengths. Blow away enemy cave defenders with body attacks and power actions. Succeed in this greedy plot to seize the riches of this underground world and find this key to freedom!</desc>
+		<rating>0.9</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Virtual Boy Wario Land (Japan, USA).jpg</image>
+		<video>./snaps/Virtual Boy Wario Land (Japan, USA).mp4</video>
+	</game>
+	<game>
+		<path>./Virtual Lab (Japan).vb</path>
+		<name>Virtual Lab</name>
+		<sortname />
+		<desc>Virtual Lab is a puzzle game released in 1995 on Virtual Boy. The game is a cross between Tetris and Pipe Dream. Coins fall from the top of the screen and must be arranged to form completely closed tubes.</desc>
+		<rating>0.25</rating>
+		<releasedate>19951208T000000</releasedate>
+		<developer>Nacoty</developer>
+		<publisher>J-Wing</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Virtual Lab (Japan).jpg</image>
+		<video>./snaps/Virtual Lab (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Virtual League Baseball (USA).vb</path>
+		<name>Virtual League Baseball</name>
+		<sortname />
+		<desc>Hey batta batta swing! You're in the virtual big leagues now. Playing 18 teams from around the world. Throwing fast balls, forkballs, sinkers, sliders and changeups. Swinging for the fence, and laying down bunts. Shagging flies. Snagging drives. And tagging out runners. All in bigger-than-life 3D. With single game, all star and pennant race modes. And catch this: it's the only baseball game good enough to play in the virtual boy ball park. So don't drop the ball. Pick up a starting pitcher. Set your DH. And step up to the plate.</desc>
+		<rating>0.5</rating>
+		<releasedate>19950911T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Virtual League Baseball (USA).jpg</image>
+		<video>./snaps/Virtual League Baseball (USA).mp4</video>
+	</game>
+	<game>
+		<path>./V-Tetris (Japan).vb</path>
+		<name>V-Tetris</name>
+		<sortname />
+		<desc>V-Tetris is a Japanese-exclusive Tetris game for the Virtual Boy. It is not to be confused with the similar Virtual Boy title 3D Tetris, as the two games are entirely different. V-Tetris, unlike 3D Tetris, is mostly the same as the original Tetris games, the only difference being the cylindrical puzzle mode in which blocks could be placed in a 3-D spiral.</desc>
+		<rating>0.6</rating>
+		<releasedate>19950825T000000</releasedate>
+		<developer>Locomotive Corporation</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/V-Tetris (Japan).jpg</image>
+		<video>./snaps/V-Tetris (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Waterworld (USA).vb</path>
+		<name>Waterworld</name>
+		<sortname />
+		<desc>THE DEACON AWAITS! The Deacon will stop at nothing to control the world's most precious resource and he's turned his blood-thirsty Smokers loose on the Atoller civilization in a frantic search for Enola - the tattooed girl who holds the secret to Dryland. Only you can smoke the Smokers and deck the Deacon! Waterworld brings your Virtual Boy screaming to life with incredibly smooth and realistic 3D animations, particle effects and texture mapped rendered graphics. So step into this action packed arcade experience today and learn what 3D gaming is all about.</desc>
+		<rating>1</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Waterworld (USA).jpg</image>
+		<video>./snaps/Waterworld (USA).mp4</video>
+	</game>
+	<game>
+		<path>./3-D Tetris (USA).vb</path>
+		<name>3-D Tetris</name>
+		<sortname />
+		<desc>3D Tetris is a 3D Tetris game on Virtual Boy with 3 modes. The first contains five layers of Tetris blocks. Each time you complete a layer the blocks fall, disappear and you'll be rewarded with points. In the second, you place the blocks around the center of a well, the aim being to make them disappear. In the third mode, a form will be posted before the start of the match. You will have to reproduce that form perfectly.</desc>
+		<rating>0.55</rating>
+		<releasedate>19960322T000000</releasedate>
+		<developer>T&amp;E Soft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<image>./boxart/3-D Tetris (USA).jpg</image>
+		<video>./snaps/3-D Tetris (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Bound High! (JU).vb</path>
+		<name>Bound High!</name>
+		<sortname />
+		<desc>Bound High is one of the games that could have saved the Virtualboy if the console had been relaunched. The game was postponed several times and finally cancelled due to the lack of success of the console, despite having been completed. Chalvo, the bouncing robot, tracks down alien invaders, who threaten the peace of the inhabitants of Earth, in 3D levels located in space - above Earth or in similar universes.</desc>
+		<rating>0.6</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Japan System Supply</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Bound High! (JU).jpg</image>
+		<video>./snaps/Bound High! (JU).mp4</video>
+	</game>
+	<game>
+		<path>./Golf (USA).vb</path>
+		<name>Golf</name>
+		<sortname />
+		<desc>Golf is a golf video game released in 1995 on Virtual Boy. Golf comes in a 3D perspective and contains two modes "tournament" and "bear play" as well as 18 holes during the course.</desc>
+		<rating>0.85</rating>
+		<releasedate>19951101T000000</releasedate>
+		<developer>Technical Engineering Support</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<image>./boxart/Golf (USA).jpg</image>
+		<video>./snaps/Golf (USA).mp4</video>
+	</game>
+	<game>
+		<path>./SD Gundam - Dimension War (Eng Patched)(Japan).vb</path>
+		<name>SD Gundam: Dimension War</name>
+		<sortname />
+		<desc>Based on the popular mecha anime franchise, SD Gundam Dimension War is a turn-based strategy game where you are place in command of a small task force as you travel across the galaxy aiming to wipe out the opposing units you encounter. Gameplay is split in to two parts - a map screen where you manoeuvre your troops and a close up view for battles.</desc>
+		<rating>0.3</rating>
+		<releasedate>19951222T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Strategy</genre>
+		<image>./boxart/SD Gundam - Dimension War (Eng Patched)(Japan).jpg</image>
+		<video>./snaps/SD Gundam - Dimension War (Eng Patched)(Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Fishing.patched_pad.v.1.0.vb</path>
+		<name>Virtual Fishing</name>
+		<sortname />
+		<desc>Virtual Fishing aims to replicate the fishing experience, pitting you against six opponents as you compete in several competitions. Upon starting the game you are presented with a 3D map screen with five locations on for you to compete at, as well as a training area where you can get used to the controls, which are pretty straightforward.</desc>
+		<rating>0.6</rating>
+		<releasedate>19951006T000000</releasedate>
+		<developer>Locomotive Corporation</developer>
+		<publisher>Pack In Video</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Fishing.patched_pad.v.1.0.jpg</image>
+		<video>./snaps/Fishing.patched_pad.v.1.0.mp4</video>
+	</game>
+</gameList>

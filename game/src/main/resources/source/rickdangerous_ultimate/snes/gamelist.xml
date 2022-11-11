@@ -22,8 +22,8 @@
 	</game>
 	<game>
 		<path>./Uncharted Waters (USA).zip</path>
-		<name>Uncharted Waters</name>
-		<sortname />
+		<name>Uncharted Waters: New Horizons</name>
+		<sortname>Uncharted Waters 1</sortname>
 		<desc>The Franco family used to be one of the influential houses of Portugal. That is until the head of the family sailed out of a disastrous voyage to find the kingdom of Prester John. The disarray that followed brought about an end to the nobility of the Franco name. 100 years have passed and Portugal has prospered through it's sailing and trading empires. Young Leon Fanco wishes to restore his family's good name and make a name for himself as a sailor. At the heart of his ambition is the fair lady, Christiana, who is desired by the likely heir to the kingdom.</desc>
 		<rating>0.55</rating>
 		<releasedate>19930102T000000</releasedate>
@@ -372,9 +372,9 @@
 	</game>
 	<game>
 		<path>./Alien 3 (USA) (Rev 1).zip</path>
-		<name>Alien 3</name>
+		<name>Alien³</name>
 		<sortname />
-		<desc>Alien 3 on Super NES immerses you immediately after the end of the movie "Aliens". Ellen Ripley, the main character in the saga, is dormant cryogenically aboard the Sulaco Ship. An alien has infiltrated on board, decimating the crew and causing the ship to crash on the planet Fiorina 161. Help Ripley to survive and rescue the prisoners from the clutches of the aliens until help arrives.</desc>
+		<desc>Alien³ on Super NES immerses you immediately after the end of the movie "Aliens". Ellen Ripley, the main character in the saga, is dormant cryogenically aboard the Sulaco Ship. An alien has infiltrated on board, decimating the crew and causing the ship to crash on the planet Fiorina 161. Help Ripley to survive and rescue the prisoners from the clutches of the aliens until help arrives.</desc>
 		<rating>0.6</rating>
 		<releasedate>19930501T000000</releasedate>
 		<developer>LJN</developer>
@@ -665,20 +665,6 @@
 		<video>./snaps/Aladdin (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Beauty and the Beast (USA).zip</path>
-		<name>Disney's Beauty and the Beast</name>
-		<sortname />
-		<desc>Disney's Beauty and the Beast is an action platformer for the SNES. The entire game is played through the perspective of the Beast. As the Beast, the player must get Belle to fall in love so that the curse cast upon him and his castle will be broken, she will marry him and become a princess. The final boss of the game is Gaston, a hunter who will try to steal Belle from the Beast. There is even a snowball fight scene in the middle of the game and cutscenes between stages that tells the story of Beauty and the Beast.</desc>
-		<rating>0.7</rating>
-		<releasedate>19940701T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Hudson</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<image>./boxart/Beauty and the Beast (USA).jpg</image>
-		<video>./snaps/Beauty and the Beast (USA).mp4</video>
-	</game>
-	<game>
 		<path>./Goof Troop (USA).zip</path>
 		<name>Disney's Goof Troop</name>
 		<sortname />
@@ -694,7 +680,7 @@
 	</game>
 	<game>
 		<path>./Magical Quest Starring Mickey Mouse, The (USA) (Rev 1).zip</path>
-		<name>Disney's Magical Quest Starring Mickey Mouse, The</name>
+		<name>Disney's The Magical Quest Staring Mickey Mouse</name>
 		<sortname />
 		<desc>This was the first Mickey Mouse game for Super NES, featuring a traditional platform gameplay and colorful Disney-like graphics. Mickey's mission is to save his dog Pluto, who's been kidnapped and kept inside emperor Pete's castle, in a magical land, guarded by mysterious creatures. The originality of the game lies on the possibility of wearing different costumes to incorporate different characters, all taken from old Disney cartoons. Each one has a special ability. As a wizard, Mickey has magical powers; as a fireman, the mouse can deal with fire; and, as a climber, he can reach the top of high platforms.</desc>
 		<rating>0.8</rating>
@@ -1295,20 +1281,6 @@
 		<video>./snaps/Knights of the Round (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Krusty's Super Fun House (USA) (Rev 1).zip</path>
-		<name>Krusty's Super Fun House</name>
-		<sortname />
-		<desc>Krusty the Clown's Fun House has been overrun by rats. You must help him to herd the rats into trap machines to clear them out. In order to do so, Krusty must manipulate his environment to set up pathways so that the rats are headed in the right direction. Objects that Krusty move around include blocks, fans, and pipe pieces. The trap machines are operated by other recognizable Simpson's characters: Bart, Homer, Sideshow Mel, and Corporal Punishment.</desc>
-		<rating>0.7</rating>
-		<releasedate>19920601T000000</releasedate>
-		<developer>Audiogenic Software Ltd.</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<image>./boxart/Krusty's Super Fun House (USA) (Rev 1).jpg</image>
-		<video>./snaps/Krusty's Super Fun House (USA) (Rev 1).mp4</video>
-	</game>
-	<game>
 		<path>./Legend of the Mystical Ninja, The (USA).zip</path>
 		<name>Legend of the Mystical Ninja, The</name>
 		<sortname />
@@ -1408,7 +1380,7 @@
 	</game>
 	<game>
 		<path>./Mega Man X2 (USA).zip</path>
-		<name>Mega Man X2</name>
+		<name>Mega Man X²</name>
 		<sortname />
 		<desc>Sigma, the leader of the Maverick army, was destroyed when he underestimated his opponent: a lone warrior, awakened into a time he never knew X. 6 months had passed, and X rose to the rank of leader of the Maverick Hunters. His first task was to eliminate the last of the Mavericks. But as he began his assignment, a mysterious group of Reploids calling themselves the X-Hunters appeared with a message to X: the remains of his fallen comrade, Zero, were in the hands of the X-Hunters, and they planned on resurrecting Zero to fight alongside them and for their fallen leader, Sigma. X must now stop the X-Hunters and rescue Zero, and once again prevent Sigma from rising back into ultimate power.</desc>
 		<rating>0.8</rating>
@@ -1548,8 +1520,8 @@
 	</game>
 	<game>
 		<path>./Lost Vikings 2 (USA).zip</path>
-		<name>Lost Vikings 2: Norse by Norse Wests</name>
-		<sortname />
+		<name>Lost Vikings 2: Norse by Norsewest</name>
+		<sortname>Lost Vikings 2</sortname>
 		<desc>Get ready for more nights of masochistic puzzle goodness, because the Lost Vikings need your help once again! The brothers (Erik the Swift, Baleog the Fierce and Olaf the Stout) are trying to get back home and you need to guide them through. Two brand new characters (Fang the Werewolf and Scorch the Dragon) also join the fray. Each character has their own special talents and they must be used in concert if you are to win.</desc>
 		<rating>0.85</rating>
 		<releasedate>19970501T000000</releasedate>
@@ -1800,7 +1772,7 @@
 	</game>
 	<game>
 		<path>./R-Type III (USA).zip</path>
-		<name>R-Type III: The Third Lightning</name>
+		<name>R·Type III: The Third Lightning</name>
 		<sortname />
 		<desc>UNDER A NEW BYDO THREAT, EARTH RETALIATES It was believed on Earth that the deadly BYDO Empire had been destroyed--but now they've returned, as nasty as ever. Their ships and armies are more powerful than before, and Earth will surely be conquered unless the new R-90 ship can destroy them. Powered with engines that launch it into different dimensions, and armed with the Round, Shadow, and Cyclone Forces, R-90 has what it takes to wipe out the BYDO threat. Then, the BYDO mother ship must be found and destroyed to entirely erase the species from our galaxy.</desc>
 		<rating>0.9</rating>
@@ -2438,7 +2410,7 @@
 		<developer>Sculptured Software</developer>
 		<publisher>JVC</publisher>
 		<genre>Action</genre>
-					<players>1</players>
+		<players>1</players>
 		<image>./boxart/Super Star Wars - Return of the Jedi (USA) (Rev 1).jpg</image>
 		<video>./snaps/Super Star Wars - Return of the Jedi (USA) (Rev 1).mp4</video>
 	</game>
@@ -2598,7 +2570,7 @@
 	</game>
 	<game>
 		<path>./Legend of Zelda, The - A Link to the Past (USA).zip</path>
-		<name>The Legend of Zelda: A Link to the Past</name>
+		<name>Legend of Zelda: A Link to the Past, The</name>
 		<sortname />
 		<desc>Venture back to Hyrule and an age of magic and heroes. The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom. Only you can prevent his evil plot from shattering the land of Hyrule. In your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests. Test your mettle with mighty swords and magical weapons. Or heft a boulder and hurl it at your enemies. If the going gets tough, dive into a river - you can swim to escape! Learn the powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.</desc>
 		<rating>0.95</rating>
@@ -2780,7 +2752,7 @@
 	</game>
 	<game>
 		<path>./Jungle Strike (USA).zip</path>
-		<name>Jungle Strike</name>
+		<name>Jungle Strike: The Sequel to Desert Strike</name>
 		<sortname />
 		<desc>Some time after Operation Desert Strike, Ibn Kilbaba, son of Kilbaba S.R, threatens to annihilate America. After his father was killed, the people who were under his control, sent his son running off, along with his father's money and nuclear weapons program. Kilbaba, more ruthless than his father, longs for revenge of his father's death and decides to shed the blood of those who killed him, the Americans. Already armed, Kilbaba hires Carlos Ortega to help him set up his Nuclear Weapons program, deep in South America. Carlos Ortega, the world's most notorious druglord, also yearns to seek revenge. With his own private army, armed with the most hi-tech weapons, he's ready to fight America at all costs.</desc>
 		<rating>0.7</rating>
@@ -2795,7 +2767,7 @@
 	<game>
 		<path>./Lost Vikings, The (USA).zip</path>
 		<name>Lost Vikings, The</name>
-		<sortname />
+		<sortname>Lost Vikings 1</sortname>
 		<desc>Three Vikings, Eric the Swift, Olaf the Stout and Baleog the Fierce, were kidnapped by the alien Tomator, the evil Croutonian ruler, who is collecting unique life forms to display in his gallery. The three Vikings will have to combine their unique skills to defeat Tomator, as well as a vast array of aliens, robots, giant snails, big lizards and more.</desc>
 		<rating>0.75</rating>
 		<releasedate>19930402T000000</releasedate>
@@ -2836,7 +2808,7 @@
 	</game>
 	<game>
 		<path>./NBA Jam - Tournament Edition (USA).zip</path>
-		<name>NBA Jam: Tournament Edition</name>
+		<name>NBA JAM: Tournament Edition</name>
 		<sortname />
 		<desc>This game lets you play two-on-two arcade basketball with players from all the NBA teams. Gameplay is fast and action-packed, with few rules, no fouls, and deliberately unrealistic jamming. Players are rated on eight ability categories, from steals and blocks, to dunks and 3-pointers. Up to four human players can take part, each always controlling a single player for their team, and AI for missing players. This allows for four players to face each other in teams of two, or for two players to team up against a third player with a CPU team-mate.</desc>
 		<rating>0.9</rating>
@@ -2946,7 +2918,7 @@
 	<game>
 		<path>./New Horizons (USA).zip</path>
 		<name>Uncharted Waters 2: New Horizons</name>
-		<sortname />
+		<sortname>Uncharted Waters 2</sortname>
 		<desc>In the first Uncharted Waters game, it was the 15th century and the New World was discovered. Now in New Horizons, it is the early 16th century and the age of exploration and sea trade is underway. Players choose from any one of six adventurers (scenarios), each with their own distinctive but intertwining plot, to embark on a quest of sailing, seamanship and exploration.</desc>
 		<rating>0.7</rating>
 		<releasedate>19941001T000000</releasedate>
@@ -3028,22 +3000,8 @@
 		<video>./snaps/Blues Brothers, The (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Daze Before Christmas (Europe).zip</path>
-		<name>Daze Before Christmas</name>
-		<sortname />
-		<desc>'Twas but Daze Before Christmas and at Santa's shop work on the toys has suddenly stopped! The elves are on strike as Christmas draws near, but much worse than that, there's something to fear! Give Santa the potion to drink and he'll change, he'll become "Anti Claus" on a rampage of rage! He'll break all the toys, he'll ignore his good work. Could it be Santa is just a fat jerk? You must help Santa find his way, fix all the toys and take off in his sleigh. Through 24 levels you'll put up a fight. Can you help save Christmas? Let's find out tonight!</desc>
-		<rating>0.65</rating>
-		<releasedate>19941101T000000</releasedate>
-		<developer>Funcom</developer>
-		<publisher>Sunsoft</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<image>./boxart/Daze Before Christmas (Europe).jpg</image>
-		<video>./snaps/Daze Before Christmas (Europe).mp4</video>
-	</game>
-	<game>
 		<path>./Great Circus Mystery Starring Mickey &amp; Minnie, The (USA).zip</path>
-		<name>Disney's The Great Circus Mystery starring Mickey &amp; Minnie</name>
+		<name>Disney's The Great Circus Mystery Staring Mickey &amp; Minnie</name>
 		<sortname />
 		<desc>Starring Mickey and Minnie Mouse, the two plan to spend the day at the Circus only to find that it's deserted. Believing that someone is responsible, you must dress up in different outfits such as Safari and Western, as you try to find clues to solve the mystery behind the disappereance of the performers, including your pals Donald Duck and Pluto.</desc>
 		<rating>0.7</rating>
@@ -3183,16 +3141,251 @@
 	<game>
 		<path>./Asterix &amp; Obelix (Europe) (En,Fr,De,Es).zip</path>
 		<name>Astérix &amp; Obélix</name>
+		<sortname />
 		<desc>Astérix &amp; Obélix is a platform game where one player can choose to control either Asterix or Obelix or two players can play simultaneously. The mission of the two Gauls is to acquire artifacts from all across Europe.</desc>
-		<image>./boxart/Asterix &amp; Obelix (Europe) (En,Fr,De,Es).jpg</image>
-		<video>./snaps/Asterix &amp; Obelix (Europe) (En,Fr,De,Es).mp4</video>
 		<rating>0.75</rating>
 		<releasedate>19950928T000000</releasedate>
 		<developer>Infogrames</developer>
 		<publisher>Infogrames</publisher>
 		<genre>Platform</genre>
 		<players>1-2</players>
-		<playcount>3</playcount>
-		<lastplayed>20220219T204538</lastplayed>
+		<image>./boxart/Asterix &amp; Obelix (Europe) (En,Fr,De,Es).jpg</image>
+		<video>./snaps/Asterix &amp; Obelix (Europe) (En,Fr,De,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Daze Before Christmas (Europe).zip</path>
+		<name>Daze Before Christmas</name>
+		<sortname />
+		<desc>'Twas but Daze Before Christmas and at Santa's shop work on the toys has suddenly stopped! The elves are on strike as Christmas draws near, but much worse than that, there's something to fear! Give Santa the potion to drink and he'll change, he'll become "Anti Claus" on a rampage of rage! He'll break all the toys, he'll ignore his good work. Could it be Santa is just a fat jerk? You must help Santa find his way, fix all the toys and take off in his sleigh. Through 24 levels you'll put up a fight. Can you help save Christmas? Let's find out tonight!</desc>
+		<rating>0.65</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Funcom</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Daze Before Christmas (Europe).jpg</image>
+		<video>./snaps/Daze Before Christmas (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Beauty and the Beast (USA).zip</path>
+		<name>Disney's Beauty and the Beast</name>
+		<sortname />
+		<desc>Disney's Beauty and the Beast is an action platformer for the SNES. The entire game is played through the perspective of the Beast. As the Beast, the player must get Belle to fall in love so that the curse cast upon him and his castle will be broken, she will marry him and become a princess. The final boss of the game is Gaston, a hunter who will try to steal Belle from the Beast. There is even a snowball fight scene in the middle of the game and cutscenes between stages that tells the story of Beauty and the Beast.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940701T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Beauty and the Beast (USA).jpg</image>
+		<video>./snaps/Beauty and the Beast (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Krusty's Super Fun House (USA) (Rev 1).zip</path>
+		<name>Krusty's Super Fun House</name>
+		<sortname />
+		<desc>Krusty the Clown's Fun House has been overrun by rats. You must help him to herd the rats into trap machines to clear them out. In order to do so, Krusty must manipulate his environment to set up pathways so that the rats are headed in the right direction. Objects that Krusty move around include blocks, fans, and pipe pieces. The trap machines are operated by other recognizable Simpson's characters: Bart, Homer, Sideshow Mel, and Corporal Punishment.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920601T000000</releasedate>
+		<developer>Audiogenic Software Ltd.</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Krusty's Super Fun House (USA) (Rev 1).jpg</image>
+		<video>./snaps/Krusty's Super Fun House (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Addams Family, The (USA).zip</path>
+		<name>Addams Family, The</name>
+		<sortname />
+		<desc>The Addams Family is a platform game based on the characters and settings from the movie (which, in turn, is based on the famous 1960's television series, which in turn is based on Charles Addams cartoon of the same name, which was featured in the magazine, The New Yorker, in the 30's). The game takes place towards the end of the movie: the Addams Family has been evicted from their home by a court order issued by a backstabbing attorney (there's one for the books), Tully Alford. Even worse, the other Addamses: Morticia, Pugsley, Wednesday, Granny and Lurch have gone missing.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920301T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Addams Family, The (USA).jpg</image>
+		<video>./snaps/Addams Family, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Aero the Acro-Bat 2 (USA).zip</path>
+		<name>Aero the Acro-Bat 2</name>
+		<sortname />
+		<desc>In the sequel to Aero the Acro-Bat you have to defeat evil industrialist Edgar Ektor once again. He is back and again with bad ideas, so you - in the role of Aero - have to find and destroy him before he carries out his diabolical "Plan B". Like in the last installment, you have to jump, escape lethal obstacles and progress in time. This game features more moves for Aero, more mechanisms to use and more items to collect.</desc>
+		<rating>0.6</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Aero the Acro-Bat 2 (USA).jpg</image>
+		<video>./snaps/Aero the Acro-Bat 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Arcana (USA).zip</path>
+		<name>Arcana</name>
+		<sortname />
+		<desc>In this game you play as a young boy named Rooks. He's the only one that can save the world from the evil Galneon. With the power of the cards he begins his adventure. All of the people you fight with and against are displayed on cards. They can have an elemental attribute or not. Rooks is able to summon an elemental to aid him. He can only summon one type at a time, and he must find them before being able to summon them.</desc>
+		<rating>0.65</rating>
+		<releasedate>19920501T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Arcana (USA).jpg</image>
+		<video>./snaps/Arcana (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy - Mystic Quest (USA) (Rev 1).zip</path>
+		<name>Final Fantasy: Mystic Quest</name>
+		<sortname />
+		<desc>Focus Tower is the center of the world and balances the forces of the world. However 4 monsters have taken the 4 elemental crystals (Earth, Water, Fire, Wind) for their own use, and also taken the 4 keys that for doors inside of Focus Tower. With the balance disrupted, disasters befall the world. A young boy by the name of Benjamin finds his home village destroyed. Meeting a mysterious old man while trying to escape from earthquakes, he soon learns that he is the prophesized hero and the only one who can save the world. Benjamin must recover the 4 crystals, unlock Focus Tower and defeat the ultimate monster before the 5th crystal, the Crystal of Life is corrupted.</desc>
+		<rating>0.8</rating>
+		<releasedate>19921005T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Final Fantasy - Mystic Quest (USA) (Rev 1).jpg</image>
+		<video>./snaps/Final Fantasy - Mystic Quest (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Genghis Khan II - Clan of the Gray Wolf (USA).zip</path>
+		<name>Genghis Khan II: Clan of the Gray Wolf</name>
+		<sortname />
+		<desc>As in the first part you could participate in two conquests: Mongol conquest and world conquest. In the first you must unite all the little tribes of the country. The world conquest is more complex: You must use all your senses to make the world as you wish.</desc>
+		<rating>0.6</rating>
+		<releasedate>19931201T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Genghis Khan II - Clan of the Gray Wolf (USA).jpg</image>
+		<video>./snaps/Genghis Khan II - Clan of the Gray Wolf (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Metal Marines (USA).zip</path>
+		<name>Metal Marines</name>
+		<sortname />
+		<desc>The Antimatter Cold War has left Earth ruined as the stockpiled AM weapons of various nations were triggered in a chain effect, vaporizing large portions of the Earth. The once great continents have been drastically changed into thousands of tiny islands and various cities have washed into the oceans. During this turmoil, Zorgeuf the Great rushes to conquer the bewildered world along with a troop of commanders and declares the Earth Empire. The only hope to defeat him lies from without Earth, as the Colonial Forces send a command carrier from the major orbital base. With so many armies gone, the ground infantry unit has been replaced by the Metal Marine, a fifty foot armored robot that can be sent into battle for attack or defense.</desc>
+		<rating>0.6</rating>
+		<releasedate>19931201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Metal Marines (USA).jpg</image>
+		<video>./snaps/Metal Marines (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Natsume Championship Wrestling (USA).zip</path>
+		<name>Natsume Championship Wrestling</name>
+		<sortname />
+		<desc>Natsume Championship Wrestling is one of the many unlicensed wrestling games released by in the heyday. It contains 12 fictional wrestlers (Asteroid, The Viper, Spike, Python, M. Roach, The Phantom, Big Ape, K-Bruto, H. Snake, Fangz, J. Kraze and Conan). The game modes include 1P v. CPU, 1P v. 2P, a regular and a tag team tournament or a round robin tournament to compete in. Each wrestlers has a very extensive set of moves, where different moves can be performed based on the ring situation (grappling, holds, dashes, on the ground, from ropes...) but in the end every fighter basically has the same set of moves, punch, kick, bodyslam, with a few unique ones like piledrivers and powerbombs.</desc>
+		<rating>0.5</rating>
+		<releasedate>19940601T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Natsume</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Natsume Championship Wrestling (USA).jpg</image>
+		<video>./snaps/Natsume Championship Wrestling (USA).mp4</video>
+	</game>
+	<game>
+		<path>./NBA Jam (USA) (Rev 1).zip</path>
+		<name>NBA JAM</name>
+		<sortname />
+		<desc>NBA Jam is a two-on-two basketball game You can play any NBA team, and you can play as players like Barkley, Starks, Pippen, and Grant. Each human player controls a single player, so choose your squad wisely to take team-mate skill into account. The game is action-oriented, and players can perform unrealistic slam-dunks. Full performance statistics are automatically recorded. The play clock and 3-point line apply, but other rules are largely overlooked.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940302T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/NBA Jam (USA) (Rev 1).jpg</image>
+		<video>./snaps/NBA Jam (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Nobunaga's Ambition (USA).zip</path>
+		<name>Nobunaga's Ambition</name>
+		<sortname />
+		<desc>In the 16th century, Japan's Sengoku ("Warring States") period divided the nation into numerous feudal states, each ruled by a daimyo. These daimyos would often go to war with each other. Many dreamt of conquering the land, becoming the Shogun and ruling the entire country. One of those daimyos was the ambitious Nobunaga Oda, a merciless ruler and a renowned strategist. Players take on the role of Nobunaga Oda or one of many other daimyos to try to conquer Japan. Nobunaga's Ambition is a turn-based strategy game which can be played in different modes. Gameplay is similar to Koei's better known Romance of the Three Kingdoms game. Players begin by selecting either a 17 regions scenario or a larger 50 scenario.</desc>
+		<rating>0.8</rating>
+		<releasedate>19931202T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Nobunaga's Ambition (USA).jpg</image>
+		<video>./snaps/Nobunaga's Ambition (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pac-Attack (USA).zip</path>
+		<name>Pac-Attack</name>
+		<sortname />
+		<desc>Based on Namco's Japanese-only arcade puzzler Cosmo Gang the Puzzle, Pac-Attack is similar to many block-dropping puzzle games from the time, such as Puyo Puyo. The objective of the game is to place ghosts and then, after three pieces (which can include one or two blocks as well), make Pac-Man eat as many ghosts as possible to try and clear up the game area. Pac-Man's directions are chosen at random between left or right, but as he goes moving on the game area (after you place him, of course), if he bumps against a block or a "wall" on the game area, he will change his direction. As with many block-dropping puzzlers, if a line of blocks and/or ghosts reaches the top, the game ends.</desc>
+		<rating>0.75</rating>
+		<releasedate>19931002T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Pac-Attack (USA).jpg</image>
+		<video>./snaps/Pac-Attack (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Prehistorik Man (USA) (En,Fr,Es).zip</path>
+		<name>Prehistorik Man</name>
+		<sortname />
+		<desc>In Prehistorik Man, the player takes control of a neanderthal who is on a quest to travel through various levels, collecting food items to get his village ready for the fast approaching fall feast. Along the way, the player will encounter an assortment of enemies ranging from spiders, giant rats and even the mighty T-Rex. There are five levels in all and the player can upgrade their weapons to axes and mallets throughout the game as well as acquire a hang glider, giving the player the advantage of flight and covering long distances. The main goal of the game is to vanquish enemies, collect food items, and face a boss at the end of each level.</desc>
+		<rating>0.85</rating>
+		<releasedate>19960102T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Prehistorik Man (USA) (En,Fr,Es).jpg</image>
+		<video>./snaps/Prehistorik Man (USA) (En,Fr,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Spanky's Quest (USA).zip</path>
+		<name>Spanky's Quest</name>
+		<sortname />
+		<desc>Spanky's Quest is a game about a monkey who decides to go on a picnic. While on his way through the forest he see's a witch in the sky and out of nowhere bricks begin to make a tower around the area Spanky is in. The witch challenges Spanky to come to the final tower and she will free him but before she flies away she turns the fruits in his knapsack into living fruit monsters. Unknowingly, she drops a magic ball which agrees to help Spanky out on his quest. The object of the game is to get through all six of the towers which consist of 10 levels as well as a boss battle. In order to proceed to the next level, you must acquire the amount of keys the locked door requires.</desc>
+		<rating>0.75</rating>
+		<releasedate>19920801T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Natsume</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Spanky's Quest (USA).jpg</image>
+		<video>./snaps/Spanky's Quest (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Speedy Gonzales - Los Gatos Bandidos (USA) (Rev 1).zip</path>
+		<name>Speedy Gonzales: Los Gatos Bandidos</name>
+		<sortname />
+		<desc>In a small Mexican village, all the mice were enjoying a fiesta until Los Gatos Bandidos, a group of cats, came and kidnapped them all. Only Slowpoke escaped and sent for his cousin, the fastest mouse in Mexico... Speedy Gonzales! Following the trail of the Bandidos, Speedy will enter each level and try to rescue as many mice as possible while chasing after cheese and avoiding natural hazards. Ariba! Ariba! The gameplay in Speedy Gonzales resembles the Sonic the Hedgehog series of games more than anything else. For the most part Speedy will run, run across fields and up slopes and into tunnels. There are also mousetraps which function similarly to Sonic's trampolines and will propel Speedy into the air.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950801T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Speedy Gonzales - Los Gatos Bandidos (USA) (Rev 1).jpg</image>
+		<video>./snaps/Speedy Gonzales - Los Gatos Bandidos (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Vortex (USA) (En,Es).zip</path>
+		<name>Vortex</name>
+		<sortname />
+		<desc>Vortex was one of the few games designed to use the SNES Super FX 1 chip, a custom-made graphics accelerator RISC processor. The game is a 3D shooter similar to Star Fox by the same development studio, but with some subtle differences. Players can morph their vehicle at any time from the standard walker to a sonic jet, a land burner and a defensive hard shell, each with their own weapons, strengths and weaknesses. The player is cast as a soldier fighting the Aki-Do Forces, an evil empire bent on taking over the entire universe. To stop them, the player has access to an experimental mech, the Vortex, to travel the seven worlds of the Aki-Do system and destroy the bases.</desc>
+		<rating>0.65</rating>
+		<releasedate>19940901T000000</releasedate>
+		<developer>Argonaut Software</developer>
+		<publisher>Electro Brain Corp.</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Vortex (USA) (En,Es).jpg</image>
+		<video>./snaps/Vortex (USA) (En,Es).mp4</video>
 	</game>
 </gameList>

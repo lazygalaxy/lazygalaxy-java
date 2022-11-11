@@ -113,14 +113,16 @@ public class GameListEnrichLoad {
                         Stream<String> lines = Files.lines(Paths.get(fileURL.toURI()));
                         lines.forEach(line -> {
                             String[] lineTokens = StringUtils.split(line, "=");
-                            String systemIdTemp = StringUtils.substring(lineTokens[0], 0,
-                                    StringUtils.indexOf(lineTokens[0], "_"));
-                            String gameIdTemp = StringUtils.substring(lineTokens[0],
-                                    StringUtils.indexOf(lineTokens[0], "_") + 1, lineTokens[0].length());
+                            if (lineTokens.length == 2) {
+                                String systemIdTemp = StringUtils.substring(lineTokens[0], 0,
+                                        StringUtils.indexOf(lineTokens[0], "_"));
+                                String gameIdTemp = StringUtils.substring(lineTokens[0],
+                                        StringUtils.indexOf(lineTokens[0], "_") + 1, lineTokens[0].length());
 
-                            emulatorMap.put(
-                                    GeneralUtil.alphanumerify(systemIdTemp) + "_" + GeneralUtil.alphanumerify(gameIdTemp),
-                                    RegExUtils.removeAll(lineTokens[1], "\"").trim());
+                                emulatorMap.put(
+                                        GeneralUtil.alphanumerify(systemIdTemp) + "_" + GeneralUtil.alphanumerify(gameIdTemp),
+                                        RegExUtils.removeAll(lineTokens[1], "\"").trim());
+                            }
                         });
                         lines.close();
                     }

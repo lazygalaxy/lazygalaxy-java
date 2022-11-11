@@ -163,7 +163,7 @@
 	<game>
 		<path>./Willow (USA).zip</path>
 		<name>W·I·L·L·O·W</name>
-		<sortname />
+		<sortname>willow</sortname>
 		<desc>W·I·L·L·O·W is an action RPG based on the movie with the same name. The player assumes the role of Willow, the chosen one who must restore human form to the benevolent sorceress Fin Raziel and destroy the evil sorceress, Bavmorda. While the game follows the movie's plot somewhat most of the time, it also expands on it and introduces characters, races and enemies not found in the movie. Gameplay is similar to other action RPGs and The Legend of Zelda. Willow is seen from a top down perspective and all enemies are visible on screen. Slaying enemies will give Willow experience points, which will eventually lead to him increasing his stats automatically.</desc>
 		<rating>0.7</rating>
 		<releasedate>19891201T000000</releasedate>
@@ -456,7 +456,7 @@
 	</game>
 	<game>
 		<path>./Bugs Bunny Birthday Blowout, The (USA).zip</path>
-		<name>The Bugs Bunny Birthday Blowout</name>
+		<name>Bugs Bunny Birthday Blowout, The</name>
 		<sortname />
 		<desc>The Bugs Bunny Birthday Blowout takes place as Bugs is invited to his 50th birthday. Because some of the other Warner Bros. toons weren't invited (including Wile E. Coyote), they decided to stop Bugs from going to this party. A Warner Bros licensed game.</desc>
 		<rating>0.55</rating>
@@ -583,7 +583,7 @@
 	<game>
 		<path>./Ufouria - The Saga (Europe).zip</path>
 		<name>U·four·ia: The Saga</name>
-		<sortname />
+		<sortname>U·four·ia: The Saga</sortname>
 		<desc>You must explore the world on which you and three other friends crash landed. As you encounter the new characters you must fight them to make them recover their memory. Once you have recovered all 3 other characters you are then searching for Temple Keys which will lead back to your homeworld of Ufouria. The world in which you interact is free form, meaning that you can wander around as you please. To get to new areas you will need to get power-ups and/or new characters with their own abilities. Character switching is done as needed, not defined by levels.</desc>
 		<rating>0.9</rating>
 		<releasedate>19921119T000000</releasedate>
@@ -680,7 +680,7 @@
 	</game>
 	<game>
 		<path>./Guardian Legend, The (USA).zip</path>
-		<name>The Guardian Legend</name>
+		<name>Guardian Legend, The</name>
 		<sortname />
 		<desc>In the far future, Earth is a peaceful place with very few worries. To ensure it stays that way, a top secret project was authorized: the creation of the guardian suit. It's a suit of flight armor that allows the guardian to survive any environment. It's a good thing too, because a giant space station is spotted on a collision course with Earth. You take the role of the guardian. Your mission is to activate the station's self-destruct and destroy it before it collides with Earth.</desc>
 		<rating>0.75</rating>
@@ -722,7 +722,7 @@
 	</game>
 	<game>
 		<path>./Fantastic Adventures of Dizzy, The (USA) (Unl).zip</path>
-		<name>The Fantastic Adventures of Dizzy</name>
+		<name>Fantastic Adventures of Dizzy, The</name>
 		<sortname />
 		<desc>The evil wizard Zaks casts a spell on the Yolkfolk and kidnaps Dizzy's girlfriend Daisy. It is up to Dizzy to undo Zak's doings and rescue Daisy from the castle in the clouds.</desc>
 		<rating>0</rating>
@@ -806,7 +806,7 @@
 	</game>
 	<game>
 		<path>./Magic of Scheherazade, The (USA).zip</path>
-		<name>The Magic of Scheherazade</name>
+		<name>Magic of Scheherazade, The</name>
 		<sortname />
 		<desc>The evil wizard Sabaron summoned a horde of demons to invade Arabia. One brave magician tried to fight Sabaron, but was trapped in the holes of time. This magician is you. Traveling through different time periods, you'll have to stop Sabaron's evil plans and to rescue the beautiful princess Scheherazade he kidnapped.</desc>
 		<rating>0.6</rating>
@@ -1030,7 +1030,7 @@
 	</game>
 	<game>
 		<path>./Gargoyle's Quest II (USA).zip</path>
-		<name>Gargoyles's Quest II </name>
+		<name>Gargoyles's Quest II</name>
 		<sortname />
 		<desc>As in its predecessor, gameplay in Gargoyle's Quest II is divided into an adventure-like and an action part. During the adventure parts, Firebrand explores a world map and several villages from a top-down perspective, talking to his fellow ghouls and zombies to advance the story or receive important items. Action parts are seen from a side-scrolling perspective. In these parts of the game, Firebrand has the ability to jump, cling to walls, fly for a limited amount of time and shoot fireballs at his enemies. As the game progresses, Firebrand becomes more and more powerful, receiving items that improve his agility, armor or attack power.</desc>
 		<rating>0.8</rating>
@@ -1101,7 +1101,7 @@
 	<game>
 		<path>./Gun Nac (USA).zip</path>
 		<name>Gun·Nac</name>
-		<sortname />
+		<sortname>Gunnac</sortname>
 		<desc>A Galactic Federation starfighter is sent off to destroy an alien armada (led by giant robotic rabbits this time around -- an unusually whimsical theme in keeping with the contemporary Parodius) threatening to collapse your system's sun into a supernova.</desc>
 		<rating>0.9</rating>
 		<releasedate>19910901T000000</releasedate>
@@ -1268,7 +1268,7 @@
 	</game>
 	<game>
 		<path>./Legend of Zelda, The (USA) (Rev 1).zip</path>
-		<name>The Legend of Zelda</name>
+		<name>Legend of Zelda, The</name>
 		<sortname />
 		<desc>In one of the darkest times in the Kingdom of Hyrule, a young, pointy-eared boy named Link takes on an epic quest to restore the fragmented Triforce of Wisdom and save the Princess Zelda from the clutches of the evil, power-hungry Ganon. The Legend of Zelda for the NES marks the first action-adventure title of the popular Nintendo series. Players must make their way through the various forests, graveyards, plains, and deserts of the Overworld to find the secret entrances of the eight dungeons in an attempt to piece together the broken Triforce. Once all pieces are joined, Link will be able to gain entry to Death Mountain, home of Ganon, and prison of Princess Zelda.</desc>
 		<rating>0.9</rating>
@@ -1646,7 +1646,7 @@
 	</game>
 	<game>
 		<path>./Blue Marlin, The (USA).zip</path>
-		<name>The Blue Marlin</name>
+		<name>Blue Marlin, The</name>
 		<sortname />
 		<desc>The Blue Marlin is a big, strong, quick fish with a long nose. To catch such a fish is the dream of any fisherman. A great fishing competition begins this summer in Florida and Hawaii. You are invited to participate in it. Will you be able to demonstrate your fisherman skills and win the competition?</desc>
 		<rating>0.85</rating>
@@ -1660,7 +1660,7 @@
 	</game>
 	<game>
 		<path>./Goonies II, The (USA).zip</path>
-		<name>The Goonies II</name>
+		<name>Goonies II, The</name>
 		<sortname />
 		<desc>In a movie released in the 1980s, a group of youngsters formed a special gang and called themselves The Goonies. Nintendo banked upon the movie’s popularity by releasing several games using the characters and music from it, including the theme song by Cyndi Lauper. This is their second game on NES, The Goonies being released only for the Famicom system outside the United States.</desc>
 		<rating>0.65</rating>
@@ -1674,7 +1674,7 @@
 	</game>
 	<game>
 		<path>./Karate Kid, The (USA).zip</path>
-		<name>The Karate Kid</name>
+		<name>Karate Kid, The</name>
 		<sortname />
 		<desc>Based on the 1986 John G. Avildsen film, The Karate Kid 2. The Karate Kid is a beat'em up game where the player, as Daniel Larusso, must go through some stages (including bonus ones) from the karate competition to the final battle in Okinawa against Chozen.</desc>
 		<rating>0.35</rating>
@@ -1688,7 +1688,7 @@
 	</game>
 	<game>
 		<path>./Mafat Conspiracy, The (USA).zip</path>
-		<name>The Mafat Conspiracy</name>
+		<name>Mafat Conspiracy, The</name>
 		<sortname />
 		<desc>You play as Golgo 13 aka Duke Togo, ace sharpshooter and assassin. Based off a character of various manga comics, Golgo is a down-to-business man at the end of a gun. Stuck in the world of espionage among such groups as the FBI and the CIA, Golgo is constantly in mortal danger, and a lethal weapon in his own right.</desc>
 		<rating>0.55</rating>
@@ -1702,7 +1702,7 @@
 	</game>
 	<game>
 		<path>./Ultimate Stuntman, The (USA) (Unl).zip</path>
-		<name>The Ultimate Stuntman</name>
+		<name>Ultimate Stuntman, The</name>
 		<sortname />
 		<desc>Dr. Evil has kidnapped the scientist Jenny Aykroyd and it's the Ultimate Stuntman's job to rescue her. Ultimate Stuntman must fight through 7 worlds with 4 stages each and then through the final world which consists of 3 stages. The game has a variety of different gameplay types. The stages go in the order of an overhead view stage, a side-scrolling stage, a climbing stage with the Android boss, and then a bomb disposal stage.</desc>
 		<rating>0.85</rating>
@@ -1981,7 +1981,7 @@
 	</game>
 	<game>
 		<path>./Battle of Olympus, The (USA).zip</path>
-		<name>The Battle of Olympus</name>
+		<name>Battle of Olympus, The</name>
 		<sortname />
 		<desc>This game is much like Zelda II: The Adventure of Link turned into ancient Greece. You play as Orpheus, whose girlfriend, Helene, has been kidnapped by the demonic ruler of the netherworld called Hades. So begins the journey. Just like in Zelda II, there is a top-down map of Greece with towns and other locations to explore. Each of these has side-scrolling sections in which Orpheus fights his way through the minions of Hades. There are various items one must get to continue to the next location, including swords, shields and crystals. There are three fragments of love hidden around; Orpheus has to find them before he can enter Tartarus and fight Hades to save his beloved Helene.</desc>
 		<rating>0.7</rating>
@@ -1994,22 +1994,8 @@
 		<video>./snaps/Battle of Olympus, The (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Lone Ranger, The (USA).zip</path>
-		<name>The Lone Ranger</name>
-		<sortname />
-		<desc>In the early 1880's in Texas, a man has returned to bring justice to the outlaw who murdered his brother and his former comrades, the Texas Rangers. His name is the Lone Ranger. The outlaw, whose name is Butch Cavendish, has now kidnapped the President. The time has come for the masked man to begin his journey of adventure for the purpose of safely rescuing the President and avenging the deaths of his brother and former comrades.</desc>
-		<rating>0.5</rating>
-		<releasedate>19910801T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action-Adventure</genre>
-		<players>1</players>
-		<image>./boxart/Lone Ranger, The (USA).jpg</image>
-		<video>./snaps/Lone Ranger, The (USA).mp4</video>
-	</game>
-	<game>
 		<path>./Young Indiana Jones Chronicles, The (USA).zip</path>
-		<name>The Young Indiana Jones Chronicles</name>
+		<name>Young Indiana Jones Chronicles, The</name>
 		<sortname />
 		<desc>The Young Indiana Jones Chronicles is based on the television series of the same name, which is in turn based on the Lucas/Spielberg movie franchise starring Harrison Ford. In this game, a young Indiana Jones embarks on globetrotting adventures in which he gathers treasure and fights for what is good and right. The game features side-scrolling action where young Indy trots along the ground, jumps, crawls flat, and can collect and wield a variety of weapons against copious enemies in the game. Indy starts with a whip and can find such weapons as throwing knives, grenades, pistols, rifles, and others. He can also collect hat powerups which allow him to sustain more damage.</desc>
 		<rating>0.6</rating>
@@ -2176,7 +2162,7 @@
 	</game>
 	<game>
 		<path>./Splatterhouse - Wanpaku Graffiti (World) (Namcot Collection, Namco Museum Archives Vol 1).zip</path>
-		<name>Supurattāhausu: Wanpaku Gurafiti</name>
+		<name>Supurattāhausu: Wanpaku Gurafiti (Splatterhouse: Naughty Graffiti)</name>
 		<sortname />
 		<desc>Wanpaku Graffiti is the first Splatterhouse game to appear on a home console. It is not clear how it fits in the series' timeline, but it starts with Jennifer mourning over Rick's grave (her boyfriend). Lightning strikes his grave and he is resurrected. Before she can rejoice, another bolt strikes the grave next to him and a jack-o-lantern appears. This pumpkin king kidnaps Jennifer and Rick barely has the time to wipe off the dust from his clothes before he sets off to rescue his girlfriend.</desc>
 		<rating>0.75</rating>
@@ -2190,7 +2176,7 @@
 	</game>
 	<game>
 		<path>./Super Mario Bros. - Cooperative two-player (Super Mario Bros. modification) (1.0).nes</path>
-		<name>Super Mario Bros. (2 Players)</name>
+		<name>Super Mario Bros. (Two Player Hack)</name>
 		<sortname />
 		<desc>Super Mario Bros. (2 Players) - The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day. The first ever platform adventure for the Mario Brothers has the player exploring level after level, with Bowser to contend with as the end of level boss. Power-ups include the Super Mushroom, which increases Mario's size and power, the fire flower, allowing him to shoot fireballs at enemies, and the ever important starman for a short burst of invincibility.</desc>
 		<rating>0.9</rating>
@@ -2259,20 +2245,6 @@
 		<video>./snaps/Zoda's Revenge - StarTropics II (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Super Mario Bros. (World).zip</path>
-		<name>Super Mario Bros.</name>
-		<sortname />
-		<desc>The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day. The first ever platform adventure for the Mario Brothers has the player exploring level after level, with Bowser to contend with as the end of level boss. Power-ups include the Super Mushroom, which increases Mario's size and power, the fire flower, allowing him to shoot fireballs at enemies, and the ever important starman for a short burst of invincibility.</desc>
-		<rating>0.9</rating>
-		<releasedate>19850913T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>1-2</players>
-		<image>./boxart/Super Mario Bros. (World).jpg</image>
-		<video>./snaps/Super Mario Bros. (World).mp4</video>
-	</game>
-	<game>
 		<path>./G.I. Joe - A Real American Hero (USA).zip</path>
 		<name>G.I. Joe: A Real American Hero</name>
 		<sortname />
@@ -2288,7 +2260,7 @@
 	</game>
 	<game>
 		<path>./Ivan 'Ironman' Stewart's Super Off Road (USA).zip</path>
-		<name>Ivan 'Ironman' Stewart's Super Off Road</name>
+		<name>Super Off Road</name>
 		<sortname />
 		<desc>Enter the world of off-road racing as 4 vehicles will face each other, on a series of tracks which are based around flipped and reversed versions of a core selection. Fame, glory and bikini clad women await your victories and the taste of dirt awaits if you fail. Let a computer car beat you and you lose one of your 3 credits.</desc>
 		<rating>0.9</rating>
@@ -2835,8 +2807,8 @@
 	</game>
 	<game>
 		<path>./Haunted Halloween 85.zip</path>
-		<name>Haunted: Halloween '85</name>
-		<sortname />
+		<name>Haunted Halloween '85</name>
+		<sortname>Haunted Halloween 85</sortname>
 		<desc>Haunted: Halloween '85 is a new NES homebrew game featuring side-scrolling, platforming, beat 'em up action! It was originally released on cartridge in October of 2015 for the original Nintendo.</desc>
 		<rating>0</rating>
 		<releasedate>19700101T010000</releasedate>
@@ -2849,7 +2821,7 @@
 	<game>
 		<path>./Haunted Halloween 86.zip</path>
 		<name>Haunted Halloween '86: The Curse of Possum Hollow</name>
-		<sortname>Haunted: Halloween '86</sortname>
+		<sortname>Haunted Halloween 86</sortname>
 		<desc>The year is 1986 and the town of Possum Hollow is under siege again. Harry has summoned a new pack of haunted henchmen from the depths to rise up and take control on the most evil of nights, Halloween Night.</desc>
 		<rating>0</rating>
 		<releasedate>19700101T010000</releasedate>
@@ -2875,7 +2847,7 @@
 	</game>
 	<game>
 		<path>./Legends of Owlia (Gradual Games) (2016).nes</path>
-		<name>The Legends of Owlia</name>
+		<name>Legends of Owlia, The</name>
 		<sortname />
 		<desc>The Legends of Owlia is Gradual Games' second release for the NES. It is an action-adventure game inspired by StarTropics, Crystalis, and the Legend of Zelda.</desc>
 		<releasedate>20160601T000000</releasedate>
@@ -3058,7 +3030,7 @@
 	</game>
 	<game>
 		<path>./Kid_Dracula_USA_Europe_Castlevania_Anniversary_Collection.zip</path>
-		<name>Akumajō Special: Boku Dracula-kun</name>
+		<name>Akumajō Special: Boku Dracula-kun (Demon Castle Special: I'm Kid Dracula)</name>
 		<sortname />
 		<desc>Akumajō Special: Boku Dracula-kun Kid is an unusual side-scroller from Konami. It's a parody of the company's popular Castlevania series. Instead of playing as a member of the Belmont family, you play as young Kid Dracula. You have been woken up from your sleep by the evil demon Garamos, who's been wrecking havoc in Dracula's Castle. It's up to you to stop him by traveling across several different locations, including Dracula's Castle, New York, the Sea, and Egypt!</desc>
 		<rating>0.65</rating>
@@ -3220,7 +3192,7 @@
 	</game>
 	<game>
 		<path>./Battle Kid - Fortress of Peril.zip</path>
-		<name>Battle Kid: Fortress Of Peril</name>
+		<name>Battle Kid: Fortress of Peril</name>
 		<sortname>Battle Kid 1</sortname>
 		<desc>Battle Kid: Fortress Of Peril is a homebrew 2D platform video game, released in February 2010 for the Nintendo Entertainment System, created by American developer Sivak Games, and published through Retrozone with the cover art designed by Larry Bundy Jr. Unlike most games in the modern era, Battle Kid is available for purchase only on a physical NES cartridge. While there has been a demand for a downloadable version, the developer has stated that the game is currently not planned to be released on any other formats due to a contract with Retrozone.</desc>
 		<rating>0</rating>
@@ -3460,7 +3432,7 @@
 	</game>
 	<game>
 		<path>./BurgerTime (USA).zip</path>
-		<name>BurgerTime</name>
+		<name>Burger Time</name>
 		<sortname />
 		<desc>As Chef Peter Pepper, you must fend off the Food Foes while making perfect burgers! Use pinches of pepper to stun Mr. Hot Dog, Mr. Egg and Mr. Pickle, or lure them onto or under burger buns, lettuce, cheese or tomatoes to escape their clutches! Making perfect burgers gets progressively tougher through the six screens of BurgerTime!</desc>
 		<rating>0.65</rating>
@@ -3575,20 +3547,6 @@
 		<genre>Platform</genre>
 		<image>./boxart/Conquest of the Crystal Palace (USA).jpg</image>
 		<video>./snaps/Conquest of the Crystal Palace (USA).mp4</video>
-	</game>
-	<game>
-		<path>./Contra (USA).zip</path>
-		<name>Contra</name>
-		<sortname />
-		<desc>In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists. As either, Bill (player 1) or Lance (player 2), the player must get to the end of each stage, shooting everything in sight, while avoiding enemy fire themselves. The player can upgrade their standard-issue rifle into one of four different weapons, including the powerful spread shot.</desc>
-		<rating>0.9</rating>
-		<releasedate>19880202T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<image>./boxart/Contra (USA).jpg</image>
-		<video>./snaps/Contra (USA).mp4</video>
 	</game>
 	<game>
 		<path>./Cowboy Kid (USA).zip</path>
@@ -3782,7 +3740,7 @@
 	</game>
 	<game>
 		<path>./Duck Tales 2 Two-Players (Hack) v1.4a Ti.nes</path>
-		<name>Disney's DuckTales 2 (2 Players)</name>
+		<name>Disney's DuckTales 2 (2 Player Hack with Darkwing Duck)</name>
 		<sortname />
 		<desc>2 Player Hack, Scrooge McDuck is hot on the trail of the richest adventure ever. Pieces to the map of the Lost Treasure of McDuck have been scattered across the globe, and Scrooge must find them before the greedy Flintheart Glomgold grabs them. It's going to be a race to the finish as both of them try to find the treasure and become the richest duck in the world! Join Scrooge and his nephews as they explore the ancient pyramids of Egypt and do battle with swash-buckling pirates in the Bermuda Triangle. Help them search the haunted halls of an ancient Scottish castle and scale the watery heights of Niagara Falls.</desc>
 		<rating>0.8</rating>
@@ -3931,5 +3889,112 @@
 		<genre>Action</genre>
 		<image>./boxart/Dragon Fighter (USA).jpg</image>
 		<video>./snaps/Dragon Fighter (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Super Mario Bros. (World).zip</path>
+		<name>Super Mario Bros.</name>
+		<sortname />
+		<desc>The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day. The first ever platform adventure for the Mario Brothers has the player exploring level after level, with Bowser to contend with as the end of level boss. Power-ups include the Super Mushroom, which increases Mario's size and power, the fire flower, allowing him to shoot fireballs at enemies, and the ever important starman for a short burst of invincibility.</desc>
+		<rating>0.9</rating>
+		<releasedate>19850913T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Mario Bros. (World).jpg</image>
+		<video>./snaps/Super Mario Bros. (World).mp4</video>
+	</game>
+	<game>
+		<path>./Little Ninja Brothers (USA).zip</path>
+		<name>Little Ninja Brothers</name>
+		<sortname />
+		<desc>Blu Boltar, lord of the Yoma clan has invaded Chinaland and captured the Emperor. Sending out a TV broadcast across the realm, Blu Boltar declares himself the ruler. Jack and Ryu are the ninja masters of Chinaland, training under their mentor at Mt. Epin. Having heard the news of the Emperor's capture they set out to defeat Blu Boltar and his Yoma Clan.</desc>
+		<rating>0.7</rating>
+		<releasedate>19901201T000000</releasedate>
+		<developer>Culture Brain</developer>
+		<publisher>Culture Brain</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Little Ninja Brothers (USA).jpg</image>
+		<video>./snaps/Little Ninja Brothers (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Where's Waldo (USA).zip</path>
+		<name>Where's Waldo</name>
+		<sortname />
+		<desc>Based on the popular Where's Waldo series of books. Your goal is to find Waldo in various pictures in order to progress through the game. The pictures are still images the size of the screen in the Easy and Practice levels. In the Medium and Hard levels, you have to scroll to the side to see the rest of the area. The directional buttons control a magnifying glass and once you find Waldo, you get to go to the next level and a new picture. In the Practice level, you have no time limit but only get to play the Train Station, Forest and Caves. The time limit for the other levels varies: Easy=959, Medium=659, Hard=459.</desc>
+		<rating>0.25</rating>
+		<releasedate>19910917T000000</releasedate>
+		<developer>THQ</developer>
+		<publisher>THQ</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Where's Waldo (USA).jpg</image>
+		<video>./snaps/Where's Waldo (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Wrecking Crew (World).zip</path>
+		<name>Wrecking Crew</name>
+		<sortname />
+		<desc>Wrecking Crew is a platform action game for one or two players. You control Mario and Luigi who need to demolish various buildings. After each wall in the building has been destroyed, you move on to the next (and more difficult) building. Many of the buildings have a puzzle element to them; you may need to find the path to reach all of the walls without becoming trapped at a dead end. Wandering throughout the buildings are dangerous creatures and the construction foreman, all of whom will stop Mario and Luigi from completing their task. The game features 100 levels, or use the construction set and create and play your own buildings.</desc>
+		<rating>0.6</rating>
+		<releasedate>19850618T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Wrecking Crew (World).jpg</image>
+		<video>./snaps/Wrecking Crew (World).mp4</video>
+	</game>
+	<game>
+		<path>./Contra (USA).zip</path>
+		<name>Contra</name>
+		<sortname />
+		<desc>In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists. As either, Bill (player 1) or Lance (player 2), the player must get to the end of each stage, shooting everything in sight, while avoiding enemy fire themselves. The player can upgrade their standard-issue rifle into one of four different weapons, including the powerful spread shot.</desc>
+		<rating>0.9</rating>
+		<releasedate>19880202T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Contra (USA).jpg</image>
+		<video>./snaps/Contra (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Alwa's Awakening (World) (Aftermarket) (Unl).zip</path>
+		<name>Alwa's Awakening</name>
+		<sortname />
+		<desc>Use your magic staff and progress through a large interconnected world where you’ll solve puzzles, fight enemies and defeat bosses in order to help free the land of Alwa. Explore and uncover the secrets by using your platforming skills in this challenging and charming 8-bit adventure game.</desc>
+		<releasedate />
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Alwa's Awakening (World) (Aftermarket) (Unl).jpg</image>
+		<video>./snaps/Alwa's Awakening (World) (Aftermarket) (Unl).mp4</video>
+	</game>
+	<game>
+		<path>./Haunted - Halloween '86 (World) (Remastered Onslaught Edition) (Aftermarket) (Unl).zip</path>
+		<name>Haunted Halloween '86: Remastered Onslaught Edition</name>
+		<sortname>Haunted Halloween 87</sortname>
+		<desc>HAUNTED: Halloween '86 (The Curse Of Possum Hollow) is a brand new NES homebrew game featuring side-scrolling, platforming, beat 'em up action! It is the sequel to HAUNTED: Halloween '85 and was originally released on cartridge in October of 2016 for the original Nintendo Entertainment System so it follows all the rules and restrictions of the original hardware. We are releasing a copy of the game in all its pixelated, 8-bit, retro glory for your PC. The cartridge version can be purchased online for those who still have a working NES or clone console!!</desc>
+		<releasedate>20160101T000000</releasedate>
+		<developer>Retrotainment Games</developer>
+		<publisher>Retrotainment Games</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Haunted - Halloween '86 (World) (Remastered Onslaught Edition) (Aftermarket) (Unl).jpg</image>
+		<video>./snaps/Haunted - Halloween '86 (World) (Remastered Onslaught Edition) (Aftermarket) (Unl).mp4</video>
+	</game>
+	<game>
+		<path>./Lone Ranger, The (USA).zip</path>
+		<name>Lone Ranger, The</name>
+		<sortname />
+		<desc>In the early 1880's in Texas, a man has returned to bring justice to the outlaw who murdered his brother and his former comrades, the Texas Rangers. His name is the Lone Ranger. The outlaw, whose name is Butch Cavendish, has now kidnapped the President. The time has come for the masked man to begin his journey of adventure for the purpose of safely rescuing the President and avenging the deaths of his brother and former comrades.</desc>
+		<rating>0.5</rating>
+		<releasedate>19910801T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/Lone Ranger, The (USA).jpg</image>
+		<video>./snaps/Lone Ranger, The (USA).mp4</video>
 	</game>
 </gameList>

@@ -708,7 +708,7 @@
 	</game>
 	<game>
 		<path>./San Francisco RUSH 2049.chd</path>
-		<name>San Francisco RUSH 2049</name>
+		<name>San Francisco Rush 2049</name>
 		<sortname />
 		<desc>Unlike the previous San Francisco Rush titles, this racing game is set in the future. The same rules apply though, get to the finish before everyone else while avoiding massive crashes and taking as many shortcuts as possible. Along with the usual race style, you now have the ability to fly, allowing you even more speed, stunts and shortcuts to the finish line. While the tracks themselves include moving ramps and switches to other shortcuts. Modes include time trials, stunt mode including unique track designs to get the most out of your stunts, and a four player 'Battlematch' mode that adds weapons to the action.</desc>
 		<rating>0.7</rating>
@@ -1099,20 +1099,6 @@
 		<video>./snaps/Pro Pinball - Trilogy.mp4</video>
 	</game>
 	<game>
-		<path>./4 Wheel Thunder.chd</path>
-		<name>4 Wheel Thunder</name>
-		<sortname />
-		<desc>4 Wheel Thunder is the off-road racing sequel to the popular power-boat racing game, Hydro Thunder. In this game, players race around two types of courses; huge outdoor tracks and smaller indoor tracks. All in all, there are 24 areas in which to race, including various day/night, rain/sunshine variations. The game includes the standard championship, practice race, and 2-player modes. The thunder series of games is unique in that the key to winning the race lies not in careful steering and braking, but in finding the "boost" power-ups that lie around the tracks.</desc>
-		<rating>0.6</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Kalisto</publisher>
-		<genre>Racing</genre>
-		<players>1-2</players>
-		<image>./boxart/4 Wheel Thunder.jpg</image>
-		<video>./snaps/4 Wheel Thunder.mp4</video>
-	</game>
-	<game>
 		<path>./Alien Front Online v1.000 (2001)(Sega)(US)[!].chd</path>
 		<name>Alien Front Online</name>
 		<sortname />
@@ -1170,7 +1156,7 @@
 	</game>
 	<game>
 		<path>./Kao the Kangaroo v1.002 (2000)(Titus)(US)(en-es)[!].chd</path>
-		<name>KAO the Kangaroo</name>
+		<name>Kao the Kangaroo</name>
 		<sortname />
 		<desc>A kangaroo named Kao was playing with his friends in his native Australia, when suddenly evil hunters appeared, put him in a cage, and took him away. They didn't know that Kao was quite proficient in the art of boxing, so freeing himself from the trap wasn't particularly hard. However, Kao finds himself far away from home, and must fight and hop his way back.</desc>
 		<rating>0.75</rating>
@@ -1450,7 +1436,7 @@
 	</game>
 	<game>
 		<path>./Lost Golem, The (Japan) [T-En by Rolly &amp; RafaGam &amp; Cargodin v1.0] [n].chd</path>
-		<name>Golem no Maigo: The Lost Golem</name>
+		<name>Golem no Maigo (The Lost Golem)</name>
 		<sortname />
 		<desc>The king has gotten lost looking for his daughter, so a golem sets out on a journey to find him and help him out. The Lost Golem is a puzzle game where the player must guide the king to a door in each stage by pushing walls around. Each stage is made up of walls, gates, and holes.</desc>
 		<rating>0.8</rating>
@@ -1841,7 +1827,7 @@
 	</game>
 	<game>
 		<path>./Evolution 2 - Far Off Promise.chd</path>
-		<name>Evolution 2: Far Off Promise</name>
+		<name>Evolution 2: Far off Promise</name>
 		<sortname>Evolution 2</sortname>
 		<desc>Evolution 2 is a direct sequel to World of Sacred Device. The events of the game take place six months after the conclusion of the previous game. Mag Launcher, the son of a great adventurer of the past, has earned the title of "best adventurer" in the town Pannam. The adventurer guild (called the Society) sends him to the south.</desc>
 		<rating>0.8</rating>
@@ -2358,7 +2344,7 @@
 	</game>
 	<game>
 		<path>./Dynamite Cop!.chd</path>
-		<name>Dynamite Cop</name>
+		<name>Dynamite Cop!</name>
 		<sortname />
 		<desc>Pirates have kidnapped the President's daughter and are holding her on a hijacked cruise ship. Now it's up to an elite police force to get them back, using whatever means necessary. The action takes place on both the cruise ship and the pirate's island hideaway. You play as one of three cops, in this beat-em up fighting game from Sega. Dynamite Cop features similar gameplay to Die Hard Arcade. As your character enters an area, you have to beat up everyone there. Once they are gone, you continue to the next area.</desc>
 		<rating>0.75</rating>
@@ -2510,20 +2496,6 @@
 		<video>./snaps/Ready 2 Rumble Boxing Round 2.mp4</video>
 	</game>
 	<game>
-		<path>./Soul Calibur.chd</path>
-		<name>Soul Calibur</name>
-		<sortname />
-		<desc>A fighting game to end all fighting games. A sequel to Soul Blade, Soul Calibur takes place in a time inspired by a mixture of 16th-century ancient China and oriental medieval fantasies and legends. All characters have weapons and distinct fighting styles with over 100 individual moves per character.</desc>
-		<rating>0.8</rating>
-		<releasedate>19991126T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<image>./boxart/Soul Calibur.jpg</image>
-		<video>./snaps/Soul Calibur.mp4</video>
-	</game>
-	<game>
 		<path>./Street Fighter Alpha 3.chd</path>
 		<name>Street Fighter Alpha 3</name>
 		<sortname />
@@ -2538,22 +2510,8 @@
 		<video>./snaps/Street Fighter Alpha 3.mp4</video>
 	</game>
 	<game>
-		<path>./King of Fighters, The - Dream Match 1999.chd</path>
-		<name>The King of Fighters: Dream Match 1999</name>
-		<sortname>The King of Fighters '98</sortname>
-		<desc>A special Dreamcast conversion of KOF '98 (NOT '99) with several additions for Sega's console. The game remains the same as the original arcade version, but now includes new backgrounds (some with some polygonal enhancements) and a series of complementary bonus materials like conceptual galleries, sound test modes, etc.</desc>
-		<rating>0.85</rating>
-		<releasedate>19991022T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<image>./boxart/King of Fighters, The - Dream Match 1999.jpg</image>
-		<video>./snaps/King of Fighters, The - Dream Match 1999.mp4</video>
-	</game>
-	<game>
 		<path>./King of Fighters '99, The - Evolution (Japan).chd</path>
-		<name>The King of Fighters '99: Evolution</name>
+		<name>King of Fighters '99: Evolution, The</name>
 		<sortname />
 		<desc>Welcome back to the King of Fighters tournament with this, the latest installment of the legendary SNK fighting game series! Taking elements from both KOF '99 and the new KOF 2000, KOF Evo brings hardcore fighting game action, slick characters, newcomers, oldcomers, and everyone in between back for one of the greatest fighting game experiences you'll ever see!</desc>
 		<rating>0.75</rating>
@@ -2567,7 +2525,7 @@
 	</game>
 	<game>
 		<path>./King of Fighters 2000, The.chd</path>
-		<name>The King of Fighters 2000</name>
+		<name>King of Fighters 2000, The</name>
 		<sortname />
 		<desc>The King of Fighters 2000 is a 2000 competitive fighting game produced by SNK for the Neo Geo arcade and home platforms. It is the seventh installment in The King of Fighters series for the Neo Geo, and marks the final game in the series produced by SNK before the bankruptcy. The game was ported to the Sega Dreamcast (in Japan only) and the Sony PlayStation 2 in 2002. The PlayStation 2 version of the game was released in North America in a two-in-one bundle with its immediate sequel, The King of Fighters 2001, as the first two games to be published by SNK Playmore USA.</desc>
 		<rating>0.75</rating>
@@ -2581,7 +2539,7 @@
 	</game>
 	<game>
 		<path>./King of Fighters 2001, The.chd</path>
-		<name>The King of Fighters 2001</name>
+		<name>King of Fighters 2001, The</name>
 		<sortname />
 		<desc>The King of Fighters 2001 (stylized as KOF '01) is a 2001 competitive fighting game produced by Eolith for the Neo Geo. It is the eighth game in The King of Fighters series and the first game produced following the closure of the original SNK. The game was produced by the Korean-based company Eolith and developed by BrezzaSoft and Eolith, a company formed by former SNK employees. The game was ported to the Sega Dreamcast in Japan only and Sony PlayStation 2. The stand-alone Sony PlayStation 2 version was released in North America and Europe in a two-in-one bundle with the preceding game in the series.</desc>
 		<rating>0.75</rating>
@@ -2595,7 +2553,7 @@
 	</game>
 	<game>
 		<path>./King of Fighters 2002, The.chd</path>
-		<name>The King of Fighters 2002</name>
+		<name>King of Fighters 2002, The</name>
 		<sortname />
 		<desc>The second plotless "dream match" in The King of Fighters series, this game sports 39 normal characters and 5 hidden characters, some of whom haven't appeared since KOF98. The King of Fighters 2002 also has five characters exclusive to the X-Box, the PS2 and/or Dreamcast systems: Shingo Yabuki, King, Geese Howard, "Riot of the Blood" Iori and Leopold Goenitz. Shingo and King are available on all the non-Neo Geo systems, while Geese and the rest are only available on the PS2 and X-Box platforms. The gameplay system has also changed. The striker system and four-character teams found in the last three KOF releases have been totally removed.</desc>
 		<rating>0.7</rating>
@@ -2609,7 +2567,7 @@
 	</game>
 	<game>
 		<path>./kofxi.chd</path>
-		<name>The King of Fighters XI</name>
+		<name>King of Fighters XI, The</name>
 		<sortname />
 		<desc>The eleventh game in the KOF series following The King of Fighters 2003. According to Sega: 'For over 10 years, the King of Fighters series has been the choice of game players around the world. The 11th team of fighters continues this tradition. KOF11 is suited for one to two players, with continuous buy-in. Choose from 33 fighters, including 4 new characters. A fifth control button was added to enhance your skills by delivering a devastating blow to your opponent, if hit at the right time. A New Skill Gauge performs a variety of tag-off moves and new attacks. A player can also custom construct a Three-Fighter Tag-Team by selecting three choice combatants.'</desc>
 		<rating>0.85</rating>
@@ -2620,20 +2578,6 @@
 		<players>2</players>
 		<image>./boxart/kofxi.jpg</image>
 		<video>./snaps/kofxi.mp4</video>
-	</game>
-	<game>
-		<path>./Typing of the Dead, The.chd</path>
-		<name>Typing of the Dead, The</name>
-		<sortname />
-		<desc>This is essentially the same game as the arcade light-gun rail-shooter House of the Dead 2, except they've turned it into a edu-tainment typing trainer. Instead of guns, your characters have keyboards strapped to them, and instead of shooting the zombies that constantly jump out at you you'll need to type out the words attached to the zombies in order to kill them before they crack open your head and feast upon the goo inside. The game ranks you on your typing speed and provides various tutorials and other edu-tainment sundries.</desc>
-		<rating>0.8</rating>
-		<releasedate>20010123T000000</releasedate>
-		<developer>Smilebit</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<image>./boxart/Typing of the Dead, The.jpg</image>
-		<video>./snaps/Typing of the Dead, The.mp4</video>
 	</game>
 	<game>
 		<path>./Ultimate Fighting Championship.chd</path>
@@ -2721,7 +2665,7 @@
 	</game>
 	<game>
 		<path>./Cyber Troopers - Virtual On - Oratorio Tangram (USA).chd</path>
-		<name>Cyber Troopers: Virtual-On, Oratorio Tangram</name>
+		<name>Cyber Troopers Virtual On: Oratorio Tangram</name>
 		<sortname />
 		<desc>Virtual-On: Oratorio Tangram on Dreamcast is a fighting game in which you can see colossus of steel face off against each other. Choose your mecha-robot (big robot) and activate the machine. Whether it's with a cyber sword or your rockets, smash your opponents into a junkyard before they cut your batteries.</desc>
 		<rating>0.8</rating>
@@ -2854,23 +2798,8 @@
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Racing</genre>
-		<players>1</players>
 		<image>./boxart/Crazy Taxi.jpg</image>
 		<video>./snaps/Crazy Taxi.mp4</video>
-	</game>
-	<game>
-		<path>./Virtua Tennis.chd</path>
-		<name>Virtua Tennis</name>
-		<sortname />
-		<desc>Play as one of eight licensed players and uncover the secret stars. As well as the traditional arcade mode you can play in the exhibition mode, with 4 player action via doubles play. Once you've mastered those modes take on the world in the world circuit mode, with unique training games, diffrent challenges and shops to buy clothing, equipment, stages and playing partners. Virtua Tennis, so realistic you can almost taste the strawberries and cream.</desc>
-		<rating>0.8</rating>
-		<releasedate>20000908T000000</releasedate>
-		<developer>Hitmaker</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-		<players>1-4</players>
-		<image>./boxart/Virtua Tennis.jpg</image>
-		<video>./snaps/Virtua Tennis.mp4</video>
 	</game>
 	<game>
 		<path>./Bust-A-Move 4 (USA).chd</path>
@@ -2985,7 +2914,7 @@
 	</game>
 	<game>
 		<path>./Rippin' Riders Snowboarding v1.001 (1999)(Sega)(NTSC)(US)[!].CHD</path>
-		<name>Rippin' Riders</name>
+		<name>Rippin' Riders Snowboarding</name>
 		<sortname />
 		<desc>This game, called Rippin' Riders in the United States, Snow Surfers in Europe and Cool Boarders Burrrn in Japan, is a snowboarding game. If you like extreme sports, Snow Surfers is a pleasure to watch. It's almost as if you can feel the cold mountain air on your face as you prepare to descend the slopes at high speed. There are so many game modes and options here that it's hard to know where to start. Suffice it to say that you'll need the nimblest fingers to beat your opponents in competition, and there's a plethora of tricks and maneuvers to try. This will keep you busy for hours.</desc>
 		<rating>0.6</rating>
@@ -3052,20 +2981,6 @@
 		<players>1-2</players>
 		<image>./boxart/Xeno Crisis (Unl).jpg</image>
 		<video>./snaps/Xeno Crisis (Unl).mp4</video>
-	</game>
-	<game>
-		<path>./4x4 Jam.cdi</path>
-		<name>4x4 Jam</name>
-		<sortname />
-		<desc>When speed and haste go hand in hand! 4X4 Jam sends you on various courses where you will have to cross the crossing points before your competitors. There is no fixed route, so you can take whatever path you like. Win the stages to climb to the top of the online rankings.</desc>
-		<rating>0.7</rating>
-		<releasedate>20170930T000000</releasedate>
-		<developer>Invictus Games</developer>
-		<publisher>JoshProd</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<image>./boxart/4x4 Jam.jpg</image>
-		<video>./snaps/4x4 Jam.mp4</video>
 	</game>
 	<game>
 		<path>./Captain Tomaday.cdi</path>
@@ -3192,19 +3107,6 @@
 		<video>./snaps/Chaos Field.mp4</video>
 	</game>
 	<game>
-		<path>./Radirgy.cdi</path>
-		<name>Radirgy</name>
-		<sortname />
-		<desc>Radirgy is a vertical-screen top-down bullet-hell shooter originally developed by Milestone for Naomi arcade system and later released on Dreamcast. Setting itself apart from many other top-down shooters on the system, the game features bright, cartoony, cell-shaded graphics. At the beginning, the player is given a choice of three different mecha-ships - one with a spread-gun, a weak homing laser, or a slow but powerful bubble gun.</desc>
-		<rating>0.6</rating>
-		<releasedate>20060216T000000</releasedate>
-		<developer>Milestone</developer>
-		<publisher>Milestone</publisher>
-		<genre>Shoot'em up</genre>
-		<image>./boxart/Radirgy.jpg</image>
-		<video>./snaps/Radirgy.mp4</video>
-	</game>
-	<game>
 		<path>./Mat Hoffman's Pro BMX.chd</path>
 		<name>Mat Hoffman's Pro BMX</name>
 		<sortname />
@@ -3232,63 +3134,169 @@
 		<video>./snaps/Millenium Racer - Y2K Fighters.mp4</video>
 	</game>
 	<game>
-		<path>./18 Wheeler - American Pro Trucker.chd</path>
-		<name>18 Wheeler: American Pro Trucker</name>
-		<desc>The main purpose of the game is to make it to the finish line with the truck's cargo. Players are given a set amount of time, but can ram into special vans that will add three seconds to the timer. There are several characters to choose from, each with a unique truck and attributes. The game starts out in Key West and players travel across the United States, ending in San Francisco.</desc>
-		<image>./boxart/18 Wheeler - American Pro Trucker.jpg</image>
-		<video>./snaps/18 Wheeler - American Pro Trucker.mp4</video>
-		<rating>0.65</rating>
-		<releasedate>20010106T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Racing</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220218T090026</lastplayed>
-	</game>
-	<game>
 		<path>./Panzer Front.chd</path>
 		<name>Panzer Front</name>
+		<sortname />
 		<desc>Panzer Front is a realistic World War Two tank combat simulation spanning the summer offensive into Russia of 1941 to the fall of Berlin in 1945. Nearly 25 historical missions are provided in which the player can control USA, Russian or German forces. Nearly 30 realisitically modeled tanks are playable along with 7 fictional ones and dozens of other vehicles that make up friendly and enemy forces.</desc>
-		<image>./boxart/Panzer Front.jpg</image>
-		<video>./snaps/Panzer Front.mp4</video>
 		<rating>0.8</rating>
 		<releasedate>19991222T000000</releasedate>
 		<developer>Shangri-La</developer>
 		<publisher>ASCII Corporation</publisher>
 		<genre>Simulation</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220219T184810</lastplayed>
-	</game>
-	<game>
-		<path>./Tennis 2K2.chd</path>
-		<name>Tennis 2K2</name>
-		<desc>Sequel to the original game which was released two years prior. The games graphics have been improved, and there is a greater roster of players to choose from. The most noteworthy addition is that of female players, such as Monica Seles and Venus and Serena Williams. You cannot however play as a male against a female.</desc>
-		<image>./boxart/Tennis 2K2.jpg</image>
-		<video>./snaps/Tennis 2K2.mp4</video>
-		<rating>0.9</rating>
-		<releasedate>20011024T000000</releasedate>
-		<developer>Hitmaker</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T135706</lastplayed>
+		<image>./boxart/Panzer Front.jpg</image>
+		<video>./snaps/Panzer Front.mp4</video>
 	</game>
 	<game>
 		<path>./Rayman 2 - The Great Escape.chd</path>
 		<name>Rayman 2: The Great Escape</name>
+		<sortname />
 		<desc>A gang of pirates have invaded Rayman's world to seize its unique creatures and sell them to an intergalactic circus. Our mighty hero, Rayman, has been captured and stripped of his powers. He flees captivity and embarks on a dangerous mission to return to his conquered world where he must liberate all of his imprisoned friends from the pirates. Just like Bugs Bunny: Lost in Time, the game is rendered in full 3D and contains action, adventure and mind twisting puzzles!</desc>
-		<image>./boxart/Rayman 2 - The Great Escape.jpg</image>
-		<video>./snaps/Rayman 2 - The Great Escape.mp4</video>
 		<rating>0.85</rating>
 		<releasedate>20000301T000000</releasedate>
 		<developer>Ubisoft</developer>
 		<publisher>Ubisoft</publisher>
 		<genre>Platform</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T231244</lastplayed>
+		<image>./boxart/Rayman 2 - The Great Escape.jpg</image>
+		<video>./snaps/Rayman 2 - The Great Escape.mp4</video>
+	</game>
+	<game>
+		<path>./Tennis 2K2.chd</path>
+		<name>Tennis 2K2</name>
+		<sortname />
+		<desc>Sequel to the original game which was released two years prior. The games graphics have been improved, and there is a greater roster of players to choose from. The most noteworthy addition is that of female players, such as Monica Seles and Venus and Serena Williams. You cannot however play as a male against a female.</desc>
+		<rating>0.9</rating>
+		<releasedate>20011024T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Tennis 2K2.jpg</image>
+		<video>./snaps/Tennis 2K2.mp4</video>
+	</game>
+	<game>
+		<path>./18 Wheeler - American Pro Trucker.chd</path>
+		<name>18 Wheeler: American Pro Trucker</name>
+		<sortname />
+		<desc>The main purpose of the game is to make it to the finish line with the truck's cargo. Players are given a set amount of time, but can ram into special vans that will add three seconds to the timer. There are several characters to choose from, each with a unique truck and attributes. The game starts out in Key West and players travel across the United States, ending in San Francisco.</desc>
+		<rating>0.65</rating>
+		<releasedate>20010106T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/18 Wheeler - American Pro Trucker.jpg</image>
+		<video>./snaps/18 Wheeler - American Pro Trucker.mp4</video>
+	</game>
+	<game>
+		<path>./4x4 Jam.cdi</path>
+		<name>4x4 Jam</name>
+		<sortname />
+		<desc>When speed and haste go hand in hand! 4X4 Jam sends you on various courses where you will have to cross the crossing points before your competitors. There is no fixed route, so you can take whatever path you like. Win the stages to climb to the top of the online rankings.</desc>
+		<rating>0.7</rating>
+		<releasedate>20170930T000000</releasedate>
+		<developer>Invictus Games</developer>
+		<publisher>JoshProd</publisher>
+		<genre>Racing</genre>
+		<image>./boxart/4x4 Jam.jpg</image>
+		<video>./snaps/4x4 Jam.mp4</video>
+	</game>
+	<game>
+		<path>./Resident Evil 3 - Nemesis (USA).chd</path>
+		<name>Resident Evil 3: Nemesis</name>
+		<sortname />
+		<desc>The survival horror Resident Evil 3: Nemesis on Dreamcast takes place during the events of Resident Evil 2. This time you play as Jill Valentine, and must escape alive from Raccoon City, ravaged by zombies. Nemesis, the exterminating monster of the last survivors is on your tail.</desc>
+		<rating>0.75</rating>
+		<releasedate>20001115T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Resident Evil 3 - Nemesis (USA).jpg</image>
+		<video>./snaps/Resident Evil 3 - Nemesis (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Radirgy.cdi</path>
+		<name>Radirgy</name>
+		<sortname />
+		<desc>Radirgy is a vertical-screen top-down bullet-hell shooter originally developed by Milestone for Naomi arcade system and later released on Dreamcast. Setting itself apart from many other top-down shooters on the system, the game features bright, cartoony, cell-shaded graphics. At the beginning, the player is given a choice of three different mecha-ships - one with a spread-gun, a weak homing laser, or a slow but powerful bubble gun.</desc>
+		<rating>0.6</rating>
+		<releasedate>20060216T000000</releasedate>
+		<developer>Milestone</developer>
+		<publisher>Milestone</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Radirgy.jpg</image>
+		<video>./snaps/Radirgy.mp4</video>
+	</game>
+	<game>
+		<path>./Soul Calibur.chd</path>
+		<name>Soul Calibur</name>
+		<sortname />
+		<desc>A fighting game to end all fighting games. A sequel to Soul Blade, Soul Calibur takes place in a time inspired by a mixture of 16th-century ancient China and oriental medieval fantasies and legends. All characters have weapons and distinct fighting styles with over 100 individual moves per character.</desc>
+		<rating>0.8</rating>
+		<releasedate>19991126T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<image>./boxart/Soul Calibur.jpg</image>
+		<video>./snaps/Soul Calibur.mp4</video>
+	</game>
+	<game>
+		<path>./Typing of the Dead, The.chd</path>
+		<name>Typing of the Dead, The</name>
+		<sortname />
+		<desc>This is essentially the same game as the arcade light-gun rail-shooter House of the Dead 2, except they've turned it into a edu-tainment typing trainer. Instead of guns, your characters have keyboards strapped to them, and instead of shooting the zombies that constantly jump out at you you'll need to type out the words attached to the zombies in order to kill them before they crack open your head and feast upon the goo inside. The game ranks you on your typing speed and provides various tutorials and other edu-tainment sundries.</desc>
+		<rating>0.8</rating>
+		<releasedate>20010123T000000</releasedate>
+		<developer>Smilebit</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<image>./boxart/Typing of the Dead, The.jpg</image>
+		<video>./snaps/Typing of the Dead, The.mp4</video>
+	</game>
+	<game>
+		<path>./Virtua Tennis.chd</path>
+		<name>Virtua Tennis: Sega Professional Tennis</name>
+		<sortname />
+		<desc>Play as one of eight licensed players and uncover the secret stars. As well as the traditional arcade mode you can play in the exhibition mode, with 4 player action via doubles play. Once you've mastered those modes take on the world in the world circuit mode, with unique training games, diffrent challenges and shops to buy clothing, equipment, stages and playing partners. Virtua Tennis, so realistic you can almost taste the strawberries and cream.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000908T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Virtua Tennis.jpg</image>
+		<video>./snaps/Virtua Tennis.mp4</video>
+	</game>
+	<game>
+		<path>./4 Wheel Thunder.chd</path>
+		<name>4 Wheel Thunder</name>
+		<sortname />
+		<desc>4 Wheel Thunder is the off-road racing sequel to the popular power-boat racing game, Hydro Thunder. In this game, players race around two types of courses; huge outdoor tracks and smaller indoor tracks. All in all, there are 24 areas in which to race, including various day/night, rain/sunshine variations. The game includes the standard championship, practice race, and 2-player modes. The thunder series of games is unique in that the key to winning the race lies not in careful steering and braking, but in finding the "boost" power-ups that lie around the tracks.</desc>
+		<rating>0.6</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Kalisto</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/4 Wheel Thunder.jpg</image>
+		<video>./snaps/4 Wheel Thunder.mp4</video>
+	</game>
+	<game>
+		<path>./King of Fighters, The - Dream Match 1999.chd</path>
+		<name>King of Fighters: Dream Match 1999, The</name>
+		<sortname>King of Fighters '98</sortname>
+		<desc>A special Dreamcast conversion of KOF '98 (NOT '99) with several additions for Sega's console. The game remains the same as the original arcade version, but now includes new backgrounds (some with some polygonal enhancements) and a series of complementary bonus materials like conceptual galleries, sound test modes, etc.</desc>
+		<rating>0.85</rating>
+		<releasedate>19991022T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<image>./boxart/King of Fighters, The - Dream Match 1999.jpg</image>
+		<video>./snaps/King of Fighters, The - Dream Match 1999.mp4</video>
 	</game>
 </gameList>

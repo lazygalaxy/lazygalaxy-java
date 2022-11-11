@@ -1,0 +1,414 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Saturn</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./Blast Wind (Japan).chd</path>
+		<name>Blast Wind</name>
+		<sortname />
+		<desc>Blast Wind is a shoot-'em-up game released exclusively in Japan for the Sega Saturn in 1997. A nuclear shockwave has all but destroyed the entire population of Earth. The remaining humans on the planet were gathered aboard a ship called the Ark by a prophetic man named Noa. After the radiation dissipated, humankind emerged from the Ark and began building thriving civilizations. However, the fledgling civilization came under attack by a culture called Gorn. Gorn was a culture consisting of the embodiment of machines and artificiality. During the nuclear winter, Gorn was sealed beneath the Earth's crust and emerged when the remaining humans came out of the Ark.</desc>
+		<rating>0.65</rating>
+		<releasedate>19970117T000000</releasedate>
+		<developer>Tecnosoft</developer>
+		<publisher>Tecnosoft</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Blast Wind (Japan).jpg</image>
+		<video>./snaps/Blast Wind (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Clockwork Knight 2 - Pepperouchaus Adventure (Europe).chd</path>
+		<name>Clockwork Knight 2: Pepperouchau's Adventure</name>
+		<sortname />
+		<desc>Clockwork Knight 2 is the second (and to this date, last) game featuring the adventures of Sir Tongara de Pepperouchau III. It maintains the same game style (a mixture of 2D side-scrolling platformer with 3D elements, moderately in the fashion of Sega Saturn's Bug!), colorful music and gameplay of its predecessor. However, your mission will be somewhat different this time (although still related with Clockwork Princess Chelsea), as the ending scene of the first game did not come as good as expected and because of that, you should try to give the best of yourself again in order to completely recover Chelsea for Pepperouchau.</desc>
+		<rating>0.8</rating>
+		<releasedate>19951027T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Clockwork Knight 2 - Pepperouchaus Adventure (Europe).jpg</image>
+		<video>./snaps/Clockwork Knight 2 - Pepperouchaus Adventure (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Cotton 2 (English v0.9).cue</path>
+		<name>Magical Night Dreams: Cotton 2</name>
+		<sortname />
+		<desc>A direct sequel to the original Cotton and virtually an arcade-perfect port of the version for the Sega Titan Video arcade hardware. This game marks the introduction of two new primary characters: Appli, a young princess, and her anthropomorphic hat, Needle. Cotton 2 sees a return to traditional horizontal scrolling in the series, but it also stands out among shoot-'em-ups in general for its unique gameplay system. With a heavy incorporation of Newtonian physics, Cotton 2 ultimately mixes elements of 2D platformers with traditional shoot 'em up gameplay. The first release of this game also included a mini-calendar for 1998 and a special edition included a Cotton themed teacup.</desc>
+		<rating>0.75</rating>
+		<releasedate>19971204T000000</releasedate>
+		<developer>Success</developer>
+		<publisher>Success</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Cotton 2 (English v0.9).jpg</image>
+		<video>./snaps/Cotton 2 (English v0.9).mp4</video>
+	</game>
+	<game>
+		<path>./Guardian Force (Japan).chd</path>
+		<name>Guardian Force</name>
+		<sortname />
+		<desc>Guardian Force is a radical departure from the character- driven, ?cute-em-up' style of Success Cotton franchise. The player controls a futuristic tank, and there's hardly a human character to be seen. The enemies are realistic tanks, helicopters, jets, and armored vehicles, and the graphical palette sports a dark, gritty tone. It's an odd choice for a company that built its name off wide-eyed witches and bikini-clad fairies.</desc>
+		<rating>0.75</rating>
+		<releasedate>19980806T000000</releasedate>
+		<developer>Success</developer>
+		<publisher>Success</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Guardian Force (Japan).jpg</image>
+		<video>./snaps/Guardian Force (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Guardian Heroes (Europe).chd</path>
+		<name>Guardian Heroes</name>
+		<sortname />
+		<desc>Treasure's unique scrolling beat-em-up/RPG hybrid, Guardian Heroes introduces the player to a motley crew of heroes (Consisting of a swordsman, a ninja, a cleric and a mage), formed to find a "legendary sword". The game begins with the heroes in a bar, having found this sword, as they decide what to do with it. Before they have a chance to come up with an idea however, they are interrupted as an Imperial General charges in and warns them they are in grave danger. Seconds later, Imperial troops swarm into the inn and the heroes are forced to take flight along with this general.</desc>
+		<rating>0.75</rating>
+		<releasedate>19960620T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1-6</players>
+		<image>./boxart/Guardian Heroes (Europe).jpg</image>
+		<video>./snaps/Guardian Heroes (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Keio Flying Squadron 2 (Europe).chd</path>
+		<name>Keiō Yūgekitai: Katsugeki-hen (Keio Flying Squadron 2)</name>
+		<sortname />
+		<desc>This is a crazy Japanese anime-style 2D platformer with shooting stages. The game features lots of different gameplay styles and some of the most bizarre bosses you will ever find in a game. Its beautiful platform sections make good use of the Saturn's 2D hardware with scaling, rotation and transparencies. Your protagonist is Rami, a cute, scrawny blonde who dresses like a bunny and kills raccoons with a pink mallet.</desc>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Victor Entertainment</developer>
+		<publisher>JVC</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Keio Flying Squadron 2 (Europe).jpg</image>
+		<video>./snaps/Keio Flying Squadron 2 (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Layer Section (Japan) (6M).chd</path>
+		<name>Layer Section</name>
+		<sortname />
+		<desc>Galactic Attack is a coin-op conversion of the Japanese arcade game RayForce (GunLock for European arcades). A top-down shooter, there are seven levels to play, ranging from battles in the atmosphere of planets to battling over mountain ranges, each with their own standard huge bosses at the end of each of these levels. The player takes control of a starfighter called the RVA-818 X-LAY, out to destroy any opposing forces. The story has the future of Earth governments gathering together to construct a massive super computer called Con-Human to help with the planet's environment, providing nutrients to the earth and caring for the ecosystem. However, a cloned human is linked with the system and makes Con-Human a sentient being.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950914T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Layer Section (Japan) (6M).jpg</image>
+		<video>./snaps/Layer Section (Japan) (6M).mp4</video>
+	</game>
+	<game>
+		<path>./Layer Section II (Japan).chd</path>
+		<name>Layer Section II</name>
+		<sortname />
+		<desc>RayStorm is a shoot'em-up game created for the arcades, later ported to the Playstation and Saturn home consoles. Although there is no story connection, it is often thought of as the spiritual successor to RayForce, which had similar gameplay. You have 2 weapons at you disposal, a vulcan gun and a lock-on missile attack. You can also do 2 special attacks by using the lock-on system in a special way. The graphics are all in 3D, but the gameplay mechanics are in 2D. There are 7 stages, each ending with a giant end boss.</desc>
+		<rating>0.7</rating>
+		<releasedate>19971030T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Media Quest</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Layer Section II (Japan).jpg</image>
+		<video>./snaps/Layer Section II (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./NiGHTS into Dreams... (Europe).chd</path>
+		<name>Nights into Dreams...</name>
+		<sortname />
+		<desc>Immerse yourself in an unparalleled 3D flying experience. NiGHTS truly delivers an amazing virtual world of dreams -- filled with unbelievable real-time effects, fantastic creatures and nightmarish monsters. * Master a showcase of Sega Saturn's Processing Power. * Face your worst nightmares in a stunning world of 3D gameplay. * Dozens of camera angles, never-seen-before effects and 3D positional sound. * Developed exclusively for Sega Saturn by the creators of "Sonic the Hedgehog."</desc>
+		<rating>0.8</rating>
+		<releasedate>19960919T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/NiGHTS into Dreams... (Europe).jpg</image>
+		<video>./snaps/NiGHTS into Dreams... (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Panzer Dragoon (Europe) (En,Fr,De,Es,It).chd</path>
+		<name>Panzer Dragoon</name>
+		<sortname />
+		<desc>One thousand years into the future, you live in constant fear of the Dark Dragon and his giant cyborg insect armies. Armed with a deadly weapon from the ancient past and the guidance of your armored blue dragon, you must save your people from endless swarms of deadly foes. Fulfill your destiny and keep the Dark Dragon from reaching the tower; or die trying.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950830T000000</releasedate>
+		<developer>Team Andromeda</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Panzer Dragoon (Europe) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Panzer Dragoon (Europe) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Panzer Dragoon II Zwei (Europe).chd</path>
+		<name>Panzer Dragoon II: Zwei</name>
+		<sortname />
+		<desc>Flash backwards to several years before the vicious battle against the empire in Panzer Dragoon 1. In the country of Machania, dragons are bred for the exclusive use of the dragoons, or Knights. Dragons with wings are normally executed as they are deemed to be a bad omen by the citizens. In the war with the Empire, Machania has begun to examine the ancient ways rather than to try to fight a futile war using technological advances. The Empire is technologically more advanced. Randy, the hero, and his newfound friend, the dragon he saved, want to turn the tide of battle.</desc>
+		<rating>0.85</rating>
+		<releasedate>19960510T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Panzer Dragoon II Zwei (Europe).jpg</image>
+		<video>./snaps/Panzer Dragoon II Zwei (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Radiant Silvergun (Japan).chd</path>
+		<name>Radiant Silvergun</name>
+		<sortname />
+		<desc>The story of Radiant Silvergun begins with the end of the world. As the pilot of the starfighter Radiant Silvergun you are sent back in time in search of the key to save the planet. In various time periods you will battle hordes of enemies in search for an alien being knows as the Origin. Only by destroying the Origin can the dark future of the planet be altered. Radiant Silvergun is a top-down shooter from the Japanese codeshop Treasure (Gunstar Heroes, Silhouette Mirage) released in Japan for the Sega Saturn in 1998. To tackle the swarm of enemies that fill your screen you got three different means of attack. A straight shot, a homing laser and a devastating spread shot.</desc>
+		<rating>0.8</rating>
+		<releasedate>19980723T000000</releasedate>
+		<publisher>Treasure</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Radiant Silvergun (Japan).jpg</image>
+		<video>./snaps/Radiant Silvergun (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Resident Evil (Europe).chd</path>
+		<name>Resident Evil</name>
+		<sortname />
+		<desc>A team of S.T.A.R.S (Special Tactics And Rescue Squad) members are called to investigate a series of murders near Raccoon City. While searching the woods near the city, the team is attacked by bloodthirsty dogs and they have to retreat to a nearby mansion. The player chooses between Jill Valentine or Chris Redfield and starts to explore the mansion. It soon becomes very clear that it isn't just any mansion, but a hellish place where the undead walk the corridors and other horrors are lurking in the darkness, waiting to eat some heads. While solving puzzles, collecting keys, and shooting monsters, the player has to unravel the mystery behind this mansion and, if possible, get out alive.</desc>
+		<rating>0.85</rating>
+		<releasedate>19971001T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Resident Evil (Europe).jpg</image>
+		<video>./snaps/Resident Evil (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Saturn Bomberman (Europe).chd</path>
+		<name>Saturn Bomberman</name>
+		<sortname />
+		<desc>An all out party game, this Saturn exclusive title has you controlling the little blue bomber along with up to 10 other bomber pals planting bombs to trap enemy characters. Although there is no story mode, you can take on a host of other characters in one on one battles to see who is the master of the bomb. 10 players can then play on the one screen at a time, either against each other or in teams. Saturn Bomberman can also connect to the Sega Saturn NetLink internet system, allowing two people from opposite ends of the earth to battle it out.</desc>
+		<rating>0.75</rating>
+		<releasedate>19970501T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>8+</players>
+		<image>./boxart/Saturn Bomberman (Europe).jpg</image>
+		<video>./snaps/Saturn Bomberman (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Shinobi Legions (USA).chd</path>
+		<name>Shinobi Legions</name>
+		<sortname />
+		<desc>Blood is thicker than water. Not in this family. Twin Brothers Sho and Kazuma give sibling rivalry a bad name. While Sho does all the nice things that would make his Shinobi ancestors proud, Kazuma has them turning in the family plot. Kazuma's band of merciless mercenaries is intent on reducing the family membership by one. Meanwhile, Kazuma abducts his own sister, Aya, just to make sure Sho has soemthing to think about before storming in on his brother. Sometimes kids just don't turn out the way you want them to. Nine stages of explosive action. Digitized characters. Vertical and horizontal scrolling. Beautifully detailed multi-layered backgrounds. Movie quality cinematics.</desc>
+		<rating>0.85</rating>
+		<releasedate>19950630T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Shinobi Legions (USA).jpg</image>
+		<video>./snaps/Shinobi Legions (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Steep Slope Sliders (Europe).chd</path>
+		<name>Steep Slope Sliders</name>
+		<sortname />
+		<desc>A snowboarding game in the CoolBoarders vein, this game sees you picking one of a motley crew of boarders and taking to the slopes as you try to get the best times and/or scores on each slope. With a range of tricks and courses, from Canada to Italy to Japan, as well as the option to play on a half-pipe purely for points, this game offers a fast-paced snowboarding experience that's easy for anyone to just hop into.</desc>
+		<rating>0.85</rating>
+		<releasedate>19971023T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Steep Slope Sliders (Europe).jpg</image>
+		<video>./snaps/Steep Slope Sliders (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Story of Thor 2, The (Europe).chd</path>
+		<name>Story of Thor 2, The</name>
+		<sortname />
+		<desc>The Story of Thor 2, known in Japan as Thor: Seireioukiden and the US as The Legend of Oasis, is video game on the Sega Saturn console. It is the prequel to The Story of Thor: A Successor of the Light/Beyond Oasis on the Sega Mega Drive. The music was composed by Yuzo Koshiro, who is also famous for composing music for the Streets of Rage series.</desc>
+		<rating>0.85</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Ancient</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Story of Thor 2, The (Europe).jpg</image>
+		<video>./snaps/Story of Thor 2, The (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Street Fighter Zero 2 (Japan).chd</path>
+		<name>Street Fighter Zero 2</name>
+		<sortname />
+		<desc>Another Street Fighter sequel (this time for Street Fighter Alpha) adds even more to the classic fighting series. New characters in this version include Gen (a wise kung-fu master), Rolento (who you may remember from another Capcom classic, Final Fight) and Sakura, a young school girl who follows her hero Ryu so close, she has the same type of moves. Dhalsim and Zangief also return to the fight with some news moves. The other major difference is the loss of chain-combos and the gain of a custom combo system. Once you reach the required level (which is 1 at the least) you can execute a custom combo by combining any of the buttons (which there are 6 in total) or any of the special attacks (fireballs, etc.)</desc>
+		<rating>0.75</rating>
+		<releasedate>19960914T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Street Fighter Zero 2 (Japan).jpg</image>
+		<video>./snaps/Street Fighter Zero 2 (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Theme Park (Europe) (En,Fr,De,Es,Sv).chd</path>
+		<name>Theme Park</name>
+		<sortname />
+		<desc>Dominating the exciting world of Theme Park ownership is your goal in this strategy game from Bullfrog. The first task is to set up your rides within the available land, structuring convenient paths and queues and ideally leaving some space for bigger rides once they become available, and include some lakes and trees to increase the park's allure. Rides range from Teacups and Haunted Houses to the biggest most elaborate roller-coaster you can design, and water rides that loop around other rides. Shops must also be included, so that the visitors can buy food, drinks and souvenirs - the cunning player will combine salt, sugar and caffeine settings to maximize consumer interest.</desc>
+		<rating>0.75</rating>
+		<releasedate>19951030T000000</releasedate>
+		<developer>Krisalis Software</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Theme Park (Europe) (En,Fr,De,Es,Sv).jpg</image>
+		<video>./snaps/Theme Park (Europe) (En,Fr,De,Es,Sv).mp4</video>
+	</game>
+	<game>
+		<path>./Three Dirty Dwarves (Europe).chd</path>
+		<name>Three Dirty Dwarves</name>
+		<sortname />
+		<desc>Three Dirty Dwarves is a side-scrolling action game with an interesting plot: genetically altered "super kids" playing Dungeons &amp; Dragons open a portal that allows their "alter-egos" (the three dirty dwarves) to enter our world and try to rescue them from their evil Army Base captivity. Once the dwarves arrive, they ransack the local "armory" (a sporting goods store) for weapons and set off to rescue the kids. The portal also lets in a number of fantasy bad guys too and they must be squashed on the way. The main game mechanics allows the player to switch between each dwarf and uses its special attack (e. g. baseball bat and baseballs, bowling pins and bowling balls, and a shotgun).</desc>
+		<rating>0.7</rating>
+		<releasedate>19960927T000000</releasedate>
+		<developer>Appaloosa</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1-3</players>
+		<image>./boxart/Three Dirty Dwarves (Europe).jpg</image>
+		<video>./snaps/Three Dirty Dwarves (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Thunder Force V (Japan).chd</path>
+		<name>Thunder Force V</name>
+		<sortname />
+		<desc>In a grim future where a once-benevolent alien technology has turned against humanity, only a ragtag group of ace pilots can save the Earth from total annihilation. Code name: Thunder Force! Witness the first 32-bit installment of the massively popular shooter series! Five spectacular weapons with multiple power-up levels let you blast through waves of metallic predators, and look good doing it. A constant barrage of innovative enemies keeps you intrigued while you struggle to stay alive. A speaker-imploding soundtrack has your foot tapping as your fingers are mashing. Unbelievable rendered cutscenes draw, no-DRAG you kicking and screaming into the action. Put simply, it's the ultimate hardcore gaming blast-o-rama!</desc>
+		<rating>0.8</rating>
+		<releasedate>19970711T000000</releasedate>
+		<developer>Technosoft</developer>
+		<publisher>Technosoft</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Thunder Force V (Japan).jpg</image>
+		<video>./snaps/Thunder Force V (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Tomb Raider (Europe).chd</path>
+		<name>Tomb Raider</name>
+		<sortname />
+		<desc>Lara Croft is a Tomb Raider, an archaeologist who explores ancient sites in search of valuable artifacts. In the game, Lara Croft is hired to retrieve an artifact from a tomb in Peru, which turns out to be one of three parts of the Atlantean Scion. Soon betrayed by her employer, Lara Croft travels to Greece, Rome and Egypt to recover the other parts before this powerful device falls into the wrong hands. Tomb Raider is a 3D action/adventure game in which players control Lara Croft from a third person perspective. The camera follows Lara as she climbs, jumps, and swims through detailed environs overcoming environmental obstacles and deadly fauna.</desc>
+		<rating>0.8</rating>
+		<releasedate>19961031T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Tomb Raider (Europe).jpg</image>
+		<video>./snaps/Tomb Raider (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Ultimate Mortal Kombat 3 (Europe).chd</path>
+		<name>Mortal Kombat 3, Ultimate</name>
+		<sortname />
+		<desc>Mortal Kombat 3, Ultimate combines the best of all the Mortal Kombats into a single cartridge. 23 playable characters are immediately available, such as Reptile, Cyrax, Scorpion, Sub-Zero, Jax, Katana, Sonya, and more. There are two bosses that are unlockable, as well as additional characters. There is a variety of new levels, some of which are interactive. Characters can uppercut someone, causing them to hit the ground hard and crash through to the bottom floor, or they can knocked someone off a bridge, landing in a pit of spikes. Players can go against the computer one-on-one, two-on-two, or take part in the 8-fighter tournament.</desc>
+		<rating>0.7</rating>
+		<releasedate>19960601T000000</releasedate>
+		<developer>Eurocom</developer>
+		<publisher>GT Interactive</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Ultimate Mortal Kombat 3 (Europe).jpg</image>
+		<video>./snaps/Ultimate Mortal Kombat 3 (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Victory Boxing (Europe).chd</path>
+		<name>Victory Boxing</name>
+		<sortname />
+		<desc>Center Ring Boxing is an unlicensed 3-D polygon boxing game where the player can choose from 30 different male or female boxers and compete in six different weight divisions. They may also create their own boxer and use them to rise through the ranks to become champion choosing from one of five distinct styles of boxing. There is also a trainer by the name of Snake that will help train the player as they progress thorough the game as well as become a selectable character along with a hidden character in two-player versus mode once the player becomes heavyweight champion.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>JVC</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Victory Boxing (Europe).jpg</image>
+		<video>./snaps/Victory Boxing (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Virtua Fighter (Japan).chd</path>
+		<name>Virtua Fighter</name>
+		<sortname />
+		<desc>Virtua Fighter was the first of it's kind: A one-on-one fighting game featuring fully 3D environments and characters. The fighters and arenas are rendered in flat-shaded polygons. Unlike many fighting games, Virtua Fighter focuses on deep gameplay based on actual fighting styles, rather than outrageous special moves and story lines. There are 8 fighters to choose from in Virtua Fighter, and an equal number of fighting backdrops in which to compete. Each fighter has a distinctive fighting style, and their own set of signature moves.</desc>
+		<rating>0.75</rating>
+		<releasedate>19941122T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Virtua Fighter (Japan).jpg</image>
+		<video>./snaps/Virtua Fighter (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Virtua Fighter 2 (Europe) (Made in EU).chd</path>
+		<name>Virtua Fighter 2</name>
+		<sortname />
+		<desc>One year after after the first tournament Akira, Wolf, Pai, Jeffry, Kage, Jacky, Sarah and defending champion Lau are invited to the World Fighting Tournament, and are joined by the master of drunken Kung-Fu Shun-di, who wants to prove he's more than an old geezer and Lion Rafale, who's fighting for his freedom. Each fighter has his own style, from the lightning fast attacks of Pai to the powerful slams of Jeffry. Home port of Sega's popular Model 2A arcade vs. fighter released in 1995.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960126T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Virtua Fighter 2 (Europe) (Made in EU).jpg</image>
+		<video>./snaps/Virtua Fighter 2 (Europe) (Made in EU).mp4</video>
+	</game>
+	<game>
+		<path>./Winter Heat (Europe).chd</path>
+		<name>Winter Heat</name>
+		<sortname />
+		<desc>Winter Heat is the home conversion of the DecAthlete (also known as Athlete Kings) sequel, replacing decathlon by Winter sports. Competition (in Arcade, Saturn or Practice modes) includes 11 events featuring eight athletes of different nationalities - Li Huang, Karl Vain, Joe Kudou, Ellen Reggiani, Aleksei Rigel and Rick Blade are joined by B.B. (replacing Jef Jansens, who appears as a secret athlete) and Johann Stensen (instead of Femi Kadiena). The game is a typical Winter-sports game, in the line of those released by Epyx but with a more arcade feel. The events include: 1. Speed Skiing: A simple dashing event where the goal is to descend the hill as fast as possible (in speeds over 200 km/h).</desc>
+		<rating>0.65</rating>
+		<releasedate>19980213T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Winter Heat (Europe).jpg</image>
+		<video>./snaps/Winter Heat (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Albert Odyssey - Legend of Eldean (USA) (RE).chd</path>
+		<name>Albert Odyssey: Legend of Eldean</name>
+		<sortname />
+		<desc>The game follows the adventure of Pike, a young boy whose family was murdered by a horde of monsters while still an infant, and is raised by a family of winged humanoids known as Harpies. Ten years later, his adoptive sister is turned to stone by an evil mage. Together with Cirrus, a talking sword housing the spirit of one of the legendary Eldean siblings, Pike travels the world to search for a cure, and discovers a plot by a group of evil magicians to turn the world's races against each other and revive the ancient god Vlag. Together with the help of friends he meets along his journey, Pike must prevent the evil's resurrection.</desc>
+		<rating>0.85</rating>
+		<releasedate>19970731T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Albert Odyssey - Legend of Eldean (USA) (RE).jpg</image>
+		<video>./snaps/Albert Odyssey - Legend of Eldean (USA) (RE).mp4</video>
+	</game>
+	<game>
+		<path>./Castlevania - Symphony of the Night (Japan) (T-En) (v1.021).chd</path>
+		<name>Castlevania: Symphony of the Night</name>
+		<sortname />
+		<desc>Akumajo Dracula X: Gekka no Yasokyoku is an entry in the Castlevania series released for the Sega Saturn exclusively in Japan in 1998. Western gamers know this game as Castlevania: Symphony of the Night - the name the PlayStation 1 version of the game and all successive re-releases. It is a direct sequel to Akumajo Dracula X: Chi no Rondo for the TurboGrafx-CD and the second and final Castlevania game to be released on a Sega system, following Castlevania: Bloodlines.</desc>
+		<rating>0.85</rating>
+		<releasedate>19980625T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Castlevania - Symphony of the Night (Japan) (T-En) (v1.021).jpg</image>
+		<video>./snaps/Castlevania - Symphony of the Night (Japan) (T-En) (v1.021).mp4</video>
+	</game>
+</gameList>

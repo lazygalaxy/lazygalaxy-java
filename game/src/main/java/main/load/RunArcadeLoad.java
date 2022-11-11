@@ -10,7 +10,7 @@ public class RunArcadeLoad {
         try {
             A1_RunArcadeLazyGalaxyGameListLoad.main(newArgs);
             A2_RunArcadeRickDangerousUltimateGameListLoad.main(newArgs);
-            A3_RunArcadeWolfanoz2kGameListLoad.main(newArgs);
+            //A3_RunArcadeWolfanoz2kGameListLoad.main(newArgs);
             A4_RunArcadeCoinOpsRomLoad.main(newArgs);
             B1_RunArcadeMameGameInfoEnrichLoad.main(newArgs);
             B2_RunArcadeCategoryEnrichLoad.main(newArgs);

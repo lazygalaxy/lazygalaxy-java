@@ -189,7 +189,7 @@
 	</game>
 	<game>
 		<path>./SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).zip</path>
-		<name>SNK vs. Capcom: Card Fighters' Clash - SNK Cardfighter's Version</name>
+		<name>SNK vs. Capcom: Card Fighter's Clash: SNK Cardfighter's Version</name>
 		<sortname />
 		<desc>Compete in the SC Card Fighters' Clash tournament with your SNK deck in this NGPC card game. Collect the 300 cards from both SNK and Capcom franchises and duel and trade with your friends using the extensive link mode. With mechanics similar to CCGs such as Yu-Gi-Oh and popular characters from both SNK and Capcom, Card Fighters clash offers both collection and strategy gameplay. This game also allows linking with SNK vs. Capcom: Match of the Millennium to transfer collectible points.</desc>
 		<rating>0.9</rating>
@@ -203,7 +203,7 @@
 	</game>
 	<game>
 		<path>./SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).zip</path>
-		<name>SNK vs. Capcom: Card Fighters' Clash - Capcom Cardfighter's Version</name>
+		<name>SNK vs. Capcom: Card Fighter's Clash: Capcom Cardfighter's Version</name>
 		<sortname />
 		<desc>Compete in the SC Card Fighters' Clash tournament with your Capcom deck in this NGPC card game. Collect the 300 cards from both SNK and Capcom franchises and duel and trade with your friends using the extensive link mode. With mechanics similar to CCGs such as Yu-Gi-Oh and popular characters from both SNK and Capcom, Card Fighters clash offers both collection and strategy gameplay. This game also allows linking with SNK vs. Capcom: Match of the Millennium to transfer collectible points.</desc>
 		<rating>0.9</rating>
@@ -244,20 +244,6 @@
 		<video>./snaps/Sonic The Hedgehog - Pocket Adventure (World).mp4</video>
 	</game>
 	<game>
-		<path>./Last Blade, The - Beyond the Destiny (USA, Europe).zip</path>
-		<name>The Last Blade: Beyond the Destiny</name>
-		<sortname />
-		<desc>1863. History's hidden secret is revealed. During the age known as "Bakumatsu", 135 years ago, chaos rules! It's all yours: A new type of weapon fighting game in which Power and Speed weapons, in addition to various Repel moves can be used to experience a new sensation in video game thrills!</desc>
-		<rating>0.75</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Saurus Co., Ltd.</developer>
-		<publisher>SNK</publisher>
-		<genre>Fighting</genre>
-		<players>1</players>
-		<image>./boxart/Last Blade, The - Beyond the Destiny (USA, Europe).jpg</image>
-		<video>./snaps/Last Blade, The - Beyond the Destiny (USA, Europe).mp4</video>
-	</game>
-	<game>
 		<path>./Neo Turf Masters (World) (En,Ja).zip</path>
 		<name>Neo Turf Masters</name>
 		<sortname />
@@ -284,5 +270,116 @@
 		<players>1</players>
 		<image>./boxart/Biomotor Unitron (USA, Europe).jpg</image>
 		<video>./snaps/Biomotor Unitron (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Baseball Stars Color - Pocket Sports Series (World) (En,Ja).zip</path>
+		<name>Baseball Stars Color</name>
+		<sortname />
+		<desc>Baseball Stars Color is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay's style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics</desc>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Baseball Stars Color - Pocket Sports Series (World) (En,Ja).jpg</image>
+		<video>./snaps/Baseball Stars Color - Pocket Sports Series (World) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Crush Roller (World) (En,Ja).zip</path>
+		<name>Crush Roller</name>
+		<sortname />
+		<desc>Crush Roller is a game for the Neo Geo Pocket Color based on the 1981 arcade game Make Trax, which was released as Crush Roller in Europe and Asia. The object of the game is to color the entire maze-like playing field with a paint brush. While you paint, two enemies walk around in the maze, when they hit you, you lose a life. A level has rollers which you can push forward with your paint brush. If you capture an enemy in the path of the roller he dies and is temporarily taken out of the game. This scores you extra points. Each subsequent enemy rolled over is worth more points. Every once in a while another creature will pop up, it will run around leaving behind track marks in your paint.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Crush Roller (World) (En,Ja).jpg</image>
+		<video>./snaps/Crush Roller (World) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Dynamite Slugger (Japan, Europe) (En,Ja).zip</path>
+		<name>Dynamite Slugger</name>
+		<sortname />
+		<desc>Dynamite Slugger is a video game. It was released in 2000 for the Neo Geo Pocket Color handheld game console. The game is similar to other Baseball videogames on the Neo Geo Pocket Color such as Baseball Stars and Baseball Stars Color. Due to Dynamite Slugger being the latest baseball videogame to be released for the Neo Geo Pocket Color it features better graphics than other sports titles.</desc>
+		<rating>0.45</rating>
+		<releasedate>20000525T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Dynamite Slugger (Japan, Europe) (En,Ja).jpg</image>
+		<video>./snaps/Dynamite Slugger (Japan, Europe) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Pocket Reversi (Europe).zip</path>
+		<name>Pocket Reversi</name>
+		<sortname />
+		<desc>Pocket Reversi is an adaptation by Success of the classic strategy game. In single-player, you must make your way through Tournament Mode, competing against eight progressively difficult opponents. You can also take the 'Ability Level Test' which grades you based on your play. For beginners, 'Reversi Lesson' provides ten short tutorial sessions to teach you the basics of the game. There's also a 'Free Play' mode where you can choose to see all available moves and to even take back your last move. Finally, there's a two-player mode accessible via the link cable.</desc>
+		<rating>0.5</rating>
+		<releasedate>20000127T000000</releasedate>
+		<developer>Success</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Pocket Reversi (Europe).jpg</image>
+		<video>./snaps/Pocket Reversi (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Puzzle Link (USA, Europe).zip</path>
+		<name>Puzzle Link</name>
+		<sortname />
+		<desc>Puzzle Link is a game where blocks of matching color have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen. You can dissolve blocks by shooting at them. The shots form a line where they impact. If that line connects otherwise unconnected blocks of the same color they will dissolve. There are three different modes: In "Normal" you have to link two special blocks that appear after some time. If you manage to finish the level within the time limit you will unlock one of 50 collectible cards. In "Clear Mode" you have to clear a given constellation of blocks. "Battle Mode" is a two player link-cable mode.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Puzzle Link (USA, Europe).jpg</image>
+		<video>./snaps/Puzzle Link (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Puzzle Link 2 (USA, Europe).zip</path>
+		<name>Puzzle Link 2</name>
+		<sortname />
+		<desc>The gameplay of Puzzle Link 2 is generally identical to the first game: Puzzle Link is a game where blocks of matching color have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen. You can dissolve blocks by shooting at them. The shots form a line where they impact. If that line connects otherwise unconnected blocks of the same color they will dissolve. There are new modes in Puzzle Link 2. Like the original, there are the standard challenge and puzzle rounds. But new to the series is the marathon-style game where you continue eliminating pieces as the game gradually increases speed.</desc>
+		<rating>0.75</rating>
+		<releasedate>20000401T000000</releasedate>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Puzzle Link 2 (USA, Europe).jpg</image>
+		<video>./snaps/Puzzle Link 2 (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Rockman - Battle &amp; Fighters (Japan) [T-En by marc_max v0.9] [i].zip</path>
+		<name>Rockman: Battle &amp; Fighters</name>
+		<sortname />
+		<desc>Rockman Battle &amp; Fighters is a fighting game similar to the two arcade titles Mega Man: The Power Battle, and Mega Man 2: The Power Fighters. Playing as one of four characters (Mega Man, Proto Man, Bass, and Duo), the player chooses between three sets of boss battles with various Robot Masters from the series. The battles are fought linearly in any order, and after each boss is defeated, a special weapon is added to the player's arsenal. Each boss is weak to one specific weapon, so the player is encouraged to strategize the order in which the bosses are faced. Two players can use a link cable to transfer database information between systems, but no co-op or versus play is supported.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000706T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<image>./boxart/Rockman - Battle &amp; Fighters (Japan) [T-En by marc_max v0.9] [i].jpg</image>
+		<video>./snaps/Rockman - Battle &amp; Fighters (Japan) [T-En by marc_max v0.9] [i].mp4</video>
+	</game>
+	<game>
+		<path>./Last Blade, The - Beyond the Destiny (USA, Europe).zip</path>
+		<name>Last Blade: Beyond the Destiny, The</name>
+		<sortname />
+		<desc>1863. History's hidden secret is revealed. During the age known as "Bakumatsu", 135 years ago, chaos rules! It's all yours: A new type of weapon fighting game in which Power and Speed weapons, in addition to various Repel moves can be used to experience a new sensation in video game thrills!</desc>
+		<rating>0.75</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Saurus Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<image>./boxart/Last Blade, The - Beyond the Destiny (USA, Europe).jpg</image>
+		<video>./snaps/Last Blade, The - Beyond the Destiny (USA, Europe).mp4</video>
 	</game>
 </gameList>

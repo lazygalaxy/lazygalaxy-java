@@ -217,7 +217,7 @@
 	</game>
 	<game>
 		<path>./ninjamas.zip</path>
-		<name>Ninja Master's: Haō Ninpō Chō</name>
+		<name>Ninja Masutāzu: Haō Ninpō Chō (Ninja Master's: Scrolls of the Supreme Ninja Arts)</name>
 		<sortname />
 		<desc>Ninja Master's, is set in the fictional land of "Zipangu". Players can select from 10 different ninjas and warriors with which to test their might. The main feature of this game is the ability for each character to use a wide variety of weapons. Also, as each character's Super Attacks change depending on whether they are armed or unarmed, the player needs to respond differently according to the situation. Damage increases with respect to the Super Power Gauge. There are also many must-see deadly techniques like "Super Death Blow", "Ultimate Super Mode", "Dark Super Power" and "Dark Combo!</desc>
 		<rating>0.7</rating>
@@ -245,7 +245,7 @@
 	</game>
 	<game>
 		<path>./matrim.zip</path>
-		<name>Shin Gōketsuji Ichizoku: Tōkon Matrimelee</name>
+		<name>Shin Gōketsuji Ichizoku: Tōkon Matrimelee (Power Instinct: Matrimelee)</name>
 		<sortname />
 		<desc>The king of certain country wants to find a worthy successor for the throne and the ideal husband for his little daughter (or a beautiful and strong woman for his older son). So he holds a fighting tournament where the prize is the hand of the princess and the throne succession.</desc>
 		<rating>0.85</rating>
@@ -497,7 +497,7 @@
 	</game>
 	<game>
 		<path>./kof2000.zip</path>
-		<name>The King of Fighters 2000</name>
+		<name>King of Fighters 2000, The</name>
 		<sortname />
 		<desc>The final King of Fighters game released by SNK in its original state, The King of Fighters 2000 expands on the story and gameplay presented in The King of Fighters '99. This year's tournament is sponsored by the Ikari Warriors in an attempt to discover more about the NESTS organization, and to derail the plans of potential NESTS agents K' and Maxima. Not everything is as straight-forward as it usually is, however, and even the Ikari Warriors themselves are at risk of being betrayed from within by the end of the tournament.</desc>
 		<rating>0.8</rating>
@@ -511,7 +511,7 @@
 	</game>
 	<game>
 		<path>./kof2001.zip</path>
-		<name>The King of Fighters 2001</name>
+		<name>King of Fighters 2001, The</name>
 		<sortname />
 		<desc>In this eighth installment of the King of Fighters series, ten different teams once again battle it out in several countries to decide which team will be this year's King of Fighters. However, the NESTS organization is once again standing in the participant's way; they have deployed their own team of four fighters, lead by two individuals of high-rank within NESTS: a man claiming to be the original Zero and Igniz, the CEO of NESTS. The character roster has been updated yet again for this release in the series.</desc>
 		<rating>0.65</rating>
@@ -525,7 +525,7 @@
 	</game>
 	<game>
 		<path>./kof2002.zip</path>
-		<name>The King of Fighters 2002</name>
+		<name>King of Fighters 2002, The</name>
 		<sortname />
 		<desc>The second plotless "dream match" in The King of Fighters series, this game sports 39 normal characters and 5 hidden characters, some of whom haven't appeared since KOF98. The King of Fighters 2002 also has five characters exclusive to the X-Box, the PS2 and/or Dreamcast systems: Shingo Yabuki, King, Geese Howard, "Riot of the Blood" Iori and Leopold Goenitz.</desc>
 		<rating>0.8</rating>
@@ -539,7 +539,7 @@
 	</game>
 	<game>
 		<path>./kof96.zip</path>
-		<name>The King of Fighters '96</name>
+		<name>King of Fighters '96, The</name>
 		<sortname />
 		<desc>SNK's flagship series returns for another year. Many of the changes in this year's KOF release come in the form of improved graphics, sound effects, music and totally redone character sprites. The gameplay of the system has been altered with the addition of "Rush" multi-hit combos and new moves for practically every character. The storyline of the series receives heavy focus in this release with the Orochi Saga swinging into high-gear. Other features carried over from the previous year include the ability to choose between the default "Team Fighting" mode or the traditional "Single Fighter" style of gameplay, plus the "Versus" and "Survival" gameplay modes.</desc>
 		<rating>0.8</rating>
@@ -553,7 +553,7 @@
 	</game>
 	<game>
 		<path>./kof97.zip</path>
-		<name>The King of Fighters '97</name>
+		<name>King of Fighters '97, The</name>
 		<sortname />
 		<desc>Another year, another KOF. Additions this year come in the form of slightly improved graphics and sounds, new moves and a new game mode. Gameplay is much more plot-driven, as you have middle-bosses that can change depending on what team you select. In addition, there are several special endings which are only shown when certain "Edit Team" combinations are selected. New characters include the New Face Team, the Fatal Fury Outlaw Team (featuring the KOF debut of "Blue" Mary Ryan and Ryuji Yamazaki, and the return of Billy Kane), and Kyo's pupil Shingo Yabuki. In total, The King of Fighters '97 sports 29 separate characters.</desc>
 		<rating>0.85</rating>
@@ -692,7 +692,7 @@
 	</game>
 	<game>
 		<path>./kof94.zip</path>
-		<name>The King of Fighters '94</name>
+		<name>King of Fighters '94, The</name>
 		<sortname />
 		<desc>The King of Fighters '94 is notable in that it is one of the first known fighting games that pits a team of fighters against each other in single combat. Each team consists of three fighters for each player, the winner being the player who is able to eliminate the other team first. Each active character can charge up "Art of Fighting" style in order to gain access to "Desperation Moves", or "DMs" (moves which operate very much like Street Fighter's Super Combos). Playing against the computer, the player must defeat all 8 teams in the game in order to reach the final boss, Rugal Bernstein.</desc>
 		<rating>0.75</rating>
@@ -706,7 +706,7 @@
 	</game>
 	<game>
 		<path>./kof95.zip</path>
-		<name>The King of Fighters '95</name>
+		<name>King of Fighters '95, The</name>
 		<sortname />
 		<desc>The first sequel in the King of Fighters series picks up a year after the end of the first tournament. Once again, fighters from all over the world receive a mysterious invitation to a team-based fighting tournament. And just like last year, it appears that the notorious criminal Rugal Bernstein is behind it, apparently returning from the dead to raise havok once again.</desc>
 		<rating>0.75</rating>
@@ -748,7 +748,7 @@
 	</game>
 	<game>
 		<path>./kof2003.zip</path>
-		<name>The King of Fighters 2003</name>
+		<name>King of Fighters 2003, The</name>
 		<sortname />
 		<desc>Like The King of Fighters 2002, this game reverts back to the old 3-on-3 format used from KOF '94 to KOF '98. A new feature to this game that old-school KOF fans might have trouble getting used to is the new interchangeable team system. You still pick three characters and decide your character order before a match, but now you have the option to change to another character during a match. You can change at any time during a match, but you cannot when two of your teammates have been taken out, and only one character is left in reserve.</desc>
 		<rating>0.7</rating>
@@ -762,7 +762,7 @@
 	</game>
 	<game>
 		<path>./lastbld2.zip</path>
-		<name>The Last Blade 2</name>
+		<name>Last Blade 2, The</name>
 		<sortname />
 		<desc>The Last Blade 2: Heart of the Samurai is a 2D fighting game which features anime-style characters that fight each other with swords, clubs, and even fishing poles. These characters pull off their special moves with that 'quarter-circle-to-half-circle' and 'double-half-circle' controller motions, reminiscent of Street Fighter.</desc>
 		<rating>0.85</rating>
@@ -776,7 +776,7 @@
 	</game>
 	<game>
 		<path>./superspy.zip</path>
-		<name>The Super Spy</name>
+		<name>Super Spy, The</name>
 		<sortname />
 		<desc>Roy Heart has been asked by the CIA to wipe out terrorists who have taken over a large skyscraper of a major auto-maker in Japan. Using your fists, knife, or gun, you must use the elevators to travel between floors and wipe out terrorists that try to bring you down.</desc>
 		<rating>0.45</rating>
@@ -914,7 +914,7 @@
 	</game>
 	<game>
 		<path>./lastblad.zip</path>
-		<name>The Last Blade</name>
+		<name>Last Blade, The</name>
 		<sortname />
 		<desc>Choose one of several characters to play with, each with their own unique moves and special attacks. Each stage in the game has two battles, where the object of each is to drain your opponent's energy in order to complete the battle, and you will complete the stage if you do this twice. If there is a draw, then a third battle is then played. There is a time limit, and when this expires, the player with the most energy wins the battle.</desc>
 		<rating>0.7</rating>
@@ -1219,7 +1219,7 @@
 	</game>
 	<game>
 		<path>./mslugx.zip</path>
-		<name>Metal Slug X </name>
+		<name>Metal Slug X</name>
 		<sortname />
 		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower. A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
 		<rating>0.85</rating>
@@ -1247,7 +1247,7 @@
 	</game>
 	<game>
 		<path>./rbff2.zip</path>
-		<name>Real Bout Fatal Fury 2: RB2 - The Newcomers</name>
+		<name>Real Bout Fatal Fury 2: RB2: The Newcomers</name>
 		<sortname />
 		<desc>SNK's Fatal Fury fighting series reaches its 7th episode bringing a lot of "innovations" and some significant changes, starting from characters: all the 20 fighters from previous game return with new artworks and battle stages completely redrawn, as well as some remodeled (or new) moves.</desc>
 		<rating>0.95</rating>
@@ -1345,7 +1345,7 @@
 	</game>
 	<game>
 		<path>./kof98.zip</path>
-		<name>The King of Fighters '98: The Slugfest</name>
+		<name>King of Fighters '98: The Slugfest, The</name>
 		<sortname />
 		<desc>The King of Fighters '98 takes a break from the Orochi plot line and instead is presented as a "Dream Match" game where the KOF roster duke it out for the top spot (similar to Ultimate Mortal Kombat 3, but without the storyline component). Most of the characters from the past four years return, thus providing the player with a very large roster containing 38 characters. Many of the characters have been altered in an attempt to make the game balanced regardless of the player's choice of fighter. Rugal Bernstein is provided as a non-secret character for the first time in KOF '98, and several regular characters have hidden "alternate" versions that may also be used in-game.</desc>
 		<rating>0.9</rating>
@@ -1359,7 +1359,7 @@
 	</game>
 	<game>
 		<path>./kof99.zip</path>
-		<name>The King of Fighters '99: Millennium Battle</name>
+		<name>King of Fighters '99: Millennium Battle, The</name>
 		<sortname />
 		<desc>It's time once again for the famous KOF Tournament! New faces and old alike join together to participate in the latest KOF tournament, but something seems wrong. Why was this year's tournament announced without fanfare? What could be up? That's for you to find out! Featuring classic KOF gameplay with a new twist: The Striker Match!</desc>
 		<rating>0.9</rating>

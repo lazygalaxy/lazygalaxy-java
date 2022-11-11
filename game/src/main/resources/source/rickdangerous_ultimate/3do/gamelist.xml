@@ -10,7 +10,7 @@
 		<path>./Immercenary - Combat in a Digital World (USA).chd</path>
 		<name>Immercenary: Combat in a Digital World</name>
 		<sortname />
-		<desc>In the future, mankind has been enslaved in a virtual reality simulation known as Perfect. This simulation is controlled by an entity known as Perfect1 and it has to be destroyed in order to shut down the system. You are Immercenary Number Five, and it's your job to do it.</desc>
+		<desc>Immercenary is set in 2004. During the 1990s, Dr. Marcus Rand was experimenting in astral projection through time and space, and encountered a woman in the future who was able to sense his astral form. The woman (later identified as simply "Raven") told him that in her time, all of humanity is jacked into a virtual reality network called Perfect, and cannot jack out, leaving them to wither and die as their physical needs are left unattended.</desc>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Five Miles Out</developer>
 		<publisher>EA Games</publisher>
@@ -77,7 +77,7 @@
 		<path>./Incredible Machine, The (USA).chd</path>
 		<name>Incredible Machine, The</name>
 		<sortname />
-		<desc>The Incredible Machine is a puzzle game where the player has to assemble a Rube Goldberg-type contraption to solve a simple puzzle.</desc>
+		<desc>The Incredible Machine is a puzzle game where the player has to assemble a Rube Goldberg-type contraption to solve a simple puzzle. Included are most (or all) of the 160 puzzles from the computer versions, along with many new ones for a total of 208 levels.</desc>
 		<rating>0.8</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Dynamix</developer>
@@ -215,7 +215,7 @@
 	</game>
 	<game>
 		<path>./Out of this World (USA) (3DO Maniac Pack) (RE).chd</path>
-		<name>Out of this World</name>
+		<name>Out of This World</name>
 		<sortname />
 		<desc>Another World (Out of This World in the US) combines shooting, platforming, and puzzle-solving elements. The game is divided into stages; some of them are straightforward and can only be accessed one time, while others are connected to each other, constituting a larger environment. Exploration and problem-solving are emphasized. Many levels include challenges not seen in the previous ones. Tasks may involve environmental puzzles, timed sequences, precise jumping, and combat.</desc>
 		<rating>0.8</rating>
@@ -256,20 +256,6 @@
 		<video>./snaps/Gex (USA, Europe).mp4</video>
 	</game>
 	<game>
-		<path>./BattleSport (USA).chd</path>
-		<name>Battlesport</name>
-		<sortname />
-		<desc>Battlesport simulates the sport of the future. Choose your vehicle and enter the arena to face your computer opponents to see who scores the most goals before the clock runs out.</desc>
-		<rating>0.95</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Cyclone Studios</developer>
-		<publisher>Panasonic</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-		<image>./boxart/BattleSport (USA).jpg</image>
-		<video>./snaps/BattleSport (USA).mp4</video>
-	</game>
-	<game>
 		<path>./D (USA, Europe) (Disc 1).chd</path>
 		<name>D (Disc 1)</name>
 		<sortname />
@@ -298,69 +284,134 @@
 	<game>
 		<path>./Shockwave 2 - Beyond the Gate (USA) (Disc 01).chd</path>
 		<name>Shockwave 2: Beyond the Gate (Disc 1)</name>
+		<sortname />
 		<desc>It has been twenty years since the invading aliens have been driven back through the jumpgate. On a planet close to the dormant gate, an alien artifact is found. When unknown aliens steal the artifact, privateer Captain Flint of the spaceship Cortez and his crew follow their ship through the jumpgate, which leaves them stranded in an unknown star system. To find their way back, they have to find the artifact and the aliens.</desc>
-		<image>./boxart/Shockwave 2 - Beyond the Gate (USA) (Disc 01).jpg</image>
-		<video>./snaps/Shockwave 2 - Beyond the Gate (USA) (Disc 01).mp4</video>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Electronic Arts</developer>
 		<publisher>Electronic Arts</publisher>
 		<genre>Action</genre>
-		<playcount>2</playcount>
-		<lastplayed>20220222T134710</lastplayed>
+		<image>./boxart/Shockwave 2 - Beyond the Gate (USA) (Disc 01).jpg</image>
+		<video>./snaps/Shockwave 2 - Beyond the Gate (USA) (Disc 01).mp4</video>
 	</game>
 	<game>
 		<path>./Shockwave 2 - Beyond the Gate (USA) (Disc 02).chd</path>
 		<name>Shockwave 2: Beyond the Gate (Disc 2)</name>
+		<sortname />
 		<desc>It has been twenty years since the invading aliens have been driven back through the jumpgate. On a planet close to the dormant gate, an alien artifact is found. When unknown aliens steal the artifact, privateer Captain Flint of the spaceship Cortez and his crew follow their ship through the jumpgate, which leaves them stranded in an unknown star system. To find their way back, they have to find the artifact and the aliens.</desc>
-		<image>./boxart/Shockwave 2 - Beyond the Gate (USA) (Disc 02).jpg</image>
-		<video>./snaps/Shockwave 2 - Beyond the Gate (USA) (Disc 02).mp4</video>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Electronic Arts</developer>
 		<publisher>Electronic Arts</publisher>
 		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220222T134528</lastplayed>
+		<image>./boxart/Shockwave 2 - Beyond the Gate (USA) (Disc 02).jpg</image>
+		<video>./snaps/Shockwave 2 - Beyond the Gate (USA) (Disc 02).mp4</video>
 	</game>
 	<game>
 		<path>./SnowJob (Europe) (Disc 1).chd</path>
 		<name>Snow Job Starring Tracy Scoggins (Disc 1)</name>
+		<sortname />
 		<desc>Murder. Drugs. Sex. Gangs. Guns. Welcome to the Big Apple. Your name is Jock LaMonte, a retired New York Cop. You are living peacefully in New Mexico when you find out your ex girlfriend, Lara Calabreze, assistant DA of the city, is on the hit list on a notorious mob boss who goes only by the name Snow Man. It is up to you to use your wits, guts, and charm to save Lara and put away the evil of New York City.</desc>
-		<image>./boxart/SnowJob (Europe) (Disc 1).jpg</image>
-		<video>./snaps/SnowJob (Europe) (Disc 1).mp4</video>
 		<rating>0.4</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>3DO</developer>
 		<publisher>3DO</publisher>
 		<genre>Adventure</genre>
-		<playcount>2</playcount>
-		<lastplayed>20220222T134618</lastplayed>
+		<image>./boxart/SnowJob (Europe) (Disc 1).jpg</image>
+		<video>./snaps/SnowJob (Europe) (Disc 1).mp4</video>
 	</game>
 	<game>
 		<path>./SnowJob (Europe) (Disc 2).chd</path>
 		<name>Snow Job Starring Tracy Scoggins (Disc 2)</name>
+		<sortname />
 		<desc>Murder. Drugs. Sex. Gangs. Guns. Welcome to the Big Apple. Your name is Jock LaMonte, a retired New York Cop. You are living peacefully in New Mexico when you find out your ex girlfriend, Lara Calabreze, assistant DA of the city, is on the hit list on a notorious mob boss who goes only by the name Snow Man. It is up to you to use your wits, guts, and charm to save Lara and put away the evil of New York City.</desc>
-		<image>./boxart/SnowJob (Europe) (Disc 2).jpg</image>
-		<video>./snaps/SnowJob (Europe) (Disc 2).mp4</video>
 		<rating>0.4</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>3DO</developer>
 		<publisher>3DO</publisher>
 		<genre>Adventure</genre>
-		<playcount>2</playcount>
-		<lastplayed>20220222T134645</lastplayed>
+		<image>./boxart/SnowJob (Europe) (Disc 2).jpg</image>
+		<video>./snaps/SnowJob (Europe) (Disc 2).mp4</video>
 	</game>
 	<game>
 		<path>./Cannon Fodder (Europe).chd</path>
 		<name>Cannon Fodder</name>
+		<sortname />
 		<desc>Guide a team of up to four soldiers through 72 levels of combat in this top-down action/strategy hybrid, best thought of as Lemmings crossed with Commando crossed with Dune 2. The characters are controlled indirectly using the mouse, as you activate each soldier or group of them by highlighting them, click the left button to move them to a particular spot, and the right button for them to fire guns at an enemy. You can also pick up grenades, which can be used to destroy groups of enemies or buildings (by pressing both buttons at once).</desc>
-		<image>./boxart/Cannon Fodder (Europe).jpg</image>
-		<video>./snaps/Cannon Fodder (Europe).mp4</video>
 		<rating>0.65</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Sensible Software</developer>
 		<publisher>Virgin</publisher>
 		<genre>Strategy</genre>
-		<playcount>2</playcount>
-		<lastplayed>20220226T201646</lastplayed>
+		<image>./boxart/Cannon Fodder (Europe).jpg</image>
+		<video>./snaps/Cannon Fodder (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Panzer General (US).chd</path>
+		<name>Panzer General</name>
+		<sortname />
+		<desc>The time for resurrecting historical events has come. Panzer General was one of the first games (if not the first) that actually gave you the ability to play for the Nazis, and yet succeed where Hitler failed. Having total and complete control over land, sea and air units, you must defeat the Allied dogs as fast as you can (to get a major victory), or slower than in history (to get the minor victory).</desc>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Strategic Simulations</developer>
+		<publisher>Strategic Simulations</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Panzer General (US).jpg</image>
+		<video>./snaps/Panzer General (US).mp4</video>
+	</game>
+	<game>
+		<path>./Samurai Shodown (USA, Europe).chd</path>
+		<name>Samurai Shodown</name>
+		<sortname />
+		<desc>In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness. Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Crystal Dynamics</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Samurai Shodown (USA, Europe).jpg</image>
+		<video>./snaps/Samurai Shodown (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Syndicate (Europe).chd</path>
+		<name>Syndicate</name>
+		<sortname />
+		<desc>In the future, the world is controlled by a handful of global corporations (syndicates). You are the Marketing director (hit man) for one of these companies. It is your job to take control away from the competitors. The job is not one of diplomacy, but one of brute force and physical control. Advance your way to the top of the corporation by successfully completing your missions and managing the money you make from your territories. The gameplay is visually reminiscent of X-Com, with an angled top-down perspective, but it is real time rather than turn based. You have missions ranging from infiltrate and capture, to seek and destroy.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Bullfrog</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Syndicate (Europe).jpg</image>
+		<video>./snaps/Syndicate (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./BattleSport (USA).chd</path>
+		<name>Battlesport</name>
+		<sortname />
+		<desc>Battlesport simulates the sport of the future. Choose your vehicle and enter the arena to face your computer opponents to see who scores the most goals before the clock runs out. Scoring isn't easy. The ball constantly bounces over the arena, retrieved by a player constantly bombarded by opponents. A variety of weapons are available to shoot your competitor, and anyone that takes a hit while carrying the ball loses possession, sending the ball bouncing across the arena. Taking too many shots results in a temporary inability to take part in the action while your opponent happily scores goals.</desc>
+		<rating>0.95</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Cyclone Studios</developer>
+		<publisher>Panasonic</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/BattleSport (USA).jpg</image>
+		<video>./snaps/BattleSport (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Slam 'n Jam '95 (USA, Europe).chd</path>
+		<name>Slam 'n Jam '95</name>
+		<sortname />
+		<desc>Slam 'N Jam '95 is a game similar in style to the arcade game Run &amp; Gun and NBA Jam, with a five-on-five team game in a 3-D style perspective. The gameplay is geared towards more of an arcade feel rather than simulation and does not feature any NBA license but resembles actual teams and modeled after top players of the time.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>BMG Interactive</developer>
+		<publisher>Crystal Dynamics</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Slam 'n Jam '95 (USA, Europe).jpg</image>
+		<video>./snaps/Slam 'n Jam '95 (USA, Europe).mp4</video>
 	</game>
 </gameList>

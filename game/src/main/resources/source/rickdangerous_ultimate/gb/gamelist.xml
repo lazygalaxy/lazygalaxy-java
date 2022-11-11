@@ -106,7 +106,7 @@
 	</game>
 	<game>
 		<path>./Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2).zip</path>
-		<name>The Legend of Zelda: Link's Awakening</name>
+		<name>Legend of Zelda: Link's Awakening, The</name>
 		<sortname />
 		<desc>The fourth game in the Zelda series although it does not take place in Hyrule. After being attacked at sea, Link's ship sinks, and he finds himself stranded on Koholint Island. He awakens to see a beautiful woman looking down at him. He soon learns the island has a giant egg on top of a mountain that the Wind Fish inhabits deep inside. Link is told to "awaken the wind fish and all will be answered," so Link sets out on another quest.</desc>
 		<rating>0.95</rating>
@@ -470,9 +470,9 @@
 	</game>
 	<game>
 		<path>./R-Type (USA, Europe).zip</path>
-		<name>R-Type</name>
+		<name>R·Type</name>
 		<sortname />
-		<desc>R-Type is a side scrolling shoot 'em up best known for its extremely tough and strategic gameplay. You control the R-9 spaceship as it launches a last-ditch effort to repel the evil Bydo empire.</desc>
+		<desc>R·Type is a side scrolling shoot 'em up best known for its extremely tough and strategic gameplay. You control the R-9 spaceship as it launches a last-ditch effort to repel the evil Bydo empire.</desc>
 		<rating>0.7</rating>
 		<releasedate>19910502T000000</releasedate>
 		<developer>Irem</developer>
@@ -554,43 +554,221 @@
 	<game>
 		<path>./Balloon Kid (USA, Europe).zip</path>
 		<name>Balloon Kid</name>
+		<sortname />
 		<desc>Balloon Kid is a unique side-scrolling platform game. You control a little girl who's brother has floated away on a big bunch of balloons. It's up to you to chase after him through 8 treacherous levels. Instead of the usual jumping from platform to platform, you have a pair of balloons that allow you to float through the level. You must control your height carefully by tapping the 'A' button. Meanwhile, the screen is always scrolling to the left, and you have to keep up.</desc>
-		<image>./boxart/Balloon Kid (USA, Europe).jpg</image>
-		<video>./snaps/Balloon Kid (USA, Europe).mp4</video>
 		<rating>0.7</rating>
 		<releasedate>19901002T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220217T184001</lastplayed>
+		<image>./boxart/Balloon Kid (USA, Europe).jpg</image>
+		<video>./snaps/Balloon Kid (USA, Europe).mp4</video>
 	</game>
 	<game>
 		<path>./Avenging Spirit (USA, Europe).zip</path>
 		<name>Avenging Spirit</name>
+		<sortname />
 		<desc>In Avenging Spirit the protagonist is a spirit out for revenge. He has been murdered by a group of gangsters and his girlfriend has taken hostage by them. Her father uses his brand new machine to call the man's spirit back from the dead, telling him that they are holding his daughter ransom unless he turns over his research of ghost energy.</desc>
-		<image>./boxart/Avenging Spirit (USA, Europe).jpg</image>
-		<video>./snaps/Avenging Spirit (USA, Europe).mp4</video>
 		<rating>0.8</rating>
 		<releasedate>19921201T000000</releasedate>
 		<developer>C.P. Brain</developer>
 		<publisher>Jaleco</publisher>
 		<genre>Action</genre>
-		<favorite>true</favorite>
-		<playcount>4</playcount>
-		<lastplayed>20220217T222708</lastplayed>
+		<image>./boxart/Avenging Spirit (USA, Europe).jpg</image>
+		<video>./snaps/Avenging Spirit (USA, Europe).mp4</video>
 	</game>
 	<game>
 		<path>./X (Japan).zip</path>
 		<name>X</name>
+		<sortname />
 		<desc>In X the player pilots a space tank sent to another planet to defend the earth from an alien invasion. There are ten missions with different objective ranging from restoring power to a power plant, to 'seek and destroy' missions. The player can guide the tank freely across the over world, but there are enemy patrols that will open fire. The alternative is going though underground tunnels, where there are spots to replenish the tank and its weapons. The player only has a limited amount of time for each mission, and shielding for the tank. If either runs out, the game is over.</desc>
-		<image>./boxart/X (Japan).jpg</image>
-		<video>./snaps/X (Japan).mp4</video>
 		<releasedate>19920529T000000</releasedate>
 		<developer>Argonaut Software Ltd.</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Shoot'em up</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220222T091846</lastplayed>
+		<image>./boxart/X (Japan).jpg</image>
+		<video>./snaps/X (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Adventure Island (USA, Europe).zip</path>
+		<name>Adventure Island</name>
+		<sortname />
+		<desc>In the South Pacific, Master Higgins lives peacefully wearing only a grass skirt and a cap. That is until the Evil Witch Doctor decides to capture Tina and hold her as his own. It's up to Master Higgins to gather throwing axes, fireballs and skateboards in order to aid his noble quest. The game is a side scroller, Master Higgins moves across the screen from left to right and finds his power-ups in giant eggs. This includes a skateboard which results in a great speed enhancement - until Master Higgins gets hit and loses his power. If he is not on a skateboard a hit means instant death. Another game mechanic is starvation which gets indicated through a meter which steadily decreases.</desc>
+		<rating>0.75</rating>
+		<releasedate>19920202T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Adventure Island (USA, Europe).jpg</image>
+		<video>./snaps/Adventure Island (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Adventure Island II - Aliens in Paradise (USA, Europe).zip</path>
+		<name>Adventure Island II: Aliens in Paradise</name>
+		<sortname />
+		<desc>Jeannie Jungle has been captured by aliens! She's stranded somewhere on one of eight islands and you, as the somewhat heroic Master Higgins, must find her. But be careful - each island is guarded by an enormous creature that's very hungry! Explore 8 levels Collect items such as: Axes, Skateboards, and boomerangs Enlist the help of the local dinosaurs Save your girlfriend from the menacing aliens Fortunately, you have a little help. There are five kinds of friendly dinosaurs waiting to give you a lift. They're stuck in eggs that you'll need to crack open! Hidden eggs are scattered all over the islands. By finding and breaking them open, you might get a bonus, or even a secret way to the next island! Just don't eat the eggplant...</desc>
+		<rating>0.8</rating>
+		<releasedate>19930202T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Adventure Island II - Aliens in Paradise (USA, Europe).jpg</image>
+		<video>./snaps/Adventure Island II - Aliens in Paradise (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Batman - The Animated Series (USA, Europe).zip</path>
+		<name>Batman: The Animated Series</name>
+		<sortname />
+		<desc>FROM TV SCREEN TO GAME BOYÂ® SCREEN COMES HEROIC CRIME FIGHTING ADVENTURE. Everyone's tuning in to Batman - The Animated Series. Now, for the first time, this hit TV series becomes an intense video game adventure. The Dark Knight and his partner Robin fight Gotham City's most infamous fiends in five original episodes of sizzling crime fighting action. Batman's strategic use of the grappling hook is crucial for surviving the onslaught of evil enemies. And Robin relies on his hang-from-the-ceiling skills to escape certain doom. Both of our heroes possess fists of amazing strength and must try to find weapon power-ups scattered throughout the mayhem. Episode 1 - "The Joke's On You".</desc>
+		<rating>0.85</rating>
+		<releasedate>19931102T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Batman - The Animated Series (USA, Europe).jpg</image>
+		<video>./snaps/Batman - The Animated Series (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bionic Commando (USA).zip</path>
+		<name>Bionic Commando</name>
+		<sortname />
+		<desc>You play a soldier with a bionic arm that extends and contracts. Your arm allows you to grab on to fixed objects to swing around and climb up levels -- no jumping allowed! The arm also grabs opponents and pull them towards you. Your mission is to infiltrate the enemy fortress, find your missing comrade, "Super Joe", and take out the evil leader, "Generalissimo Kilt", of the invading force that has been attacking your people for the last 2 years. After most levels the Bionic Commando will recieve items. Often these items are required to successfully complete other levels. Additionally, each level will require a different colored communicator in order to make sense of message traffic</desc>
+		<rating>0.85</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Minakuchi Engineering</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Bionic Commando (USA).jpg</image>
+		<video>./snaps/Bionic Commando (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Double Dragon (USA, Europe).zip</path>
+		<name>Double Dragon</name>
+		<sortname />
+		<desc>Set in a post-apocalyptic New York, Double Dragon is the story of Billy and Jimmy Lee, twin brothers trained in the fighting style of Sou-Setsu-Ken. Together, they manage a small martial arts training school, teaching their students in self-defense. One day, Billy's girlfriend, Marian, is kidnapped off the street by the "Black Warriors", a savage street gang led by a man named Willy. The Black Warriors demand the Lee brothers disclose their martial arts secrets in exchange for Marian's freedom. The Lee brothers set out on a rescue mission to crush the Black Warriors and save Marian.</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Double Dragon (USA, Europe).jpg</image>
+		<video>./snaps/Double Dragon (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./F-1 Race (World) (Rev 1).zip</path>
+		<name>F-1 Race</name>
+		<sortname />
+		<desc>F-1 Race is an arcade style racing game featuring tracks in locations all around the world. You will find tracks from Australia, Canada, Portugal, India, Russia, and even Egypt. Gameplay is viewed from a behind-the-car perspective using scaled bitmaps. There are three modes of play. First is a championship mode, where you compete in a series of races, and must place first in each to advance to the next. Second is a time trial mode, in which you try to achieve your shortest lap time around the track of your choice. Finally, there is the multi-player mode for up to four drivers.</desc>
+		<rating>0.65</rating>
+		<releasedate>19910202T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>1-4</players>
+		<image>./boxart/F-1 Race (World) (Rev 1).jpg</image>
+		<video>./snaps/F-1 Race (World) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Golf (World).zip</path>
+		<name>Golf</name>
+		<sortname />
+		<desc>Golf features two challenging 18 hole courses where players are able to play a round of golf, and allows players to choose a club, adjust stance and control the swing. The game features three alternating views; an overhead long-range view of the entire hole, an overhead medium-range view from the ball's current location, and an overhead close-range view of the green. Gameplay modes include 1 player, or 2 player play with a link cable.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900301T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Golf (World).jpg</image>
+		<video>./snaps/Golf (World).mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man - Dr. Wily's Revenge (USA).zip</path>
+		<name>Mega Man: Dr. Wily's Revenge</name>
+		<sortname />
+		<desc>Mega Man is the robot creation of Dr. Light, whose sworn archenemy Dr. Wily spends innumerable games trying to cause trouble with his own odd robots. As Mega Man, you run and jump through futuristic levels, shooting baddies with your blaster, and defeat each of Dr. Wily's Robot Masters. When you defeat them, you can take their ability as your own, which can provide an advantage against other types of evil robots. In this Game Boy version, Mega Man must fight against Ice Man, Electric Man, Cut Man, and Fire Man. After he defeats those four he battles Quick Man, Heat Man, Bubble Man, and Flash Man. And after that, there's Dr. Wily's Space Node.</desc>
+		<rating>0.8</rating>
+		<releasedate>19911202T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Mega Man - Dr. Wily's Revenge (USA).jpg</image>
+		<video>./snaps/Mega Man - Dr. Wily's Revenge (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Navy SEALs (USA, Europe).zip</path>
+		<name>Navy Seals</name>
+		<sortname />
+		<desc>Like many of Ocean's games Navy Seals was licensed from a film of the same name, by Orion. You control a succession of the USA's elite fighters with the aim of destroying missiles held by terrorists. You must work your way through levels and find the exit to get to the next level. At the beginning and end of each level, there is a cut scene which consists of a still image with text, to progress the story of the game. You will of course meet many more fighters throughout the level, and pick up improved weapons as the game goes on. The gameplay is fairly standard platform work, seen in many other Ocean movie tie-ins. The Game Boy version of this game differs from the home computer version released around the same time.</desc>
+		<rating>0.5</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Navy SEALs (USA, Europe).jpg</image>
+		<video>./snaps/Navy SEALs (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Ninja Gaiden Shadow (USA).zip</path>
+		<name>Ninja Gaiden Shadow</name>
+		<sortname />
+		<desc>Ninja Gaiden Shadow is a prequel to Ninja Gaiden. It is 1985, 3 years before the events of the NES game, and Jaquio has not yet been awakened. However, Emperor Garuda, an evil dictator, threatens New York city and it is up to the Ryu Hayabusa to fight him. This game is an action side-scroller. Ryu can run, jump and beat his enemies using a sword. He also has a grappling-hook device, which can be used to reach higher platforms, which can then be hand-climbed across. By collecting power ups Ryu can use a magical technique called "the art of the fire wheel", an ascending and spinning wheel of fire which will take more damage than his usual sword. He has up to 5 charges of this technique.</desc>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Ninja Gaiden Shadow (USA).jpg</image>
+		<video>./snaps/Ninja Gaiden Shadow (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tennis (World).zip</path>
+		<name>Tennis</name>
+		<sortname />
+		<desc>Tennis is, as the name implies, Nintendo's version of the sport. One player vs computer or two players will compete in tennis in a more or less standard suite of rules (scoring, sets etc.). Players are controlled by the movement buttons, but while button A indicates a low hit, button B indicates a high one. You have the choice of four levels of computer AI, or two player via Game Boy link cable. The usual assortment of shots are available, including forehand and backhand, lobs and volleys when up close to the net.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Tennis (World).jpg</image>
+		<video>./snaps/Tennis (World).mp4</video>
+	</game>
+	<game>
+		<path>./Turok - Battle of the Bionosaurs (USA, Europe) (En,Fr,De,Es).zip</path>
+		<name>Turok: Battle of the Bionosaurs</name>
+		<sortname />
+		<desc>Battle of the Bionosaurs is a companion to its N64 and PC counterpart Turok: Dinosaur Hunter. As Turok you are tasked with battling dinosaurs, cyborgs and ruthless mercenaries to achieve ultimate victory over evil. You get a wide variety of weapons through the eight levels of battle and objectives. Use the weapons carefully as different adversaries react differently to each one. You get to explore large levels and use a password system to save your progress.</desc>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Bit Managers</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Turok - Battle of the Bionosaurs (USA, Europe) (En,Fr,De,Es).jpg</image>
+		<video>./snaps/Turok - Battle of the Bionosaurs (USA, Europe) (En,Fr,De,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Yoshi (USA).zip</path>
+		<name>Yoshi</name>
+		<sortname />
+		<desc>You have to help Mario cope with falling Goombas, Bloopers, Boo Buddies, and Piranha Plants. As they fall, catch them on trays. Switch and shuffle them to save the day. Stack two of a kind and they both disappear. Or capture a whole bunch between two eggshell halves. A different kind of Yoshi will appear depending on how many enemies are between the eggshell halves. There is a password feature to save your progress.</desc>
+		<rating>0.65</rating>
+		<releasedate>19921210T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Yoshi (USA).jpg</image>
+		<video>./snaps/Yoshi (USA).mp4</video>
 	</game>
 </gameList>

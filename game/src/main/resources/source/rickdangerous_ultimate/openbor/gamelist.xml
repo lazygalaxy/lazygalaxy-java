@@ -7,346 +7,308 @@
 		<web>http://www.screenscraper.fr</web>
 	</provider>
 	<game>
-		<path>./Art of Fighting - Beats Of Rage Remix III (SNK music).pak</path>
-		<name>Art of Fighting: Beats Of Rage Remix III</name>
-		<desc>This is based off of the original fighting game Art of Fighting that comes to a Beat Em Up tradition. Ryo Sakazaki hears that his father, Takuma, is killed (supposedly), and missing. Even his sister, Yuri, is kidnapped. So he contacts Robert Garcia and talked to him about it.</desc>
-		<image>./boxart/Art of Fighting - Beats Of Rage Remix III (SNK music).jpg</image>
-		<video>./snaps/Art of Fighting - Beats Of Rage Remix III (SNK music).mp4</video>
-		<releasedate>20120730T000000</releasedate>
-		<developer>Mr.Q!</developer>
-		<genre>Beat'em up</genre>
-		<players>1-3</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T095327</lastplayed>
-	</game>
-	<game>
 		<path>./Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.pak</path>
 		<name>Battletoads &amp; Double Dragon IV: The Return of the Dark Forces</name>
+		<sortname />
 		<desc>Faraway, at the very end of this galaxy there is another world race of the galaxy “Canis Major” corporation ruled by Queen of Dark. Defeated Queen of Dark is full of rage and makes up new evil plans of revenge and conquest. She destroyed all fighting units in Oxnard, where battle toads live. She did this with the help of magic and her faithful warriors. The city was at Queen's feet after that. Battletoads and Double Dragon mean the last hope. You must make your way to the Queen of Dark and destroy her with the help of set of fighting skills of each fighter. You are going to experience a hurricane beat'em up with classic characters, improved graphics and nice sound effects.</desc>
-		<image>./boxart/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.jpg</image>
-		<video>./snaps/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.mp4</video>
 		<releasedate />
 		<genre>Beat'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T095422</lastplayed>
+		<image>./boxart/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.jpg</image>
+		<video>./snaps/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.mp4</video>
 	</game>
 	<game>
 		<path>./Beats of Rage.pak</path>
 		<name>Beats of Rage</name>
+		<sortname />
 		<desc>Beats of Rage is a customisable video game engine made by Senile Team and inspired by Sega's classic Streets of Rage series. With Beats of Rage, users can create their own beat 'em up games - no programming experience required! Beats of Rage was first released for DOS in November 2003. It was not advertised in any way other than by word of mouth, yet it soon gained enormous popularity. Ports to many other systems (e.g. Dreamcast, Linux, Windows, GP32, GP2X, etc) soon followed.</desc>
-		<image>./boxart/Beats of Rage.jpg</image>
-		<video>./snaps/Beats of Rage.mp4</video>
 		<releasedate />
 		<developer>Senile Team</developer>
 		<genre>Beat'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T095448</lastplayed>
+		<image>./boxart/Beats of Rage.jpg</image>
+		<video>./snaps/Beats of Rage.mp4</video>
 	</game>
 	<game>
 		<path>./Bruce Lee - Revenge of the Dragon 1.0.pak</path>
 		<name>Bruce Lee: Revenge of the Dragon</name>
+		<sortname />
 		<desc>There's no better inspiration for a beat'em up than the master of kung-fu himself – Bruce Lee. He's the main protagonist of Bruce Lee : Revenge of the Dragon, a side-scrolling action game similar to games such as Final Fight : Gold or Double Dragon III : The Dragon Stone. The story tells us that Bruce rises from the dead and will go out for revenge on Dim Mak, fighting through the streets of Tokyo and Hong Kong. The narrative is reinforced by some static screens. Gameplay is great and although the graphics aren't perfect, they're very serviceable. Fans of martial arts movies and of Bruce Lee himself are advised to try this game.</desc>
-		<image>./boxart/Bruce Lee - Revenge of the Dragon 1.0.jpg</image>
-		<video>./snaps/Bruce Lee - Revenge of the Dragon 1.0.mp4</video>
 		<releasedate />
 		<genre>Beat'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T095517</lastplayed>
+		<image>./boxart/Bruce Lee - Revenge of the Dragon 1.0.jpg</image>
+		<video>./snaps/Bruce Lee - Revenge of the Dragon 1.0.mp4</video>
 	</game>
 	<game>
 		<path>./Captain Commando and the Avengers.pak</path>
-		<name>Captain Commando and the Avengers</name>
+		<name>Captain Commando and The Avengers</name>
+		<sortname />
 		<desc>Captain Commando and The Avengers is a Beats of Rage mod created by Gabo-Hanzo which features the superhero from Capcom fighting alongside the Marvel characters. NOTE: Check 'How To Play' in the game menu for further instructions with the extra character moves available with this BoR mod.</desc>
-		<image>./boxart/Captain Commando and the Avengers.jpg</image>
-		<video>./snaps/Captain Commando and the Avengers.mp4</video>
 		<releasedate />
 		<developer>Gabo-Hanzo</developer>
 		<genre>Beat'em up</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T095540</lastplayed>
+		<image>./boxart/Captain Commando and the Avengers.jpg</image>
+		<video>./snaps/Captain Commando and the Avengers.mp4</video>
 	</game>
 	<game>
 		<path>./Castlevania Legacy of Dracula.pak</path>
 		<name>Castlevania: Legacy of Dracula</name>
+		<sortname />
 		<desc>In this Beat'Em-Up game, play as one of the five legendary characters from the Castlevania saga. Choose between Alucard, Trevor Belmont, Simon Belmont, Ritcher Belmont or Jonathan Morris. Jump and fight a bunch of ennemies.</desc>
-		<image>./boxart/Castlevania Legacy of Dracula.jpg</image>
-		<video>./snaps/Castlevania Legacy of Dracula.mp4</video>
 		<releasedate />
 		<genre>Beat'em up</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220216T095603</lastplayed>
+		<image>./boxart/Castlevania Legacy of Dracula.jpg</image>
+		<video>./snaps/Castlevania Legacy of Dracula.mp4</video>
 	</game>
 	<game>
 		<path>./Crime Buster.pak</path>
 		<name>Crime Buster</name>
+		<sortname />
 		<desc>You will meet well known characters – beautiful Kula and big Max, who devoted their lives to struggle against evil in the city streets. Only that this time the team is not in full force. You will not see Mandy in this game anymore, but you will meet three new characters: Asians Bao and Athena and American Ralph. It is also worth mentioning that the playing process has many new elements, it is now longer and more difficult. The atmosphere of the game is the same. You will have to destroy several street gangs of the city, which sell drugs. Be careful, you might be killed if you have several bucks in your pocket. Go ahead, go into cruel battles and street fights.</desc>
-		<image>./boxart/Crime Buster.jpg</image>
-		<video>./snaps/Crime Buster.mp4</video>
 		<releasedate>20121115T000000</releasedate>
 		<developer>Bloodbane</developer>
 		<genre>Beat'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T095622</lastplayed>
+		<image>./boxart/Crime Buster.jpg</image>
+		<video>./snaps/Crime Buster.mp4</video>
 	</game>
 	<game>
 		<path>./Crisis Evil 1.pak</path>
 		<name>Crisis Evil 1</name>
+		<sortname />
 		<desc>This is a 2D version of Capcom's popular survival horror game Resident Evil. Play as Chris Redfield or Jill Valentine, blasting and fighting zombies, mutant dogs and other creatures. The game mods feature the characters from the Resident Evil game series, not only are the good guys here... the Zombies, Dogs, Plants, Spiders, and even the Nemesis is here!</desc>
-		<image>./boxart/Crisis Evil 1.jpg</image>
-		<video>./snaps/Crisis Evil 1.mp4</video>
 		<releasedate />
 		<developer>HarlemHero</developer>
 		<genre>Beat'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T095647</lastplayed>
+		<image>./boxart/Crisis Evil 1.jpg</image>
+		<video>./snaps/Crisis Evil 1.mp4</video>
 	</game>
 	<game>
 		<path>./Crisis Evil 2.pak</path>
 		<name>Crisis Evil 2</name>
+		<sortname />
 		<desc>The game takes place at the same time as the events of the first Crisis Evil and features 2 new playable characters: Leon Kennedy and Claire Redfield. All new creatures as well as familiar faces appear in this long awaited sequel.</desc>
-		<image>./boxart/Crisis Evil 2.jpg</image>
-		<video>./snaps/Crisis Evil 2.mp4</video>
 		<releasedate />
 		<developer>HarlemHero</developer>
 		<genre>Beat'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T095727</lastplayed>
+		<image>./boxart/Crisis Evil 2.jpg</image>
+		<video>./snaps/Crisis Evil 2.mp4</video>
 	</game>
 	<game>
 		<path>./Double Dragon Reloaded Alternate.pak</path>
 		<name>Double Dragon: Reloaded Alternate</name>
+		<sortname />
 		<desc>Double Dragon: Reloaded: Alternate is a mix of the first two games in the Double Dragon saga, created with the OpenBOR project and released in 2017. It includes a roster of new characters along with old favorites, including wrestling legends like Hulk Hogan.</desc>
-		<image>./boxart/Double Dragon Reloaded Alternate.jpg</image>
-		<video>./snaps/Double Dragon Reloaded Alternate.mp4</video>
 		<releasedate />
 		<developer>Maggas</developer>
 		<genre>Beat'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T095803</lastplayed>
+		<image>./boxart/Double Dragon Reloaded Alternate.jpg</image>
+		<video>./snaps/Double Dragon Reloaded Alternate.mp4</video>
 	</game>
 	<game>
 		<path>./Dungeons &amp; Dragons - Rise of Warduke 3.0.pak</path>
 		<name>Dungeons &amp; Dragons: Rise of Warduke</name>
+		<sortname />
 		<desc>Arcade style action adventure RPG (Continuation/update of Rise of Warduke) Protect the Kingdom of Furyondy from the evil forces of Iuz. Undertake daring missions to rescue allies, sabotage enemy strongholds, and find the secret to defeating Iuz once and for all!</desc>
-		<image>./boxart/Dungeons &amp; Dragons - Rise of Warduke 3.0.jpg</image>
-		<video>./snaps/Dungeons &amp; Dragons - Rise of Warduke 3.0.mp4</video>
 		<releasedate>20150511T000000</releasedate>
 		<developer>Count Monte &amp; Bloodbane</developer>
 		<genre>Beat'em up</genre>
 		<players>1-2</players>
-		<playcount>2</playcount>
-		<lastplayed>20220216T095853</lastplayed>
+		<image>./boxart/Dungeons &amp; Dragons - Rise of Warduke 3.0.jpg</image>
+		<video>./snaps/Dungeons &amp; Dragons - Rise of Warduke 3.0.mp4</video>
 	</game>
 	<game>
 		<path>./Final Fight Apocalypse 2nd Edition.pak</path>
 		<name>Final Fight Apocalypse 2nd Edition</name>
+		<sortname />
 		<desc>4 playable characters - Haggar, Cody, Guy and Scorp (from Saturday Nite Slam Masters) 4-player simultaneous gameplay Tons of special moves for each character, as well as useable weapons (uncommon for most BOR mods) Challenging enemies who block, teleport and won't hesitate to throw you around!</desc>
-		<image>./boxart/Final Fight Apocalypse 2nd Edition.jpg</image>
-		<video>./snaps/Final Fight Apocalypse 2nd Edition.mp4</video>
 		<releasedate>20130222T000000</releasedate>
 		<developer>Mr.Q!</developer>
 		<genre>Beat'em up</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T095911</lastplayed>
+		<image>./boxart/Final Fight Apocalypse 2nd Edition.jpg</image>
+		<video>./snaps/Final Fight Apocalypse 2nd Edition.mp4</video>
 	</game>
 	<game>
 		<path>./Final Fight X.pak</path>
 		<name>Final Fight X</name>
+		<sortname />
 		<desc>Final Fight X is probably the most conservative of Final Fight versions of OpenBOR, being much more faithful to Capcom's original work, so much so that we could almost consider it as the real Final Fight 2 instead of the game that was released for Super Nintendo. In Final Fight X you are able to choose between the three protagonists that appeared in the original game (Haggar, Guy and Cody) to overcome the different stages, in which they will face against all the enemies that appeared in the original title.</desc>
-		<image>./boxart/Final Fight X.jpg</image>
-		<video>./snaps/Final Fight X.mp4</video>
 		<releasedate />
 		<genre>Beat'em up</genre>
 		<players>1-3</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T095934</lastplayed>
+		<image>./boxart/Final Fight X.jpg</image>
+		<video>./snaps/Final Fight X.mp4</video>
 	</game>
 	<game>
 		<path>./Golden Axe Genesis.pak</path>
 		<name>Golden Axe Genesis</name>
+		<sortname />
 		<desc>This release is a tribute to the Golden Axe series of games released for the Sega Mega Drive, which was known as the Sega Genesis in America. Features -13 different playable characters -4 hidden characters -3 game modes (Story, Original and The Duel) -Story Mode with multiple routes -A total of 21 stages -The Duel with 20 missions and 15 exclusive arenas -More than 20 different enemies -Three beasts to ride -Exclusive features for each character -1 to 4 players simultaneously -Original Soundtrack</desc>
-		<image>./boxart/Golden Axe Genesis.jpg</image>
-		<video>./snaps/Golden Axe Genesis.mp4</video>
 		<releasedate />
 		<developer>krizalid</developer>
 		<genre>Beat'em up</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T100141</lastplayed>
+		<image>./boxart/Golden Axe Genesis.jpg</image>
+		<video>./snaps/Golden Axe Genesis.mp4</video>
 	</game>
 	<game>
 		<path>./Golden Axe Legend.pak</path>
 		<name>Golden Axe Legend</name>
+		<sortname />
 		<desc>In olden times, the majestic gods which governed the earth did use the battle axe called "Golden Axe" to banish evil giants. At length, a new generation was come. Humans appeared above the earth and were inherited that battle axe. The departed gods left a final message: "The Axe must bring justice and peace and not be used to unleash dark-rooted evil and destruction..." But one day, a mysterious death lord suddenly appeared. Allied with an evil entity, he stole the Golden Axe. With his entire demon army, he overran the kingdom of Splash Hill, in mid-Eastland, imprisoned and enslaved the people.</desc>
-		<image>./boxart/Golden Axe Legend.jpg</image>
-		<video>./snaps/Golden Axe Legend.mp4</video>
 		<releasedate />
 		<genre>Beat'em up</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T100205</lastplayed>
+		<image>./boxart/Golden Axe Legend.jpg</image>
+		<video>./snaps/Golden Axe Legend.mp4</video>
 	</game>
 	<game>
 		<path>./Golden Axe Remake Special Edition.pak</path>
 		<name>Golden Axe Remake Special Edition</name>
+		<sortname />
 		<desc>THE ULTIMATE GOLDEN AXE REMAKE! * The original story revisited! * 7 characters from Golden Axe 1, 2 and 3 to choose from! * All characters have long/short range combos and custom throws, plus they can run, block, counter, and perform astonishing Special Moves! * Fill your magic meter and unleash the ultimate magic!</desc>
-		<image>./boxart/Golden Axe Remake Special Edition.jpg</image>
-		<video>./snaps/Golden Axe Remake Special Edition.mp4</video>
 		<releasedate />
 		<genre>Beat'em up</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T100228</lastplayed>
+		<image>./boxart/Golden Axe Remake Special Edition.jpg</image>
+		<video>./snaps/Golden Axe Remake Special Edition.mp4</video>
 	</game>
 	<game>
 		<path>./HE-MAN.PAK</path>
 		<name>He-Man and the Masters of the Universe</name>
+		<sortname />
 		<desc>He-Man and the Masters of the Universe is a beat'em up that allows you to control He-Man, Man-at-Arms, Orko and the rest of the group to fight the terrible forces of evil led by Skeletor. You can choose between several main characters of the series, participating in the game simultaneously. Each character has their own attacks and special abilities. He-Man, for example, uses his sword to make special attacks, while Man-at-Arms has a fire-based weapon. The adventure of He-Man and the Masters of the Universe brings you two different phases: on foot, when you fight enemies normally, and mounted, when traveling at full speed through the levels.</desc>
-		<image>./boxart/HE-MAN.jpg</image>
-		<video>./snaps/HE-MAN.mp4</video>
 		<releasedate />
 		<developer>bWWd</developer>
 		<genre>Beat'em up</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T100300</lastplayed>
+		<image>./boxart/HE-MAN.jpg</image>
+		<video>./snaps/HE-MAN.mp4</video>
 	</game>
 	<game>
 		<path>./Hyper Final Fight 1.pak</path>
 		<name>Hyper Final Fight 1</name>
+		<sortname />
 		<desc>An excellent mod featuring all the nice graphics, sounds and characters from Final Fight.</desc>
-		<image>./boxart/Hyper Final Fight 1.jpg</image>
-		<video>./snaps/Hyper Final Fight 1.mp4</video>
 		<releasedate>20130404T000000</releasedate>
 		<developer>Mr.Q!</developer>
 		<genre>Beat'em up</genre>
 		<players>1-2</players>
-		<playcount>2</playcount>
-		<lastplayed>20220216T100327</lastplayed>
+		<image>./boxart/Hyper Final Fight 1.jpg</image>
+		<video>./snaps/Hyper Final Fight 1.mp4</video>
 	</game>
 	<game>
 		<path>./Hyper Final Fight 2.pak</path>
 		<name>Hyper Final Fight 2</name>
+		<sortname />
 		<desc>1 single story + boss rush. A mod technically superior to HFF1! - 6 playable characters: Haggar, Cody, Guy, Lucia, Carlos and DeeJay! - New and deadly enemies and bosses! - 7 challenging stages, bringing new stuff to BoR experience! - EX Boss Rush mode (finish the game to unlock!) - New cinemas!</desc>
-		<image>./boxart/Hyper Final Fight 2.jpg</image>
-		<video>./snaps/Hyper Final Fight 2.mp4</video>
 		<releasedate>20130405T000000</releasedate>
 		<developer>Mr.Q!</developer>
 		<genre>Beat'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T100351</lastplayed>
+		<image>./boxart/Hyper Final Fight 2.jpg</image>
+		<video>./snaps/Hyper Final Fight 2.mp4</video>
 	</game>
 	<game>
 		<path>./Knights &amp; Dragons The Endless Quest.pak</path>
 		<name>Knights &amp; Dragons The Endless Quest</name>
+		<sortname />
 		<desc>Up to a maximum of 3 players can play at the same time, being able to choose between the characters of the game The King of Dragons with different movements and magic (more hidden character of the Thief), with the possibility to go through alternative routes with different scenarios, which lead to several different endings, with great music and multiple enemies (including a great Red Dragon). Once finished, other game modes are unlocked, with other routes and the characters of the game Knights of the Round (more hidden Paladin character), and also another survival mode against enemy bosses that allows you to use all the characters (including Mordred), which makes it a very replayable title.</desc>
-		<image>./boxart/Knights &amp; Dragons The Endless Quest.jpg</image>
-		<video>./snaps/Knights &amp; Dragons The Endless Quest.mp4</video>
 		<releasedate />
 		<genre>Beat'em up</genre>
 		<players>1-3</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T100418</lastplayed>
+		<image>./boxart/Knights &amp; Dragons The Endless Quest.jpg</image>
+		<video>./snaps/Knights &amp; Dragons The Endless Quest.mp4</video>
 	</game>
 	<game>
 		<path>./Legend of the Double Dragon.pak</path>
 		<name>Legend of the Double Dragon</name>
+		<sortname />
 		<desc>The game tries to give a cinematic view to the untold story of Return of Double Dragon, the Japanese version of Super Double Dragon, based on the original vision of Mr. Muneki Ebinuma, original Technos producer of the 90's game. The Best bro's edition uses SNES music and cuts the cinematics.</desc>
-		<image>./boxart/Legend of the Double Dragon.jpg</image>
-		<video>./snaps/Legend of the Double Dragon.mp4</video>
 		<releasedate>20121227T000000</releasedate>
 		<developer>Mahcneto</developer>
 		<genre>Beat'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T100450</lastplayed>
+		<image>./boxart/Legend of the Double Dragon.jpg</image>
+		<video>./snaps/Legend of the Double Dragon.mp4</video>
 	</game>
 	<game>
 		<path>./Marvel First Alliance.PAK</path>
 		<name>Marvel First Alliance</name>
+		<sortname />
 		<desc>Marvel First Alliance is an indie game developed by ZVitor, created with the popular OpenBor engine, that crossover many aspects of the Marvel universe. The game is a beat'em up inspired by the likes of Streets of Rage and Double Dragon and features a dream team that will certainly please any Marvel fan. But best of all, it features simultaneous four-player action in one computer!</desc>
-		<image>./boxart/Marvel First Alliance.jpg</image>
-		<video>./snaps/Marvel First Alliance.mp4</video>
 		<releasedate>20120601T000000</releasedate>
 		<developer>ZVictor</developer>
 		<genre>Beat'em up</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T100520</lastplayed>
+		<image>./boxart/Marvel First Alliance.jpg</image>
+		<video>./snaps/Marvel First Alliance.mp4</video>
 	</game>
 	<game>
 		<path>./Mortal Kombat Outworld Assassins.pak</path>
 		<name>Mortal Kombat Outworld Assassins</name>
+		<sortname />
 		<desc>Play as one of the three famous ninja among Scorpion, Sub-Zero or Noob Saibot of the Mortal Kombat franchise in this Beat'Em-Up created for Openbor. Fight your way by facing a multitude of enemies including the best known of the MK universe. Can you defeat the dreaded Quan Chi?</desc>
-		<image>./boxart/Mortal Kombat Outworld Assassins.jpg</image>
-		<video>./snaps/Mortal Kombat Outworld Assassins.mp4</video>
 		<releasedate />
 		<genre>Beat'em up</genre>
 		<players>1-3</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T100636</lastplayed>
+		<image>./boxart/Mortal Kombat Outworld Assassins.jpg</image>
+		<video>./snaps/Mortal Kombat Outworld Assassins.mp4</video>
 	</game>
 	<game>
 		<path>./Mortal Kombat Unlimited.pak</path>
 		<name>Mortal Kombat Unlimited</name>
+		<sortname />
 		<desc>Play as one of the famous characters of the Mortal Kombat franchise in Beat'Em-Up create for Openbor. Choose between Scorpion, Sub-Zero, Raiden, Kitana, Kung-Lao, John Cage, Liu Kang or Jax. Fight your way by facing a multitude of enemies. Can you defeat the dreaded Shaokahn?</desc>
-		<image>./boxart/Mortal Kombat Unlimited.jpg</image>
-		<video>./snaps/Mortal Kombat Unlimited.mp4</video>
 		<releasedate />
 		<genre>Beat'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T100716</lastplayed>
+		<image>./boxart/Mortal Kombat Unlimited.jpg</image>
+		<video>./snaps/Mortal Kombat Unlimited.mp4</video>
 	</game>
 	<game>
 		<path>./Splatterhouse I Deception of the Mask.pak</path>
-		<name>Splatterhouse I Deception of the Mask</name>
+		<name>Splatterhouse: Deception of the Mask</name>
+		<sortname />
 		<desc>4 playable characters new moves and specials for every Rick version 10 stages, 19 substages 19 different enemies + 10 Bosses</desc>
-		<image>./boxart/Splatterhouse I Deception of the Mask.jpg</image>
-		<video>./snaps/Splatterhouse I Deception of the Mask.mp4</video>
 		<releasedate />
 		<developer>Krauser</developer>
 		<genre>Beat'em up</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220216T100803</lastplayed>
+		<image>./boxart/Splatterhouse I Deception of the Mask.jpg</image>
+		<video>./snaps/Splatterhouse I Deception of the Mask.mp4</video>
 	</game>
 	<game>
 		<path>./Teenage Mutant Ninja Turtles - Rescue-Palooza!.pak</path>
 		<name>Teenage Mutant Ninja Turtles: Rescue-Palooza!</name>
+		<sortname />
 		<desc>It's Pizza Time! Teenage Mutant Ninja Turtles: Rescue-Palooza is a free fan-made beat-em-up game based on the TMNT! An update and homage to the classic NES titles, with tons of characters playable for the first time! Vital Tortistics: - 60 playable characters - 17 stages - 4 Bonus stages - 4-player local coop - Improved graphics - Voice clips from the TV show - Rideable vehicles - Countless references to the original TMNT cartoon and toyline! ​</desc>
-		<image>./boxart/Teenage Mutant Ninja Turtles - Rescue-Palooza!.jpg</image>
-		<video>./snaps/Teenage Mutant Ninja Turtles - Rescue-Palooza!.mp4</video>
 		<releasedate>20190613T000000</releasedate>
 		<publisher>Merso- X Games</publisher>
 		<genre>Beat'em up</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T100845</lastplayed>
+		<image>./boxart/Teenage Mutant Ninja Turtles - Rescue-Palooza!.jpg</image>
+		<video>./snaps/Teenage Mutant Ninja Turtles - Rescue-Palooza!.mp4</video>
 	</game>
 	<game>
 		<path>./Teenage Mutant Ninja Turtles - Shell Shocked.pak</path>
 		<name>Teenage Mutant Ninja Turtles: Shell Shocked</name>
-		<image>./boxart/Teenage Mutant Ninja Turtles - Shell Shocked.jpg</image>
-		<video>./snaps/Teenage Mutant Ninja Turtles - Shell Shocked.mp4</video>
+		<sortname />
+		<desc />
 		<releasedate />
 		<genre>Beat'em up</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T100908</lastplayed>
+		<image>./boxart/Teenage Mutant Ninja Turtles - Shell Shocked.jpg</image>
+		<video>./snaps/Teenage Mutant Ninja Turtles - Shell Shocked.mp4</video>
 	</game>
 	<game>
 		<path>./Crisis Evil III Santiago Infected.pak</path>
-		<name>Crisis Evil III: Santiago Infected</name>
+		<name>Crisis Evil 3: Santiago Infected</name>
 		<sortname>Crisis Evil 3</sortname>
 		<desc>Crisis Evil III: Santiago Infected is a Beat'em Up game, based on the Resident Evil saga of Capcom. It is the third part of the Openbor Crisis Evil saga, which this time places the action in a hypothetical zombie invasion in the city of Santiago, Chile, because of the mutation of the H1N1 virus. Leon and Claire from Resident Evil, along with some other Capcom characters, must face the threat by cleaning the city of monsters, zombies and other horrible creatures perpetrated by Umbrella.</desc>
 		<releasedate />
@@ -358,56 +320,52 @@
 	<game>
 		<path>./Marvel Infinity War.pak</path>
 		<name>Marvel Infinity War</name>
+		<sortname />
 		<desc>Adam Warlock warns the earth of the Infinity Stones being sought by Magus, and so earth's heroes divide into teams to collect each Gem. These gems are placed into the possession of The Enchantress, MODOK, Selene, Ronan the Accuser, and Russia's superheroes. In the end, the gathering of the heroes is what allows Magus to collect them all and try to wipe the floor with them.</desc>
-		<image>./boxart/Marvel Infinity War.jpg</image>
-		<video>./snaps/Marvel Infinity War.mp4</video>
 		<releasedate>20190501T000000</releasedate>
 		<developer>ZVictor</developer>
 		<genre>Beat'em up</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T120601</lastplayed>
+		<image>./boxart/Marvel Infinity War.jpg</image>
+		<video>./snaps/Marvel Infinity War.mp4</video>
 	</game>
 	<game>
 		<path>./Power Rangers Beats of Power Special Edition.pak</path>
-		<name>Power Rangers Beats of Power: Special Edition</name>
+		<name>Power Rangers: Beats of Power (Special Edition)</name>
+		<sortname />
 		<desc>The game is designed as a retro throwback to classic 1990s Power Rangers games such as the Mighty Morphin Power Rangers games for the SNES and the Genesis and Power Rangers: The Fighting Edition. In March of 2017, the game was updated with a Special Edition version released.</desc>
-		<image>./boxart/Power Rangers Beats of Power Special Edition.jpg</image>
-		<video>./snaps/Power Rangers Beats of Power Special Edition.mp4</video>
 		<releasedate />
 		<developer>mersox</developer>
 		<genre>Beat'em up</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T120331</lastplayed>
+		<image>./boxart/Power Rangers Beats of Power Special Edition.jpg</image>
+		<video>./snaps/Power Rangers Beats of Power Special Edition.mp4</video>
 	</game>
 	<game>
 		<path>./Streets of Rage Silent Hill Edition.PAK</path>
 		<name>Streets of Rage: Silent Hill Edition</name>
+		<sortname />
 		<desc>Streets of Rage: Silent Hill, a beat'em up developed by OpenBor, takes the classic Streets of Rage and mixes it with environments and characters from the Silent Hill franchise. You'll be able to play as characters from both Silent Hill 1 and 2 (for example, the villain Pyramid Head).</desc>
-		<image>./boxart/Streets of Rage Silent Hill Edition.jpg</image>
-		<video>./snaps/Streets of Rage Silent Hill Edition.mp4</video>
 		<releasedate />
 		<developer />
 		<publisher />
 		<genre>Beat'em up</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220216T120203</lastplayed>
+		<image>./boxart/Streets of Rage Silent Hill Edition.jpg</image>
+		<video>./snaps/Streets of Rage Silent Hill Edition.mp4</video>
 	</game>
 	<game>
 		<path>./Dungeons and Dragons Animated Series.pak</path>
-		<name>Dungeons &amp; Dragons</name>
+		<name>Dungeons &amp; Dragons: Knights &amp; Dragons the Endless Quest</name>
+		<sortname />
 		<desc>Fear not Adventurer, I am Dungeon Master, your guide in the realm of Dungeons and dragons You are about to embark upon a grand adventure, and I am here to show you the way. To succeed in you quest, you will need to be brave, smart and just a little bit lucky.</desc>
-		<image>./boxart/Dungeons and Dragons Animated Series.jpg</image>
-		<video>./snaps/Dungeons and Dragons Animated Series.mp4</video>
 		<releasedate />
 		<developer />
 		<publisher />
 		<genre>Beat'em up</genre>
 		<players>1-4</players>
-		<playcount>2</playcount>
-		<lastplayed>20220218T112923</lastplayed>
+		<image>./boxart/Dungeons and Dragons Animated Series.jpg</image>
+		<video>./snaps/Dungeons and Dragons Animated Series.mp4</video>
 	</game>
 	<game>
 		<path>./Karate_Kid.pak</path>
@@ -469,16 +427,15 @@
 	</game>
 	<game>
 		<path>./Battle Toads.pak</path>
-		<name>Battle Toads</name>
+		<name>Battletoads</name>
+		<sortname />
 		<desc>The game took eight long months to create, contains five completely different game modes, and four playable characters: Rash, Pimple &amp; Zitz from Battletoads and Sketch Turner from Comix Zone.</desc>
-		<image>./boxart/Battle Toads.jpg</image>
-		<video>./snaps/Battle Toads.mp4</video>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>bWWd</developer>
 		<genre>Beat'em up</genre>
 		<players>1-2</players>
-		<playcount>2</playcount>
-		<lastplayed>20220223T135305</lastplayed>
+		<image>./boxart/Battle Toads.jpg</image>
+		<video>./snaps/Battle Toads.mp4</video>
 	</game>
 	<game>
 		<path>./kill bill.pak</path>
@@ -494,7 +451,7 @@
 	</game>
 	<game>
 		<path>./simpsons.pak</path>
-		<name>Simpsons: TreeHouse of Horror</name>
+		<name>Simpsons: Treehouse of Horror, The</name>
 		<sortname />
 		<desc>Paying homage to the classic arcade game. This story revolves around an Alien Invasion trying to take over earth. Homer, Bart and Krusty work there way through the Aliens as they unleash all sorts of enemies and even teleport characters from other times and dimensions to assist them. Features of the game. Loads of exciting levels and environments, characters and bosses (including characters not just from Simpsons lore but also Futurama and Family Guy cameos) mini game set in a makeshift kwik e mart where you can get bonus lives. vehicle levels Big boss battles NPCs who can assist you weapons Includes Bonus games !</desc>
 		<releasedate />
@@ -503,5 +460,17 @@
 		<players>1-2</players>
 		<image>./boxart/simpsons.jpg</image>
 		<video>./snaps/simpsons.mp4</video>
+	</game>
+	<game>
+		<path>./Art of Fighting - Beats Of Rage Remix III (SNK music).pak</path>
+		<name>Art of Fighting: Beats of Rage Remix III</name>
+		<sortname />
+		<desc>This is based off of the original fighting game Art of Fighting that comes to a Beat Em Up tradition. Ryo Sakazaki hears that his father, Takuma, is killed (supposedly), and missing. Even his sister, Yuri, is kidnapped. So he contacts Robert Garcia and talked to him about it.</desc>
+		<releasedate>20120730T000000</releasedate>
+		<developer>Mr.Q!</developer>
+		<genre>Beat'em up</genre>
+		<players>1-3</players>
+		<image>./boxart/Art of Fighting - Beats Of Rage Remix III (SNK music).jpg</image>
+		<video>./snaps/Art of Fighting - Beats Of Rage Remix III (SNK music).mp4</video>
 	</game>
 </gameList>

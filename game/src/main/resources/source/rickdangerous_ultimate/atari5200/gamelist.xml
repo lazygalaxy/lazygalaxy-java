@@ -36,7 +36,7 @@
 	</game>
 	<game>
 		<path>./BerZerk (USA).zip</path>
-		<name>BerZerk</name>
+		<name>Berzerk</name>
 		<sortname />
 		<desc>You have been sent into a building infested with robots, and must do your best to clear it out. Each rooms has a number of walls through the middle, which restrict your movement. There will be a number of bad guys in the room - on early screens they may be immobile and not shoot at you, but after a few levels they become capable of shooting in multiple directions. You can shoot at them in 8 directions, but can't shoot diagonally while moving. There are gaps at the side of each room, through which you exit, before or after clearing the room (there is a bonus for clearance). You get an extra life every 2000 points.</desc>
 		<rating>0.8</rating>
@@ -50,7 +50,7 @@
 	</game>
 	<game>
 		<path>./River Raid (1983) (Activision).a52</path>
-		<name>Carol Shaw's River Raid</name>
+		<name>River Raid</name>
 		<sortname />
 		<desc>River Raid is a vertically scrolling action game. You fly a jet up a river in an attempt to destroy bridges which are vital to the enemy. The river is heavily guarded, however, with balloons, ships, choppers, and enemy aircraft trying to stop you. Along the way you will need to fly over fuel stations to refuel your jet and keep flying. The plane is armed with a cannon with unlimited ammo. It can be used to destroy the enemy vehicles and bridges, but a careless player can accidentally destroy a fuel station. Colliding with the riverbanks or with the enemy aircraft destroys your plane and makes you lose a life.</desc>
 		<rating>0.7</rating>
@@ -213,7 +213,7 @@
 	</game>
 	<game>
 		<path>./Miner 2049er Starring Bounty Bob (USA).zip</path>
-		<name>Miner 2049er Starring Bounty Bob</name>
+		<name>Miner 2049er</name>
 		<sortname />
 		<desc>You play the part of Bounty Bob, and it is your mission to explore every inch of an abandoned mine. As you walk over floor sections in the mine, the floor will change color. When all of the floor sections have been changed in color, you can move on to the next, more challenging level. To reach all of the floor sections, you will need to figure out how to get there! You can jump (be careful not to fall too far though, or you will be squished), climb up and down ladders, and use different transportation devices that can be found on the levels (such as an elevator, slides, a springboard, or a canon!) Wandering around the mine are numerous radioactive creatures which get in Bounty Bobs way.</desc>
 		<rating>1</rating>
@@ -407,7 +407,7 @@
 	</game>
 	<game>
 		<path>./Defender (USA).zip</path>
-		<name>Defender*</name>
+		<name>Defender</name>
 		<sortname />
 		<desc>Defender put players in charge of a ship sent to protect mankind from wave after wave of attacking alien forces. Armed with "smart bombs", and the ability to use hyperspace to move quickly around the planet, the player ship must fight against Bombers, Pods, Swarmers, Baiters, and Landers - that can capture the humanoids and transform them into deadly and relentless Mutants. Fail to save the humanoids from freefall or Mutant transformation, and the planet is destroyed. Eugene Jarvis' Defender has been widely regarded as one of the most popular and addictive space shooters of the early 1980's</desc>
 		<rating>0.8</rating>
@@ -421,7 +421,7 @@
 	</game>
 	<game>
 		<path>./Galaxian (USA).zip</path>
-		<name>Galaxian*</name>
+		<name>Galaxian</name>
 		<sortname />
 		<desc>Galaxian is a shoot 'em up in which the player is at the bottom of the screen, with an arrangement of aliens at the top. The player moves left and right to aim at an alien, then shoots a bullet up the screen, and the alien it hits is killed. The aliens are classed as Drones, Emissaries, Hornets and Commanders, with those higher up the screen scoring more points when destroyed. At set intervals an enemy will move down the screen towards you, escorting a bomber, which is a moment of high danger. Clear a wave and another is generated.</desc>
 		<rating>0.8</rating>
@@ -626,6 +626,20 @@
 		<video>./snaps/Zone Ranger (USA).mp4</video>
 	</game>
 	<game>
+		<path>./Beef Drop (AtariMax ROM Edition).rom</path>
+		<name>Beef Drop</name>
+		<sortname />
+		<desc>The object of Beef Drop VE is to score as many points as possible by making hamburgers. To do so, Chef Pete must completely walk over each ingredient (buns, patties, lettuce, and more) in order to drop it to the next level. When all of the ingredients reach the tray at the bottom of the screen, the hamburger is complete! Assemble all four hamburgers to advance to the next round.</desc>
+		<rating>0.75</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Ken Siders</developer>
+		<publisher>AtariAge</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Beef Drop (AtariMax ROM Edition).jpg</image>
+		<video>./snaps/Beef Drop (AtariMax ROM Edition).mp4</video>
+	</game>
+	<game>
 		<path>./Adventure II.bin</path>
 		<name>Adventure II</name>
 		<sortname />
@@ -637,20 +651,5 @@
 		<genre>Action-Adventure</genre>
 		<image>./boxart/Adventure II.jpg</image>
 		<video>./snaps/Adventure II.mp4</video>
-	</game>
-	<game>
-		<path>./Beef Drop (AtariMax ROM Edition).rom</path>
-		<name>Beef Drop</name>
-		<desc>The object of Beef Drop VE is to score as many points as possible by making hamburgers. To do so, Chef Pete must completely walk over each ingredient (buns, patties, lettuce, and more) in order to drop it to the next level. When all of the ingredients reach the tray at the bottom of the screen, the hamburger is complete! Assemble all four hamburgers to advance to the next round.</desc>
-		<image>./boxart/Beef Drop (AtariMax ROM Edition).jpg</image>
-		<video>./snaps/Beef Drop (AtariMax ROM Edition).mp4</video>
-		<rating>0.75</rating>
-		<releasedate>20040101T000000</releasedate>
-		<developer>Ken Siders</developer>
-		<publisher>AtariAge</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T085441</lastplayed>
 	</game>
 </gameList>

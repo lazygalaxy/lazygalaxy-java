@@ -64,7 +64,7 @@
 	</game>
 	<game>
 		<path>./Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible).zip</path>
-		<name>The Legend of Zelda: Link's Awakening DX</name>
+		<name>Legend of Zelda: Link's Awakening DX, The</name>
 		<sortname />
 		<desc>The fourth game in the Zelda series although it does not take place in Hyrule. After being attacked at sea, Link's ship sinks, and he finds himself stranded on Koholint Island. He awakens to see a beautiful woman looking down at him. He soon learns the island has a giant egg on top of a mountain that the Wind Fish inhabits deep inside. Link is told to "awaken the wind fish and all will be answered," so Link sets out on another quest.</desc>
 		<rating>0.95</rating>
@@ -643,19 +643,6 @@
 		<video>./snaps/Tetris Blast (USA, Europe) (SGB Enhanced).mp4</video>
 	</game>
 	<game>
-		<path>./Azure Dreams (USA) (SGB Enhanced) (GB Compatible).zip</path>
-		<name>Azure Dreams</name>
-		<sortname />
-		<desc>The huge Monster Tower stands near the village Monsbaiya. It is populated by vicious monsters, and few dare enter it. But the monsters in the tower lay eggs, and whoever takes possession of such an egg, can tame a monster which will come out of it, and those monsters, called "familiars", will help their tamers in times of danger. Some brave adventurers dared to enter the tower and to take the eggs. One of them was called Guy. He was killed in the monster tower. Now his son Koh is fifteen, and he is allowed to try his luck in the tower.</desc>
-		<rating>0.6</rating>
-		<releasedate>19990805T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Role Playing Games</genre>
-		<image>./boxart/Azure Dreams (USA) (SGB Enhanced) (GB Compatible).jpg</image>
-		<video>./snaps/Azure Dreams (USA) (SGB Enhanced) (GB Compatible).mp4</video>
-	</game>
-	<game>
 		<path>./Megaten Gaiden - Last Bible II (Japan) (SGB Enhanced) (GB Compatible) [T-En by EsperKnight v1.0] [n].zip</path>
 		<name>Megami Tensei Gaiden: Last Bible II</name>
 		<sortname />
@@ -680,5 +667,142 @@
 		<players>1-2</players>
 		<image>./boxart/Tetris DX (World) (SGB Enhanced) (GB Compatible).jpg</image>
 		<video>./snaps/Tetris DX (World) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Killer Instinct (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Killer Instinct</name>
+		<sortname />
+		<desc>In the distant future, a monopolistic and technological corporation called Ultratech organizes a fighting tournament known as "Killer Instinct". Many fighters answer the challenge to participate, including several of Ultratech's experimental warriors. To increase the tournament's challenge, Ultratech utilizes a technology that can create bridges between alternate dimensions, releasing a creature known as Eyedol. Eyedol is a two-headed ancient warrior that was imprisoned along with his bitter rival, Gargos. Some warriors enter the tournament to seek glory or escape. Other fighters are attempting to bring an end to Ultratech's corruption. Killer Instinct is a 2D versus fighting game that features 3D rendered sprite based graphics.</desc>
+		<rating>0.65</rating>
+		<releasedate>19951102T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Killer Instinct (USA, Europe) (SGB Enhanced).jpg</image>
+		<video>./snaps/Killer Instinct (USA, Europe) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Samurai Shodown (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Samurai Shodown</name>
+		<sortname />
+		<desc>In early feudal Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who had possessed and taken over Amakusa's body, as Ambrosia wishes to shroud the world into eternal darkness. Now, the player must select from out of 12 fierce warriors and plus 3 bonus characters in order to fight for the honor of defeating Amakusa once and for all, while fulfilling a specific mission for each and every warrior in the game. The Genesis version of the game does not however include the Earthquake which has been removed due to its 16-bit memory capacity and technical size limitations.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Takara</developer>
+		<publisher>Takara</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Samurai Shodown (USA, Europe) (SGB Enhanced).jpg</image>
+		<video>./snaps/Samurai Shodown (USA, Europe) (SGB Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Disney·Pixar's Toy Story 2</name>
+		<sortname />
+		<desc>As space hero Buzz Lightyear, you've got your hands full. Your best buddy, Woody, has been kidnapped by a greedy toy collector and it's going to be an all-out race against time to save him.</desc>
+		<rating>0.55</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Tiertex</developer>
+		<publisher>THQ</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./International Superstar Soccer 99 (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>International Superstar Soccer 99</name>
+		<sortname />
+		<desc>International Superstar Soccer 99 is a soccer game for the Game Boy Color. You can play a 1 player match, 2 players match or play an international cup. The game doesn't feature an official license so all player names in the game only closely resemble real player names. There are 32 national teams to play with. When you are in the defense you can make a sliding and switch players. While in offense you can make a pass or a shot. While the ball is in the air it is possible to make a header or bicycle kick. The game is displayed from the side of the field, except during penalties, when the camera is aimed directly at the goal.</desc>
+		<rating>0.6</rating>
+		<releasedate>19990624T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/International Superstar Soccer 99 (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/International Superstar Soccer 99 (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Madden NFL 2000 (USA, Europe) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Madden NFL 2000</name>
+		<sortname />
+		<desc>The first entry in the long-running Madden football series on the Game Boy Color is also the first entry in the series on a handheld in three years. The versions on consoles and computers having migrated to 3D graphics, the GBC edition uses traditional sprite-based 2D with a top-down view of the playing field. Game modes include Exhibition matches, Sudden Death games (first team to score wins), Full Seasons and Playoffs. Progress can be saved through use of passwords. Game features include many known from other iterations of the series, such as player injuries and substitutions, audibles, detailed statistics, control of weather and game time, and more.</desc>
+		<rating>0.55</rating>
+		<releasedate />
+		<developer>Tiertex</developer>
+		<publisher>THQ</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Madden NFL 2000 (USA, Europe) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Madden NFL 2000 (USA, Europe) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Robopon - Sun Version (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Robopon: Sun Version</name>
+		<sortname />
+		<desc>Robopon are robotic creatures that inhabit the planet alongside humans. They can be captured and trained to battle other Robopon. You have just inherited Robopon Dispatching Company from your grandfather, but the business is failing. To start earning a profit, you must become the greatest Robopon master in the world. To do this, you must travel the globe, battling other Robopon masters and collecting the 150 species of Robopon. As Robopon battle, they gain experience and evolve into more powerful types. The cartridge also has an infrared sensor that will allow new attributes to be unlocked by shooting remote control beams into it. An internal clock is built in and will notify you of time-sensitive events.</desc>
+		<releasedate />
+		<developer>Will</developer>
+		<publisher>Atlus</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Robopon - Sun Version (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Robopon - Sun Version (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Game &amp; Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Game &amp; Watch Gallery 2</name>
+		<sortname />
+		<desc>Game &amp; Watch Gallery 2 (known as Game Boy Gallery 2 in Japan, and Game Boy Gallery 3 in Australia) is the third of five games in the Game Boy Gallery/Game &amp; Watch Gallery series. It was released for the Game Boy in 1997 in Japan and 1998 in the US, and later for the Game Boy Color in 1998 in the US, Europe, and Australia. It features many games from the Game &amp; Watch series, and has both the classic version, and brand new Mario remakes, featuring characters, items, levels and more from the Mario video game series.</desc>
+		<rating>0.65</rating>
+		<releasedate>20000201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Game &amp; Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Game &amp; Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Game &amp; Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Game &amp; Watch Gallery 3</name>
+		<sortname />
+		<desc>The third in a series of re-creations of classic Nintendo Game &amp; Watch games. Both original and modern (featuring Mario and the Nintendo gang) versions of the following games are available to choose from: Turtle Bridge: Pass on items over a bridge while not falling over. Egg: Catch falling eggs and cook them just right while not dropping them or over cooking. Green House: Protect your plants from hungry bugs. Mario Brothers: Help Mario and Luigi pass items over conveyor belts while dodging Bowsers attacks. Donkey Junior: As Donkey Kong Jr. you must collect the keys while evading enemies to save Donkey Kong.</desc>
+		<rating>0.7</rating>
+		<releasedate>19991206T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Game &amp; Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Game &amp; Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Azure Dreams (USA) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Azure Dreams</name>
+		<sortname />
+		<desc>The huge Monster Tower stands near the village Monsbaiya. It is populated by vicious monsters, and few dare enter it. But the monsters in the tower lay eggs, and whoever takes possession of such an egg, can tame a monster which will come out of it, and those monsters, called "familiars", will help their tamers in times of danger. Some brave adventurers dared to enter the tower and to take the eggs. One of them was called Guy. He was killed in the monster tower. Now his son Koh is fifteen, and he is allowed to try his luck in the tower.</desc>
+		<rating>0.6</rating>
+		<releasedate>19990805T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Azure Dreams (USA) (SGB Enhanced) (GB Compatible).jpg</image>
+		<video>./snaps/Azure Dreams (USA) (SGB Enhanced) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Game &amp; Watch Gallery (USA) (Rev 1) (SGB Enhanced).zip</path>
+		<name>Game &amp; Watch Gallery</name>
+		<sortname />
+		<desc>The Game &amp; Watch Gallery is Nintendo's first portable compilation featuring their popular line of original 1980's handheld games, featuring the popular "Mr. Game &amp; Watch" himself, as well as Mario and friends.</desc>
+		<rating>0.65</rating>
+		<releasedate>19970201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Game &amp; Watch Gallery (USA) (Rev 1) (SGB Enhanced).jpg</image>
+		<video>./snaps/Game &amp; Watch Gallery (USA) (Rev 1) (SGB Enhanced).mp4</video>
 	</game>
 </gameList>

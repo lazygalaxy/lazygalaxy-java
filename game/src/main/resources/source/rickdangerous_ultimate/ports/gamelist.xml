@@ -1,22 +1,36 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Quake.sh</path>
-		<name>Quake</name>
+		<path>./Cave Story.sh</path>
+		<name>Cave Story</name>
 		<sortname />
-		<desc>In Quake, the player takes the role of the protagonist known as Ranger who was sent into a portal in order to stop an enemy code-named "Quake". The government had been experimenting with teleportation technology and developed a working prototype called a "Slipgate"; the mysterious Quake compromised the Slipgate by connecting it with its own teleportation system, using it to send death squads to the "Human" dimension in order to test the martial capabilities of humanity.</desc>
-		<rating>0</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>id Software</developer>
-		<publisher>id Software, Inc.</publisher>
+		<desc>The fast-paced gameplay of Cave Story revolves around Quote, a robot who wakes up suffering amnesia and who must explore and blast his way through cavernous areas in order to figure out his backstory and escape from the cave.</desc>
+		<rating>0.85</rating>
+		<releasedate>20041220T000000</releasedate>
+		<developer>Studio Pixel</developer>
+		<publisher>Studio Pixel</publisher>
 		<genre>Action</genre>
 		<players>1</players>
-		<image>./boxart/Quake.jpg</image>
-		<video>./snaps/Quake.mp4</video>
+		<image>./boxart/Cave Story.jpg</image>
+		<video>./snaps/Cave Story.mp4</video>
+	</game>
+	<game>
+		<path>./Mr.Boom.sh</path>
+		<name>Mr. Boom</name>
+		<sortname />
+		<desc>Mr.Boom supports up to 8 players and features like netplay, AI bots (new C++ feature), pushing bombs, remote controls and kangaroo riding.</desc>
+		<rating>0.85</rating>
+		<releasedate>19990430T000000</releasedate>
+		<developer>Remdy Software</developer>
+		<publisher>Remdy Software</publisher>
+		<genre>Action</genre>
+		<players>1-8</players>
+		<image>./boxart/Mr.Boom.jpg</image>
+		<video>./snaps/Mr.Boom.mp4</video>
 	</game>
 	<game>
 		<path>./Prince of Persia.sh</path>
-		<name>Prince Of Persia</name>
+		<name>Prince of Persia</name>
 		<sortname />
 		<desc>Prince of Persia was originally released in 1989 for the Apple II by Jordan Mechner. Mechner used film of his younger brother David running, jumping, and performing many of the Prince's actions. Mechner then rotoscoped the film to create the animations that give the Prince his fluid movement.</desc>
 		<rating>0.6</rating>
@@ -29,22 +43,23 @@
 		<video>./snaps/Prince of Persia.mp4</video>
 	</game>
 	<game>
-		<path>./XRick.sh</path>
-		<name>XRick</name>
+		<path>./Quake II.sh</path>
+		<name>Quake II</name>
 		<sortname />
-		<desc>Way before Lara Croft, back in the 1980's and early 1990's, Rick Dangerous was the Indiana Jones of computer games, running away from rolling rocks, avoiding traps, from South America to a futuristic missile base via Egypt and the Schwarzendumpf castle. XRrick is an exact clone of Rick Dangerous, produced by carefully cracking and reverse-engineering the orignal IBM PC (x86 CPU) and Atari ST (68k CPU) versions of the game, and then porting to C.</desc>
-		<developer>Core Design, Stéphane Gay </developer>
-		<publisher>Rainbird Software</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<image>./boxart/XRick.jpg</image>
-		<video>./snaps/XRick.mp4</video>
+		<desc>A sequel in name only, this follow up to id's 1996 Quake, is a first-person shooter revolving around the Earth-Strogg war. The Strogg alien race threatens the Earth, but Earth has launched a counter-offensive, Operation Alien Overlord. Overlord takes the battle to the Strogg homeworld with the ultimate objective of securing their capital city and killing their ruler.</desc>
+		<releasedate>19971201T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1-8</players>
+		<image>./boxart/Quake II.jpg</image>
+		<video>./snaps/Quake II.mp4</video>
 	</game>
 	<game>
 		<path>./Ultimate Doom.sh</path>
-		<name>Ultimate Doom</name>
+		<name>Ultimate Doom, The</name>
 		<sortname />
-		<desc>Ultimate Doom takes you far beyond the realms of your experience. All three original episodes of the greatest, splattertastic, adrenaline pumping game ever made are here that's 27 levels of doomogerous gameplay to challenge even the most hardened gamer. But that's just for starters then, but only if you're tough enough, you can pick up the gauntlet of an all-new episode.</desc>
+		<desc>The Ultimate Doom takes you far beyond the realms of your experience. All three original episodes of the greatest, splattertastic, adrenaline pumping game ever made are here that's 27 levels of doomogerous gameplay to challenge even the most hardened gamer. But that's just for starters then, but only if you're tough enough, you can pick up the gauntlet of an all-new episode.</desc>
 		<rating>0.85</rating>
 		<releasedate>19950430T000000</releasedate>
 		<developer>id Software</developer>
@@ -55,32 +70,99 @@
 		<video>./snaps/Ultimate Doom.mp4</video>
 	</game>
 	<game>
-		<path>./Cave Story.sh</path>
-		<name>Cave Story</name>
-		<desc>The fast-paced gameplay of Cave Story revolves around Quote, a robot who wakes up suffering amnesia and who must explore and blast his way through cavernous areas in order to figure out his backstory and escape from the cave.</desc>
-		<image>./boxart/Cave Story.jpg</image>
-		<video>./snaps/Cave Story.mp4</video>
-		<rating>0.85</rating>
-		<releasedate>20041220T000000</releasedate>
-		<developer>Studio Pixel</developer>
-		<publisher>Studio Pixel</publisher>
+		<path>./Return to Castle Wolfenstein MP.sh</path>
+		<name>Return to Castle Wolfenstein: Multiplayer</name>
+		<sortname />
+		<desc>Two secret agents are captured while they are investigating Nazi Germany's occult activities in Castle Wolfenstein. Agent One is subsequently tortured to death by his interrogator, but B.J. Blazkowicz manages to escape his cell by killing the guard.</desc>
+		<rating>0</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Gray Matter Interactive</developer>
+		<publisher>Activision</publisher>
 		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220226T182007</lastplayed>
+		<players>1</players>
+		<image>./boxart/Return to Castle Wolfenstein MP.jpg</image>
+		<video>./snaps/Return to Castle Wolfenstein MP.mp4</video>
 	</game>
 	<game>
-		<path>./Mr.Boom.sh</path>
-		<name>Mr.Boom</name>
-		<desc>Mr.Boom supports up to 8 players and features like netplay, AI bots (new C++ feature), pushing bombs, remote controls and kangaroo riding.</desc>
-		<image>./boxart/Mr.Boom.jpg</image>
-		<video>./snaps/Mr.Boom.mp4</video>
-		<rating>0.85</rating>
-		<releasedate>19990430T000000</releasedate>
-		<developer>Remdy Software</developer>
-		<publisher>Remdy Software</publisher>
+		<path>./Half-Life.sh</path>
+		<name>Half-Life</name>
+		<sortname />
+		<desc>Black Mesa Research Facility is an ultra-secret laboratory under government contract, conducting top-secret and extremely volatile experiments. The scientist Gordon Freeman a Black Mesa employee. This morning, as usual, he pits his way to the research facility for a run-of-the-mill experiment. However, when the experiment initiates, Gordon realizes that it might not be as ordinary as he thought. Odd things begin to happen as he makes his way to one of the Black Mesa test chambers. Even weirder things happen when he starts to move the test sample towards the antimass-spectrometer.</desc>
+		<rating>0</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Valve L.L.C.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
 		<genre>Action</genre>
-		<players>1-8</players>
-		<playcount>1</playcount>
-		<lastplayed>20220226T182109</lastplayed>
+		<players>1</players>
+		<image>./boxart/Half-Life.jpg</image>
+		<video>./snaps/Half-Life.mp4</video>
+	</game>
+	<game>
+		<path>./XRick.sh</path>
+		<name>Rick Dangerous</name>
+		<sortname />
+		<desc>Way before Lara Croft, back in the 1980's and early 1990's, Rick Dangerous was the Indiana Jones of computer games, running away from rolling rocks, avoiding traps, from South America to a futuristic missile base via Egypt and the Schwarzendumpf castle. XRrick is an exact clone of Rick Dangerous, produced by carefully cracking and reverse-engineering the orignal IBM PC (x86 CPU) and Atari ST (68k CPU) versions of the game, and then porting to C.</desc>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Core Design, Stéphane Gay </developer>
+		<publisher>Rainbird Software</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/XRick.jpg</image>
+		<video>./snaps/XRick.mp4</video>
+	</game>
+	<game>
+		<path>./Quake III Arena.sh</path>
+		<name>Quake III Arena</name>
+		<sortname />
+		<desc>The third game in the Quake series is a departure from the previous games, focusing exclusively on multiplayer arena fighting with no story-driven singleplayer part - directly competing with Epic Games that did the same with the contemporary Unreal Tournament.</desc>
+		<rating>0</rating>
+		<releasedate>19990101T010000</releasedate>
+		<developer>id Software, Inc</developer>
+		<publisher>Activision, Inc.</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Quake III Arena.jpg</image>
+		<video>./snaps/Quake III Arena.mp4</video>
+	</game>
+	<game>
+		<path>./Cannonball - OutRun Engine.sh</path>
+		<name>OutRun: Cannonball</name>
+		<sortname />
+		<desc>Out Run is a ground-breaking racing game in which the player drives a red Ferrari Testarossa through a number of colourful European locations, trying to reach each end-of-level checkpoint before the tight time limit expires.</desc>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Cannonball - OutRun Engine.jpg</image>
+		<video>./snaps/Cannonball - OutRun Engine.mp4</video>
+	</game>
+	<game>
+		<path>./Quake.sh</path>
+		<name>Quake</name>
+		<desc>In Quake, the player takes the role of the protagonist known as Ranger who was sent into a portal in order to stop an enemy code-named "Quake". The government had been experimenting with teleportation technology and developed a working prototype called a "Slipgate"; the mysterious Quake compromised the Slipgate by connecting it with its own teleportation system, using it to send death squads to the "Human" dimension in order to test the martial capabilities of humanity.</desc>
+		<image>./boxart/Quake.jpg</image>
+		<video>./snaps/Quake.mp4</video>
+		<rating>0</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>id Software, Inc.</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Return to Castle Wolfenstein SP.sh</path>
+		<name>Return to Castle Wolfenstein</name>
+		<desc>The game is played from the first-person perspective, where the player's task is to perform retrieval missions, sabotage or assassinations. Players can be armed with typical WW2 weaponry and can even use fictional weapons such as a German-made minigun or a Tesla gun. Players can also use stealth to eliminate enemies, with some missions strictly requiring for stealth to be used. Enemies vary from standard soldiers to undead and experimental creatures. Health is replenished by collecting health packs and food. Armor also can be collected for additional protection.</desc>
+		<image>./boxart/Return to Castle Wolfenstein SP.jpg</image>
+		<video>./snaps/Return to Castle Wolfenstein SP.mp4</video>
+		<rating>0</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Gray Matter Interactive</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
 	</game>
 </gameList>

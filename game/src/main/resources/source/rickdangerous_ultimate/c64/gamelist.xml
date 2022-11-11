@@ -265,7 +265,7 @@
 	</game>
 	<game>
 		<path>./Eidolon.crt</path>
-		<name>The Eidolon</name>
+		<name>Eidolon, The</name>
 		<sortname />
 		<desc>The player discovers the Eidolon, a strange 19th-century vehicle in an abandoned laboratory. As the player investigates this device, he is accidentally transported to another dimension and is trapped in a vast, maze-like cave. The creatures in this cave, sensing the energy emanating from the Eidolon, are awakened from a long slumber, and the player soon finds that his only chance of survival lies in this mysterious vehicle and its powerful energy weapon.</desc>
 		<rating>0</rating>
@@ -427,7 +427,7 @@
 	</game>
 	<game>
 		<path>./Great Giana Sisters, The (C64GS).crt</path>
-		<name>The Great Giana Sisters</name>
+		<name>Great Giana Sisters, The</name>
 		<sortname />
 		<desc>The Great Giana Sisters is a 2D side-scrolling arcade game like Nintendo's Super Mario Bros. After a long and deep sleep, Giana finds herself in a mysterious and evil dreamworld where everything is strange and different. In 32 levels, Giana has to fight against bad monsters, huge spiders and lots of other creatures to find a magic diamond that makes it possible to return to her own world.</desc>
 		<rating>0.75</rating>
@@ -576,7 +576,7 @@
 	</game>
 	<game>
 		<path>./Castles of Doctor Creep.d64</path>
-		<name>The Castles of Doctor Creep</name>
+		<name>Castles of Doctor Creep, The</name>
 		<sortname />
 		<desc>It takes place in thirteen medieval castles owned by the eponymous doctor, and the player's task is to escape from each castle.</desc>
 		<rating>0</rating>
@@ -589,7 +589,7 @@
 	</game>
 	<game>
 		<path>./Staff of Karnath, The.crt</path>
-		<name>The Staff of Karnath</name>
+		<name>Staff of Karnath, The</name>
 		<sortname />
 		<desc>Sir Pendragon is tasked with searching a castle for the ancient Staff of Karnath, which he must destroy prior to midnight.</desc>
 		<rating>0</rating>
@@ -940,7 +940,7 @@
 	</game>
 	<game>
 		<path>./Evil Dead, The (Europe).T64</path>
-		<name>The Evil Dead</name>
+		<name>Evil Dead, The</name>
 		<sortname />
 		<desc>The game is set in the cabin from the Evil Dead film. The player controls Ash, and must close cabin windows to prevent monsters from entering, while also killing monsters that are already in the cabin.</desc>
 		<releasedate>19840101T000000</releasedate>
@@ -966,7 +966,7 @@
 	</game>
 	<game>
 		<path>./Kikstart II.crt</path>
-		<name>Kikstart 2</name>
+		<name>Kikstart 2 + Course Designer</name>
 		<sortname />
 		<desc>Based around the Kikstart TV show, the game allows you to recreate all those death-defying stunts in the comparative safety of your home. Viewed from the side, there are many hazards to avoid along the way. Some of these include steps to jump over, tyres and hedges to plough through at maximum speed, and mud which will slow you down.</desc>
 		<rating>0.65</rating>
@@ -1035,7 +1035,7 @@
 	</game>
 	<game>
 		<path>./BLUESBRO.D64</path>
-		<name>The Blues Brothers</name>
+		<name>Blues Brothers, The</name>
 		<sortname />
 		<desc>The Blues Brothers is a platform game based on the band The Blues Brothers, where the object is to evade police and get to a blues concert.</desc>
 		<rating>0</rating>
@@ -1049,7 +1049,7 @@
 	</game>
 	<game>
 		<path>./COLOUROF.T64</path>
-		<name>The Colour of Magic</name>
+		<name>Colour of Magic, The</name>
 		<sortname />
 		<desc>The Colour of Magic is a text adventure game developed by Delta 4 and published by Piranha Games, released in 1986.</desc>
 		<rating>0</rating>
@@ -1063,7 +1063,7 @@
 	</game>
 	<game>
 		<path>./The Last Ninja Quadrilogy.crt</path>
-		<name>The Last Ninja Quadrilogy</name>
+		<name>Last Ninja Quadrilogy, The</name>
 		<sortname />
 		<desc>Last Ninja 1,2,3 &amp; Remix. The Last Ninja contains a blend of exploration, puzzle solving and combat.</desc>
 		<rating>0</rating>
@@ -1426,7 +1426,7 @@
 	</game>
 	<game>
 		<path>./Ivan 'Ironman' Stewart's Super Off-Road.crt</path>
-		<name>Ivan 'Ironman' Stewart's Super Off Road</name>
+		<name>Super Off Road</name>
 		<sortname />
 		<desc>Enter the world of off-road racing as 4 vehicles will face each other, on a series of tracks which are based around flipped and reversed versions of a core selection. Fame, glory and bikini clad women await your victories and the taste of dirt awaits if you fail. Let a computer car beat you and you lose one of your 3 credits.</desc>
 		<releasedate>19900101T000000</releasedate>
@@ -1622,7 +1622,7 @@
 	</game>
 	<game>
 		<path>./Livingstone I Presume.crt</path>
-		<name>Livingstone, I Presume?</name>
+		<name>Livingstone, I Presume.?</name>
 		<sortname />
 		<desc>Livingstone, I Presume? is a video adventure technologically almost identical to Goody, however this game has a more complex map and an obligation to alternate among three weapons and a pole that the player has from the beginning of the game. The name of the game indicates a tour around each of the searches of David Livingstone that carry out the journalist Henry Morton Stanley in Africa in the 19th century. There the resemblance to reality ends and turns into a platform game.</desc>
 		<releasedate>19870101T000000</releasedate>
@@ -1710,7 +1710,7 @@
 	</game>
 	<game>
 		<path>./Magicland Dizzy.crt</path>
-		<name>Magicland Dizzy</name>
+		<name>Dizzy: Magicland Dizzy</name>
 		<sortname />
 		<desc>Dizzy, the egg protagonist, is back in his fourth installment: Magicland Dizzy. The land has been corrupted by an evil wizard, and it's Dizzy's job to set everything right. To do this, he must walk, jump and flip through a large number of screens, pick up and use various items, and talk to people.</desc>
 		<rating>0.8</rating>
@@ -1826,7 +1826,7 @@
 	</game>
 	<game>
 		<path>./Metro-Cross.crt</path>
-		<name>MetroCross</name>
+		<name>Metro-Cross</name>
 		<sortname />
 		<desc>Simple side-scrolling game, where you play a skater who has to pass a set of obstacles in order to reach the end of the level. You can skate up or down in the screen, or even jump, to be safe from the pipes you encounter on the way. As the game progresses, obstacles are more frequent and more challenging, but the essence is the same. Timing is everything in this game.</desc>
 		<rating>0.8</rating>
@@ -1867,7 +1867,7 @@
 	</game>
 	<game>
 		<path>./Mission AD.crt</path>
-		<name>Mission AD</name>
+		<name>Mission A.D.</name>
 		<sortname />
 		<desc>Earth is in trouble once again after minor attacks against our planet and scientists have predicted that there will be one final big attack that will totally destroy us. The scientists have devised a plan called Mission A.D. which will see all countries join their defence systems and give financial aid to the plan. All countries agreed apart from one, Silesia, which sees it's Head of State General Offisrokka condemn the plan as he feels it's a capitalist plan to take over his country. Assassins hired by the General have now been dispatched to the bunker where the plans are being devised and drawn up to kill the scientists.</desc>
 		<releasedate>19860101T000000</releasedate>
@@ -1905,7 +1905,7 @@
 	</game>
 	<game>
 		<path>./Monty Mole.crt</path>
-		<name>Monty Mole</name>
+		<name>Wanted! Monty Mole</name>
 		<sortname />
 		<desc>The player controls Monty Mole, who must go underground to steal several pieces of coal and eventually take control of coal production. This task is difficult because Monty must survive the dangers that lurk underground, including acid pools, crushers, and other dangerous obstacles.</desc>
 		<releasedate>19840101T000000</releasedate>
@@ -2123,7 +2123,7 @@
 	</game>
 	<game>
 		<path>./Legacy of the Ancients &amp; Legend of Blacksilver [EasyFlash].crt</path>
-		<name>Legacy Of The Ancients &amp; Legend of Blacksilver</name>
+		<name>Legacy of the Ancients &amp; Legend of Blacksilver</name>
 		<sortname />
 		<desc>The player takes on the role of a young shepherd who finds and loots a recently dead body while on a first trip to the city, taking a black disk, a bracelet and a leather scroll. The Galactic Museum mysteriously appears to the player after collecting these items. The player learns that by taking these items, he has become the next in a line of adventurers attempting to destroy the Wizard's Compendium, the leather scroll the player picked up. The museum has various display cases that require the insertion of special coins of various types to access.</desc>
 		<releasedate />
@@ -2287,7 +2287,7 @@
 	</game>
 	<game>
 		<path>./Phantom of the Asteroid.crt</path>
-		<name>Phantom of the Asteroid</name>
+		<name>Phantom of the Asteroids</name>
 		<sortname />
 		<desc>A giant asteroid is heading toward Earth, and the only way to destroy it is to find 36 uranium cubes and gather them in one place. You are equipped with a jet-pack which you use to navigate the asteroid, but it has a limited amount of fuel, and when it is running low, you need to refill at the fuel depots scattered around the asteroid. Your oxygen also depletes, but you can restock on this as well.</desc>
 		<releasedate>19850101T000000</releasedate>
@@ -2311,7 +2311,7 @@
 	</game>
 	<game>
 		<path>./Ping-Pong.crt</path>
-		<name>Ping-Pong</name>
+		<name>Ping Pong</name>
 		<sortname />
 		<desc>From Konami's coin-op, Ping Pong recreates the fast-paced sport of table tennis. To win each match you must get to 10 points with a 2 point lead - if the scores reach 10-9 the game goes on until someone has a 2 point lead or reaches 15, in a similar manner to tennis. There are nine skill levels to beat, with increasing abilities as the game goes on. The human player has the advantage of serving first, and as the serve reverses every five points, you are guaranteed to have more chances to serve than your opponent (remember the significance of 10 and 15 in the scoring).</desc>
 		<rating>0.8</rating>
@@ -2426,7 +2426,7 @@
 	</game>
 	<game>
 		<path>./Powerplay Hockey.crt</path>
-		<name>Power-Play Hockey</name>
+		<name>Powerplay Hockey: USA vs. USSR</name>
 		<sortname />
 		<desc>Powerplay Hockey is a ice hockey game concentrating on the game between the USA and the USSR. Before starting the game you are to choose the number of players (on-on-one or five-on-five) and length of match (two, tvelwe or twenty minutes per period). When in the game try wrist shots, slap shots, faceoff, drop passing, and body checking. Roughing and crosscheking will give you a penalty</desc>
 		<releasedate>19870101T000000</releasedate>
@@ -2567,7 +2567,7 @@
 	</game>
 	<game>
 		<path>./Ranarama.crt</path>
-		<name>Ranarama</name>
+		<name>Rana Rama</name>
 		<sortname />
 		<desc>The purpose of apprentice courses is for young people to learn a trade gradually, without putting yourself or your employers at risk. Unfortunately, nobody explained this to Wizard’s apprentice Mervyn, before he tried to cast a spell to make him irresistible to females, as the spell misfired, and made him attractive only to female frogs. However, his dungeon was soon invaded, and Mervyn was not killed, as he appeared to be a humble frog.</desc>
 		<releasedate>19870101T000000</releasedate>
@@ -2647,7 +2647,7 @@
 	<game>
 		<path>./Return of the Mutant Camels.crt</path>
 		<name>Return of the Mutant Camels</name>
-		<sortname />
+		<sortname>Revenge 3</sortname>
 		<desc>Jeff Minter's third camel-themed game (after Attack and Revenge) is again a horizontally scrolling shoot 'em up, taking place over 100 levels. 6,000 years ago, mankind fought the forces of Zzyax, using mutated forms of common animals. Now, the Zzyaxians are back, and the 90-foot camels must defend a planet no longer accustomed to warfare.</desc>
 		<releasedate>19870101T000000</releasedate>
 		<publisher>Llamasoft</publisher>
@@ -2658,8 +2658,8 @@
 	</game>
 	<game>
 		<path>./Revenge of the Mutant Camels.crt</path>
-		<name>Revenge of the Mutant Camels</name>
-		<sortname />
+		<name>Revenge II: Retrun of the Mutant Camels</name>
+		<sortname>Revenge 2</sortname>
 		<desc>A sequel of sorts to Attack of the Mutant Camels, this time the player controls a camel. The camel is armed by default with small blue shots, but can obtain other weapons and weapon upgrades by collecting power-ups during the game. The game features a host of bizarre enemies, including: British telephone boxes, Polo mints, exploding sheep, skiing kangaroos, guys sitting on flying toilets and even the jet plane controlled by the player in Attack of the Mutant Camels and a wave of Jeff Minters.</desc>
 		<releasedate>19840101T000000</releasedate>
 		<developer>Jeff Minter</developer>
@@ -2671,7 +2671,7 @@
 	</game>
 	<game>
 		<path>./RISK (The Edge).crt</path>
-		<name>RISK</name>
+		<name>R.I.S.K.</name>
 		<sortname />
 		<desc>This 2D, horizontal and bi-directional shoot'em up was first published in 1987 by The Edge under the name RISK. Due to legal conflicts with Parker Brothers and their board game that is also called Risk the game was forced to change name. It was then re-released as KRIS by Micro Selection, another division of Softek International alongside The Edge.</desc>
 		<releasedate>19880101T000000</releasedate>
@@ -2697,7 +2697,7 @@
 	</game>
 	<game>
 		<path>./Robotron - 2084.crt</path>
-		<name>Robotron 2084</name>
+		<name>Robotron: 2084</name>
 		<sortname />
 		<desc>You are a mutant human, who by some freak of nature has the ability to shoot energy pulses from his body in eight different directions! Your job is simple: save humanity from their own creation -- the ROBOTRONS! The gameplay is pretty unique for the time. You can move and fire in any of eight directions. You get thrown in a room with various evil baddies strewn about, you've got to kill all the robots while at the same time finding some way to grab humans and avoid death.</desc>
 		<releasedate>19830101T000000</releasedate>
@@ -2826,7 +2826,7 @@
 	</game>
 	<game>
 		<path>./Satan's Hollow.crt</path>
-		<name>Satans Hollow</name>
+		<name>Satan's Hollow</name>
 		<sortname />
 		<desc>The player must shoot flying formations of gargoyles in order to pick up pieces of a bridge that must be built over a river of lava. Once the bridge is completed, the player can cross it to face Satan. Destroying him scores bonus points based on the number of waves completed to that point, and also upgrades the rocket launcher.</desc>
 		<releasedate>19840101T000000</releasedate>
@@ -2851,7 +2851,7 @@
 	</game>
 	<game>
 		<path>./Scooby &amp; Scrappy Doo [EasyFlash].crt</path>
-		<name>Scooby &amp; Scrappy Doo</name>
+		<name>Scooby-Doo and Scrappy-Doo</name>
 		<sortname />
 		<desc>This licensed platform games sets you as Scrappy Doo, with the aim of trekking through four levels to rescue Scooby and Shaggy. As his name suggests, Scrappy is adept at using his fists to vanquish many of these foes. The layout of the castle and the route to it features lots of ladders, ledges and gaps to negotiate. Bonus lives (via Scooby Snacks), invincibility periods and extra points (burgers) are on offer throughout the game. Many of these are in precariously-placed areas that require precise timing and considerable risk to reach.</desc>
 		<releasedate />
@@ -2954,7 +2954,7 @@
 	</game>
 	<game>
 		<path>./Simpsons Arcade Game [EasyFlash].crt</path>
-		<name>Simpsons: Arcade Game</name>
+		<name>Simpsons: Arcade Game, The</name>
 		<sortname />
 		<desc>Waylon Smithers has just stolen a diamond from Springfield Jewelers for Mr. Burns. While trying to make a getaway, he crashes into Homer, which knocks the diamond out of his hand. Maggie catches it in her mouth, prompting Smithers to grab her and run off. The Simpsons decide to go after him, but Mr. Burns has tons of henchmen, who want to prevent the family getting their daughter back.</desc>
 		<releasedate />
@@ -3205,7 +3205,7 @@
 	</game>
 	<game>
 		<path>./Spikey in Transylvania.crt</path>
-		<name>Spikey in Transylvania</name>
+		<name>Spike in Transilvania</name>
 		<sortname />
 		<desc>After a rough crossing of the North Sea, Spike the Viking is washed ashore. He ends up in Transilvania, which seems to be just an ordinary village. However, he finds out that his shipmates have been captured, and are being imprisoned in the dungeons of the local castle. Spike must rescue his friends from the mysterious castle, but first he has to escape from the (apparently friendly) villager's house where he finds himself, as the door won't open.</desc>
 		<releasedate>19910101T000000</releasedate>
@@ -3512,7 +3512,7 @@
 	</game>
 	<game>
 		<path>./Superstar Ping-Pong.crt</path>
-		<name>Superstar Ping-Pong</name>
+		<name>Superstar Ping Pong</name>
 		<sortname />
 		<desc>This is a table-tennis game where one player can play against the computer or two players play against each other. It looks similar to Imagine's Ping Pong but offers more gameplay options.</desc>
 		<releasedate>19870101T000000</releasedate>
@@ -3538,7 +3538,7 @@
 	</game>
 	<game>
 		<path>./Prince Clumsy.crt</path>
-		<name>Sword and the Rose, The</name>
+		<name>Prince Clumsy</name>
 		<sortname />
 		<desc>Like so many brave men before him, Prince Clumsy has been lured into a tough adventure to save the woman of his dreams. The route to the castle in which her ugly sister has imprisoned her is treacherous and goes both indoors and out. You're armed with a dagger to face the many henchmen infesting the areas. Bread and ale can be collected to restore your health, and there are lots of points bonuses on offer. Less pleasant are the super glue, ball &amp; chain (ironic given that he's chasing a potential wife) and poison.</desc>
 		<releasedate>19910101T000000</releasedate>
@@ -3579,7 +3579,7 @@
 	</game>
 	<game>
 		<path>./Tau Ceti.crt</path>
-		<name>Tau Ceti</name>
+		<name>Tau Ceti: The Lost Star Colony</name>
 		<sortname />
 		<desc>A space simulation with elements from a number of other genres mixed in. Your mission is to destroy a robot army that has taken over a planet. Gameplay includes arcade sequences, where you fly your ship around and shoot the enemy robots; strategy elements, as you attempt to navigate and locate parts to repair the defense system; and even text-adventure elements, in the form of giving commands to your ship's computer.</desc>
 		<releasedate>19860101T000000</releasedate>
@@ -3592,7 +3592,7 @@
 	</game>
 	<game>
 		<path>./Terminator 2.crt</path>
-		<name>Terminator 2</name>
+		<name>Terminator 2: Judgment Day</name>
 		<sortname />
 		<desc>The game consists of several actions parts linked together. All parts are different, each resembling typical games of the genre (for example: 1st level is like a side-view beat 'em up). Between each level a small cutscene from the movie is shown.</desc>
 		<releasedate />
@@ -3641,7 +3641,7 @@
 	</game>
 	<game>
 		<path>./The Magic Candle [EasyFlash].crt</path>
-		<name>The Magic Candle</name>
+		<name>Magic Candle, The</name>
 		<sortname />
 		<desc>The Magic Candle is best described as an Ultima clone. Its a top-down party-driven RPG. The plot revolves around you (Lukas) and your party of intrepid adventurers, whose task it is to seal the demon Dreax within the Magic Candle (which is burning down, and when it does, he gets released).</desc>
 		<releasedate />
@@ -3654,7 +3654,7 @@
 	</game>
 	<game>
 		<path>./The Newzealand Story [EasyFlash].crt</path>
-		<name>The Newzealand Story</name>
+		<name>Newzeland Story, The</name>
 		<sortname />
 		<desc>One day, a kiwi tribe was having fun and games outside the zoo, only to be kidnapped by the evil-minded Leopard Seal, who plans to sell them at the black market. Fortunately, during the kidnapping process, Tiki, leader of the tribe, managed to escape the sack, and her job is to rescue Phee-Phee and the other kiwis scattered around New Zealand, and are held in cages in various locations that include Auckland, Rotorua, Waitomo Caves, Strait Cook, and Mt. Cook.</desc>
 		<releasedate />
@@ -3682,7 +3682,7 @@
 	<game>
 		<path>./Thing Bounces Back.crt</path>
 		<name>Thing Bounces Back</name>
-		<sortname />
+		<sortname>Thing on a Spring 2</sortname>
 		<desc>The star of Thing on a Spring returns in this sequel. The evil Toy Goblin is up to his old tricks, with his giant toy factory producing thousands of evil toys. In order to shut down the factory, Thing must travel through the factory's 11 different levels and collect the tape, floppy disk, listing paper and ROM chip scattered throughout.</desc>
 		<releasedate>19880101T000000</releasedate>
 		<publisher>Gremlin Graphics Software</publisher>
@@ -4218,7 +4218,7 @@
 	</game>
 	<game>
 		<path>./Thunderblade [EasyFlash].crt</path>
-		<name>Thunderblade</name>
+		<name>Thunder Blade</name>
 		<sortname />
 		<desc>The player controls a helicopter using guns and missiles to destroy enemy tanks, helicopters, etc, to save his home country. Levels are in both a top-down or third-person perspective view. The boss levels are in the top-down view.</desc>
 		<releasedate>19880101T000000</releasedate>
@@ -4293,7 +4293,7 @@
 	</game>
 	<game>
 		<path>./Clean Up Time.crt</path>
-		<name>Clean Up Time</name>
+		<name>Clean-Up Time</name>
 		<sortname />
 		<desc>Otto and Bobban, two cowboy cleaners have been hired by a new hotel to clean it before the staff and the first guests arrive. Vandals had broken in and littered the place with paper and it's up to our two heroes to clean the mess up. The game is a platform game with each of the eight levels shown on the screen as you attempt to clean each floor of the levels. Each floor is connected by stairs with various creatures moving about either by the stairs or poles on the edge of the screen. The creatures can either be shot or avoided as touching them loses one of three lives. A smart bomb can also be used but these are limited to three a level.</desc>
 		<releasedate>19860101T000000</releasedate>
@@ -4356,7 +4356,7 @@
 	<game>
 		<path>./mule.crt</path>
 		<name>M.U.L.E.</name>
-		<sortname />
+		<sortname>MULE</sortname>
 		<desc>M.U.L.E. is about four hopeful explorers trying to make a fortune on a virgin planet. This is done by producing various goods (Food, Energy, Smithore, Crystite). Each of these goods have their uses: if you don't have enough food, you will have less time during your turn. If you don't have enough energy, your output will be lower. If enough smithore isn't produced, there will be a shortage of M.U.L.E.s. Crystite is the big earner that can make or break your game.</desc>
 		<rating>0</rating>
 		<releasedate>19830101T000000</releasedate>
@@ -4396,7 +4396,7 @@
 	<game>
 		<path>./NOMAD.crt</path>
 		<name>N.O.M.A.D.</name>
-		<sortname />
+		<sortname>NOMAD</sortname>
 		<desc>In N.O.M.A.D., players take control of the Mobile Attack Droid 471 as it ventures through the city, in this top-view shooter. Players begin with four lives. The Droid moves with considerable inertia (although some rooms disable this), and control involves using left and right to rotate it, pushing forward to provide thrust in the direction it is facing, and pushing backwards to reverse.</desc>
 		<releasedate>19860101T000000</releasedate>
 		<developer>Ocean</developer>
@@ -4453,7 +4453,7 @@
 	</game>
 	<game>
 		<path>./Test Drive Compilation [EasyFlash].crt</path>
-		<name>Test Drive 1&amp;2</name>
+		<name>Test Drive 1 &amp; 2</name>
 		<sortname />
 		<desc>Includes Test Drive 1 &amp; 2, This is a driving/racing simulation published by Accolade. You are involved into illegal street races, and the goal is simple: get through the five stages as quick as possible. Before performing your "test drive" you're asked to choose one of the five cars: Lotus Esprit, Lamborghini Countach, Porsche 911, Ferrari Testarossa and Chevrolet Corvette.</desc>
 		<rating>0</rating>
@@ -4466,7 +4466,7 @@
 	</game>
 	<game>
 		<path>./Train, The - Escape to Normandy (USA).D64</path>
-		<name>The Train: Escape to Normandy</name>
+		<name>Train: Escape to Normandy, The</name>
 		<sortname />
 		<desc>In the months before France is liberated by the Allies in World War 2, Germany tries to take Paris' collection of classic paintings. As Resistance member Pierre LeFeu, helped by wounded former engineer Le Duc, must prevent this happening, but taking the paintings by train to Normandy and Allied control.</desc>
 		<rating>0</rating>
@@ -4479,7 +4479,7 @@
 	</game>
 	<game>
 		<path>./Way of the Exploding Fist, The.crt</path>
-		<name>The Way of the Exploding Fist</name>
+		<name>Way of the Exploding Fist, The</name>
 		<sortname />
 		<desc>This menacingly-titled beat 'em up was the first in many martial arts titles from Australia's Melbourne House. Sixteen different moves are on offer, ranging from standard kicks to jumps, somersaults and roundhouse kicks.</desc>
 		<rating>0</rating>
@@ -4656,7 +4656,7 @@
 	<game>
 		<path>./POD.crt</path>
 		<name>P.O.D.: Proof of Destruction</name>
-		<sortname />
+		<sortname>POD</sortname>
 		<desc>You guide a small spacecraft around a screen representing your people's power grid, moving it in the four compass directions along the grid lines. Aliens fire in all directions, so there are no 'safe spots' in which you will not get hit. Their shots cut lines out of the grid, preventing motion along that space for the few seconds it takes to reform. Every fourth level deviates from the norm by simply forcing you to shoot aliens for bonus points. Lives can still be lost during and gained after these.</desc>
 		<releasedate>19850101T000000</releasedate>
 		<publisher>Relax Games</publisher>
@@ -4782,7 +4782,7 @@
 	<game>
 		<path>./ACE 2.crt</path>
 		<name>ACE 2</name>
-		<sortname />
+		<sortname>ACE: Air Combat Emulator 2</sortname>
 		<desc>Ace 2 is a combat flight simulator video game developed by Cascade Games for various home computers released in 1987, and a sequel to Ace.</desc>
 		<releasedate>19850101T000000</releasedate>
 		<developer>Ian Martin</developer>
@@ -4903,7 +4903,7 @@
 	</game>
 	<game>
 		<path>./Alien 3 [EasyFlash].crt</path>
-		<name>Alien 3</name>
+		<name>Alien³</name>
 		<sortname />
 		<desc>Alien 3 is a video game based on the movie of the same name. The plot of the movie picks up directly after the end of Aliens. Ellen Ripley, the main character of the Alien series, is in cryo-sleep aboard the space ship Sulaco. Unfortunately, an alien or two has stowed away on the Sulaco, and wreaked havoc within the ship. Thus, it crash lands on the prison colony planet Fiorina 161. Ripley and the unarmed prisoners have to figure out a way to survive the aliens terrorizing the colony until help arrives.</desc>
 		<rating>0.75</rating>
@@ -4926,19 +4926,6 @@
 		<players>1-2</players>
 		<image>./boxart/Alleykat.jpg</image>
 		<video>./snaps/Alleykat.mp4</video>
-	</game>
-	<game>
-		<path>./American 3D Pool.crt</path>
-		<name>American 3D Pool</name>
-		<sortname />
-		<desc>American 3D Pool is a one or two player game featuring both pool and billiards. The Pool simulation features one player, two player and tournament modes. In the two player mode the game offers a choice between player vs player, player vs computer, or computer vs computer. When playing against the computer the game allows the player to choose their opponents skill level from 'very bad, bad, medium, good and very good.</desc>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Zeppelin Games</developer>
-		<publisher>Zeppelin Games</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-		<image>./boxart/American 3D Pool.jpg</image>
-		<video>./snaps/American 3D Pool.mp4</video>
 	</game>
 	<game>
 		<path>./Anarchy.crt</path>
@@ -5015,7 +5002,7 @@
 	<game>
 		<path>./Archon II - Adept.crt</path>
 		<name>Archon II: Adept</name>
-		<sortname />
+		<sortname>Archon 2</sortname>
 		<desc>The Age of Archon is ending. Mighty wars of magic rage and monsters roam the elements hungry for power and prey. The doom of Apocalypse shadows all. Change is at hand and the battle would find an end. This is that battle. The ending is yours.</desc>
 		<releasedate>19840101T000000</releasedate>
 		<developer>Free Fall Associates</developer>
@@ -5028,7 +5015,7 @@
 	<game>
 		<path>./Archon.crt</path>
 		<name>Archon: The Light and the Dark</name>
-		<sortname />
+		<sortname>Archon 1</sortname>
 		<desc>The light and the dark side (or the eternal confrontation). A magical, mediaeval field depicted as an overgrown chess board becomes apparent in front of you. Inside this mystical area there are mythical creatures as e.g. unicorns, sorceresses, golems, wizards or fire-breathing dragons. If one of those creatures moves to another field, so its life energy changes depending on the colour of the field. If two opponents meet on one square, the playing field turns into an arena.</desc>
 		<rating>0</rating>
 		<releasedate>19840101T000000</releasedate>
@@ -5055,7 +5042,7 @@
 	</game>
 	<game>
 		<path>./Arkanoid - Revenge of Doh.crt</path>
-		<name>Arkanoid 2: Revenge of Doh</name>
+		<name>Arkanoid: Revenge of Doh</name>
 		<sortname>Arkanoid 2</sortname>
 		<desc>Revenge of Doh is a direct sequel to the original arcade smash Arkanoid. Along with improved graphic engine, better sound and music, better hardware support and more levels, Revenge of Doh also features a built-in editor and allows you to create your own level sets!</desc>
 		<releasedate>19880101T000000</releasedate>
@@ -5151,7 +5138,7 @@
 	</game>
 	<game>
 		<path>./BC II - Grog's Revenge.crt</path>
-		<name>B.C.'s Quest for Tires II: Grog's Revenge</name>
+		<name>B.C. II: Grog's Revenge</name>
 		<sortname>B.C.'s 2</sortname>
 		<desc>Thor has completed his Quest for Tires. Now he must discover the Meaning of Life. But it won't be easy. The Meaning of Life is hidden away; somewhere in a long maze of mountains.</desc>
 		<releasedate>19840101T000000</releasedate>
@@ -5613,7 +5600,7 @@
 	</game>
 	<game>
 		<path>./Bounty Bob Strikes Back.crt</path>
-		<name>Bounty Bob Strikes Back</name>
+		<name>Bounty Bob Strikes Back!</name>
 		<sortname />
 		<desc>Bounty Bob Strikes Back! is the sequel to Miner 2049er and features similar gameplay. As Bounty Bob, your goal is to claim every inch of 25 challenging mines. To do this, you must walk over each segment of the framework in the mines. To reach each segment of framework, you will need to figure out a way to jump, climb, or use one of the many devices occasionally available to get there. To your help you get around (or sometimes hinder progress) are ladders, slides, suction tubes, cannons, transporters, and other devices. Wandering about the mines are many dangerous mutants. If you come in contact with one of these, you will lose a life!</desc>
 		<releasedate>19850801T000000</releasedate>
@@ -5711,7 +5698,7 @@
 	</game>
 	<game>
 		<path>./Bugbomber.crt</path>
-		<name>Bugbomber</name>
+		<name>Bug Bomber</name>
 		<sortname />
 		<desc>A computer's mazelike circuitry is infected with bugs, and you have been sent in to destroy them. You are armed with bombs, mines, blockades, and various types of hatchlings, which when released will track the bugs and hopefully stop them.</desc>
 		<releasedate>19920101T000000</releasedate>
@@ -6372,7 +6359,7 @@
 	</game>
 	<game>
 		<path>./Raid on Bungeling Bay.crt</path>
-		<name>Raid On Bungeling Bay</name>
+		<name>Raid on Bungeling Bay</name>
 		<sortname />
 		<desc>Raid on Bungeling Bay is the first game designed by Will Wright. The game has the player controlling a helicopter which is on a mission to destroy everything that moves. The only ally is the carrier, which is where the player begins at each level and may return to for repair and pick up bombs, as long as the player manages to protect it from being destroyed. The main goal in each level is to destroy a factory, which requires a steady increasing amount of bombs. Enemy forces include ships, planes, tanks, anti-air guns, and eventually, a large battleship.</desc>
 		<rating>0.8</rating>
@@ -6385,7 +6372,7 @@
 	</game>
 	<game>
 		<path>./raidovermosc.crt</path>
-		<name>Raid Over Moscow</name>
+		<name>Raid over Moscow</name>
 		<sortname />
 		<desc>The USSR has launched a huge attack on the USA, and the only hope for the free world is for you (as leader of a US Squadron of fighters) to destroy their defense bases. This is done in a multi-stage action game with some similarities to the same developer's Beach Head. All the mini-games must be completed before the time limit on the bomb is expired.</desc>
 		<rating>0.85</rating>
@@ -6533,7 +6520,7 @@
 	</game>
 	<game>
 		<path>./Mickey Mouse.crt</path>
-		<name>Disney's Mickey Mouse</name>
+		<name>Disney's Mickey Mouse: The Computer Game</name>
 		<sortname />
 		<desc>The Ogre King and his minions have taken over Disney Castle, and it's Mickey's task to win it back. The game starts on a sequence of stairways, up which Mickey must move, shooting any creatures that get in his way. Eventually you will come to a door and go through it, at which point the second section of the game begins.</desc>
 		<releasedate>19880101T000000</releasedate>
@@ -6852,7 +6839,7 @@
 	<game>
 		<path>./Dominator [EasyFlash].crt</path>
 		<name>D·O·M·I·N·A·T·O·R</name>
-		<sortname />
+		<sortname>Dominator</sortname>
 		<desc>You're in control of a small spaceship and have once again to save the earth from alien attack. You have to maneuver your craft through small passages while under permanent attack. The first level is a vertical shooter level with your ship only in its basic configuration. The later levels are horizontal scrolling and there you get your chance to improve your efficiency by collecting various power up ranging from speed-ups to tail cannons. Typically, each stage has a final boss who needs a lot of firepower to be beaten.</desc>
 		<releasedate>19890101T000000</releasedate>
 		<developer>System 3 Software</developer>
@@ -7004,18 +6991,6 @@
 		<video>./snaps/Everyone's a Wally.mp4</video>
 	</game>
 	<game>
-		<path>./Exile.crt</path>
-		<name>Exile</name>
-		<sortname />
-		<desc>When a terraforming team on an unexplored planet sends some disturbing messages back to Earth and then stops responding altogether, a space-adventurer is sent to find out what happened. The gameplay is a side-on 8-dimensionally scrolling action-adventure set on a planet. The player must find a way to the lower depths of the planet to rescue the terraforming team and defeat the evil Triax!</desc>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Jeremy C. Smith, Peter J. M. Irvin</developer>
-		<publisher>Audiogenic Software Ltd.</publisher>
-		<genre>Action-Adventure</genre>
-		<image>./boxart/Exile.jpg</image>
-		<video>./snaps/Exile.mp4</video>
-	</game>
-	<game>
 		<path>./Exterminator.crt</path>
 		<name>Exterminator</name>
 		<sortname />
@@ -7042,7 +7017,7 @@
 	</game>
 	<game>
 		<path>./Fairlight.crt</path>
-		<name>Fairlight</name>
+		<name>Fairlight: A Prelude: The Light Revealed</name>
 		<sortname />
 		<desc>The land of Fairlight no longer lives up to its name, its culture and society having declined over centuries. The former ruler's castle Avars is shrouded in mystery, and Isvar chooses to investigate it. Unfortunately, he finds himself trapped in a mysterious castle from which he must escape. Viewed isometrically, Isvar's adventure features complex object manipulation: each object has its own physical properties and resultant characteristics in terms of how much else can be carried alongside it. The castle is guarded and full of trolls, who can weaken Isvar's energy - food and wine can restore it.</desc>
 		<rating>0.55</rating>
@@ -7067,7 +7042,7 @@
 	</game>
 	<game>
 		<path>./Falcon Patrol II.crt</path>
-		<name>Falcon Patrol 2</name>
+		<name>Falcon Patrol 2: FP II</name>
 		<sortname />
 		<desc>Just like it's predecessor, Falcon Patrol II is a two-way side-scrolling shooter that sees the player controlling a jet fighting off different enemies. A small radar shows the positions of the enemies and landing platforms (where the jet can be refueled and re-armed). The jet is capable of shooting diagonally downwards now, and there are more versatile enemies. Apart from helicopters that directly attack the jet, there are also unarmed support helicopters that drop anti-aircraft guns and radar jammers. There are 15 levels of difficulty and the next level is reached once a certain number of helicopters is destroyed.</desc>
 		<releasedate />
@@ -7635,7 +7610,7 @@
 	</game>
 	<game>
 		<path>./Head Over Heels.crt</path>
-		<name>Head Over Heels</name>
+		<name>Head over Heels</name>
 		<sortname />
 		<desc>Two distinct characters called Mr Head and Mr Heels are played in this arcade adventure. They are separated at the shoulders but capable of joining together to maximize their abilities in some situations (but reduce them in others, so they can be split again). The game is presented from an isometric perspective, and presents the characters with a number of puzzles involving switches, jumps and climbs. The levels are 3 dimensional, and the characters must collect crowns as they progress. Objects can be picked up and manipulated as necessary.</desc>
 		<rating>0.55</rating>
@@ -8032,40 +8007,368 @@
 	<game>
 		<path>./Pro Tennis Tour.crt</path>
 		<name>Pro Tennis Tour</name>
+		<sortname />
 		<desc>Endorsed by famous tennis player, Jimmy Connors, this game offers tournament and single play on multiple court types. Using crosshairs, aim your ball to the other side of the court and hope you hit where you want. If you are lucky, you might even score an Ace. If not, you will need to be ready to return your opponent's return. Run back and forth as you try to keep hitting the ball over the net until your opponent misses, or you do. When you hit the ball, you will want to attempt changing the direction and speed of the ball to throw your opponent off balance. This is the real challenge of any tennis game.</desc>
-		<image>./boxart/Pro Tennis Tour.jpg</image>
-		<video>./snaps/Pro Tennis Tour.mp4</video>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Blue Byte</developer>
 		<publisher>Ubisoft</publisher>
 		<genre>Sports</genre>
-		<playcount>2</playcount>
-		<lastplayed>20220213T133159</lastplayed>
+		<image>./boxart/Pro Tennis Tour.jpg</image>
+		<video>./snaps/Pro Tennis Tour.mp4</video>
 	</game>
 	<game>
 		<path>./E-Motion.crt</path>
-		<name>Game of Harmony, The</name>
+		<name>E-Motion</name>
+		<sortname />
 		<desc>This strategic action puzzle game features original gameplay. You control a spacecraft situated on a globe which you can rotate and move around the screen. You must knock globes into others of the same colour, to rid the screen of all the globes. The screen has no borders, so globes can be pushed off the side of the screen, increasing your tactical range. Knocking globes of different colors into each other produces smaller pods which need to be picked up quickly, giving you energy, or they will turn into globes and you will have to get rid of them too.</desc>
-		<image>./boxart/E-Motion.jpg</image>
-		<video>./snaps/E-Motion.mp4</video>
 		<releasedate>19900101T000000</releasedate>
 		<developer>The Assembly Line</developer>
 		<publisher>Accolade</publisher>
 		<genre>Puzzle</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220223T230336</lastplayed>
+		<image>./boxart/E-Motion.jpg</image>
+		<video>./snaps/E-Motion.mp4</video>
 	</game>
 	<game>
 		<path>./Knight-Tyme.crt</path>
 		<name>Knight Tyme</name>
+		<sortname />
 		<desc>After rescuing the wizard Gimbal, the Magic Knight finds himself transported into the 25th century aboard the peaceful trade starship USS Pisces. He must find a way back to his own time.</desc>
-		<image>./boxart/Knight-Tyme.jpg</image>
-		<video>./snaps/Knight-Tyme.mp4</video>
 		<releasedate>19860101T000000</releasedate>
 		<developer>Mastertronic</developer>
 		<publisher>Mastertronic</publisher>
 		<genre>Adventure</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220223T230714</lastplayed>
+		<image>./boxart/Knight-Tyme.jpg</image>
+		<video>./snaps/Knight-Tyme.mp4</video>
+	</game>
+	<game>
+		<path>./Alter Ego (male).m3u</path>
+		<name>Alter Ego: Male Version</name>
+		<sortname />
+		<desc>Alter Ego is a "life simulator" that presents you with a series of life experiences that take you from infancy through old age. You can live out your own life, or the life of someone else, possibly someone you wish you could be. You can live out fantasies without risk, relive your childhood, or maybe see the world from your kids'/parents'/spouse's eyes. The life situations you encounter have the ability to change or become eliminated based on previous decisions you make. While the life you live is a fantasy, the actions you take have very real and thought-provoking responses.</desc>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Alter Ego (male).jpg</image>
+		<video>./snaps/Alter Ego (male).mp4</video>
+	</game>
+	<game>
+		<path>./Sentinel, The.crt</path>
+		<name>Sentinel, The</name>
+		<sortname />
+		<desc>In The Sentinel, the player takes the role of a Synthoid , a telepathic robot who has to take control of a number of surreal, checkered landscapes of hills and valleys, by climbing from the lowest spot, where the hunt begins, to the highest platform, over which the Sentinel looms. The Synthoid itself cannot move across the level; instead it can look around, accumulate energy by absorbing the objects that are scattered across the landscape, create stacks of boulders, generate inert Synthoid shells and transfer its consciousness from one of these clones to another.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Firebird</developer>
+		<publisher>Firebird</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Sentinel, The.jpg</image>
+		<video>./snaps/Sentinel, The.mp4</video>
+	</game>
+	<game>
+		<path>./Alter Ego (female).m3u</path>
+		<name>Alter Ego: Female Version</name>
+		<sortname />
+		<desc>Alter Ego is a "life simulator" that presents you with a series of life experiences that take you from infancy through old age. You can live out your own life, or the life of someone else, possibly someone you wish you could be. You can live out fantasies without risk, relive your childhood, or maybe see the world from your kids'/parents'/spouse's eyes. The life situations you encounter have the ability to change or become eliminated based on previous decisions you make. While the life you live is a fantasy, the actions you take have very real and thought-provoking responses.</desc>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Alter Ego (female).jpg</image>
+		<video>./snaps/Alter Ego (female).mp4</video>
+	</game>
+	<game>
+		<path>./American 3D Pool.crt</path>
+		<name>American 3D Pool</name>
+		<sortname />
+		<desc>American 3D Pool is a one or two player game featuring both pool and billiards. The Pool simulation features one player, two player and tournament modes. In the two player mode the game offers a choice between player vs player, player vs computer, or computer vs computer. When playing against the computer the game allows the player to choose their opponents skill level from 'very bad, bad, medium, good and very good.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Zeppelin Games</developer>
+		<publisher>Zeppelin Games</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/American 3D Pool.jpg</image>
+		<video>./snaps/American 3D Pool.mp4</video>
+	</game>
+	<game>
+		<path>./Suicide Voyage (Europe).T64</path>
+		<name>Suicide Voyage</name>
+		<sortname />
+		<desc>There is an energy crisis on Earth! Secret powers have subtracted almost all power from the Earth and bunked in a cave at the end of the world. Proceed in the cave with your agile glider - equipped with strong laser canons - to the energy lamps and shoot at them, to set the energy free again and to save the Earth from eternal coldness and darkness. But be careful and watch out for all kinds of obstacles because you only have four gliders for this precarious task!</desc>
+		<developer>Eurogold</developer>
+		<publisher>Eurogold</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Suicide Voyage (Europe).jpg</image>
+		<video>./snaps/Suicide Voyage (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Avenger - The Way of the Tiger.crt</path>
+		<name>Avenger: The Way of the Tiger</name>
+		<sortname />
+		<desc>In the sequel to The Way of the Tiger, Yaemon the Grand Master of Flame is the villain of the piece. He has killed your foster-father Naijish and stolen the Scrolls of Kettsuin. Your quest to recover the scroll and avenge your father's death is viewed from above and superficially resembles Gauntlet. You start outside the Quench Heart Keep, and must initially find enough keys in the grounds and connected buildings to penetrate it, and then kill each of the 3 guards. There are other prey including spiders to fend off - these know how to home in on you. You are armed with a limited number of Shuikch to shoot from distance; after these are gone you are reliant on your bare hand, although more can be collected.</desc>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Avenger - The Way of the Tiger.jpg</image>
+		<video>./snaps/Avenger - The Way of the Tiger.mp4</video>
+	</game>
+	<game>
+		<path>./Battle of Britain.crt</path>
+		<name>Battle of Britain</name>
+		<sortname />
+		<desc>In Battle of Britain the player controls the RAF Fighter Command during the turning point air battle of the World War 2. You may familiarize yourself with the game by choosing to fight one day with either light or heavy enemy activity, or play the full campaign (starting 20 August 1940, limited to 30 days).</desc>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Personal Software Services</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Battle of Britain.jpg</image>
+		<video>./snaps/Battle of Britain.mp4</video>
+	</game>
+	<game>
+		<path>./Bomb Jack II.crt</path>
+		<name>Bomb Jack II</name>
+		<sortname />
+		<desc>Having saved the world in the first game, Bomb Jack is out to collect as much gold as possible, which is lying on a number of ledges. These vary between open and shut - the open ones offer more points, and an extra life is on offer for collecting 10 in a row, so if possible the route should take in the open ones in order. Gameplay differs from the original, in that Bombjack's movement is no longer free and self-propelled. Instead, he moves flick-style between ledges, so long as one is directly within one of the 4 compass directions. Baddies can be pushed off ledges, but this uses up some of Jack's limited energy.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Elite Systems</developer>
+		<publisher>Elite Systems</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Bomb Jack II.jpg</image>
+		<video>./snaps/Bomb Jack II.mp4</video>
+	</game>
+	<game>
+		<path>./Confuzion.crt</path>
+		<name>Confuzion</name>
+		<sortname />
+		<desc>This is a puzzle game where you must explode all of the bombs on each level, using a spark. The spark flows along a fuse, which is made up of a series of tiles. These can be moved, in the manner of sliding puzzles, where there is only one gap, and tiles can be moved into the gap, creating a new gap. The aim is then to move the tiles so the fuse forms a path from the spark to each bomb. There is a time limit, however, and extra time is knocked off if the spark reaches a dead end. Also some levels contain water droplets, that extinguish the spark if they touch it.</desc>
+		<rating>0.65</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Incentive Software</developer>
+		<publisher>Incentive Software</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Confuzion.jpg</image>
+		<video>./snaps/Confuzion.mp4</video>
+	</game>
+	<game>
+		<path>./Dynamite Dan.crt</path>
+		<name>Dynamite Dan</name>
+		<sortname />
+		<desc>The game starts where Dan lands his airship on the top of the evil Dr Blitzen's hideout. The aim of the game is to find eight sticks of dynamite that are placed randomly around the playing area whilst avoiding the perils of the game such as moving monsters, drowning and falling from great heights. Once Dan has all eight sticks of dynamite, the player must make their way to the central safe to blow it open and steal the plans for the evil doctor's Death Ray and escape to his airship. The playing area is essentially one large building split up into multiple screens that wrap around a central elevator. Each screen contains a number of moving monsters that, once the player moves into them, are destroyed but take off a life in return.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Mirrorsoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Dynamite Dan.jpg</image>
+		<video>./snaps/Dynamite Dan.mp4</video>
+	</game>
+	<game>
+		<path>./Frankie Goes to Hollywood.crt</path>
+		<name>Frankie Goes to Hollywood</name>
+		<sortname />
+		<desc>Playing a thoroughly drab, mundane and predictable character, your aim is to become interesting enough to reach the Pleasuredome. After discovering a gruesome murder, your interest in something greater than the routine of 80s Liverpool is awoken. You explore the streets and houses in the search of a way out. The main basis of the game involves picking up objects and using them in the correct way - most objects have more than one potential use, and misusing them is the only way the game can be lost. There are several sub-games along the way, including shoot 'em ups, a maze and a jigsaw puzzle.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Ocean</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/Frankie Goes to Hollywood.jpg</image>
+		<video>./snaps/Frankie Goes to Hollywood.mp4</video>
+	</game>
+	<game>
+		<path>./Fred.crt</path>
+		<name>Fred</name>
+		<sortname />
+		<desc>You are Fred, an intrepid archaeologist, interested in visiting the pyramid of Tootiecarmoon looking for a new experience, and in search of treasures and great adventures. The game consists of 6 levels, on which you must obtain treasures and - of course - a map that allows you to leave the labyrinthine pyramid alive. You must avoid dangerous acid drops, mummies, spiders, vampires, etc. In order to defend yourself from those disagreeable enemies you have at your disposition a gun (with limited bullets), but some enemies are immune to guns, and you must jump or avoid them.</desc>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Quicksilva</developer>
+		<publisher>Indescomp</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Fred.jpg</image>
+		<video>./snaps/Fred.mp4</video>
+	</game>
+	<game>
+		<path>./Gauntlet [EasyFlash].crt</path>
+		<name>Gauntlet</name>
+		<sortname />
+		<desc>Gauntlet is an action game where players choose characters and fight their way through hordes of enemies that assault them on the way to the end of the level. One or two players must make their way through 100 levels of mayhem and magic. The game features a choice of four characters to play with, each with different weapons. Thor the Warrior has a bludgeoning battle axe, Thyra the Valkyrie has a close range sword, Questor the Elf has his long range bow, and Merlin the Wizard has magical bolts. Ghosts, goblins and even the life-draining Death are among the enemies. Enemies stream out of generators, so destroy these before tackling the rest.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Bob Armour</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Gauntlet [EasyFlash].jpg</image>
+		<video>./snaps/Gauntlet [EasyFlash].mp4</video>
+	</game>
+	<game>
+		<path>./Gremlins - The Adventure.crt</path>
+		<name>Gremlins: The Adventure</name>
+		<sortname />
+		<desc>Based on the movie of the same name, Gremlins: The Adventure is an interactive fiction game by Brian Howarth, author of the Mysterious Adventures series. Players take the role of Billy, who has already been tricked into feeding Gizmo after midnight, and now Kingston Falls is in danger of being overrun with Gremlins. With Gizmo's help, Billy must save the town before it is too late.</desc>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Adventure International</developer>
+		<publisher>Adventure International</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Gremlins - The Adventure.jpg</image>
+		<video>./snaps/Gremlins - The Adventure.mp4</video>
+	</game>
+	<game>
+		<path>./Kentilla.crt</path>
+		<name>Kentilla</name>
+		<sortname />
+		<desc>Kentilla is a text adventure with graphics. It is a sequel to an earlier text adventure by Derek Brewster, Velnor's Lair.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Mastertronic</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Kentilla.jpg</image>
+		<video>./snaps/Kentilla.mp4</video>
+	</game>
+	<game>
+		<path>./Nuclear Embargo.crt</path>
+		<name>Nuclear Embargo</name>
+		<sortname />
+		<desc>The source of Earth's energy and power is nuclear fission, obtained from a rare mineral called Uranium 235 which was discovered in the early part of the 21st Century after earth's fossil fuel supply finally ran out. Uranium 235 itself finally ran out but huge deposits of the mineral were discovered on the many moons of Saturn and a deal was brokered with the dictator called Rayol the first to supply Earth with this precious mineral. Centuries later and Saturn has a new Premier called Rayol IV or Rayol the Perverse and he has decided that he requires a zoo containing different races of the Earth's inhabitants and so has demanded Earth give him 1000 of it's inhabitants.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Raysoft</developer>
+		<publisher>Micropool</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Nuclear Embargo.jpg</image>
+		<video>./snaps/Nuclear Embargo.mp4</video>
+	</game>
+	<game>
+		<path>./On-Court Tennis.crt</path>
+		<name>On-Court Tennis</name>
+		<sortname />
+		<desc>In this tennis game, the focus is on timing and directing your shots accurately, as the computer moves your player into position. The positive result of this is that you can (and to win must) play angled volleys and precisely-placed lob and drop shots. The gameplay is thus more tactical than many tennis games; choosing the move to outfox your opponent comes into play. 1 or 2 player, 3 or 5 set matches can be played, or asphalt, clay or grass. The four computer players are inspired by Jimmy Conners, Björn Borg, John McEnroe and Ivan Lendl. Court layout and service rules are accurate. The AI player watches your playing style and can step up a gear in quality if it needs to.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Gamestar</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/On-Court Tennis.jpg</image>
+		<video>./snaps/On-Court Tennis.mp4</video>
+	</game>
+	<game>
+		<path>./PSI 5 Trading Company [EasyFlash].crt</path>
+		<name>Psi-5 Trading Company</name>
+		<sortname />
+		<desc>Psi-5 Trading company puts the player in command of a space freighter crewed by a host of quirky aliens. The player must pilot the ship through pirate-infested space and needs to decide whether to fight off or attempt to evade the space robbers. Time is short and commands must be timely and prudent as numerous emergencies crop up as the ship is attacked and systems fail or are destroyed. The player is challenged to get the precious cargo to its destination!</desc>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Accolade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/PSI 5 Trading Company [EasyFlash].jpg</image>
+		<video>./snaps/PSI 5 Trading Company [EasyFlash].mp4</video>
+	</game>
+	<game>
+		<path>./Revs.crt</path>
+		<name>Revs</name>
+		<sortname />
+		<desc>Revs is a 1984 Formula Three simulation written initially for the BBC Micro by Geoff Crammond and is notable for its realistic simulation of the sport and as a precursor to its author's later work on Formula One Grand Prix and its sequels.</desc>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Firebird</publisher>
+		<genre>Racing</genre>
+		<image>./boxart/Revs.jpg</image>
+		<video>./snaps/Revs.mp4</video>
+	</game>
+	<game>
+		<path>./Rocket Roger (J1).crt</path>
+		<name>Rocket Roger</name>
+		<sortname />
+		<desc>Rocket Roger is a platform game where a small part of the planet is shown and the screen scrolls in all directions when you move. The keyboard or joystick is used to control your hero and as well as the main playing area you can also see your score, jet-pack fuel, best score, crystals collected, lives and which zone you are in. The planet is made up of 30 zones of around 6 screens each. Transporter pads can be found in each zone, when the player walks over one it serves as a save point which you can continue from if you lose a life.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Alligata Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Rocket Roger (J1).jpg</image>
+		<video>./snaps/Rocket Roger (J1).mp4</video>
+	</game>
+	<game>
+		<path>./Worm in Paradise, The.crt</path>
+		<name>Worm in Paradise, The</name>
+		<sortname />
+		<desc>Eden has been successfully colonised, by creating several domed cities. Society is rigidly functioning, unemployment, crime and poverty all non-existent. The economy functions on fines rather than taxes, making for a plethora of petty rules and no penal punishment. Robot employees make everything run cheaply. Body part reselling allows hospitals to turn a profit. Robots can even control human reproduction. The end result is a society in which humans have no useful role. Who would live in a 'paradise' like this? The Worm In Paradise is the culmination of the Silicon Dreams series of interactive fiction.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Level 9 Computing</developer>
+		<publisher>Level 9 Computing</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/Worm in Paradise, The.jpg</image>
+		<video>./snaps/Worm in Paradise, The.mp4</video>
+	</game>
+	<game>
+		<path>./Super Huey [EasyFlash].crt</path>
+		<name>Super Huey</name>
+		<sortname />
+		<desc>Super Huey is a helicopter simulation game. You are the pilot of the experimental helicopter UH-1XA and you need to test it out in several game modes. In the flight school mode, you can learn how to fly. The computer will guide you through takeoff, flight, and landing. In reality mode, you will need to fly a mission to locate and bomb an enemy base and return home safely. The last mode is arcade mode where you have an unlimited amount of ammo to try and shoot down as many enemy aircraft as possible. The game is played from a first person view of the cockpit which is complete with radar and various instruments to help you fly.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Cosmi</developer>
+		<publisher>Cosmi</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Super Huey [EasyFlash].jpg</image>
+		<video>./snaps/Super Huey [EasyFlash].mp4</video>
+	</game>
+	<game>
+		<path>./Trap.crt</path>
+		<name>Trap</name>
+		<sortname />
+		<desc>A once peaceful ally is now your enemy and you are tasked to defend your planet against them. In your spacecraft you must fly your craft blasting and avoiding various enemies intent of killing you over 10 levels. Each level is split into three tests and must be completed to move to the next level.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Alligata Software</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Trap.jpg</image>
+		<video>./snaps/Trap.mp4</video>
+	</game>
+	<game>
+		<path>./Wizard's Lair.crt</path>
+		<name>Wizard's Lair</name>
+		<sortname />
+		<desc>Building on the basic gameplay and visual ideas of Ultimate's Atic Atac, Wizard's Lair stars explorer Pothole Pete, who is stuck in the Lair unless he can find all four pieces of the Golden Lion. The game is viewed slightly top-down, with indoor rooms bordered by line drawn vectors rather than the fuller jungle graphics. The pace of the game is quite fast, and the challenge of the action elements is increased by not having infinite weaponry. The route through the game is non-linear, with multiple exits and secret rooms commonplace.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Bubble Bus Software</developer>
+		<publisher>Bubble Bus Software</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Wizard's Lair.jpg</image>
+		<video>./snaps/Wizard's Lair.mp4</video>
+	</game>
+	<game>
+		<path>./Exile.crt</path>
+		<name>Exile</name>
+		<sortname />
+		<desc>When a terraforming team on an unexplored planet sends some disturbing messages back to Earth and then stops responding altogether, a space-adventurer is sent to find out what happened. The gameplay is a side-on 8-dimensionally scrolling action-adventure set on a planet. The player must find a way to the lower depths of the planet to rescue the terraforming team and defeat the evil Triax!</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Jeremy C. Smith, Peter J. M. Irvin</developer>
+		<publisher>Audiogenic Software Ltd.</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/Exile.jpg</image>
+		<video>./snaps/Exile.mp4</video>
+	</game>
+	<game>
+		<path>./Sams Journey.m3u</path>
+		<name>Sam's Journey</name>
+		<sortname />
+		<desc>Sam's Journey is a platform collect-a-thon game with 3 worlds and 30 levels to explore. There is an overworld map where the player can choose to go into the actual levels. The level are large and scroll in 8 directions. Sam collects gems, jump on enemies and also pick up, carry and throw items. Find the flashing door at the end of each level to finish the level and exit back to the map.</desc>
+		<rating>0.95</rating>
+		<releasedate>20171227T000000</releasedate>
+		<developer>Knights of Bytes</developer>
+		<publisher>Protovision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Sams Journey.jpg</image>
+		<video>./snaps/Sams Journey.mp4</video>
 	</game>
 </gameList>

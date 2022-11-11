@@ -7,7 +7,7 @@
 		<web>http://www.screenscraper.fr</web>
 	</provider>
 	<game>
-		<path>./Metal Gear [T-En by Nekura_Hoka v.1.995c + Improvments by FRS v.1.0].zip</path>
+		<path>./Metal Gear.zip</path>
 		<name>Metal Gear</name>
 		<sortname />
 		<desc>Near the end of the 20th century, a small fortified nation named Outer Heaven (founded by a mysterious war hero whose name and identity are shrouded in secrecy) is threatening the nations of the "West" with the development of a new prototype weapon named Metal Gear, a walking tank which is capable of launching nuclear warheads from anywhere on the globe. As FOX-HOUND's (an elite black ops unit) newest recruit, going by the codename of Solid Snake, your mission is to infiltrate Outer Heaven and rescue your missing comrade, Grey Fox (who was captured after a failed infiltration), while gathering intelligence.</desc>
@@ -17,12 +17,12 @@
 		<publisher>Konami</publisher>
 		<genre>Action</genre>
 		<players>1</players>
-		<image>./boxart/Metal Gear [T-En by Nekura_Hoka v.1.995c + Improvments by FRS v.1.0].jpg</image>
-		<video>./snaps/Metal Gear [T-En by Nekura_Hoka v.1.995c + Improvments by FRS v.1.0].mp4</video>
+		<image>./boxart/Metal Gear.jpg</image>
+		<video>./snaps/Metal Gear.mp4</video>
 	</game>
 	<game>
-		<path>./Mr. Ghost [T-En by 232 &amp; Max Iwamoto v1.0.0].zip</path>
-		<name>Yuurei-kun</name>
+		<path>./Mr. Ghost.zip</path>
+		<name>Yūrei-kun (Mr. Ghost)</name>
 		<sortname />
 		<desc>Yuurei-kun is an Action game, developed and published by System Sacom, which was released in Japan in 1988.</desc>
 		<rating>0.7</rating>
@@ -31,12 +31,12 @@
 		<publisher>System Sacom</publisher>
 		<genre>Action</genre>
 		<players>1</players>
-		<image>./boxart/Mr. Ghost [T-En by 232 &amp; Max Iwamoto v1.0.0].jpg</image>
-		<video>./snaps/Mr. Ghost [T-En by 232 &amp; Max Iwamoto v1.0.0].mp4</video>
+		<image>./boxart/Mr. Ghost.jpg</image>
+		<video>./snaps/Mr. Ghost.mp4</video>
 	</game>
 	<game>
 		<path>./Malaya's Treasure [T-En by MSX Translations v1.0.0].zip</path>
-		<name>Malaya no Hihou</name>
+		<name>Malaya no Hihō (Malaya's Treasure)</name>
 		<sortname />
 		<desc>Malaya no Hihou is an Action/Adventure game, developed and published by Pony Canyon, which was released in Japan in 1989.</desc>
 		<rating>0</rating>
@@ -77,21 +77,7 @@
 		<video>./snaps/Space Manbow (Japan).mp4</video>
 	</game>
 	<game>
-		<path>./Treasure of Usas, The (Japan, Europe).zip</path>
-		<name>The Treasure of Usas</name>
-		<sortname />
-		<desc>The Treasure Of Usas is a platform game. Centuries ago, the War God Induras banished Usas, the supreme Mother God, and threw the four pieces of her jewel in the winds. Wit and Cles are attempting to find the broken jewel to try and achieve one of the greatest discoveries of the academic world. Their adventures, controlled by you, will lead them to many strange places to fight many unusual enemies. There are five stages in the game.</desc>
-		<rating>0.95</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action-Adventure</genre>
-		<players>1</players>
-		<image>./boxart/Treasure of Usas, The (Japan, Europe).jpg</image>
-		<video>./snaps/Treasure of Usas, The (Japan, Europe).mp4</video>
-	</game>
-	<game>
-		<path>./Nyan Puzzle [T-En 1.0.0 by MSX Translations &amp; BiFi].zip</path>
+		<path>./Nyan Puzzle.zip</path>
 		<name>Nyan Puzzle</name>
 		<sortname />
 		<desc>Ever wondered what our feline friends get up to when you are not around? The developers at Compile sure have in the past and apparently it involves a lot of balloon popping. This resulted in a nice and creative game which now has been translated.</desc>
@@ -99,12 +85,12 @@
 		<releasedate>19700101T010000</releasedate>
 		<genre>Puzzle</genre>
 		<players>1</players>
-		<image>./boxart/Nyan Puzzle [T-En 1.0.0 by MSX Translations &amp; BiFi].jpg</image>
-		<video>./snaps/Nyan Puzzle [T-En 1.0.0 by MSX Translations &amp; BiFi].mp4</video>
+		<image>./boxart/Nyan Puzzle.jpg</image>
+		<video>./snaps/Nyan Puzzle.mp4</video>
 	</game>
 	<game>
-		<path>./Firebird - The Phoenix Saga [T-En by 232 &amp; BiFi v1.0.0 + All Fixes].zip</path>
-		<name>Hi no Tori Hououhen: Firebird</name>
+		<path>./Firebird - The Phoenix Saga.zip</path>
+		<name>Hi no Tori Hōōhen (Firebird: The Phoenix Saga)</name>
 		<sortname />
 		<desc>Locate the mystical phoenix across 6 stages of labyrinths, enemies and various other obstacles. As the game progresses, Gaou can power up by obtaining phoenix plumes to activate special weapons and other items to help him gain abilities such as invulnerability and special shots. In order to reach the final boss and pay a visit to the phoenix, Gaou must obtain a series of keys scattered across the stages - and must even backtrack to find others. The game is over when all three lives are gone - or when Gaou has reached the phoenix's lair.</desc>
 		<rating>0.8</rating>
@@ -113,8 +99,8 @@
 		<publisher>Konami</publisher>
 		<genre>Action</genre>
 		<players>1</players>
-		<image>./boxart/Firebird - The Phoenix Saga [T-En by 232 &amp; BiFi v1.0.0 + All Fixes].jpg</image>
-		<video>./snaps/Firebird - The Phoenix Saga [T-En by 232 &amp; BiFi v1.0.0 + All Fixes].mp4</video>
+		<image>./boxart/Firebird - The Phoenix Saga.jpg</image>
+		<video>./snaps/Firebird - The Phoenix Saga.mp4</video>
 	</game>
 	<game>
 		<path>./Aleste [T-En by Woomb].zip</path>
@@ -146,7 +132,7 @@
 	</game>
 	<game>
 		<path>./King Kong 2 - The Reviving Legend [T-En by Imanok Ultimate Version].zip</path>
-		<name>King Kong 2: Yomigaeru Densetsu</name>
+		<name>Kingu Kongu Tsū: Yomigaeru Densetsu (King Kong 2: The Reviving Legend)</name>
 		<sortname />
 		<desc>Based on King Kong Lives movie King Kong 2: Yomigaeru Densetsu is an action game with puzzle-solving and role-play elements, a more complex experience compared to Famicom version of King Kong 2.</desc>
 		<rating>0.8</rating>
@@ -186,7 +172,7 @@
 	</game>
 	<game>
 		<path>./Vampire Killer (Japan, Europe).zip</path>
-		<name>Akumajō Dracula</name>
+		<name>Vampire Killer</name>
 		<sortname />
 		<desc>The world of Dransylvania is in trouble, and you are the one to set it right. You have to fight your way through 18 stages of demons to where Dracula is hiding. Once you have destroyed Dracula, the evil force behind all the trouble will show up, attempting to destroy you! Destroy this menace, and Dransylvania will return to it's happy days after a wait of hundreds of years.</desc>
 		<rating>1</rating>
@@ -226,7 +212,7 @@
 	</game>
 	<game>
 		<path>./SD Snatcher [T-En by Project Melancholia 0.92].m3u</path>
-		<name>SD Snatcher </name>
+		<name>SD Snatcher</name>
 		<sortname />
 		<desc>The premise of SD-Snatcher is exactly the same as the original. The game takes place in the year 2042, 50 years after a disaster at Chernoton Laboratory released a deadly agent into the air that killed 80 percent of the Eurasian population. You're Gilian Seed, who was discovered in Siberia while in artificial sleep. Gilian wakes up with no memories. He wants to know more about his past, but the only clue he has to go on is a word that sounds eerily familiar: Snatcher.</desc>
 		<rating>0</rating>
@@ -237,16 +223,186 @@
 		<video>./snaps/SD Snatcher [T-En by Project Melancholia 0.92].mp4</video>
 	</game>
 	<game>
-		<path>./Ys II - Ancient Ys Vanished The Final Chapter [T-En by Oasis 1.0 + Fixes by 232].m3u</path>
-		<name>Ys II: Ancient Ys Vanished - The Final Chapter</name>
-		<sortname />
+		<path>./Ys II - Ancient Ys Vanished The Final Chapter.m3u</path>
+		<name>Ys II: Ancient Ys Vanished: The Final Chapter</name>
+		<sortname>Ys 2</sortname>
 		<desc>Ys II picks up immediately where Ys I left off. Adol Christin is transported to the floating island of Ys, where he meets a young woman named Lilia.</desc>
 		<rating>0</rating>
 		<releasedate>19700101T010000</releasedate>
 		<genre>Role Playing Games</genre>
 		<players>1</players>
-		<image>./boxart/Ys II - Ancient Ys Vanished The Final Chapter [T-En by Oasis 1.0 + Fixes by 232].jpg</image>
-		<video>./snaps/Ys II - Ancient Ys Vanished The Final Chapter [T-En by Oasis 1.0 + Fixes by 232].mp4</video>
+		<image>./boxart/Ys II - Ancient Ys Vanished The Final Chapter.jpg</image>
+		<video>./snaps/Ys II - Ancient Ys Vanished The Final Chapter.mp4</video>
+	</game>
+	<game>
+		<path>./King's Valley II - The Seal of El Gizah [T-En by FRS v.1.1].zip</path>
+		<name>King's Valley II: The Seal of El Giza</name>
+		<sortname />
+		<desc>Far, far into the future, inter-planetary archaeologist Vick XIII, makes a choking discovery. The pyramids on earth are malfunctioning devices of alien origin with enough energy to destroy earth. And it's up to Vick to switch off the core functions of El GizaThe game consists of six pyramids each with its own wall engravings and color pattern; every pyramid contains 10 levels. The idea of the game is to collect crystals called soul stones in each level by solving the different puzzles and evading or killing the enemies using the many tools and weapons available to unlock the exit door that will take you to the next level.</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Puzzle</genre>
+		<image>./boxart/King's Valley II - The Seal of El Gizah [T-En by FRS v.1.1].jpg</image>
+		<video>./snaps/King's Valley II - The Seal of El Gizah [T-En by FRS v.1.1].mp4</video>
+	</game>
+	<game>
+		<path>./Ancient Ys Vanished - Omen.zip</path>
+		<name>Ys I: Ancient Ys Vanished</name>
+		<sortname>Ys 1</sortname>
+		<desc>In this game, the player takes the role of Adol (Aron in the English-language Sega Master System version) Christin, a red-haired adventurer and expert swordsman. One day he encounter a fortune teller who sends him on a quest to find information about the six books of Ys. It appears that there was once an ancient land called Ys, whose secret was sealed in those six books. Before long Adol learns that the six books were all stolen by the evil wizard Dark Fact (Dulk Dekt in the Sega Master System version, Malificus in the English-language computer versions). It is Adol's task to defeat the villain and discover the secret of Ys!</desc>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Ancient Ys Vanished - Omen.jpg</image>
+		<video>./snaps/Ancient Ys Vanished - Omen.mp4</video>
+	</game>
+	<game>
+		<path>./Bubble Bobble (Japan).zip</path>
+		<name>Bubble Bobble</name>
+		<sortname />
+		<desc>Bubble Bobble is the story of two humans, Bub and Bob who wander into the mysterious cave of monsters and magically turn into dinosaurs. The only way to transform back is to reach the end of the cave... Bubble Bobble is a platform game, with each level being a single screen. The enemies must be cleared from a level to go to the next one. With one player controlling Bub and the other controlling Bob, the player can jump and collect items for points (such as fruit). The real power Bub and Bob have however is the ability to blow bubbles. These bubbles can be as platforms to leap on, or to trap enemies. Enemies trapped in a bubble must be popped by jumping into them, wherein they'll turn to fruit.</desc>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Bubble Bobble (Japan).jpg</image>
+		<video>./snaps/Bubble Bobble (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Fire Hawk - Thexder II.m3u</path>
+		<name>Fire Hawk: Thexder: The Second Contact</name>
+		<sortname />
+		<desc>Retaining the same concept as the original Thexder but adding many improvements. The Fire Hawk robot had the same design as the Thexder: the main laser, shield, and ability to transform into a jet. It also had upgrades to allow it to launch guided missiles, and use special weapons found throughout the game. Obtaining special weapons caused a weapon carrier droid to be deployed, and if positioned correctly, would act as a shield against enemies. Graphics were improved from the original game, and game play was divided into sub-levels, with the fourth sub-level containing a "boss" enemy. It was also possible to restart later games at the beginning of a level previously visited.</desc>
+		<releasedate>19891101T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Game Arts</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Fire Hawk - Thexder II.jpg</image>
+		<video>./snaps/Fire Hawk - Thexder II.mp4</video>
+	</game>
+	<game>
+		<path>./Higemaru - The Devil Island - The 7 Islands Adventure (Japan) [T-En by Django v1.0] [n] (Cartridge).zip</path>
+		<name>Higemaru Makaijima: Nanatsu no Shima Daibouken (Higemaru: The Devil Island: The 7 Islands Adventure)</name>
+		<sortname />
+		<desc>Taking the basic concept of Pirate Ship Higemaru, the Arcade game on which it is based, and expandings on it, is an adventure game as expansive and in-depth as the Legend of Zelda. The goal is to sail around until the player finds a pirate ship (the friendly green merchant ships will simply provide hints) and clear the boss. Doing so will allow the player to collect a port key which allows them to set anchor on one of the titular seven islands. The player must then remove the boss of that island and recover the treasure. At which point, the process must be repeated.</desc>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Capcom</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Higemaru - The Devil Island - The 7 Islands Adventure (Japan) [T-En by Django v1.0] [n] (Cartridge).jpg</image>
+		<video>./snaps/Higemaru - The Devil Island - The 7 Islands Adventure (Japan) [T-En by Django v1.0] [n] (Cartridge).mp4</video>
+	</game>
+	<game>
+		<path>./Hydlide 3 - The Space Memories (Japan) [T-En by Woomb] (Cartridge).zip</path>
+		<name>Hydlide 3: The Space Memories</name>
+		<sortname />
+		<desc>The third entry in the Hydlide series, continuing its action RPG legacy. Character creation allows the player to choose one of the four character classes: Warrior, Thief, Priest, and Monk. In combat, the protagonist uses melee or long-ranged weapons or casts magic spells. Unlike the previous games in the series, the player is required to press the attack button during melee combat, instead of simply "bumping" into the enemies. There is an internal clock in the game, which makes it necessary for the protagonist to sleep periodically and regain his strength. The main character also has to eat from time to time, otherwise his hit points will gradually decrease.</desc>
+		<releasedate>19870101T000000</releasedate>
+		<developer>T&amp;E Soft</developer>
+		<publisher>T&amp;E Soft</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Hydlide 3 - The Space Memories (Japan) [T-En by Woomb] (Cartridge).jpg</image>
+		<video>./snaps/Hydlide 3 - The Space Memories (Japan) [T-En by Woomb] (Cartridge).mp4</video>
+	</game>
+	<game>
+		<path>./Magnar (1992).m3u</path>
+		<name>Magnar</name>
+		<sortname />
+		<desc>Top down action shooting game your first mission is to destroy the main defence computer of the D.H.E complex.</desc>
+		<releasedate />
+		<developer>Parallax</developer>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Magnar (1992).jpg</image>
+		<video>./snaps/Magnar (1992).mp4</video>
+	</game>
+	<game>
+		<path>./Shrines of Enigma (1994)(Sunrise).zip</path>
+		<name>Shrines of Enigma</name>
+		<sortname />
+		<desc>A game by Element (Jan van Valburg, John Robin Smith and Hans Cnossen) for MSX2, released in 1995 by Stichting Sunrise as the first game in the 'games subscription' series. It's a brilliant game: very good game play, brilliant music and excellent graphics, taking everything out of an MSX2. The music is for the MSX-MUSIC (YM2413). The game is clearly inspired by King's Valley II, made by Konami.</desc>
+		<releasedate />
+		<developer>Element</developer>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Shrines of Enigma (1994)(Sunrise).jpg</image>
+		<video>./snaps/Shrines of Enigma (1994)(Sunrise).mp4</video>
+	</game>
+	<game>
+		<path>./Valis - The Fantasm Soldier II.m3u</path>
+		<name>Valis: The Fantasm Soldier II</name>
+		<sortname />
+		<desc>Rogles, the tyrant who wanted to gain control over the three worlds in the universe, was defeated by Yuko, an ordinary Japanese teenager who was chosen to become the heroic Valis Soldier. The dream world Vecanti fell into the hands of Emperor Megas. Driven by intense hatred to Rogles and his followers, Megas became an even more dangerous fanatic, imposing an iron rule on his realm. Yuko must now travel to the dream world and defeat the new tyrant and his minions. Like its predecessor, Mugen Senshi Valis II is an action platformer. Yuko fights and jumps her way through enemies and platform structures, acquiring various power-ups during the course of the game.</desc>
+		<releasedate>19890801T000000</releasedate>
+		<developer>Renovation Products</developer>
+		<publisher>Telenet</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Valis - The Fantasm Soldier II.jpg</image>
+		<video>./snaps/Valis - The Fantasm Soldier II.mp4</video>
+	</game>
+	<game>
+		<path>./Xak - The Art of Visual Stage.m3u</path>
+		<name>Xak: The Art of Visual Stage</name>
+		<sortname>Xak 1</sortname>
+		<desc>Xak: The Art of Visual Stage (ã‚µãƒ¼ã‚¯) is the first game in the fantasy role-playing video game series Xak developed and published by Micro Cabin. It was originally released for the NEC PC-8801 computer system, with subsequent versions being developed for the NEC PC-9801, Sharp X68000, MSX2, PC-Engine, Super Famicom, and mobile phones. The first four versions were re-released for Windows on online store Project EGG. An English translation of Xak: The Art of Visual Stage was also released in 2007 on the now-defunct retro gaming service WOOMB.net, and is now to become available on Project EGG. Xak: The Art of Visual Stage features a typical high fantasy setting.</desc>
+		<rating>0.85</rating>
+		<releasedate>19890601T000000</releasedate>
+		<developer>Microcabin</developer>
+		<publisher>Microcabin</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Xak - The Art of Visual Stage.jpg</image>
+		<video>./snaps/Xak - The Art of Visual Stage.mp4</video>
+	</game>
+	<game>
+		<path>./Xak 2 - Rising Of The Redmoon.m3u</path>
+		<name>Xak II: Rising of the Redmoon</name>
+		<sortname>Xak 2</sortname>
+		<desc>Xak II: Rising of the Redmoon is a fantasy role-playing video game developed and published by the Japanese software developer MicroCabin. It is a direct sequel to Xak: The Art of Visual Stage (Xak I). The game was released in Japan only, but due to an MSX scene that arose in Europe (predominately in the Netherlands region) some of the MSX versions of Xak received fan translations. An enhanced remake was later released for the NEC PC-Engine, together with the first game in the series Xak as Xak I &amp; II by Telenet Japan's development team Riot. Xak II, being a direct sequel to the first game in the series, it features the same high fantasy setting as Xak.</desc>
+		<rating>0.9</rating>
+		<releasedate>19900601T000000</releasedate>
+		<developer>Microcabin</developer>
+		<publisher>Microcabin</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Xak 2 - Rising Of The Redmoon.jpg</image>
+		<video>./snaps/Xak 2 - Rising Of The Redmoon.mp4</video>
+	</game>
+	<game>
+		<path>./Xak Precious Package - The Tower of Gazzel .m3u</path>
+		<name>Xak Precious Package: The Tower of Gazzel</name>
+		<sortname>Xak 3</sortname>
+		<desc>The events of this game take place shortly after the hero Latok defeated the demon Gospel in Xak II: The Rising of the Redmoon. Latok hears rumors about a man who looks exactly like him and was last seen near an old tower infested by monsters, which nobody dares enter. Latok and his girlfriend Fray arrive at the tower entrance and meet their friends there. Latok decides to venture into the tower with just one companion, unaware of the fact that the "false Latok" was just a trap set by powerful demons, intended to lure him into the den of evil. Xak Precious Package: The Tower of Gazzel is a side-story in the Xak universe.</desc>
+		<rating>0.9</rating>
+		<releasedate>19910601T000000</releasedate>
+		<developer>Microcabin</developer>
+		<publisher>Microcabin</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Xak Precious Package - The Tower of Gazzel .jpg</image>
+		<video>./snaps/Xak Precious Package - The Tower of Gazzel .mp4</video>
+	</game>
+	<game>
+		<path>./Ys III - Wanderers from Ys.m3u</path>
+		<name>Ys III: Wanderers from Ys</name>
+		<sortname>Ys 3</sortname>
+		<desc>Adol Christin's long-time friend, Dogi, wishes to return to his home town of Redmont after hearing about strange disturbances that are happening there. Always looking for an adventure, Adol joins him and soon finds out the cause of this new evil. Ys III: Wanderers from Ys breaks away from the "bumping into enemies" battle system of the first two games, allowing Adol to control his sword in a variety of directions. Beside changing the battle system, the game's perspective switches to a side-scrolling view, as opposed to the top-down one of the previous games. Adol also has the ability to jump now. New to the series is the use of magical rings, which give Adol different powering-up abilities such as healing and shielding.</desc>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Ys III - Wanderers from Ys.jpg</image>
+		<video>./snaps/Ys III - Wanderers from Ys.mp4</video>
 	</game>
 	<game>
 		<path>./Aleste 2.m3u</path>
@@ -262,31 +418,29 @@
 		<video>./snaps/Aleste 2.mp4</video>
 	</game>
 	<game>
-		<path>./King's Valley II - The Seal of El Gizah [T-En by FRS v.1.1].zip</path>
-		<name>King's Valley II: The Seal of El Giza</name>
-		<desc>Far, far into the future, inter-planetary archaeologist Vick XIII, makes a choking discovery. The pyramids on earth are malfunctioning devices of alien origin with enough energy to destroy earth. And it's up to Vick to switch off the core functions of El GizaThe game consists of six pyramids each with its own wall engravings and color pattern; every pyramid contains 10 levels. The idea of the game is to collect crystals called soul stones in each level by solving the different puzzles and evading or killing the enemies using the many tools and weapons available to unlock the exit door that will take you to the next level.</desc>
-		<image>./boxart/King's Valley II - The Seal of El Gizah [T-En by FRS v.1.1].jpg</image>
-		<video>./snaps/King's Valley II - The Seal of El Gizah [T-En by FRS v.1.1].mp4</video>
-		<rating>0.7</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Puzzle</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220223T162057</lastplayed>
-	</game>
-	<game>
-		<path>./Metal Gear 2 - Solid Snake [T-En by Takamichi Suzukawa &amp; Maarten ter Huurne v.1.0 + Fixes by BiFi].zip</path>
+		<path>./Metal Gear 2.zip</path>
 		<name>Metal Gear 2: Solid Snake</name>
+		<sortname />
 		<desc>In 1999, a great scientist named Kio Marv invented "oilix", a special petroleum-purifying substance that was supposed to help in the upcoming oil crisis. Shortly after the invention became known in the world, Dr. Marv was abducted.</desc>
-		<image>./boxart/Metal Gear 2 - Solid Snake [T-En by Takamichi Suzukawa &amp; Maarten ter Huurne v.1.0 + Fixes by BiFi].jpg</image>
-		<video>./snaps/Metal Gear 2 - Solid Snake [T-En by Takamichi Suzukawa &amp; Maarten ter Huurne v.1.0 + Fixes by BiFi].mp4</video>
 		<rating>0.95</rating>
 		<releasedate>19900720T000000</releasedate>
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
 		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220223T162336</lastplayed>
+		<image>./boxart/Metal Gear 2.jpg</image>
+		<video>./snaps/Metal Gear 2.mp4</video>
+	</game>
+	<game>
+		<path>./Treasure of Usas, The (Japan, Europe).zip</path>
+		<name>Treasure of Usas, The</name>
+		<sortname />
+		<desc>The Treasure Of Usas is a platform game. Centuries ago, the War God Induras banished Usas, the supreme Mother God, and threw the four pieces of her jewel in the winds. Wit and Cles are attempting to find the broken jewel to try and achieve one of the greatest discoveries of the academic world. Their adventures, controlled by you, will lead them to many strange places to fight many unusual enemies. There are five stages in the game.</desc>
+		<rating>0.95</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/Treasure of Usas, The (Japan, Europe).jpg</image>
+		<video>./snaps/Treasure of Usas, The (Japan, Europe).mp4</video>
 	</game>
 </gameList>

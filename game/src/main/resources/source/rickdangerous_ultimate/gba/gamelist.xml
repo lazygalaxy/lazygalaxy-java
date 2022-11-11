@@ -582,7 +582,7 @@
 	<game>
 		<path>./Klonoa - Empire of Dreams (USA).zip</path>
 		<name>Klonoa: Empire of Dreams</name>
-		<sortname />
+		<sortname>Klonoa for Klonoa: Empire of Dreams</sortname>
 		<desc>A grumpy Emperor suffering from insomnia has banned dreaming and imprisoned Klonoa for breaking the law. To prove his courage and win his freedom, Klonoa must defeat the monsters that are creating havoc throughout the empire. Help our hero in his most perilous journey yet and experience the all-new thrills!</desc>
 		<rating>0.8</rating>
 		<releasedate>20010911T000000</releasedate>
@@ -903,7 +903,7 @@
 	</game>
 	<game>
 		<path>./Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA).zip</path>
-		<name>The Legend of Zelda: A Link to the Past &amp; Four Swords</name>
+		<name>Legend of Zelda: A Link to the Past &amp; Four Swords, The</name>
 		<sortname />
 		<desc>The Legend of Zelda: A Link to the Past &amp; Four Swords for Game Boy Advance is a remake of A Link to the Past coupled with an entirely new game, Four Swords. This two-in-one game was released shortly before The Wind Waker. While A Link to the Past is largely a faithful port of the original, it does include an entirely new dungeon and a new quest as rewards for the player playing through the multiplayer-only Four Swords.</desc>
 		<rating>0.9</rating>
@@ -917,7 +917,7 @@
 	</game>
 	<game>
 		<path>./Legend of Zelda, The - The Minish Cap (USA).zip</path>
-		<name>The Legend of Zelda: The Minish Cap</name>
+		<name>Legend of Zelda: The Minish Cap, The</name>
 		<sortname />
 		<desc>Link returns in an all-new Game Boy Advance adventure. When the sorcerer Vaati turns Princess Zelda to stone, the king of Hyrule sends Link on a quest that takes him to all-new locations. Using the power of a mystical hat called the Minish Cap, Link must travel through a fantastic world rife with new items, puzzles, and bosses. As Link, you can shrink down to either battle large enemies from within or find secret items. You can also unlock items and solve puzzles by fusing together magic relics.</desc>
 		<rating>0.9</rating>
@@ -1015,7 +1015,7 @@
 	</game>
 	<game>
 		<path>./Pinball of the Dead, The (USA).zip</path>
-		<name>The Pinball of the Dead</name>
+		<name>Pinball of the Dead, The</name>
 		<sortname />
 		<desc>Based on "The House of the Dead" arcade/dreamcast series, this is a simple combination of pinball and the evil dead. Three pinball tables, Wondering, Movement, and Cemetary (all based on areas seen in The House of the Dead and The House of the Dead 2) are infested with zombies and using your silver ball, you must take out the zombies to save the table. The more you take out, the more points you get and the better the opportunity to take on one of the final bosses.</desc>
 		<rating>0.7</rating>
@@ -1392,34 +1392,6 @@
 		<video>./snaps/Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).mp4</video>
 	</game>
 	<game>
-		<path>./Lord of the Rings, The - The Two Towers (USA, Europe) (En,Fr,De,Es,It,Nl).zip</path>
-		<name>The Lord of the Rings: The Two Towers</name>
-		<sortname>The Lord 1</sortname>
-		<desc>The second chapter in the epic story of Middle-earth pits you against Sauron and the evil forces of Mordor. In The Lord of the Rings: The Two Towers, you'll battle an army of 10,000 Uruk-Hai on the walls of Helm's Deep, hordes of Orcs on the plains of Rohan, and even the monstrous Cave Troll in Balin's Tomb. Guide Aragorn, Gimli, or Legolas through 13 interactive environments, using each character's unique moves, skills, and weaponry to complete your quest.</desc>
-		<rating>0.85</rating>
-		<releasedate>20021112T000000</releasedate>
-		<developer>Griptonite Games</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Role Playing Games</genre>
-		<players>1</players>
-		<image>./boxart/Lord of the Rings, The - The Two Towers (USA, Europe) (En,Fr,De,Es,It,Nl).jpg</image>
-		<video>./snaps/Lord of the Rings, The - The Two Towers (USA, Europe) (En,Fr,De,Es,It,Nl).mp4</video>
-	</game>
-	<game>
-		<path>./Lord of the Rings, The - The Return of the King (USA, Europe) (En,Fr,De,Es,It).zip</path>
-		<name>The Lord of the Rings: The Return of the King</name>
-		<sortname>The Lord 2</sortname>
-		<desc>Return to Middle-earth in a game based on the epic final chapter of the The Lord of the Rings movie trilogy. Developed using the same digital assets as the films, The Return of the King recreates in stunning detail the final events of the War of the Ring. Become the heroes who determine the fate of Middle-earth as you traverse the haunted Paths of the Dead, defend Minas Tirith, and even play co-op multiplayer with a friend as you march against the impenetrable Black Gates of Mordor. The fate of Middle-earth is in your hands.</desc>
-		<rating>0.85</rating>
-		<releasedate>20041112T000000</releasedate>
-		<developer>Griptonite Games</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Action-Adventure</genre>
-		<players>1</players>
-		<image>./boxart/Lord of the Rings, The - The Return of the King (USA, Europe) (En,Fr,De,Es,It).jpg</image>
-		<video>./snaps/Lord of the Rings, The - The Return of the King (USA, Europe) (En,Fr,De,Es,It).mp4</video>
-	</game>
-	<game>
 		<path>./Bomberman Tournament (USA, Europe).zip</path>
 		<name>Bomberman Tournament</name>
 		<sortname />
@@ -1437,7 +1409,7 @@
 		<path>./Colin McRae Rally 2.0 (USA) (En,Fr,De).zip</path>
 		<name>Colin McRae Rally 2.0</name>
 		<sortname />
-		<desc>TThe game features five licensed cars (Ford Focus, Mitsubishi Lancer, Toyota Corolla, Subaru Impreza, Ford Puma) and tracks in six different countries (Finland, France, Sweden, Australia, Kenya, United Kingdom). The game's main rally mode takes the player through a championship, with each of the six countries' rally tracks consisting of six stages each. The game takes the simulation approach, with the player being able to adjust suspension, gearbox, steering, tyres and more to fit driving style and road conditions.</desc>
+		<desc>The game features five licensed cars (Ford Focus, Mitsubishi Lancer, Toyota Corolla, Subaru Impreza, Ford Puma) and tracks in six different countries (Finland, France, Sweden, Australia, Kenya, United Kingdom). The game's main rally mode takes the player through a championship, with each of the six countries' rally tracks consisting of six stages each. The game takes the simulation approach, with the player being able to adjust suspension, gearbox, steering, tyres and more to fit driving style and road conditions.</desc>
 		<rating>0.9</rating>
 		<releasedate>20020916T000000</releasedate>
 		<developer>Ubisoft</developer>
@@ -1701,7 +1673,7 @@
 	</game>
 	<game>
 		<path>./Dragon Ball Z - The Legacy of Goku II (USA).zip</path>
-		<name>Dragon Ball Z : The Legacy of Goku 2</name>
+		<name>Dragon Ball Z: The Legacy of Goku II</name>
 		<sortname />
 		<desc>Just when the Z Fighters thought the struggle against evil was over, a new evil approaches. In the next episode in the Z Fighters' quest to rid the universe of evil, you'll take on the role of Trunks, Goku, Gohan, Piccolo, or Vegeta as they journey through the Cell Saga and prepare to battle with the mighty Cell himself. With five playable characters, hours of gameplay, and massive game maps to explore, it's a DBZ adventure of epic proportions.</desc>
 		<rating>0.85</rating>
@@ -1743,43 +1715,1742 @@
 	<game>
 		<path>./Mega Man &amp; Bass (USA).zip</path>
 		<name>Mega Man &amp; Bass</name>
+		<sortname />
 		<desc>The mighty robot King has taken over Dr. Wily's base, invaded the Robot Museum, and stolen 100 CDs containing secret robot plans, hoping to create the ultimate unstoppable army of robots! And to make matters worse, he's sent 8 robot masters to prove his new-found power! Mega Man is the only one who can stop him or so he thought! Bass, Dr. Wily's greatest creation and Mega Man's sworn rival, is actually fighting ALONGSIDE Mega Man for once! Of course, it's only to prove that he's the strongest robot ever made, and he'll do it by smashing King's army of mechanical maniacs!</desc>
-		<image>./boxart/Mega Man &amp; Bass (USA).jpg</image>
-		<video>./snaps/Mega Man &amp; Bass (USA).mp4</video>
 		<rating>0.65</rating>
 		<releasedate>20030318T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>Action</genre>
-		<playcount>2</playcount>
-		<lastplayed>20220213T132258</lastplayed>
+		<image>./boxart/Mega Man &amp; Bass (USA).jpg</image>
+		<video>./snaps/Mega Man &amp; Bass (USA).mp4</video>
 	</game>
 	<game>
 		<path>./Monster Truck Madness (USA, Europe).zip</path>
 		<name>Monster Truck Madness</name>
+		<sortname />
 		<desc>Take to the mud in Monster Trucks such as Gravedigger and Carolina Crusher. Three game modes, ten tracks and thirty events await. Destructible objects means you can run down anything that gets in your way. However, real time vehicle deformation means your Monster Truck may end up off second best!</desc>
-		<image>./boxart/Monster Truck Madness (USA, Europe).jpg</image>
-		<video>./snaps/Monster Truck Madness (USA, Europe).mp4</video>
 		<rating>0</rating>
 		<releasedate>19700101T010000</releasedate>
 		<developer>Tantalus Interactive Pty. Ltd.</developer>
 		<publisher>THQ</publisher>
 		<genre>Racing</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220222T093220</lastplayed>
+		<image>./boxart/Monster Truck Madness (USA, Europe).jpg</image>
+		<video>./snaps/Monster Truck Madness (USA, Europe).mp4</video>
 	</game>
 	<game>
 		<path>./SEGA Rally Championship (USA).zip</path>
 		<name>Sega Rally Championship</name>
+		<sortname />
 		<desc>Sega Rally makes its debut on the handheld format with this GBA rendition. Choose from a number of fully licensed rally cars (Subaru, Ford, Toyota, Mitsubishi, etc.) and hit the rally tracks. You'll find a number of different terrains, from dirt to snow, country roads to jungle hills. The aim is to cross the finish line with the best time possible, beating out the opposition to the main prize. You'll have the chance to upgrade and repair your car as you go, which is important if you want to find the reach the line first. The more you win, the more you'll unlock. From new cars and tracks to mini-games and galleries.</desc>
-		<image>./boxart/SEGA Rally Championship (USA).jpg</image>
-		<video>./snaps/SEGA Rally Championship (USA).mp4</video>
 		<rating>0.3</rating>
 		<releasedate>20030425T000000</releasedate>
 		<developer>Dice</developer>
 		<publisher>SEGA</publisher>
 		<genre>Racing</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220222T093606</lastplayed>
+		<image>./boxart/SEGA Rally Championship (USA).jpg</image>
+		<video>./snaps/SEGA Rally Championship (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Activision Anthology (USA).zip</path>
+		<name>Activision Anthology</name>
+		<sortname />
+		<desc>The GBA version of Activision Anthology is different from Activision Anthology: Remix Edition (Windows/Mac), Activision Anthology (PS2), and Activision Hits Remixed (PSP). It contains 56 games, more than the other versions and does not include the Imagic titles (Atlantis, Demon Attack, and Moonsweeper). A few of the extra games are homebrew. The player may also view the original cartridges (2D, not 3D like the other versions) and the manuals. This version also includes less music than the others. There are different game modes to play and you can earn original gamer patches.</desc>
+		<rating>0.75</rating>
+		<releasedate>20031208T000000</releasedate>
+		<developer>Aspyr</developer>
+		<publisher>Aspyr</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Activision Anthology (USA).jpg</image>
+		<video>./snaps/Activision Anthology (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ballistic - Ecks vs. Sever (USA).zip</path>
+		<name>Ballistic: Ecks vs. Sever</name>
+		<sortname />
+		<desc>Ex-FBI agent Ecks and Ex-NSA operative Sever are back in another action filled game. Freedom has been compromised and Ecks and Sever are pitted against each other as pawns in the underground trade of nuclear weapons. With little time to save the world from nuclear holocaust, every mission is the most important. Have you got what it takes?</desc>
+		<rating>0.9</rating>
+		<releasedate>20020914T000000</releasedate>
+		<developer>Crawfish Interactive</developer>
+		<publisher>Bam Entertainment</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Ballistic - Ecks vs. Sever (USA).jpg</image>
+		<video>./snaps/Ballistic - Ecks vs. Sever (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Baseball Advance (USA).zip</path>
+		<name>Baseball Advance</name>
+		<sortname />
+		<desc>Sega and THQ combine to bring Baseball to the GBA. Featuring Season, All-Star, Playoff and Exhibition modes, you can choose from every team and player from the current lineup of the Major Baseball League. You also have four fields to choose from (Fenway Park, Safeco Field, Wingley Field and Pacific Bell Park). The batting and pitching elements of the game are shown throw a 3rd person, behind the batter style camera. The fielding, however, plays from a top-down perspective allowing you to see the field clearly.</desc>
+		<rating>0.7</rating>
+		<releasedate>20020320T000000</releasedate>
+		<developer>Smilebit</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Baseball Advance (USA).jpg</image>
+		<video>./snaps/Baseball Advance (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Breath of Fire (USA).zip</path>
+		<name>Breath of Fire</name>
+		<sortname />
+		<desc>Long ago in the days of darkness and magic, a young wanderer comes face to face with his destiny. You control the fate of Ryu, a young warrior and descendant of the Light Dragon Clan. Together, with your mystical friend, Nina, you must search for magic spells and mysterious secrets. Along the way, gain experience and skill as you battle against strange monsters. Uncover valuable secrets that will help you on your adventure and unlock the secrets of the Dragon Clan.</desc>
+		<rating>0.7</rating>
+		<releasedate>20011212T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Breath of Fire (USA).jpg</image>
+		<video>./snaps/Breath of Fire (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Breath of Fire II (USA).zip</path>
+		<name>Breath of Fire II</name>
+		<sortname />
+		<desc>Ryu was a young boy who has memories of a strange village far away and a magical doorway which sucked him through. However those are only distant memories. Ryu and his best friend Bow are apprentices in the Ranger's Guild. As adventurers they take on posted jobs needed by the townspeople. However it isn't long before one job goes awry and Bow is accused of stealing a valuable item. In order to clear his friend's name and find the meaning of his dreams, Ryu will explore the world, eventually discovering the meaning of his dreams and hidden abilities inside himself. Breath of Fire II is a role playing game. The majority of game is played from a top-down map, however battles are seen from an isometric view.</desc>
+		<rating>0.7</rating>
+		<releasedate>20020415T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Breath of Fire II (USA).jpg</image>
+		<video>./snaps/Breath of Fire II (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It).zip</path>
+		<name>Broken Sword: The Shadow of the Templars</name>
+		<sortname />
+		<desc>A quiet drink in a Cafe in Paris is the start of a mysterious adventure for young American George Stobbart. Unwittingly he is drawn into a web of archaic and sinister plots, with origins that extend back to the earty 14th Century and the deadly order of the Knights Templar. Dive into an adventure of global exploration: cryptic puzzle solving; and fight for survival. Feast on over 60 beautifully animated characters in over 70 breathtaking, hand drawn locations. Answer the call to action and challenge yourself to the limit with compelling game play for the would-be adventure.</desc>
+		<rating>0.85</rating>
+		<releasedate>19920317T000000</releasedate>
+		<developer>Revolution Software</developer>
+		<publisher>Bam Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Bruce Lee - Return of the Legend (USA).zip</path>
+		<name>Bruce Lee: Return of the Legend</name>
+		<sortname />
+		<desc>The legendary Bruce Lee is back as Hai Feng! Master Bruce's fists of fury, nunchaku and dozens of awesome moves as you travel across the globe to locations of mystery and intrigue in this epic martial arts adventure! Use the environment to your advantage, evade your enemies by scaling walls, fight like the Masterwith multiple combo and power-up attacks.</desc>
+		<rating>0.8</rating>
+		<releasedate>20030321T000000</releasedate>
+		<developer>Vicarious Vision</developer>
+		<publisher>Universal Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Bruce Lee - Return of the Legend (USA).jpg</image>
+		<video>./snaps/Bruce Lee - Return of the Legend (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Crash Bandicoot 2 - N-Tranced (USA).zip</path>
+		<name>Crash Bandicoot 2: N-Tranced</name>
+		<sortname />
+		<desc>Crash is back and ready to take on an all-new nefarious villain. After the events of Crash Bandicoot: The Huge Adventure, Tropy, with the help of N. Trance, kidnaps Coco and Crunch, planning to brainwash them to the evil side. Now, Crash must travel to N. Trance's twisted realm, battle and rescue Coco and Crunch, and ultimately defeat N. Trance and N. Tropy. To achieve these goals, you must use all of Crash's spin, slide, and jumping abilities across 24 different levels. As you progress through the game, you'll find yourself flying a helicopter, water-skiing, and piloting a spaceship--all for the sake of saving your friends.</desc>
+		<rating>0.8</rating>
+		<releasedate>20031204T000000</releasedate>
+		<developer>Vicarious Vision</developer>
+		<publisher>Universal Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Crash Bandicoot 2 - N-Tranced (USA).jpg</image>
+		<video>./snaps/Crash Bandicoot 2 - N-Tranced (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Crash Bandicoot Purple - Ripto's Rampage (USA) (Rev 1).zip</path>
+		<name>Crash Bandicoot Purple: Ripto's Rampage</name>
+		<sortname />
+		<desc>In Crash Bandicoot Purple: Ripto's Rampage and Spyro Orange: The Cortex Conspiracy, Dr. Neo Cortex--Crash's nemesis--and Ripto--Spyro's nemesis--have accidentally met up through underground portals and are set on taking over the entire universe. Crash and Spyro must team up with each other to discover the identity of the new menace and save the universe from this evil plot. In these side-scrolling adventures, you can link up with three friends for a variety of multiplayer modes, including Party Games, Wager Games, and Card Trading. Connecting both Crash Bandicoot Purple and Spyro Orange gives you the option of unlocking special content and allows you to trade and wager the cards with friends.</desc>
+		<rating>0.7</rating>
+		<releasedate>20040601T000000</releasedate>
+		<developer>Vicarious Vision</developer>
+		<publisher>Vivendi Universal Games</publisher>
+		<genre>Platform</genre>
+		<players>1-4</players>
+		<image>./boxart/Crash Bandicoot Purple - Ripto's Rampage (USA) (Rev 1).jpg</image>
+		<video>./snaps/Crash Bandicoot Purple - Ripto's Rampage (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./DK - King of Swing (USA).zip</path>
+		<name>DK: King of Swing</name>
+		<sortname />
+		<desc>Cranky is hosting the Jungle Jam contest. Before the contest can begin, King K. Rool steals the medallions. It's up to Donkey Kong to retrieve the medals. Players use the L and R Buttons to move left and right and to rotate counter-clockwise and clockwise on pegs. Most of the action takes place on these pegs. DK attacks by either charging up by holding on to two pegs at once or throwing things such as rocks or bombs.</desc>
+		<rating>0.8</rating>
+		<releasedate>20050204T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-4</players>
+		<image>./boxart/DK - King of Swing (USA).jpg</image>
+		<video>./snaps/DK - King of Swing (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Fire Pro Wrestling (USA, Europe).zip</path>
+		<name>Fire Pro Wrestling</name>
+		<sortname />
+		<desc>The first North American release of the Fire Pro Wrestling series comes to the Game Boy Advance. Fire Pro Wrestling has a stacked roster, comprised of many not-quite-copyright-infringing wrestlers like "The Bionic Man" Steve Majors ("Stone Cold" Steve Austin) and Axe Duggan (Hulk Hogan), making WCW vs. WWF vs. ECW matches possible. The controls are much more than the typical "mash buttons until something happens" that were so popular in earlier wrestling games, instead relying on timing to properly execute a move or hold.</desc>
+		<rating>0.55</rating>
+		<releasedate>20020302T000000</releasedate>
+		<developer>Spike Co</developer>
+		<publisher>Bam Entertainment</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Fire Pro Wrestling (USA, Europe).jpg</image>
+		<video>./snaps/Fire Pro Wrestling (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Fire Pro Wrestling 2 (USA).zip</path>
+		<name>Fire Pro Wrestling 2</name>
+		<sortname />
+		<desc>Fire Pro Wrestling 2 features detailed action and more than 200 wrestlers from which to choose, as well as the ability to create and store wrestlers of your own. It also allows you to connect up to four Game Boy Advances and take on, team up, or trade wrestlers. You can customize every detail of a wrestler's appearance and use more than 1,200 fighting techniques in several modes, including Normal, Deathmatch, Gruesome, and Battle Royal. The game also includes a practice dojo in which you can practice your standing move, grab move, running move, and your move against a downed opponent.</desc>
+		<rating>0.7</rating>
+		<releasedate>20020923T000000</releasedate>
+		<developer>Spike Co</developer>
+		<publisher>Bam Entertainment</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Fire Pro Wrestling 2 (USA).jpg</image>
+		<video>./snaps/Fire Pro Wrestling 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Game &amp; Watch Gallery 4 (USA).zip</path>
+		<name>Game &amp; Watch Gallery 4</name>
+		<sortname />
+		<desc>A collection of classic Nintendo Game &amp; Watch titles, as well as GBA exclusive updates. Games include Donkey Kong 3, Boxing, Fire Attack, Mario Cement Factory &amp; Rainshower, plus extra games that can only be opened if you beat the high score for each game. Each game has two modes, one which emulates the original Game &amp; Watch LCD format and an updated version which features improved graphics, slight gameplay changes and a host of Mario characters.</desc>
+		<rating>0.75</rating>
+		<releasedate>20021028T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Game &amp; Watch Gallery 4 (USA).jpg</image>
+		<video>./snaps/Game &amp; Watch Gallery 4 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Gradius Galaxies (USA).zip</path>
+		<name>Gradius Galaxies</name>
+		<sortname />
+		<desc>Gradius Galaxies' side-scrolling action hearkens back to the early days of arcade shoot-'em-ups - wave after wave of enemies hound you through 8 all new stages, and colossal end bosses fill the screen with a constellation of heavy fire. Strap yourself in tight behind the controls of the Vic Viper, a fast and deadly attack ship. Choose the weapons configuration, including twin cannons, photon missiles, and beam lasers, and enhance those weapons during gameplay by grabbing power ups.</desc>
+		<rating>0.7</rating>
+		<releasedate>20011116T000000</releasedate>
+		<developer>Mobile 21</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Gradius Galaxies (USA).jpg</image>
+		<video>./snaps/Gradius Galaxies (USA).mp4</video>
+	</game>
+	<game>
+		<path>./GT Advance - Championship Racing (USA, Europe).zip</path>
+		<name>GT Advance: Championship Racing</name>
+		<sortname>GT Advance 1</sortname>
+		<desc>A Racing Simulation using "real world" vehicles, mostly Japanese models. similar to the PlayStation Gran Turismo series. Players begin with a single vehicle selected from a range of fairly standard models, that car is entered into a series of races with cash prizes and prize money can be used to purchase additional vehicles or upgrade an existing one.</desc>
+		<rating>0.8</rating>
+		<releasedate>20010622T000000</releasedate>
+		<developer>MTO</developer>
+		<publisher>THQ</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/GT Advance - Championship Racing (USA, Europe).jpg</image>
+		<video>./snaps/GT Advance - Championship Racing (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./GT Advance 2 - Rally Racing (USA).zip</path>
+		<name>GT Advance 2: Rally Racing</name>
+		<sortname>GT Advance 2</sortname>
+		<desc>More arcade then simulation. GT Advance 2 offers 15 rally cars, which you can tune, upgrade and modify between races, to be raced on 42 different tracks with varying weather conditions and road surfaces (tarmac, dirt, etc.) plus long corners, perfect for power sliding. By winning each race you unlock new cars to select, and upgrades to previous cars. Along with the championship mode, you can also race against the clock or a friend, and the ability to race for licenses by completing certain areas of tracks.</desc>
+		<rating>0.55</rating>
+		<releasedate>20011207T000000</releasedate>
+		<developer>MTO</developer>
+		<publisher>THQ</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/GT Advance 2 - Rally Racing (USA).jpg</image>
+		<video>./snaps/GT Advance 2 - Rally Racing (USA).mp4</video>
+	</game>
+	<game>
+		<path>./GT Advance 3 - Pro Concept Racing (USA).zip</path>
+		<name>GT Advance 3: Pro Concept Racing</name>
+		<sortname>GT Advance 3</sortname>
+		<desc>Get behind the wheel of the world's top rally cars as you span the globe in quest of a championship. Listen to your navigator as he helps you through more than 40 unique tracks spanning different weather and terrain through 14 grueling stages. Fly over jumps or skid around obstacles on your way to the top of the rally racing circut. Link up with a friend using the GBA link cable for amazing head-to-head competition or watch the action again using the replay mode.</desc>
+		<rating>0.7</rating>
+		<releasedate>20020924T000000</releasedate>
+		<developer>MTO Co</developer>
+		<publisher>THQ</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/GT Advance 3 - Pro Concept Racing (USA).jpg</image>
+		<video>./snaps/GT Advance 3 - Pro Concept Racing (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Harry Potter and the Goblet of Fire (USA, Europe) (En,Fr,De,Es,It,Nl,Da).zip</path>
+		<name>Harry Potter and the Goblet of Fire</name>
+		<sortname />
+		<desc>Harry, Ron, and Hermione are back in Harry Potter and the Goblet of Fire--a game based on J.K. Rowling's fourth book. The game follows Harry, the wizard-in-training, as he confronts a fire-breathing dragon, rescues friends from the icy depths of the Black Lake, and navigates the twisting corridors of a maze. As Harry, Ron, or Hermione, you can cast a variety of spells in both single-player and cooperative modes.</desc>
+		<rating>0.65</rating>
+		<releasedate>20051110T000000</releasedate>
+		<developer>Magic Pockets</developer>
+		<publisher>EA Games</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1-2</players>
+		<image>./boxart/Harry Potter and the Goblet of Fire (USA, Europe) (En,Fr,De,Es,It,Nl,Da).jpg</image>
+		<video>./snaps/Harry Potter and the Goblet of Fire (USA, Europe) (En,Fr,De,Es,It,Nl,Da).mp4</video>
+	</game>
+	<game>
+		<path>./Jurassic Park III - Park Builder (USA).zip</path>
+		<name>Jurassic Park III: Park Builder</name>
+		<sortname />
+		<desc>Clearly, the folks who built the original park were guilty of a few oversights. Think you can do any better? Try your hand at plotting out all of the details of the creation and management of a dinosaur park in JURASSIC PARK III: Park Builder. A strategy-simulation title of the highest caliber, the game leaves you in charge of 100 dinosaur species you have the task of placing them and maintaining their health. Of course, there's also the matter of the restaurants, shops, rides, and other attractions. If the park you create is too boring, poorly maintained, or excessively expensive, no one will show up, so you'd better use some seriously discerning judgment.</desc>
+		<rating>0.8</rating>
+		<releasedate>20011012T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Jurassic Park III - Park Builder (USA).jpg</image>
+		<video>./snaps/Jurassic Park III - Park Builder (USA).mp4</video>
+	</game>
+	<game>
+		<path>./King of Fighters EX 2, The - Howling Blood (USA).zip</path>
+		<name>King of Fighters EX 2: Howling Blood, The</name>
+		<sortname>King of Fighters EX 2</sortname>
+		<desc>The latest portable fighting masterpiece in one of the greatest series of all time!</desc>
+		<rating>0.85</rating>
+		<releasedate>20031210T000000</releasedate>
+		<developer>Marvelous Entertainment</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/King of Fighters EX 2, The - Howling Blood (USA).jpg</image>
+		<video>./snaps/King of Fighters EX 2, The - Howling Blood (USA).mp4</video>
+	</game>
+	<game>
+		<path>./King of Fighters EX, The - NeoBlood (USA) (Rev 1).zip</path>
+		<name>King of Fighters EX: NeoBlood, The</name>
+		<sortname>King of Fighters EX</sortname>
+		<desc>Invitations to the King of Fighters Tournament have been sent to the best fighters in the world by an unknown host. Despite suspicions of an evil scheme, the fighters are ready to enter the arena to determine who the true King of Fighters will be.</desc>
+		<rating>0.85</rating>
+		<releasedate>20021105T000000</releasedate>
+		<developer>Artoon</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/King of Fighters EX, The - NeoBlood (USA) (Rev 1).jpg</image>
+		<video>./snaps/King of Fighters EX, The - NeoBlood (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Konami Collector's Series - Arcade Advanced (USA).zip</path>
+		<name>Konami Collector's Series: Arcade Advanced</name>
+		<sortname />
+		<desc>Six Konami arcade classics arrive in Konami's Collectors Series: Arcade Advanced. For the first time in over ten years, play the original arcade version of the classic hit Frogger. Search the solar system, travel through time and space, and infiltrate enemy bases in Gyruss, Time Pilot, Rush 'n Attack, and Scramble. And test your martial arts skill in Yie Ar Kung Fu. With better graphics, levels, difficulty, and a multiplayer mode, Konami's compilation shows that its greatest games improve with age.</desc>
+		<rating>0.7</rating>
+		<releasedate>20020321T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Konami Collector's Series - Arcade Advanced (USA).jpg</image>
+		<video>./snaps/Konami Collector's Series - Arcade Advanced (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Lara Croft Tomb Raider - The Prophecy (USA) (En,Fr,De,Es,It).zip</path>
+		<name>Tomb Raider: The Prophecy</name>
+		<sortname />
+		<desc>Lara Croft discovers a manuscript which speaks of a mysterious occult magic which will bring desolation on earth in the near future. This prophecy also talks of three legendary stones which are linked with the mentioned devastation. Fascinated, Lara travels around the globe in search of these fabled stones. Along the way she'll meet enemies both human and otherwise and will also have to deal with dark magic of sorts. Lara is now in a "quasi-3D" overhead environment, as opposed to the 2D-platformer view of the previous handheld (GBC) versions. This view proves helpful while Lara runs, jumps, shimmys, and shoots around.</desc>
+		<rating>0.65</rating>
+		<releasedate>20021112T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Lara Croft Tomb Raider - The Prophecy (USA) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Lara Croft Tomb Raider - The Prophecy (USA) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Lilo &amp; Stitch 2 - Haemsterviel Havoc (USA).zip</path>
+		<name>Disney's Lilo &amp; Stitch 2: Haemsterviel Havoc</name>
+		<sortname />
+		<desc>Play as both Stitch and Lilo to rescue Nina and David, who have been kidnapped by the evil Hamsterviel and taken onboard his spaceship. To complicate things, Hamsterviel created evil alien Experiments that go head-to-head with our heroes. Start by capturing each Experiment and harnessing its special power in order to progress and capture the next. Sparky, Experiment 22, helps you out with his powerful electricity balls, while Richter, Experiment 513, shakes things up by igniting an earthquake. Gameplay modes include platform-shooting as Stitch, navigation and strategy as Lilo, intense racing, and multiplayer mode.</desc>
+		<rating>0.8</rating>
+		<releasedate>20060209T000000</releasedate>
+		<developer>Climax Studios</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Lilo &amp; Stitch 2 - Haemsterviel Havoc (USA).jpg</image>
+		<video>./snaps/Lilo &amp; Stitch 2 - Haemsterviel Havoc (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Lion King 1 1-2, The (USA).zip</path>
+		<name>Disney's The Lion King 1½</name>
+		<sortname />
+		<desc>Timon and Pumbaa return to let you experience all their adventures in the Lion King films. The Lion King 1 1/2 offers three gameplay modes: solo, collaborative, and team-up. In each mode, you must master each character's unique abilities to overcome various obstacles and challenges. As you progress through the levels, you can unlock special challenges, bonus levels, and clips from the movie The Lion King 1 1/2. Now you can relive the movie's story and interact with its characters, including Simba and Rafiki.</desc>
+		<rating>0.65</rating>
+		<releasedate>20031007T000000</releasedate>
+		<developer>Vicarious Vision</developer>
+		<publisher>THQ</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Lion King 1 1-2, The (USA).jpg</image>
+		<video>./snaps/Lion King 1 1-2, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mario Pinball Land (USA, Australia).zip</path>
+		<name>Mario Pinball Land</name>
+		<sortname />
+		<desc>This is the standard "Bowser has kidnapped the Princess, and Mario must rescue her" story. In this case, the Princess is transformed into a ball and launched from a Super Mario 64-style cannon, which a pair of goombas aim directly at Bowser's Castle. Mario is also transformed into a ball and chases after her. There are 5 levels, each consisting of a set of pinball tables. Each table has some exits (including the one below the flippers) that Mario can use to move to other tables. Also, each one holds a star, normally obtained by defeating all enemies on the table. Some exits require that Mario has a certain number of stars.</desc>
+		<rating>0.8</rating>
+		<releasedate>20041004T000000</releasedate>
+		<developer>Fuse Games</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Mario Pinball Land (USA, Australia).jpg</image>
+		<video>./snaps/Mario Pinball Land (USA, Australia).mp4</video>
+	</game>
+	<game>
+		<path>./Metal Slug Advance (USA).zip</path>
+		<name>Metal Slug Advance</name>
+		<sortname />
+		<desc>You're a warrior of the war, but now you are alone. Enemies have captured your allied troops, and it's up to you to get them back. Armed to the teeth with firearms, grenades and specially made "Slug" vehicles, you must travel across the levels and blast anything in sight that isn't a friendly. Two characters are offered to play as, and along with the usual Metal Slug flair visually, and epic battle sequences against strange and startling foes, you can now collect special E-cards during the game. Saved allies will hand you these cards that, when brought back to camp, can increase ammo, power and many more improvements to alter the gameplay experience.</desc>
+		<rating>0.75</rating>
+		<releasedate>20041116T000000</releasedate>
+		<developer>Noise Factory</developer>
+		<publisher>Ignition Entertainment</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Metal Slug Advance (USA).jpg</image>
+		<video>./snaps/Metal Slug Advance (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Namco Museum (USA).zip</path>
+		<name>Namco Museum</name>
+		<sortname />
+		<desc>This collection of classic arcade titles includes: 1. Dig Dug 2. Galaga 3. Galaxian 4. Ms. Pac-Man (both scrolling and full screen) 5. Pole Position For certain games the settings can be tweaked.</desc>
+		<rating>0.65</rating>
+		<releasedate>20011207T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Namco Museum (USA).jpg</image>
+		<video>./snaps/Namco Museum (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pac-Man Collection (USA).zip</path>
+		<name>Pac-Man Collection</name>
+		<sortname />
+		<desc>Four classic Pac-Man games are included in this collection from Namco: 1. Pac-Man: The original arcade classic, complete and un-cut. 2. Pac-Mania: A conversion of the 1987 update to Pac-Man, which takes the elements of the original arcade game and puts it into an isometric view, as well as adding the ability to jump. 3. Pac-Man Arrangement: Never re-produced outside of the arcade, Arrangement again uses the elements of the original Pac-Man and adds a fifth ghost, who can change shape and size when combined with the other 4 ghosts, and make life harder for Pac-Man. New power-ups are also included, like the ability to dash quickly around the screen, warp points to get from one place to the other and new ways of catching ghosts.</desc>
+		<rating>0.75</rating>
+		<releasedate>20011207T000000</releasedate>
+		<developer>Mass Media</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Pac-Man Collection (USA).jpg</image>
+		<video>./snaps/Pac-Man Collection (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pirates of the Caribbean - Dead Man's Chest (USA, Europe) (En,Fr,De,Es,It).zip</path>
+		<name>Pirates of the Caribbean: Dead Man's Chest</name>
+		<sortname />
+		<desc>Based on the follow-up to the blockbuster original movie, Pirates of the Caribbean: Dead Man's Chest follows the movie's unlikely heroes as they explore and brawl across land and sea on a memorable quest in search of the legendary Dead Man's Chest. The games not only features thrilling moments from the movie, but also expands the fantasy of the franchise by offering exciting new adventures and locations inspired by the rich "Pirates of the Caribbean" universe. The Game Boy Advance version of Pirates of the Caribbean: Dead Man's Chest lets players take the helm of the Black Pearl as Captain Jack Sparrow in three-dimensional seafaring action to battle other ships or sail to 15 islands.</desc>
+		<rating>0.75</rating>
+		<releasedate>20060629T000000</releasedate>
+		<developer>Amaze Entertainment</developer>
+		<publisher>Buena Vista Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Pirates of the Caribbean - Dead Man's Chest (USA, Europe) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Pirates of the Caribbean - Dead Man's Chest (USA, Europe) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Puyo Pop (USA) (En,Ja).zip</path>
+		<name>Puyo Pop</name>
+		<sortname />
+		<desc>Help Arle and Carbuncle make their way home! Take on all of the wacky characters you meet in challenging games of Puyo Pop so you can make your way through the land and back to safety. It's a mad scramble to erase Puyo, create chain combos, and fill up your opponent's playfield in this fast-paced puzzle game.</desc>
+		<rating>0.7</rating>
+		<releasedate>20011018T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<genre>Puzzle</genre>
+		<players>1-4</players>
+		<image>./boxart/Puyo Pop (USA) (En,Ja).jpg</image>
+		<video>./snaps/Puyo Pop (USA) (En,Ja).mp4</video>
+	</game>
+	<game>
+		<path>./Qwak (Europe) (En,Fr,De,Es,It) (Unl).zip</path>
+		<name>Qwak</name>
+		<sortname />
+		<desc>In this game, you play a duck and the object of the game is to get the highest score without losing all your lives. This can be achieved by getting all the fruit and gems in the level, or killing off enemies. There are 80 levels to complete and once you complete all of them, the levels are repeated. You exit each level by collecting all the gold keys then entering through the door that opens. You have a certain amount of time to complete the level before spikes fall down the level. There are eight areas, all consisting of ten levels. At the end of each area, there is a guardian waiting for you, and again, you have a certain amount of time to defeat them.</desc>
+		<releasedate />
+		<developer>Jamie Woodhouse</developer>
+		<publisher>Jamie Woodhouse</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Qwak (Europe) (En,Fr,De,Es,It) (Unl).jpg</image>
+		<video>./snaps/Qwak (Europe) (En,Fr,De,Es,It) (Unl).mp4</video>
+	</game>
+	<game>
+		<path>./Santa Clause 3, The - The Escape Clause (USA).zip</path>
+		<name>Disney's The Santa Clause 3: The Escape Clause</name>
+		<sortname />
+		<desc>Can you help Santa and his elves stop Jack Frost from wreaking major holiday havoc? You'll have to overcome treacherous falling icicles, evil snowmen, powerful gusts of wind and lots of other obstacles. Take to the skies with Santa in his sleigh and battle the elements to deliver gifts to good boys and girls (and coal to the naughty.) Also included are puzzle-based challenges where you must help Santa's elves build toys in time for Christmas.</desc>
+		<rating>0.55</rating>
+		<releasedate>20061019T000000</releasedate>
+		<developer>1st Playable Productions</developer>
+		<publisher>Buena Vista Games</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Santa Clause 3, The - The Escape Clause (USA).jpg</image>
+		<video>./snaps/Santa Clause 3, The - The Escape Clause (USA).mp4</video>
+	</game>
+	<game>
+		<path>./SEGA Arcade Gallery (USA).zip</path>
+		<name>Sega Arcade Gallery</name>
+		<sortname />
+		<desc>4 classic Sega arcade titles return on one GBA cartridge: Outrun has you racing to the finish line, with multiple paths to race through, different conditions, plus plenty of traffic to dodge past. You can also choose from a range of background musical tracks with the radio. Space Harrier has you flying and blasting your way through level after level of aliens, dodging incoming fire and other obstacles in your way. Super Hang On, the second racer in the compilation, is a motoGP style racer where turbo boosts come into play. Beat the clock and the opposing racers while keeping yoru bike on the track to avoid falling off.</desc>
+		<rating>0.85</rating>
+		<releasedate>20030521T000000</releasedate>
+		<developer>Bits Studios</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/SEGA Arcade Gallery (USA).jpg</image>
+		<video>./snaps/SEGA Arcade Gallery (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Spider-Man (USA, Europe).zip</path>
+		<name>Spider-Man</name>
+		<sortname />
+		<desc>Spider-Man, the classic comic book co-created by Stan Lee, is now a major motion picture. This conversion of the movie to the video game world takes the major storyline, characters and artwork of the Spider-Man movie and adds a lengthy backstory and new characters. The Green Goblin is the main villian here, and as Peter Parker you must defy gravity using your spider crawl, web-slinging and spider-sense abilities to track down Spidey's nemesis through the skyscapers of New York City. The major inclusion for this title over the previous Spider-Man series (on Playstation also by Activision) is aerial combat.</desc>
+		<rating>0.9</rating>
+		<releasedate>20020531T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Spider-Man (USA, Europe).jpg</image>
+		<video>./snaps/Spider-Man (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Star Wars - Episode III - Revenge of the Sith (USA) (En,Fr,Es).zip</path>
+		<name>Star Wars: Episode III: Revenge of the Sith</name>
+		<sortname />
+		<desc>THE ULTIMATE JEDI ACTION EXPERIENCE With the fate of the Republic in your hands, you must master the ways of the Force - and resist its darkest temptations. -Use deadly weapon combos and maneuvers to defeat legendary Star Wars villains, including General Grievous and Count Dooku. -Discover formidable Jedi powers, including the Force Push, Saber Throw, and Jedi Mind Trick. -Pilot Classic Star Wars ships in action-packed four-player wireless dogfights.</desc>
+		<rating>0.65</rating>
+		<releasedate>20050505T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Beat'em up</genre>
+		<players>2</players>
+		<image>./boxart/Star Wars - Episode III - Revenge of the Sith (USA) (En,Fr,Es).jpg</image>
+		<video>./snaps/Star Wars - Episode III - Revenge of the Sith (USA) (En,Fr,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Super Dodge Ball Advance (USA) (Rev 1).zip</path>
+		<name>Super Dodge Ball Advance</name>
+		<sortname />
+		<desc>Super Dodge Ball Advance, based on the NES classic, takes place in the not-so-distant future when the sport of preteens has become the sport of kings and national pride hangs on the home team's ability to triumph in the number-one worldwide sport. Gamers choose a national team and compete against eight other countries in tournament-style bouts. You can knock the competition woozy with all sorts of different moves, customize your team by defining the attributes of your players, and play head-to-head against a friend's Game Boy Advance with the separately sold communication cable.</desc>
+		<rating>0.8</rating>
+		<releasedate>20010610T000000</releasedate>
+		<developer>Million</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Dodge Ball Advance (USA) (Rev 1).jpg</image>
+		<video>./snaps/Super Dodge Ball Advance (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Super Puzzle Fighter II (USA) (Rev 1).zip</path>
+		<name>Super Puzzle Fighter II</name>
+		<sortname />
+		<desc>Capcom's knockout puzzle game action, set in the Street Fighter universe, arrives on Game Boy Advanced. Hailed as one of the best puzzle games of all time, Super Puzzle Fighter is chockfull of ferocious competition, pint-sized characters and non-stop high-energy insanity. Carefully stack the falling colored gems in strategic combinations. When the moment is right, use a burst gem to shatter your blocks. Watch your character execute a combo move and rain a volley of counter gems down on your opponent. Be the first to fill the other's screen with gems and K.O. the other player. Features eight characters from the Dark Stalkers and Street Fighter franchises, including Ryu, Ken, and Chun-Li.</desc>
+		<rating>0.7</rating>
+		<releasedate>20030404T000000</releasedate>
+		<developer>Atomic Planet Entertainment</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Puzzle Fighter II (USA) (Rev 1).jpg</image>
+		<video>./snaps/Super Puzzle Fighter II (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Tiger Woods PGA Tour 2004 (USA, Europe).zip</path>
+		<name>Tiger Woods PGA Tour 2004</name>
+		<sortname />
+		<desc>Tiger Woods is back for another round of golf in the 2004 edition of the "best selling pro golf series". The biggest addition to this version is EA's Game Face, which lets you customize everything and anything. You have the basics, such as hair, skin, facial hair and other general appearances, but Game Face allows you to customize every other aspect, from teeth shape, logos, tattoos, headbands, hats, and more. You may also change individual body mass, muscle tone, mid-section, arms and legs. You also have the option of choosing specific swing style animations, post-putt and celebration animations, and "pissed off" animations for when you score a triple bogey.</desc>
+		<releasedate>20031104T000000</releasedate>
+		<developer>Backbone Emeryville</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Tiger Woods PGA Tour 2004 (USA, Europe).jpg</image>
+		<video>./snaps/Tiger Woods PGA Tour 2004 (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Tim Burton's The Nightmare Before Christmas - The Pumpkin King (USA, Europe) (En,Fr,De,Es,It).zip</path>
+		<name>Tim Burton's The Nightmare Before Christmas: The Pumpkin King</name>
+		<sortname />
+		<desc>Much to the dismay of Jack Skellington and the citizens of Halloween Town, unusual bugs have started to infest their township. At the root of this ever-increasing bug invasion is Oogie Boogie, a former holiday king who is determined to take over Halloween. With help from his friends Sally, the mayor, and Dr. Finklestein, Jack and his trusted pal Zero embark on a quest to rid the town of bugs and stop Oogie Boogie from carrying out his evil plot. As Jack, you must battle Oogie's creepy henchmen using an arsenal of different weapons and navigate through booby traps, mazes, and puzzles.</desc>
+		<rating>0.7</rating>
+		<releasedate>20051010T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Buena Vista Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Tim Burton's The Nightmare Before Christmas - The Pumpkin King (USA, Europe) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Tim Burton's The Nightmare Before Christmas - The Pumpkin King (USA, Europe) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Ultimate Brain Games (USA, Europe).zip</path>
+		<name>Ultimate Brain Games</name>
+		<sortname />
+		<desc>Ultimate Brain Games is a collection of 8 games you can play against the computer or a friend. The games include Sink Ships (aka Battleship), Mahjong, Backgammon, Chess, Checkers, Reversi, Dominoes, and Four in a Row (aka Connect Four). You start out by designing how your character looks. You can modify 9 areas of your character, from eyes to clothes. After doing so, decide to play single or multiplayer. Each game follows the rules and gameplay seen in the original games.</desc>
+		<rating>0.75</rating>
+		<releasedate>20030318T000000</releasedate>
+		<developer>Cosmigo</developer>
+		<publisher>Telegames</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
+		<image>./boxart/Ultimate Brain Games (USA, Europe).jpg</image>
+		<video>./snaps/Ultimate Brain Games (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Aero the Acro-Bat - Rascal Rival Revenge (USA).zip</path>
+		<name>Aero the Acro-Bat: Rascal Rival Revenge</name>
+		<sortname />
+		<desc>You play as bat Aero, who have to stop the mad scientist Edgar Ektor, who is trying to rid the world of amusement and fun. So you jump through the circus-style levels, using different kinds of machines such as catapults, cannons, bubble machines, platforms, etc., collecting various power-ups such as cheese, soda, keys, clocks, etc. and avoiding lethal obstacles.</desc>
+		<rating>1</rating>
+		<releasedate>20020514T000000</releasedate>
+		<developer>Atomic Planet</developer>
+		<publisher>Metro3D</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Aero the Acro-Bat - Rascal Rival Revenge (USA).jpg</image>
+		<video>./snaps/Aero the Acro-Bat - Rascal Rival Revenge (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Aggressive Inline (USA).zip</path>
+		<name>Aggressive Inline</name>
+		<sortname />
+		<desc>In Aggressive Inline the player takes the role of one of nine real-life skaters with one specific goal: receiving as much points as possible by performing spectacular stunts. Every of the 13 courses also has various special challenges, e.g. collecting or smashing certain items, which need to be performed to beat it. In contrast to the open areas of the console versions this one features more linear levels and tight time limits. It also replaces the "juice meter" with the so-called "grind meter" which is filled up by performing stunts. Every grind decreases this meter and if it is empty no grinds can be performed at all. Of course grinds are an elemental move to beat the challenges.</desc>
+		<rating>0.65</rating>
+		<releasedate>20020827T000000</releasedate>
+		<developer>Full Fat</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Aggressive Inline (USA).jpg</image>
+		<video>./snaps/Aggressive Inline (USA).mp4</video>
+	</game>
+	<game>
+		<path>./All-Star Baseball 2004 featuring Derek Jeter (USA).zip</path>
+		<name>All-Star Baseball 2004 featuring Derek Jeter</name>
+		<sortname />
+		<desc>Like Derek Jeter, All-Star Baseball 2004 is the game "with all the tools." With the most realistic simulation ever, easier to play functionality, and the same all around skill set that makes Derek the leader and winner he is, ASB 2004 truly is the game with all the tools.</desc>
+		<rating>0.65</rating>
+		<releasedate>20030226T000000</releasedate>
+		<developer>Acclaim</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/All-Star Baseball 2004 featuring Derek Jeter (USA).jpg</image>
+		<video>./snaps/All-Star Baseball 2004 featuring Derek Jeter (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Atari Anniversary Advance (USA).zip</path>
+		<name>Atari Anniversary Advance</name>
+		<sortname />
+		<desc>Atari presents 6 of the best arcade games ever made, mega-hits that launched the video game revolution -- Asteroids, Battlezone, Centipede, Missile Command, Super Breakout and Tempest. Each game is reproduced down to the last detail, and each one is just as easy and fun to play. Whether you're a diehard fan or a competitive newcomer, you've got to play the games that started it all!</desc>
+		<rating>0.6</rating>
+		<releasedate>20020326T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Atari Anniversary Advance (USA).jpg</image>
+		<video>./snaps/Atari Anniversary Advance (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Baldur's Gate - Dark Alliance (USA).zip</path>
+		<name>Baldur's Gate: Dark Alliance</name>
+		<sortname />
+		<desc>This version of Baldur's Gate: Dark Alliance follows the same story and has many gameplay similarities to the console release, but also differs from it significantly in presentation and gameplay features. Thieves and brigands have driven you and your family from your farmland home. Desperately seeking safety within the walls of Baldur's Gate, your family is ambushed and your sister has been abducted?YOU?are all that stands in the way of one of the greatest threats ever to strike Baldur's Gate and the Sword Coast. From the streets of Baldur's Gate, to the windtorn peaks of the Sunset Mountains, your quest to rescue your sister escalates into staving off a war that will drown the Sword Coast in blood.</desc>
+		<rating>0.75</rating>
+		<releasedate>20031209T000000</releasedate>
+		<developer>Magic Pockets</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Baldur's Gate - Dark Alliance (USA).jpg</image>
+		<video>./snaps/Baldur's Gate - Dark Alliance (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Banjo-Kazooie - Grunty's Revenge (USA, Europe).zip</path>
+		<name>Banjo-Kazooie: Grunty's Revenge</name>
+		<sortname />
+		<desc>Gruntilda is back, and it's up to Banjo and Kazooie to stop her master plan. In Banjo-Kazooie: Grunty's Revenge, you'll play as Banjo and follow him through six worlds rife with trials and contests. Some of the challenges you must overcome include solving puzzles, avoiding obstacles, and battling different enemies. Defeat your foes by using Banjo's array of combat moves. You can also seek help from witch doctors, who can transform Banjo into a mouse, a tank, and other creatures.</desc>
+		<rating>0.8</rating>
+		<releasedate>20031107T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>THQ</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Banjo-Kazooie - Grunty's Revenge (USA, Europe).jpg</image>
+		<video>./snaps/Banjo-Kazooie - Grunty's Revenge (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Banjo-Pilot (USA).zip</path>
+		<name>Banjo-Pilot</name>
+		<sortname />
+		<desc>Banjo Pilot is the 4th installment of Banjo-Kazooie series. Formally known as Diddy Kong Pilot this is the basic kart racer having you race the B-K characters around tracks based on the classic platformers worlds such as Hailfire Peaks and Treasure Trove Cove. As with all kart racers there are numerous items across the track you can use to attack your enemies. It also features four person multiplayer using a Game Boy Advance link cable.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050211T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>THQ</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Banjo-Pilot (USA).jpg</image>
+		<video>./snaps/Banjo-Pilot (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Blackthorne (USA).zip</path>
+		<name>Blackthorne</name>
+		<sortname />
+		<desc>Blackthorne is an action-adventure game that takes place on the planet Tuul. Tuul was a peaceful place, until the evil warrior Sarlac used the power of the Darkstone to take control. Blackthorne's father, the good King Vlaros, sent him to Earth just as his kingdom crumbled around him. Now, 20 years later, Blackthorne is grown and must return to Tuul to free it from the clutches of Sarlac. This game is played from a side-view with non-scrolling backgrounds. It has strong similarities to Prince of Persia, except you battle your foes using guns and bombs instead of a sword.</desc>
+		<rating>0.7</rating>
+		<releasedate>20030919T000000</releasedate>
+		<developer>Mass Media</developer>
+		<publisher>Blizzard Classic Arcade</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Blackthorne (USA).jpg</image>
+		<video>./snaps/Blackthorne (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Blender Bros. (USA).zip</path>
+		<name>Blender Bros.</name>
+		<sortname />
+		<desc>Humans and Animalmen co-exist in the world, living and working together. However, as Animalmen now outnumber humans, an anti-human group calling themselves the Zooligans are out to destroy the humans and take the galaxy for themselves. It's up to Blender, the leader of the Cosmo Keepers, to save the world using his own powers and the abilities of the Mini Bros. (robotic creatures that, when evolved, help you greatly in your quest). Blender can use his large ears to float around levels, whack enemies out of the way and climb up ropes or pogo-hop. Levels vary between platform jumping, boss battles, and every world has you driving around the level (aka Mario Kart), collecting keys to prevent the world from blowing up.</desc>
+		<rating>0.8</rating>
+		<releasedate>20020415T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Blender Bros. (USA).jpg</image>
+		<video>./snaps/Blender Bros. (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Bomberman Max 2 - Blue Advance (USA).zip</path>
+		<name>Bomberman Max 2: Blue Advance</name>
+		<sortname />
+		<desc>Bomberman and Max have been shrunk to the size of an ant by the evil Mujie's secret weapon. Work together with max to find and destroy the device before Mujoe can take control of the universe. And so the newest adventures of Bomberman begins!</desc>
+		<rating>0.8</rating>
+		<releasedate>20020530T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Vivendi Universal Games</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Bomberman Max 2 - Blue Advance (USA).jpg</image>
+		<video>./snaps/Bomberman Max 2 - Blue Advance (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Bomberman Max 2 - Red Advance (USA).zip</path>
+		<name>Bomberman Max 2: Red Advance</name>
+		<sortname />
+		<desc>Bomberman again teams up with Max to take on the evil Mujoe. But before they get the chance, Mujoe turns the tables, shrinking the heroes into tiny critters. Now the two must use their bombing powers and traverse the levels, blowing up obstacles and enemies to get to the exit, to eventually destroy the device and return themselves to normal size. As with all previous Bomberman title, the aim of the game is to plant bombs, destroying anything that come within the boundaries of the blast. Charabomb characters can be collected during play to increase your powers, or you battle and trade them with a friend in link mode.</desc>
+		<rating>0.8</rating>
+		<releasedate>20020530T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Vivendi Universal Games</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Bomberman Max 2 - Red Advance (USA).jpg</image>
+		<video>./snaps/Bomberman Max 2 - Red Advance (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Boulder Dash EX (USA).zip</path>
+		<name>Boulder Dash EX</name>
+		<sortname />
+		<desc>Based on the original Boulder Dash, you must find your way through each puzzle to collect the gems in order to open the exit door, while moving boulders out of the way and dodging enemies. Boulder Dash EX includes a brand new, updated version of the classic title, with a new main character and 6 worlds full of puzzle action. Also on the cart is the original Boulder Dash emulated from its PC form. The 4 player mode has you and 3 other gamers going head-to-head to gain the most gems, while dropping boulders and bombs at each other.</desc>
+		<rating>0.8</rating>
+		<releasedate>20030918T000000</releasedate>
+		<developer>Nobilis</developer>
+		<publisher>Kemco</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Boulder Dash EX (USA).jpg</image>
+		<video>./snaps/Boulder Dash EX (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Boxing Fever (USA, Europe).zip</path>
+		<name>Boxing Fever</name>
+		<sortname />
+		<desc>An arcade style boxing game from Majesco. Boxing Fever features eight playable characters in a variety of modes including championship, training, linked game and more. Included are five different circuits to fight in and some hidden characters to unlock. The game is played in the "in your face viewpoint" and features detailed 3d graphics and motion effects. The gameplay includes a variety of boxing moves and tons of combos.</desc>
+		<rating>0.9</rating>
+		<releasedate>20020208T000000</releasedate>
+		<developer>Digital Fiction</developer>
+		<publisher>THQ</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Boxing Fever (USA, Europe).jpg</image>
+		<video>./snaps/Boxing Fever (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./CIMA - The Enemy (USA).zip</path>
+		<name>CIMA: The Enemy</name>
+		<sortname />
+		<desc>For decades, the human race and the CIMA race have been in constant conflict with one another. As Ark J, your mission is to guard the gate between the two worlds, protect your appointed town, and ultimately, find peace. You'll progress through a nonlinear storyline while solving puzzles, exploring worlds, and battling enemies. The game includes a combat system that features both action and strategy elements. Another feature lets you activate non-playable characters to help you accomplish your goals.</desc>
+		<rating>0.95</rating>
+		<releasedate>20031117T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Natsume</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/CIMA - The Enemy (USA).jpg</image>
+		<video>./snaps/CIMA - The Enemy (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Classic NES Series - Castlevania (USA).zip</path>
+		<name>Classic NES Series: Castlevania</name>
+		<sortname />
+		<desc>Take a stroll down memory lane with the classic side-scrolling game Castlevania. The game, which is part of the Classic NES Series on the Game Boy Advance, sets you off on a mission to undo the curse of the evil Count. Before you challenge the Count, you must first battle his army of ghosts, mummies, bats, and zombies. Use your magic whip and other weapons if you want to make it out of the castle alive.</desc>
+		<rating>0.75</rating>
+		<releasedate>20041025T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Classic NES Series - Castlevania (USA).jpg</image>
+		<video>./snaps/Classic NES Series - Castlevania (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Classic NES Series - Super Mario Bros. (USA, Europe).zip</path>
+		<name>Classic NES Series: Super Mario Bros.</name>
+		<sortname />
+		<desc>Classic NES Series: Super Mario Bros. takes you back to the very first battle between Mario and Bowser. Now on the Game Boy Advance, you can relive all the mushroom-eating, Koopa-stomping action from the original game. Always strive for the high score while jumping on top of flag poles, pipes, and bricks. This time, two players can alternate play with a single Game Pak or with GBAs linked by a Game Boy Advance Game Link Cable.</desc>
+		<rating>0.7</rating>
+		<releasedate>20040709T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Classic NES Series - Super Mario Bros. (USA, Europe).jpg</image>
+		<video>./snaps/Classic NES Series - Super Mario Bros. (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Classic NES Series - The Legend of Zelda (USA, Europe).zip</path>
+		<name>Classic NES Series: The Legend of Zelda</name>
+		<sortname />
+		<desc>The Legend of Zelda invented a genre and captivated a gaming generation. Now you can play the timeless NES adventure on your Game Boy Advance! The evil warlock Ganon has imprisoned Princess Zelda and plunged the peaceful land of Hyrule into darkness and despair. Only a young boy named Link has the courage to answer the call for a hero. Will he find the lost Triforce fragments, slay Ganon, and save Princess Zelda? Only you can decide the fate of Hyrule!</desc>
+		<rating>0.7</rating>
+		<releasedate>20040602T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Classic NES Series - The Legend of Zelda (USA, Europe).jpg</image>
+		<video>./snaps/Classic NES Series - The Legend of Zelda (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Classic NES Series - Zelda II - The Adventure of Link (USA, Europe).zip</path>
+		<name>Classic NES Series: Zelda II: The Adventure of Link</name>
+		<sortname />
+		<desc>The Adventure of Link bears little resemblance to the first game in the series. The Adventure of Link features side-scrolling areas within a larger world map rather than the bird's eye view of the previous title. The game incorporates a strategic combat system and more RPG elements, including an experience points (EXP) system, magic spells, and more interaction with non-player characters (NPCs). Link has extra lives; no other game in the series includes this feature.</desc>
+		<rating>0.7</rating>
+		<releasedate>20041025T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Classic NES Series - Zelda II - The Adventure of Link (USA, Europe).jpg</image>
+		<video>./snaps/Classic NES Series - Zelda II - The Adventure of Link (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Contra Advance - The Alien Wars EX (USA).zip</path>
+		<name>Contra Advance: The Alien Wars EX</name>
+		<sortname />
+		<desc>In Contra Advance The Alien Wars EX, take down massive hordes of aliens, robots, and monsters to stop the evil Red Falcon from taking over the world! Featuring all new levels and graphics from the original Super Nintendo® hit, Contra's fast paced shooting action will keep you on the edge of your seat!</desc>
+		<rating>0.7</rating>
+		<releasedate>20021103T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Contra Advance - The Alien Wars EX (USA).jpg</image>
+		<video>./snaps/Contra Advance - The Alien Wars EX (USA).mp4</video>
+	</game>
+	<game>
+		<path>./CT Special Forces (USA) (En,Fr,De,Es,It,Nl).zip</path>
+		<name>CT Special Forces</name>
+		<sortname />
+		<desc>CT Special Forces is a side scrolling platform shooter that has a superficial similarity to the games of the Metal Slug series. The player controls an operative of a counter-terrorist force on a mission around the globe to stop terrorist activity and arrest its leaders. The digital pad moves the character, while the B button shoots the weapon and the A button makes the character jump. The character can't shoot downwards. The L trigger cycles through the inventory (displayed on the top-left corner of the screen) and the R trigger throws grenades (when they are available). By selecting an ammunition type, the character uses the corresponding weapon (gas canisters for the flamethrower, machine gun pents for that weapon, etc).</desc>
+		<rating>0.8</rating>
+		<releasedate>20020712T000000</releasedate>
+		<developer>Light &amp; Shadow Productions (LSP)</developer>
+		<publisher>Light &amp; Shadow Productions (LSP)</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/CT Special Forces (USA) (En,Fr,De,Es,It,Nl).jpg</image>
+		<video>./snaps/CT Special Forces (USA) (En,Fr,De,Es,It,Nl).mp4</video>
+	</game>
+	<game>
+		<path>./CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl).zip</path>
+		<name>CT Special Forces 2: Back in the Trenches</name>
+		<sortname />
+		<desc>Despite their latest failures, the CT Special Forces unit is called upon once again to diffuse increased terrorist activity around the globe. Armed with high-tech weaponry and equipment, you must thwart the plans of terrorist groups and ensure peace in several regions of the world. You'll have access to an array of vehicles and weapons, including shotguns, bazookas, sniper rifles, and more. CT Special Forces 2 lets you prove your combat skills in a variety of single-player and multiplayer modes.</desc>
+		<rating>0.85</rating>
+		<releasedate>20030709T000000</releasedate>
+		<developer>Light &amp; Shadow Productions (LSP)</developer>
+		<publisher>Light &amp; Shadow Productions (LSP)</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl).jpg</image>
+		<video>./snaps/CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl).mp4</video>
+	</game>
+	<game>
+		<path>./Dave Mirra Freestyle BMX 3 (USA, Europe).zip</path>
+		<name>Dave Mirra Freestyle BMX 3</name>
+		<sortname />
+		<desc>The BMX pros come out to play on the GBA in this exclusive version of the two-wheeler series. Choose from the best riders from around the world, or create your own BMX rider, and take them around a collection of tracks in an attempt to become to greatest rider of them all. Challenges range from simply gaining a certain amount of points by making tricks, collecting items hidden around the level or knocking over certain items to trigger events to collecting prize money, which can be spent on improving your players stats as well as buying better bikes and new gear.</desc>
+		<rating>0.8</rating>
+		<releasedate>20021126T000000</releasedate>
+		<developer>Full Fat</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Dave Mirra Freestyle BMX 3 (USA, Europe).jpg</image>
+		<video>./snaps/Dave Mirra Freestyle BMX 3 (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Defender of the Crown (USA).zip</path>
+		<name>Defender of the Crown</name>
+		<sortname />
+		<desc>Defender of the Crown puts you in the role of one of four Saxon knights in medieval England, in a time where the land is in turmoil as the King is dead and his crown was stolen. The Saxons and the Normans blame each other and fight for control of England. After a short introduction by Robin of Locksley himself, you start the game with a single castle and 10 soldiers at your command. From there, you have to build your army, take control of additional territories and fight the three Norman lords - and sometimes your Saxon friends as well.</desc>
+		<rating>0.6</rating>
+		<releasedate>20021010T000000</releasedate>
+		<developer>Crawfish Interactive</developer>
+		<publisher>Zoo Digital Publishing</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Defender of the Crown (USA).jpg</image>
+		<video>./snaps/Defender of the Crown (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Double Dragon Advance (USA).zip</path>
+		<name>Double Dragon Advance</name>
+		<sortname />
+		<desc>After a global nuclear war leaves the world in ruins, gangs emerge as the new elite by seizing control of the city. Twin brothers Jimmy and Billy Lee survive the cataclysmic event with their martial arts abilities intact, but Billy's girlfriend is soon kidnapped by mysterious thugs. Now it's up to you to guide both brothers through different stages filled with enemies and boss characters. Whether you play solo or cooperatively with a friend, you must master new techniques and weapons to find the girl and defeat the bad guys.</desc>
+		<rating>0.85</rating>
+		<releasedate>20031118T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Atlus</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Double Dragon Advance (USA).jpg</image>
+		<video>./snaps/Double Dragon Advance (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Ball Z - Supersonic Warriors (USA).zip</path>
+		<name>Dragon Ball Z: Supersonic Warriors</name>
+		<sortname />
+		<desc>The Aerial Assault Begins! Pick your DBZ Dream Team and shake the Dragon Ball Z universe with free-flight combat! Bombard opponents with punishing attacks on the ground and in the air. It's thunderous DBZ fighting unlike anything you've ever seen before!</desc>
+		<rating>0.85</rating>
+		<releasedate>20040622T000000</releasedate>
+		<developer>Cavia</developer>
+		<publisher>Bandai</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Dragon Ball Z - Supersonic Warriors (USA).jpg</image>
+		<video>./snaps/Dragon Ball Z - Supersonic Warriors (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Driver 2 Advance (USA).zip</path>
+		<name>Driver 2 Advance</name>
+		<sortname />
+		<desc>Get behind the wheel and back on the streets as Tanner, the world's fastest undercover driver. An international gang war has erupted, and you are caught in the crossfire. Experience all new urban chaos as you dodge U.S. and Brazilian gangsters.</desc>
+		<rating>0.55</rating>
+		<releasedate>20021022T000000</releasedate>
+		<developer>Sennari Interactive</developer>
+		<publisher>Atari SA</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Driver 2 Advance (USA).jpg</image>
+		<video>./snaps/Driver 2 Advance (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Drome Racers (USA).zip</path>
+		<name>Drome Racers</name>
+		<sortname />
+		<desc>Tensions are high as you await the first stage of the Drome Championship.You've trained for the intensity of Multi-Challenge Racing; each race a seamless set of stages, mixing tracks from realistically stunning City, Mountain, and Canyon environments. Now you must prove you're up to that grueling challenge. With high-tech racing machines based on new cars from the 2002 LEGO Racers construction toy range, Drome Racers is a racing experience like no other.</desc>
+		<rating>0.6</rating>
+		<releasedate>20030619T000000</releasedate>
+		<developer>Mobius Entertainment</developer>
+		<publisher>THQ</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Drome Racers (USA).jpg</image>
+		<video>./snaps/Drome Racers (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Earthworm Jim (USA, Europe).zip</path>
+		<name>Earthworm Jim</name>
+		<sortname />
+		<desc>A crow is chasing a worm named Jim while in outer space Psy-Crow is chasing a renegade ship. The ship's captain has stolen an ultra-high-tech-indestructible-super-space-cyber-suit and Queen Slug-for-a-Butt has ordered Psy-Crow to get it, since it can make her more beautiful than Princess-What's-Her-Name. Psy-Crow blasts the captain and the suit falls to Planet Earth. Back on earth Jim wonders if he is finally safe when an ultra-high-tech-indestructible-super-space-cyber-suit lands on him. Luckily Jim rests in the neck ring of the suit. Then the space particles begin interacting with Jim, causing a light-speed evolution. Jim soon realizes he is in control of the suit.</desc>
+		<rating>0.7</rating>
+		<releasedate>20010921T000000</releasedate>
+		<developer>Shiny Entertainment</developer>
+		<publisher>THQ</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Earthworm Jim (USA, Europe).jpg</image>
+		<video>./snaps/Earthworm Jim (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Gekido Advance - Kintaro's Revenge (USA).zip</path>
+		<name>Gekido Advance: Kintaro's Revenge</name>
+		<sortname />
+		<desc>It's Time to Fight! A year has passed since the epic battle that decided the fate of mankind and claimed the life of the beloved Angela. Dark omens once again tell of the return of an evil presence. Ushi is the last remaining master of the ancient art of Shin-Ken, and he calls upon Tetsuo, his disciple and adopted son, to investigate some strange happenings in a faraway farming village outside the city.</desc>
+		<rating>0.6</rating>
+		<releasedate>20021108T000000</releasedate>
+		<developer>NAPS Team</developer>
+		<publisher>Zoo Digital Publishing</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+		<image>./boxart/Gekido Advance - Kintaro's Revenge (USA).jpg</image>
+		<video>./snaps/Gekido Advance - Kintaro's Revenge (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Harry Potter and the Prisoner of Azkaban (USA, Europe) (En,Fr,De,Es,It,Nl,Da).zip</path>
+		<name>Harry Potter and the Prisoner of Azkaban</name>
+		<sortname />
+		<desc>The Dementors are coming, and this time Harry needs his friends. From the opening scene on the Hogwarts Express to the climatic finale on the shore of the great lake at Hogwarts, Harry Potter and the Prisoner of Azkaban immerses you in the world of Harry Potter. As Harry, Ron, and Hermione, you'll face the dreaded Azkaban guards, fly the Hippogriff around towers, and explore Hogwarts with the Marauder's Map. Learn spells that allow you to freeze creatures, control dragons, and conjure a Patronus. New two-player mini-games include Flying Seahorse Fishing and Dueling Club mini-games.</desc>
+		<rating>0.8</rating>
+		<releasedate>20040604T000000</releasedate>
+		<developer>Griptonite Games</developer>
+		<publisher>EA Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Harry Potter and the Prisoner of Azkaban (USA, Europe) (En,Fr,De,Es,It,Nl,Da).jpg</image>
+		<video>./snaps/Harry Potter and the Prisoner of Azkaban (USA, Europe) (En,Fr,De,Es,It,Nl,Da).mp4</video>
+	</game>
+	<game>
+		<path>./Hot Potato! (USA).zip</path>
+		<name>Hot Potato!</name>
+		<sortname />
+		<desc>Reminiscent of the original arcade style games, players steer a bus with a group of multicolored spuds on it. As the bus rolls down the streets, players will release waves of spuds down the street ahead of them, and if a potato runs into a potato of the same color, they will save that potato. There's constant screen action as each spud is animated, and waves its arms to attract your attention. The little spuds are cute, displaying a wide range of comical anims and they're literally everywhere. It's up to players to capture the spuds and save the Earth for good!</desc>
+		<rating>0.6</rating>
+		<releasedate>20020131T000000</releasedate>
+		<developer>Pukka Games</developer>
+		<publisher>Bam Entertainment</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Hot Potato! (USA).jpg</image>
+		<video>./snaps/Hot Potato! (USA).mp4</video>
+	</game>
+	<game>
+		<path>./It's Mr. Pants (USA, Europe).zip</path>
+		<name>It's Mr. Pants</name>
+		<sortname />
+		<desc>Rare's website mascot, Mr. Pants, stars in his very own video game for the Game Boy Advance. He's prepared hundreds of fiendish puzzles to scramble your brain! Pieces fall onto the game board with only a limited time to place them. To clear the pieces, players will need to make shapes that are at least a 2x3 rectangle, or bigger rectangles and squares. Three different modes of play are available - Puzzle, Wipeout, and Marathon - and progressing through the puzzles will earn players assorted bizarre underwear-clad artwork.</desc>
+		<rating>0.75</rating>
+		<releasedate>20051115T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>THQ</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/It's Mr. Pants (USA, Europe).jpg</image>
+		<video>./snaps/It's Mr. Pants (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Jet Grind Radio (USA).zip</path>
+		<name>Jet Grind Radio</name>
+		<sortname />
+		<desc>The hip-hop Dreamcast hit makes it's way to the Game Boy Advance. Your favorite skaters from Jet Grind Radio return in true 3D blasting through exciting and diverse levels. Grab your spray cans and hit the streets painting the town in your colors while avoiding the cops and rival gangs. It's not easy being a kid in Tokyo but with your Overdrive Magnetic-Motor Skates and a need for self-expression you're on your way to making the town yours! Features multiple game modes including one-on-one races, freestyle skating for points, timed tagging sessions and multiple playable characters that have a completely unique look and feel, power-ups that allow you, the skater, to have extra powers.</desc>
+		<rating>0.45</rating>
+		<releasedate>20030602T000000</releasedate>
+		<developer>Vicarious Vision</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<image>./boxart/Jet Grind Radio (USA).jpg</image>
+		<video>./snaps/Jet Grind Radio (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Justice League Heroes - The Flash (USA).zip</path>
+		<name>Justice League Heroes: The Flash</name>
+		<sortname />
+		<desc>Justice League Heroes: The Flash, developed by WayForward Technologies for the Game Boy Advance system, lets gamers play as DC Comics' The Flash, wielding his Speed Force to strike enemies before they can strike back, unlock powerful combination attacks and slow-down time to defeat adversaries in slow motion. As the Fastest Man Alive, gamers also enlist the support of fellow Justice League members by calling in special attacks from Superman, Batman, Wonder Woman and other DC Comics super heroes.</desc>
+		<rating>0.5</rating>
+		<releasedate>20061124T000000</releasedate>
+		<developer>WayForward Technologies</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Justice League Heroes - The Flash (USA).jpg</image>
+		<video>./snaps/Justice League Heroes - The Flash (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Kim Possible 2 - Drakken's Demise (USA) (En,Fr).zip</path>
+		<name>Disney's Kim Possible 2: Drakken's Demise</name>
+		<sortname />
+		<desc>Kim Possible's new adventure leads her into battle with Falsetto Jones, Gemini, Duff Killigan, Shego, and Dr. Drakken in four intense episodes. In each new episode, Kim gains gadgets and acrobatic abilities that allow her to bounce up walls, judo-flip henchmen, reflect laser beams, and spray hot sauce to melt icy obstructions. If all else fails, you can engage her stealth suit and make her invisible to enemy eyes. Once Kim acquires new gadgets and abilities, you can then replay earlier levels to access areas that were previously unreachable.</desc>
+		<rating>0.7</rating>
+		<releasedate>20060202T000000</releasedate>
+		<developer>Artificial Mind &amp; Movement</developer>
+		<publisher>Buena Vista Games</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Kim Possible 2 - Drakken's Demise (USA) (En,Fr).jpg</image>
+		<video>./snaps/Kim Possible 2 - Drakken's Demise (USA) (En,Fr).mp4</video>
+	</game>
+	<game>
+		<path>./Kingdom Hearts - Chain of Memories (USA).zip</path>
+		<name>Disney's Kingdom Hearts: Chain of Memories</name>
+		<sortname />
+		<desc>Adventure is in the cards! Kingdom Hearts: Chain of Memories delivers an entirely new adventure and set the stage for Kingdom Hearts II. Sora, Donald, and Goofy travel through many vast and colourful worlds in search of their missing companions. Encounter over 100 of your favourite Disney and Final Fantasy friends and foes. Collect mysterious cards that open doors to new adventures, unlock powerful abilities, and call familiar friends to your side. Experience big, bold graphics and high-quality animation.</desc>
+		<rating>0.85</rating>
+		<releasedate>20041207T000000</releasedate>
+		<developer>Jupiter Corporation</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Kingdom Hearts - Chain of Memories (USA).jpg</image>
+		<video>./snaps/Kingdom Hearts - Chain of Memories (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Klonoa 2 - Dream Champ Tournament (USA).zip</path>
+		<name>Klonoa 2: Dream Champ Tournament</name>
+		<sortname />
+		<desc>Floppy-eared hero Klonoa returns in another fast-paced, colorful side-scrolling adventure for the Game Boy Advance. In his latest challenge, Klonoa must race against time and other dream travelers in the Dream Champ Tournament to collect stars, sun and moon stones to become the ultimate Dream Champion. Combining platform, puzzle and adventure elements, Klonoa 2: Dream Champ Tournament is just the adventure fans of the series have been anticipating. Explore the intricate and puzzle-packed worlds where you'll meet a wide variety of interesting creatures! Solve Fiendishly-Designed Puzzles ? Use Boxes, Bomb Boxes, Switches, Pressure Switches, Goomis, Springs and Scales in your quest for glory. Hoverboard Races ?</desc>
+		<rating>0.75</rating>
+		<releasedate>20050223T000000</releasedate>
+		<developer>Now Production</developer>
+		<publisher>Namco</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Klonoa 2 - Dream Champ Tournament (USA).jpg</image>
+		<video>./snaps/Klonoa 2 - Dream Champ Tournament (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Lost Vikings, The (USA).zip</path>
+		<name>Lost Vikings, The</name>
+		<sortname />
+		<desc>Three Vikings, Eric the Swift, Olaf the Stout and Baleog the Fierce, were kidnapped by the alien Tomator, the evil Croutonian ruler, who is collecting unique life forms to display in his gallery. The three Vikings will have to combine their unique skills to defeat Tomator, as well as a vast array of aliens, robots, giant snails, big lizards and more. The Lost Vikings is a side-scrolling platform puzzle game with a twist. Instead of one character who can jump, run, shoot, collect items, flip switches and so on, there are three different characters, each with his own skills. Eric the Swift can jump, run and bash through walls with his tough helmet.</desc>
+		<rating>0.75</rating>
+		<releasedate>20030302T000000</releasedate>
+		<developer>Blizzard Classic Arcade</developer>
+		<publisher>Blizzard Classic Arcade</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Lost Vikings, The (USA).jpg</image>
+		<video>./snaps/Lost Vikings, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Madden NFL 2005 (USA).zip</path>
+		<name>Madden NFL 2005</name>
+		<sortname />
+		<desc>Another year, another Madden. Further AI, graphical and gameplay updates have been included for this new update to the long standing NFL series from EA Sports. As usual, you can play through the entire NFL season with each team and every player. During play you can perform a range of plays and moves to advantage your team against the best in the business, offline, online or split screen. Play a quick match, the entire season and the playoffs right the way through to the big one, the Superbowl.</desc>
+		<rating>0.55</rating>
+		<releasedate>20040917T000000</releasedate>
+		<developer>Exient</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Madden NFL 2005 (USA).jpg</image>
+		<video>./snaps/Madden NFL 2005 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mat Hoffman's Pro BMX (USA, Europe).zip</path>
+		<name>Mat Hoffman's Pro BMX</name>
+		<sortname />
+		<desc>Legendary BMX rider Mat Hoffman leads a cast of some of the best riders on the planet in this Tony Hawk's Pro Skater style title. Perform tricks and make the points to proceed through each level of Street, Vert, and Dirt courses, or take on a mate in 2 player split screen mode and see who has the best bike in town. Career mode allows you to build up your chosen character and make, as it mentions, a Career. And the BMX Course Editor allows you to build your own Street, Vert and Dirt courses for multiplayer action.</desc>
+		<rating>0.4</rating>
+		<releasedate>20011130T000000</releasedate>
+		<developer>HotGen</developer>
+		<publisher>Activision</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Mat Hoffman's Pro BMX (USA, Europe).jpg</image>
+		<video>./snaps/Mat Hoffman's Pro BMX (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Mech Platoon (USA).zip</path>
+		<name>Mech Platoon</name>
+		<sortname />
+		<desc>A real-time strategy (RTS) game for the GBA. Players build an army of robot mechs to capture 5 planets in a series of missions against two other nations. A player's mechs are built and improved by building laboratories, bases and by salvaging battlefields for enemy parts. All the key elements of a classic RTS in your GBA.</desc>
+		<rating>0.65</rating>
+		<releasedate>20011128T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Mech Platoon (USA).jpg</image>
+		<video>./snaps/Mech Platoon (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man Battle Network 3 - Blue Version (USA).zip</path>
+		<name>Mega Man Battle Network 3: Blue Version</name>
+		<sortname />
+		<desc>Join Mega Mega.EXE, his pal Lan and friends as they keep the net safe from cyber mayhem in the most expansive battle network adventure yet. Together with the White version, find all of Mega Man's battle style changes, "Giga Class" Chips, enemies and discover more surprises just for you!</desc>
+		<rating>0.9</rating>
+		<releasedate>20030624T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Mega Man Battle Network 3 - Blue Version (USA).jpg</image>
+		<video>./snaps/Mega Man Battle Network 3 - Blue Version (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man Battle Network 3 - White Version (USA).zip</path>
+		<name>Mega Man Battle Network 3: White Version</name>
+		<sortname />
+		<desc>Join Mega Mega.EXE, his pal Lan and friends as they keep the net safe from viruses and cyber menaces. You'll travel through new virtual and real worlds, fight-off new bosses, interact with new characters and even find new Battle Chips. It's cyber mayhem at it's best!</desc>
+		<rating>0.9</rating>
+		<releasedate>20030624T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Mega Man Battle Network 3 - White Version (USA).jpg</image>
+		<video>./snaps/Mega Man Battle Network 3 - White Version (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man Battle Network 4 - Blue Moon (USA).zip</path>
+		<name>Mega Man Battle Network 4: Blue Moon</name>
+		<sortname />
+		<desc>The fourth installment in the Mega Man Battle Network series comes in two versions--Red Sun and Blue Moon--each with different enemies, battle chips, souls, and characters. Once again, you assume the role of Lan as he and his friend, Mega Man.exe, fight to rid the Internet of viruses and other cyberworld enemies. Unlike previous games in the series, Mega Man Battle Network 4 focuses on a tournament system where players encounter a variety of enemies that must be defeated. A new Soul Unison system lets Mega Man transform into his defeated enemies.</desc>
+		<rating>0.8</rating>
+		<releasedate>20040617T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Mega Man Battle Network 4 - Blue Moon (USA).jpg</image>
+		<video>./snaps/Mega Man Battle Network 4 - Blue Moon (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mega Man Battle Network 4 - Red Sun (USA).zip</path>
+		<name>Mega Man Battle Network 4: Red Sun</name>
+		<sortname />
+		<desc>The fourth installment in the Mega Man Battle Network series comes in two versions--Red Sun and Blue Moon--each with different enemies, battle chips, souls, and characters. Once again, you assume the role of Lan as he and his friend, Mega Man.exe, fight to rid the Internet of viruses and other cyberworld enemies. Unlike previous games in the series, Mega Man Battle Network 4 focuses on a tournament system where players encounter a variety of enemies that must be defeated. A new Soul Unison system lets Mega Man transform into his defeated enemies.</desc>
+		<rating>0.85</rating>
+		<releasedate>20040617T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Mega Man Battle Network 4 - Red Sun (USA).jpg</image>
+		<video>./snaps/Mega Man Battle Network 4 - Red Sun (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Monster House (USA) (En,Fr).zip</path>
+		<name>Monster House</name>
+		<sortname />
+		<desc>Oh no! Old man Nebbercracker's house is eating anything and anyone who gets near it, and Halloween is almost here! So grab your Water Blaster, gather up your courage, and get ready to explore the Monster Houseâ„¢ to find out its secrets. Monster House is an action-adventure game developed by Artificial Mind and Movement and published by THQ. The game is based on the film of the same name. Although the game was marketed toward the same pre-teen audience as the accompanying film, its gameplay was highly reminiscent of Resident Evil 4;</desc>
+		<rating>0.7</rating>
+		<releasedate>20060718T000000</releasedate>
+		<developer>Artificial Mind and Movement</developer>
+		<publisher>THQ</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Monster House (USA) (En,Fr).jpg</image>
+		<video>./snaps/Monster House (USA) (En,Fr).mp4</video>
+	</game>
+	<game>
+		<path>./Mortal Kombat - Tournament Edition (USA) (En,Fr,De,Es,It).zip</path>
+		<name>Mortal Kombat: Tournament Edition</name>
+		<sortname />
+		<desc>The deadly alliance between Shang Tsung and Quan Chi remains intact. In Mortal Kombat: Tournament Edition, however, a new set of warriors seeks revenge against these evil warlords. See who proves victorious as you fight your way through both tournament and tag-team action on your Game Boy Advance. In addition to more fighters, this installment in the Mortal Kombat series provides multiplayer support for up to four players (via Game Boy Advance link cable), a variety of gameplay modes, and new battlegrounds.</desc>
+		<rating>0.65</rating>
+		<releasedate>20030827T000000</releasedate>
+		<developer>Criterion Games</developer>
+		<publisher>Midway</publisher>
+		<genre>Fighting</genre>
+		<players>1-4</players>
+		<image>./boxart/Mortal Kombat - Tournament Edition (USA) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Mortal Kombat - Tournament Edition (USA) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Motocross Maniacs Advance (USA) (En,Es).zip</path>
+		<name>Motocross Maniacs Advance</name>
+		<sortname />
+		<desc>Motocross Maniacs Advance is a side-scrolling racing game with dirt bikes as the main vehicle of choice. There are four modes of play, Race, Time Attack, Action (stunt tracks for points) and Link Battle (which requires four more cartridges and the link cable to use). There are six different riders to choose from, each with their own different attributes and abilities. Players can also pick up power-ups during races such as heat-seeking missiles and land-mines along with the nitro tanks among others.</desc>
+		<rating>0.75</rating>
+		<releasedate>20020531T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Racing</genre>
+		<players>1-4</players>
+		<image>./boxart/Motocross Maniacs Advance (USA) (En,Es).jpg</image>
+		<video>./snaps/Motocross Maniacs Advance (USA) (En,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Need for Speed - Underground (USA, Europe) (En,Fr,De,It).zip</path>
+		<name>Need for Speed: Underground</name>
+		<sortname />
+		<desc>Need For Speed: Underground is the seventh game in the long running Need For Speed racing series. Underground revolves around illegal nighttime streetracing with heavily modified import cars and has been greatly influenced by the movie "The Fast And The Furious" and its sequel.. Players get the chance to build their own racing machine almost from ground up, with hundreds or real licensed parts and lots of licensed cars, including the Mazda RX-7 and the Nissan Skyline GT-R. The game also features over 100 single player races and a hiphop/hardrock soundtrack including artists such as Mystikal, Rob Zombie and The Crystal Method.</desc>
+		<rating>0.5</rating>
+		<releasedate>20031218T000000</releasedate>
+		<developer>Pocketeers</developer>
+		<publisher>EA Games</publisher>
+		<genre>Racing</genre>
+		<players>1-4</players>
+		<image>./boxart/Need for Speed - Underground (USA, Europe) (En,Fr,De,It).jpg</image>
+		<video>./snaps/Need for Speed - Underground (USA, Europe) (En,Fr,De,It).mp4</video>
+	</game>
+	<game>
+		<path>./Phalanx (USA).zip</path>
+		<name>Phalanx</name>
+		<sortname />
+		<desc>A futuristic shooter, Phalanx is the name of the prototype starfighter flown by Wink Baufield, a genetically enhanced pilot. It is sent to protect and reclaim Delia IV, a planet in the Andromeda galaxy, which has been colonized by humans for interstellar research purposes. However, an unknown and powerful alien force has overtaken the planet, the military defenses have been completely overwhelmed, and all hope rests on the Phalanx. You fly through eight levels, first through various locations in Delia IV, and then you invade the aliens themselves. Like most shooters, you can upgrade your weapons by picking up bonus items dropped by enemy craft.</desc>
+		<rating>0.7</rating>
+		<releasedate>20011128T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Phalanx (USA).jpg</image>
+		<video>./snaps/Phalanx (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Phantasy Star Collection (USA).zip</path>
+		<name>Phantasy Star Collection</name>
+		<sortname />
+		<desc>This collection contains the original Phantasy Star trilogy, together in one game. Phantasy Star has you leading a group of warriors, working in the arts of combat (both offensive and defensive) and magic, through a maze of evil into the heart of where it resides. It is your job to destroy it, in this case, three times over. 1. Phantasy Star - travel to the Algo Solar System and take on King Lassic, who has brought the menace of evil to the galaxy. 2. Phantasy Star II - a new evil is taking over the planet Mota, and only you can restore peace and defeat the deadly forces that come in waves on your path victory. 3. Phantasy Star III: Generations of Doom - although defeated, evil still finds a place in the galaxy.</desc>
+		<rating>0.8</rating>
+		<releasedate>20030302T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Phantasy Star Collection (USA).jpg</image>
+		<video>./snaps/Phantasy Star Collection (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Prehistorik Man (USA, Europe) (En,Fr,De,Es,It,Nl).zip</path>
+		<name>Prehistorik Man</name>
+		<sortname />
+		<desc>In Prehistorik Man, the player takes control of a neanderthal who is on a quest to travel through various levels, collecting food items to get his village ready for the fast approaching fall feast. Along the way, the player will encounter an assortment of enemies ranging from spiders, giant rats and even the mighty T-Rex. There are five levels in all and the player can upgrade their weapons to axes and mallets throughout the game as well as acquire a hang glider, giving the player the advantage of flight and covering long distances. The main goal of the game is to vanquish enemies, collect food items, and face a boss at the end of each level.</desc>
+		<rating>0.7</rating>
+		<releasedate>20011102T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Prehistorik Man (USA, Europe) (En,Fr,De,Es,It,Nl).jpg</image>
+		<video>./snaps/Prehistorik Man (USA, Europe) (En,Fr,De,Es,It,Nl).mp4</video>
+	</game>
+	<game>
+		<path>./Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (Rev 1).zip</path>
+		<name>Prince of Persia: The Sands of Time</name>
+		<sortname />
+		<desc>Prince of Persia: The Sands of Time is a 3D platformer which focuses on acrobatics and agility. Throughout much of the game, the player must attempt to traverse the palace by running across walls, ascending or descending chasms by jumping back and forth between walls, avoiding traps, climbing structures and jumping from platform to platform, making other types of well-timed leaps, solving puzzles, and using discovered objects to progress.</desc>
+		<rating>0.9</rating>
+		<releasedate>20031030T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (Rev 1).jpg</image>
+		<video>./snaps/Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Rampage - Puzzle Attack (USA, Europe).zip</path>
+		<name>Rampage: Puzzle Attack</name>
+		<sortname />
+		<desc>Using a similar game style to the Game Boy classic, Tetris Attack, a line of blocks sits above the play field which you can change the order of and drop two at a time onto the blocks below. Once a Detoblock (a block that is different in appearance to the usual blocks) appears, drop it onto the corresponding colour to clear those blocks from the field. Play modes include Clear (clean the playfield of all blocks), Puzzle (try and clear all blocks within a set number of drops), Marathon (the usual play as far as you can mode) and Rescue Mode, where you must clear the blocks from the top of a cage, in which the many monsters from the arcade hit, Rampage World Tour, are trapped in.</desc>
+		<rating>0.5</rating>
+		<releasedate>20011229T000000</releasedate>
+		<developer>Ninai Games</developer>
+		<publisher>Midway</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Rampage - Puzzle Attack (USA, Europe).jpg</image>
+		<video>./snaps/Rampage - Puzzle Attack (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Road Rash - Jailbreak (USA).zip</path>
+		<name>Road Rash: Jailbreak</name>
+		<sortname />
+		<desc>This is the Game Boy Advance installment in the long-running motorcycle action series. Players fight for the trophy at the Great Bikers Convention, and burn rubber on the track to win the Wild Race, where driving style and weapons are part of the show. The objective is to defeat the winner of last year's contest and kick the hell out of his gang buddies while doing so. But watch your back: the County Police won't let you slow down for a sec. The Game Boy Advance version was developed by Magic Pockets for Destination Software.</desc>
+		<rating>0.65</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Magic Pockets</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Road Rash - Jailbreak (USA).jpg</image>
+		<video>./snaps/Road Rash - Jailbreak (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Scorpion King, The - Sword of Osiris (USA).zip</path>
+		<name>Scorpion King: Sword of Osiris, The</name>
+		<sortname />
+		<desc>Set to take place after the conclusion of the movie, The Scorpion King will place players into the land of Egypt once again as the Scorpion King himself, who must find the sword of Osiris and unleash its powers on the evil Menthu who plans on leading his legions of warriors and destroying Egypt once and for all.</desc>
+		<rating>0.6</rating>
+		<releasedate>20020426T000000</releasedate>
+		<developer>Wayforward</developer>
+		<publisher>Universal </publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Scorpion King, The - Sword of Osiris (USA).jpg</image>
+		<video>./snaps/Scorpion King, The - Sword of Osiris (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Shaman King - Master of Spirits 2 (USA).zip</path>
+		<name>Shaman King: Master of Spirits 2</name>
+		<sortname />
+		<desc>Step into the world of Yoh Asakura as he trains to become the next Shaman King in this exciting action RPG. Challenged by the powerful will of Zeke, Yoh must summon all his abilities if he is to succeed and prevail. Collect the spirits of fallen enemies, use their special powers to navigate terrifying traps and find special items, and discover a world of surprises! As players progress they will build their skills, unlock special moves, combo systems, and abilities in the battle between Zeke and Yoh, or good and evil.</desc>
+		<rating>0.9</rating>
+		<releasedate>20060216T000000</releasedate>
+		<developer>KCEJ</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Shaman King - Master of Spirits 2 (USA).jpg</image>
+		<video>./snaps/Shaman King - Master of Spirits 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Shining Force - Resurrection of the Dark Dragon (USA).zip</path>
+		<name>Shining Force: Resurrection of the Dark Dragon</name>
+		<sortname />
+		<desc>Shining Force is a turn-based tactical RPG. Battles take place in square grids, and each unit occupies one square. Each unit can move up to a fixed amount of squares along the battlefield, determined by its Move statistic. Depending on its location relative to enemies and to allies, a unit can also perform one action: attack, cast a spell, use an item, or search the area. Some commands, such as equipping or dropping items, don't count as actions. The order of turns is determined by the unit's agility score and a random seed. In Shining Force, each allied unit is represented by a character with his or her own background and personality, much like in the Fire Emblem series.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040430T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>THQ</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Shining Force - Resurrection of the Dark Dragon (USA).jpg</image>
+		<video>./snaps/Shining Force - Resurrection of the Dark Dragon (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Shrek 2 (USA, Europe).zip</path>
+		<name>Shrek 2</name>
+		<sortname />
+		<desc>Developed by GBA specialist Vicarious Visions, Shrek 2 is an action game heavily inspired by Blizzard's classic The Lost Vikings. Players must get through specific platform challenges by utilizing each character's strengths and abilities. Shrek is beefy, so he can carry items that can be stacked elsewhere, or butt-stomp weakened floors. Donkey can leap higher and kick down walls. Later on, players acquire new characters, like swashbuckling Puss In Boots who can cling to walls and grind down banisters, as well as plenty of other characters from the movie. Learn the attributes of each character's personality, attacks and abilities to progress through an action-packed quest.</desc>
+		<rating>0.75</rating>
+		<releasedate>20040618T000000</releasedate>
+		<developer>Vicarious Visions</developer>
+		<publisher>Activision</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Shrek 2 (USA, Europe).jpg</image>
+		<video>./snaps/Shrek 2 (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Spyro - Attack of the Rhynocs (USA).zip</path>
+		<name>Spyro: Attack of the Rhynocs</name>
+		<sortname>Spyro 3</sortname>
+		<desc>In a terrible mishap, Spyro, Sparx, and the Professor have inadvertently torn a hole in the fabric of space between the Rhynoc and Dragon Realms. Now, at the command of the elusive Ripto, droves of Rhynocs are pouring into the Dragon Realms in yet another attempt to make life miserable. As Spyro, Agent 9, or Sergeant Byrd, you must help the Professor close the hole quickly before the gate becomes too big and the two realms fuse together--permanently. You can use Spyro's new abilities, including the Head-Butt Slam, Cyclone Attack, Phoenix Vision, and more.</desc>
+		<rating>0.85</rating>
+		<releasedate>20031114T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>Universal Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Spyro - Attack of the Rhynocs (USA).jpg</image>
+		<video>./snaps/Spyro - Attack of the Rhynocs (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Spyro - Season of Ice (USA).zip</path>
+		<name>Spyro: Season of Ice</name>
+		<sortname>Spyro</sortname>
+		<desc>Dragons never seem to have had it too easy. They have always had to worry about dragon slayers, plus they usually get a bad rap for being destructive, and let's not even get started on what people say about their breath! Fortunately Spyro has generally avoided such negative opinions, but then again he hasn't always had it easy either. You'd think that after several death-defying adventures on the Playstation over the past few years, which included the defeat of the evil Sorceress, Spyro and his friends would be able to take some time off and enjoy a bit of a vacation at Dragon Shores.</desc>
+		<rating>0.8</rating>
+		<releasedate>20011102T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>Universal Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Spyro - Season of Ice (USA).jpg</image>
+		<video>./snaps/Spyro - Season of Ice (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Spyro 2 - Season of Flame (USA).zip</path>
+		<name>Spyro 2: Season of Flame</name>
+		<sortname>Spyro 2</sortname>
+		<desc>Spyro 2: Season of Flame tells the story of Spyro's return to the Dragon Realms where he is surprised to discover that a mysterious enemy has stolen the Fireflies, the source of all dragon firepower, including Spyro's. Now it is up to everyone's favorite purple dragon to save the Fireflies before it is too late!</desc>
+		<rating>0.85</rating>
+		<releasedate>20021018T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>Universal Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Spyro 2 - Season of Flame (USA).jpg</image>
+		<video>./snaps/Spyro 2 - Season of Flame (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Stuntman (USA) (En,Fr,Es).zip</path>
+		<name>Stuntman</name>
+		<sortname />
+		<desc>You play a stuntman who has the task of completing some difficult and challenging stunts for a film director. Get it right and he'll ask you on for another project, and pay you big time. Get it wrong, and it's time for a career change. Apart from the Movie Making mode, Precision Tests will have you completing courses of varying difficulty, where you'll have to drive forward and reverse, launch off of jumps, dodge through posts and then park inside a zone before time runs out. In Jump Tests, you'll be out to grab letters while jumping off of platforms to catch them while airborne. You can also play against a friend in the various multiplayer modes to see who has the best control over their car.</desc>
+		<rating>0.4</rating>
+		<releasedate>20030620T000000</releasedate>
+		<developer>Velez &amp; Dubail</developer>
+		<publisher>Atari SA</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Stuntman (USA) (En,Fr,Es).jpg</image>
+		<video>./snaps/Stuntman (USA) (En,Fr,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Super Bust-A-Move (USA) (En,Fr,Es).zip</path>
+		<name>Super Bust-A-Move</name>
+		<sortname />
+		<desc>Super Bust-A-Move brings with it all of the entertaining puzzle action of the series with the addition of new multiplayer modes and graphical improvements. The aim of the game, as with the previous titles in the series, is to remove a collected number of coloured bubbles from the game screen. To do so, at the bottom of the screen, you aim and fire the coloured bubbles from a launcher, sending the bubbles upwards into the container. Match three or more together of the same colour to clear them from the screen. If you're too slow, the collection of bubbles moves down the screen towards you, and the game will end if it reaches the bottom.</desc>
+		<rating>0.6</rating>
+		<releasedate>20011207T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Bust-A-Move (USA) (En,Fr,Es).jpg</image>
+		<video>./snaps/Super Bust-A-Move (USA) (En,Fr,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Sword of Mana (USA, Australia).zip</path>
+		<name>Sword of Mana</name>
+		<sortname />
+		<desc>Sword of Mana tells the tale of two unlikely companions, a former prisoner out for revenge and the last known girl from the Mana tribe. The two come together, despite their differences, for one very important reason: they are the only ones that can save the Mana tree. Based upon the Mana series and the classic Game Boy title Final Fantasy Adventures, you can take control of both characters (or join with another player in co-op) and battle in realtime using spells, weapons and many more items.</desc>
+		<rating>0.7</rating>
+		<releasedate>20031201T000000</releasedate>
+		<developer>Brownie Brown</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Sword of Mana (USA, Australia).jpg</image>
+		<video>./snaps/Sword of Mana (USA, Australia).mp4</video>
+	</game>
+	<game>
+		<path>./Tarzan - Return to the Jungle (USA, Europe).zip</path>
+		<name>Disney's Tarzan: Return to the Jungle</name>
+		<sortname />
+		<desc>Based on Edgar Rice Burroughs' classic tale, Disney's Tarzan: Return to the Jungle finds Tarzan on quests that vary from locating the Fountain of Youth to discovering The Lost Valley of the Dinosaurs. Besides being able to swing from vines, swim through treacherous waters and engage in tree-surfing action, Tarzan will now be able to wield his trusty boomerang, mighty spear and famous animal call to protect his friends and jungle home. Along the way, Tarzan's friends, Jane, Terk and Professor Porter will join him on his jungle adventures.</desc>
+		<rating>0.85</rating>
+		<releasedate>20020914T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Tarzan - Return to the Jungle (USA, Europe).jpg</image>
+		<video>./snaps/Tarzan - Return to the Jungle (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./TMNT (USA) (En,Fr,Es).zip</path>
+		<name>TMNT</name>
+		<sortname />
+		<desc>Cowabunga! Take control of your favourite turtle ninjas as you play through the events of the 2007 CGI movie. The turtles have grown apart, and Raphael has taken to crime fighting solo under the guise of the Nightwatcher. The Foot Clan are turning up in the streets again, and a mysterious man known as Winters seems to be involved with them. Only the Ninja Turtles can clean up the streets! The Game Boy Advance version of TMNT can be best described as similar to the NES game River City Ransom. Players take control of either a specific turtle or the turtle of their choice (depending on the mission), and fight through waves of enemies in a sidescrolling beat-em-up style.</desc>
+		<rating>0.8</rating>
+		<releasedate>20070329T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+		<image>./boxart/TMNT (USA) (En,Fr,Es).jpg</image>
+		<video>./snaps/TMNT (USA) (En,Fr,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Tom Clancy's Rainbow Six - Rogue Spear (USA) (En,Fr,De,Es,It).zip</path>
+		<name>Tom Clancy's Rainbow Six: Rogue Spear</name>
+		<sortname />
+		<desc>Back in full force is Tom Clancy's hallmark realism and suspense in Rogue Spear?, the sequel to PC Gamer's 1998 Action Game of the Year - Rainbow Six?. Rogue Spear straddles the razor's edge separating justice from the dark forces of geopolitical turmoil. It blends spine-tingling tactics and explosive action into intense counter-terrorist warfare. Lead the RAINBOW team of elite multi-national special operatives against two deadly terrorist organizations. Life or death missions will take you to real world settings across the globe, including a Jumbo Jet airplane and the Museum of Art. Rogue Spear seems so real, you'll be yelling "Tango Down" in your sleep for weeks.</desc>
+		<rating>0.75</rating>
+		<releasedate>20020314T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Tom Clancy's Rainbow Six - Rogue Spear (USA) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Tom Clancy's Rainbow Six - Rogue Spear (USA) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Tom Clancy's Splinter Cell (USA) (En,Fr,Es).zip</path>
+		<name>Tom Clancy's Splinter Cell</name>
+		<sortname />
+		<desc>You're casted in a role of Sam Fisher, an secret operative that gets his hands dirty when others will not. Entering like a ghost, you'll have to rely to the stealth and make a good use of your surrounding to avoid direct conflict and end up outnumbered. The missions will follow pretty much the same storyline as the original game for PC/GC/PS2/XBOX with the emphasis on being a complete platformer with here and there some first-person sniping job to do.</desc>
+		<rating>0.6</rating>
+		<releasedate>20030605T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Tom Clancy's Splinter Cell (USA) (En,Fr,Es).jpg</image>
+		<video>./snaps/Tom Clancy's Splinter Cell (USA) (En,Fr,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Turok - Evolution (USA).zip</path>
+		<name>Turok: Evolution</name>
+		<sortname />
+		<desc>The game begins with the seer, Tarkeen, explaining the history of the Lost Lands which had, for years, been fought over by tyrannic warlords. On earth during the old west, Tal'Set faces off his enemy, Captain Bruckner and succeeds in cutting off his arm, but both of them are sucked into a wormhole. Tal'Set is nearly killed and the people of the River Village, who found him, call upon Tarkeen to heal him. Tarkeen then commands them to bring Tal'Set to him. He is sent into the jungle and kills enemy factions, lizard-like enemies known as the Sleg, that are close to the Village. Tal'Set hooks up with Genn, a pilot from the Village, who will be guiding him to the seer.</desc>
+		<rating>0.75</rating>
+		<releasedate>20020901T000000</releasedate>
+		<developer>RFX Interactive</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Turok - Evolution (USA).jpg</image>
+		<video>./snaps/Turok - Evolution (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero (USA).zip</path>
+		<name>Ultimate Muscle: The Kinnikuman Legacy: The Path of the Superhero</name>
+		<sortname />
+		<desc>BUMBLING BICEPS, the world of wrestling will never be the same! because now there's a new Kid in town - Kid Muscle! His unwilling arrival on Earth comes conspicuously close to the legendary Muscle League Champions' embarrassing beating at the hands of the d.M.p, a devious new breed of evil wrestling super villains. The Muscle League has recruited King Muscle's own son to reinvigorate their falling fortunes! And they've enlisted and trained a whole new generation of heroes to take on the diabolical d.M.p and save the planet!!</desc>
+		<rating>0.65</rating>
+		<releasedate>20030605T000000</releasedate>
+		<developer>ShunDa</developer>
+		<publisher>Bandai</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero (USA).jpg</image>
+		<video>./snaps/Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Virtua Tennis (USA).zip</path>
+		<name>Virtua Tennis</name>
+		<sortname />
+		<desc>Virtua Tennis arrives on the GBA, without the 'Virtual' 3D element, but with the same gameplay you expect from a tennis game. Choose from a male or female player (or create your own) and take to the world tour, competing in various tournaments on clay, hardcourt, grass or indoors. Play against some of the best players in the world, both in singles and doubles, or compete against your friends in 4 player doubles. Mini-games test your skills and improves the timing of your shots. Games range from Burger Chef (aim at the grid to decide what comes next on the burger), Disc Shooter (similar to Othello) and Bull's Eye, where you aim for the center of the target.</desc>
+		<rating>0.85</rating>
+		<releasedate>20020925T000000</releasedate>
+		<developer>Altron</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Virtua Tennis (USA).jpg</image>
+		<video>./snaps/Virtua Tennis (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Wade Hixton's Counter Punch (USA, Europe).zip</path>
+		<name>Wade Hixton's Counter Punch</name>
+		<sortname />
+		<desc>During a little trip, young Wade Hixton finds himself stranded as his car breaks down. Luckily, or unluckily for him, a small town is nearby. Calling in for help, he find the people of Big Piney more then happy to help ... at a price. Wade must now strap on the boxing gloves and fight his way around the town against a range of strange characters ready to punch his lights out. To make enough money to fix the car, and make it out of the town alive, he'll be put to the test in and out of the ring. The non-linear style of the game leaves you with all the options.</desc>
+		<rating>0.75</rating>
+		<releasedate>20040315T000000</releasedate>
+		<developer>Inferno-games</developer>
+		<publisher>Zoo Digital Publishing</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Wade Hixton's Counter Punch (USA, Europe).jpg</image>
+		<video>./snaps/Wade Hixton's Counter Punch (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Wing Commander - Prophecy (USA).zip</path>
+		<name>Wing Commander: Prophecy</name>
+		<sortname />
+		<desc>It has been some twelve years since the destruction of Kilrah, the Kilrathi homeworld. The Terran Confederation, slowly demobilizing and reorganizing its military assets, has settled on a new strategy: building several Midway-class megacarriers, brainchild of Navy Commodore Christopher Blair. These new carriers, over a kilometer long, carry all the hardware and weaponry of a Kilrathi-War-era carrier battle group. The first one, the Midway herself, is undergoing her shakedown cruise, with Blair along for the ride. Before this, though, the player is treated to a CGI video of a bizarre rupture in space in the Kilrah system: the first of the Nephilim invaders.</desc>
+		<rating>0.7</rating>
+		<releasedate>20030604T000000</releasedate>
+		<developer>Raylight Studios</developer>
+		<publisher>DSI Games</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
+		<image>./boxart/Wing Commander - Prophecy (USA).jpg</image>
+		<video>./snaps/Wing Commander - Prophecy (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Wings (USA).zip</path>
+		<name>Wings</name>
+		<sortname />
+		<desc>You are an allied fighter pilot in WW1, duking it out with the "Huns" up in the sky in over 200 missions. The missions usually come in three flavors: Top-down view bombing missions where you have to take out strategically important targets, isometric strafing runs where you get to blast anything that you fancy blasting with an unlimited supply of ammo, and of course the main part: Dogfights in the sky. Rendered in 3D, seems from behind your head. The game is set in the years 1916 through 1918, and to loosen things up a little, we get to read a page of our character's new entry for the diary-like journal in his company between every mission.</desc>
+		<rating>0.5</rating>
+		<releasedate>20040903T000000</releasedate>
+		<developer>Crawfish Interactive</developer>
+		<publisher>Zoo Digital Publishing</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Wings (USA).jpg</image>
+		<video>./snaps/Wings (USA).mp4</video>
+	</game>
+	<game>
+		<path>./WWE - Road to WrestleMania X8 (USA, Europe).zip</path>
+		<name>WWE: Road to WrestleMania X8</name>
+		<sortname />
+		<desc>The road to WrestleMania X8 is a yearlong struggle, which has seen legends reborn, dreams shattered and lives changed forever. It isn?t glamorous, it isn?t easy, and it sure as hell isn?t destiny. It is about the hard-fought brawls, the never-ending passion and the battle hardened emotions that it takes to trudge down the path to the greatest spectacle in sports entertainment. The showcase of the immortals begins with the clash of the titans in World Wrestling Road to WrestleMania X8. Grow your Superstar through the ranks as his abilities change according to your fighting style. Create your own pay-per-view and see how the crowds react to the matches.</desc>
+		<rating>0.75</rating>
+		<releasedate>20021008T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>THQ</publisher>
+		<genre>Sports</genre>
+		<image>./boxart/WWE - Road to WrestleMania X8 (USA, Europe).jpg</image>
+		<video>./snaps/WWE - Road to WrestleMania X8 (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./X2 - Wolverine's Revenge (USA, Europe).zip</path>
+		<name>X2: Wolverine's Revenge</name>
+		<sortname />
+		<desc>X-Men's most dangerous weapon is out for vengeance. In X2 Wolverine's Revenge, you play as Wolverine as he rushes to find the antidote to a virus that was implanted into his body. Unsheathe your razor-sharp claws, unleash lethal combo attacks, and use accelerated healing powers as you tear into intense action and stealth scenarios. Face off with Sabretooth, Wendigo, Juggernaut, and Magneto, while Professor X and Beast help you search for a cure. As Wolverine, you can become the ultimate fighting machine.</desc>
+		<rating>0.75</rating>
+		<releasedate>20030415T000000</releasedate>
+		<developer>Vicarious Visions</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/X2 - Wolverine's Revenge (USA, Europe).jpg</image>
+		<video>./snaps/X2 - Wolverine's Revenge (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Yggdra Union - We'll Never Fight Alone (USA).zip</path>
+		<name>Yggdra Union: We'll Never Fight Alone</name>
+		<sortname />
+		<desc>Ruled by a royal family said to be descendants of the gods themselves, Fantasinia is a prosperous and peaceful land -- until the peace is shattered by the invading forces of the Empire of Bronkia. Led by the young emperor Gulcasa, who seized control of the Empire in a brutal coup d?etat, Bronchia's Imperial Army cuts a bloody swath through the people of Fantasinia and the Royal Armies of King Ordeene. Amidst the chaos, a young woman escapes from the besieged capital of Partina -- a woman with innocence in her face, and a sword in her hand. The girl?s name is Princess Yggdra, the last surviving member of the royal family;</desc>
+		<rating>0.8</rating>
+		<releasedate>20061120T000000</releasedate>
+		<developer>Sting</developer>
+		<publisher>505 Games</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Yggdra Union - We'll Never Fight Alone (USA).jpg</image>
+		<video>./snaps/Yggdra Union - We'll Never Fight Alone (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Lord of the Rings, The - The Two Towers (USA, Europe) (En,Fr,De,Es,It,Nl).zip</path>
+		<name>Lord of the Rings: The Two Towers, The</name>
+		<sortname>Lord 1</sortname>
+		<desc>The second chapter in the epic story of Middle-earth pits you against Sauron and the evil forces of Mordor. In The Lord of the Rings: The Two Towers, you'll battle an army of 10,000 Uruk-Hai on the walls of Helm's Deep, hordes of Orcs on the plains of Rohan, and even the monstrous Cave Troll in Balin's Tomb. Guide Aragorn, Gimli, or Legolas through 13 interactive environments, using each character's unique moves, skills, and weaponry to complete your quest.</desc>
+		<rating>0.85</rating>
+		<releasedate>20021112T000000</releasedate>
+		<developer>Griptonite Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Lord of the Rings, The - The Two Towers (USA, Europe) (En,Fr,De,Es,It,Nl).jpg</image>
+		<video>./snaps/Lord of the Rings, The - The Two Towers (USA, Europe) (En,Fr,De,Es,It,Nl).mp4</video>
+	</game>
+	<game>
+		<path>./Lord of the Rings, The - The Return of the King (USA, Europe) (En,Fr,De,Es,It).zip</path>
+		<name>Lord of the Rings: The Return of the King, The</name>
+		<sortname>Lord 2</sortname>
+		<desc>Return to Middle-earth in a game based on the epic final chapter of the The Lord of the Rings movie trilogy. Developed using the same digital assets as the films, The Return of the King recreates in stunning detail the final events of the War of the Ring. Become the heroes who determine the fate of Middle-earth as you traverse the haunted Paths of the Dead, defend Minas Tirith, and even play co-op multiplayer with a friend as you march against the impenetrable Black Gates of Mordor. The fate of Middle-earth is in your hands.</desc>
+		<rating>0.85</rating>
+		<releasedate>20041112T000000</releasedate>
+		<developer>Griptonite Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/Lord of the Rings, The - The Return of the King (USA, Europe) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Lord of the Rings, The - The Return of the King (USA, Europe) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./007 - Everything or Nothing (USA, Europe) (En,Fr,De).zip</path>
+		<name>007: Everything or Nothing</name>
+		<sortname />
+		<desc>Think like Bond, act like Bond, and experience an entirely new Bond adventure. James Bond, the world's greatest secret agent, returns in Everything or Nothing with new guns and gadgets, combat skills, and clever tricks--and it's up to you to put them to good use. Travel through four exciting continents including the Valley of the Kings in Egypt and the French Quarter in New Orleans. The game also features two-player co-op missions and four-player multiplayer arena modes.</desc>
+		<rating>0.75</rating>
+		<releasedate>20031117T000000</releasedate>
+		<developer>Griptonite Games</developer>
+		<publisher>EA Games</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/007 - Everything or Nothing (USA, Europe) (En,Fr,De).jpg</image>
+		<video>./snaps/007 - Everything or Nothing (USA, Europe) (En,Fr,De).mp4</video>
 	</game>
 </gameList>

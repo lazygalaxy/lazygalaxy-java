@@ -105,20 +105,6 @@
 		<video>./snaps/NHL '94 (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Double Switch (USA).chd</path>
-		<name>Double Switch</name>
-		<sortname />
-		<desc>Double Switch is one of Digital Pictures' many full-motion video games from the mid 90s. In this "cinematic mystery" you must watch your serveilance cameras in order to trap intruders in the Edward Arms mansion. Double Switch stars Corey Haim and Deborah Harry, and features a musical score by Thomas Dolby.</desc>
-		<rating>0.5</rating>
-		<releasedate>19940201T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Digital Pictures</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<image>./boxart/Double Switch (USA).jpg</image>
-		<video>./snaps/Double Switch (USA).mp4</video>
-	</game>
-	<game>
 		<path>./Demolition Man (USA).chd</path>
 		<name>Demolition Man</name>
 		<sortname />
@@ -231,34 +217,6 @@
 		<video>./snaps/Keio Flying Squadron (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).chd</path>
-		<name>Disney's Mickey Mania: The Timeless Adventures of Mickey Mouse</name>
-		<sortname />
-		<desc>Mickey Mania: The Timeless Adventures of Mickey Mouse is a 2D-platformer developed by Traveller's Tales and published by Sony Imagesoft. In the game, you control Mickey Mouse, who must navigate through various side-scrolling levels, each designed and based from classical Mickey Mouse cartoons from 1928 to 1990.</desc>
-		<rating>0.85</rating>
-		<releasedate>19941002T000000</releasedate>
-		<developer>SCE Santa Monica Studio</developer>
-		<publisher>Travellers Tales</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<image>./boxart/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).jpg</image>
-		<video>./snaps/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).mp4</video>
-	</game>
-	<game>
-		<path>./Night Trap (USA) (Disc 2) (Rerelease).cue</path>
-		<name>Night Trap (Disc 2)</name>
-		<sortname />
-		<desc>Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace. Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because "nice people" can sometimes turn out to be yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead!</desc>
-		<rating>0.6</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Sega</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<image>./boxart/Night Trap (USA) (Disc 2) (Rerelease).jpg</image>
-		<video>./snaps/Night Trap (USA) (Disc 2) (Rerelease).mp4</video>
-	</game>
-	<game>
 		<path>./Panic! (USA) (RE).chd</path>
 		<name>Panic!</name>
 		<sortname />
@@ -274,7 +232,7 @@
 	</game>
 	<game>
 		<path>./Popful Mail (USA) (RE).chd</path>
-		<name>Popful Mail</name>
+		<name>Popful Mail: Magical Fantasy Adventure</name>
 		<sortname />
 		<desc>In this platform action game, you play as a cute bounty hunter known as Popful Mail. While you might think that a cute Anime chick would have no trouble making a living slashing bad guys with her sword, Popful is having a hard time making ends meet. One day, however, Popful learns about a magician who has gone rogue and has a hefty bounty on his head. So, her adventure begins as Popful fights her way through a new adventure, and makes new friends along the way.</desc>
 		<rating>0.75</rating>
@@ -358,7 +316,7 @@
 	</game>
 	<game>
 		<path>./Masked Rider, The - Kamen Rider ZO (USA).chd</path>
-		<name>The Masked Rider: Kamen Rider ZO</name>
+		<name>Masked Rider: Kamen Rider ZO, The</name>
 		<sortname />
 		<desc>The Masked Rider is a Japanese super hero, a man who has become genetically altered to be a man/grasshopper who rides a motorcycle. This FMV game adapts scenes from the movie Masked Rider ZO, and creates a Dragon's Lair style experience. The game centers around 10 battles of the film's 3 main characters.</desc>
 		<rating>0.5</rating>
@@ -399,8 +357,8 @@
 		<video>./snaps/WireHead (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Ground Zero Texas (USA) (Disc 1).cue</path>
-		<name>Ground Zero Texas (Disc 1)</name>
+		<path>./Ground Zero Texas.m3u</path>
+		<name>Ground Zero Texas</name>
 		<sortname />
 		<desc>Space aliens are infiltrating the U.S. from a sleepy little town on the Texas/Mexico border, snatching bodies and paving the way for a greater invasion. Those they abduct return as Pod People-like drones, normal in appearance until they reveal themselves. The government's response is you - a technician driving custom-built gun cameras mounted around the town. Similar to Night Trap or Double Switch, you must monitor the town for alien activity, and respond to protect the lives of the citizens and your agents.</desc>
 		<rating>0.75</rating>
@@ -409,22 +367,8 @@
 		<publisher>Sony Imagesoft</publisher>
 		<genre>Action-Adventure</genre>
 		<players>1</players>
-		<image>./boxart/Ground Zero Texas (USA) (Disc 1).jpg</image>
-		<video>./snaps/Ground Zero Texas (USA) (Disc 1).mp4</video>
-	</game>
-	<game>
-		<path>./Ground Zero Texas (USA) (Disc 2).cue</path>
-		<name>Ground Zero Texas (Disc 2)</name>
-		<sortname />
-		<desc>Space aliens are infiltrating the U.S. from a sleepy little town on the Texas/Mexico border, snatching bodies and paving the way for a greater invasion. Those they abduct return as Pod People-like drones, normal in appearance until they reveal themselves. The government's response is you - a technician driving custom-built gun cameras mounted around the town. Similar to Night Trap or Double Switch, you must monitor the town for alien activity, and respond to protect the lives of the citizens and your agents.</desc>
-		<rating>0.75</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>SCE Santa Monica Studio</developer>
-		<publisher>Sony Imagesoft</publisher>
-		<genre>Action-Adventure</genre>
-		<players>1</players>
-		<image>./boxart/Ground Zero Texas (USA) (Disc 2).jpg</image>
-		<video>./snaps/Ground Zero Texas (USA) (Disc 2).mp4</video>
+		<image>./boxart/Ground Zero Texas.jpg</image>
+		<video>./snaps/Ground Zero Texas.mp4</video>
 	</game>
 	<game>
 		<path>./Ecco the Dolphin (USA).chd</path>
@@ -442,7 +386,7 @@
 	</game>
 	<game>
 		<path>./Heart of the Alien - Out of This World Parts I and II (USA) (RE).chd</path>
-		<name>Heart of the Alien: Out of this World Parts I and II</name>
+		<name>Heart of the Alien: Out of This World: Parts I and II</name>
 		<sortname />
 		<desc>A sequel to Another World and continues the story directly from where the original ended. The game switches the player's role from Another World; this time the player takes control of Buddy, the main character's alien ally from the previous game. The story picks up immediately after the end of Another World. Buddy lands the pterodactyl in the ruins of his village, lays Lester down on a cot to rest and walks through the village, thinking of his past. This sequence contains many flashbacks of events that lead up to Buddy's capture and his and Lester's escape from prison.</desc>
 		<rating>0.6</rating>
@@ -540,7 +484,7 @@
 	</game>
 	<game>
 		<path>./AH3 - Thunderstrike (USA).chd</path>
-		<name>AH3 ThunderStrike </name>
+		<name>AH3 ThunderStrike</name>
 		<sortname />
 		<desc>AH3 ThunderStrike is an action game on Mega-CD that gives you control of a combat helicopter in a series of six futuristic campaigns. The original version includes a total of 60 operations with various objectives. Before flying in the sky, the player can adapt the embarked arsenal to suit it. Piloting is technical but accessible, without being as complex as other simulations available in 1993.</desc>
 		<rating>0</rating>
@@ -610,7 +554,7 @@
 	</game>
 	<game>
 		<path>./Cadillacs and Dinosaurs - The Second Cataclysm (USA, Brazil) (RE).chd</path>
-		<name>Cadillacs And Dinosaurs: The Second Cataclysm</name>
+		<name>Cadillacs and Dinosaurs: The Second Cataclysm</name>
 		<sortname />
 		<desc>Cadillacs and Dinosaurs: The Second Cataclysm is a Sega Mega-CD (and DOS) game based on the comic book series Xenozoic Tales, and the TV show of the same name. It is not to be confused with the arcade beat-'em-up, Cadillacs and Dinosaurs by Capcom. The Mega-CD game was only released in North America and Brazil.</desc>
 		<releasedate>19940101T000000</releasedate>
@@ -651,7 +595,7 @@
 	</game>
 	<game>
 		<path>./Eye of the Beholder (USA).chd</path>
-		<name>Eye of the Beholder</name>
+		<name>Advanced Dungeons &amp; Dragons: Eye of the Beholder</name>
 		<sortname />
 		<desc>Something evil is lurking below the city of Waterdeep. The Lords of Waterdeep summon a group of heroes to investigate, but someone or something has been watching the proceedings. After the heroes enter the sewers, the ceiling collapses behind them. The only way out is the way down, into a dungeon filled with monsters, traps and puzzles.</desc>
 		<rating>0.75</rating>
@@ -706,7 +650,7 @@
 	</game>
 	<game>
 		<path>./Pitfall - The Mayan Adventure (USA).chd</path>
-		<name>Pitfall: The Mayan Adventure </name>
+		<name>Pitfall: The Mayan Adventure</name>
 		<sortname />
 		<desc>Pitfall: The Mayan Adventure is a side-scrolling action game in which you play adventurer Pitfall Harry Jr in search of his father Pitfall Harry. You battle your way through the Mayan jungles, waterfalls, deserted mines and can bungee jump and boomerang your way to safety. There are 13 levels and the action is fast and gripping. You will need to be attentive—and quick. Or prepare to die.</desc>
 		<rating>0.85</rating>
@@ -748,7 +692,7 @@
 	</game>
 	<game>
 		<path>./Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1).chd</path>
-		<name>The Amazing Spider-Man vs. The Kingpin</name>
+		<name>Amazing Spider-Man vs. The Kingpin, The</name>
 		<sortname />
 		<desc>The city of New York is certainly a great place to be, but not when there's the criminal element running about. Lucky for the NYPD, there's also the heroic Spider-Man on their side! But now one of the biggest criminals in the city, Wilson Fisk, a.k.a. The Kingpin, tells the press that a bomb planted somewhere in New York will detonate within 24 hours. He directly accuses Spider-Man, who ends up with the police on his back. You have to find the bomb and restore your image, but Dr. Octopus, Electro and Mysterio will try to block your way.</desc>
 		<releasedate>19930101T000000</releasedate>
@@ -787,19 +731,6 @@
 		<video>./snaps/Starblade (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Dracula Unleashed.m3u</path>
-		<name>Dracula Unleashed</name>
-		<sortname />
-		<desc>Dracula Unleashed combines the quality of a Hollywood film, a challenging mystery to solve, and a new twist on the Dracula legend. Ten years after the events described in Bram Stoker's original novel, Alexander Morris, a wealthy American, has arrived in England to discover the true circumstances of his brother's mysterious death.</desc>
-		<rating>0.7</rating>
-		<releasedate>19940501T000000</releasedate>
-		<developer>ICOM Simulations</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action</genre>
-		<image>./boxart/Dracula Unleashed.jpg</image>
-		<video>./snaps/Dracula Unleashed.mp4</video>
-	</game>
-	<game>
 		<path>./Fahrenheit (USA).m3u</path>
 		<name>Fahrenheit</name>
 		<sortname />
@@ -813,8 +744,8 @@
 		<video>./snaps/Fahrenheit (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Night Trap (USA) (Disc 1) (Rerelease).cue</path>
-		<name>Night Trap (Disc 1)</name>
+		<path>./Night Trap (USA).m3u</path>
+		<name>Night Trap</name>
 		<sortname />
 		<desc>Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace. Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because "nice people" can sometimes turn out to be, yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood. ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead!</desc>
 		<rating>0.6</rating>
@@ -822,8 +753,8 @@
 		<developer>Digital Pictures</developer>
 		<publisher>Sega</publisher>
 		<genre>Adventure</genre>
-		<image>./boxart/Night Trap (USA) (Disc 1) (Rerelease).jpg</image>
-		<video>./snaps/Night Trap (USA) (Disc 1) (Rerelease).mp4</video>
+		<image>./boxart/Night Trap (USA).jpg</image>
+		<video>./snaps/Night Trap (USA).mp4</video>
 	</game>
 	<game>
 		<path>./Lunar - The Silver Star (USA) (RE).chd</path>
@@ -837,5 +768,334 @@
 		<genre>Role Playing Games</genre>
 		<image>./boxart/Lunar - The Silver Star (USA) (RE).jpg</image>
 		<video>./snaps/Lunar - The Silver Star (USA) (RE).mp4</video>
+	</game>
+	<game>
+		<path>./Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).chd</path>
+		<name>Disney's Mickey Mania: The Timeless Adventures of Mickey Mouse</name>
+		<sortname />
+		<desc>Mickey Mania: The Timeless Adventures of Mickey Mouse is a 2D-platformer developed by Traveller's Tales and published by Sony Imagesoft. In the game, you control Mickey Mouse, who must navigate through various side-scrolling levels, each designed and based from classical Mickey Mouse cartoons from 1928 to 1990.</desc>
+		<rating>0.85</rating>
+		<releasedate>19941002T000000</releasedate>
+		<developer>SCE Santa Monica Studio</developer>
+		<publisher>Travellers Tales</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).jpg</image>
+		<video>./snaps/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Double Switch (USA).chd</path>
+		<name>Double Switch</name>
+		<sortname />
+		<desc>Double Switch is one of Digital Pictures' many full-motion video games from the mid 90s. In this "cinematic mystery" you must watch your serveilance cameras in order to trap intruders in the Edward Arms mansion. Double Switch stars Corey Haim and Deborah Harry, and features a musical score by Thomas Dolby.</desc>
+		<rating>0.5</rating>
+		<releasedate>19940201T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Digital Pictures</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/Double Switch (USA).jpg</image>
+		<video>./snaps/Double Switch (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dracula Unleashed.m3u</path>
+		<name>Dracula Unleashed</name>
+		<sortname />
+		<desc>Dracula Unleashed combines the quality of a Hollywood film, a challenging mystery to solve, and a new twist on the Dracula legend. Ten years after the events described in Bram Stoker's original novel, Alexander Morris, a wealthy American, has arrived in England to discover the true circumstances of his brother's mysterious death.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940501T000000</releasedate>
+		<developer>ICOM Simulations</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Dracula Unleashed.jpg</image>
+		<video>./snaps/Dracula Unleashed.mp4</video>
+	</game>
+	<game>
+		<path>./Star Wars - Rebel Assault (USA).chd</path>
+		<name>Star Wars: Rebel Assault</name>
+		<sortname />
+		<desc>Star Wars: Rebel Assault on Mega-CD is an action game based on the universe of Star Wars. The player plays Rookie one, a young farmer on Tatooine who has just joined the rebellious alliance and has to accomplish different kinds of missions: destruction of ships, infiltration.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>JVC</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Star Wars - Rebel Assault (USA).jpg</image>
+		<video>./snaps/Star Wars - Rebel Assault (USA).mp4</video>
+	</game>
+	<game>
+		<path>./BC Racers (USA).chd</path>
+		<name>BC Racers</name>
+		<sortname />
+		<desc>BC Racers is a kart racing game starring characters from the Core Design's Chuck Rock series of games. Each of the racers in this game rides a prehistoric motorcycle with a side car. On each two-character team, one person drives the motorcycle, and the other fights off opponents using clubs, punches, kicks, etc. Graphics in BC Racers consist of a flat landscape decorated with scaled sprites to compose the track and scenery.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>SEGA</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/BC Racers (USA).jpg</image>
+		<video>./snaps/BC Racers (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Chuck Rock (USA).chd</path>
+		<name>Chuck Rock</name>
+		<sortname />
+		<desc>Chuck Rock is your typical average cave man. He likes to spend his Sunday afternoons watching football and drinking beer. Unfortunately, his peaceful existence is interrupted one day when his wife, Ophelia Rock, is kidnapped by the village wierdo, Gary Gritter. So, Chuck is rather upset about this whole situation and you have to help him make things right. The game is a side-scrolling platformer. Chuck fights of a variety of dinosaurs using his belly-buster attack and a jump kick. Occasionally he has to pick up and throw rocks to defeat enemies and allow him to jump to greater heights.</desc>
+		<rating>0.5</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Chuck Rock (USA).jpg</image>
+		<video>./snaps/Chuck Rock (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Chuck Rock II - Son of Chuck (USA).chd</path>
+		<name>Chuck Rock II: Son of Chuck</name>
+		<sortname />
+		<desc>As you may remember, Chuck Rock had to rescue his girl, Ophelia from the bad dude Gary Gritter.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Chuck Rock II - Son of Chuck (USA).jpg</image>
+		<video>./snaps/Chuck Rock II - Son of Chuck (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dune (USA).chd</path>
+		<name>Dune</name>
+		<sortname />
+		<desc>Dune on Mega CD is a game mixing adventure, management and strategy. The story, which takes place on the planet Arrakis, is centered on a conflict between two houses over the extraction of spice, the most precious substance in the universe. The story follows the adventures of Paul Atreides, who puts all his skills to work to defend the interests of his people. Build relationships with the local tribes, ensure the extraction of the spice and hunt down the cruel Harkonnen.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Cryo Interactive</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Dune (USA).jpg</image>
+		<video>./snaps/Dune (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dungeon Master II - Skullkeep (USA) (RE3).chd</path>
+		<name>Dungeon Master II: Skullkeep</name>
+		<sortname />
+		<desc>Dungeon Master II: The Legend of Skullkeep on Mega-CD is a role-playing game in which you play Thoram Zed, who must enter Skullkeep Castle to kill the infamous Dragoth. Access to the castle requiring the four keys of destiny, the player must first worry about finding these before starting his quest. To do this, gather a team of four fighters and carry out a number of missions.</desc>
+		<releasedate>19940901T000000</releasedate>
+		<developer>Interplay</developer>
+		<publisher>Interplay</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Dungeon Master II - Skullkeep (USA) (RE3).jpg</image>
+		<video>./snaps/Dungeon Master II - Skullkeep (USA) (RE3).mp4</video>
+	</game>
+	<game>
+		<path>./FIFA International Soccer (USA).chd</path>
+		<name>FIFA International Soccer</name>
+		<sortname />
+		<desc>The game that started the best-selling series licensed by football's world governing body, this first installment in the long running series used a dimetric (colloquially known as "isometric") viewpoint, previously unusual in football games but quickly imitated by several titles. The televisual presentation, one of the unique points of the early EA Sports titles, with hosts introducing the matches, was another thing making the game stand out from a market dominated by Sensible Soccer and Kick Off games. Based on international teams (with fictional player names), their abilities in each skill area rated out of 10 to give the player an overall impression of how good they are.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Extended Play Productions</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/FIFA International Soccer (USA).jpg</image>
+		<video>./snaps/FIFA International Soccer (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Formula One World Championship - Beyond the Limit (USA).chd</path>
+		<name>Formula One World Championship: Beyond the Limit</name>
+		<sortname />
+		<desc>Beyond the Limit is a racing sim based on Formula One circa 1993. It features real-life cars, tracks, and drivers from the world of F1. The graphics in Beyond the Limit are created from scaled and rotated sprites that create a 3D effect. It also features a lot of full-screen video clips taken from Fuji TV's coverage of actual races. There are two main game modes: Grand Prix and 1993. Grand Prix mode is a points-based championship spread out over 16 races. 1993 mode lets you re-enact specific challenges in that year's races.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Formula One World Championship - Beyond the Limit (USA).jpg</image>
+		<video>./snaps/Formula One World Championship - Beyond the Limit (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Heimdall (USA).chd</path>
+		<name>Heimdall</name>
+		<sortname />
+		<desc>You play as Heimdall, a demi-god based in Norse mythology. Heimdall's job is to protect the entrance to Asgard, the home of the gods, from all evil, including the terrible Ragnarok, when all the evil forces come together to try and destroy the gods and ultimately everything. Unfortunately Ragnarok is on its way and if that wasn't bad enough, Loki, god of mischief, has hidden Thor's hammer, Odin's sword and Frey's spear in three worlds. You, as the newly mortalized Heimdall, must visit each of these worlds to collect the god's weapons. The first is Midgard (or Earth), the second is Utgard (the world of the giants) and the third is Asgard itself, the home of the gods.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Core</developer>
+		<publisher>JVC</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Heimdall (USA).jpg</image>
+		<video>./snaps/Heimdall (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Joe Montana's NFL Football (USA).chd</path>
+		<name>Joe Montana's NFL Football</name>
+		<sortname />
+		<desc>This enhanced version of the Joe Montana series features 3D models and even full-motion video of Joe Montana himself. It sports a full NFL license with all 28 teams of the time with their respective nicknames and logos, along with 10 of the all-time greatest Super Bowl teams including '85 Bears, the '72 Dolphins, just to name a few, that the player can compete against if they win the biggest game of the year. The gameplay is a behind the quarterback view with 3D angles including four different replay options including a "Helmet Cam". It features digitized voices and videos including Joe Montana in which the player can consult him three times during a game.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Malibu Interactive</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Joe Montana's NFL Football (USA).jpg</image>
+		<video>./snaps/Joe Montana's NFL Football (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Microcosm (USA).chd</path>
+		<name>Microcosm</name>
+		<sortname />
+		<desc>In the year 2051, two mega corporations battle it out for supremacy over an overcrowded, overpolluted planet. CyberTech Industries, the dominant company on the planet, is being challenged by Axiom, who blames the former for their president's death. To gain revenge, they secretly inject CyberTech's president, Anton Korsby, with a virus that threatens to take over his body, and ultimately destroy himself and CyberTech. Your mission is to enter Korsby's body, destroy the virus, and defeat the organism that controls his brain. Microcosm is a 3D action shooter, similar to Descent, that takes place entirely within the human body. The concept was inspired by the 1966 movie Fantastic Voyage.</desc>
+		<rating>0.65</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Psygnosis</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Microcosm (USA).jpg</image>
+		<video>./snaps/Microcosm (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mortal Kombat (USA).chd</path>
+		<name>Mortal Kombat</name>
+		<sortname />
+		<desc>Five Hundred years ago, an ancient and well respected Shaolin fighting tournament, held every 50 years, was corrupted by an evil and elderly sorcerer by the name of Shang Tsung. Shang was accompanied by Prince Goro, a warrior of the Shokan race (a four armed half-human/half-dragon). Knowing that if ten tournaments in a row were won by the Outworld champion, the Earth Realm would be conquered by evil and fall into darkness, Shang entered Goro in the tournament and had him defeat the great Kung Lao. Goro has been reigning supreme as the undefeated fighting champion for five hundred years now.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940501T000000</releasedate>
+		<developer>Probe</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Mortal Kombat (USA).jpg</image>
+		<video>./snaps/Mortal Kombat (USA).mp4</video>
+	</game>
+	<game>
+		<path>./NBA Jam (USA).chd</path>
+		<name>NBA JAM</name>
+		<sortname />
+		<desc>NBA Jam is a two-on-two basketball game You can play any NBA team, and you can play as players like Barkley, Starks, Pippen, and Grant. Each human player controls a single player, so choose your squad wisely to take team-mate skill into account. The game is action-oriented, and players can perform unrealistic slam-dunks. Full performance statistics are automatically recorded. The play clock and 3-point line apply, but other rules are largely overlooked.</desc>
+		<rating>0.35</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Arena Entertainment</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/NBA Jam (USA).jpg</image>
+		<video>./snaps/NBA Jam (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Power Monger (USA).chd</path>
+		<name>Power Monger</name>
+		<sortname />
+		<desc>Powermonger takes the basic design and concepts of Bullfrog's previous game Populous, and places it in a war context. The game cast the player as a dispossessed warlord plundering his way through 195 territories on the way to world conquest. Several other leaders have the same goal. The gameworld is now made up of polygons, so the view can be rotated and moved with greater freedom than Populous. Trade, diplomacy, inventions, and scorched earth invasions all play a key role in how the player progressed through the game. Two-player games via modem links are available on computer versions.</desc>
+		<rating>0.55</rating>
+		<releasedate>19940401T000000</releasedate>
+		<developer>Bullfrog</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Power Monger (USA).jpg</image>
+		<video>./snaps/Power Monger (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Prince of Persia (USA).chd</path>
+		<name>Prince of Persia</name>
+		<sortname />
+		<desc>The Grand Vizier Jaffar has thrown you into a dark dungeon and plans to marry the girl of your dreams in an hour. You're not going to let that happen are you? Try to escape from the dungeon, take out Jaffar's guards, find your way through the Sultan's palace and defeat Jaffar himself. Now go, you've got 60 minutes! Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must avoid deadly traps, solve some simple puzzles and engage in sword fights with the guards. The player has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. An especially noteworthy aspect of the game is the very fluent animation of your character.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Bits Laboratory</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Prince of Persia (USA).jpg</image>
+		<video>./snaps/Prince of Persia (USA).mp4</video>
+	</game>
+	<game>
+		<path>./SoulStar (USA).chd</path>
+		<name>SoulStar</name>
+		<sortname />
+		<desc>Soulstar for the Sega CD/Mega CD is a 3D shoot-'em up that combines several different types of gameplay into one game. Some levels in this game are on a fixed path, similar to Space Harrier or Star Fox. Other levels allow your space craft to hover freely around a 3D environment, and in other levels your craft transforms into a walker robot for close-up attacks.</desc>
+		<rating>0.85</rating>
+		<releasedate>19940401T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/SoulStar (USA).jpg</image>
+		<video>./snaps/SoulStar (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Time Gal (USA).chd</path>
+		<name>Time Gal</name>
+		<sortname />
+		<desc>The year is 4001. The evil Luna has stolen a time machine and plans to use it to take over the world. You are the Time Gal, a skillful and pretty scientist, and your mission is to chase Luna through different time periods, to get the time machine back, and to save the world. Created during the first age of "full motion" style, Time Gal is a conversion of an early arcade title. You watch animations of your heroine while she travels through levels, and overcome obstacles by pushing the correct button at the right moment. You can change directions, jump, shoot, etc., but everything is controlled during the never-ending fluent motion of the Time Gal.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Taito</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Time Gal (USA).jpg</image>
+		<video>./snaps/Time Gal (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tomcat Alley (USA).chd</path>
+		<name>Tomcat Alley</name>
+		<sortname />
+		<desc>Tomcat Alley is one of the last of Sega's TruVideo games for the SegaCD, featuring you and your F-14 Tomcat doing what you do best - dogfighting Russian Migs! This time, a renegade Soviet commander is threatening the United States with chemical weapons from his base in the Mexican desert, and its up to you and your wingmen to fine-tune your air-to-air combat strategies to make the entire western hemisphere safe again! Tomcat Alley was one of Sega's last TruVideo games, featuring what is called "Active Matrix" software, which allows for many different outcomes to any given situation. This means only one thing - much more interaction and variation than previous FMV (Full Motion Video) games!</desc>
+		<rating>0.6</rating>
+		<releasedate>19940401T000000</releasedate>
+		<developer>The Code Monkeys</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Tomcat Alley (USA).jpg</image>
+		<video>./snaps/Tomcat Alley (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Wing Commander (USA).chd</path>
+		<name>Wing Commander</name>
+		<sortname />
+		<desc>The Confederation have been at war with the Kilrathi for the past 20 years, and you're just now joining the Vega campaign. You're a 2nd Lieutenant just out of the Academy, with some good work under your belt. You're posted to Tiger's Claw, the flagship of the Confederation Fleet. Will you help the Confederation to victory, or go down in infamy? Wing Commander is a space combat simulator interspersed with shipboard dialogs. Onboard the ship, you can save/load game, visit the bar to get the latest gossip, or go on to the next mission briefing, and the 3D space combat part. The 3D space combat have you sitting in the cockpit, where you control the craft like roll, turn, up/down, afterburner, as well as fire guns and launch missiles.</desc>
+		<rating>0.55</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Wing Commander (USA).jpg</image>
+		<video>./snaps/Wing Commander (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Wonder Dog (USA) (RE).chd</path>
+		<name>Wonder Dog</name>
+		<sortname />
+		<desc>Wonder Dog is a side-scrolling platform game featuring a dog with super jumping ability and powerful throwing stars. Wonder Dog has these abilities because he is not from Earth, but from Planet K-9. When Wonder Dog was a pup, K-9 scientists sent him to Earth to escape the impending invasion from the Pitbully Armada. Now, armed with the wonder serum, Wonder Dog must fight his way back to liberate K-9. This game features a variety of colorful stages, several hidden bonus rounds, and a large boss character at the end of nearly every level.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Victor Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Wonder Dog (USA) (RE).jpg</image>
+		<video>./snaps/Wonder Dog (USA) (RE).mp4</video>
+	</game>
+	<game>
+		<path>./WWF - Rage in the Cage (USA).chd</path>
+		<name>WWF: Rage in the Cage</name>
+		<sortname />
+		<desc>WWF Rage in the Cage lets players choose from 30 unique WWF Superstars including The Undertaker, Yokozuna, Bret Hart, Bam Bam Bigelow, Shawn Michaels, Razor Ramon among many more. Each superstars has their own strengths and weaknesses and has a personalized finisher such as the Tombstone for the Undertaker, Sweet Chin Music for Shawn Michaels, etc., along with the standard suplexes, body slams. There are a plethora of game modes to choose from including a regular single-falls match, tag team, 6-man tag team, battle royal and the games dreaded namesake, the Steel Cage. The main gameplay is reminiscent of WWF Royal Rumble with the look and feel but features enhanced audio and graphics utilizing the Sega CD's capabilities.</desc>
+		<rating>0.15</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Arena Entertainment</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/WWF - Rage in the Cage (USA).jpg</image>
+		<video>./snaps/WWF - Rage in the Cage (USA).mp4</video>
 	</game>
 </gameList>

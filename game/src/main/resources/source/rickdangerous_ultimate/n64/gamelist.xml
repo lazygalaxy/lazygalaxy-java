@@ -287,34 +287,6 @@
 		<video>./snaps/Resident Evil 2 (USA) (Rev A).mp4</video>
 	</game>
 	<game>
-		<path>./Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).v64</path>
-		<name>The Legend of Zelda: Ocarina of Time</name>
-		<sortname>The Legend of Zelda 1</sortname>
-		<desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule. He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce. As the young hero Link, it is your destiny to thwart Ganondorf's evil schemes. Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora's Domain.</desc>
-		<rating>0.95</rating>
-		<releasedate>19981123T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Adventure</genre>
-		<players>1</players>
-		<image>./boxart/Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).jpg</image>
-		<video>./snaps/Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).mp4</video>
-	</game>
-	<game>
-		<path>./Legend of Zelda, The - Majora's Mask (USA).v64</path>
-		<name>The Legend of Zelda: Majora's Mask</name>
-		<sortname>The Legend of Zelda 2</sortname>
-		<desc>Thrown into a parallel world by the mischievous actions of a possessed Skull Kid, Link finds a land in grave danger. The dark power of a relic called Majora's Mask has wreaked havoc on the citizens of Termina, but their most urgent problem is a suicidal moon crashing toward the world. Link has only 72 hours to find a way to stop its descent.</desc>
-		<rating>0.95</rating>
-		<releasedate>20001026T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Adventure</genre>
-		<players>1</players>
-		<image>./boxart/Legend of Zelda, The - Majora's Mask (USA).jpg</image>
-		<video>./snaps/Legend of Zelda, The - Majora's Mask (USA).mp4</video>
-	</game>
-	<game>
 		<path>./International Superstar Soccer 2000 (USA) (En,Es) (Rev 1).z64</path>
 		<name>International Superstar Soccer 2000</name>
 		<sortname />
@@ -429,91 +401,391 @@
 	<game>
 		<path>./1080 TenEighty Snowboarding (Japan, USA) (En,Ja).n64</path>
 		<name>1080° TenEighty Snowboarding</name>
+		<sortname />
 		<desc>1080° Snowboarding is a snowboard racing game. The player will find 6 downhill slopes and a half-pipe as courses, several characters to choose from, and be able to perform more than 25 tricks. After choosing a character and a board among the available eight, the player can compete in a variety of events.</desc>
-		<image>./boxart/1080 TenEighty Snowboarding (Japan, USA) (En,Ja).jpg</image>
-		<video>./snaps/1080 TenEighty Snowboarding (Japan, USA) (En,Ja).mp4</video>
 		<rating>0.85</rating>
 		<releasedate>19980401T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Sports</genre>
 		<players>1-2</players>
-		<playcount>6</playcount>
-		<lastplayed>20220223T113254</lastplayed>
+		<image>./boxart/1080 TenEighty Snowboarding (Japan, USA) (En,Ja).jpg</image>
+		<video>./snaps/1080 TenEighty Snowboarding (Japan, USA) (En,Ja).mp4</video>
 	</game>
 	<game>
 		<path>./F-Zero X (USA).v64</path>
 		<name>F-Zero X</name>
+		<sortname />
 		<desc>Famed SNES racer F-Zero got this N64 update. Gameplay remains essentially unchanged, race in a futuristic racing tournament on tracks levitated miles up in the air, against a selection of devious opponents.</desc>
-		<image>./boxart/F-Zero X (USA).jpg</image>
-		<video>./snaps/F-Zero X (USA).mp4</video>
 		<rating>0.8</rating>
 		<releasedate>19981026T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Racing</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220223T113424</lastplayed>
+		<image>./boxart/F-Zero X (USA).jpg</image>
+		<video>./snaps/F-Zero X (USA).mp4</video>
 	</game>
 	<game>
 		<path>./GoldenEye 007 (USA).v64</path>
 		<name>GoldenEye 007</name>
+		<sortname />
 		<desc>The name is Bond. James Bond. The famous hero of Ian Fleming's novels returns in this first-person shooter, which is based on the movie of the same name. Agent 007 and his friend Alec Trevalyan (a.k.a. Agent 006) were sent to Soviet Union on a secret mission. But everything goes wrong, James Bond barely escapes, and his friend is presumed dead.</desc>
-		<image>./boxart/GoldenEye 007 (USA).jpg</image>
-		<video>./snaps/GoldenEye 007 (USA).mp4</video>
 		<rating>0.8</rating>
 		<releasedate>19970825T000000</releasedate>
 		<developer>Rareware</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220223T113654</lastplayed>
+		<image>./boxart/GoldenEye 007 (USA).jpg</image>
+		<video>./snaps/GoldenEye 007 (USA).mp4</video>
 	</game>
 	<game>
 		<path>./Perfect Dark (USA) (Rev 1).v64</path>
 		<name>Perfect Dark</name>
+		<sortname />
 		<desc>Joanna Dark is an agent for the Carrington Institute, a secret organization funded by anonymous sources and dedicated to protecting the world. Through their highly trained operatives and special devices (gadgets), Carrington keeps an eye on terrorists, world powers, and strange happenings. The speed in which the dataDyne corporation has established itself through the development of new technologies is starting to worry the institute. So when Carrington receives a message from Dr. Caroll, a scientist wishing to escape dataDyne, they send their best agent, Joanna, to infiltrate the company headquarters.</desc>
-		<image>./boxart/Perfect Dark (USA) (Rev 1).jpg</image>
-		<video>./snaps/Perfect Dark (USA) (Rev 1).mp4</video>
 		<rating>0.8</rating>
 		<releasedate>20000522T000000</releasedate>
 		<developer>Rareware</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220223T113445</lastplayed>
+		<image>./boxart/Perfect Dark (USA) (Rev 1).jpg</image>
+		<video>./snaps/Perfect Dark (USA) (Rev 1).mp4</video>
 	</game>
 	<game>
 		<path>./Wave Race 64 (USA) (Rev A).z64</path>
 		<name>Wave Race 64</name>
+		<sortname />
 		<desc>Wave Race 64 is sure to provide some of the most exciting racing you've ever experienced. Feel the pounding and crashing of the waves as you accelerate into straight-aways, whip around the marker buoys and go airborne on the jump ramps. Don't race alone - challenge a friend! Take control in three different modes of play - Championship, Time Trials and Stunt Mode. Nine challenging courses set in exotic locales - race conditions change and the wave action responds to the way both you and your opponents race!</desc>
-		<image>./boxart/Wave Race 64 (USA) (Rev A).jpg</image>
-		<video>./snaps/Wave Race 64 (USA) (Rev A).mp4</video>
 		<rating>0.85</rating>
 		<releasedate>19961101T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Racing</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220223T113504</lastplayed>
+		<image>./boxart/Wave Race 64 (USA) (Rev A).jpg</image>
+		<video>./snaps/Wave Race 64 (USA) (Rev A).mp4</video>
 	</game>
 	<game>
 		<path>./WCW-nWo Revenge (USA).n64</path>
 		<name>WCW/nWo Revenge</name>
+		<sortname />
 		<desc>WCW/nWo Revenge is the much anticipated sequel to THQ's smash "WCW Vs NWO: World Tour". With greatly improved graphics, animation, roster, control and much anticipated 40 man 'battle royal', Revenge is a definite step up over it's predecessor. Take control of one of 50 WCW wrestlers (and 10+ fictional wrestlers) such as Sting or Hollywood Hogan and battle through for any of the 5 different title belts with full statistical tracking of wins/losses/draws and new replay mode you can gloat in your victory or powerful move over and over again.</desc>
-		<image>./boxart/WCW-nWo Revenge (USA).jpg</image>
-		<video>./snaps/WCW-nWo Revenge (USA).mp4</video>
 		<rating>0.7</rating>
 		<releasedate>19981030T000000</releasedate>
 		<developer>Asmik</developer>
 		<publisher>Asmik</publisher>
 		<genre>Sports</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220223T113522</lastplayed>
+		<image>./boxart/WCW-nWo Revenge (USA).jpg</image>
+		<video>./snaps/WCW-nWo Revenge (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Beetle Adventure Racing! (USA) (En,Fr,De).z64</path>
+		<name>Beetle Adventure Racing!</name>
+		<sortname />
+		<desc>Take control of a collection of the latest Volkswagen Beetle "2.0" models (from street type to off-road designs) and race across varying road types that will test your speed and endurance (each track taking up to 4 minutes to complete from one end to another). Find shortcuts or use nitro boosts to get to the end first in order to move on to the next track. If the computer AI is to easy for you, battle against a friend in two player race mode. Up to 4 people can also play a special Battle Mode challenge, with added abilities including weapons (from mines and rockets to magical elements) while collecting the flag and finding the exit.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990228T000000</releasedate>
+		<developer>Paradigm Entertainment</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Racing</genre>
+		<players>1-4</players>
+		<image>./boxart/Beetle Adventure Racing! (USA) (En,Fr,De).jpg</image>
+		<video>./snaps/Beetle Adventure Racing! (USA) (En,Fr,De).mp4</video>
+	</game>
+	<game>
+		<path>./Doom 64 (USA) (Rev 1).z64</path>
+		<name>Doom 64</name>
+		<sortname />
+		<desc>DOOM 64 picks up where all the other DOOM games left off. After tearing through space, hell, and wherever else in the previous games, the Space Marine thought that the threat of the demons was finally past. Of course, one survived, and it is currently reanimating all of the fallen monsters in a last-ditch attempt to revitalize their evil mission. The player's task is to finally rid the universe of all the crazy hellions, from the dead guy with the pistol to the rocket-spewing Cyberdemon.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970331T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Doom 64 (USA) (Rev 1).jpg</image>
+		<video>./snaps/Doom 64 (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./International Superstar Soccer 64 (USA).z64</path>
+		<name>International Superstar Soccer 64</name>
+		<sortname />
+		<desc>ISS64 offers all of the style and grace you expect in a game of Soccer, the World Game. There are six game modes to play, including the usual 1-4 player exhibition modes and training. International Cup has you competing against a range of teams from around the world for the International Cup; World League is a series of 70 matches against every team from around the world. You can also play a penalty shoot-out competition with up to 4 players, or attempt to complete certain scenario games (where each game is setup with a specific goal, for example scoring a goal within a givin time limit, or stoping the opposing team from scoring, etc.)</desc>
+		<rating>0.8</rating>
+		<releasedate>19970731T000000</releasedate>
+		<developer>KCEO</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/International Superstar Soccer 64 (USA).jpg</image>
+		<video>./snaps/International Superstar Soccer 64 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mario Golf (USA).z64</path>
+		<name>Mario Golf</name>
+		<sortname />
+		<desc>Forget buying expensive golf gear--Mario brings the game to you. Mario Golf features four complete 18-hole courses, 11 golfers, and precise play control. Create your own golfer and build up his or her experience and skill levels by competing in various tournaments and head-to-head matches. The more you play, the stronger and more accurate your golfer becomes. There are many different modes of play in Mario Golf, including a wide variety of minigames designed to challenge even the most level-headed swingers.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990726T000000</releasedate>
+		<developer>Camelot Software</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Mario Golf (USA).jpg</image>
+		<video>./snaps/Mario Golf (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mario Party (USA).z64</path>
+		<name>Mario Party</name>
+		<sortname />
+		<desc>You know Mario can jump. You know he can kick Bowser's tail from here to the moon, but we bet you didn't realize that Mario is the biggest party animal on the face of the Earth. Nintendo is throwing the most insane bash to ever hit the N64, and you're invited. For the first time, you'll catch a glimpse of how Mario celebrates all of the victories he's had over the years. Mario Party is unlike any other game for the N64, and it just might be the best party game to ever hit the system. Mario Party is designed for 1 to 4 players, but it's not really a party unless you're playing with your pals. The festivities are based on a board game format, right down to the fact that players must roll a die to determine how many spaces to move.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990208T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1-4</players>
+		<image>./boxart/Mario Party (USA).jpg</image>
+		<video>./snaps/Mario Party (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mario Party 3 (USA).z64</path>
+		<name>Mario Party 3</name>
+		<sortname />
+		<desc>The series continues with a set of 70 new mini-games. Play in the new single-player Story mode, or bring in some friends for Party mode. Four player games and a new two player mode are also available for play. In Battle Royale mode (four player), you race around different boards to earn the most stars and coins. At the end of each round, you face it off in one of the mini-games, which can be chicken chases, snowball fights, or various other competitions. Duel mode allows play between just two people. You still race around the board, but mini-games are only played when you land on a specific square. Another play change is the addition of another character for your team, allowing tag team-style action in the game.</desc>
+		<rating>0.75</rating>
+		<releasedate>20010507T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1-4</players>
+		<image>./boxart/Mario Party 3 (USA).jpg</image>
+		<video>./snaps/Mario Party 3 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1).z64</path>
+		<name>Ogre Battle 64: Person of Lordly Caliber</name>
+		<sortname />
+		<desc>The Holy Lodis Empire is planning the domination of the entire continent of Zeteginia! It is up to you to raise the flag of revolution and rid the land of the Lodis threat. Make decisions in real-time and take control of numerous characters to prove victorious on the battlefield and regain freedom for all people!</desc>
+		<rating>0.95</rating>
+		<releasedate>20001007T000000</releasedate>
+		<developer>Quest</developer>
+		<publisher>Atlus</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1).jpg</image>
+		<video>./snaps/Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Paper Mario (USA).z64</path>
+		<name>Paper Mario</name>
+		<sortname />
+		<desc>Mario pals around in an all-new action adventure! Mario's back in his first adventure since Super Mario 64, and this time, Bowser's bent on preventing a storybook ending. When Princess Peach is kidnapped, Mario plots to rescue the seven Star Spirits and rid the Mushroom Kingdom of Koopa's cruel cohorts. As he travels from the tropical jungles of Lavalava Island to the frosty heights of Shiver Mountain, he'll meet up with seven all-new companions... and he'll need help from each one or there'll be no happily ever after.</desc>
+		<rating>0.8</rating>
+		<releasedate>20010205T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Paper Mario (USA).jpg</image>
+		<video>./snaps/Paper Mario (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pokemon Stadium 2 (USA).z64</path>
+		<name>Pokémon Stadium 2</name>
+		<sortname />
+		<desc>Hundreds of Pokémon in Three-mendous 3-D! What's sweeter than victory in a Pokémon battle! Victory in a 3-D arena on the N64?! Set your strategy and stand back while your Pokémon battle it out. You can even set the Pokémon you've trained--fully rendered in 3-D and ready for battle!</desc>
+		<rating>0.75</rating>
+		<releasedate>20010325T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Pokemon Stadium 2 (USA).jpg</image>
+		<video>./snaps/Pokemon Stadium 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).z64</path>
+		<name>Rayman 2: The Great Escape</name>
+		<sortname />
+		<desc>Enter a massive 3-D action adventure of amazing beauty and challenge. The pirate terror has enslaved the world and only Rayman's speed, agility, and magical powers can save all. Race and battle across 45 intricately designed areas - rainforests, jungles, narrow canyon passes, even into the mighty pirate ship itself.</desc>
+		<rating>0.9</rating>
+		<releasedate>19991106T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./San Francisco Rush 2049 (USA).z64</path>
+		<name>San Francisco Rush 2049</name>
+		<sortname />
+		<desc>Unlike the previous San Francisco Rush titles, this racing game is set in the future. The same rules apply though, get to the finish before everyone else while avoiding massive crashes and taking as many shortcuts as possible. Along with the usual race style, you now have the ability to fly, allowing you even more speed, stunts and shortcuts to the finish line. While the tracks themselves include moving ramps and switches to other shortcuts. Modes include time trials, stunt mode including unique track designs to get the most out of your stunts, and a four player 'Battlematch' mode that adds weapons to the action.</desc>
+		<rating>0.6</rating>
+		<releasedate>20000907T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Racing</genre>
+		<players>1-4</players>
+		<image>./boxart/San Francisco Rush 2049 (USA).jpg</image>
+		<video>./snaps/San Francisco Rush 2049 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Star Wars Episode I - Racer (USA).z64</path>
+		<name>Star Wars Episode I: Racer</name>
+		<sortname />
+		<desc>Join Jedi-to-be Anakin Skywalker in the Star Wars race of your life! Relive all the thrills and excitement of the Podracer sequence from Star Wars: Episode I. Hang on tight - with afterburners on, Podracers max out at a simulated 600 mph! Race in furious competition against more than 21 opponents! Take on over 21 tracks in 8 unique worlds. Avoid hazards such as methane lakes, meteor showers and Tusken Raiders! Featuring spectacular 3D environments!</desc>
+		<rating>0.85</rating>
+		<releasedate>19990519T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Star Wars Episode I - Racer (USA).jpg</image>
+		<video>./snaps/Star Wars Episode I - Racer (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater (USA) (Rev 1).z64</path>
+		<name>Tony Hawk's Pro Skater</name>
+		<sortname />
+		<desc>Tony Hawk's Pro Skater is a skateboarding simulation in which you control a famous skate star around 3D environments. Each game area contains a plethora of objects like ramps, rails, and half-pipes which can be used to perform tricks. Each trick you perform earns you more points for your score. The game is divided into two types of levels. In the first, you skate around locations like a mall, a city street, or a warehouse. In each of these areas, there are 5 goals for the you to complete. Some goals involve obtaining a high score, others smashing objects, and some collecting objects. For every goal you complete, you earn a video tape. By collecting enough video tapes, you unlock levels and skateboards for you to use.</desc>
+		<rating>0.75</rating>
+		<releasedate>20000229T000000</releasedate>
+		<developer>Edge Of Reality</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Tony Hawk's Pro Skater (USA) (Rev 1).jpg</image>
+		<video>./snaps/Tony Hawk's Pro Skater (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 2 (USA).z64</path>
+		<name>Tony Hawk's Pro Skater 2</name>
+		<sortname />
+		<desc>The sequel to the award winning PSX and N64 title, Tony Hawk 2 adds heaps of new tricks, as well as those from the original, and a complete roster of all the greatest skaters worldwide. Fly through some of the greatest skate parks in the world, or create your own, and share them with your mates. You can also create your own skater, with a choice of clothing and official skateboards. Improved graphics and a choice of alternative or hip-hop music add to the endless options and full on action.</desc>
+		<rating>0.75</rating>
+		<releasedate>20010821T000000</releasedate>
+		<developer>Edge Of Reality</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Tony Hawk's Pro Skater 2 (USA).jpg</image>
+		<video>./snaps/Tony Hawk's Pro Skater 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 3 (USA).z64</path>
+		<name>Tony Hawk's Pro Skater 3</name>
+		<sortname />
+		<desc>Tony Hawk returns with an all new line-up of skaters, an all new line-up of parks to crash through, and a whole new level of graphics. The line-up of street and vert riders include Elissa Steamer, Jamie Thomas, Steve Caballero, Rune Glifberg, Geoff Rowley, Andrew Reynolds, Rodney Mullen, Eric Koston, Chad Muska, Bucky Lasek and Bam Margera from MTV's Jackass (and Tony Hawk, of course). The create a skater mode returns, allowing for even further levels of options for your character, like adding glasses and tatoos to changing the colour of the knee and elbow pads or even the hair.</desc>
+		<rating>0.55</rating>
+		<releasedate>20020820T000000</releasedate>
+		<developer>Edge Of Reality</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Tony Hawk's Pro Skater 3 (USA).jpg</image>
+		<video>./snaps/Tony Hawk's Pro Skater 3 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Turok 2 - Seeds of Evil (USA) (Rev 1).z64</path>
+		<name>Turok 2: Seeds of Evil</name>
+		<sortname>Turok 2</sortname>
+		<desc>Only evil this dark could bring him back. Only a game this big can do him justice. Turok 2: Seeds of Evil! Pick off distant enemies with deadly sniper weapons, and enjoy ferocious multi-player deathmatches!</desc>
+		<rating>0.8</rating>
+		<releasedate>19981021T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Turok 2 - Seeds of Evil (USA) (Rev 1).jpg</image>
+		<video>./snaps/Turok 2 - Seeds of Evil (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./WWF WrestleMania 2000 (USA).z64</path>
+		<name>WWF WrestleMania 2000</name>
+		<sortname />
+		<desc>WWF Wrestlemania 2000 is THQ's first WWF licenced game after making two previous WCW titles. Wrestlemania 2K picks up where WCW/NWO Revenge left off. The graphics are by far superior as well is the animation. Wrestlemania 2K adds three highly sort after features: Cage match, custom entrances and Create A Wrestler feature. Wrestlemania 2K features more than 50 real WWF stars as well as the option for 16 custom wrestlers. All the wrestlers come with their real-life theme music, entrance videos (made into slide shows) and entrance performances.</desc>
+		<rating>0.75</rating>
+		<releasedate>19991031T000000</releasedate>
+		<developer>AKI Corporation</developer>
+		<publisher>THQ</publisher>
+		<genre>Fighting</genre>
+		<players>1-4</players>
+		<image>./boxart/WWF WrestleMania 2000 (USA).jpg</image>
+		<video>./snaps/WWF WrestleMania 2000 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Turok - Rage Wars (U) (V1.1) [!].z64</path>
+		<name>Turok: Rage Wars</name>
+		<sortname>Turok 1</sortname>
+		<desc>Since time began, Turok has maintained the balance between good and evil with the Light Burden. A vessel that holds the power of creation. Now, fierce wars are fought for control. You must prove yourself worthy to wield the Light Burden. You must relive the challenge of your ancestors and survive the RAGE WARS! Featuring brutal heart-pounding deathmatches, lethal weapons with unimaginable power, and 8 savage game modes, including co-op mission-based gameplay, Team Bloodlust, Frag Tag and more!</desc>
+		<rating>0.75</rating>
+		<releasedate>19991031T000000</releasedate>
+		<developer>Acclaim</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Turok - Rage Wars (U) (V1.1) [!].jpg</image>
+		<video>./snaps/Turok - Rage Wars (U) (V1.1) [!].mp4</video>
+	</game>
+	<game>
+		<path>./Turok 3 - Shadow of Oblivion (U) [!].z64</path>
+		<name>Turok 3: Shadow of Oblivion</name>
+		<sortname>Turok 3</sortname>
+		<desc>Older than time itself, a savage cosmic entity called Oblivion exists only to devour everything in its path. Two new Turok warriors, Danielle and Joseph Fireseed must face this evil. The heritage of Turok and all humankind depends on them. Join the legacy. Over 24 upgradable weapons to battle 40 new and original enemies! Intense multiplayer action - over 8 modes and 48 maps!</desc>
+		<rating>0.65</rating>
+		<releasedate>20000906T000000</releasedate>
+		<developer>Acclaim</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./boxart/Turok 3 - Shadow of Oblivion (U) [!].jpg</image>
+		<video>./snaps/Turok 3 - Shadow of Oblivion (U) [!].mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).v64</path>
+		<name>Legend of Zelda: Ocorina of Time, The</name>
+		<sortname>Legend of Zelda 1</sortname>
+		<desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule. He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce. As the young hero Link, it is your destiny to thwart Ganondorf's evil schemes. Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora's Domain.</desc>
+		<rating>0.95</rating>
+		<releasedate>19981123T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).jpg</image>
+		<video>./snaps/Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Majora's Mask (USA).v64</path>
+		<name>Legend of Zelda: Majora's Mask, The</name>
+		<sortname>Legend of Zelda 2</sortname>
+		<desc>Thrown into a parallel world by the mischievous actions of a possessed Skull Kid, Link finds a land in grave danger. The dark power of a relic called Majora's Mask has wreaked havoc on the citizens of Termina, but their most urgent problem is a suicidal moon crashing toward the world. Link has only 72 hours to find a way to stop its descent.</desc>
+		<rating>0.95</rating>
+		<releasedate>20001026T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/Legend of Zelda, The - Majora's Mask (USA).jpg</image>
+		<video>./snaps/Legend of Zelda, The - Majora's Mask (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tsumi to Batsu - Hoshi no Keishousha (Japan).z64</path>
+		<name>Sin And Punishment</name>
+		<sortname />
+		<desc>Rogue mutants, named Lufian were originally bred to manage food production in the overpopulated and resource scarce Earth, but they've revolted against their human masters. The army has been soundly defeated, and now it's up to two teenage heroes, 14-year-old Saki Amamiya and 15-year-old Airan Jo to save the day. As the story advances, the heroes find out the Lufian's true intention and that the mutants could jeopardize the future of Earth!</desc>
+		<rating>0.85</rating>
+		<releasedate>20001121T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Tsumi to Batsu - Hoshi no Keishousha (Japan).jpg</image>
+		<video>./snaps/Tsumi to Batsu - Hoshi no Keishousha (Japan).mp4</video>
 	</game>
 </gameList>

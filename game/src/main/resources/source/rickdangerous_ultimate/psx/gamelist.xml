@@ -161,34 +161,6 @@
 		<video>./snaps/Gradius Gaiden (Japan).mp4</video>
 	</game>
 	<game>
-		<path>./Gran Turismo (USA) (Rev 1).chd</path>
-		<name>Gran Turismo</name>
-		<sortname />
-		<desc>Gran Turismo is fundamentally based on the racing simulator genre. The player must maneuver an automobile to compete against artificially intelligent drivers on various race tracks. The game uses two different modes: Arcade Mode and Simulation Mode (Gran Turismo Mode in PAL and Japanese versions). In the arcade mode, the player can freely choose the courses and vehicles they wish to use. Winning races unlocks additional cars and courses.</desc>
-		<rating>0.8</rating>
-		<releasedate>19980508T000000</releasedate>
-		<developer>Polyphony Digital</developer>
-		<publisher>Sony</publisher>
-		<genre>Racing</genre>
-		<players>1-2</players>
-		<image>./boxart/Gran Turismo (USA) (Rev 1).jpg</image>
-		<video>./snaps/Gran Turismo (USA) (Rev 1).mp4</video>
-	</game>
-	<game>
-		<path>./Grand Theft Auto (USA).chd</path>
-		<name>Grand Theft Auto</name>
-		<sortname />
-		<desc>In Grand Theft Auto, you assume the role of a street thug working for an organized syndicate of criminals that specializes in stealing cars. Every time your pager beeps, the boss needs you to steal something for him if you don't get to a payphone and answer the message, you'll be in hot water (or is that cold water at the bottom of the East River). After receiving your mission, you'll have to navigate city streets that are bustling with pedestrians, cops (your worst enemies), and traffic jams. Because you're pressed for time, you can't just walk to your destination on foot -- that would take too long. Instead, you'll have to go car jacking, the art of physically removing people out of their vehicles and stealing it.</desc>
-		<rating>0.7</rating>
-		<releasedate>19971201T000000</releasedate>
-		<developer>DMA Design</developer>
-		<publisher>Take 2 Interactive</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./boxart/Grand Theft Auto (USA).jpg</image>
-		<video>./snaps/Grand Theft Auto (USA).mp4</video>
-	</game>
-	<game>
 		<path>./Grandia (USA).m3u</path>
 		<name>Grandia</name>
 		<sortname />
@@ -311,20 +283,6 @@
 		<players>1-4</players>
 		<image>./boxart/International Track &amp; Field (USA).jpg</image>
 		<video>./snaps/International Track &amp; Field (USA).mp4</video>
-	</game>
-	<game>
-		<path>./ISS Pro Evolution (USA).chd</path>
-		<name>ISS Pro Evolution</name>
-		<sortname />
-		<desc>ISS Pro Evolution is a third video game in ISS Series produced by Konami specially for Playstation. In Japan it has been released as Winning Eleven 4. The engine has been recreated providing new player movements, animations and improved graphics. During promotion following taglines have been used: "The King of football returns", "This really IS football!".</desc>
-		<rating>0.8</rating>
-		<releasedate>20000526T000000</releasedate>
-		<developer>KCET</developer>
-		<publisher>Konami</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-		<image>./boxart/ISS Pro Evolution (USA).jpg</image>
-		<video>./snaps/ISS Pro Evolution (USA).mp4</video>
 	</game>
 	<game>
 		<path>./Jackie Chan Stuntmaster (USA).chd</path>
@@ -717,20 +675,6 @@
 		<video>./snaps/Need for Speed - High Stakes (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Need for Speed - Porsche Unleashed (USA).chd</path>
-		<name>Need for Speed: Porsche Unleashed</name>
-		<sortname />
-		<desc>Need for Speed: Porsche Unleashed tests your driving skills while you test-drive some of Porsche's most popular cars. In the game, you'll compete in levels that feature twists, turns, and various driving conditions. You can participate in different types of races, including circuit, streetcar, open road, and more. Survive all the crashes, police, and track challenges to earn prizes and respect. With enough money, you can purchase different custom parts for your vehicle.</desc>
-		<rating>0.8</rating>
-		<releasedate>20010921T000000</releasedate>
-		<developer>Eden Games</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Racing</genre>
-		<players>1-2</players>
-		<image>./boxart/Need for Speed - Porsche Unleashed (USA).jpg</image>
-		<video>./snaps/Need for Speed - Porsche Unleashed (USA).mp4</video>
-	</game>
-	<game>
 		<path>./NFL Blitz (USA).chd</path>
 		<name>NFL Blitz</name>
 		<sortname />
@@ -984,7 +928,7 @@
 	</game>
 	<game>
 		<path>./Rival Schools - United by Fate (USA) (Disc 1) (Arcade Disc).chd</path>
-		<name>Rival Schools: United by Fate - Arcade</name>
+		<name>Rival Schools: United by Fate: Arcade</name>
 		<sortname />
 		<desc>What do you get when you cross Street Fighter with a bunch of school kids? You get another classic Capcom beat 'em up. Featuring plenty of new faces, and heaps of new moves to work with, this is a full conversion of the arcade game, with the added bonus of a second disk. In this second disk, you get new modes including Lesson (teach yourself new moves), Group (select two to four characters for a group battle), League (choose two to six characters and then fight in a league battle), Tournament (tournament battle with up to eight characters), Cooperate (four-player simultaneous player), one-player game, and a specialized versus mode.</desc>
 		<rating>0.75</rating>
@@ -1068,9 +1012,9 @@
 	</game>
 	<game>
 		<path>./Sim Theme Park (USA).chd</path>
-		<name>Sim Theme Park</name>
+		<name>SimTheme Park</name>
 		<sortname />
-		<desc>Sim Theme Park is the sequel to Theme Park and the second game in the series. It is a theme park management game where players build their own theme park with roller coasters, rides and food stalls. Each building can be customized for its appearance, prices and also the length of the ride. Roller coasters play an important role as the main attraction for visitors. Players can design a custom ride and then test it from a first-person view.</desc>
+		<desc>SimTheme Park is the sequel to Theme Park and the second game in the series. It is a theme park management game where players build their own theme park with roller coasters, rides and food stalls. Each building can be customized for its appearance, prices and also the length of the ride. Roller coasters play an important role as the main attraction for visitors. Players can design a custom ride and then test it from a first-person view.</desc>
 		<rating>0.8</rating>
 		<releasedate>20000321T000000</releasedate>
 		<developer>Electronic Arts</developer>
@@ -1110,7 +1054,7 @@
 	</game>
 	<game>
 		<path>./Spider-Man 2 - Enter - Electro (USA) (Rev 1).chd</path>
-		<name>Spider-Man 2 - Enter: Electro</name>
+		<name>Spider-Man 2 – Enter: Electro</name>
 		<sortname />
 		<desc>Spider-Man 2 - Enter: Electro is the second PlayStation game to feature Spider-Man, and also serves as the sequel to the 2000 video game Spider-Man. This game follows Spider-man as he attempts to stop his old enemy Electro from obtaining a source of power called the Bio-Nexus Device. Game bosses included Hammerhead, Lizard, Sandman, Shocker and the exclusive charged-up Hyper-Electro.</desc>
 		<rating>0.8</rating>
@@ -2548,7 +2492,7 @@
 	</game>
 	<game>
 		<path>./Star Gladiator - Episode 1 - Final Crusade (USA).chd</path>
-		<name>Star Gladiator: Episode I – Final Crusade</name>
+		<name>Star Gladiator: Episode I: Final Crusade</name>
 		<sortname />
 		<desc>In the year 2348, humans have been exploring space for the past four centuries, and have established contact with various alien civilizations. People now emigrate from one planet to another, and life is generally good. However, all of that changes when Dr. Edward Bilstein, a Nobel Prize-winning physicist, uncovers the secret to humanity's "sixth sense" and discovers how to use it as an energy source he calls "Plasma Power". Within time, Bilstein develops ambitions of universal conquest and now seeks to conquer the entire galaxy in his own accord.</desc>
 		<rating>0.7</rating>
@@ -2729,7 +2673,7 @@
 	</game>
 	<game>
 		<path>./Command &amp; Conquer - Red Alert - Retaliation (USA) (Disc 1) (Allies).chd</path>
-		<name>Command &amp; Conquer: Red Alert: Retaliation (Allies)</name>
+		<name>Command &amp; Conquer: Red Alert: Retaliation (Allies) (Disc 1)</name>
 		<sortname />
 		<desc>On August 28, 1998, Westwood Studios released Red Alert Retaliation for the PlayStation, a compilation of the two PC expansion packs, including the secret Ant Missions. It is almost identical to the PlayStation port of the original Red Alert, except it introduced some new units like Tesla Tank, Shock Trooper, Chrono Tank and Mechanic, and included 105 skirmish maps. Gameplay also included an in-game sidebar code called Soylent Green Mode. In this mode all ore fields turn to people/civilians, and ore trucks harvest them with grisly sound effects.</desc>
 		<rating>0.8</rating>
@@ -2743,7 +2687,7 @@
 	</game>
 	<game>
 		<path>./Command &amp; Conquer - Red Alert - Retaliation (USA) (Disc 2) (Soviet).chd</path>
-		<name>Command &amp; Conquer: Red Alert: Retaliation (Soviet)</name>
+		<name>Command &amp; Conquer: Red Alert: Retaliation (Soviet) (Disc 2)</name>
 		<sortname />
 		<desc>On August 28, 1998, Westwood Studios released Red Alert Retaliation for the PlayStation, a compilation of the two PC expansion packs, including the secret Ant Missions. It is almost identical to the PlayStation port of the original Red Alert, except it introduced some new units like Tesla Tank, Shock Trooper, Chrono Tank and Mechanic, and included 105 skirmish maps. Gameplay also included an in-game sidebar code called Soylent Green Mode. In this mode all ore fields turn to people/civilians, and ore trucks harvest them with grisly sound effects.</desc>
 		<rating>0.8</rating>
@@ -3341,20 +3285,6 @@
 		<video>./snaps/Bushido Blade 2 (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Bust-A-Move 4 (USA).chd</path>
-		<name>Bust-A-Move 4</name>
-		<sortname />
-		<desc>Building upon the success of Puzzle Bobble 3, the game adds a pulley system that requires two sets of bubbles, attached to either side of a rope hanging across two pulleys. The game contains a story mode for single player play.</desc>
-		<rating>0.6</rating>
-		<releasedate>19981031T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Puzzle</genre>
-		<players>1-2</players>
-		<image>./boxart/Bust-A-Move 4 (USA).jpg</image>
-		<video>./snaps/Bust-A-Move 4 (USA).mp4</video>
-	</game>
-	<game>
 		<path>./Buster Bros. Collection (USA).chd</path>
 		<name>Buster Bros. Collection</name>
 		<sortname />
@@ -3453,20 +3383,6 @@
 		<video>./snaps/Castlevania Chronicles (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Castlevania - Symphony of the Night (USA).chd</path>
-		<name>Castlevania: Symphony of the Night</name>
-		<sortname />
-		<desc>As a descendant of Dracula, you must end the vampire bloodline. Can you rid the world of this unspeakable terror? Uncover the mystery of Castlevania and challenge an adventure as legendary as its name. Over 140 different enemies, bosses, and ghastly creatures. Awesome magical spells - transform into a bat, a wolf, or etheral mist. Hidden weapons, secrets, and characters the largest Castlevania ever!</desc>
-		<rating>0.95</rating>
-		<releasedate>19971101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./boxart/Castlevania - Symphony of the Night (USA).jpg</image>
-		<video>./snaps/Castlevania - Symphony of the Night (USA).mp4</video>
-	</game>
-	<game>
 		<path>./Championship Motocross 2001 featuring Ricky Carmichael (USA).chd</path>
 		<name>Championship Motorcross 2001 featuring Ricky Carmichael</name>
 		<sortname />
@@ -3563,20 +3479,6 @@
 		<players>1</players>
 		<image>./boxart/Colony Wars - Red Sun (USA).jpg</image>
 		<video>./snaps/Colony Wars - Red Sun (USA).mp4</video>
-	</game>
-	<game>
-		<path>./Command &amp; Conquer - Red Alert (USA) (Disc 2) (Soviet).chd</path>
-		<name>Command &amp; Conquer: Red Alert (Soviet)</name>
-		<sortname />
-		<desc>Command &amp; Conquer: Red Alert for the PlayStation is a conversion of the hit computer game of the same name. The game involves commanding either the Soviets or Allies through 14 different missions, which vary depending on the side you choose. In order to amass your troops (consisting of tanks, infantry, naval and air forces), you must first build various structures with your available funds. Each map screen will have two types of natural resources (ore and gemstones) that can be collected to finance your operation. Missions generally involve building a base, mining resources and generating a mix of troops to mount an assault on the enemy's base.</desc>
-		<rating>0.85</rating>
-		<releasedate>19971031T000000</releasedate>
-		<developer>Virgin</developer>
-		<publisher>Westwood Studios</publisher>
-		<genre>Strategy</genre>
-		<players>1-2</players>
-		<image>./boxart/Command &amp; Conquer - Red Alert (USA) (Disc 2) (Soviet).jpg</image>
-		<video>./snaps/Command &amp; Conquer - Red Alert (USA) (Disc 2) (Soviet).mp4</video>
 	</game>
 	<game>
 		<path>./Cool Boarders 2 (USA).chd</path>
@@ -3787,20 +3689,6 @@
 		<players>1-2</players>
 		<image>./boxart/Descent Maximum (USA).jpg</image>
 		<video>./snaps/Descent Maximum (USA).mp4</video>
-	</game>
-	<game>
-		<path>./Destruction Derby (USA).chd</path>
-		<name>Destruction Derby</name>
-		<sortname />
-		<desc>You probably feel like a crash test dummy when you're playing this game - it's not only a racing game, but you get points for wrecking your enemies! The amount of points you get depends on how you hit them.</desc>
-		<rating>0.7</rating>
-		<releasedate>19951116T000000</releasedate>
-		<developer>Psygnosis</developer>
-		<publisher>Reflections</publisher>
-		<genre>Racing</genre>
-		<players>1-2</players>
-		<image>./boxart/Destruction Derby (USA).jpg</image>
-		<video>./snaps/Destruction Derby (USA).mp4</video>
 	</game>
 	<game>
 		<path>./Destruction Derby 2 (USA).chd</path>
@@ -4361,36 +4249,8 @@
 		<video>./snaps/Tetris Plus (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Alundra (USA).chd</path>
-		<name>The Adventures of Alundra</name>
-		<sortname />
-		<desc>Alundra is a boy who can step into other people's dreams. His own dreams tell him to go to the village Inoa. The ship on which Alundra is coming to the village goes down, but Alundra himself is washed up on a beach near the village. There, a blacksmith Jess takes care of him and treats him like his own son. But Alundra, stepping into the dreams of the village people, understands there's a danger somewhere. The people have horrible nightmares, and only Alundra can find out what they mean.</desc>
-		<rating>0.9</rating>
-		<releasedate>19971231T000000</releasedate>
-		<developer>Sony</developer>
-		<publisher>Psygnosis</publisher>
-		<genre>Role Playing Games</genre>
-		<players>1</players>
-		<image>./boxart/Alundra (USA).jpg</image>
-		<video>./snaps/Alundra (USA).mp4</video>
-	</game>
-	<game>
-		<path>./Italian Job, The (USA).chd</path>
-		<name>The Italian Job</name>
-		<sortname />
-		<desc>This PlayStation release is based on the 1969 British feature film of the same title. The game's plot progression is driven by an attempt to steal a great amount of gold bullion from under the noses of the police and mafia during a traffic jam distraction. As in the movie, this third-person mission-based driving game challenges its heroes to weave through busy city streets, as well as down sewers and even over rooftops in efforts to confuse and elude authorities. The game features the movie's showpiece Mini-coopers as well as 13 other vehicles. The adventure takes place through London, Turin, and the Swiss Alps.</desc>
-		<rating>0.7</rating>
-		<releasedate>20020410T000000</releasedate>
-		<developer>Pixelogic</developer>
-		<publisher>SCi Games</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./boxart/Italian Job, The (USA).jpg</image>
-		<video>./snaps/Italian Job, The (USA).mp4</video>
-	</game>
-	<game>
 		<path>./Legend of Dragoon, The (USA).m3u</path>
-		<name>The Legend of Dragoon</name>
+		<name>Legend of Dragoon, The</name>
 		<sortname />
 		<desc>Ten thousand years ago the Legend was born. The Divine Tree's mystical powers were said to have given birth to all life. The 105th race born of the Tree was the mighty Dragons. The 106th was the human race and the 107th was the Winglies. Peace and tranquility reigned throughout the land, but suddenly a violent uprising occurred, led by the Winglies, who enslaved humanity. To counter this, the humans acquired the Dragons' spiritual forces and defeated their nemeses, which led to eventual harmony between all. However, the prophecy has only begun as the past and future are about to collide.</desc>
 		<rating>0.65</rating>
@@ -4404,7 +4264,7 @@
 	</game>
 	<game>
 		<path>./Misadventures of Tron Bonne, The (USA).chd</path>
-		<name>The Misadventures of Tron Bonne</name>
+		<name>Misadventures of Tron Bonne, The</name>
 		<sortname />
 		<desc>Rather than focusing on the heroic protagonists of Mega Man Legends series, the game follows series anti-hero Tron Bonne, sister of the criminal Bonne family of air pirates. The Japanese counterpart included PocketStation support whereas the North American and European version did not. With a limited production run, the game is one of the rarest PlayStation games</desc>
 		<rating>0.9</rating>
@@ -4460,7 +4320,7 @@
 	</game>
 	<game>
 		<path>./Tiny Toon Adventures - Toonenstein - Dare to Scare! (USA).chd</path>
-		<name>Tiny Toon Adventures: Toonenstein, Dare to Scare!</name>
+		<name>Tiny Toon Adventures: Toonensein: Dare to Scare!</name>
 		<sortname />
 		<desc>In this adventure based on the Tiny Toon animated series, you must help Plucky, Hamton and Furball escape a haunted mansion. Each character has a purpose. Plucky and Hamton are there to navigate the mansion and provide comic relief, while Furball activates switches and devices.</desc>
 		<rating>0.6</rating>
@@ -4571,7 +4431,7 @@
 	</game>
 	<game>
 		<path>./Command &amp; Conquer - Red Alert (USA) (Disc 1) (Allies).chd</path>
-		<name>Command &amp; Conquer: Red Alert (Allies)</name>
+		<name>Command &amp; Conquer: Red Alert: (Allies) (Disc 1)</name>
 		<sortname />
 		<desc>Command &amp; Conquer: Red Alert for the PlayStation is a conversion of the hit computer game of the same name. The game involves commanding either the Soviets or Allies through 14 different missions, which vary depending on the side you choose. In order to amass your troops (consisting of tanks, infantry, naval and air forces), you must first build various structures with your available funds. Each map screen will have two types of natural resources (ore and gemstones) that can be collected to finance your operation. Missions generally involve building a base, mining resources and generating a mix of troops to mount an assault on the enemy's base.</desc>
 		<rating>0.85</rating>
@@ -5072,20 +4932,6 @@
 		<video>./snaps/DoDonPachi (Japan) (Rev 1).mp4</video>
 	</game>
 	<game>
-		<path>./FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,Nl,Sv).chd</path>
-		<name>FIFA: Road to World Cup 98</name>
-		<sortname />
-		<desc>Electronic Arts' second soccer game for Nintendo 64, FIFA: Road to World Cup 98 features an exclusive World Cup license so players can take to the pitch in 16 international stadiums, join sides with over 170 international squads, and take a peek at stats for more than 4,500 players.</desc>
-		<rating>0.85</rating>
-		<releasedate>19971210T000000</releasedate>
-		<developer>EA Sports</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports</genre>
-		<players>1-8</players>
-		<image>./boxart/FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,Nl,Sv).jpg</image>
-		<video>./snaps/FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,Nl,Sv).mp4</video>
-	</game>
-	<game>
 		<path>./Formula 1 Championship Edition (USA) (En,Fr,De,Es,It).chd</path>
 		<name>Formula 1: Championship Edition</name>
 		<sortname />
@@ -5157,7 +5003,7 @@
 	</game>
 	<game>
 		<path>./Magical Tetris Challenge (Europe).chd</path>
-		<name>Magical Tetris Challenge</name>
+		<name>Disney's Magical Tetris Challenge</name>
 		<sortname />
 		<desc>Magical Tetris Challenge featuring Mickey is a wonderful puzzle game for the whole family. With the intricate puzzles of Tetris and the magical appeal of Mickey Mouse, Capcom has created a game that families can enjoy together. The puzzle elements can be set on easy for a novice or young person and on expert for that jaded gamer called mom or dad. This is no boring kids game: it is fast, fun and furious puzzle action with a soft edge.</desc>
 		<rating>0.65</rating>
@@ -5269,7 +5115,7 @@
 	</game>
 	<game>
 		<path>./Ridge Racer Bonus Turbo Mode Disc (USA).chd</path>
-		<name>Ridge Racer: Bonus Turbo Mode</name>
+		<name>Ridge Racer: Turbo Mode Bonus Disc</name>
 		<sortname />
 		<desc>Powering beyond RIDGE and RAGE RACER, high-speed control and advanced dynamics accekerate the rush of a first class victory.</desc>
 		<rating>0.8</rating>
@@ -5493,7 +5339,7 @@
 	<game>
 		<path>./Formula One 2000 (USA).chd</path>
 		<name>Formula One 2000</name>
-		<sortname />
+		<sortname>Formula One 2</sortname>
 		<desc>Formula One 2000 is an officially licensed Formula One racing game. The game is the 5th in Psygnosis/Sony series of Formula One racing games. All tracks, teams, cars and drivers from the 2000 season are in the game and can be selected. The game features a realistic damage model and various racing modes, including championship, single race-weekend, free practice and splitscreen mode for two players. Before each race, many aspects of the car can be customised. This is the first in the series to feature a safety car.</desc>
 		<rating>0.5</rating>
 		<releasedate>20001004T000000</releasedate>
@@ -5689,7 +5535,7 @@
 	<game>
 		<path>./FIFA 2000 - Major League Soccer (USA) (En,De,Es,Nl,Sv).chd</path>
 		<name>FIFA 2000: Major League Soccer</name>
-		<sortname />
+		<sortname>Fifa 3</sortname>
 		<desc>This version of the FIFA series contained over 40 "classic" teams, so that gamers could play as retired football legends. It marked the introduction of Major League Soccer, replacing the fictitious "American" league previously included, as well as national leagues from Denmark, Greece, Israel, Norway and Turkey (though Galatasaray S.K. is not present in the game).</desc>
 		<rating>0.7</rating>
 		<releasedate>19991009T000000</releasedate>
@@ -5757,8 +5603,8 @@
 	</game>
 	<game>
 		<path>./International Superstar Soccer Pro '98 (USA) (En,Fr,De,Es,It).chd</path>
-		<name>ISS Pro 98</name>
-		<sortname />
+		<name>International Superstar Soccer Pro '98</name>
+		<sortname>ISS</sortname>
 		<desc>International Superstar Soccer Pro '98 or ISS Pro '98 is a football video game which is a continuation of International Superstar Soccer Pro. Originally released in May, 1998 by Konami Computer Entertainment Tokyo, Inc. Although it still lacked FIFPro licence it featured on its Playstation version cover Italian player Fabrizio Ravanelli along with Andreas Koepke from Germany on German relase and Paul Ince on British.</desc>
 		<rating>0.9</rating>
 		<releasedate>19980815T000000</releasedate>
@@ -5966,7 +5812,7 @@
 	</game>
 	<game>
 		<path>./Tyco R-C - Assault with a Battery (USA).chd</path>
-		<name>Tyco R-C: Assault with a Battery</name>
+		<name>Tyco R/C: Assault with a Battery</name>
 		<sortname />
 		<desc>Tyco R/C Assault with a Battery features eight Tyco vehicles: Nitro-Dozer (transforms into a bulldozer), Tantrum (can stand on rear wheels), Fast Traxx (pops wheelies), Speed Wrench (wheels can be enlarged), Hot Rocker (rolls over obstacles), Recoil (tornado spins), Super Rebound 4x4 (shoots lightning), and Rebound 4x4 (flips over). Some of the play modes to race the vehicles include Tyco Challenge, Single Race, Battler, and Two-Player Split-Screen. Night and day races are available over the eight tracks. Tracks also feature power-ups that will either increase a vehicle's abilities or act as a weapon with which to attack other drivers.</desc>
 		<rating>0.55</rating>
@@ -5994,7 +5840,7 @@
 	</game>
 	<game>
 		<path>./WipEout (USA).chd</path>
-		<name>WipEout</name>
+		<name>Wipeout</name>
 		<sortname />
 		<desc>Wipeout is a futuristic racing game set in the year 2052. Racing for one of four teams, the player competes in the F3600 Anti-Gravity Racing League on six tracks. Each team's hovercraft racer has different ratings in speed, acceleration and turning. In addition to high-speed racing, there is also shooting in the game, with different weapon pickups like rockets and mines available, useful for slowing one's opponents down. Shields can also be picked up and can block the weapons' effects.</desc>
 		<rating>0.75</rating>
@@ -6254,7 +6100,7 @@
 	<game>
 		<path>./FIFA 99 (USA).chd</path>
 		<name>FIFA 99</name>
-		<sortname />
+		<sortname>Fifa 2</sortname>
 		<desc>This was the third FIFA title in a little over a year. It incorporates 42 national sides, as well as 250 club teams from 12 different leagues, to play a complete true-to-life season, the preset Super League, or a league or cup of your own design. Formations and tactics can be set, and players can be moved between teams.</desc>
 		<rating>0.7</rating>
 		<releasedate>19981130T000000</releasedate>
@@ -6309,7 +6155,7 @@
 	</game>
 	<game>
 		<path>./Ian Livingstone's Deathtrap Dungeon (USA).chd</path>
-		<name>Ian Livingstone's Deathtrap Dungeon</name>
+		<name>Deathtrap Dungeon</name>
 		<sortname />
 		<desc>Deathtrap Dungeon is an action-adventure game released in 1998 for the PlayStation and Microsoft Windows. It is based on the adventure gamebook of the same name. The game is a third-person adventure, with the player taking the role of an adventurer (either the Amazon "Red Lotus" or the Barbarian "Chaindog"), who at the invitation of a wizard explores a series of dungeons and must overcome both monsters and traps to find riches.</desc>
 		<rating>0.75</rating>
@@ -6337,7 +6183,7 @@
 	</game>
 	<game>
 		<path>./Kyuutenkai (Japan).chd</path>
-		<name>Kyuutenkai</name>
+		<name>Kyūtenkai: Fantasic Pinball</name>
 		<sortname />
 		<desc>Fantastic Pinball plays very similar to the Alien Crush/Devil's Crush series of pinball games. This game also offers living bumpers, wandering enemies, and bonus rounds that take place outside of the main table.</desc>
 		<rating>0.8</rating>
@@ -6351,7 +6197,7 @@
 	</game>
 	<game>
 		<path>./LSD - Dream Emulator (Japan) [T-En by Mr. Nobody &amp; ArcaneAria v1].chd</path>
-		<name>LSD : Dream Emulator</name>
+		<name>LSD: Dream Emulator</name>
 		<sortname />
 		<desc>In LSD the player navigates through a psychedelic dream world. The idea is simply to walk around and explore things in a dream environment. There are many strange environments in this world, and one way to travel through them is by foot. However, if the player bumps into walls or other objects in the game, they will be transported to another environment instantaneously through a system called "linking". Bumping into people, animals, or special objects usually results in a stranger dream.</desc>
 		<rating>0.95</rating>
@@ -6547,7 +6393,7 @@
 	<game>
 		<path>./Formula One 99 (USA, Canada) (En,Fr,Es).chd</path>
 		<name>Formula One 99</name>
-		<sortname />
+		<sortname>Formula One 1</sortname>
 		<desc>An UK developed racing game based on 1999's Formula One Season. Every team and pilot is registered, as well as all 16 courses including the new (at the time) Sepang track at Malaysia. Gameplay tends to go towards arcade action rather than simulations, as there are not many customization options and maneuvers such as drafting are useless thanks to the physics engine.</desc>
 		<rating>0.5</rating>
 		<releasedate>20000310T000000</releasedate>
@@ -6671,7 +6517,7 @@
 	</game>
 	<game>
 		<path>./Chippoke Ralph no Daibouken - The Adventure of Little Ralph (Japan) (Rev 1).chd</path>
-		<name>Chippoke Ralph No Daibouken: The Adventure Of Little Ralph</name>
+		<name>Chippoke Ralph no Daibōken (The Adventure of Little Ralph</name>
 		<sortname />
 		<desc>The story begins when a town is attacked by demons and when the young Ralph try to stop them, they transform him into a little child, his life is saved by a young woman and after that Ralph begins his quest to defeats the different demons that are on teh land.</desc>
 		<rating>0.8</rating>
@@ -6779,7 +6625,7 @@
 	</game>
 	<game>
 		<path>./Rival Schools - United by Fate (USA) (Disc 2) (Evolution Disc).chd</path>
-		<name>Rival Schools: United by Fate - Evolution</name>
+		<name>Rival Schools: United by Fate: Evolution</name>
 		<sortname />
 		<desc>What do you get when you cross Street Fighter with a bunch of school kids? You get another classic Capcom beat 'em up. Featuring plenty of new faces, and heaps of new moves to work with, this is a full conversion of the arcade game, with the added bonus of a second disk. In this second disk, you get new modes including Lesson (teach yourself new moves), Group (select two to four characters for a group battle), League (choose two to six characters and then fight in a league battle), Tournament (tournament battle with up to eight characters), Cooperate (four-player simultaneous player), one-player game, and a specialized versus mode.</desc>
 		<rating>0.75</rating>
@@ -6863,7 +6709,7 @@
 	</game>
 	<game>
 		<path>./007 - The World is not Enough (USA).chd</path>
-		<name>007: World is not Enough, The</name>
+		<name>007: The World is not Enough</name>
 		<sortname />
 		<desc>Bond's Best Missions! Battle through 10 exciting levels with a variety of objectives. - Over 20 Q-Lab Gadgets and Weapons! Bond's P2K, Infrared Glasses, Cell Phone Stunner, and many more. All new 3D Engine! High resolution textures, fast framerate and amazing view distances make this the best-looking POV game on the PlayStation game console.</desc>
 		<releasedate>20001106T000000</releasedate>
@@ -6928,7 +6774,7 @@
 	</game>
 	<game>
 		<path>./Brahma Force - The Assault on Beltlogger 9 (USA).chd</path>
-		<name>Brahma Force: Assault on Beltlogger 9, The</name>
+		<name>Brahma Force: The Assault on Beltlogger 9</name>
 		<sortname />
 		<desc>A mech-based FPS; pilot your Bipedal Robotic Assault Heavy Mechanized Armor (built by Bronx Industries, of course) through the Beltlogger 9 excavation colony. Discover what happened to the Beltlogger 9 colony- it may be related to the events on Probe Ship Mina 3, wherein a lone person apparently under the control of an outside intelligence slaughtered his shipmates.</desc>
 		<releasedate>19970331T000000</releasedate>
@@ -6941,7 +6787,7 @@
 	</game>
 	<game>
 		<path>./Broken Sword - The Shadow of the Templars (USA).chd</path>
-		<name>Broken Sword: Shadow of the Templars, The</name>
+		<name>Broken Sword: The Shadow of the Templars</name>
 		<sortname />
 		<desc>George Stobbart is an American tourist spending his autumn vacation in Paris. He barely escapes a bombing of a café and decides to investigate the clues left behind by the killer. This eventually leads him to a mystery dating back to the legend of the Knights Templar. Circle of Blood is the first part in the Broken Sword series.</desc>
 		<releasedate>19980131T000000</releasedate>
@@ -6954,7 +6800,7 @@
 	</game>
 	<game>
 		<path>./Clock Tower - The First Fear (Japan) (Translated English).chd</path>
-		<name>Clock Tower: First Fear, The</name>
+		<name>Clock Tower: The First Fear</name>
 		<sortname />
 		<desc>The story follows orphan Jennifer Simpson soon after she is adopted by the Barrows family along with other orphaned girls. With the introduction of Scissorman, the game's antagonist, one of the other children is killed. Jennifer must then explore the Barrows Mansion to find a way to escape while evading Scissorman.</desc>
 		<releasedate>19970717T000000</releasedate>
@@ -7032,7 +6878,7 @@
 	</game>
 	<game>
 		<path>./Inuyasha - A Feudal Fairy Tale (USA) (v1.1).chd</path>
-		<name>Inuyasha: A Feudal Fairy Tale</name>
+		<name>InuYasha: A Feudal Fairy Tale</name>
 		<sortname />
 		<desc>Inuyasha: A Feudal Fairy Tale is a 2D fighting game starring characters from Rumiko Takahashi's manga and anim? series, Inuyasha. The story centers around 15-year old high school student Kagome Higure, who inadvertently slips back in time to feudal Japan, where she becomes embroiled in a quest to locate shards of the Sacred Jewel of the Four Souls. "Feudal Fairy Tale," the game's main mode of play, follows this escapade and requires players to engage in a series of battles and mini-games in order to obtain the coveted shards.</desc>
 		<releasedate>20030408T000000</releasedate>
@@ -7108,7 +6954,7 @@
 	</game>
 	<game>
 		<path>./N2O - Nitrous Oxide (USA).chd</path>
-		<name>N2O - Nitrous Oxide</name>
+		<name>N2O: Nitrous Oxide</name>
 		<sortname />
 		<desc>Somewhere deep in the future our Galaxy is at war. On the nearby planet of Neptune, forces of evil have initiated their new plans to invade the Earth. By accelerating sub-atomic particles around a tubular shaped circuit known as The Torus, they are developing a race of Super Warriors. Together with advanced genetic engineering, this central birthing canal is capable of producing an army of lethal genetically mutated insects. Nitrous Oxide, a pollutant by-product emitted inside The Torus, provides a high octane fuel for your Tunnel Runner, but unfortunately it also provides the perfect breeding environment for the secretly incubating species.</desc>
 		<releasedate>19980630T000000</releasedate>
@@ -7238,7 +7084,7 @@
 	</game>
 	<game>
 		<path>./Nuclear Strike (USA).chd</path>
-		<name>Nuclear Strike</name>
+		<name>Nuclear Strike: The Sequel to Soviet Strike</name>
 		<sortname />
 		<desc>Having fought in the Middle East, South America, within the United States, and in the former U.S.S.R, your path has now lead you to the heart of Asia. You follow the trail of Colonel LeMonde, who has terrorized South East Asia. LeMonde is armed with one prototype nuclear missile warhead, modified to catalyze a chain reaction that can completely destroy the ozone layer and thus irradiate the Earth .</desc>
 		<releasedate>19970831T000000</releasedate>
@@ -7368,7 +7214,7 @@
 	</game>
 	<game>
 		<path>./Terry Pratchett's Discworld (USA).chd</path>
-		<name>Terry Pratchett's Discworld</name>
+		<name>Discworld</name>
 		<sortname />
 		<desc>This game is based on the Discworld novel series created by Terry Pratchett. You play Rincewind, a wizard with of little courage or talent in the occult. A dragon is ravaging Ankh-Morpork, the city Rincewind the wizard lives in. The Arch Chancellor sends him to slaigh the beast and you must help him! So you wake up and take your luggage with you (which thinks it's a dog) and search for anything you can use to kill that dragon. Talk to the people of the Discworld (a flat world on which Ankh Morpork lies), though most are useless because they're all mad.</desc>
 		<releasedate>19951115T000000</releasedate>
@@ -7500,116 +7346,374 @@
 	<game>
 		<path>./Adidas Power Soccer (USA).chd</path>
 		<name>Adidas Power Soccer</name>
+		<sortname />
 		<desc>adidas Power Soccer is a sports game which simulates soccer. While it has the option to play in simulation mode, it is best remembered for the Arcade mode and the trademark move of the game - the Predator Shot (named after the most popular brand of boots manufactured by the German company). In this mode, all special moves are unlocked, and some of them allow to go way beyond what rules allow.</desc>
-		<image>./boxart/Adidas Power Soccer (USA).jpg</image>
-		<video>./snaps/Adidas Power Soccer (USA).mp4</video>
 		<rating>0.55</rating>
 		<releasedate>19960831T000000</releasedate>
 		<developer>Sony</developer>
 		<publisher>Sony</publisher>
 		<genre>Sports</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220210T172251</lastplayed>
+		<image>./boxart/Adidas Power Soccer (USA).jpg</image>
+		<video>./snaps/Adidas Power Soccer (USA).mp4</video>
 	</game>
 	<game>
 		<path>./Darius Gaiden (Japan).chd</path>
 		<name>Darius Gaiden</name>
+		<sortname />
 		<desc>Take command of your Silverhawk fighters once again as you battle to take back the planet Darius from the evil forces that had overpowered it!</desc>
-		<image>./boxart/Darius Gaiden (Japan).jpg</image>
-		<video>./snaps/Darius Gaiden (Japan).mp4</video>
 		<releasedate>19961220T000000</releasedate>
 		<developer>Nexus Interact</developer>
 		<publisher>BEC</publisher>
 		<genre>Shoot'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T232126</lastplayed>
+		<image>./boxart/Darius Gaiden (Japan).jpg</image>
+		<video>./snaps/Darius Gaiden (Japan).mp4</video>
 	</game>
 	<game>
 		<path>./GaiaSeed - Project Seed Trap (Japan).chd</path>
 		<name>Gaia Seed: Project Seed Trap</name>
+		<sortname />
 		<desc>Distant future scientific development of human presence in space is enough to advance, had also urged the destruction of the Earth's environment. Concerned about such things human, environmental controls, "Gaia," developed a few years, "Gaia Seed Project" has been started. Thus, Gaia is the Earth's environment was improving, but If you thought the earth was approaching another Gaia Purotogaia was forgotten. "Uranosu" Purotogaia named for human beings is to seek countermeasures Gaia, Gaia is a "destruction of Uranosu" that laid out the answer.</desc>
-		<image>./boxart/GaiaSeed - Project Seed Trap (Japan).jpg</image>
-		<video>./snaps/GaiaSeed - Project Seed Trap (Japan).mp4</video>
 		<rating>0.7</rating>
 		<releasedate>19961213T000000</releasedate>
 		<developer>Techno Soleil</developer>
 		<publisher>HAMSTER Corporation</publisher>
 		<genre>Shoot'em up</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220222T232527</lastplayed>
+		<image>./boxart/GaiaSeed - Project Seed Trap (Japan).jpg</image>
+		<video>./snaps/GaiaSeed - Project Seed Trap (Japan).mp4</video>
 	</game>
 	<game>
 		<path>./Harmful Park (Japan).chd</path>
 		<name>Harmful Park</name>
+		<sortname />
 		<desc>Harmful Park was only released on the Playstation in Japan by a small company named Sky Think Systems. It's your standard 2D side-scrolling shooter, except set in a bizarre amusement park. As the (relatively lengthy) introduction tells you, an evil scientist has taken over Heartful Park and is using it for nefarious purposes. One of his colleagues aims to stop him, but she's old to do it herself. So, she commands her two slacker daughters to save the day, equipping them with some kind of flying motorcycle armed to the teeth with strange weapons.</desc>
-		<image>./boxart/Harmful Park (Japan).jpg</image>
-		<video>./snaps/Harmful Park (Japan).mp4</video>
 		<rating>0.75</rating>
 		<releasedate>19970214T000000</releasedate>
 		<developer>Sky Think Systems</developer>
 		<publisher>Sky Think Systems</publisher>
 		<genre>Shoot'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220222T232805</lastplayed>
+		<image>./boxart/Harmful Park (Japan).jpg</image>
+		<video>./snaps/Harmful Park (Japan).mp4</video>
 	</game>
 	<game>
 		<path>./Metal Gear Solid - Integral (Japan).m3u</path>
 		<name>Metal Gear Solid: Integral</name>
+		<sortname />
 		<desc>You are Snake, a government agent on a mission to regain control of a secret nuclear weapons base from terrorist hands. Lightly armed and facing an army of foes, Snake must avoid firefights in order to survive. If Snake can locate them he can utilize advanced hardware, ranging from silenced pistols to ground-to-air missiles. Enemies react to sight and sound - so stay quiet and stay in the shadows. State-of-the-art graphics: textures, transparencies, models and explosions. Taut, gripping story with multiple endings - a truly cinematic experience.</desc>
-		<image>./boxart/Metal Gear Solid - Integral (Japan).jpg</image>
-		<video>./snaps/Metal Gear Solid - Integral (Japan).mp4</video>
 		<rating>0.8</rating>
 		<releasedate>19980903T000000</releasedate>
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
 		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220223T123619</lastplayed>
+		<image>./boxart/Metal Gear Solid - Integral (Japan).jpg</image>
+		<video>./snaps/Metal Gear Solid - Integral (Japan).mp4</video>
 	</game>
 	<game>
 		<path>./Option - Tuning Car Battle Spec R (Japan).chd</path>
-		<name>Option : Tuning Car Battle Spec R</name>
+		<name>Option: Tuning Car Battle Spec R</name>
+		<sortname />
 		<desc>Option Tuning Car Battle Spec R is the third game in the Option Tuning Car Battle games for the Playstation console. The game is about compete in urban racers against a computer car and try to win him in streets full of traffic. The more races the player win more parts of the car and upgrades are avaliable and more circuits and car are opened. The game features different car models to drive, different circuits and different car parts to upgrade the cars.</desc>
-		<image>./boxart/Option - Tuning Car Battle Spec R (Japan).jpg</image>
-		<video>./snaps/Option - Tuning Car Battle Spec R (Japan).mp4</video>
 		<releasedate>20020707T000000</releasedate>
 		<developer>MTO Co</developer>
 		<publisher>MTO Co</publisher>
 		<genre>Racing</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220223T123937</lastplayed>
+		<image>./boxart/Option - Tuning Car Battle Spec R (Japan).jpg</image>
+		<video>./snaps/Option - Tuning Car Battle Spec R (Japan).mp4</video>
 	</game>
 	<game>
 		<path>./Raiden Project, The (USA).chd</path>
-		<name>The Raiden Project</name>
+		<name>Raiden Project, The</name>
+		<sortname />
 		<desc>The Raiden Project features two vertically scrolling arcade shooters on one disc: Raiden and Raiden II. Raiden takes place in 2090, a time when Earth is under attack by hordes of alien "exobiological beings, a race of technologically advanced creatures from a distant galaxy." To combat this threat, the world's top scientists, engineers and otherwise brilliant people have replicated a super high-altitude fighter/bomber from the remains of a downed alien vessel. This new ship is called Raiden (aka Lightning Thunderbolt), and you are its pilot.</desc>
-		<image>./boxart/Raiden Project, The (USA).jpg</image>
-		<video>./snaps/Raiden Project, The (USA).mp4</video>
 		<rating>0.8</rating>
 		<releasedate>19950909T000000</releasedate>
 		<developer>Seibu Kaihatsu</developer>
 		<publisher>Sony</publisher>
 		<genre>Shoot'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220223T124450</lastplayed>
+		<image>./boxart/Raiden Project, The (USA).jpg</image>
+		<video>./snaps/Raiden Project, The (USA).mp4</video>
 	</game>
 	<game>
 		<path>./Toaplan Shooting Battle 1 (Japan).chd</path>
 		<name>Toaplan Shooting Battle 1</name>
+		<sortname />
 		<desc>This shooter retro pack from Banpresto contains: Tiger Heli (1985), Kyukyoku Tiger - also known as Twin Cobra (1987) plus the all-important Arcade-vertical mode on all games and some excellent remixed soundtracks. Probably more aimed at hardcore retro shooter fans and collectors though due to the extreme difficulty of the titles on offer here - older Toaplan vertical shooters are still renowned for their toughness. Also note that the compilation is monikered #1 which at the time boded well for further re-releases of classic Toaplan shootemups.. but alas, as far I know No.2 in the series, or any other further volumes.. failed to materialise.</desc>
-		<image>./boxart/Toaplan Shooting Battle 1 (Japan).jpg</image>
-		<video>./snaps/Toaplan Shooting Battle 1 (Japan).mp4</video>
 		<releasedate>19960830T000000</releasedate>
 		<developer>Gazelle</developer>
 		<publisher>Banpresto</publisher>
 		<genre>Shoot'em up</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220223T124812</lastplayed>
+		<image>./boxart/Toaplan Shooting Battle 1 (Japan).jpg</image>
+		<video>./snaps/Toaplan Shooting Battle 1 (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Castlevania - Symphony of the Night (USA).chd</path>
+		<name>Castlevania: Symphony of the Night</name>
+		<sortname />
+		<desc>As a descendant of Dracula, you must end the vampire bloodline. Can you rid the world of this unspeakable terror? Uncover the mystery of Castlevania and challenge an adventure as legendary as its name. Over 140 different enemies, bosses, and ghastly creatures. Awesome magical spells - transform into a bat, a wolf, or etheral mist. Hidden weapons, secrets, and characters the largest Castlevania ever!</desc>
+		<rating>0.95</rating>
+		<releasedate>19971101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Castlevania - Symphony of the Night (USA).jpg</image>
+		<video>./snaps/Castlevania - Symphony of the Night (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Star Wars - Episode I - The Phantom Menace (USA) (Rev 1).chd</path>
+		<name>Star Wars: Episode I: The Phantom Menace</name>
+		<sortname />
+		<desc>There is a disturbance in the force, and the Jedi are there to find its source. There is a whole Armada of Battleships and troops besieging a planet and two Jedi knights come to protect the planet. This Star Wars title from Lucas Arts is completely based on the movie Phantom Menace. It is basically an action game in which you play a number of characters from the movie, solve a number of puzzles, beat down enemies with your light saber or laser guns and follow the footsteps of the movie. But remember, you will follow a different trail to the same ultimate ending.</desc>
+		<rating>0.7</rating>
+		<releasedate>19990831T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Star Wars - Episode I - The Phantom Menace (USA) (Rev 1).jpg</image>
+		<video>./snaps/Star Wars - Episode I - The Phantom Menace (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Star Wars - Rebel Assault II - The Hidden Empire (USA).m3u</path>
+		<name>Star Wars – Rebel Assault II: The Hidden Empire</name>
+		<sortname />
+		<desc>Rebel Assault II is a rail-shooter "interactive movie" featuring a variety of action sequences. Rookie One will fly sequences in an X-Wing, the Millennium Falcon, speeder bikes and being on foot. His only real ability is the precise targeting and shooting of laser weapon and occasionally the chance to take cover and avoid obstacles. Rookie One will team up with other characters who will aid him and need to be defended in turn. Occasionally different paths can be chosen in the animation and different events triggered, but for the most part the game is a closed environment.</desc>
+		<rating>0.65</rating>
+		<releasedate>19961130T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Star Wars - Rebel Assault II - The Hidden Empire (USA).jpg</image>
+		<video>./snaps/Star Wars - Rebel Assault II - The Hidden Empire (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Actua Golf 3 (Europe).chd</path>
+		<name>Actua Golf 3</name>
+		<sortname />
+		<desc>Actua Golf 3 is a golf simulation game featuring eight courses. You can completely customize your own character. With a new character you start with amateur tournaments until you have removed your handicap. Then you can participate in the pro tournaments. To hit the ball in this game the player will have to use his analogue stick and swing that much like a real club. The game features commentary by Peter Alliss and Alex Hay.</desc>
+		<rating>0.75</rating>
+		<releasedate>19981015T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<image>./boxart/Actua Golf 3 (Europe).jpg</image>
+		<video>./snaps/Actua Golf 3 (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Actua Soccer (Europe) (En,Fr) (Rev 1).chd</path>
+		<name>Actua Soccer</name>
+		<sortname />
+		<desc>A 3D simulation of the number-one participation sport in the world, VR Soccer '96 pits you against the computer or a friend in virtual soccer action. There are 44 international teams to choose from with 22 players on each squad. Each player is rated according to statistics such as vision, accuracy, power, pace, discipline, control, and flair. You can use your bench throughout the game, bringing in new players with the desired skills. There are two basic styles of play: arcade and simulation. The arcade mode relies depends very little on player stats and gets you straight to soccer action. The simulation mode relies more on strategy, forcing you to try and put together a group of guys who will help win you some games.</desc>
+		<rating>0.35</rating>
+		<releasedate>19960301T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Actua Soccer (Europe) (En,Fr) (Rev 1).jpg</image>
+		<video>./snaps/Actua Soccer (Europe) (En,Fr) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Actua Soccer 2 (Europe) (En,Fr).chd</path>
+		<name>Actua Soccer 2</name>
+		<sortname />
+		<desc>Following the success of the first Actua Soccer game, a sequel was likely. The game is fast-paced with more of an action than simulation feel, and an emphasis on ground play rather than heading. A young Michael Owen provides motion capture to produce realistic player motions and actions - the different builds and styles of players are taken into account. 64 top international teams are featured, as are 24 distinct stadiums, with weather conditions having both visible and noticeable playing effects. This was one of the first games to feature 2-man commentary, with former England captain Trevor Brooking joining Barry Davies in the analytical role.</desc>
+		<rating>0.65</rating>
+		<releasedate>19971101T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Actua Soccer 2 (Europe) (En,Fr).jpg</image>
+		<video>./snaps/Actua Soccer 2 (Europe) (En,Fr).mp4</video>
+	</game>
+	<game>
+		<path>./Actua Soccer 3 (Europe).chd</path>
+		<name>Actua Soccer 3</name>
+		<sortname />
+		<desc>Arcade football action is recreated using motion captured graphics. As well as creating a custom tournament, you can play any of 25 leagues, with a total of 450 teams and 10,000 players featured. You can create your own squad, or customise the existing ones by trading and editing players. Tactics can be refined based on formation, defensive style and attacking approach. Realistic weather effects are incorporated into both appearance and gameplay. Barry Davies and former Celtic manager Martin O'Neill are the commentators.</desc>
+		<rating>0.6</rating>
+		<releasedate>19981201T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Actua Soccer 3 (Europe).jpg</image>
+		<video>./snaps/Actua Soccer 3 (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bust-A-Move 4 (USA).chd</path>
+		<name>Bust-A-Move 4</name>
+		<sortname />
+		<desc>Building upon the success of Puzzle Bobble 3, the game adds a pulley system that requires two sets of bubbles, attached to either side of a rope hanging across two pulleys. The game contains a story mode for single player play.</desc>
+		<rating>0.6</rating>
+		<releasedate>19981031T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Bust-A-Move 4 (USA).jpg</image>
+		<video>./snaps/Bust-A-Move 4 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Destruction Derby (USA).chd</path>
+		<name>Destruction Derby</name>
+		<sortname />
+		<desc>You probably feel like a crash test dummy when you're playing this game - it's not only a racing game, but you get points for wrecking your enemies! The amount of points you get depends on how you hit them.</desc>
+		<rating>0.7</rating>
+		<releasedate>19951116T000000</releasedate>
+		<developer>Psygnosis</developer>
+		<publisher>Reflections</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Destruction Derby (USA).jpg</image>
+		<video>./snaps/Destruction Derby (USA).mp4</video>
+	</game>
+	<game>
+		<path>./LMA Manager (Europe).chd</path>
+		<name>LMA Manager</name>
+		<sortname />
+		<desc>Unlike other console football management games at the time which were ports of existing PC titles, LMA Manager was designed exclusively for the PlayStation. The game is notable for its intuitive control system, where the L1 and R1 shoulder buttons of the controller switch between different sections of the game (e.g. from the Transfers section to the Squad section), and L2 and R2 switch between sub-screens within a section (e.g. from the Select Team screen to Editing Tactics). As a full management sim, players can start an open-ended game, or face one of the ten challenges.</desc>
+		<rating>0.55</rating>
+		<releasedate>19990915T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/LMA Manager (Europe).jpg</image>
+		<video>./snaps/LMA Manager (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Discworld Noir (Europe) (En,Es,It).chd</path>
+		<name>Discworld Noir</name>
+		<sortname>Discworld 3</sortname>
+		<desc>In Discworld Noir, you assume the role of a wise cracking yet hopeless detective named Lewton. Because he's investigating the whereabouts of a certain lost lover, you'll walk around interacting with townsfolk and examining the scenery for clues. While it's based on Terry Pratchett's renowned fantasy world, the game sports a dark and dank look that differentiates itself from other releases in this acclaimed adventure series. You'll control the game with a standard PlayStation controller or the seldom used Mouse for unprecedented cursor movement. The latter provides the most accurate medium of control, but both operate in a similar fashion.</desc>
+		<rating>0.7</rating>
+		<releasedate>20000615T000000</releasedate>
+		<developer>Perfect World</developer>
+		<publisher>GT Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Discworld Noir (Europe) (En,Es,It).jpg</image>
+		<video>./snaps/Discworld Noir (Europe) (En,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Alundra (USA).chd</path>
+		<name>Adventures of Alundra, The</name>
+		<sortname />
+		<desc>Alundra is a boy who can step into other people's dreams. His own dreams tell him to go to the village Inoa. The ship on which Alundra is coming to the village goes down, but Alundra himself is washed up on a beach near the village. There, a blacksmith Jess takes care of him and treats him like his own son. But Alundra, stepping into the dreams of the village people, understands there's a danger somewhere. The people have horrible nightmares, and only Alundra can find out what they mean.</desc>
+		<rating>0.9</rating>
+		<releasedate>19971231T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Role Playing Games</genre>
+		<image>./boxart/Alundra (USA).jpg</image>
+		<video>./snaps/Alundra (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Italian Job, The (USA).chd</path>
+		<name>Italian Job, The</name>
+		<sortname />
+		<desc>This PlayStation release is based on the 1969 British feature film of the same title. The game's plot progression is driven by an attempt to steal a great amount of gold bullion from under the noses of the police and mafia during a traffic jam distraction. As in the movie, this third-person mission-based driving game challenges its heroes to weave through busy city streets, as well as down sewers and even over rooftops in efforts to confuse and elude authorities. The game features the movie's showpiece Mini-coopers as well as 13 other vehicles. The adventure takes place through London, Turin, and the Swiss Alps.</desc>
+		<rating>0.7</rating>
+		<releasedate>20020410T000000</releasedate>
+		<developer>Pixelogic</developer>
+		<publisher>SCi Games</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Italian Job, The (USA).jpg</image>
+		<video>./snaps/Italian Job, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Command &amp; Conquer - Red Alert (USA) (Disc 2) (Soviet).chd</path>
+		<name>Command &amp; Conquer: Red Alert: (Soviet) (Disc 2)</name>
+		<desc>Command &amp; Conquer: Red Alert for the PlayStation is a conversion of the hit computer game of the same name. The game involves commanding either the Soviets or Allies through 14 different missions, which vary depending on the side you choose. In order to amass your troops (consisting of tanks, infantry, naval and air forces), you must first build various structures with your available funds. Each map screen will have two types of natural resources (ore and gemstones) that can be collected to finance your operation. Missions generally involve building a base, mining resources and generating a mix of troops to mount an assault on the enemy's base.</desc>
+		<image>./boxart/Command &amp; Conquer - Red Alert (USA) (Disc 2) (Soviet).jpg</image>
+		<video>./snaps/Command &amp; Conquer - Red Alert (USA) (Disc 2) (Soviet).mp4</video>
+		<rating>0.85</rating>
+		<releasedate>19971031T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Westwood Studios</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Grand Theft Auto (USA).chd</path>
+		<name>Grand Theft Auto</name>
+		<desc>In Grand Theft Auto, you assume the role of a street thug working for an organized syndicate of criminals that specializes in stealing cars. Every time your pager beeps, the boss needs you to steal something for him if you don't get to a payphone and answer the message, you'll be in hot water (or is that cold water at the bottom of the East River). After receiving your mission, you'll have to navigate city streets that are bustling with pedestrians, cops (your worst enemies), and traffic jams. Because you're pressed for time, you can't just walk to your destination on foot -- that would take too long. Instead, you'll have to go car jacking, the art of physically removing people out of their vehicles and stealing it.</desc>
+		<image>./boxart/Grand Theft Auto (USA).jpg</image>
+		<video>./snaps/Grand Theft Auto (USA).mp4</video>
+		<rating>0.7</rating>
+		<releasedate>19971201T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./ISS Pro Evolution (USA).chd</path>
+		<name>ISS Pro Evolution</name>
+		<desc>ISS Pro Evolution is a third video game in ISS Series produced by Konami specially for Playstation. In Japan it has been released as Winning Eleven 4. The engine has been recreated providing new player movements, animations and improved graphics. During promotion following taglines have been used: "The King of football returns", "This really IS football!".</desc>
+		<image>./boxart/ISS Pro Evolution (USA).jpg</image>
+		<video>./snaps/ISS Pro Evolution (USA).mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20000526T000000</releasedate>
+		<developer>KCET</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Need for Speed - Porsche Unleashed (USA).chd</path>
+		<name>Need for Speed: Porsche Unleashed</name>
+		<desc>Need for Speed: Porsche Unleashed tests your driving skills while you test-drive some of Porsche's most popular cars. In the game, you'll compete in levels that feature twists, turns, and various driving conditions. You can participate in different types of races, including circuit, streetcar, open road, and more. Survive all the crashes, police, and track challenges to earn prizes and respect. With enough money, you can purchase different custom parts for your vehicle.</desc>
+		<image>./boxart/Need for Speed - Porsche Unleashed (USA).jpg</image>
+		<video>./snaps/Need for Speed - Porsche Unleashed (USA).mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20010921T000000</releasedate>
+		<developer>Eden Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Gran Turismo (USA) (Rev 1).chd</path>
+		<name>Gran Turismo</name>
+		<desc>Gran Turismo is fundamentally based on the racing simulator genre. The player must maneuver an automobile to compete against artificially intelligent drivers on various race tracks. The game uses two different modes: Arcade Mode and Simulation Mode (Gran Turismo Mode in PAL and Japanese versions). In the arcade mode, the player can freely choose the courses and vehicles they wish to use. Winning races unlocks additional cars and courses.</desc>
+		<image>./boxart/Gran Turismo (USA) (Rev 1).jpg</image>
+		<video>./snaps/Gran Turismo (USA) (Rev 1).mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19980508T000000</releasedate>
+		<developer>Polyphony Digital</developer>
+		<publisher>Sony</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<favorite>true</favorite>
+		<playcount>2</playcount>
+		<lastplayed>20220801T131323</lastplayed>
+	</game>
+	<game>
+		<path>./FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,Nl,Sv).chd</path>
+		<name>FIFA: Road to World Cup 98</name>
+		<sortname>Fifa 1</sortname>
+		<desc>Electronic Arts' second soccer game for Nintendo 64, FIFA: Road to World Cup 98 features an exclusive World Cup license so players can take to the pitch in 16 international stadiums, join sides with over 170 international squads, and take a peek at stats for more than 4,500 players.</desc>
+		<image>./boxart/FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,Nl,Sv).jpg</image>
+		<video>./snaps/FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,Nl,Sv).mp4</video>
+		<rating>0.85</rating>
+		<releasedate>19971210T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>1-8</players>
+		<favorite>true</favorite>
+		<playcount>2</playcount>
+		<lastplayed>20220801T130903</lastplayed>
 	</game>
 </gameList>

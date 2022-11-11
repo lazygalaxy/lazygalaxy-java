@@ -52,7 +52,6 @@
 		<path>./lair2.daphne</path>
 		<name>Dragon's Lair II: Time Warp</name>
 		<sortname>Dragon's Lair 3</sortname>
-		<sortname />
 		<desc>Princess Daphne has been spirited away to a wrinkle in time by the Evil Wizard Mordroc who plans to force her into marriage. Only you, Dirk the Daring, can save her. Transported by a bumbling old time machine, you begin the rescue mission. But you must hurry, for once the Casket of Doom has opened, Mordroc will place the Death Ring upon Daphne's finger in marriage and she will be lost forever in the Time Warp!</desc>
 		<rating>0.9</rating>
 		<releasedate>19910616T000000</releasedate>
@@ -80,31 +79,27 @@
 		<name>Dragon's Lair: Enhanced</name>
 		<sortname>Dragon's Lair 2</sortname>
 		<desc>Originally released in the arcades as a laserdisc game, Dragon's Lair is an interactive cartoon movie. Players control Dirk the Daring as he struggles his way through a dungeon to fight Singe, the Dragon, and rescue the beautiful Princess Daphne. The game consists of animated scenes, during which the player has to press direction buttons or the sword button in the right moment to trigger the next segment of the movie.</desc>
-		<image>./boxart/dle21.jpg</image>
-		<video>./snaps/dle21.mp4</video>
 		<rating>0.8</rating>
 		<releasedate>19830101T000000</releasedate>
 		<developer>Sullivan Bluth Interactive</developer>
 		<publisher>Cinematronics</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
-		<playcount>3</playcount>
-		<lastplayed>20220217T230856</lastplayed>
+		<image>./boxart/dle21.jpg</image>
+		<video>./snaps/dle21.mp4</video>
 	</game>
 	<game>
 		<path>./lair.daphne</path>
 		<name>Dragon's Lair</name>
 		<sortname>Dragon's Lair 1</sortname>
 		<desc>Originally released in the arcades as a laserdisc game, Dragon's Lair is an interactive cartoon movie. Players control Dirk the Daring as he struggles his way through a dungeon to fight Singe, the Dragon, and rescue the beautiful Princess Daphne. The game consists of animated scenes, during which the player has to press direction buttons or the sword button in the right moment to trigger the next segment of the movie.</desc>
-		<image>./boxart/lair.jpg</image>
-		<video>./snaps/lair.mp4</video>
 		<rating>0.8</rating>
 		<releasedate>19830101T000000</releasedate>
 		<developer>Sullivan Bluth Interactive</developer>
 		<publisher>Cinematronics</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
-		<playcount>3</playcount>
-		<lastplayed>20220217T230856</lastplayed>
+		<image>./boxart/lair.jpg</image>
+		<video>./snaps/lair.mp4</video>
 	</game>
 </gameList>

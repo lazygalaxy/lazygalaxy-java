@@ -47,7 +47,7 @@
 	</game>
 	<game>
 		<path>./Chicky Woggy (VTech, Arcade Time &amp; Fun).zip</path>
-		<name>Chicky Woggy (Time And Fun)</name>
+		<name>Chicky Woggy (Time &amp; Fun)</name>
 		<sortname />
 		<desc>Help Chicky Woggy fill the labyrinth with eggs, while wolves chase her. Chicky Woggy can move across bridges, subways and tunnels to escape wolves. As soon as Chicky Woggy eats magic worms, she can chase and defeat wolves for a short period of time. When the labyrinth is full of eggs, Chicky Woggy moves to a new empty labyrinth. Three misses and game ends. 10 points are scored each time an egg is laid. 50 points are scored each time a worm is eaten. 200 to 400 points are scored each time a wolf is defeated. Bonus life is awarded at 2000 points. Maximum displayed score is 99990.</desc>
 		<releasedate>19820101T000000</releasedate>
@@ -228,19 +228,6 @@
 		<video>./snaps/Fowling (Elektronika).mp4</video>
 	</game>
 	<game>
-		<path>./Frog Boaster (Elektronika).zip</path>
-		<name>Frog Boaster</name>
-		<sortname />
-		<desc>Move a frog to catch butterflies. When a butterfly escapes, a miss is scored. The chicken appears/disappears at every five seconds. When the cock appears while butterfly escapes, half miss is scored (miss mark blinks). Three full misses and game is over. 1 point is scored for each butterfly caught by frog. At 200 and 500 points, if there are one or more misses, fanfare sounds play and all misses are canceled. Maximum displayed score is 999 points.</desc>
-		<releasedate />
-		<developer>Elektronika</developer>
-		<publisher>Elektronika</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./boxart/Frog Boaster (Elektronika).jpg</image>
-		<video>./snaps/Frog Boaster (Elektronika).mp4</video>
-	</game>
-	<game>
 		<path>./Galaxy II (Epoch).zip</path>
 		<name>Galaxy II</name>
 		<sortname />
@@ -268,7 +255,7 @@
 	</game>
 	<game>
 		<path>./Hippo Teeth (VTech, Mini Time &amp; Fun).zip</path>
-		<name>Hippo Teeth (Mini Time And Fun)</name>
+		<name>Hippo Teeth (Mini Time &amp; Fun)</name>
 		<sortname />
 		<desc>Help the busy dentist to prevent hippo's teeth from being eaten by the tooth-invaders. When a tooth is eaten, a miss is scored. Three misses and game ends. 10 points per killed tooth-invader. All teeth are restored at every 1000 points scored. Maximum displayed score is 9999.</desc>
 		<releasedate />
@@ -281,7 +268,7 @@
 	</game>
 	<game>
 		<path>./Hippo Teeth (VTech, Sporty Time &amp; Fun).zip</path>
-		<name>Hippo Teeth (Sporty Time And Fun)</name>
+		<name>Hippo Teeth (Sporty Time &amp; Fun)</name>
 		<sortname />
 		<desc>Help the busy dentist to prevent hippo's teeth from being eaten by the tooth-invaders. When a tooth is eaten, a miss is scored. Three misses and game ends. 10 points per killed tooth-invader. All teeth are restored at every 1000 points scored. Maximum displayed score is 9999.</desc>
 		<releasedate />
@@ -294,7 +281,7 @@
 	</game>
 	<game>
 		<path>./Hot Line (VTech, Mini Time &amp; Fun).zip</path>
-		<name>Hot Line (Mini Time And Fun)</name>
+		<name>Hot Line (Mini Time &amp; Fun)</name>
 		<sortname />
 		<desc>A clerk has the task to answer phone calls very quickly. Move the clerk left and right to answer phone calls. When a phone call is not answered, a chance is missed. The secretary appears occasionally, waiting for the clerk to sign a few documents (game B only). Three misses and game ends. 10 points are scored each time a phone call is answered. 50 points are scored each time a document is signed. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
 		<releasedate />
@@ -307,7 +294,7 @@
 	</game>
 	<game>
 		<path>./Hot Line (VTech, Sporty Time &amp; Fun).zip</path>
-		<name>Hot Line (Sporty Time And Fun)</name>
+		<name>Hot Line (Sporty Time &amp; Fun)</name>
 		<sortname />
 		<desc>A clerk has the task to answer phone calls very quickly. Move the clerk left and right to answer phone calls. When a phone call is not answered, a chance is missed. The secretary appears occasionally, waiting for the clerk to sign a few documents (game B only). Three misses and game ends. 10 points are scored each time a phone call is answered. 50 points are scored each time a document is signed. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
 		<releasedate />
@@ -386,7 +373,7 @@
 	</game>
 	<game>
 		<path>./Mickey Mouse (Nintendo, Wide Screen).zip</path>
-		<name>Mickey Mouse (Wide Screen)</name>
+		<name>Mickey Mouse (Widescreen)</name>
 		<sortname />
 		<desc>Chickens lay eggs. Control Mickey Mouse so that he catches them in his basket. When Mickey Mouse drops an egg, one miss is scored. Minnie Mouse appears/disappears at every five seconds. When Minnie Mouse appears while egg falls, half miss is scored (miss mark blinks). Three full misses and game is over. 1 point per caught egg. At 200 and 500 points, if there are one or more misses, fanfare sounds and all misses are canceled. Maximum displayed score is 999 points.</desc>
 		<releasedate>19811009T000000</releasedate>
@@ -438,7 +425,7 @@
 	</game>
 	<game>
 		<path>./Pac Man (Tomytronic).zip</path>
-		<name>Pac Man</name>
+		<name>Pac-Man</name>
 		<sortname />
 		<desc>Do you really need instructions about the Pac Man videogame ? :-) Notice: Pac Man can eat pills when walking from right to left only! Amateur game becomes automatically Professional game at level 4 (this means that there will be three ghosts in the maze instead of two). Bait: 2 points. Power star: 50 points. Ghost: 100 to 400 points. Cherry: 100 to 400 points (depending on game stage). Cherries appear whenever Pac Man eats 8 pills (maximum 2 cherries per stage). A bonus life is awarded at 2000 points.</desc>
 		<releasedate />
@@ -594,7 +581,7 @@
 	</game>
 	<game>
 		<path>./Tennis Menace (VTech, Sporty Time &amp; Fun).zip</path>
-		<name>Tennis Menace</name>
+		<name>Tennis Menace (Sporty Time &amp; Fun)</name>
 		<sortname />
 		<desc>Train tennis by playing with your coach. Move the player left and right to get all balls. When a ball falls on the ground, a chance is missed. Three misses and game ends. 10 points are scored each time a ball is hit. a quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
 		<releasedate />
@@ -772,5 +759,17 @@
 		<genre>Action</genre>
 		<image>./boxart/Armor Battle (Mattel Electronics).jpg</image>
 		<video>./snaps/Armor Battle (Mattel Electronics).mp4</video>
+	</game>
+	<game>
+		<path>./Frog Boaster (Elektronika).zip</path>
+		<name>Frog Boaster</name>
+		<sortname />
+		<desc>Move a frog to catch butterflies. When a butterfly escapes, a miss is scored. The chicken appears/disappears at every five seconds. When the cock appears while butterfly escapes, half miss is scored (miss mark blinks). Three full misses and game is over. 1 point is scored for each butterfly caught by frog. At 200 and 500 points, if there are one or more misses, fanfare sounds play and all misses are canceled. Maximum displayed score is 999 points.</desc>
+		<releasedate />
+		<developer>Elektronika</developer>
+		<publisher>Elektronika</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Frog Boaster (Elektronika).jpg</image>
+		<video>./snaps/Frog Boaster (Elektronika).mp4</video>
 	</game>
 </gameList>

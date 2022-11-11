@@ -22,7 +22,7 @@
 	</game>
 	<game>
 		<path>./senko.zip</path>
-		<name>Senkō no Ronde: WarTech</name>
+		<name>Senkō no Ronde (WarTech)</name>
 		<sortname />
 		<desc>Senkō no Ronde: WarTech is an oppositional fighting game set in space. Players must try to shoot the enemy's plane and then once the enemy plane is close, the battle changes to hand-to-hand combat and players fight each other directly.</desc>
 		<releasedate>20050101T000000</releasedate>
@@ -105,7 +105,7 @@
 	</game>
 	<game>
 		<path>./rumblef.zip</path>
-		<name>Rumble Fish, The </name>
+		<name>Rumble Fish, The</name>
 		<sortname>Rumble Fish 1</sortname>
 		<desc>The Rumble Fish is a fighting game created by Dimps for the Atomiswave arcade platform. Its most distinguishing quality is its graphics engine, which animates the characters' limbs separately.</desc>
 		<rating>0.85</rating>
@@ -116,20 +116,6 @@
 		<players>1-2</players>
 		<image>./boxart/rumblef.jpg</image>
 		<video>./snaps/rumblef.mp4</video>
-	</game>
-	<game>
-		<path>./asndynmt.zip</path>
-		<name>Asian Dynamite</name>
-		<sortname />
-		<desc>Asian Dynamite is a Sega NAOMI arcade beat-'em-up game. It is known as Dynamite Deka EX in Japan, and is a direct sequel to Dynamite Deka, meaning in its localised form, Asian Dynamite is a direct sequel to Die Hard Arcade, with the references to the movie franchise removed.nnnnThe game has not been ported to home platforms, nor has it even seen a US release. It is extremely similar to Dynamite Cop in design, simply sporting an updated Asian aesthetic and replacing Jean Ivy and Eddie Brown with Caroline Powell and Jennifer Genuine, respectively. Caroline is the president's daughter from the first game grown up.</desc>
-		<rating>0.8</rating>
-		<releasedate>20070101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Beat'em up</genre>
-		<players>1-2</players>
-		<image>./boxart/asndynmt.jpg</image>
-		<video>./snaps/asndynmt.mp4</video>
 	</game>
 	<game>
 		<path>./ggxx.zip</path>
@@ -186,15 +172,55 @@
 	<game>
 		<path>./ftspeed.zip</path>
 		<name>Faster Than Speed</name>
+		<sortname />
 		<desc>Enter the exciting street-racing world of FASTER THAN SPEED where the winner rules and the loser walks! Hit the street with the most addictive driving experience of your life! Pick from 8 customized rides. FASTER THAN SPEED will take your players into the exotic, dim-lit, back streets of over 6 tracks challenging the quickest, the fastest, the baddest, and the most stocked racer conquers the asphalt! To take down your challenger, you need to burn the street with a variety of high-speed tricks.</desc>
-		<image>./boxart/ftspeed.jpg</image>
-		<video>./snaps/ftspeed.mp4</video>
 		<rating>0.8</rating>
 		<releasedate>20040101T000000</releasedate>
 		<developer>Sammy Studios</developer>
 		<publisher>Sammy</publisher>
 		<genre>Racing</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220222T084647</lastplayed>
+		<image>./boxart/ftspeed.jpg</image>
+		<video>./snaps/ftspeed.mp4</video>
+	</game>
+	<game>
+		<path>./mbaa.zip</path>
+		<name>Melty Blood: Actress Again</name>
+		<sortname />
+		<desc>The followup to Actress Again, Current Code is the 4th installment in the Melty Blood series of fighting games.</desc>
+		<releasedate>20080919T000000</releasedate>
+		<developer>Ecole</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/mbaa.jpg</image>
+		<video>./snaps/mbaa.mp4</video>
+	</game>
+	<game>
+		<path>./meltyb.zip</path>
+		<name>Melty Blood: Act Cadenza Version B</name>
+		<sortname />
+		<desc>Melty Blood: Act Cadenza Version B is a fighting game developed by TYPE-MOON and Ecole Software, and published by Sega for the Sega NAOMI arcade system. It is part of the Melty Blood series, and is an update to Melty Blood: Act Cadenza Ver. A.</desc>
+		<rating>0.85</rating>
+		<releasedate>20061226T000000</releasedate>
+		<developer>Ecole Software</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/meltyb.jpg</image>
+		<video>./snaps/meltyb.mp4</video>
+	</game>
+	<game>
+		<path>./asndynmt.zip</path>
+		<name>Asian Dynamite</name>
+		<sortname />
+		<desc>Asian Dynamite is a Sega NAOMI arcade beat-'em-up game. It is known as Dynamite Deka EX in Japan, and is a direct sequel to Dynamite Deka, meaning in its localised form, Asian Dynamite is a direct sequel to Die Hard Arcade, with the references to the movie franchise removed.nnnnThe game has not been ported to home platforms, nor has it even seen a US release. It is extremely similar to Dynamite Cop in design, simply sporting an updated Asian aesthetic and replacing Jean Ivy and Eddie Brown with Caroline Powell and Jennifer Genuine, respectively. Caroline is the president's daughter from the first game grown up.</desc>
+		<rating>0.8</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/asndynmt.jpg</image>
+		<video>./snaps/asndynmt.mp4</video>
 	</game>
 </gameList>

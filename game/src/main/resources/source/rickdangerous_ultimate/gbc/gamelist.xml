@@ -162,7 +162,7 @@
 	</game>
 	<game>
 		<path>./R-Type DX (USA, Europe) (GB Compatible).zip</path>
-		<name>R-Type DX</name>
+		<name>R·Type DX</name>
 		<sortname />
 		<desc>The World Government needs your help. A deep-space probe has uncovered the Bydo Empire's secret plans to mount an attack on Earth. A full-scale assault force would be detected by the Empire's long-range scanners, and any hope of surprise would be lost. Our only chance is for a single pilot in a lone R-Type fighter to penetrate the Bydo defense system and destroy the evil Empire before it can launch its attack. Tear through Bydo defenses as you blast enemies with your Fire Chain, Super Laser and Bubble Beam. Take the fight to a fevered pitch with two pulse-pounding rapid-fire modes on your Game Boy Color system.</desc>
 		<rating>0.65</rating>
@@ -259,22 +259,8 @@
 		<video>./snaps/Warlocked (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Legend of Zelda, The - Oracle of Seasons (USA, Australia).zip</path>
-		<name>The Legend of Zelda: Oracle of Seasons</name>
-		<sortname />
-		<desc>The land of Holodrum is slowly withering. Onox, the General of Darkness, has imprisoned the Oracle of Seasons and is draining the very life out of the land. With the seasons in tumult and the forces of evil running rampant, the world looks for a hero and finds Link. His quest won't be easy he'll have to master the seasons if he's to turn back the evil tide.</desc>
-		<rating>0.9</rating>
-		<releasedate>20010513T000000</releasedate>
-		<developer>Flagship</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Adventure</genre>
-		<players>1</players>
-		<image>./boxart/Legend of Zelda, The - Oracle of Seasons (USA, Australia).jpg</image>
-		<video>./snaps/Legend of Zelda, The - Oracle of Seasons (USA, Australia).mp4</video>
-	</game>
-	<game>
 		<path>./Legend of Zelda, The - Oracle of Ages (USA, Australia).zip</path>
-		<name>The Legend of Zelda: Oracle of Ages</name>
+		<name>Legend of Zelda: Oracle of Ages, The</name>
 		<sortname />
 		<desc>Using the legendary power of the Triforce, Link travels to a distant land known as Labrynna where Veran, the Sorceress of Shadows, has developed a scheme to alter Labrynna's past. Through trickery and deceit, Veran harnesses the power of Nayru, the Oracle of Ages, and travels 400 years into the past. Before the Sorceress of Shadows can complete her dark mission, Link must use the Harp of Ages to save the day.</desc>
 		<rating>0.9</rating>
@@ -464,28 +450,1425 @@
 	<game>
 		<path>./Bionic Commando - Elite Forces (USA, Australia).zip</path>
 		<name>Bionic Commando: Elite Forces</name>
+		<sortname />
 		<desc>The Avar empire is an imminent threat to our homeland of Karinia. As a member of the Bionic Corps' Elite Forces team your mission is to infiltrate the Avar installations, disrupt their invasion plans and rescue our scout, fellow bionic commando, Commander Joe. You play a bionic soldier with a mechanic arm that extends and contracts to let you interact with objects normally out of reach.</desc>
-		<image>./boxart/Bionic Commando - Elite Forces (USA, Australia).jpg</image>
-		<video>./snaps/Bionic Commando - Elite Forces (USA, Australia).mp4</video>
 		<rating>0.7</rating>
 		<releasedate />
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220217T192756</lastplayed>
+		<image>./boxart/Bionic Commando - Elite Forces (USA, Australia).jpg</image>
+		<video>./snaps/Bionic Commando - Elite Forces (USA, Australia).mp4</video>
 	</game>
 	<game>
 		<path>./Asterix &amp; Obelix (Europe) (En,Fr,De,Es).zip</path>
 		<name>Astérix &amp; Obélix</name>
+		<sortname />
 		<desc>Being the predecessor of Astérix &amp; Obélix for SNES, this game features the same story as it's later counterpart - however the level design was massively changed, doesn't offer a 2 player mode and level codes were added only for the GameBoy Color version.</desc>
-		<image>./boxart/Asterix &amp; Obelix (Europe) (En,Fr,De,Es).jpg</image>
-		<video>./snaps/Asterix &amp; Obelix (Europe) (En,Fr,De,Es).mp4</video>
 		<releasedate>19990603T000000</releasedate>
 		<developer>Bit Managers</developer>
 		<publisher>Infogrames</publisher>
 		<genre>Platform</genre>
-		<playcount>4</playcount>
-		<lastplayed>20220217T222640</lastplayed>
+		<image>./boxart/Asterix &amp; Obelix (Europe) (En,Fr,De,Es).jpg</image>
+		<video>./snaps/Asterix &amp; Obelix (Europe) (En,Fr,De,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Bust-A-Move Millennium (USA, Europe).zip</path>
+		<name>Bust-A-Move Millennium</name>
+		<sortname />
+		<desc>An exclusive version of the puzzle franchise on the handheld includes all the fun of the original Bust-A-Move along with varying playfield sizes; story, puzzle and versus modes; and the ability to play against a friend in 2 player versus. Other modes include endless mode (play as long as you want), and a challenge mode where you must complete puzzles perfectly in order to move on.</desc>
+		<rating>0.75</rating>
+		<releasedate>20001027T000000</releasedate>
+		<developer>Dreams Co., Ltd.</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Bust-A-Move Millennium (USA, Europe).jpg</image>
+		<video>./snaps/Bust-A-Move Millennium (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Croc 2 (USA, Europe).zip</path>
+		<name>Croc 2</name>
+		<sortname />
+		<desc>Croc is on a quest to find his parents. However, Baron Dante has kidnapped the Gobbos kings. Croc then turns his attention to rescue all of the Gobbos kings. You travel across 48 levels in this free roaming 3D game. You have to beat all the levels in a village (except the secret level) to move on to the next one. In each village, (except the 4th village) are 5 regular levels, 2 bosses, and 1 secret level. Regular levels are levels where you just beat them and get certain items in them. Bosses are levels where you go through one section then fight a monster at the end. Secret levels are levels where you collect the jigsaw piece.</desc>
+		<rating>0.55</rating>
+		<releasedate>20010202T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>THQ</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Croc 2 (USA, Europe).jpg</image>
+		<video>./snaps/Croc 2 (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Crystalis (USA).zip</path>
+		<name>Crystalis</name>
+		<sortname />
+		<desc>October 1st, 1997 is known as END DAY. A great war encircles the globe and brings about an end to civilization. The surviving humans concluded that they could never repeat their mistakes and build a great tower in the sky to watch over the world and act accordingly to combat "evil". One hundred years have passed since then and a hidden cryogenic chamber in the mountains springs to life... Crystalis is a top-down action RPG. Starting from the cryogenic chamber, the player takes the role of a mysterious hero who must uncover the mystery of the tower. The character may equip weapons, armor, shields and globe/bracelets on his body and a single item from his inventory for use in the field. To aid in the hero's goal.</desc>
+		<rating>0.65</rating>
+		<releasedate />
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Crystalis (USA).jpg</image>
+		<video>./snaps/Crystalis (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).zip</path>
+		<name>Disney's Donald Duck: Goin' Quackers</name>
+		<sortname />
+		<desc>You play as Donald in this 3D platform action game. Donald's girlfriend, Daisy is a reporter for a television station in Duckberg. While doing a story on the secret temple of the terrible magician Merlock, Daisy is kidnapped. Now, it is up to Donald to get her back. Along the way he will have help from his nephews, Huey, Dewey, and Louie, and the inventor Gyro Gearloose. He will also have competition from Gladstone Gander, who is also trying to save Daisy. Game play alternates between side-scrolling running and jumping and 3D running and jumping. The side-scrolling levels play a lot like the Super Mario Bros. games. The 3D levels are more akin to the Crash Bandicoot series of games.</desc>
+		<rating>0.7</rating>
+		<releasedate>20001201T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Driver - You are the Wheelman (USA) (En,Fr,De,Es,It).zip</path>
+		<name>Driver: You are the Wheelman</name>
+		<sortname />
+		<desc>In Driver, the driving (pun intended) force of the world is crime. The main character, an ex-race car driver, takes on the role of an undercover cop. It seems your superior officer has decided to put your talents to the test. He orders you to infiltrate the local mob group, and to help bring it down from the inside. As a result, the game takes place from the perspective of a low-level gang member. The action speeds into a number of different cities, ranging from San Francisco to Miami. It is on the streets that the main part of the game will take place. Basically, Driver is broken into a number of mini-missions. In total, over 30 different challenges await the persistent gamer.</desc>
+		<rating>0.6</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Crawfish Interactive</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Driver - You are the Wheelman (USA) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Driver - You are the Wheelman (USA) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Frogger (USA) (Rev 2) (GB Compatible).zip</path>
+		<name>Frogger</name>
+		<sortname />
+		<desc>Your task in this arcade conversion is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made. The road is full of cars and trucks, at variable speeds. The river water itself is fatal, as are the snakes which hover within on later levels. Frogger must use the arrangement of logs, turtles (which are only there for a short time) and alligators (but stay away form their faces), and then jump into one of the open home-cells, ideally one containing a fly for extra points. Once all holes have been filled, you move onto the next, harder, level.</desc>
+		<rating>0.6</rating>
+		<releasedate>19981231T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Majesco</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Frogger (USA) (Rev 2) (GB Compatible).jpg</image>
+		<video>./snaps/Frogger (USA) (Rev 2) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Gremlins - Unleashed (Europe) (En,Fr,De,Es,It,Pt).zip</path>
+		<name>Gremlins: Unleashed</name>
+		<sortname />
+		<desc>In this game, the film's hero, Gizmo, attempts to find the gremlins and capture them all. In the meantime, the sinister Stripe and his army of 30 different gremlins decide to invade the town of Kingston Falls and try to transform Gizmo into a gremlin. The game can be played as either character. Gremlins: Unleashed! features 10 levels based in locations featured in the film, including Billy's house, the school laboratory, the department store, and the movie theater.</desc>
+		<releasedate />
+		<developer>Planet Interactive</developer>
+		<publisher>Light &amp; Shadow Productions (LSP)</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Gremlins - Unleashed (Europe) (En,Fr,De,Es,It,Pt).jpg</image>
+		<video>./snaps/Gremlins - Unleashed (Europe) (En,Fr,De,Es,It,Pt).mp4</video>
+	</game>
+	<game>
+		<path>./Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Da).zip</path>
+		<name>Harry Potter and the Chamber of Secrets</name>
+		<sortname />
+		<desc>The second Harry Potter role-playing game follows directly on from the first, with mostly the same game mechanics, controls and even some of the graphics. To unravel the mystery of the Chamber of Secrets, young wizard Harry Potter must fight turn-based battles and solve quests. In this game, he is not alone, as a party system was added: his friends Ron and Hermione (and some other characters) will join Harry in the battles.</desc>
+		<rating>0.75</rating>
+		<releasedate>20021105T000000</releasedate>
+		<developer>Griptonite Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Da).jpg</image>
+		<video>./snaps/Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Da).mp4</video>
+	</game>
+	<game>
+		<path>./Jungle Book, The - Mowgli's Wild Adventure (USA) (En,Fr,De,Es,It).zip</path>
+		<name>Disney's The Jungle Book: Mowgli's Wild Adventure</name>
+		<sortname />
+		<desc>Mowgli's Wild Adventure is a typical 2D platform game for the Game Boy Color. You play as the young Mowgli who can walk, jump, run, climb and crawl. Levels come in various jungle related themes including a ruined temple. Mowgli learns a new special move in each level. He can throw fruit at hostile animals to defend himself. Furthermore Mowgli has to interact with his environment by pulling switches to open doors or douse fire with water. You can collect diamonds for extra lives and apples for health. In each boss level you have to collect seven icons in a race to win the stage.</desc>
+		<rating>0.6</rating>
+		<releasedate>20001120T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Jungle Book, The - Mowgli's Wild Adventure (USA) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Jungle Book, The - Mowgli's Wild Adventure (USA) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Mickey's Racing Adventure (USA, Europe) (En,Fr,De,Es,It).zip</path>
+		<name>Disney's Mickey's Racing Adventure</name>
+		<sortname />
+		<desc>Everyone in Mickey's home town was getting prepared for a big carnival! Professor Ludwig Von Drake had just finished all the carnival floats and was showing them to Mickey, Minnie, and all their friends. However, spying from his creepy mansion on the outskirts of town was Big Bad Pete, furious at the group enjoying themselves. Soon, he'd gathered his cronies and raced into town, swiping all the floats and decorations. All that was left was a letter challenging them to a race to get their things back. Mickey's Racing Adventure is an adventure game that centers around isometric racing challenges in various worlds.</desc>
+		<rating>0.9</rating>
+		<releasedate>19991122T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Mickey's Racing Adventure (USA, Europe) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Mickey's Racing Adventure (USA, Europe) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Micro Machines V3 (USA, Europe).zip</path>
+		<name>Micro Machines V3</name>
+		<sortname />
+		<desc>Micro Machines V3 takes the immensely popular miniature-scale racing series to a new level by adding weapons and power-ups to the fray. Now you can grab turbo charges for bursts of speed or blast away opponents with grenades and force-fields. For the first time on a portable system you can still drive all of your favorite Micro Machines vehicles on all the classic tracks such as the pool tale and sand-box, but now you can do it with an attitude! Features 48 courses - breakfast table, school desk, science lab, beach, restaurant, garden, pool table, etc. Power-ups to blitz the opposition include: hammer, mines, force-field, etc.</desc>
+		<rating>0.55</rating>
+		<releasedate />
+		<developer>Novalicious</developer>
+		<publisher>THQ</publisher>
+		<genre>Racing</genre>
+		<players>1-4</players>
+		<image>./boxart/Micro Machines V3 (USA, Europe).jpg</image>
+		<video>./snaps/Micro Machines V3 (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Mr. Driller (USA).zip</path>
+		<name>Mr. Driller</name>
+		<sortname />
+		<desc>Mr Driller's world has been covered with mysterious blocks. Armed with only a mighty drill, you'll have to dig your way down to safety before his air supply runs out! Mr Driller is a real-time puzzle game that relies solely on quick-thinking and a bit of planning. Gameplay is a combination of Tetris and Boulder Dash: You have to drill down through multi-colored blocks to reach the bottom while avoiding the consequences of reckless drilling (blocks may fall on you and crush you).</desc>
+		<rating>0.6</rating>
+		<releasedate>20000802T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Mr. Driller (USA).jpg</image>
+		<video>./snaps/Mr. Driller (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Paperboy (USA, Europe).zip</path>
+		<name>Paperboy</name>
+		<sortname />
+		<desc>In PAPERBOY, all you have to do is deliver the newspaper to your subscribers. While this sounds easy enough, obstacles seem to constantly get into your way...things like dogs, kids on tricycles, traffic, and pedestrians. Since this is your neighborhood, you want punish those who do not subscribe to your paper, so you break their windows with rolled up newspapers. You will even hear the glass shatter thanks to the digitized sound effects and music! At the end of each level there is a bonus course, where you can demonstrate your newspaper-flinging accuracy and earn bonus points. Fortunately, there are three difficulty levels to help you get accustomed to the controls of the game.</desc>
+		<rating>0.55</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>Midway</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Paperboy (USA, Europe).jpg</image>
+		<video>./snaps/Paperboy (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Rayman (USA) (En,Fr,De,Es,It,Nl).zip</path>
+		<name>Rayman</name>
+		<sortname />
+		<desc>When a villain known only as Mr. Dark appears, trouble brews in Rayman's world. Mr. Dark captures the Toons - source of light and Rayman's friends. With no more light, evil creatures begin to roam, making the world unsafe for everyone. Its up to you, as Rayman, to free your friends and put an end to Mr. Dark's dastardly schemes! Rayman is side-scrolling platformer starring the titular Rayman, a big-nosed chap with no arms or legs. Rayman can jump and use his hair to hover for a short period of time. He can also attack by throwing his fists, or winding up his fists for a more powerful punch. He can occasionally find special power ups that grant him unlimited flying power, giving him the ability to navigate through tricky mazes.</desc>
+		<rating>0.85</rating>
+		<releasedate>20000329T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Rayman (USA) (En,Fr,De,Es,It,Nl).jpg</image>
+		<video>./snaps/Rayman (USA) (En,Fr,De,Es,It,Nl).mp4</video>
+	</game>
+	<game>
+		<path>./Rayman 2 (USA) (En,Fr,De,Es,It).zip</path>
+		<name>Rayman 2</name>
+		<sortname />
+		<desc>Rayman 2 (GBC) is an adaptation of Rayman 2: The Great Escape that was released for the Game Boy Color. Despite the fact that Rayman 2 was a big hit, this game is rarely known about, even to Rayman audiences. It was released under the title Rayman 2: Forever in Europe with slightly different box art. The title screen of this game says Rayman 2: The Great Escape even though the box and the audiences regard it as Rayman 2 (GBC).</desc>
+		<rating>0.6</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Rayman 2 (USA) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Rayman 2 (USA) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Smurfs Nightmare, The (USA).zip</path>
+		<name>Smurfs Nightmare, The</name>
+		<sortname />
+		<desc>What a smurfin' catastrosmurf! One dark night during a full moon, Gargamel cast a terrible spell on the Smurfs' village. All the Smurfs became trapped inside their worst nightmares. Only Hefty Smurf wasn't smurfed. So, quick! Help him rescue his friends! Dive into the heart of a weird and crazy world... The fate of the Smurfs is in your hands: will you be able to save them?</desc>
+		<rating>0.6</rating>
+		<releasedate>19990228T000000</releasedate>
+		<developer>Bit Managers</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Smurfs Nightmare, The (USA).jpg</image>
+		<video>./snaps/Smurfs Nightmare, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Snoopy Tennis (USA) (En,Fr,Es).zip</path>
+		<name>Snoopy Tennis</name>
+		<sortname />
+		<desc>Snoopy Tennis lets the player take control of Charles Schultz's famous Peanuts Gang and compete in a series of tennis games similar to Mario Tennis. The player can initially choose from eight characters to play (Snoopy, Charlie Brown, Lucy, Linus, Franklin, Sally, Peppermint Patty &amp; Schroeder) each with their unique strengths and weaknesses. By winning against certain opponents and various modes the player can unlock an additional four characters (Pigpen, Marcie, Rerun and Woodstock). There are four different courts to choose from, a forest location, the beach, the schoolyard and Charlie Brown's backyard, with an additional four locations unlocked during gameplay. There are six different single player game modes to choose from: 1.</desc>
+		<rating>0.65</rating>
+		<releasedate>20010406T000000</releasedate>
+		<developer>Mermaid Studios</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Snoopy Tennis (USA) (En,Fr,Es).jpg</image>
+		<video>./snaps/Snoopy Tennis (USA) (En,Fr,Es).mp4</video>
+	</game>
+	<game>
+		<path>./South Park (USA) (Proto).zip</path>
+		<name>South Park</name>
+		<sortname />
+		<desc>This Game Boy Colour version of South Park was supposed to be released alongside the Nintendo 64 and PlayStation versions but was cancelled in 1999 due to Nintendo, Matt Stone, and Trey Parker not wanting to release an adult game for a system that was mostly owned by children. The game was reworked and released as Maya the Bee &amp; Her Friends in Europe, which itself was reworked and released as Mary-Kate &amp; Ashley: Get a Clue! in the US.</desc>
+		<releasedate />
+		<developer>Crawfish Interactive</developer>
+		<publisher>Crawfish Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/South Park (USA) (Proto).jpg</image>
+		<video>./snaps/South Park (USA) (Proto).mp4</video>
+	</game>
+	<game>
+		<path>./Space Invaders (USA, Europe) (GB Compatible).zip</path>
+		<name>Space Invaders</name>
+		<sortname />
+		<desc>In 1978, Earth successfully repulsed an invasion from outer space thanks to "the Tank." The Tank was based on alien technology found when a scout ship had crashed years earlier. Now, over 20 years later, a new Tank has been created based on the technology recovered during the 1978 invasion. And none too soon, because the Invaders are back! Space Invaders is yet another classic arcade game remake by Activision. (See Battlezone and Asteroids.) But this time, Activision licensed a game from Taito instead of Atari. The game stays close to its roots while adding many power-ups and enemies. You can play either one or two players against the Invaders, who march down the screen in orderly rows and columns, at one of three skill levels.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Z-Axis</developer>
+		<publisher>Activision</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Space Invaders (USA, Europe) (GB Compatible).jpg</image>
+		<video>./snaps/Space Invaders (USA, Europe) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Star Wars Episode I - Racer (USA, Europe) (Rumble Version).zip</path>
+		<name>Star Wars Episode I: Racer</name>
+		<sortname />
+		<desc>Based upon the Pod Racing scenes of Star Wars Episode I: The Phantom Menace, your mission as young Anakin Skywalker or as one of a collection of strange characters from around the Galaxy is to compete, survive and win in the high speed challenge of Pod Racing. Each character has a unique Pod that can be upgraded with the credits you win after each race. Finish first to gain the most prestige and compete in greater and more challenging tracks, including the now famous race along the sand dunes of Tatooine that determined the destiny of many lives.</desc>
+		<rating>0.6</rating>
+		<releasedate>19991214T000000</releasedate>
+		<developer>Pax Softnica</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Star Wars Episode I - Racer (USA, Europe) (Rumble Version).jpg</image>
+		<video>./snaps/Star Wars Episode I - Racer (USA, Europe) (Rumble Version).mp4</video>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 2 (USA, Europe).zip</path>
+		<name>Tony Hawk's Pro Skater 2</name>
+		<sortname />
+		<desc>The Game Boy Color version of Tony Hawk's Pro Skater 2 is based off the console game of the same name. Instead of exploring a 3D environment, however, players perform tricks in 2D side-scrolling levels. Players can select their skater and board, each of which has their own unique stats, allowing you to choose the combination that's perfect for you. Each of the thirteen different characters even has their own signature tricks to perform.</desc>
+		<rating>0.35</rating>
+		<releasedate>20021117T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Tony Hawk's Pro Skater 2 (USA, Europe).jpg</image>
+		<video>./snaps/Tony Hawk's Pro Skater 2 (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Toy Story Racer (USA, Europe).zip</path>
+		<name>Disney·Pixar's Toy Story Racer</name>
+		<sortname />
+		<desc>The race is on! For the first time ever, join Woody, Buzz Lightyear and the gang in a crazy, turbo-blasting remote-controlled racing competition through the action-packed world of Disney's Toy Story!</desc>
+		<rating>0.7</rating>
+		<releasedate>20010228T000000</releasedate>
+		<developer>Tiertex</developer>
+		<publisher>Activision</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Toy Story Racer (USA, Europe).jpg</image>
+		<video>./snaps/Toy Story Racer (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Turok 2 - Seeds of Evil (USA, Europe) (En,Fr,De,Es) (GB Compatible).zip</path>
+		<name>Turok 2: Seeds of Evil</name>
+		<sortname />
+		<desc>[This item has been split and information may not be completely accurate. Users are cautioned that incorrect information may appear in the description which does not apply to this platform and needs to be revised] The sequel to Turok: Dinosaur Hunter. Having defeated the Chronoceptor, Turok throws the leftovers into a waiting volcano, only to awaken an even deadlier force - The Primagen - who lays in wait for his freedom from a wrecked space craft, buried at the core of the Lost Land. Now it is up to Turok to once again restore peace to the land, and stop the Primagen from merging Earth with the nether world. New weapons, better graphics, more Turok!!</desc>
+		<rating>0.35</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Bit Managers</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<image>./boxart/Turok 2 - Seeds of Evil (USA, Europe) (En,Fr,De,Es) (GB Compatible).jpg</image>
+		<video>./snaps/Turok 2 - Seeds of Evil (USA, Europe) (En,Fr,De,Es) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Wacky Races (USA) (En,Fr,Es).zip</path>
+		<name>Wacky Races</name>
+		<sortname />
+		<desc>For those who can remember the cartoon series, this will be a blast from the past. Choose from all your favourite characters including Peter Perfect, Penelope Pitstop and, of course, Dick Dastardly and Muttley, and wind your way through cartoon like environments in the familiar vehicles of each character. Simply get to the end of the race first to open up new tracks, and use weapons to pick off the rest of the cast, and aid your progress.</desc>
+		<rating>0.6</rating>
+		<releasedate>20000628T000000</releasedate>
+		<developer>Velez &amp; Dubail</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Wacky Races (USA) (En,Fr,Es).jpg</image>
+		<video>./snaps/Wacky Races (USA) (En,Fr,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Worms Armageddon (USA) (En,Fr,Es).zip</path>
+		<name>Worms: Armageddon</name>
+		<sortname />
+		<desc>The final sequel (at least using the present engine) to the strategy game Worms, Worms Armageddon expands on Worms 2 by improving quite a few facets of gameplay and including play over the Internet through Team 17's WORMNET. For those who've never played Worms, it's at heart similar to the old game Artillery, which you control an artillery piece. In essence, you give it a shot angle and shot power, and try to hit your enemy, despite wind effects and the enemy firing back at you. Worms puts you in command of a team of Worms, but not only can you move around the landscape, you can use many types of weapons to try to dispatch the enemy, from bazookas to mini-guns to exploding sheep.</desc>
+		<rating>0.55</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Worms Armageddon (USA) (En,Fr,Es).jpg</image>
+		<video>./snaps/Worms Armageddon (USA) (En,Fr,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Yu-Gi-Oh! - Dark Duel Stories (USA).zip</path>
+		<name>Yu-Gi-Oh!: Dark Duel Stories</name>
+		<sortname />
+		<desc>Dark Duel Stories brings the Yu-Gi-Oh! card game to you via Gameboy Color. Battle your way past opponents from the TV show and manga as well as your friends using the Link Cable. In Dark Duel Stories, you must defeat your opponents to advance and eventually make it to the four Rulers of Ancient Egypt who have the Millennium pieces. As you win battles, you will get new cards as well as card parts that can be used to construct more cards. Set up your deck with monsters, traps, and spells to help you defeat your opponents. And don't forget to bring along some fusion monsters to help when you get into trouble, or just to help finish off your opponent.</desc>
+		<rating>0.35</rating>
+		<releasedate>20020318T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Yu-Gi-Oh! - Dark Duel Stories (USA).jpg</image>
+		<video>./snaps/Yu-Gi-Oh! - Dark Duel Stories (USA).mp4</video>
+	</game>
+	<game>
+		<path>./102 Dalmatians - Puppies to the Rescue (USA, Europe).zip</path>
+		<name>Disney's 102 Dalmatians: Puppies to the Rescue</name>
+		<sortname />
+		<desc>Cruella De Vil has captured more Dalmatian puppies to make into a coat. You, as Domino or Oddball, must free them. Disney's 102 Dalmatians: Puppies to the Rescue on the Game Boy Color is a 2D, side-scrolling platform game. You must run and jump about the level, searching for a key. Once you have the key, you then go to each cage to open it and free the puppies. When all puppies are free, you will get a password and move to the next level. Try to avoid the enemy toys that move about as they will damage you. You can use your bark to stun a toy but that is temporary.</desc>
+		<rating>0.75</rating>
+		<releasedate>20010202T000000</releasedate>
+		<developer>Crystal Dynamics</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/102 Dalmatians - Puppies to the Rescue (USA, Europe).jpg</image>
+		<video>./snaps/102 Dalmatians - Puppies to the Rescue (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Aladdin (USA).zip</path>
+		<name>Disney's Aladdin</name>
+		<sortname />
+		<desc>The game from Virgin based on the 1992 animated Disney film is a side-scrolling platformer. The player controls Aladdin, who must make his way through several levels based on locations from the movie: from the streets and rooftops of Agrabah, the Cave of Wonders and the Sultan's dungeon to the final confrontation in Grand Vizier Jafar's palace. The Sultan's guards and also animals of the desert want to hinder Aladdin in his way. He can defend himself with his sword or by throwing apples. Next to apples, Aladdin can also collect gems which can be traded for lives and continues with a traveling trader. Finding Genie or Abu icons enables bonus rounds. The Genie bonus round is a game of luck played for apples, gems or extra lives.</desc>
+		<rating>0.55</rating>
+		<releasedate>20001110T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Aladdin (USA).jpg</image>
+		<video>./snaps/Aladdin (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Alice in Wonderland (USA).zip</path>
+		<name>Disney's Alice in Wonderland</name>
+		<sortname />
+		<desc>A true translation right from the Disney movie, Alice finds herself in the wonderland that she's expected to. Over the course of the game Alice meets major characters from the story, who will have either lost an item or need some help in some sort, for which Alice will volunteer to help. Basically a side scrolling platform, with parts in an isometric view as well.</desc>
+		<rating>0.45</rating>
+		<releasedate>20010421T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Alice in Wonderland (USA).jpg</image>
+		<video>./snaps/Alice in Wonderland (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Aliens - Thanatos Encounter (USA, Europe).zip</path>
+		<name>Aliens: Thanatos Encounter</name>
+		<sortname />
+		<desc>Prepare for horror and fright beyond your wildest nightmares, as you step into the world of ALIENS: Thanatos Encounter. The terrifying creatures made famous by the popular ALIENS movies come to Game Boy Color in a totally new adventure. You play as one of five space marines who are sent to explore an abandoned freighter. Naturally, the situation is far worse than your squad expected the ship is completely infested with thousands of vicious aliens. In this single-player shooter, you'll make your way through the various sections of the ship in 12 missions. Discover the solution to the mystery of the aliens' reappearance through the cinematic cutscenes you'll see throughout the game.</desc>
+		<rating>0.5</rating>
+		<releasedate>20010330T000000</releasedate>
+		<developer>Crawfish Interactive</developer>
+		<publisher>THQ</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Aliens - Thanatos Encounter (USA, Europe).jpg</image>
+		<video>./snaps/Aliens - Thanatos Encounter (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Armorines - Project S.W.A.R.M. (USA, Europe) (En,De).zip</path>
+		<name>Armorines: Project S.W.A.R.M.</name>
+		<sortname />
+		<desc>Simply put, you have two Armorines to play as, each with their own selection of weapons. You must fight to the death against bugs of all sizes, as you attempt to destroy the enemies chance of eliminating human civilization as we know it (in the not to distant future, of course). Players shoot enemies from a top-down perspective as they battle alien monsters and gigantic bosses. Weapons such as the Plasma Rifle, Flamethrower and the Laser help you mow down anything that gets in your way.</desc>
+		<rating>0.6</rating>
+		<releasedate>19991201T000000</releasedate>
+		<developer>NEON Software</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Armorines - Project S.W.A.R.M. (USA, Europe) (En,De).jpg</image>
+		<video>./snaps/Armorines - Project S.W.A.R.M. (USA, Europe) (En,De).mp4</video>
+	</game>
+	<game>
+		<path>./Army Men (USA, Europe) (En,Fr,De).zip</path>
+		<name>Army Men</name>
+		<sortname />
+		<desc>You play as the green army leader, Sarge. As the green army you must fight the evil forces of the tan, blue and gray armies. Complete various missions on this twist on real-time strategy/action gaming.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000225T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>3DO</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Army Men (USA, Europe) (En,Fr,De).jpg</image>
+		<video>./snaps/Army Men (USA, Europe) (En,Fr,De).mp4</video>
+	</game>
+	<game>
+		<path>./Army Men - Air Combat (USA, Europe) (En,Fr,De).zip</path>
+		<name>Army Men: Air Combat</name>
+		<sortname />
+		<desc>Pilot one of four toy helicopters through the treacherous terrain of your backyard, the local playground, picnic areas and nearby beaches. Engage in both air-to-air and air-to-ground combat with enemies ranging from battleships to butterflies. Utilize the unique abilities of each 'copter to battle armies of mutant insects; destroy rampaging remote control cars; blow up sand castles; and save Sarge from being melted by kids with magnifying glasses. Real combat. Plastic men.</desc>
+		<rating>0.8</rating>
+		<releasedate>19991102T000000</releasedate>
+		<developer>Fluid Studios</developer>
+		<publisher>3DO</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Army Men - Air Combat (USA, Europe) (En,Fr,De).jpg</image>
+		<video>./snaps/Army Men - Air Combat (USA, Europe) (En,Fr,De).mp4</video>
+	</game>
+	<game>
+		<path>./Army Men 2 (USA, Europe) (En,Fr,De).zip</path>
+		<name>Army Men 2</name>
+		<sortname />
+		<desc>The sequel to the surprise hit Army Men sees Sarge lead his troops back into battle, with more weapons and plenty of hard core, plastic melting action. The top-down war never stops as you take control of the Green army, out to stop the Tan army from taking control of the toy box, using whatever weapon you can find, including the trusty tank and the "burn baby burn" magnifying glass. All this and added multiplayer fun (4 in all).</desc>
+		<rating>0.35</rating>
+		<releasedate>20001122T000000</releasedate>
+		<developer>Cosmigo|Digital Eclipse Software, Inc.</developer>
+		<publisher>3DO</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Army Men 2 (USA, Europe) (En,Fr,De).jpg</image>
+		<video>./snaps/Army Men 2 (USA, Europe) (En,Fr,De).mp4</video>
+	</game>
+	<game>
+		<path>./Asteroids (USA, Europe) (GB Compatible).zip</path>
+		<name>Asteroids</name>
+		<sortname />
+		<desc>Unlike Activision's earlier remake of an Atari arcade classic, Battlezone, this one stays close to its namesake. Take the original, Atari coin-op game Asteroids, add in the features of the Atari 2600 cartridge, then give it 3-D graphics and a bunch of power-ups, and you've got Activision's Asteroids remake. You are an employee of the Astro-Mining Corporation. Your mission is to simply go to an assigned area of space and clear the area of asteroids and the occassional debris. The game consists of five zones, each with a different background and some with special features. Each zone has 15 levels. In addition to the standard asteroids, there are also mined asteroids that explode;</desc>
+		<rating>0.6</rating>
+		<releasedate>19990901T000000</releasedate>
+		<developer>Syrox Developments, Ltd.</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Asteroids (USA, Europe) (GB Compatible).jpg</image>
+		<video>./snaps/Asteroids (USA, Europe) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Ballistic (USA) (GB Compatible).zip</path>
+		<name>Ballistic</name>
+		<sortname />
+		<desc>Ballistic is a puzzle game in which the player must place 3 patterned balls next to each other in order to clear them. It is somewhat similar to Puyo Puyo in this respect. However Ballistic places the player in the center of the screen shooting the balls outward. In Panic! mode, a constant string of balls appear and the player must keep destroying similar balls to keep the string short and prevent it from snaking around and reaching the middle of the screen. In Checkmate mode, a limited amount of balls are given to the player which they must use to destroy all the balls on the screen. Strategy is used here since the amount of balls destroyed must be maximized.</desc>
+		<rating>0.6</rating>
+		<releasedate>19991101T000000</releasedate>
+		<developer>Mitchell Corporation</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Ballistic (USA) (GB Compatible).jpg</image>
+		<video>./snaps/Ballistic (USA) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Batman - Chaos in Gotham (USA).zip</path>
+		<name>Batman: Chaos in Gotham</name>
+		<sortname />
+		<desc>The Batman returns on Game Boy Color with BATMAN: Chaos in Gotham City. Based on the popular animated BATMAN series, this single-player action game allows you to don the cowl of one of two Bat-heroes: Batman or Batgirl. Some of the Dark Knight's famous arch-villains have escaped and are causing serious trouble in Gotham, and it's up to you to put them back where they belong. Everyone from Poison Ivy to the Clown Prince of Crime the Joker himself is here to wreak havoc and keep the caped crusader busy. Grab your utility belt and assault 18 stages of varied action that take you on a tour of Gotham City.</desc>
+		<rating>0.6</rating>
+		<releasedate>20010216T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Batman - Chaos in Gotham (USA).jpg</image>
+		<video>./snaps/Batman - Chaos in Gotham (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Battleship (USA, Europe) (GB Compatible).zip</path>
+		<name>Battleship</name>
+		<sortname />
+		<desc>Now it's your turn to sink your opponent's battleship in this Game Boy Color rendition of the classic strategic board game. Players deploy all four of their ships to different areas on a grid, and take turns firing shots at various parts of their opponent's grid. Hit each ship the required number of times, and the ship is removed from play. In a unique twist on the classic game, each ship has new weapons. For the solo player, there are 48 missions to complete with animated full-color cutscenes to inspire you to victory! The real challenge however, is taking on a human opponent via a link cable. Forget setting up the board and looking for missing pieces, this is the real way to play Battleship!</desc>
+		<rating>0.6</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Pack In Video</developer>
+		<publisher>Majesco</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Battleship (USA, Europe) (GB Compatible).jpg</image>
+		<video>./snaps/Battleship (USA, Europe) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Blade (USA, Europe).zip</path>
+		<name>Blade</name>
+		<sortname />
+		<desc>You're Blade, Gothic City's baddest vampire hunter. When rival vampire clams ignite a deadly feud, you go deep to do some serious demon killing. Stalk the undead through 24 gothic locations, then waste an arsenal of intense weapons. Plan on staying up late tonight, 'cause an even greater evil awaits.</desc>
+		<rating>0.55</rating>
+		<releasedate>20001120T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Activision</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+		<image>./boxart/Blade (USA, Europe).jpg</image>
+		<video>./snaps/Blade (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bomberman Max - Blue Champion (USA).zip</path>
+		<name>Bomberman Max: Blue Champion</name>
+		<sortname />
+		<desc>Bomberman returns to the Game Boy Color. The adventure is much the same as before, plant bombs to blow up blocks and enemies that get in your way of the exit. Much like Pokémon before it, Max: Blue is one part of the adventure (the other being Max: Red Challenger Edition). During both games, you can pick up "Charabombs", creatures that you can raise as your own, and fight against other players Charabombs. It's a simple bonus game of Rock/Paper/Scissors, but the only way to complete the entire adventure is by linking both games together via link cable and pass over levels from one cart to the other, as each game has unique levels, so as to collect all of the Charabombs.</desc>
+		<rating>0.75</rating>
+		<releasedate>20000514T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Vatical Entertainment</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Bomberman Max - Blue Champion (USA).jpg</image>
+		<video>./snaps/Bomberman Max - Blue Champion (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Bomberman Max - Red Challenger (USA).zip</path>
+		<name>Bomberman Max: Red Challenger</name>
+		<sortname />
+		<desc>The second half of the Bomberman Max series, Red Challenger is much the same as Blue Champion in terms of the tasks at hand for the main character. However, instead of playing as Bomberman, you play as Max, who still is much the same as Bomberman except for looks. The graphics are also slightly different for each level compared to Blue. The task stays the same, plant bombs to destroy blocks and enemies in your way, as well as collecting Charabombs, creatures who act much the same as Pokémon where you raise the Charabombs and fight against other players.</desc>
+		<rating>0.65</rating>
+		<releasedate>20000514T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Vatical Entertainment</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Bomberman Max - Red Challenger (USA).jpg</image>
+		<video>./snaps/Bomberman Max - Red Challenger (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Bust-A-Move 4 (USA, Europe) (GB Compatible).zip</path>
+		<name>Bust-A-Move 4</name>
+		<sortname />
+		<desc>On the planet Bubbleluna lives the twins Bub and Bob. One day, the sun fails to rise because the Fairy of the Night, Cleon, has stolen the light source known as the Rainbow for Full-Moon Madame Luna. She splits this rainbow into 7 light bubbles. Bub and Bob then set off to retrieve these bubbles and restore the light and peace to their planet.</desc>
+		<rating>0.45</rating>
+		<releasedate>20000428T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Bust-A-Move 4 (USA, Europe) (GB Compatible).jpg</image>
+		<video>./snaps/Bust-A-Move 4 (USA, Europe) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Caesars Palace II (USA, Europe).zip</path>
+		<name>Caesars Palace II</name>
+		<sortname />
+		<desc>Welcome to Ceasars Palace II, the premiere gambling game where you're the next high roller in the glamerous casino enviroment of the world-famous Caesars Palace. If you're feeling lucky, then you've come to the right place. Test your gambling prowess with 19 games of chance including: Craps, Blackjack, Rouulett, Slotts, Video Poker, Mini-Baccarat, Keno and Poker Challenge.</desc>
+		<releasedate>19990701T000000</releasedate>
+		<developer>Runecraft</developer>
+		<publisher>Interplay</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Caesars Palace II (USA, Europe).jpg</image>
+		<video>./snaps/Caesars Palace II (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Cannon Fodder (USA) (En,Fr,De,Es,It).zip</path>
+		<name>Cannon Fodder</name>
+		<sortname />
+		<desc>Guide a team of up to four soldiers through 72 levels of combat in this innovative top-down action/strategy hybrid, best thought of as Lemmings crossed with Commando crossed with Dune 2. The characters are controlled indirectly using the mouse, as you activate each soldier or group of them by highlighting them, click the left button to move them to a particular spot, and the right button for them to fire guns at an enemy. You can also pick up grenades, which can be used to destroy groups of enemies or buildings (by pressing both buttons at once). Each mission has a specific objective, and some feature vehicles such as tanks to make things easier.</desc>
+		<rating>0.7</rating>
+		<releasedate>20001205T000000</releasedate>
+		<developer>Sensible Software</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Cannon Fodder (USA) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Cannon Fodder (USA) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Chessmaster (USA, Europe) (GB Compatible).zip</path>
+		<name>ChessMaster</name>
+		<sortname />
+		<desc>Prepare to challenge the longest running console chess series, THE CHESSMASTER. In this Game Boy version of the game, you can choose to play at any one of 16 different skill levels, ranging from beginner to expert. For those just learning to play chess, take advantage of the Teaching mode that will show you all of the best moves to make. This game has a variety of options for chess fans, as you can set up the board however you like to simulate classic chess situations and challenges. You can even make your opponent?s pieces invisible for an added challenge. If you make a wrong move, the game will allow you to take back moves and try again. If you?d rather just see the outcome, merely ask THE CHESSMASTER and he?</desc>
+		<rating>0.65</rating>
+		<releasedate>19991115T000000</releasedate>
+		<developer>Park Place Productions</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Chessmaster (USA, Europe) (GB Compatible).jpg</image>
+		<video>./snaps/Chessmaster (USA, Europe) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Daffy Duck - Fowl Play (USA, Europe) (GB Compatible).zip</path>
+		<name>Daffy Duck: Fowl Play</name>
+		<sortname />
+		<desc>In Daffy Duck: Fowl Play, Daffy is in search of a hidden treasure that Bugs Bunny told him about. Unfortunately, the rest of the Looney Tunes cast is out to stop him. Fowl Play is a nine-level platforming/action game with some unusual mechanics. Daffy has a hunger meter which he must keep filled. You must find food throughout the levels and always hurry lest Daffy starve.</desc>
+		<rating>0.6</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Daffy Duck - Fowl Play (USA, Europe) (GB Compatible).jpg</image>
+		<video>./snaps/Daffy Duck - Fowl Play (USA, Europe) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Doug's Big Game (USA).zip</path>
+		<name>Doug's Big Game</name>
+		<sortname />
+		<desc>Doug makes his way to the videogame world with DOUG'S BIG GAME on Game Boy Color. You play Doug Funnie and his alter ego Quailman as you try to find your missing sweetheart, Patti Mayonnaise. You can also take on the role of your loyal pooch Porkchop, who also has own superhero alter ego: Quaildog. Solve the mystery of Patti's disappearance by searching the town of Bluffington for clues and write in your journal so you can refer to them later. Discover who is behind Patti's disappearance and her whereabouts by exploring 20 different environments from the popular TV show you're bound to bump into more than a few of the show's popular characters along the way.</desc>
+		<rating>0.6</rating>
+		<releasedate>20001215T000000</releasedate>
+		<developer>NewKidCo</developer>
+		<publisher>Magellan Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Doug's Big Game (USA).jpg</image>
+		<video>./snaps/Doug's Big Game (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Dropzone (Europe) (GB Compatible).zip</path>
+		<name>Dropzone</name>
+		<sortname />
+		<desc>Dropzone was the first game to propel Archer Maclean to stardom. The game, originally written for the 8-bit Ataris, is basically a Defender clone, but popular because it so closely recreates the gameplay of the original Defender, with its speedy scrolling and frantic gameplay. The player is a spaceman with a jet-pack, flying across a barren landscape whose skies are inhabited by a number of different aliens; from the simple Planter to the slowly advancing Blunder Storm or the quick, aggressive Nemesite. Planters and Nemesites will try to pickup the small men walking on the surface, who must then be rescued. You must shoot down the alien, while avoiding to hit the man.</desc>
+		<releasedate />
+		<developer>Arena Graphics</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Dropzone (Europe) (GB Compatible).jpg</image>
+		<video>./snaps/Dropzone (Europe) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Duke Nukem (USA) (En,Fr,De,Es,It).zip</path>
+		<name>Duke Nukem</name>
+		<sortname />
+		<desc>Duke Nukem is back in this self-titled game. Duke Nukem has become famous and because of that attracted the attention of the alien Zorgonites. The Zorgonites want to abduct Duke to let him lead their armies to conquer the universe. Duke Nukem on the Game Boy Color is a classical jump and run platform game where you can walk, shoot, jump, climb ladders, hang from ledges, crawl, but also mount vehicles such as a little tank and space ship. You have to avoid enemies and hazardous environments. Levels will bring you on board a Zorgonite spaceship, the moon, LA and other locations. The game features 12 usable weapons, including a flame thrower, bazooka and machine gun. Other power-ups include body armor, health packs and bonus lives.</desc>
+		<rating>0.7</rating>
+		<releasedate />
+		<developer>Torus Games</developer>
+		<publisher>GT Interactive</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Duke Nukem (USA) (En,Fr,De,Es,It).jpg</image>
+		<video>./snaps/Duke Nukem (USA) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game>
+		<path>./Dukes of Hazzard, The - Racing for Home (USA).zip</path>
+		<name>Dukes of Hazzard: Racing for Home, The</name>
+		<sortname />
+		<desc>The Dukes of Hazzard is an action and racing game on Gameboy. You find yourself at the helm of the famous General Lee and embark on a chase with Rosco P. Coltrane who is determined to get his hands on the Dukes. 27 missions and 9 different terrains including Hazzard County are waiting for you.</desc>
+		<rating>0.6</rating>
+		<releasedate>20001107T000000</releasedate>
+		<developer>Spellbound</developer>
+		<publisher>SouthPeak Games</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Dukes of Hazzard, The - Racing for Home (USA).jpg</image>
+		<video>./snaps/Dukes of Hazzard, The - Racing for Home (USA).mp4</video>
+	</game>
+	<game>
+		<path>./F1 World Grand Prix II for Game Boy Color (USA) (En,Fr,De,Es).zip</path>
+		<name>F1 World Grand Prix II for Game Boy Color</name>
+		<sortname />
+		<desc>F1 World Grand Prix II is a formula one racing game for the Game Boy Color. Unlike the Nintendo 64 title of the same name, it features the FIA license for the '99 season with all drivers, teams and tracks that come along with said license. Unlike both the Nintendo 64 and Dreamcast version the Game Boy Color version is completely in 2D, just like its predecessor.</desc>
+		<rating>0.65</rating>
+		<releasedate>20000224T000000</releasedate>
+		<developer>ITL</developer>
+		<publisher>Konami</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/F1 World Grand Prix II for Game Boy Color (USA) (En,Fr,De,Es).jpg</image>
+		<video>./snaps/F1 World Grand Prix II for Game Boy Color (USA) (En,Fr,De,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Formula One 2000 (USA).zip</path>
+		<name>Formula One 2000</name>
+		<sortname />
+		<desc>The action in Formula One 2000 takes place at the seventeen circuits that constitute this season's championship including, for the first time in many years, the legendary Indianapolis track in America. Will the 'Flying Finn' Mika Hakkinen become only the second driver in history to win a third consecutive Formula One world drivers' championship or will 'Mr Cool' Michael Schumacher stop him in his tracks? Or can rookie Jenson Button defy all expectations and take the championship in his first season? Only You, the Player, can decide!</desc>
+		<rating>0.65</rating>
+		<releasedate>20001218T000000</releasedate>
+		<developer>Tarantula Studios</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Formula One 2000 (USA).jpg</image>
+		<video>./snaps/Formula One 2000 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Frogger 2 (USA) (Rev 1).zip</path>
+		<name>Frogger 2</name>
+		<sortname />
+		<desc>It's fast and furious action from start to finish for Frogger and his new friend, Lillie Frog. Help them save the Frog Babies from Swampy the crocodile.</desc>
+		<rating>0.6</rating>
+		<releasedate>20000923T000000</releasedate>
+		<developer>Game Titan</developer>
+		<publisher>Majesco</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Frogger 2 (USA) (Rev 1).jpg</image>
+		<video>./snaps/Frogger 2 (USA) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Grinch, The (USA).zip</path>
+		<name>Grinch, The</name>
+		<sortname />
+		<desc>As the Grinch, you're going to make sure that Whoville will NOT celebrate Christmas this year. Your missions, should you choose to accept them, includes breaking presents, build some of your nasty gadgets (rotten egg launcher, slime shooter), messing with the mail and more. Explore four large environments in search of your blueprints for your "weapons". Even summon your pal Max for a little assistance at times.</desc>
+		<rating>0.65</rating>
+		<releasedate>20001121T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Grinch, The (USA).jpg</image>
+		<video>./snaps/Grinch, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Harvest Moon 3 GBC (USA).zip</path>
+		<name>Harvest Moon 3 GBC</name>
+		<sortname />
+		<desc>After much acclaim for your past farming accomplishments (as part of the previous Harvest Moon titles on GBC), you are asked by a young girl to help her get her farm up and running. The farm, situated on an island, needs plenty of work, so you need all your skills to get things working correctly. Your many tasks range from tending to the farm animals, keeping an eye on the budget while purchasing goods (food, water, mechanical items, etc) at the local stores, and so forth. And although the main aim is to build and maintain the farm, there are plenty of opportunities to take care of yourself (go to the movies, buy pets, find a girlfriend/boyfriend).</desc>
+		<rating>0.7</rating>
+		<releasedate>20011114T000000</releasedate>
+		<developer>Victor Interactive</developer>
+		<publisher>Natsume</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Harvest Moon 3 GBC (USA).jpg</image>
+		<video>./snaps/Harvest Moon 3 GBC (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Indiana Jones and the Infernal Machine (USA, Europe) (En,Fr,De).zip</path>
+		<name>Indiana Jones and the Infernal Machine</name>
+		<sortname />
+		<desc>Whereas the other versions of Indiana Jones' first game in nearly a decade are 3D action adventures inspired by Tomb Raider, this edition is different, being viewed from above in pseudo-3D with multi-directional movement. The plot involves Communists attempting to rebuild an ancient time machine, whose pieces are spread across 19 levels. There are largely-switch-based puzzles to solve on each one, and different routes through to completing them. Indy is variously armed with a pistol, machine gun, grenades and his ubiquitous whip. Each level has a password, and ends with a clip advancing the story. As well as Soviets, your foes include scorpions, snakes and jellyfish.</desc>
+		<rating>0.7</rating>
+		<releasedate>20010427T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>THQ</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Indiana Jones and the Infernal Machine (USA, Europe) (En,Fr,De).jpg</image>
+		<video>./snaps/Indiana Jones and the Infernal Machine (USA, Europe) (En,Fr,De).mp4</video>
+	</game>
+	<game>
+		<path>./Jeremy McGrath Supercross 2000 (USA, Europe).zip</path>
+		<name>Jeremy McGrath Supercross 2000</name>
+		<sortname />
+		<desc>This to-go version of Jeremy McGrath Supercross 2000 is a top-down racing game, featuring two game modes (championship and arcade), 6 bikers and a variety of tracks in different scenarios. Season mode features 3 championships, each with three stages composed of four races. The goal is to win all 9 gold medals by obtaining more points than the competition. Arcade mode is the same, except all championships and stages, as well as Jeremy McGrath, are unlocked from the start.</desc>
+		<rating>0.75</rating>
+		<releasedate />
+		<developer>M4 Ltd.</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Jeremy McGrath Supercross 2000 (USA, Europe).jpg</image>
+		<video>./snaps/Jeremy McGrath Supercross 2000 (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Klax (USA, Europe).zip</path>
+		<name>Klax</name>
+		<sortname />
+		<desc>An action/puzzle game, the object is to catch assorted color falling tiles and create rows, columns, or diagonals of a single color. Each level requires a different pattern to be made, and the tiles fall faster, more at a time, and in an increasing number of colors as the game progresses.</desc>
+		<rating>1</rating>
+		<releasedate />
+		<developer>Atari</developer>
+		<publisher>Midway</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Klax (USA, Europe).jpg</image>
+		<video>./snaps/Klax (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./LEGO Racers (USA) (En,Fr,Es).zip</path>
+		<name>LEGO Racers</name>
+		<sortname />
+		<desc>For the first time, build your favourite Lego carts on your PC using all of the blocks that are available in real life, thanks to the detailed Creation modes. You can then race your beast against other lego built characters in 12 special themed tracks, based on the Themed Lego kits (including Pirates &amp; Egypt and much more). Race your friend in split screen mode, or go straight on for the ultimate Lego racing trophy.</desc>
+		<rating>0.3</rating>
+		<releasedate />
+		<developer>Climax Studios</developer>
+		<publisher>Lego Media</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/LEGO Racers (USA) (En,Fr,Es).jpg</image>
+		<video>./snaps/LEGO Racers (USA) (En,Fr,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Lion King, The - Simba's Mighty Adventure (USA, Europe).zip</path>
+		<name>Disney's The Lion King: Simba's Mighty Adventure</name>
+		<sortname />
+		<desc>As the young lion prince Simba, you'll grow to discover what it means to be rightful ruler of the Pride Lands. But first you'll have to outrun a wildebeest stampede, escape a wildfire and more! There's never a dull moment when you're King of the Beasts!</desc>
+		<rating>0.8</rating>
+		<releasedate>20010309T000000</releasedate>
+		<developer>Torus Games</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Lion King, The - Simba's Mighty Adventure (USA, Europe).jpg</image>
+		<video>./snaps/Lion King, The - Simba's Mighty Adventure (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Little Mermaid II, The - Pinball Frenzy (USA) (En,Fr,De,Es,It) (Rumble Version).zip</path>
+		<name>Disney's The Little Mermaid II: Pinball Frenzy</name>
+		<sortname />
+		<desc>To coincide with the release of another Little Mermaid video, Disney has also released another Little Mermaid videogame. LITTLE MERMAID 2 PINBALL FRENY for the Game Boy Color is just what the name implies, a frenzied pinball game. There are two different boards that can be played on, each with several variations of their own. The Ariel board contains paddles that are put at varying places to throw off people too used to traditional pinball machines, and it makes them learn some new strategies. The Melody board has many different ramps and drop spots to create its own unique atmosphere. Each board contains eight mini-games that differ from simple actions to more complex objectives.</desc>
+		<rating>0.7</rating>
+		<releasedate>20000924T000000</releasedate>
+		<developer>Left Field Productions</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Little Mermaid II, The - Pinball Frenzy (USA) (En,Fr,De,Es,It) (Rumble Version).jpg</image>
+		<video>./snaps/Little Mermaid II, The - Pinball Frenzy (USA) (En,Fr,De,Es,It) (Rumble Version).mp4</video>
+	</game>
+	<game>
+		<path>./Little Nicky (USA).zip</path>
+		<name>Little Nicky</name>
+		<sortname />
+		<desc>Satan wants to appoint a new ruler in Hell. However, nobody meets his high standards, so the dark prince must remain atop Hell's throne. Displeased by their father's lack of confidence in them, Adrian and Cassius leave Hell and go to Earth to create a new Hell. Since Satan has no time to deal with Adrian and Cassius, he sends his other son Nicky to stop them. You take the role of Nicky as he travels through 24 levels, where he must collect a certain number of items or destroy demons. However, the key to making it through all of the levels is Nicky's power. When Nicky gets close to fire, his powers increase. He will run faster, jump higher, and spit fireballs.</desc>
+		<releasedate />
+		<developer>Digital Eclipse</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Little Nicky (USA).jpg</image>
+		<video>./snaps/Little Nicky (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Looney Tunes - Carrot Crazy (USA) (En,Fr,Es) (GB Compatible).zip</path>
+		<name>Looney Tunes: Carrot Crazy</name>
+		<sortname />
+		<desc>Looney Tunes: Carrot Crazy is a side scrolling platform game featuring famous Warner Bros. cartoon characters Bugs Bunny and Lola Bunny. After finding out all carrots have been stolen from their garden, as Bugs or Lola Bunny the player will have to investigate. Bugs will have to explore the Warner Bros. studio to find out who stole the carrots. Like many platform games you walk from left to right through a level. There are five different worlds which represent the surroundings of characters Yosemite Sam, Marvin the Martian, Daffy Duck, Elmer Fudd and the Tasmanian Devil. Each world is divided into several levels. The object of each level is to find all film clapboards present.</desc>
+		<rating>0.85</rating>
+		<releasedate>19990118T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Looney Tunes - Carrot Crazy (USA) (En,Fr,Es) (GB Compatible).jpg</image>
+		<video>./snaps/Looney Tunes - Carrot Crazy (USA) (En,Fr,Es) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Lucky Luke (USA) (En,Fr,De,Es).zip</path>
+		<name>Lucky Luke</name>
+		<sortname />
+		<desc>You play as Lucky Luke, lonesome cowboy, who draws his gun faster than his shadow. In a received telegram you read that Jesse James, Billy the Kid, Pat Poker, and The Dalton Brothers have escaped from jail. You as a good cowboy and law keeper have to catch them and return them back, finishing 12 levels of the game. Players guide Luke through levels by walking, jumping, climbing and ducking. There are also objects to collect such as dynamite (which can be used to reveal hidden paths), revolver barrels, sheriff stars and other useful items. You also have to use collected items to get past a certain obstacle, such as to show a red cloth to a bull, feed a dog with a bone, and so on.</desc>
+		<rating>0.7</rating>
+		<releasedate>19990709T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Lucky Luke (USA) (En,Fr,De,Es).jpg</image>
+		<video>./snaps/Lucky Luke (USA) (En,Fr,De,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Magical Tetris Challenge (USA).zip</path>
+		<name>Disney's Magical Tetris Challenge</name>
+		<sortname />
+		<desc>Magical Tetris Challenge mixes the well known Tetris brand with the characters and worlds of Disney. The original Tetris is on offer through the usual endurance challenge or the new story mode, where you choose one of the many well known Disney characters (Mickey, Minnie, Donald, and Goofy) and take on the bad guys in a game of Tetris to save the day. A 2-player mode is also included.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000217T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Magical Tetris Challenge (USA).jpg</image>
+		<video>./snaps/Magical Tetris Challenge (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Marvin Strikes Back! (USA) (En,Fr,Es).zip</path>
+		<name>Marvin Strikes Back!</name>
+		<sortname />
+		<desc>Looney Tunes: Marvin Strikes Back! (Looney Tunes Collector: Martian Revenge in Europe) is a Looney Tunes game produced by Infogrames for the Game Boy Color in 2000. It is both a direct and spiritual sequel to Looney Tunes Collector: Alert!, as both share near-identical gameplay. Its name could be a reference to Star Wars Episode V: The Empire Strikes Back. The game takes place after the events of Looney Tunes Collector: Alert!. Marvin the Martian sees a video of himself played by Porky Pig and Daffy Duck beating him in a humiliating way. Marvin is infuriated with this and together with his dog K-9 set off to get revenge on the Earth.</desc>
+		<rating>0.8</rating>
+		<releasedate>20001123T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Inforgrames</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Marvin Strikes Back! (USA) (En,Fr,Es).jpg</image>
+		<video>./snaps/Marvin Strikes Back! (USA) (En,Fr,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Metal Walker (USA) (GB Compatible).zip</path>
+		<name>Metal Walker</name>
+		<sortname />
+		<desc>Metal Walker is a mechanical take on Pokémon, where the story takes place in the future on an island where a mysterious element called core has been discovered. This "core" element was used to create a highly advanced race of robots called Metal Walkers that are used for both labor and protection for the people of the island. One day, however, a gang of robots decide to rebel and end up killing a very prominent member of the island. The player then takes control of the son, Tetsuo, with the help of Dr. Hawk and Tetsuo's Metal Walker in an attempt to hunt down the rebel robots and avenge his father's death.</desc>
+		<rating>0.7</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Metal Walker (USA) (GB Compatible).jpg</image>
+		<video>./snaps/Metal Walker (USA) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Micro Machines 1 and 2 - Twin Turbo (USA, Europe).zip</path>
+		<name>Micro Machines 1 and 2: Twin Turbo</name>
+		<sortname />
+		<desc>Tiny cars race through the house in MICRO MACHINES 1 AND 2: Twin Turbo. Take 15 vehicles including jeeps, helicopters, tanks, speedboats, and sports cars onto 60 different tracks like the breakfast table, the garden, and the pool table. Each track has its own obstacles and hazards, so keep your eyes peeled. For example, watch out for the rubber ducks, soapsuds, and whirlpool drain in the bathtub. The biggest hazard is falling off of the track, which costs time and puts you way behind. As an added bonus, there is a Two-Player mode that can be played on one Game Boy: one player uses direction pad and the other uses the buttons to steer his vehicle left or right, the goal being to push the opposition off of the track.</desc>
+		<rating>0.7</rating>
+		<releasedate />
+		<developer>Codemasters</developer>
+		<publisher>THQ</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Micro Machines 1 and 2 - Twin Turbo (USA, Europe).jpg</image>
+		<video>./snaps/Micro Machines 1 and 2 - Twin Turbo (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Millennium Winter Sports (USA).zip</path>
+		<name>Millennium Winter Sports</name>
+		<sortname />
+		<desc>MILLENNIUM WINTER SPORTS allows you to experience the thrill of victory and the agony of defeat in eight winter sports. Try to get through the course as fast a possible in the bobsled; out-skate your opponent to the finish line in speed skating; see who can jump the farthest in two separate ski-jumping events; see if you can pull off twists and flips while flying through the air in the aerials competition; strap on the skis and navigate the downhill course; or strap on a snowboard to navigate the giant slalom course. For the ultimate in snowboarding action, try to impress the judges with your performance on the halfpipe.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Millennium Winter Sports (USA).jpg</image>
+		<video>./snaps/Millennium Winter Sports (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Montezuma's Return! (USA) (En,Es) (GB Compatible).zip</path>
+		<name>Montezuma's Return!</name>
+		<sortname />
+		<desc>You are out to find the Aztec treasure in MONTEZUMA'S RETURN. The only skills you have are wits and your jumping ability. You must navigate 150 screens, each of which is constructed of platforms, ladders, poles, and rope. Use the elements of the screen to collect all of the treasure and move on to the next area. However, there are a large number of enemies out to stop you including rolling skulls, spiders, snakes, Aztec guards, scorpions, and spikes. Touch any of these hazards and it's Game Over. Luckily, you can pick up new abilities along the way, like walking through enemies and killing an attacker with one touch. Try to collect all of the Aztec's treasure that you can in MONTEZUMA'S RETURN.</desc>
+		<rating>0.7</rating>
+		<releasedate>19981201T000000</releasedate>
+		<developer>Tarantula Studios</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Montezuma's Return! (USA) (En,Es) (GB Compatible).jpg</image>
+		<video>./snaps/Montezuma's Return! (USA) (En,Es) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Motocross Maniacs 2 (USA).zip</path>
+		<name>Motocross Maniacs 2</name>
+		<sortname />
+		<desc>Motocross Maniacs 2 is the follow up to the Game Boy title Motocross Maniacs. Much like in the previous iteration of the game, the aim is to ride a dirt-bike through side-scrolling courses filled with loops, jumps, ramps and hills. There are many bonus items to help the player along the way, such as nitro boosts and super suspension. The player has the option to play against a computer player or a friend (via Link Cable), as well as Time Trial or Championship. There is also a level editor and room for three saved custom tracks made by the player.</desc>
+		<rating>0.7</rating>
+		<releasedate>19990914T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Motocross Maniacs 2 (USA).jpg</image>
+		<video>./snaps/Motocross Maniacs 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Mr. Nutz (USA) (En,Fr,Es).zip</path>
+		<name>Mr. Nutz</name>
+		<sortname />
+		<desc>Yeti wants to rule over the entire world, so he is using his magical powers to turn it into a large mass of ice. There is only one person who can save the day: Mr. Nutz the Squirrel. You take control of Mr. Nutz as he runs, jumps, swims, and flies through six different worlds. Along the way, you must collect acorns, coins, extra lives, and extra energy. Getting through the levels and collecting the goodies is no walk in the park, as there are plenty of bad guys waiting to stop you. Luckily, Mr. Nutz can dispose of them by jumping on their heads or whipping them with his giant tail. Will you be able to find all of the secrets and defeat Yeti in MR. NUTZ?</desc>
+		<rating>0.5</rating>
+		<releasedate />
+		<developer>Planet Interactive</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Mr. Nutz (USA) (En,Fr,Es).jpg</image>
+		<video>./snaps/Mr. Nutz (USA) (En,Fr,Es).mp4</video>
+	</game>
+	<game>
+		<path>./MTV Sports - Skateboarding featuring Andy MacDonald (USA, Europe).zip</path>
+		<name>MTV Sports: Skateboarding featuring Andy MacDonald</name>
+		<sortname />
+		<desc>MTV Sports: Skateboarding Featuring Andy Macdonald is an isometric skateboarding game for the Game Boy Color. You can choose to play 4 different skateboarders, including Andy Macdonald. You can grind objects, perform ollies, grabs and 360s. There are 18 different cities to stunt around in. You score points through performing tricks and achieving objectives such as finding MTV icons. Unlocked cities can be played in at will in the Free-Skate mode.</desc>
+		<rating>0.5</rating>
+		<releasedate>20000913T000000</releasedate>
+		<developer>Darkblack Ltd</developer>
+		<publisher>THQ</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/MTV Sports - Skateboarding featuring Andy MacDonald (USA, Europe).jpg</image>
+		<video>./snaps/MTV Sports - Skateboarding featuring Andy MacDonald (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Mummy, The (USA).zip</path>
+		<name>Mummy, The</name>
+		<sortname />
+		<desc>Rick O'Connell accidentally discovers Hamanaptra, the Egyptian city of the dead. When he returns with Egyptologist Evelyn Carnahan and her brother Jonathan they awaken Imhotep, a priest that was cursed and mummified alive. Now, Rick and his companions must stop Imhotep from destroying the world. In each of the levels, you (as Rick) must gather the six pieces of the star key. However, there are a large number of enemies that will get in the way. Luckily, you can use a huge number of weapons including a machete, dual pistols, a shotgun, a Lewis machine gun, dynamite, and magical amulets to get rid of any enemy.</desc>
+		<rating>0.7</rating>
+		<releasedate>20001201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Mummy, The (USA).jpg</image>
+		<video>./snaps/Mummy, The (USA).mp4</video>
+	</game>
+	<game>
+		<path>./NBA Jam 99 (USA, Europe) (GB Compatible).zip</path>
+		<name>NBA Jam 99</name>
+		<sortname />
+		<desc>NBA Jam returns, this time removed of its flashy jams and flaming basketballs, replaced with a full simulation of basketball complete with all teams and players of the 99 season, full create-a-player and create-a-team modes, season, exhibition and shoot out modes. Total team management is also included, with the ability to trade, release and sign new players as well as scouting reports. 4 player multiplayer is also supported.</desc>
+		<rating>0.5</rating>
+		<releasedate>19990303T000000</releasedate>
+		<developer>Torus Games</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/NBA Jam 99 (USA, Europe) (GB Compatible).jpg</image>
+		<video>./snaps/NBA Jam 99 (USA, Europe) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./NHL Blades of Steel (USA).zip</path>
+		<name>NHL Blades of Steel</name>
+		<sortname />
+		<desc>Strap on your skates and hit the ice with NHL BLADES OF STEEL. Play with or against all of the teams in the NHL in the Exhibition mode, where you can get your bearings and learn winning tactics. Then, put those tactics to the test in the Season mode and try to win the Stanley Cup. If you don't like the ups and downs of Season play, go straight to the Playoffs. And when your friends question your dominance in the rink, go after them in the Two-Player link cable option. If the game ends in a tie, you will have to try to win it all in a shootout. No matter what mode you play, you must win the fights because if you lose, you go to the box.</desc>
+		<releasedate />
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/NHL Blades of Steel (USA).jpg</image>
+		<video>./snaps/NHL Blades of Steel (USA).mp4</video>
+	</game>
+	<game>
+		<path>./NHL Blades of Steel 2000 (USA).zip</path>
+		<name>NHL Blades of Steel 2000</name>
+		<sortname />
+		<desc>Try to win Lord Stanley's Cup in NHL BLADES OF STEEL 2000. You can play with or against any NHL team and use the Exhibition mode to learn the controls and practice your skills. When you want to test your tactics, enter the race for the Stanley Cup in the Season mode. If getting through a Season is a bigger time investment than you want, just skip it and go straight to the Playoffs. When a friend challenges your domination of the rink, put him in his place with the link cable Two-Player mode. No matter what mode you play, you will have to win the game in a shootout if it's tied at the end of regulation. And if you get into a fight and lose, you will have to sit in the penalty box.</desc>
+		<releasedate />
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/NHL Blades of Steel 2000 (USA).jpg</image>
+		<video>./snaps/NHL Blades of Steel 2000 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version).zip</path>
+		<name>Perfect Dark</name>
+		<sortname />
+		<desc>Joanna Dark is about to become a full-fledged agent of the Carrington Institute. Before she does, though, she has one final field test to complete - an actual mission in the depths of the South American jungle. Joanna must infiltrate a hidden cyborg manufacturing facility. Along the way, she will have her first encounter with the nefarious dataDyne corporation. Perfect Dark is a prequel to the Nintendo 64 game of the same name. Players assume the role of Joanna Dark, just before her induction into the Carrington Institute. The game plays from a top-down perspective, and you battle enemies with a variety of high-tech weaponry, from handguns to rocket launchers.</desc>
+		<rating>0.55</rating>
+		<releasedate>20000828T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Rareware</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1-2</players>
+		<image>./boxart/Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version).jpg</image>
+		<video>./snaps/Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version).mp4</video>
+	</game>
+	<game>
+		<path>./Polaris SnoCross (USA) (Rumble Version).zip</path>
+		<name>Polaris SnoCross</name>
+		<sortname />
+		<desc>If it doesn't say Polaris it ain't SnoCross! Join the Polaris Snowmobile Racing Team and dare to tame the mountain! Pull off a variety of insane tricks as you master the challenges of monster jumps, hidden pitfalls, shortcuts, and treacherous terrain. Race against fiercely competitive AI characters, or take on your own friends in multi-player mode. Feel your customized Polaris sled move, twist and turn just like a real snowmobile!</desc>
+		<releasedate />
+		<developer>Vicarious Vision</developer>
+		<publisher>Vatical Entertainment</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Polaris SnoCross (USA) (Rumble Version).jpg</image>
+		<video>./snaps/Polaris SnoCross (USA) (Rumble Version).mp4</video>
+	</game>
+	<game>
+		<path>./Prince of Persia (USA, Europe) (En,Fr,De,Es,It) (GB Compatible).zip</path>
+		<name>Prince of Persia</name>
+		<sortname />
+		<desc>The Grand Vizier Jaffar has thrown you into a dark dungeon and plans to marry the girl of your dreams in an hour. You're not going to let that happen are you? Try to escape from the dungeon, take out Jaffar's guards, find your way through the Sultan's palace and defeat Jaffar himself. Now go, you've got 60 minutes! Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must avoid deadly traps, solve some simple puzzles and engage in sword fights with the guards. The player has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. An especially noteworthy aspect of the game is the very fluent animation of your character.</desc>
+		<rating>0.7</rating>
+		<releasedate />
+		<developer>Red Orb Entertainment</developer>
+		<publisher>Red Orb Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Prince of Persia (USA, Europe) (En,Fr,De,Es,It) (GB Compatible).jpg</image>
+		<video>./snaps/Prince of Persia (USA, Europe) (En,Fr,De,Es,It) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Pro Darts (USA).zip</path>
+		<name>Pro Darts</name>
+		<sortname />
+		<desc>PRO DARTS brings the greatest of all British pub games to the Game Boy Color. You can play as eight different characters (two have to be unlocked), each with unique ratings in strength, nerve, and accuracy. Once you have selected your character, use the Practice mode to learn the rules of the six different games Cricket, 301, 301 Double Out, Around the World, 501, and 501 Double Out. When you are ready for some competition, you can challenge the computer to a game on three different difficulty settings. If your friends want to get in on some of the action, you can challenge them to a game without having to use a link cable. No matter how you play, you must aim the dart and use a power meter to send it flying.</desc>
+		<releasedate>20020207T000000</releasedate>
+		<developer>Vicarious Vision</developer>
+		<publisher>Vatical Entertainment</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Pro Darts (USA).jpg</image>
+		<video>./snaps/Pro Darts (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Pro Pool (USA) (En,Fr,De).zip</path>
+		<name>Pro Pool</name>
+		<sortname />
+		<desc>Pro Pool is a Pool simulation game on the Game Boy Color. You can play a single game against the computer or a friend using a link cable, or you can start hustling. In the hustle mode you start with 100 dollars and have to play games to earn money. With more money you will gain access to bigger places with tougher competitors where more money can be earned. With enough money you can start your own pool bar. The game allows you to play a variety of pool games such as 8 Ball, 9 Ball, 6 Ball, 3 Ball, Straight pool and Speed pool. There are 64 computer opponents to play against.</desc>
+		<rating>0.65</rating>
+		<releasedate>20000824T000000</releasedate>
+		<developer>Blade Interactive Studios</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Pro Pool (USA) (En,Fr,De).jpg</image>
+		<video>./snaps/Pro Pool (USA) (En,Fr,De).mp4</video>
+	</game>
+	<game>
+		<path>./Project S-11 (USA).zip</path>
+		<name>Project S-11</name>
+		<sortname />
+		<desc>When a vicious crew of aliens decides to hone in on Earth and do some damage, you're the planet's only hope for salvation. You'd better be in top form as you command a killer spacecraft out into orbit in hopes of rescuing humanity from unthinkable misery. Each of the eight stages in PROJECT S-11 poses unique challenges, and each setting is more harrowing than the last. Although you're going it alone in this one, there are four different types of power-ups hidden throughout the game to give the boost you'll need to survive and wipe out the terrifying extra-terrestrials.</desc>
+		<releasedate />
+		<developer>Paragon 5</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Project S-11 (USA).jpg</image>
+		<video>./snaps/Project S-11 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Puzzle Master (USA) (GB Compatible).zip</path>
+		<name>Puzzle Master</name>
+		<sortname />
+		<desc>The Goblin King has corrupted the elements and is flooding the world, and it's up to you to save it. Groups of four elements fire, water, stone, and wood fall from the sky. You must position the elements in such a way that three of the same type touch each other, and are thus eliminated. However, there are some complicating factors: monsters will appear on the play field and will throw pollution blocks that cannot be removed. Further, each round has some tasks which range from watering a flowerpot to triggering a drawbridge that will eliminate several rows which need to be completed.</desc>
+		<releasedate />
+		<developer>Metro 3D</developer>
+		<publisher>Metro 3D</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Puzzle Master (USA) (GB Compatible).jpg</image>
+		<video>./snaps/Puzzle Master (USA) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Q-bert (USA).zip</path>
+		<name>Q*bert</name>
+		<sortname />
+		<desc>The arcade hit Q*BERT comes to the Game Boy Color. The player takes control of an orange creature that hops around a course built of blocks. The goal is to change all of the blocks to the appropriate color by hopping on them. As the game progresses, blocks will require multiple jumps. Complicating the process, a snake that wants to destroy you hops around the course, and there are two balls that go down parts of the course undoing all of your work. There are more than 40 levels to complete with several that are larger than one screen. Since all of the action in the game moves in diagonals, there are two different control schemes to maximize your fun.</desc>
+		<releasedate />
+		<developer>Pipe Dream Interactive</developer>
+		<publisher>Hasbro Interactive</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Q-bert (USA).jpg</image>
+		<video>./snaps/Q-bert (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Rampart (USA).zip</path>
+		<name>Rampart</name>
+		<sortname />
+		<desc>Defend yourself! The classic combination strategy/puzzle game is guaranteed to be addictive! First, you must build walls around your towers using pieces that fill the spaces. Then, place cannons within the castle walls in preparation for the all-out war that is to follow! Compete against the computer or challenge another player to the lightning-fast action of Rampart! - Unique combination of puzzles and strategy! - 1 or 2 players via Game Link cable! - Thrilling head-to-head competition!</desc>
+		<rating>0.6</rating>
+		<releasedate>19991117T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Midway</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Rampart (USA).jpg</image>
+		<video>./snaps/Rampart (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Roland Garros French Open (Europe) (En,Fr,De,Es,It,Nl).zip</path>
+		<name>Roland Garros French Open</name>
+		<sortname />
+		<desc>Roland Garros French Open is the only appearance of the franchise on the Game Boy Color. Less of a serious simulation of tennis than other versions, the handheld edition features cartoony 2D graphics and outrageous court locations. All-in-all, the game includes eight different players and twelve different tournaments. Only five players and four tournaments can be selected from the start, the others are unlocked by winning events. The starting tournaments are realistic grand slam events: the Roland Garros French Open (the only one with a license), the English Open (i.e. Wimbledon), the US Championship and the Australian Cup, on clay, grass or turf.</desc>
+		<releasedate>20000525T000000</releasedate>
+		<developer>Cryo Interactive</developer>
+		<publisher>Carapace</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Roland Garros French Open (Europe) (En,Fr,De,Es,It,Nl).jpg</image>
+		<video>./snaps/Roland Garros French Open (Europe) (En,Fr,De,Es,It,Nl).mp4</video>
+	</game>
+	<game>
+		<path>./Spider-Man (USA, Europe).zip</path>
+		<name>Spider-Man</name>
+		<sortname />
+		<desc>Trouble's ahead for Peter Parker in Spider-Man's first appearance on the Game Boy Color: an explosion at Dr. Curt Conners' lab will lead him into a plot planned by a mysterious villain, involving the alien symbiote and several of Spidey's arch enemies. The game is a platformer, divided into several large levels. Progression is not strictly linear: some of the levels can be freely explored in any order before continuing with the story. Locations include the city, subway and sewers, the docks and a warehouse. The levels are usually crawling with enemies that Spider-Man can beat up with kicks and punches. Defeating them will eventually result in him gaining levels, becoming stronger and learning some new fighting moves.</desc>
+		<rating>0.6</rating>
+		<releasedate>20000915T000000</releasedate>
+		<developer>Vicarious Vision</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Spider-Man (USA, Europe).jpg</image>
+		<video>./snaps/Spider-Man (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Tasmanian Devil - Munching Madness (USA) (En,Fr,De,Es,It) (GB Compatible).zip</path>
+		<name>Tasmanian Devil: Munching Madness</name>
+		<sortname />
+		<desc>TAZ MUNCHING MADNESS features Taz in his first adventure on Game Boy Color. Playing the game gives the player the same feel as watching the cartoon show with Taz's signature twist and amusing moments. Presented in a 2D look, the graphics, and scenes on every level have a colorfully appealing view from the top down over the game play. Taz must embark on a mission to save his friend, Wendal T. Wolf from Bull Gator and his crony, Axl. Taz ventures away from his home in Tasmania and must pass through the Amazon Jungle, Amsterdam, Switzerland, the Greek Islands, China, Australia, and more.</desc>
+		<rating>0.5</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>M4 Limited</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Tasmanian Devil - Munching Madness (USA) (En,Fr,De,Es,It) (GB Compatible).jpg</image>
+		<video>./snaps/Tasmanian Devil - Munching Madness (USA) (En,Fr,De,Es,It) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./TOCA Touring Car Championship (USA, Europe).zip</path>
+		<name>TOCA Touring Car Championship</name>
+		<sortname />
+		<desc>Game Boy Color installment in Codemasters' TOCA racing franchise. Fight the pack to gain position without losing control of your car as you race on nine different original tracks of the British Touring Car Championships (TOCA). The developers worked hard to program real-world physics into the gameplay. Though running on the Game Boy Color hardware, the game manages to display up to eight cars simultaneously onscreen. Features include eight different game modes, such as single race, championship, time trial, and party play.</desc>
+		<rating>0.75</rating>
+		<releasedate />
+		<developer>Codemasters</developer>
+		<publisher>THQ</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/TOCA Touring Car Championship (USA, Europe).jpg</image>
+		<video>./snaps/TOCA Touring Car Championship (USA, Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Top Gear Pocket (USA) (Rumble Version).zip</path>
+		<name>Top Gear Pocket</name>
+		<sortname />
+		<desc>Rally race through the city streets, grasslands and sandy terrain against eight other racers (or a friend) to the finish line. The higher you rank at the end of each race, the more new tracks you open up (including tracks full of ice). Time trial mode also allows you to test the time on each track. 12 cars are available to drive, each with different handling and speed abilites and you can choose to race each car either with manual or automatic gearbox changes. The in-built rumble feature of the cart also vibrates to each crash and burn you make.</desc>
+		<rating>0.6</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Vision Works</developer>
+		<publisher>Kemco</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Top Gear Pocket (USA) (Rumble Version).jpg</image>
+		<video>./snaps/Top Gear Pocket (USA) (Rumble Version).mp4</video>
+	</game>
+	<game>
+		<path>./Top Gear Pocket 2 (USA).zip</path>
+		<name>Top Gear Pocket 2</name>
+		<sortname />
+		<desc>Another round of Top Gear rally action on the GBC. On this occasion, depending on where you finish each race, you are awarded points. These points then go towards improving the stats of the rally car you are using (speed, braking, acceleration and top speed). Championships are split into seasons, each harder then the last. You can opt to change the weather conditions (day, night, sunny, rain, snow) or practise on the track to get used to the corners and timing. You can also play against a friend in two player mode.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000130T000000</releasedate>
+		<developer>Vision Works</developer>
+		<publisher>Kemco</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<image>./boxart/Top Gear Pocket 2 (USA).jpg</image>
+		<video>./snaps/Top Gear Pocket 2 (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Trouballs (USA).zip</path>
+		<name>Trouballs</name>
+		<sortname />
+		<desc>If you're ready for explosive, mind-twisting puzzle-action mayhem then grab a copy of TROUBALLS from Capcom. In this massively addictive game developed exclusively for the Game Boy Color, it's up to you to gain as many points as you can while the clock ticks down. Here's how it works: different colored balls are attached to moving gears; you rotate the gears in an attempt to get four balls of the same color aligned (in a 2x2 square grid at the bottom of the screen), which blows them to smithereens. This clears the stage and advances you to the next level. There's no time to rest though, as each successive round of sphere-blasting fun is more difficult than the last.</desc>
+		<rating>0.75</rating>
+		<releasedate />
+		<developer>Paragon Five, Inc.</developer>
+		<publisher>Capcom</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Trouballs (USA).jpg</image>
+		<video>./snaps/Trouballs (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Tweety's High-Flying Adventure (USA).zip</path>
+		<name>Tweety's High-Flying Adventure</name>
+		<sortname />
+		<desc>Are you ready to knock out some bad 'ol puttytats? You had better be ready for action if you want to survive the frantic, side-scrolling mayhem of TWEETY'S HIGH-FLYING ADVENTURE for the Game Boy Color. You play as the lovable Tweety Bird in an adventure to save an endangered orphanage. In an animated take on AROUND THE WORLD IN 80 DAYS, you travel to 10 different locales and collect pawprints from 80 cats spread across exotic foreign cities. You'll need to bop these kitty cats with weapons and power-ups like spatulas, plunger guns, oil slicks, banana peels, and more. Just be careful to avoid chomping plants, squirmy worms, bugs, bees, and butterflies along the way.</desc>
+		<rating>0.75</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Tweety's High-Flying Adventure (USA).jpg</image>
+		<video>./snaps/Tweety's High-Flying Adventure (USA).mp4</video>
+	</game>
+	<game>
+		<path>./V-Rally - Edition 99 (USA) (En,Fr,Es).zip</path>
+		<name>V-Rally: Edition 99</name>
+		<sortname />
+		<desc>Get all the bumps, jumps, thrills, and spills of off-road rally racing in your hands with V-RALLY EDITION '99 for the Game Boy Color. Choose between four real-world rally cars: Peugeot 306 Maxi, the Mitsubishi Lancer WRC, V-Rally Ford Escort WRC, and Subaru Impreza WRC. Then race on 40 courses in exotic locations like Indonesia, Safari, Corsica, New Zealand, Alps, United Kingdom, Greece, Argentina, Italy, and Sweden. The terrain of each track has an effect on your car's performance, and you must be careful because snow, dirt, and asphalt all react differently. In addition to the terrain, keep an eye out for obstacles like rocks, oil slicks, hills, and jumps.</desc>
+		<rating>0.5</rating>
+		<releasedate>19990401T000000</releasedate>
+		<developer>Velez &amp; Dubail</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/V-Rally - Edition 99 (USA) (En,Fr,Es).jpg</image>
+		<video>./snaps/V-Rally - Edition 99 (USA) (En,Fr,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Wings of Fury (USA) (GB Compatible).zip</path>
+		<name>Wings of Fury</name>
+		<sortname />
+		<desc>Wings of Fury is an action game with some minor simulation aspects, in which you are the pilot of an American F6F Hellcat plane. The setting of the game is the Pacific during World War II. It is your job to defeat the Japanese by destroying enemy bunkers, machine gun nests and barracks on a series of islands. Barracks and gun nests can be bombarded with regular bombs, while you'll have to use rockets to take out the concrete bunkers. After a successful bombing run, return to mow down the Japanese soldiers with your machine guns. You also have to sink Japanese battleships with torpedoes and engage in dogfights with enemy fighter planes.</desc>
+		<rating>0.5</rating>
+		<releasedate />
+		<developer>Ed Magnin and Associates</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Wings of Fury (USA) (GB Compatible).jpg</image>
+		<video>./snaps/Wings of Fury (USA) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Winnie the Pooh - Adventures in the 100 Acre Wood (USA).zip</path>
+		<name>Disney's Winnie the Pooh: Adventures in the 100 Acre Wood</name>
+		<sortname />
+		<desc>Join Winnie the Pooh and his friends as they come to the Game Boy Color in WINNIE THE POOH: Adventures in the 100 Acre Wood. You must help Pooh get to a certain place on the game board within a specified number of dice rolls. Along the way, he will encounter his friends Tigger, Piglet, Rabbit, and Eeyore, who will play along with Pooh and open mini-games for the loveable bear to store in his cupboard. The mini-games will have the player helping Pooh look for honey, exercise, fish, get unstuck from Rabbit's hole, bounce with Tigger, and catch acorns. The more you play WINNIE THE POOH: Adventures in the 100 Acre Wood, the greater the chances of finding a new path or mini-game.</desc>
+		<rating>0.6</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Winnie the Pooh - Adventures in the 100 Acre Wood (USA).jpg</image>
+		<video>./snaps/Winnie the Pooh - Adventures in the 100 Acre Wood (USA).mp4</video>
+	</game>
+	<game>
+		<path>./WWF WrestleMania 2000 (USA, Europe) (GB Compatible).zip</path>
+		<name>WWF WrestleMania 2000</name>
+		<sortname />
+		<desc>WWF Wrestlemania 2000 is THQ's first WWF licenced game after making two previous WCW titles. Wrestlemania 2K picks up where WCW/NWO Revenge left off. The graphics are by far superior as well is the animation. Wrestlemania 2K adds three highly sort after features: Cage match, custom entrances and Create A Wrestler feature. Wrestlemania 2K features more than 50 real WWF stars as well as the option for 16 custom wrestlers. All the wrestlers come with their real-life theme music, entrance videos (made into slide shows) and entrance performances.</desc>
+		<rating>0.45</rating>
+		<releasedate />
+		<developer>Natsume</developer>
+		<publisher>THQ</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/WWF WrestleMania 2000 (USA, Europe) (GB Compatible).jpg</image>
+		<video>./snaps/WWF WrestleMania 2000 (USA, Europe) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Xtreme Sports (USA).zip</path>
+		<name>Xtreme Sports</name>
+		<sortname />
+		<desc>In the Game Boy Color version of Xtreme Sports, players compete against more than 200 computer-controlled opponents on 25 different tracks in sports such as street luge, skateboarding, inline skating, surfing and skyboarding. At the start of the game, players choose between characters Guppi and Fin and set off on a trip sponsored by the Xtreme Cola Company, which has invited all extreme sports athletes to Xtreme Sports Island to compete in a tournament. Among the people players encounter are the members of the Bone-Heads gang, who are the antagonists. The player's objective is to unravel the mystery behind them and win the tournament at the same time. There are two modes available: Practice and Xtreme Island Adventure.</desc>
+		<rating>0.7</rating>
+		<releasedate>20000628T000000</releasedate>
+		<developer>Wayforward</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./boxart/Xtreme Sports (USA).jpg</image>
+		<video>./snaps/Xtreme Sports (USA).mp4</video>
+	</game>
+	<game>
+		<path>./Yars' Revenge (USA, Europe) (GB Compatible).zip</path>
+		<name>Yars' Revenge</name>
+		<sortname />
+		<desc>The classic Atari 2600 game YAR'S REVENGE has made its way to the Game Boy Color. You take control a giant space fly known as a Yar, and you must destroy the Qotile base on the other side of the screen. But you must first get through the large shield that guards the base. Fortunately, you have an unlimited supply of missiles to destroy the shield, or you can fly into the shield and eat a brick. Once there is an opening in the shield, touch the Qotile base with the Yar to activate the Zorlon Cannon. Once activated, you can fire the cannon to destroy the base. As you progress through the 250 levels, the game moves faster and becomes more challenging. Help Yar destroy the Qotile in YAR'S REVENGE.</desc>
+		<rating>0.75</rating>
+		<releasedate />
+		<developer>Atari</developer>
+		<publisher>Telegames</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Yars' Revenge (USA, Europe) (GB Compatible).jpg</image>
+		<video>./snaps/Yars' Revenge (USA, Europe) (GB Compatible).mp4</video>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Oracle of Seasons (USA, Australia).zip</path>
+		<name>Legend of Zelda: Oracle of Seasons, The</name>
+		<sortname />
+		<desc>The land of Holodrum is slowly withering. Onox, the General of Darkness, has imprisoned the Oracle of Seasons and is draining the very life out of the land. With the seasons in tumult and the forces of evil running rampant, the world looks for a hero and finds Link. His quest won't be easy he'll have to master the seasons if he's to turn back the evil tide.</desc>
+		<rating>0.9</rating>
+		<releasedate>20010513T000000</releasedate>
+		<developer>Flagship</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Adventure</genre>
+		<image>./boxart/Legend of Zelda, The - Oracle of Seasons (USA, Australia).jpg</image>
+		<video>./snaps/Legend of Zelda, The - Oracle of Seasons (USA, Australia).mp4</video>
 	</game>
 </gameList>

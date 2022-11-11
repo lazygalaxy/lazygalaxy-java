@@ -210,7 +210,7 @@
 	</game>
 	<game>
 		<path>./BC's Quest For Tires (1983)(Sierra).zip</path>
-		<name>BC's Quest for Tires</name>
+		<name>B.C.'s Quest for Tires</name>
 		<sortname />
 		<desc>B.C.'s Quest for Tires is an action game taking place on several consecutive levels. The levels start out simple, with Thor having to jump over potholes or duck under tree branches.</desc>
 		<releasedate>19850101T000000</releasedate>
@@ -258,7 +258,7 @@
 	</game>
 	<game>
 		<path>./Dreadnaught Factor, The (1984)(Activision)[k-file].zip</path>
-		<name>The Dreadnaught Factor</name>
+		<name>Dreadnaught Factor, The</name>
 		<sortname />
 		<desc>The Zorban Dreadnaughts are spaceships that are 140,000 feet long and weigh 970 megatons, making them the largest, most heavily armoured spaceships ever created. A fleet of these large battlecraft are now heading towards your home planet, and it is your job to stop them!.</desc>
 		<releasedate>19840101T000000</releasedate>
@@ -267,19 +267,6 @@
 		<players>1</players>
 		<image>./boxart/Dreadnaught Factor, The (1984)(Activision)[k-file].jpg</image>
 		<video>./snaps/Dreadnaught Factor, The (1984)(Activision)[k-file].mp4</video>
-	</game>
-	<game>
-		<path>./Eidolon, The (1985)(Lucasfilm).zip</path>
-		<name>The Eidolon</name>
-		<sortname />
-		<desc>You discover the Eidolon, a strange 19th century vehicle, in an abandoned laboratory. Investigating this device, you are accidentally transported to another dimension and trapped in a vast, maze-like cave. The creatures in this cave, sensing the energy emanating from the Eidolon, are woken from a long slumber, and you soon finds that his only chance of survival lies in this mysterious vehicle and its powerful energy weapon.</desc>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Lucasfilm Games</developer>
-		<publisher>Epyx</publisher>
-		<genre>Shoot'em up</genre>
-		<players>1</players>
-		<image>./boxart/Eidolon, The (1985)(Lucasfilm).jpg</image>
-		<video>./snaps/Eidolon, The (1985)(Lucasfilm).mp4</video>
 	</game>
 	<game>
 		<path>./Caverns of Khafka (1983)(Cosmi).zip</path>
@@ -343,39 +330,396 @@
 	</game>
 	<game>
 		<path>./Defender (1982)(Atari).zip</path>
-		<name>Defender*</name>
-		<desc>Defender* is a two-dimensional side-scrolling shooting game set on the surface of an unnamed planet (or, in the Atari VCS version, an unnamed city). The player controls a spaceship as it navigates the terrain, flying either to the left or right.</desc>
-		<image>./boxart/Defender (1982)(Atari).jpg</image>
-		<video>./snaps/Defender (1982)(Atari).mp4</video>
+		<name>Defender</name>
+		<sortname />
+		<desc>Defender is a two-dimensional side-scrolling shooting game set on the surface of an unnamed planet (or, in the Atari VCS version, an unnamed city). The player controls a spaceship as it navigates the terrain, flying either to the left or right.</desc>
 		<releasedate>19820101T000000</releasedate>
 		<publisher>Atari</publisher>
 		<genre>Shoot'em up</genre>
-		<playcount>3</playcount>
-		<lastplayed>20220223T125639</lastplayed>
+		<image>./boxart/Defender (1982)(Atari).jpg</image>
+		<video>./snaps/Defender (1982)(Atari).mp4</video>
 	</game>
 	<game>
 		<path>./Dropzone (1984)(U.S. Gold).zip</path>
 		<name>Drop Zone</name>
+		<sortname />
 		<desc>It's the year 2085. Only a handful of people have survived the robot wars that rocket the Solar System. In a final desperate bid for survival a Tacheon propelled star cruiser has been developed on Earth to transport survivors to new star system. But the cruiser relies on rare Ionian crystals for its power crystals which are only abundant on Jupiter's second moon Io. It is your mission to escort the men and their precious crystals safety from the surface of Io the the Dropzone where the landing pad is located.</desc>
-		<image>./boxart/Dropzone (1984)(U.S. Gold).jpg</image>
-		<video>./snaps/Dropzone (1984)(U.S. Gold).mp4</video>
 		<releasedate>19860101T000000</releasedate>
 		<developer>Archer MacLean</developer>
 		<publisher>U.S. Gold</publisher>
 		<genre>Shoot'em up</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220223T125833</lastplayed>
+		<image>./boxart/Dropzone (1984)(U.S. Gold).jpg</image>
+		<video>./snaps/Dropzone (1984)(U.S. Gold).mp4</video>
 	</game>
 	<game>
 		<path>./Henry's House (1987)(Mastertronic)[h Mr. Bacardi].zip</path>
 		<name>Henry's House</name>
+		<sortname />
 		<desc>In this platformer, the player has to guide Henry through the numerous rooms of his house. Each room is a screen-sized level filled with deadly household-items such as toothbrushes, teapots, flying toast or coffee machines.</desc>
-		<image>./boxart/Henry's House (1987)(Mastertronic)[h Mr. Bacardi].jpg</image>
-		<video>./snaps/Henry's House (1987)(Mastertronic)[h Mr. Bacardi].mp4</video>
 		<releasedate>19870101T000000</releasedate>
 		<publisher>Mastertronic</publisher>
 		<genre>Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20220223T130108</lastplayed>
+		<image>./boxart/Henry's House (1987)(Mastertronic)[h Mr. Bacardi].jpg</image>
+		<video>./snaps/Henry's House (1987)(Mastertronic)[h Mr. Bacardi].mp4</video>
+	</game>
+	<game>
+		<path>./Alley Cat (1983)(Synapse).zip</path>
+		<name>Alley Cat</name>
+		<sortname />
+		<desc>Alley Cat is an action game consisting of several mini games tied together. You're a little black cat who wants to make love to a pretty lady cat that lives in an apartment complex. Play all kinds of cat-themed mini games in order to reach her and score as many points as you can while doing so. You start out in an alley and need to get inside the apartment by climbing on garbage cans and a fence. Next, jump on a clothesline and through several open windows while big dogs try to eat you and people throw garbage at you. Outside of the apartment complex you can score points by eating the mice that run across the clotheslines.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Synapse Software</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Alley Cat (1983)(Synapse).jpg</image>
+		<video>./snaps/Alley Cat (1983)(Synapse).mp4</video>
+	</game>
+	<game>
+		<path>./Ballblazer (1985)(Lucasfilm)[Tournament Certified].zip</path>
+		<name>Ballblazer</name>
+		<sortname />
+		<desc>Ballblazer is a 1984 computer game created by Lucasfilm Games (later LucasArts Entertainment). It was originally released for the Atari 8-bit systems, such as the Atari 800 and the Atari 5200. It was also ported to other popular platforms of the day, such as the Apple II, ZX Spectrum (by Dalali Software Ltd), Amstrad CPC, Commodore 64, Atari 7800, and the NES. The Atari 800 version was called Ballblaster during development - pirated versions of the game went by this name as well. The principal creator and programmer of Ballblazer was David Levine.</desc>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<image>./boxart/Ballblazer (1985)(Lucasfilm)[Tournament Certified].jpg</image>
+		<video>./snaps/Ballblazer (1985)(Lucasfilm)[Tournament Certified].mp4</video>
+	</game>
+	<game>
+		<path>./Bruce Lee (1984)(Datasoft).zip</path>
+		<name>Bruce Lee</name>
+		<sortname />
+		<desc>Bruce Lee is a platform game. To progress, the player must collect a certain number of lanterns suspended at different points in the game. Each room is guarded by two mobile enemies, the Ninja and the Green Yamo, who attack with punches and kicks.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Datasoft</developer>
+		<publisher>Datasoft</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Bruce Lee (1984)(Datasoft).jpg</image>
+		<video>./snaps/Bruce Lee (1984)(Datasoft).mp4</video>
+	</game>
+	<game>
+		<path>./Centipede (1981)(Atari).zip</path>
+		<name>Centipede</name>
+		<sortname />
+		<desc>In Centipede, the player is trapped in the Enchanted Forest. Armed with only a magic wand to ward off the forest's insect denizens, all of which apparently are attacking in the player in continuous waves. The player must use the magic wand to shoot sparks at approaching insects to score points by pressing the controller button. Holding down the controller button will set the wand to rapid fire shots. If the player is bitten by an insect, the player will be temporarily paralyzed and lose one of the three starting magic wands.</desc>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Centipede (1981)(Atari).jpg</image>
+		<video>./snaps/Centipede (1981)(Atari).mp4</video>
+	</game>
+	<game>
+		<path>./DonkeyKong.zip</path>
+		<name>Donkey Kong</name>
+		<sortname />
+		<desc>Donkey Kong is a platform-action game that has Mario scale four different industrial themed levels (construction zone, cement factory, an elevator-themed level, and removing rivets from girders) in an attempt to save the damsel in distress, Pauline, from the big ape before the timer runs out. Once the rivets are removed from the final level, Donkey Kong falls, and the two lovers are reunited. From there, the levels start over at a higher difficulty. Along the way, Mario must dodge a constant stream of barrels, "living" fireballs, and spring-weights. Although not as powerful as in other future games, Mario can find a hammer which allows him to destroy the barrels and fireballs for a limited amount of time.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/DonkeyKong.jpg</image>
+		<video>./snaps/DonkeyKong.mp4</video>
+	</game>
+	<game>
+		<path>./Frogger (198x)(Sierra On-Line)[k-file].zip</path>
+		<name>Frogger</name>
+		<sortname />
+		<desc>Hop your frogs across dangerous highway, then over a ragging river to the safety home. But your frogs will have a leap away from one danger after another before they're safe. Watch out for the tricky diving turtles! Jump from the frog-eating snakes and alligators, or they´ll snatch your frogs from you!</desc>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Action</genre>
+		<image>./boxart/Frogger (198x)(Sierra On-Line)[k-file].jpg</image>
+		<video>./snaps/Frogger (198x)(Sierra On-Line)[k-file].mp4</video>
+	</game>
+	<game>
+		<path>./Galaxian (1982)(Atari).zip</path>
+		<name>Galaxian</name>
+		<sortname />
+		<desc>Galaxian is a shoot 'em up in which the player is at the bottom of the screen and controls a spaceship called "Galaxip" with the aim of eliminating aliens. The enemies appear in formation at the top of the screen with two escort ships. The player moves left and right to aim at an alien, then shoots a bullet and the alien he meets is killed. The aliens are classified as drones, emissaries, hornets, and commanders, with those higher up the screen scoring more points if destroyed. At set intervals, an enemy moves towards you on the screen and escorts a bomber.The Galaxip can only fire a single shot on the screen and must wait until it reaches the top before firing another.</desc>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Galaxian (1982)(Atari).jpg</image>
+		<video>./snaps/Galaxian (1982)(Atari).mp4</video>
+	</game>
+	<game>
+		<path>./Gyruss (1984)(Parker Brothers).zip</path>
+		<name>Gyruss</name>
+		<sortname />
+		<desc>The entire solar system is being attacked by the vicious Gyrusians, and it's up to you to save the day! You will need to fly your spaceship to each of the nine planets and then clear three stages of enemies to rid that planet of the Gyrusians. You start the game with a single cannon, but can gain a double cannon after shooting a power up satellite. After clearing each planet, there is another bonus stage where additional weapons and bonus points can be collected. Gyruss is an arcade action shooter, however instead of piloting your spaceship horizontally or vertically, you move in a circle around the perimeter of the screen.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Parker Brothers</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Gyruss (1984)(Parker Brothers).jpg</image>
+		<video>./snaps/Gyruss (1984)(Parker Brothers).mp4</video>
+	</game>
+	<game>
+		<path>./International Karate.zip</path>
+		<name>International Karate</name>
+		<sortname />
+		<desc>Also known as World Karate Championship, the objective is to get the highest possible dan (karate grade, determined by belt colour) and become the world champion - and of course, to get the highest score. Karate fighters compete against each other on side-view screens, the scenery representing real world locations (New York, Egypt, Japan, etc.). In between the fighting stages, there are short action sequences, during which the player can gather bonus points. These include deflecting bouncing balls, breaking wooden planks, and others.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<developer>System 3 Software</developer>
+		<publisher>System 3 Software</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/International Karate.jpg</image>
+		<video>./snaps/International Karate.mp4</video>
+	</game>
+	<game>
+		<path>./Karateka (1985)(Broderbund).zip</path>
+		<name>Karateka</name>
+		<sortname />
+		<desc>The evil Akuma has destroyed the protagonist's homeland, killed many of his friends and kidnapped the princess Mariko. Fortunately, the hero is skilled in martial arts, so his inevitable quest to reach Akuma's palace and rescue Mariko has a chance of success. Karateka is viewed from the side and features a succession of increasingly difficult opponents. Three types of punches and kicks are available to both the player character and his foes, differentiated by their height (low, medium, and high). The protagonist has a health bar, which refills itself gradually when he stands still.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Broderbund Software</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+		<image>./boxart/Karateka (1985)(Broderbund).jpg</image>
+		<video>./snaps/Karateka (1985)(Broderbund).mp4</video>
+	</game>
+	<game>
+		<path>./Montezuma's Revenge! (1983)(Utopia)[k-file].zip</path>
+		<name>Montezuma's Revenge</name>
+		<sortname />
+		<desc>You play as a treasure hunter named Panama Joe, whose goal is to find an ancient treasure hidden by Aztec warrior deep inside catacombs. But beware, the catacombs are a large maze inhabited by monsters. Bouncing and rolling skulls, dancing spiders, disappearing and re-appearing chains and tons of fire await you. You'll have to find many keys and unlock doors in order to reach your goal. Panama Joe can jump and climb ladders, but doesn't have much to offer in terms of combat. That's why the monsters in the game should be avoided: a collision with an enemy leads to a premature death. He will also find amulets which make him invulnerable for a short time.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>Utopia Software</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Montezuma's Revenge! (1983)(Utopia)[k-file].jpg</image>
+		<video>./snaps/Montezuma's Revenge! (1983)(Utopia)[k-file].mp4</video>
+	</game>
+	<game>
+		<path>./Mr. Do! (1984)(Datasoft)[k-file].zip</path>
+		<name>Mr. Do!</name>
+		<sortname />
+		<desc>You control Mr. Do has he tries to harvest all of the cherries on the screen. However, there are numerous bad guys out to get him! Mr. Do can defend himself from the badguys in two ways: first he can push the apples located throughout the playfield on top of the enemies and crush them. Secondly, Mr. Do is armed with a power ball. This can be thrown to destroy an enemy. Mr. Do has only one power ball, though, so he will need to wait for it to return to him before it can be used again. From time to time an alpha monster will appear on the screen bearing one of the letters in EXTRA. If you use the power ball to destroy an alpha monster you earn that letter; when you've earned the complete word EXTRA you receive an extra life.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Datasoft</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Mr. Do! (1984)(Datasoft)[k-file].jpg</image>
+		<video>./snaps/Mr. Do! (1984)(Datasoft)[k-file].mp4</video>
+	</game>
+	<game>
+		<path>./Mule.zip</path>
+		<name>M.U.L.E.</name>
+		<sortname />
+		<desc>Set on the fictional planet Irata (Atari backwards), the game is an exercise in supply and demand economics involving competition among four players, with computer opponents automatically filling in for any missing players. Players choose the race of their colonist, which has advantages and disadvantages that can be paired to their respective strategies. Central to the game is the acquisition and use of Multiple Use Labor Elements, or M.U.L.E.s, to develop and harvest resources from the player's real estate. Depending on how it is outfitted, a M.U.L.E. can be configured to harvest Energy, Food, Smithore (from which M.U.L.E.s are constructed), and Crystite (a valuable mineral available only at the "Tournament" level).</desc>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Ozark Softscape</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Strategy</genre>
+		<players>1-4</players>
+		<image>./boxart/Mule.jpg</image>
+		<video>./snaps/Mule.mp4</video>
+	</game>
+	<game>
+		<path>./Pengo.zip</path>
+		<name>Pengo</name>
+		<sortname />
+		<desc>In Pengo, you must defeat the enemy by pushing ice blocks together to crush them. You also can capture one if they are shocked and dizzy. There is also a time limit to make it a bit more difficult (you must do it in one minute).</desc>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Pengo.jpg</image>
+		<video>./snaps/Pengo.mp4</video>
+	</game>
+	<game>
+		<path>./Pitfall II - Lost Caverns (1984)(Activision)[custom title].zip</path>
+		<name>Pitfall II: Lost Caverns</name>
+		<sortname>Pitfall 2</sortname>
+		<desc>You play Pitfall Harry searching for the Raj diamond, his niece Rhonda, her cat Quickclaw and a variety of treasures somewhere in the Andes. Poisonous frogs, eels, scorpions, bats and other hazards get in the way. Pitfall II is the sequel to Pitfall!, the original platform game. Gameplay has remained pretty much the same, with each screen presenting a side view of obstacles to get past, and potentially treasures to collect. The landscape is more maze like, with a variety of paths and dead ends to search. Along the way there are checkpoints the player will encounter in the form of red crosses. When the player dies, Pitfall Harry will be sent back to the most recently crossed checkpoint.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Pitfall II - Lost Caverns (1984)(Activision)[custom title].jpg</image>
+		<video>./snaps/Pitfall II - Lost Caverns (1984)(Activision)[custom title].mp4</video>
+	</game>
+	<game>
+		<path>./Pitfall.zip</path>
+		<name>Pitfall!</name>
+		<sortname>Pitfall</sortname>
+		<desc>You are Pitfall Harry, a brave adventurer like Indiana Jones, lost in the middle of a very hostile jungle. You have 20 minutes to find a maximum of treasures while braving the multiple dangers of the jungle: avoid crocodiles, scorpions, snakes, fire, quicksand and trunks of trees rolling in your direction.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Pitfall.jpg</image>
+		<video>./snaps/Pitfall.mp4</video>
+	</game>
+	<game>
+		<path>./Pole_Position_Datasoft.zip</path>
+		<name>Pole Position</name>
+		<sortname />
+		<desc>In this game, the player controls a Formula One race car. The player completes a time trial lap within a certain amount of time to qualify for an F1 race at the Fuji Racetrack. After qualifying, the player races against other cars in a championship race.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Atari</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<image>./boxart/Pole_Position_Datasoft.jpg</image>
+		<video>./snaps/Pole_Position_Datasoft.mp4</video>
+	</game>
+	<game>
+		<path>./Seven Cities of Gold - Disk 1.atr</path>
+		<name>Seven Cities of Gold, The</name>
+		<sortname />
+		<desc>In The Seven Cities of Gold the player takes on the role of Christopher Columbus and the later Spanish conquistadors, exploring the New World (or a randomly generated map). As the player establishes forts and missions, bringing back gold to Spain, he or she would receive promotions from the Queen of Spain. The game features a large world to explore and comes up with some arcade sequences to simulate the interaction of the Natives and Spanish who did not speak the same language. The historical map accurately spreads out the Native population of the New World in 1492 and some historical situations can be simulated, such as whether to get the gold of the Aztec and Incas by trade or conquest.</desc>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Electronic Arts</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./boxart/Seven Cities of Gold - Disk 1.jpg</image>
+		<video>./snaps/Seven Cities of Gold - Disk 1.mp4</video>
+	</game>
+	<game>
+		<path>./Star Raiders II (1985)(Atari).zip</path>
+		<name>Star Raiders II</name>
+		<sortname />
+		<desc>Star Raiders II is a video game released in 1986 for the Atari 8-bit home computers, and later several other home computers and game consoles. The game was originally developed as part of a tie-in with the movie The Last Starfighter, which featured an arcade game of the same name as part of its plotline. Versions for the Atari 5200 and the Atari 8-bit computers were developed in 1984, although those were never released. Later the tie-in was dropped, and the game converted into a sequel to Star Raiders by changing a number of gameplay elements. The gameplay remained quite different from the original Star Raiders.</desc>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Star Raiders II (1985)(Atari).jpg</image>
+		<video>./snaps/Star Raiders II (1985)(Atari).mp4</video>
+	</game>
+	<game>
+		<path>./Starquake.zip</path>
+		<name>Starquake</name>
+		<sortname />
+		<desc>As BLOB, the Bio-Logically Operated Being, you are sent into an unstable planet and charged with the task of preventing it from exploding. This involves collecting various items (the exact combination is different every time you load the game) and taking them to the planet's core. The game is an arcade adventure viewed from the side, with 512 screens arranged in a 16x32 pattern. A teleport system exists, so once you find the codes you can get quick access to different parts of the game. The creatures to avoid are intelligent, getting tougher to predict as you get closer to the centre, but you are armed with a gun and can also try to avoid them.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Bubble Bus Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Starquake.jpg</image>
+		<video>./snaps/Starquake.mp4</video>
+	</game>
+	<game>
+		<path>./Zybex (1988)(Zeppelin).zip</path>
+		<name>Zybex</name>
+		<sortname />
+		<desc>Zybex is a horizontally scrolling shoot 'em up. The players took control of prisoners trying to win freedom from a galactic prison. At the end of each level they earned a crystal, opening access to the later levels of the game. The ultimate aim is to acquire the Zybex crystal which offers amnesty for the prisoners, Cassalana and Rinser. The weapon system constantly fires, and the fire button is used to change the current weapon. The basic weapon is the Orbiter, which the player always has. Picking up weapon icons increases the power of a weapon by 1 up to the maximum of power level 4. Dying reduces the current weapon by 1 power level, or loses it if the weapon is power 1 (with the exception of the Orbiter).</desc>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Zeppelin Games</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Zybex (1988)(Zeppelin).jpg</image>
+		<video>./snaps/Zybex (1988)(Zeppelin).mp4</video>
+	</game>
+	<game>
+		<path>./His Dark Majesty _ V1.01.atr</path>
+		<name>His Dark Majesty</name>
+		<sortname />
+		<desc>His Dark Majesty is a highly accomplished turn-based strategy game with (some) similarities to 8-bit classics like Laser Squad and Lords of Chaos. You take the role of the imprisoned prince just as his squire attempts - somewhat belatedly, it has to be said - to free him from jail</desc>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre>Role Playing Games</genre>
+		<image>./boxart/His Dark Majesty _ V1.01.jpg</image>
+		<video>./snaps/His Dark Majesty _ V1.01.mp4</video>
+	</game>
+	<game>
+		<path>./Joust.zip</path>
+		<name>Joust</name>
+		<sortname />
+		<desc>In Joust, players take control of a knight with a lance who rides their flying ostrich (or stork, for Player 2) to do battle against computer-controlled evil knights who ride atop vultures. Players must flap their steed's wings to hit the enemy from a higher jousting point to destroy the vulture and its rider. Once the enemy has been hit, an egg falls to one of the platforms below. The heroic knights must destroy the eggs before they hatch and release new and increasingly more difficult knights. The three strengths of enemy knights are Bounder (red knight), Hunter (white knight), and Shadow Lord (blue knight). These enemy knights are not the only challenge to be found in the game.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Williams Electronics, Inc.</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Joust.jpg</image>
+		<video>./snaps/Joust.mp4</video>
+	</game>
+	<game>
+		<path>./Knight Lore.zip</path>
+		<name>Knight Lore</name>
+		<sortname />
+		<desc>The game Knightlore is set in a dark castle where you, the sabreman have to rid yourself from the curse of the werewolf. The only way to do this is to find 6 objects and drop them into the wizard`s cauldron to create a remedy. The games gimmic, and arguably it`s selling point, was it`s forced 3D isometric perspective that gave the rooms a more realistic look.</desc>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Homebrew</developer>
+		<genre>Action</genre>
+		<image>./boxart/Knight Lore.jpg</image>
+		<video>./snaps/Knight Lore.mp4</video>
+	</game>
+	<game>
+		<path>./Koronis Rift (1985)(Lucasfilm).zip</path>
+		<name>Koronis Rift</name>
+		<sortname />
+		<desc>You play as a techno scavenger in the year 2049, exploring the Koronis Rift, in one of Lucasfilms earliest games. The Ancients abandoned the planet, leaving behind many different artifacts and ships, which you can loot. Send your droid to retrieve modules and try to figure out what the ancient technology is for. It could be batteries, shields or even weapons, to help you fight the trigger-happy saucers that want you dead. The game uses fractal graphics, the terrain is vast and detailed, and the story behind it is quite complex, considering the type of game.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Adventure</genre>
+		<image>./boxart/Koronis Rift (1985)(Lucasfilm).jpg</image>
+		<video>./snaps/Koronis Rift (1985)(Lucasfilm).mp4</video>
+	</game>
+	<game>
+		<path>./Necromancer (1982)(Synapse)[k-file].zip</path>
+		<name>Necromancer</name>
+		<sortname />
+		<desc>Tetragorn the Necromancer has a fleet of evil beings at his disposal, from spiders to ogres and Hammerfists. Standing constantly in the centre of the screen, you must use your long-range Wisp weapon to create an army of them, while also fending off Ogres. Venom Spiders infect your trees - to prevent them from withering away, you must first kill the Spider, then hit the tree with your wisp. Larvae which does hatch turns into Sith Spiders, which kill trees and can kill Illuminar - destroy it with your wisp. Hammerfists are also primarily a hindrance - they destroy trees, and if they hit you, you must wrestle free before the can kill you. Once he has appeared, destroy him with your wisp, but above all you must avoid contact.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Synapse Software</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Necromancer (1982)(Synapse)[k-file].jpg</image>
+		<video>./snaps/Necromancer (1982)(Synapse)[k-file].mp4</video>
+	</game>
+	<game>
+		<path>./Super_Pac_Man.zip</path>
+		<name>Super Pac-Man</name>
+		<sortname />
+		<desc>In a very good adaptation of one of the lesser-known Pac-Man sequels, Super Pac-Man speeds up the action -- and drastically shortens the effectiveness of the power pills and super power pills gobbled up by Pac-Man. If you think you've mastered the original arcade version -- either with the benefit of a lot of quarters or Namco Museum -- this version of Super Pac-Man may yet humble you with its faster pace. Graphically, this is a better translation of its source material than the original Pac-Man for the 5200 was, and the sound is almost a dead-ringer for the arcade game.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Super_Pac_Man.jpg</image>
+		<video>./snaps/Super_Pac_Man.mp4</video>
+	</game>
+	<game>
+		<path>./SuperCobra.zip</path>
+		<name>Super Cobra</name>
+		<sortname />
+		<desc>You're a chopper pilot on a surveillance mission in enemy territory; Tall buildings, mountains, narrow tunnels, and various enemies (such as tanks, rockets, mines, and more) can all get in the way and destroy your chopper if you aren't careful. To help defend yourself, the chopper is armed with a machine gun and bombs which can be used to destroy the enemy tanks and rockets. To make the task more difficult, your chopper has a limited amount of fuel. As the levels progress, the enemies become more aggressive, fuel becomes more scarce, and the landscape becomes trickier to navigate.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Parker Brothers</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/SuperCobra.jpg</image>
+		<video>./snaps/SuperCobra.mp4</video>
+	</game>
+	<game>
+		<path>./Tagalon (19xx)(Tynesoft).zip</path>
+		<name>Tagalon</name>
+		<sortname />
+		<desc>Tagalon is an action arcade game. The player's task is to find the largest possible number of jewels and a key to the castle. The search takes place around the castle and its courtyard.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Tynesoft</developer>
+		<publisher>Tynesoft</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+		<image>./boxart/Tagalon (19xx)(Tynesoft).jpg</image>
+		<video>./snaps/Tagalon (19xx)(Tynesoft).mp4</video>
+	</game>
+	<game>
+		<path>./Eidolon, The (1985)(Lucasfilm).zip</path>
+		<name>Eidolon, The</name>
+		<sortname />
+		<desc>You discover the Eidolon, a strange 19th century vehicle, in an abandoned laboratory. Investigating this device, you are accidentally transported to another dimension and trapped in a vast, maze-like cave. The creatures in this cave, sensing the energy emanating from the Eidolon, are woken from a long slumber, and you soon finds that his only chance of survival lies in this mysterious vehicle and its powerful energy weapon.</desc>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Epyx</publisher>
+		<genre>Shoot'em up</genre>
+		<image>./boxart/Eidolon, The (1985)(Lucasfilm).jpg</image>
+		<video>./snaps/Eidolon, The (1985)(Lucasfilm).mp4</video>
 	</game>
 </gameList>
