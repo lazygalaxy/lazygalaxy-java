@@ -1,0 +1,3 @@
+-rwxrwxrwx+ 1 admin users 1626635 Jan 27  2010 Comix Zone.zip
+-rwxrwxrwx+ 1 admin users 1229248 Sep 21  2015 Ecco The Tides of Time.zip
+-rwxrwxrwx+ 1 admin users 1969189 Nov  3  2019 Xenocrisis.zip

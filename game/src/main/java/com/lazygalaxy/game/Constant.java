@@ -96,10 +96,11 @@ public class Constant {
         public final static String PLAYER_LEGENDS_2 = "playerlegends2";
 
         public final static String PLAYER_LEGENDS_2_MAX = "playerlegends2max";
+        public final static String PLAYER_LEGENDS_4_MAX = "playerlegends4max";
         public final static String RETRO_ARCADE_2_ELITES = "retroarcade2elites";
 
         public final static String PI4_LEGENDS_V3 = "pi4legendsv3";
 
-        public final static List<String> ALL = Lists.newArrayList(COLLECTIONS_ARCADE, COLLECTIONS_LEGENDS, PI4_LEGENDS_V3, PLAYER_LEGENDS_2_MAX, PLAYER_LEGENDS_2, RETRO_ARCADE_2_ELITES);
+        public final static List<String> ALL = Lists.newArrayList(PLAYER_LEGENDS_4_MAX, COLLECTIONS_ARCADE, COLLECTIONS_LEGENDS, PI4_LEGENDS_V3, PLAYER_LEGENDS_2_MAX, PLAYER_LEGENDS_2, RETRO_ARCADE_2_ELITES);
     }
 }
