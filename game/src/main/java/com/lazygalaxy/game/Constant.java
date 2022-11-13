@@ -57,13 +57,14 @@ public class Constant {
         public final static String PS3 = "ps3";
         public final static String PSP = "psp";
         public final static String PSX = "psx";
+        public final static String SEGACD = "segacd";
         public final static String SNES = "snes";
         public final static String MEGADRIVE = "megadrive";
         public final static String OPENBOR = "openbor";
         public final static String SCUMMVM = "scummvm";
 
         public final static List<String> MAME = Lists.newArrayList(ARCADE, ATOMISWAVE, DAPHNE, FBNEO, MAME2003, MAME2010, MODEL3, NAOMI, NEOGEO, TRIFORCE);
-        public final static List<String> CONSOLE = Lists.newArrayList(DREAMCAST, GAMECUBE, MEGADRIVE, N64, NES, PCENGINE, PSX, PS2, PS3, SNES);
+        public final static List<String> CONSOLE = Lists.newArrayList(DREAMCAST, GAMECUBE, MEGADRIVE, N64, NES, PCENGINE, PSX, PS2, PS3, SEGACD, SNES);
 
         public final static List<String> COMPUTER = Lists.newArrayList(C64, PC, SCUMMVM);
 
@@ -93,14 +94,10 @@ public class Constant {
     public static class CoinOpsVersion {
         public final static String COLLECTIONS_ARCADE = "collectionsarcade";
         public final static String COLLECTIONS_LEGENDS = "collectionslegends";
-        public final static String PLAYER_LEGENDS_2 = "playerlegends2";
-
-        public final static String PLAYER_LEGENDS_2_MAX = "playerlegends2max";
         public final static String PLAYER_LEGENDS_4_MAX = "playerlegends4max";
-        public final static String RETRO_ARCADE_2_ELITES = "retroarcade2elites";
+        public final static String PLAYER_LEGENDS_4 = "playerlegends4";
+        public final static String PI4_LEGENDS_2_V3 = "pi4legends2v3";
 
-        public final static String PI4_LEGENDS_V3 = "pi4legendsv3";
-
-        public final static List<String> ALL = Lists.newArrayList(PLAYER_LEGENDS_4_MAX, COLLECTIONS_ARCADE, COLLECTIONS_LEGENDS, PI4_LEGENDS_V3, PLAYER_LEGENDS_2_MAX, PLAYER_LEGENDS_2, RETRO_ARCADE_2_ELITES);
+        public final static List<String> ALL = Lists.newArrayList(PLAYER_LEGENDS_4_MAX, PLAYER_LEGENDS_4, COLLECTIONS_ARCADE, COLLECTIONS_LEGENDS, PI4_LEGENDS_2_V3);
     }
 }

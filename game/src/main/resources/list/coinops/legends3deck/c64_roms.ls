@@ -1,0 +1,1 @@
+-rwxrwxrwx+ 1 admin users 37758 Mar 29  2019 Uridium.zip

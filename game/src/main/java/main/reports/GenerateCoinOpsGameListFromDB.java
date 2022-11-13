@@ -39,12 +39,11 @@ public class GenerateCoinOpsGameListFromDB {
                         "Publisher" + seperator +
                         "Genre" + seperator +
                         "SubGenre" + seperator +
+                        "Player Legends 4 Max" + seperator +
+                        "Player Legends 4" + seperator +
                         "Collections Arcade" + seperator +
                         "Collections Legends" + seperator +
-                        "Pi4 Legends v3" + seperator +
-                        "Player Legends 2 Max" + seperator +
-                        "Player Legends 2" + seperator +
-                        "Retro Arcade 2 Elites\n",
+                        "Pi4 Legends 2 v3\n",
                 StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
 
         for (Game game : games) {
@@ -65,13 +64,12 @@ public class GenerateCoinOpsGameListFromDB {
                             + (game.developer != null ? game.developer : "unknown") + seperator
                             + (game.publisher != null ? game.publisher : "unknown") + seperator
                             + (game.genre != null ? game.genre : "unknown") + seperator
-                            + (game.subGenre != null ? game.subGenre : "unknown") + seperator +
-                            (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.COLLECTIONS_ARCADE) ? "Yes" : "No") + seperator +
-                            (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.COLLECTIONS_LEGENDS) ? "Yes" : "No") + seperator +
-                            (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PI4_LEGENDS_V3) ? "Yes" : "No") + seperator +
-                            (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PLAYER_LEGENDS_2_MAX) ? "Yes" : "No") + seperator +
-                            (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PLAYER_LEGENDS_2) ? "Yes" : "No") + seperator +
-                            (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.RETRO_ARCADE_2_ELITES) ? "Yes" : "No") + "\n",
+                            + (game.subGenre != null ? game.subGenre : "unknown") + seperator
+                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PLAYER_LEGENDS_4_MAX) ? "Yes" : "No") + seperator
+                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PLAYER_LEGENDS_4) ? "Yes" : "No") + seperator
+                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.COLLECTIONS_ARCADE) ? "Yes" : "No") + seperator
+                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.COLLECTIONS_LEGENDS) ? "Yes" : "No") + seperator
+                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PI4_LEGENDS_2_V3) ? "Yes" : "No") + "\n",
                     StandardOpenOption.APPEND);
         }
         LOGGER.info("report done");

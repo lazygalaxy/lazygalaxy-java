@@ -1,7 +1,0 @@
--rwxrwxrwx+ 1 admin users  812022585 Feb 27  2011 Border Down.cdi
--rwxrwxrwx+ 1 admin users  795296807 Jul  7  2012 Crazy Taxi.cdi
--rwxrwxrwx+ 1 admin users  813868000 Jan  3  2013 Ikaruga.cdi
--rwxrwxrwx+ 1 admin users  769394704 Apr 13  2011 Marvel vs Capcom 2.cdi
--rwxrwxrwx+ 1 admin users  810826545 Feb 27  2009 Soul Calibur.cdi
--rwxrwxrwx+ 1 admin users  810553229 Mar 16  2012 Under Defeat.cdi
--rwxrwxrwx+ 1 admin users  811408100 Jan 26  2013 Zero Gunner 2.cdi

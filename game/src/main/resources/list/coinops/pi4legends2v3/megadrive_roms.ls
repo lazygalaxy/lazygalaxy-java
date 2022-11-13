@@ -1,0 +1,18 @@
+-rw-r--r-- 1 1000 1000  1174805 Apr 17  2022 AladdinMD.zip
+-rw-r--r-- 1 1000 1000   711301 Apr 17  2022 Castlevania Bloodlines.zip
+-rw-rw-r-- 1 1000 1000  1626635 Jan 26  2010 Comix Zone.zip
+-rw-r--r-- 1 1000 1000  1367096 Apr 17  2022 Contra Hard Corps.zip
+-rw-r--r-- 1 1000 1000  1903313 Apr 17  2022 Earthworm Jim.zip
+-rw-r--r-- 1 1000 1000   543621 Apr 17  2022 ECCO the Dolphin.zip
+-rw-rw-r-- 1 1000 1000  1229248 Sep 21  2015 Ecco The Tides of Time.zip
+-rw-r--r-- 1 1000 1000   662614 Apr 17  2022 Gunstar Heroes.zip
+-rw-r--r-- 1 1000 1000   367302 Apr 17  2022 Revenge of Shinobi.zip
+-rw-r--r-- 1 1000 1000   677514 Apr 17  2022 Rocket Knight Adventures.zip
+-rw-r--r-- 1 1000 1000   640312 Apr 17  2022 Shinobi III.zip
+-rw-r--r-- 1 1000 1000  1259506 Apr 17  2022 Sonic The Hedgehog III.zip
+-rw-r--r-- 1 1000 1000   750113 Apr 17  2022 Sonic The Hedgehog II.zip
+-rw-r--r-- 1 1000 1000   387866 Apr 17  2022 Sonic The Hedgehog I.zip
+-rw-rw-r-- 1 1000 1000  1681472 Sep 21  2015 Streets of Rage III.zip
+-rw-r--r-- 1 1000 1000  1033965 Apr 17  2022 Streets Of Rage II.zip
+-rw-r--r-- 1 1000 1000   373354 Apr 17  2022 Streets Of Rage I.zip
+-rw-r--r-- 1 1000 1000   674030 Apr 17  2022 Toejam and Earl.zip

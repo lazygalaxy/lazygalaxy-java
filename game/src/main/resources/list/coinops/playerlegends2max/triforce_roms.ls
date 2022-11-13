@@ -1,2 +1,0 @@
--rwxrwxrwx+ 1 admin users         18 Jan  5  2020 Mario Kart Arcade GP 2.zip
--rwxrwxrwx+ 1 admin users         18 Jan  5  2020 Mario Kart Arcade GP.zip

@@ -6,7 +6,6 @@
 -rwxrwxrwx+ 1 admin users    367302 Aug 22  2019 Revenge of Shinobi.zip
 -rwxrwxrwx+ 1 admin users    677514 Jun 23  2010 Rocket Knight Adventures.zip
 -rwxrwxrwx+ 1 admin users    640312 Feb 15  2012 Shinobi III.zip
--rwxrwxrwx+ 1 admin users 601349952 Dec 25  1996 Sonic CD.bin
 -rwxrwxrwx+ 1 admin users   2346876 Oct 14 13:30 Sonic The Hedgehog III.zip
 -rwxrwxrwx+ 1 admin users    750113 Feb 15  2012 Sonic The Hedgehog II.zip
 -rwxrwxrwx+ 1 admin users    387866 Aug 22  2019 Sonic The Hedgehog I.zip

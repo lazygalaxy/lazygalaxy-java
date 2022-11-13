@@ -1,5 +1,0 @@
--rwxrwxrwx+ 1 admin users 245042 Mar  1  2019 gnw_dkong2.zip
--rwxrwxrwx+ 1 admin users 106421 Nov  2  2018 gnw_dkong.zip
--rwxrwxrwx+ 1 admin users 104157 Nov  2  2018 gnw_ghouse.zip
--rwxrwxrwx+ 1 admin users  91232 Nov  2  2018 gnw_mickdon.zip
--rwxrwxrwx+ 1 admin users  62307 Nov 30  2018 gnw_opanic.zip
