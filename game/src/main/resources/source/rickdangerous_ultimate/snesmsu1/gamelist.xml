@@ -745,7 +745,7 @@
 	</game>
 	<game>
 		<path>./Mega Man X2 (USA).sh</path>
-		<name>Mega Man X²</name>
+		<name>Mega Man X2</name>
 		<sortname />
 		<desc>Sigma, the leader of the Maverick army, was destroyed when he underestimated his opponent: a lone warrior, awakened into a time he never knew X. 6 months had passed, and X rose to the rank of leader of the Maverick Hunters. His first task was to eliminate the last of the Mavericks. But as he began his assignment, a mysterious group of Reploids calling themselves the X-Hunters appeared with a message to X: the remains of his fallen comrade, Zero, were in the hands of the X-Hunters, and they planned on resurrecting Zero to fight alongside them and for their fallen leader, Sigma. X must now stop the X-Hunters and rescue Zero, and once again prevent Sigma from rising back into ultimate power.</desc>
 		<rating>0.8</rating>
@@ -1342,7 +1342,7 @@
 	</game>
 	<game>
 		<path>./Mega Man X3 (USA).sh</path>
-		<name>Mega Man X³</name>
+		<name>Mega Man X3</name>
 		<sortname />
 		<desc>A Reploid scientist named Dr. Doppler begins creation of a new city for Reploids, which will bring a new era of peace to the Reploids and humans. But something goes terribly wrong, and now Mavericks have begun to appear everywhere! It's up to X and Zero to find out who is behind this Maverick revolt and bring them down for good!</desc>
 		<rating>0.8</rating>

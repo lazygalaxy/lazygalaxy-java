@@ -1380,7 +1380,7 @@
 	</game>
 	<game>
 		<path>./Mega Man X2 (USA).zip</path>
-		<name>Mega Man X²</name>
+		<name>Mega Man X2</name>
 		<sortname />
 		<desc>Sigma, the leader of the Maverick army, was destroyed when he underestimated his opponent: a lone warrior, awakened into a time he never knew X. 6 months had passed, and X rose to the rank of leader of the Maverick Hunters. His first task was to eliminate the last of the Mavericks. But as he began his assignment, a mysterious group of Reploids calling themselves the X-Hunters appeared with a message to X: the remains of his fallen comrade, Zero, were in the hands of the X-Hunters, and they planned on resurrecting Zero to fight alongside them and for their fallen leader, Sigma. X must now stop the X-Hunters and rescue Zero, and once again prevent Sigma from rising back into ultimate power.</desc>
 		<rating>0.8</rating>
@@ -1394,7 +1394,7 @@
 	</game>
 	<game>
 		<path>./Mega Man X3 (USA).zip</path>
-		<name>Mega Man X³</name>
+		<name>Mega Man X3</name>
 		<sortname />
 		<desc>A Reploid scientist named Dr. Doppler begins creation of a new city for Reploids, which will bring a new era of peace to the Reploids and humans. But something goes terribly wrong, and now Mavericks have begun to appear everywhere! It's up to X and Zero to find out who is behind this Maverick revolt and bring them down for good!</desc>
 		<rating>0.8</rating>
@@ -3387,5 +3387,1499 @@
 		<players>1</players>
 		<image>./boxart/Vortex (USA) (En,Es).jpg</image>
 		<video>./snaps/Vortex (USA) (En,Es).mp4</video>
+	</game>
+	<game>
+		<path>./Final Fantasy V (Japan) [T-En by RPGe v1.10].sfc</path>
+		<name>Fainaru Fantajī Faibu (Final Fantasy V)</name>
+		<sortname />
+		<desc>The Elemental Crystals, the life source of the planet. With them, gentle winds blow, the seas are active, fire burns bright, and the earth is full of life. All seems well in the world, until the wind suddenly stops, the sea begin to grow stagnant, the heat of fire becomes scarce, and the earth begins to wither.</desc>
+		<rating>0.7</rating>
+		<releasedate>19921206T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Final Fantasy V (Japan) [T-En by RPGe v1.10].jpg</image>
+		<video>./snaps/Final Fantasy V (Japan) [T-En by RPGe v1.10].mp4</video>
+	</game>
+	<game>
+		<path>./Final_Fantasy_IV_Namingway_Edition.sfc</path>
+		<name>Fainaru Fantajī Fō (Final Fantasy IV)</name>
+		<sortname />
+		<desc>The military country of Baron is one of the strongest in the land, with a proud army and a majestic air force known as the Red Wings. But, while their armies are kind and loyal, the recent actions of the King are anything but. The young Captain of the Red Wings, Cecil, is ordered to steal a crystal from a village of innocent magicians, and when he questions the actions of his King, Cecil is immediately thrown out of the country and sent off to kill strange monsters. Little does he realize the price the King's actions will pay, and what the true secret of the crystals, and their powers, truly is.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910719T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Final_Fantasy_IV_Namingway_Edition.jpg</image>
+		<video>./snaps/Final_Fantasy_IV_Namingway_Edition.mp4</video>
+	</game>
+	<game>
+		<path>./Final_Fantasy_VI_uncensored_patch_id.sfc</path>
+		<name>Fainaru Fantajī Shikkusu (Final Fantasy VI)</name>
+		<sortname />
+		<desc>1000 years ago, the War of the Magi occurred. People remember it as one of the most horrible tragedies in history. Since the War of the Magi, magic has been all but forgotten, technology began to grow, and people returned to seemingly normal lives. The only true worry people had was the Empire, whose leaders were looking to revive the great force once known as "magic". But then something happened that would change the course of history forever.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940402T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Final_Fantasy_VI_uncensored_patch_id.jpg</image>
+		<video>./snaps/Final_Fantasy_VI_uncensored_patch_id.mp4</video>
+	</game>
+	<game>
+		<path>./Flying_Hero_-_Bugyuru_no_Daibouken_SNES.sfc</path>
+		<name>Flying Hero: Bugyuru no Daibouken (Flying Hero: Bugyuru's Adventure)</name>
+		<sortname />
+		<desc>Flying Hero: Bugyuru no Daibouken ("Bugyuru's Great Adventure") is a vertically scrolling shoot 'em up with a bright, cartoony style, similar to games like Sega's Fantasy Zone or Konami's TwinBee series. The game features Bugyuru, a flying ball, whose girlfriend Pao gets kidnapped by a mysterious vampire named Biblio. Bugyuru takes off in close pursuit, flying across various worlds and taking down bizarre enemies like flying monkeys and giant rhino beetles.</desc>
+		<rating>0.65</rating>
+		<releasedate>19921218T000000</releasedate>
+		<developer>Sting</developer>
+		<publisher>SOFEL Co., Ltd.</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Flying_Hero_-_Bugyuru_no_Daibouken_SNES.jpg</image>
+		<video>./snaps/Flying_Hero_-_Bugyuru_no_Daibouken_SNES.mp4</video>
+	</game>
+	<game>
+		<path>./Live_A_Live.sfc</path>
+		<name>Live A Live</name>
+		<sortname />
+		<desc>In "Live a Live", you control seven main characters and play through seven different stories set in seven different time periods: prehistoric age, medieval Europe, feudal Japan, a futuristic world with robots and weird machines, etc. Those stories appear to have no common points, yet after completing all of them, you'll see they are in fact connected - the worlds of all those characters are threatened by the same ultimate evil force.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940902T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Live_A_Live.jpg</image>
+		<video>./snaps/Live_A_Live.mp4</video>
+	</game>
+	<game>
+		<path>./Seiken Densetsu 3 (Japan) [T-En by LNF &amp; Neill Corlett &amp; SoM2Freak v1.01].sfc</path>
+		<name>Seiken Densetsu Surī: Holy Sword Legend 3</name>
+		<sortname />
+		<desc>Seiken Densetsu Surī: Holy Sword Legend 3 is set in the same world as the two previous Seiken Densetsu games (the first is Final Fantasy Adventure, and the second is most known as Secret of Mana). The mysterious power of Mana is also the center of all events in Seiken Densetsu 3. Years have passed, and all the destructive powers of Mana have been securely sealed by Mana Swords into eight seeds, all placed in eight different kingdoms. But some people know about those sealed powers, and they don't want to free them for the sake of humanity, but for their own gain - such as the kingdom of Altena, which is slowly freezing and which can be saved only by the legendary powers.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950930T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-3</players>
+		<image>./boxart/Seiken Densetsu 3 (Japan) [T-En by LNF &amp; Neill Corlett &amp; SoM2Freak v1.01].jpg</image>
+		<video>./snaps/Seiken Densetsu 3 (Japan) [T-En by LNF &amp; Neill Corlett &amp; SoM2Freak v1.01].mp4</video>
+	</game>
+	<game>
+		<path>./Star Ocean (Japan) [T-En by DeJap v1.0].sfc</path>
+		<name>Star Ocean</name>
+		<sortname />
+		<desc>Star Ocean is a Japanese-style role-playing game that contains some stand-out features, such as Approval Rating: people like or dislike each other and their behavior towards Ratix and within the party might change depending on their feelings to him and your own actions. The combat is fast-paced, real-time: the player controls Ratix, while other party members are AI-controlled. It is possible to customize combat tactics by assigning roles to the protagonist's companions, and pause the combat at any time to make strategic decisions.</desc>
+		<rating>0.7</rating>
+		<releasedate>19960719T000000</releasedate>
+		<developer>Tri-Ace</developer>
+		<publisher>Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Star Ocean (Japan) [T-En by DeJap v1.0].jpg</image>
+		<video>./snaps/Star Ocean (Japan) [T-En by DeJap v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Treasure of the Rudras (Japan) [T-En by Aeon Genesis v2.10] [n].sfc</path>
+		<name>Treasure of the Rudras</name>
+		<sortname />
+		<desc>The Earth is ruled by heavenly powers, who destroy it and create it again every 4000 years, to end the live of powerful races and to let new ones appear. Many years ago, four great races dominated the Earth: the wise Danans, the beautiful Mermaids, the proud Reptiles, and the strong Giants. But those races had to give place to a newly born race: the humans. During the era of the humans, the planet's air has become filled with smog and the water dirty with pollutants. The cult of the Rudra have appeared and begun fortelling the end of the world.</desc>
+		<rating>0.9</rating>
+		<releasedate>19960405T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Treasure of the Rudras (Japan) [T-En by Aeon Genesis v2.10] [n].jpg</image>
+		<video>./snaps/Treasure of the Rudras (Japan) [T-En by Aeon Genesis v2.10] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Quest VI - Realms of Revelation (Japan) [T-En by NoPrgress v0.90b2] [n].sfc</path>
+		<name>Doragon Kuesuto VI Maboroshi no Daichi (Dragon Quest VI: Realms of Revelation)</name>
+		<sortname />
+		<desc>You and two of your friends decide to attack the Archenemy - the evil Mudo - in his castle. But as you reach his throne, he attacks you and send the three friends into three different places. Was this just a dream? You have just fallen out of your bed dreaming! It's time to go to the village elder, to get a seemingly simple assignment - to sell some goods at a bazaar in the nearest town. But soon the hero will discover his dream was not so far away from reality.</desc>
+		<rating>0.9</rating>
+		<releasedate>19951209T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Dragon Quest VI - Realms of Revelation (Japan) [T-En by NoPrgress v0.90b2] [n].jpg</image>
+		<video>./snaps/Dragon Quest VI - Realms of Revelation (Japan) [T-En by NoPrgress v0.90b2] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Quest V - Hand of the Heavenly Bride (Japan) [T-En by Byuu &amp; spSpiff v0.91] [n].sfc</path>
+		<name>Doragon Kuesuto V: Tenkū no Hanayome (Dragon Quest V: Hand of the Heavenly Bride)</name>
+		<sortname />
+		<desc>You are the son of the brave warrior, Lord Papas. It appears that your mother died just after giving birth to you, and your father took you on a long journey when you were a little baby, and all you know is that he was searching for something. Now you are six years old, and Lord Papas brings you to your home village. After some time, you learn that His Highness Prince Henry was kidnapped by bandits. Your father attempts to rescue him, and during this action you discover that perhaps your mother is still alive.</desc>
+		<rating>0.9</rating>
+		<releasedate>19920927T000000</releasedate>
+		<developer>Chunsoft</developer>
+		<publisher>Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Dragon Quest V - Hand of the Heavenly Bride (Japan) [T-En by Byuu &amp; spSpiff v0.91] [n].jpg</image>
+		<video>./snaps/Dragon Quest V - Hand of the Heavenly Bride (Japan) [T-En by Byuu &amp; spSpiff v0.91] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Fire Emblem - Seisen no Keifu (Japan) [T-En by Dark Twilkitri Net v0.87g] [Add by Gharnef v1.0] [i].sfc</path>
+		<name>Faiā Emuburemu: Seisen no Keifu (Fire Emblem: Genealogy of the Holy War)</name>
+		<sortname />
+		<desc>The fourth installment in the popular strategy series, set in the continent of Jugdral, southeast of Akaneia. The game's first fifth chapters follow the Prince of Chalphy, Sigurd -- from there, his son Celis becomes the protagonist. The game uses the same turn-based strategy gameplay as its predecessors, but changes up the promotion system by making it entirely level-based, adds RPG-style status effects, and introduces the concept of the weapons triangle, in that a sword is strong against an axe, spear against the sword, and axe against the spear.</desc>
+		<rating>0.95</rating>
+		<releasedate>19960514T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Fire Emblem - Seisen no Keifu (Japan) [T-En by Dark Twilkitri Net v0.87g] [Add by Gharnef v1.0] [i].jpg</image>
+		<video>./snaps/Fire Emblem - Seisen no Keifu (Japan) [T-En by Dark Twilkitri Net v0.87g] [Add by Gharnef v1.0] [i].mp4</video>
+	</game>
+	<game>
+		<path>./Fire Emblem - Thracia 776 (Japan) [T-En by Cirosan v1.04] [Add by Miacis v1.07].sfc</path>
+		<name>Faiā Emuburemu: Torakia Nana Nana Roku (Fire Emblem: Thracia 776)</name>
+		<sortname />
+		<desc>The events transpire during Fire Emblem: Seisen no Keifu and the game contains many of the same characters from that game, while featuring cameos of many more. At its most simple the story is of Prince Leaf of Lenster's struggle to free his native land from two forces, the Grandbell Empire and the Loptus religion. Features introduced into this part of the series include fog of war and night maps with limited vision, this requires characters to use torches and wands to light their way. Also the capture command which allowed enemies to be subdued and their weapons taken.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000121T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Fire Emblem - Thracia 776 (Japan) [T-En by Cirosan v1.04] [Add by Miacis v1.07].jpg</image>
+		<video>./snaps/Fire Emblem - Thracia 776 (Japan) [T-En by Cirosan v1.04] [Add by Miacis v1.07].mp4</video>
+	</game>
+	<game>
+		<path>./Go for it! Goemon 2 - The Strange General McGuinness (Japan) [T-En by DDSTranslation v3.0] [n].sfc</path>
+		<name>Ganbare Goemon 2: Kiteretsu Shōgun Magginesu</name>
+		<sortname />
+		<desc>As you may have guessed from the number 2 in the title, this is the second SNES game in the popular blend of the adventure and jump and run genres which is the Goemon series. Again, you (and your partner, in 2 player mode) control Goemon, his friend Ebisu-Maru and, new to the bunch, robot Sasuke, through loads of action stages and villages. Another new feature comes with 3D boss fights, featuring the giant mech type robot called "Goemon Impact".</desc>
+		<rating>0.9</rating>
+		<releasedate>19931222T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Go for it! Goemon 2 - The Strange General McGuinness (Japan) [T-En by DDSTranslation v3.0] [n].jpg</image>
+		<video>./snaps/Go for it! Goemon 2 - The Strange General McGuinness (Japan) [T-En by DDSTranslation v3.0] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Ganpuru_-_Gunman_s_Proof_(Japan)_[En_by_Aeon_Genesis_v1.03].sfc</path>
+		<name>Ganpuru: Gunman's Proof</name>
+		<sortname />
+		<desc>The year is 1880. Two meteors fell on Earth on a small island near North American Pacific Coast. In the middle of the island there is a small town governed by a sheriff. At first, the town's inhabitants didn't pay attention to the meteors. But then, strange things started happening. Monsters attacked people, and left on the victims' bodies a mysterious crest with one word: demiseed.</desc>
+		<rating>0.75</rating>
+		<releasedate>19970131T000000</releasedate>
+		<developer>Lenar</developer>
+		<publisher>ASCII Entertainment</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Ganpuru_-_Gunman_s_Proof_(Japan)_[En_by_Aeon_Genesis_v1.03].jpg</image>
+		<video>./snaps/Ganpuru_-_Gunman_s_Proof_(Japan)_[En_by_Aeon_Genesis_v1.03].mp4</video>
+	</game>
+	<game>
+		<path>./Ghost_Chaser_Densei_-_translated.sfc</path>
+		<name>Ghost Chaser Densei</name>
+		<sortname />
+		<desc>Ghost Chaser Densei doesn't take any dramatic departures from the standard scrolling-brawler plot-line. A city twenty minutes in the future must be saved from a terrorist organization, and between salvation and you is a long, straight line full of goons who must be punched. Aside from receiving orders from your boss before each level, and the quick conversation with a boss or rare NPC, the story won't attempt to get in the way of beat-downs. There are three playable characters in Ghost Chaser Densei: the martial artist Makai, the mace wielding cat-girl Iyo, and the autonomous robot Belva.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940923T000000</releasedate>
+		<developer>Winky Soft</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Ghost_Chaser_Densei_-_translated.jpg</image>
+		<video>./snaps/Ghost_Chaser_Densei_-_translated.mp4</video>
+	</game>
+	<game>
+		<path>./Godzilla_-_Kaijuu_Daikessen_(Japan).sfc</path>
+		<name>Godzilla: Destroy All Monsters</name>
+		<sortname />
+		<desc>Godzilla: Destroy All Monsters is a 2D fighter for the Super Famicom featuring famous Toho kaiju. While the game was released in Japan only, a US version was in production at one point under the working title Godzilla: Destroy All Monsters. It is the sequel to the 1993 TurboGrafx-CD Godzilla fighter Godzilla: Battle Legends, also developed by Alfa System.</desc>
+		<rating>0.7</rating>
+		<releasedate>19941209T000000</releasedate>
+		<developer>Alfa System</developer>
+		<publisher>Toho Company</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Godzilla_-_Kaijuu_Daikessen_(Japan).jpg</image>
+		<video>./snaps/Godzilla_-_Kaijuu_Daikessen_(Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Holy Umbrella - Dondera no Mubou!! (Japan) [T-En by Aeon Genesis v1.00].sfc</path>
+		<name>Holy Umbrella: Dondera no Mubo</name>
+		<sortname />
+		<desc>In "Holy Umbrella", you control a schoolboy who lives in modern-day Japan. One day, the sky suddenly turns dark blue, a heavy rain falls onto the city, and the boy finds, halfway between his house and the school, an umbrella which seems to have fallen from the sky. What he does not know is that the umbrella is magical! The moment he touches it, he is transfered to a parallel universe.</desc>
+		<rating>0</rating>
+		<releasedate>19950929T000000</releasedate>
+		<developer>Earthly Soft</developer>
+		<publisher>Naxat Soft</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Holy Umbrella - Dondera no Mubou!! (Japan) [T-En by Aeon Genesis v1.00].jpg</image>
+		<video>./snaps/Holy Umbrella - Dondera no Mubou!! (Japan) [T-En by Aeon Genesis v1.00].mp4</video>
+	</game>
+	<game>
+		<path>./Magical_Pop_n_(Japan)_[En].sfc</path>
+		<name>Magical Pop'n</name>
+		<sortname />
+		<desc>The kingdom of Toaru prosperous and peaceful place that's famous for its magic. Within Toaru castle lies the Magic Gem which legend says can give the person who holds it great magical powers. Because of this, it is sealed inside the castle to prevent the gem from landing in the wrong hands. One night, a dark figure and his army of monsters invades the castle and steals the gem. Armed with a sword and her magic powers, the Princess Toaru sets off to retrieve the gem and save the world. Magical Pop'n let's you play a young, energetic little princess who is simply called Princess.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950310T000000</releasedate>
+		<developer>Polestar Co., Ltd.</developer>
+		<publisher>Pack In Video</publisher>
+		<genre>Platform</genre>
+		<players>1-5</players>
+		<image>./boxart/Magical_Pop_n_(Japan)_[En].jpg</image>
+		<video>./snaps/Magical_Pop_n_(Japan)_[En].mp4</video>
+	</game>
+	<game>
+		<path>./Majuu_Ou_(Japan)_[En_by_Aeon_Genesis_v1.01]_(_King_of_Demons).sfc</path>
+		<name>Majyūō: King of Demons</name>
+		<sortname />
+		<desc>Abel's daughter has been kidnapped by his former friend, Bayer. Bayer has sold his soul to the devil, and sacrificed Abel's wife, in an attempt to resurrect the King of Demons. With no other choice, Abel vows to save his daughter, no matter what the cost - even if it is his own humanity.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950825T000000</releasedate>
+		<developer>KSS</developer>
+		<publisher>KSS</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Majuu_Ou_(Japan)_[En_by_Aeon_Genesis_v1.01]_(_King_of_Demons).jpg</image>
+		<video>./snaps/Majuu_Ou_(Japan)_[En_by_Aeon_Genesis_v1.01]_(_King_of_Demons).mp4</video>
+	</game>
+	<game>
+		<path>./Marvelous - Another Treasure Island (Japan) [T-En by Tashi] [Add by DackR v1.07] [n].sfc</path>
+		<name>Marvelous: Another Treasure Island</name>
+		<sortname />
+		<desc>The great Captain Maverick was a pirate of legend who kept his treasure called "Marvelous" hidden that could only be found by those who were willing to solve puzzles that many deemed unsolvable. A group of children, however, will use their wits to prove them wrong when they go to the island where the treasure is said to be held. A group of pirates, however, have similar intentions.</desc>
+		<rating>0.8</rating>
+		<releasedate>19961026T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Marvelous - Another Treasure Island (Japan) [T-En by Tashi] [Add by DackR v1.07] [n].jpg</image>
+		<video>./snaps/Marvelous - Another Treasure Island (Japan) [T-En by Tashi] [Add by DackR v1.07] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Rendering Ranger R2 (Japan) (En).sfc</path>
+		<name>Rendering Ranger: R2</name>
+		<sortname />
+		<desc>The main character runs through science fiction scenarios blasting away everything that moves. Starting with only a single shot, 5 different upgradable weapon systems can be collected as extras. Upon death, the last activated system loses one increment of its current upgrade status, but can be refueled by additional extras collected. Every weapon has also a massive 'smart' bomb feature, wiping out mostly everything on screen at once if invoked. There are also some R-Type style space shooter levels thrown in for good measurement.</desc>
+		<rating>0.65</rating>
+		<releasedate>19951117T000000</releasedate>
+		<developer>Rainbow Arts (Softgold)</developer>
+		<publisher>Virgin</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Rendering Ranger R2 (Japan) (En).jpg</image>
+		<video>./snaps/Rendering Ranger R2 (Japan) (En).mp4</video>
+	</game>
+	<game>
+		<path>./Sanrio_World_Smash_Ball!_(Japan)_[En_by_Suicidal_v1.0].sfc</path>
+		<name>Sanrio World Smash Ball!</name>
+		<sortname />
+		<desc>Sanrio World Smash Ball! is a competitive multiplayer sport game similar to table tennis that uses four playable characters from Sanrio's wide catalog of cute mascots. The most famous Sanrio character, Hello Kitty, acts as referee for each contest. Each arena is subtly different, with multiple configurations of breakable blocks, impassable squares, walls and other obstacles that the two players can use to their advantage to win the match.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930716T000000</releasedate>
+		<developer>Tomcat System</developer>
+		<publisher>Character Soft</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./boxart/Sanrio_World_Smash_Ball!_(Japan)_[En_by_Suicidal_v1.0].jpg</image>
+		<video>./snaps/Sanrio_World_Smash_Ball!_(Japan)_[En_by_Suicidal_v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Mobile Suit Gundam Wing - Endless Duel (Japan) [T-En by Aeon Genesis v1.00] [n].sfc</path>
+		<name>Mobile Suit Gundam Wing: Endless Duel</name>
+		<sortname />
+		<desc>It is the year After Colony 195, and war between the Space Colonies and Earth has begun. To give the colonies an edge, they send 5 young soldiers, trained to perfection, to earth in the most powerful of Mobile Suits-Gundams. With their arrival, the tide of the war changes as they battle against the Earth forces and the Colonies of their origin.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960329T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Bandai</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Mobile Suit Gundam Wing - Endless Duel (Japan) [T-En by Aeon Genesis v1.00] [n].jpg</image>
+		<video>./snaps/Mobile Suit Gundam Wing - Endless Duel (Japan) [T-En by Aeon Genesis v1.00] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Shodai Nekketsu Kouha Kunio-kun (Japan) [T-En by Aeon Genesis v1.00].sfc</path>
+		<name>Shodai Nekketsu Kōha Kunio-kun</name>
+		<sortname />
+		<desc>A student-only electric train has departed from Tokyo Station and has passed through Kyoto Station. A group of sophomore students from Nekketsu High School led by Kunio are aboard that train. Their destination is the city of laughter and defraud, Osaka. Kunio is sleepy and tired and that's when Hiroshi's voice wakes him up. "Kunio! Yoshihiro will guide us throught Osaka! Come with us!"(Yoshihiro is an exchange student who came from Osaka) Kunio has just learn that he is in Osaka.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920807T000000</releasedate>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>Technos Japan Corp.</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Shodai Nekketsu Kouha Kunio-kun (Japan) [T-En by Aeon Genesis v1.00].jpg</image>
+		<video>./snaps/Shodai Nekketsu Kouha Kunio-kun (Japan) [T-En by Aeon Genesis v1.00].mp4</video>
+	</game>
+	<game>
+		<path>./Super Soukoban (Japan) [T-En by MrRichard999 &amp; Krom v0.5] [i].sfc</path>
+		<name>Super Sōko-ban</name>
+		<sortname />
+		<desc>Super Sōko-ban is a puzzle game in which the player must push crates around a maze to their designated storage area, ensuring they do not accidentally push a crate into a position where it cannot be recovered. Thinking Rabbit created the original game in 1982 on home computers, and Super Sokoban is the first Super Famicom game to follow the same blueprint. The intro establishes that the eponymous Sokoban, or warehouse worker, must perform enough box-pushing puzzles to earn enough cash for a flashy new car so that he might finally impress the girl of his dreams.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930129T000000</releasedate>
+		<developer>Pack In Video</developer>
+		<publisher>Pack In Video</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Soukoban (Japan) [T-En by MrRichard999 &amp; Krom v0.5] [i].jpg</image>
+		<video>./snaps/Super Soukoban (Japan) [T-En by MrRichard999 &amp; Krom v0.5] [i].mp4</video>
+	</game>
+	<game>
+		<path>./Tactics Ogre - Let Us Cling Together (Japan) (Rev 2) [T-En by Aeon Genesis v1.00b].sfc</path>
+		<name>Tactics Ogre: Let Us Cling Together</name>
+		<sortname />
+		<desc>Tactics Ogre is a very detailed 3-D isometric turn based war / rpg sim. You start out with a band of troops and build a small army and fight many battles with choices to make in between battles that will determine which one of the 8 possible endings in a non-linear storyline. You have the option to recruit characters, control individual equipment of each character, with over 6 male character classes, 6 female character classes, 3 demi-human classes, and more. You can also train at safe locations to advance your army before the next battle / storyline advancement.</desc>
+		<rating>0.85</rating>
+		<releasedate>19951006T000000</releasedate>
+		<developer>Quest</developer>
+		<publisher>Quest</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Tactics Ogre - Let Us Cling Together (Japan) (Rev 2) [T-En by Aeon Genesis v1.00b].jpg</image>
+		<video>./snaps/Tactics Ogre - Let Us Cling Together (Japan) (Rev 2) [T-En by Aeon Genesis v1.00b].mp4</video>
+	</game>
+	<game>
+		<path>./Tetris_Battle_Gaiden_menu_trans.sfc</path>
+		<name>Tetris Battle Gaiden</name>
+		<sortname />
+		<desc>Tetris Battle Gaiden is a competitive puzzle-battle game, similar to games such as Puzzle Fighter or Puyo Puyo. One can play against a friend or the Computer in a story mode. There is also an included Rensa mode, which ensures a more hyperactive game due to increased gravity. The player can choose from a list of characters in the story mode, including a Dragon or a pumpkin named Halloween.</desc>
+		<rating>0.95</rating>
+		<releasedate>19931202T000000</releasedate>
+		<developer>Bullet Proof Software</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Tetris_Battle_Gaiden_menu_trans.jpg</image>
+		<video>./snaps/Tetris_Battle_Gaiden_menu_trans.mp4</video>
+	</game>
+	<game>
+		<path>./Great Battle IV, The (Japan) [T-En by Aeon Genesis v1.1] [n].sfc</path>
+		<name>Great Battle IV, The</name>
+		<sortname />
+		<desc>The greater Compati Hero Series which aims to combine the heroes and villains of Ultraman, Gundam and Kamen Rider in an SD format where everyone is at a uniform size. The Great Battle are the "core" Compati Hero Series games, presenting a standard side-scrolling 2D action game with shooter and platforming elements.nnnnPlayers can switch their playable character between the three protagonists from the series' respective franchises at any point, and each has their own strengths and weaknesses.</desc>
+		<rating>0.8</rating>
+		<releasedate>19941217T000000</releasedate>
+		<developer>Sun L</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Great Battle IV, The (Japan) [T-En by Aeon Genesis v1.1] [n].jpg</image>
+		<video>./snaps/Great Battle IV, The (Japan) [T-En by Aeon Genesis v1.1] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Great_Battle_V_eng_good.sfc</path>
+		<name>Great Battle V, The</name>
+		<sortname />
+		<desc>The Great Battle V is an action game for the Super Famicom and the fifth game in The Great Battle sub-series, which in turn is part of the larger Compati Hero Series that combines the universes of Ultraman, Kamen Rider and SD Gundam.nnnnThis game sees the four main characters - Ultraman, Kamen Rider, SD Knight Gundam and Fighter Roar - fight their usual enemies on a Wild West planet. The levels are split between 2D side-scrolling platformer/action stages and third-person shooter stages that resemble those from Natsume's popular Wild Guns.</desc>
+		<rating>0.75</rating>
+		<releasedate>19951222T000000</releasedate>
+		<developer>Sun L</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Great_Battle_V_eng_good.jpg</image>
+		<video>./snaps/Great_Battle_V_eng_good.mp4</video>
+	</game>
+	<game>
+		<path>./Umihara Kawase (Japan) [T-En by Satsu v0.90] [Add by Green Jerry v1.0].sfc</path>
+		<name>Umihara Kawase</name>
+		<sortname />
+		<desc>A girl that is captured in a bizarre dream world full of walking fish. Equipped with a fishing line she can swing and abseil from platform to platform using it as a grappling hook. The game's specialty is the detailed physics system that allows Kawase to perform various tricks using the elastic and length variable rope to move around the levels. There are almost 50 fields (levels) but most have multiple exits that allow you to play through the game on different paths without playing every single field in order. You can also record a good game and save it to watch it again at a later time.</desc>
+		<rating>0.75</rating>
+		<releasedate>19941223T000000</releasedate>
+		<developer>TNN</developer>
+		<publisher>TNN</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Umihara Kawase (Japan) [T-En by Satsu v0.90] [Add by Green Jerry v1.0].jpg</image>
+		<video>./snaps/Umihara Kawase (Japan) [T-En by Satsu v0.90] [Add by Green Jerry v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Super Bomber Man 4 (Japan) [T-En by Svambo v1.0].sfc</path>
+		<name>Super Bomberman 4</name>
+		<sortname />
+		<desc>The fourth addition to the Bomberman series for the SNES. This game is almost identical to Super Bomberman 3 only with new levels and a new story. A small twist in this game is that instead of choosing the traditional bomberman or a country specific character players get to choose between bosses from the previous game when playing battle mode. Each character has a special power from a jet pack to throwing abilities.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960426T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Puzzle</genre>
+		<players>1-5</players>
+		<image>./boxart/Super Bomber Man 4 (Japan) [T-En by Svambo v1.0].jpg</image>
+		<video>./snaps/Super Bomber Man 4 (Japan) [T-En by Svambo v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Super Bomber Man 5 (Japan) [T-En by Psyklax Beta] [i].sfc</path>
+		<name>Super Bomberman 5</name>
+		<sortname />
+		<desc>The fifth and final Bomberman released for the SNES (so far). This game is very similar to Super Bomberman 3 and 4. Again there is a new story and new battle arenas but other than that it is the same game. Players choose between the bosses of the story game levels in battle games like in Super Bomberman 4 yet they have not special powers this time around.</desc>
+		<rating>0.85</rating>
+		<releasedate>19970228T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Puzzle</genre>
+		<players>1-5</players>
+		<image>./boxart/Super Bomber Man 5 (Japan) [T-En by Psyklax Beta] [i].jpg</image>
+		<video>./snaps/Super Bomber Man 5 (Japan) [T-En by Psyklax Beta] [i].mp4</video>
+	</game>
+	<game>
+		<path>./Fire Emblem - Mystery of the Emblem (Japan) [T-En by RPGuy96 &amp; VincentASM v0.98] [Add by Quirino v0.14] [n].sfc</path>
+		<name>Faiā Emuburemu: Monshō no Nazo (Fire Emblem: Mystery of the Emblem)</name>
+		<sortname />
+		<desc>A remake and expansion of the first NES/Famicom Fire Emblem, Marth must face the betrayal if Hardin and an old enemy he thought long vanquished, the Dragon King Medeus. Book 1 of the game is essentially a remake of the first NES game. Book 2 continues the story with the same characters. This game expands the series, however it drops explorable towns and the navigation through a world map which was introduced in Fire Emblem: Gaiden. New features include the ability to dismount the horse and pegasus mounted units, to allow the riders to fight indoors if needed.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940121T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Fire Emblem - Mystery of the Emblem (Japan) [T-En by RPGuy96 &amp; VincentASM v0.98] [Add by Quirino v0.14] [n].jpg</image>
+		<video>./snaps/Fire Emblem - Mystery of the Emblem (Japan) [T-En by RPGuy96 &amp; VincentASM v0.98] [Add by Quirino v0.14] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Super Back to the Future Part II (Japan) [T-En by Mteam v1.00].sfc</path>
+		<name>Super Back to the Future Part II</name>
+		<sortname />
+		<desc>A Japanese-only platform game where you control an anime-like Marty through Hill Valley. There are multiple stages, set across different time zones (present, future and past) where you hover-skate later on. You will encounter bosses like Griff, Biff and the corrupt Biff. Manically portrayed versions of Doc and Griff can also be found (see password entry screen).</desc>
+		<rating>0.6</rating>
+		<releasedate>19930723T000000</releasedate>
+		<developer>Daft</developer>
+		<publisher>Toshiba EMI</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Super Back to the Future Part II (Japan) [T-En by Mteam v1.00].jpg</image>
+		<video>./snaps/Super Back to the Future Part II (Japan) [T-En by Mteam v1.00].mp4</video>
+	</game>
+	<game>
+		<path>./Bahamut Lagoon (Japan) [T-En by DeJap &amp; Neill Corlett &amp; Tomato v1.3] (Emulation Hack).sfc</path>
+		<name>Bahamūto Ragūn (Bahamut Lagoon)</name>
+		<sortname />
+		<desc>The evil Emperor Sauzer, obsessed by his world domination ideas, is preparing to invade the kingdom. The king sends his best troops of knights and wizards to face the enemy, but in vain - the kingdom is conquered by Sauzer, the king is murdered, and his lovely daughter is kidnapped. You were brave, Leader of the Dragon Squad, but now you will have to become strong. Remember the promise you gave the princess a long time ago: always to be at her side.</desc>
+		<rating>0.7</rating>
+		<releasedate>19960209T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Bahamut Lagoon (Japan) [T-En by DeJap &amp; Neill Corlett &amp; Tomato v1.3] (Emulation Hack).jpg</image>
+		<video>./snaps/Bahamut Lagoon (Japan) [T-En by DeJap &amp; Neill Corlett &amp; Tomato v1.3] (Emulation Hack).mp4</video>
+	</game>
+	<game>
+		<path>./Go Go Ackman (Japan) [T-En by Ackman Translations v1.0].sfc</path>
+		<name>Go Go Ackman</name>
+		<sortname />
+		<desc>Ackman is not what one would call a good person. His job is to murder and steal souls for the Demon Lord. The angel Tenshi has taken it upon himself to put an end to Ackman's nefarious ways, and sends an army of angels and hired assassins to take out Ackman for good. It's just as well, because Ackman was getting bored without anyone to kill.</desc>
+		<rating>0.8</rating>
+		<releasedate>19941223T000000</releasedate>
+		<developer>Banpresto</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Go Go Ackman (Japan) [T-En by Ackman Translations v1.0].jpg</image>
+		<video>./snaps/Go Go Ackman (Japan) [T-En by Ackman Translations v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./GS Mikami - Joreishi wa Nice Body (Japan).sfc</path>
+		<name>Gōsuto Suīpā GS Mikami: Joreishi wa Naisu Badi</name>
+		<sortname />
+		<desc>Gōsuto Suīpā GS Mikami: Joreishi wa Naisu Badi is a side-scrolling platformer where the player controls Reiko through multiple stages. Reiko is armed with a magic baton that can be used to perform several types of melee attacks. The baton can be powered up to shoot various types of projectiles, though these powerups are lost if Reiko takes any damage. It can also be used as a type of grappling hook to access certain platforms. There are also limited uses of magic attacks that hit all enemies on the screen.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930923T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Banalex</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/GS Mikami - Joreishi wa Nice Body (Japan).jpg</image>
+		<video>./snaps/GS Mikami - Joreishi wa Nice Body (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Hyper Iria (Japan) [T-En by Dynamic Designs &amp; Matt's Messy Room v1.02].sfc</path>
+		<name>Hyper Iria</name>
+		<sortname />
+		<desc>In the game Iria can select one of four missions with a fifth selectable after the other four are completed. On the way to a mission Iria will discuss the mission with her AI companion Bob, and sometimes will be ambushed, requiring her to defend herself in a scrolling shooter type level. Upon reaching her destination Iria will proceed on foot, making her way through a maze-like level with several paths to her goal. Iria has powerful physical attacks, and can also carry firearms and grenades with limited ammunition.</desc>
+		<rating>0.5</rating>
+		<releasedate>19951013T000000</releasedate>
+		<developer>Banpresto</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Hyper Iria (Japan) [T-En by Dynamic Designs &amp; Matt's Messy Room v1.02].jpg</image>
+		<video>./snaps/Hyper Iria (Japan) [T-En by Dynamic Designs &amp; Matt's Messy Room v1.02].mp4</video>
+	</game>
+	<game>
+		<path>./Nangoku Shounen Papuwa-kun (Japan) [T-En by FH v1.0b] [i].sfc</path>
+		<name>Nangoku Shōnen Papuwa-kun</name>
+		<sortname />
+		<desc>The game is a mix of brawling and platforming based on the manga of same title about a young boy and his unusual friends on a tropical island. The player character is Shintaro, a member of the Genma army, as he runs across the island to find out where a bunch of invading monsters came from. Shintaro has a quick punch move and a charged-up beam attack, and fights various sub-bosses as he makes his way through levels. He'll occasionally meet characters from the manga as well, including Tanno and Itou, who are a transvestite fish and an effeminate pink snail respectively.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940325T000000</releasedate>
+		<developer>Daft</developer>
+		<publisher>Enix</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Nangoku Shounen Papuwa-kun (Japan) [T-En by FH v1.0b] [i].jpg</image>
+		<video>./snaps/Nangoku Shounen Papuwa-kun (Japan) [T-En by FH v1.0b] [i].mp4</video>
+	</game>
+	<game>
+		<path>./Psycho Dream (Japan).sfc</path>
+		<name>Psycho Dream</name>
+		<sortname />
+		<desc>Psycho Dream is a side-scrolling action game with light platforming elements, similar in style to Valis games, though less story-driven. The game is set in predominantly modern-day environments. The player can choose to control either Ryo Shizima or Maria Tobari, two demon hunters who must save an innocent girl named Sayaka and rid the world of rampaging monsters.</desc>
+		<rating>0</rating>
+		<releasedate>19921211T000000</releasedate>
+		<developer>Riot</developer>
+		<publisher>Telenet</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Psycho Dream (Japan).jpg</image>
+		<video>./snaps/Psycho Dream (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Super Genjin 2 (Japan) [T-En by Gaijin Productions v1.00] [i].sfc</path>
+		<name>Super Bonk 2</name>
+		<sortname />
+		<desc>In this sidescrolling action-platformer, Bonk is once again trying to save his world from the evil clutches of the reptilian king, who once more is threatening the prehistoric era. Boy, you'd think that after being defeated four times prior that he would take a hint. This time, you also get to face his five best soldiers, who will try to stop you in your tracks. Bonk controls rather smoothly, and he is really fun to control.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950728T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Super Genjin 2 (Japan) [T-En by Gaijin Productions v1.00] [i].jpg</image>
+		<video>./snaps/Super Genjin 2 (Japan) [T-En by Gaijin Productions v1.00] [i].mp4</video>
+	</game>
+	<game>
+		<path>./Amazing Spider-Man, The - Lethal Foes (Japan) [T-En by Gorgyrip v1.0].sfc</path>
+		<name>Amazing Spider-Man: Lethal Foes, The</name>
+		<sortname />
+		<desc>The Amazing Spider-Man: Lethal Foes is based on the Spider-Man cartoon of the time and pits Spider-Man against several of his old foes as well as an army of Spider-Slayers. Spider-Man can attack with a hand-to-hand combo or by shooting out pellets of webbing. He can crawl on any wall or ceiling and also swing along with his webbing strands if he has enough clearance. The story is told in dialogue scenes with the stage's boss as well as Spider-Man's allies at the end of each stage.</desc>
+		<rating>0.6</rating>
+		<releasedate>19950317T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/Amazing Spider-Man, The - Lethal Foes (Japan) [T-En by Gorgyrip v1.0].jpg</image>
+		<video>./snaps/Amazing Spider-Man, The - Lethal Foes (Japan) [T-En by Gorgyrip v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Treasure Hunter G (Japan) [T-En by Metalhawk &amp; Obsolete Translations v1.0b2] [Add by Lone Wolf v1.0].sfc</path>
+		<name>Treasure Hunter G</name>
+		<sortname />
+		<desc>Brothers Red and Blue G. decide to leave their idyllic village in search of their long lost father, who left the kids years ago to go treasure hunting. Unfortunately, as soon as they begin their quest, they become entangled with a mysterious girl on the run from evil monsters who holds the key to the resurrection of a great demon. Now its up to the brothers to save the world if they ever want to find their father.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960524T000000</releasedate>
+		<developer>Sting</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Treasure Hunter G (Japan) [T-En by Metalhawk &amp; Obsolete Translations v1.0b2] [Add by Lone Wolf v1.0].jpg</image>
+		<video>./snaps/Treasure Hunter G (Japan) [T-En by Metalhawk &amp; Obsolete Translations v1.0b2] [Add by Lone Wolf v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Front_Mission.sfc</path>
+		<name>Front Mission</name>
+		<sortname />
+		<desc>In the future, many military forces are dependent on huge mech robots, called Wanzers (Walking Panzers) for combat. At Huffman Island, located in the the pacific ocean, wanzers are deployed by both the USN (United States of the New Continent) and the OCU (Oceana Community Union), who dispute ownership over the island.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950224T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Front_Mission.jpg</image>
+		<video>./snaps/Front_Mission.mp4</video>
+	</game>
+	<game>
+		<path>./front_mission_gun_hazard_all_patches_behadered.sfc</path>
+		<name>Front Mission: Gun Hazard</name>
+		<sortname />
+		<desc>The year is 2064, when the great solar power satellite, ATLAS is overshadowed by the invention of fusion power. The government alliance that had supported the building of ATLAS now find themselves facing economic crisis as the balance of power shifts. In this world of conflict and change, the Walking Panzer, or Wanzer, (a form of mecha) becomes the standard armored unit for wars and petty battles across the globe.</desc>
+		<rating>0.6</rating>
+		<releasedate>19960223T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./boxart/front_mission_gun_hazard_all_patches_behadered.jpg</image>
+		<video>./snaps/front_mission_gun_hazard_all_patches_behadered.mp4</video>
+	</game>
+	<game>
+		<path>./Maerchen Adventure Cotton 100% (Japan).sfc</path>
+		<name>Märchen Adventure Cotton 100%</name>
+		<sortname />
+		<desc>This is the sequel to the original side-scrolling shooter Cotton, and it continues the adventures of the cute young witch and her quest for candy. The game features new levels and enemies, all rendered in a much lighter family-friendly tone. Gameplay remains the same as in the original, with the addition of being able to collect different magical spells additionally there are now 3 different difficulty settings to choose from.</desc>
+		<rating>0</rating>
+		<releasedate>19940422T000000</releasedate>
+		<developer>Datam Polystar</developer>
+		<publisher>Success</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Maerchen Adventure Cotton 100% (Japan).jpg</image>
+		<video>./snaps/Maerchen Adventure Cotton 100% (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Choujikuu_Yousai_Macross_Scrambled_Valkyrie_Japan_.sfc</path>
+		<name>Chō Jikū Yōsai Macross: Scrambled Valkyrie</name>
+		<sortname />
+		<desc>The legend of the Valkyrie pilots is not yet over. Hikaru, Max, and Millia take flight to defend the earth from Zentraedi, robots, more robots, and giant space crab-bees. Now is the time to scramble Valkyrie again. When starting a game or continuing the player picks from either Hikaru, Max, or Millia. Each flies a custom Valkyrie with its own set weapon load-out. A Valkyrie changes its weapon and movement speed by switching between its three forms: Fighter, Gerwalk, and Battroid.</desc>
+		<rating>0.75</rating>
+		<releasedate>19931029T000000</releasedate>
+		<developer>Zamuse</developer>
+		<publisher>Zamuse</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Choujikuu_Yousai_Macross_Scrambled_Valkyrie_Japan_.jpg</image>
+		<video>./snaps/Choujikuu_Yousai_Macross_Scrambled_Valkyrie_Japan_.mp4</video>
+	</game>
+	<game>
+		<path>./Demon Child Zenki - Battle Raiden (Japan) [T-En by Dynamic Designs v1.00] [n].sfc</path>
+		<name>Kishin Douji Zenki: Rettou Gaiden (Demon Child Zenki: Battle Raiden)</name>
+		<sortname />
+		<desc>A top-down scrolling shooter. Players control a helicopter and must fight their way through several levels, shooting everything that moves. Defeated enemies sometimes drop power-ups that improve the helicopter's standard weapon or equip it with homing missiles as secondary weapon. In addition to the standard "shooting mode" D-Force also features an "exploration mode". In exploration mode, the player's helicopter is attacked by animals instead of warplanes or other helicopters. In this mode, the shoulder buttons can be used to change the helicopters altitude and attack (or dodge) enemies at different heights.</desc>
+		<rating>0.6</rating>
+		<releasedate>19911220T000000</releasedate>
+		<developer>Asmik</developer>
+		<publisher>Asmik</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Demon Child Zenki - Battle Raiden (Japan) [T-En by Dynamic Designs v1.00] [n].jpg</image>
+		<video>./snaps/Demon Child Zenki - Battle Raiden (Japan) [T-En by Dynamic Designs v1.00] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Violinist of Hameln, The (Japan) [T-En by J2e Translations v1.00] [n].sfc</path>
+		<name>Violinist of Hameln</name>
+		<sortname />
+		<desc>In Violinist of Hameln you play the role of Hamel, a sort of wanderer / adventurer whose weapon is… a violin. His music can cover enemies in fear, or even control their minds. Hamel and his mascot Oboe arrives at Staccato, a small town attacked by monsters, and drives them away with his power. Impressed, a cute little girl named Flute decides to go with Hamel in order to find and destroy the evil power behind the attacks.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950929T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Enix</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Violinist of Hameln, The (Japan) [T-En by J2e Translations v1.00] [n].jpg</image>
+		<video>./snaps/Violinist of Hameln, The (Japan) [T-En by J2e Translations v1.00] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [Add by Jonny v1.0] [Nephew Colors Hack] [n].sfc</path>
+		<name>Disney's Mikkī to Donarudo Majikaru Adobenchā 3 (Magical Quest 3 Staring Mickey &amp; Donald)</name>
+		<sortname />
+		<desc>Magical Adventure 3 follows Disney mascots Mickey Mouse and Donald Duck as they traverse through Storybook Land to rescue Donald's duckling nephews Huey, Dewey, and Louie from the evil King Pete.nnnnAlong with a new fantasy setting.</desc>
+		<rating>0.8</rating>
+		<releasedate>19951208T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [Add by Jonny v1.0] [Nephew Colors Hack] [n].jpg</image>
+		<video>./snaps/Mickey &amp; Donald - Magical Adventure 3 (Japan) [T-En by RPGOne v1.5] [Add by Jonny v1.0] [Nephew Colors Hack] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Brandish 2 - The Planet Buster (Japan) [T-En by Synchronicity v1.0].sfc</path>
+		<name>Brandish 2: The Planet Buster</name>
+		<sortname />
+		<desc>You take control of a young warrior named Ares, who wields a magical weapon, a powerful sword called the Planet Buster. One day, while traveling through a desert, Ares is captured by a warlock named Karl, who is after the powers hidden within the magical sword. Suspecting Ares might have some valuable information, Karl doesn't execute him, but takes away the Planet Buster and throws Ares into his underground prison. Now your primary goal is to guide Ares out of the huge prison full of various dangers, and to get your mighty weapon back. The game is an action RPG with a heavy emphasis on dungeon crawling.</desc>
+		<rating>0.6</rating>
+		<releasedate>19950811T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Koei</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Brandish 2 - The Planet Buster (Japan) [T-En by Synchronicity v1.0].jpg</image>
+		<video>./snaps/Brandish 2 - The Planet Buster (Japan) [T-En by Synchronicity v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Crystal Beans from Dungeon Explorer (Japan) [T-En by Hiei &amp; Neige v1.1].sfc</path>
+		<name>Crystal Beans from Dungeon Explorer</name>
+		<sortname />
+		<desc>There was once a prosperous kingdom, a peaceful kingdom, ruled by a wise old king, where all peopled lived happily together, protected by the power of a magical crystal. But one day, several dark clouds appeared over the kingdom and poured down a devastating rain. And then one of the clouds turned into a demon, and, reaching its hands to the treasure room in the palace, took the crystal away. The demon lord, still in a form of a menacing dark cloud, started spawning monsters and sending them to attack the now helpless kingdom.</desc>
+		<rating>0.7</rating>
+		<releasedate>19951027T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Crystal Beans from Dungeon Explorer (Japan) [T-En by Hiei &amp; Neige v1.1].jpg</image>
+		<video>./snaps/Crystal Beans from Dungeon Explorer (Japan) [T-En by Hiei &amp; Neige v1.1].mp4</video>
+	</game>
+	<game>
+		<path>./Dezaemon (Japan) [T-En by Aeon Genesis v1.00] [Add by Mwksoul v1.0] [n].sfc</path>
+		<name>Dezaemon</name>
+		<sortname />
+		<desc>A construction kit for the Super Famicom, built in 1994 for designing and playing arcade-style vertical-scrolling shoot-'em-ups. Along with numerous enhancements compared to its Famicom predecessor, it also includes a fully-featured sample game (which itself is a spiritual sequel to the developer's 1993 arcade game Daioh).</desc>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Athena</developer>
+		<publisher>Athena</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+		<image>./boxart/Dezaemon (Japan) [T-En by Aeon Genesis v1.00] [Add by Mwksoul v1.0] [n].jpg</image>
+		<video>./snaps/Dezaemon (Japan) [T-En by Aeon Genesis v1.00] [Add by Mwksoul v1.0] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Doraemon 4 - In the Moon Kingdom (Japan) [T-En by Sgt. Bowhack v0.94b] [n].sfc</path>
+		<name>Doraemon 4: Nobita to Tsuki no Oukoku (Doraemon 4: In the Moon Kingdom)</name>
+		<sortname />
+		<desc>The game is based on the popular manga series Doraemon. Doraemon is a blue cat robot who came from the future to protect a Japanese boy named Nobita. Nobita always gets himself in all kinds of troubles, so his grandson in the future decided to help him by sending Doraemon to keep an eye on him. One day, Nobita and Doraemon are looking at the beautiful moon, when suddenly a strange light engulfs them. They learn that something terrible has happened in the Moon Kingdom. Now they must travel to the moon and discover what is going on.</desc>
+		<rating>0</rating>
+		<releasedate>19951215T000000</releasedate>
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Doraemon 4 - In the Moon Kingdom (Japan) [T-En by Sgt. Bowhack v0.94b] [n].jpg</image>
+		<video>./snaps/Doraemon 4 - In the Moon Kingdom (Japan) [T-En by Sgt. Bowhack v0.94b] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Energy Breaker (Japan) [T-En by Disnesquick &amp; Satsu v1.02].sfc</path>
+		<name>Energy Breaker</name>
+		<sortname />
+		<desc>A tactical RPG by Neverland for the SNES featuring character designs by Yasuhiro Nightow of Trigun fame. It utilizes a Tactics Ogre-style battle system but also allows the player to freely explore the world.</desc>
+		<rating>0</rating>
+		<releasedate>19940726T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Energy Breaker (Japan) [T-En by Disnesquick &amp; Satsu v1.02].jpg</image>
+		<video>./snaps/Energy Breaker (Japan) [T-En by Disnesquick &amp; Satsu v1.02].mp4</video>
+	</game>
+	<game>
+		<path>./Metal Max Returns (Japan) [T-En by Aeon Genesis v1.00].sfc</path>
+		<name>Metal Max Returns</name>
+		<sortname />
+		<desc>This is a remake of the game Metal Max, originally for NES. You are a little boy who lives with his father in a town in a futuristic world dominated by machines. Your wish is to become a "hunter" - to kill monsters that roam the world and to receive rewards for that. The storyline and the gameplay basics remained unchanged in this remake. You fight enemies in turn-based combat, and use vehicles, such as your own personal tank Mosquito, to transport yourself through different areas, and to participate in battles. You can also buy equipment and upgrade your vehicles.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950929T000000</releasedate>
+		<developer>Crea-Tech Inc.</developer>
+		<publisher>Data East</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Metal Max Returns (Japan) [T-En by Aeon Genesis v1.00].jpg</image>
+		<video>./snaps/Metal Max Returns (Japan) [T-En by Aeon Genesis v1.00].mp4</video>
+	</game>
+	<game>
+		<path>./Snoopy Concert (Japan) [T-En by Aeon Genesis v1.00].sfc</path>
+		<name>Snoopy Concert</name>
+		<sortname />
+		<desc>The game is a less of a self-contained game and more a collection of four smaller ones; including a point-and-click segment featuring Schroeder. The player controls Woodstock and direct Snoopy as he performs all sorts of errands for different Peanuts characters. The player does a separate game for each character; some of them require him to do a little detective work, or to direct Snoopy to win a race, or to get a character to some place. The ultimate goal in the game is to get everyone in shape for Snoopy's concert. Games can either be played using stereo or monoaural sound.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950519T000000</releasedate>
+		<developer>Pax Softonica</developer>
+		<publisher>Mitsui Fudosan</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Snoopy Concert (Japan) [T-En by Aeon Genesis v1.00].jpg</image>
+		<video>./snaps/Snoopy Concert (Japan) [T-En by Aeon Genesis v1.00].mp4</video>
+	</game>
+	<game>
+		<path>./Super Gussun Oyoyo 2 (Japan) [T-En by RPGOne v1.0].sfc</path>
+		<name>Super Gussun Oyoyo 2</name>
+		<sortname />
+		<desc>The game makes a few significant changes to the original Super Gussun Oyoyo. The most apparent of which is its new setting of a tropical island with an active volcano: many stages will start dropping fireballs the longer the player takes, which must be avoided at all costs. The game also features a new "Puzzle Mode" which plays similarly to those found in Tetris sequels: the player has a limited number of pre-determined pieces and must figure out how to use them to get their little bald friend to the end.</desc>
+		<rating>0.6</rating>
+		<releasedate>19960524T000000</releasedate>
+		<developer>Kan's</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Gussun Oyoyo 2 (Japan) [T-En by RPGOne v1.0].jpg</image>
+		<video>./snaps/Super Gussun Oyoyo 2 (Japan) [T-En by RPGOne v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Super Puyo Puyo 2 (Japan) [T-En by J2e Translations v1.1] [n].sfc</path>
+		<name>Super Puyo Puyo 2</name>
+		<sortname />
+		<desc>A falling block game in which the goal is the combine four or more blocks of the same color which then disappear. The remain blocks will fall down and can produce combos which can cause special blocks (can only be destroyed by eliminating adjunct blocks) to appear at the enemies field. This game includes a story mode, in which Arle (the main character) fights against computer enemies, a vs player mode, a four player mode (SNES only), and an endless mode (SNES only).</desc>
+		<rating>0.75</rating>
+		<releasedate>19951208T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Compile</publisher>
+		<genre>Puzzle</genre>
+		<players>1-4</players>
+		<image>./boxart/Super Puyo Puyo 2 (Japan) [T-En by J2e Translations v1.1] [n].jpg</image>
+		<video>./snaps/Super Puyo Puyo 2 (Japan) [T-En by J2e Translations v1.1] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Sutte Hakkun (Japan) [T-En by Raccoon Sam v1.0] [n].sfc</path>
+		<name>Sutte Hakkun</name>
+		<sortname />
+		<desc>The playing character is an abundant-beaked bird resembling a penguin, named Hakkun, that is able to walk and jump but not to fly. The Rainbow of Happiness shined in the sky above Peaceful Islands: one day it broke apart and now Hakkun has to track down, collect, and put together all rainbow crystals to relive it.</desc>
+		<rating>0.75</rating>
+		<releasedate>19980801T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./boxart/Sutte Hakkun (Japan) [T-En by Raccoon Sam v1.0] [n].jpg</image>
+		<video>./snaps/Sutte Hakkun (Japan) [T-En by Raccoon Sam v1.0] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Wonder Project J - Mechanical Boy Pino (Japan) [T-En by WakdHacks v1.04] [n].sfc</path>
+		<name>Wonder Project J: Kikai no Shounen Pino</name>
+		<sortname />
+		<desc>There was once a great scientist and inventor named Gepetto, who lived on an island farm together with his creations, his robotic helper, the pixie Tinker, and his pet animals. His greatest creation was an artificial boy named Pino. No, he was not carved from wood, but looked just like a real boy - only he could turn his head 360 degrees. But Gepetto was arrested for an unknown reason. The boy Pino looks like a real boy, but he was completed just a few moments ago, and he knows absolutely nothing.</desc>
+		<rating>0.8</rating>
+		<releasedate>19941208T000000</releasedate>
+		<developer>Almanic</developer>
+		<publisher>Enix</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./boxart/Wonder Project J - Mechanical Boy Pino (Japan) [T-En by WakdHacks v1.04] [n].jpg</image>
+		<video>./snaps/Wonder Project J - Mechanical Boy Pino (Japan) [T-En by WakdHacks v1.04] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Super Tetris 3 (Japan) (En).sfc</path>
+		<name>Super Tetris 3</name>
+		<sortname />
+		<desc>Super Tetris 3 is yet another version of the famous soviet puzzle game. However, despite what the title may suggest, contained within are actually four different versions of Tetris: Tetris Classic, Familiss, Sparkliss, and Magicaliss. Tetris Classic.</desc>
+		<rating>1</rating>
+		<releasedate>19941216T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Puzzle</genre>
+		<players>1-4</players>
+		<image>./boxart/Super Tetris 3 (Japan) (En).jpg</image>
+		<video>./snaps/Super Tetris 3 (Japan) (En).mp4</video>
+	</game>
+	<game>
+		<path>./Wrecking Crew '98 (Japan) [T-En by ShadowOne333 v1.1].sfc</path>
+		<name>Wrecking Crew '98</name>
+		<sortname />
+		<desc>Mario, on his way home from a trip, discovers that Bowser has been conducting a construction campaign of building high-rises in the Mushroom Kingdom which are depriving the local plantlife of sunlight. Refusing to tolerate this, he brings out a mighty blue hammer from a chest inside his house and embarks on a mission to demolish the offending structures. Mario's old nemesis, Foreman Spike, along with a Gotcha Wrench, Eggplant Man, and more new and old enemies, are once again out to stop him on his quest.</desc>
+		<rating>0.65</rating>
+		<releasedate>19980523T000000</releasedate>
+		<developer>Pax Softonica</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Wrecking Crew '98 (Japan) [T-En by ShadowOne333 v1.1].jpg</image>
+		<video>./snaps/Wrecking Crew '98 (Japan) [T-En by ShadowOne333 v1.1].mp4</video>
+	</game>
+	<game>
+		<path>./Ys V - Kefin, Lost Kingdom of Sand (Japan) [T-En by Aeon Genesis v1.00] [n].sfc</path>
+		<name>Ys V: Ushinawareta Suna no Miyako Kefin</name>
+		<sortname />
+		<desc>Long, long ago, in the Kefin Desert, on the Continent of Afroka, a strong wind blew throughout the night. There is nothing but desert in Kefin area, but a legend tells a city was once was there -the city of Kefin. There is a rumor a legendary treasure is hidden somewhere amidst the ruins of the city. Who will dare to explore the dangerous region and to uncover the mysteries of the past? There is one who dares - Adol, the hero of the Ys saga.</desc>
+		<rating>0.65</rating>
+		<releasedate>19951229T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Ys V - Kefin, Lost Kingdom of Sand (Japan) [T-En by Aeon Genesis v1.00] [n].jpg</image>
+		<video>./snaps/Ys V - Kefin, Lost Kingdom of Sand (Japan) [T-En by Aeon Genesis v1.00] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Clock Tower (Japan) [T-En by Aeon Genesis v1.01].sfc</path>
+		<name>Kurokku Tawā (Clock Tower)</name>
+		<sortname />
+		<desc>Jennifer and her friends are adopted by a nice lady named Mary one day. They expect to be going to a wonderful new home, at the Barrows Mansion. There they will live with Mary and Mr. Barrows. Unfortunately, something goes terribly wrong and Jennifer's friends are showing up dead one by one. While this is happening, Mary is missing and Jennifer ends up being chased by a crazed psychopath known only as Scissorman. Now she must survive and get out of the mansion in this point-and-click horror adventure. Being a teenage girl, you have no special abilities at all, just your wits and your will to survive.</desc>
+		<rating>0.85</rating>
+		<releasedate>19950914T000000</releasedate>
+		<developer>Human</developer>
+		<publisher>Human</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Clock Tower (Japan) [T-En by Aeon Genesis v1.01].jpg</image>
+		<video>./snaps/Clock Tower (Japan) [T-En by Aeon Genesis v1.01].mp4</video>
+	</game>
+	<game>
+		<path>./Aretha (Japan) [T-En by Dynamic Designs v1.00].sfc</path>
+		<name>Aretha</name>
+		<sortname />
+		<desc>In a far away land, war was raging, as an evil ruler sent his troops to invade the castle of a mighty king. His minions stormed the castle and burnt it down. The king could not escape his fate, and the villain thought no one was spared by his wrath. You are Ariel, a little girl who lives with her old wise grandmother in a small house near a mountain range, north to the forest. She just turned ten, and the grandmother sends her on a seemingly simple quest: to go through the forest to Nineveh, the nearby town, and to meet there a certain person.</desc>
+		<rating>0.55</rating>
+		<releasedate>19931126T000000</releasedate>
+		<developer>Japan Art Media</developer>
+		<publisher>Yanoman Games</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Aretha (Japan) [T-En by Dynamic Designs v1.00].jpg</image>
+		<video>./snaps/Aretha (Japan) [T-En by Dynamic Designs v1.00].mp4</video>
+	</game>
+	<game>
+		<path>./Aretha II - Ariel's Wonderful Adventure (Japan) [T-En by Dynamic Designs v0.91] [n].sfc</path>
+		<name>Aretha II: Ariel no Fushigi na Tabi (Aretha II: Ariel's Mysterious Journey)</name>
+		<sortname />
+		<desc>This time around, Arial has a bad dream about two of her former companions from Aretha 1 being in trouble. Then after she wakes, a letter arrives informing her that those same companions are battling great evil which threatens to destroy the world.</desc>
+		<releasedate>19941126T000000</releasedate>
+		<developer>Japan Art Media</developer>
+		<publisher>Yanoman Games</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Aretha II - Ariel's Wonderful Adventure (Japan) [T-En by Dynamic Designs v0.91] [n].jpg</image>
+		<video>./snaps/Aretha II - Ariel's Wonderful Adventure (Japan) [T-En by Dynamic Designs v0.91] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Eien no Filerna (Japan) [En by Satsu v0.98] (~Eternal Filena).sfc</path>
+		<name>Eien no Firēna (Eternal Filena)</name>
+		<sortname />
+		<desc>The game's story begins with Filena, a girl raised as a boy by her grandfather Zenna. Filena is raised as a boy because the Empire ruling the country forces girls into prostitution and turns boys into gladiators. After turning 16 Filena prepares to make her debut in the imperial coliseum, however before the battle she and her fellow gladiators are assigned concubines. Filena ignores her assigned bedmate, Lila, but Lila forces her way into Filena's room and learns the truth about her gender.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950225T000000</releasedate>
+		<developer>Tokuma Shoten</developer>
+		<publisher>Tokuma Shoten</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Eien no Filerna (Japan) [En by Satsu v0.98] (~Eternal Filena).jpg</image>
+		<video>./snaps/Eien no Filerna (Japan) [En by Satsu v0.98] (~Eternal Filena).mp4</video>
+	</game>
+	<game>
+		<path>./Chaos Seed (English Patched v1.02).smc</path>
+		<name>Chaos Seed: Fūsui Kairouki</name>
+		<sortname />
+		<desc>In this action-strategy-RPG hybrid you play the role of a young member of a cave-dwelling race of warriors. As the planet is dying, it is your task to build the necessary mystic rooms in your caves to channel the energy back to the planet, but the surface-dwellers think that you are to blame for the current situation and constantly send waves of explorers and adventurers trying to clear your "dungeon".</desc>
+		<rating>0.8</rating>
+		<releasedate>19960315T000000</releasedate>
+		<developer>Neverland Co., Ltd.</developer>
+		<publisher>Taito</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Chaos Seed (English Patched v1.02).jpg</image>
+		<video>./snaps/Chaos Seed (English Patched v1.02).mp4</video>
+	</game>
+	<game>
+		<path>./Dark Half (Japan) [T-En by Aeon Genesis v1.00].sfc</path>
+		<name>Dark Half</name>
+		<sortname />
+		<desc>Through the Light came the Darkness, and through the Darkness came the Light. They were inseparable in the beginning, and gave birth to each other. Rukyu appeared before all the other creatures, the great demon of darkness, later to be known as the Satan. The divine hero-god Roda went up to his dark realm to defeat him, but was struck down, and presumed dead. But the hero couldn't die so easily: he swore to defeat Rukyu once and for all. Meanwhile, Rukyu doesn't just stay in his realm, waiting for Roda: he goes out to the world as a death-bringing sorcerer, and he is out for Roda.</desc>
+		<rating>0</rating>
+		<releasedate>19960531T000000</releasedate>
+		<developer>Westone Co., Ltd.</developer>
+		<publisher>Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Dark Half (Japan) [T-En by Aeon Genesis v1.00].jpg</image>
+		<video>./snaps/Dark Half (Japan) [T-En by Aeon Genesis v1.00].mp4</video>
+	</game>
+	<game>
+		<path>./Do-Re-Mi Fantasy - Milon's Quest (Japan) [T-En by Gaijin Productions &amp; RPGOne v1.3] [n].sfc</path>
+		<name>DoReMi Fantasy: Milon no DokiDoki Daibouken (DoReMi Fantasy: Milon's Heart Pounding Adventure)</name>
+		<sortname />
+		<desc>A young boy named Milon sets off to save Alis, his fairy friend, after she was captured by the evil sorcerer Amon. He later learns that the only way to defeat Amon is by collecting five legendary instruments which Amon has stolen. The sorcerer placed a curse on these instruments so that their true powers cannot be used and then left them in the hands of his minions. The only way to lift the curse is by collecting five stars. Armed with only his bubble shooter, Milon must retrieve the legendary instruments, lift their curses and use their powers to defeat Amon and rescue Alis.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960322T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Do-Re-Mi Fantasy - Milon's Quest (Japan) [T-En by Gaijin Productions &amp; RPGOne v1.3] [n].jpg</image>
+		<video>./snaps/Do-Re-Mi Fantasy - Milon's Quest (Japan) [T-En by Gaijin Productions &amp; RPGOne v1.3] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Taekwon-Do (Japan) (Ja,Ko).zip</path>
+		<name>Taekwon-Do</name>
+		<sortname />
+		<desc>This game is based in real taekwondo, using it's real attacks and tournament rules, each character (there are 19) has his own specialities and you can make your personalized fighter.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940602T000000</releasedate>
+		<developer>Human</developer>
+		<publisher>Human</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Taekwon-Do (Japan) (Ja,Ko).jpg</image>
+		<video>./snaps/Taekwon-Do (Japan) (Ja,Ko).mp4</video>
+	</game>
+	<game>
+		<path>./Iron Commando - Koutetsu no Senshi (Japan).zip</path>
+		<name>Iron Commando: Koutetsu no Senshi</name>
+		<sortname />
+		<desc>The B-movie story is cheesy and does nothing more than accommodate for the action. From the introduction sequence: "The peril came from outer space. A meteorite entered the earth's atmosphere bringing chaos. After observation, the scientists found that the meteorite was radioactive and had to be destroyed. Unfortunately, terrorists from g.h.o.s.t. want the meteorite too. The Iron Commando's mission is to retrieve the deadly body and avoid genetic mutation.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950210T000000</releasedate>
+		<developer>Arcade Zone</developer>
+		<publisher>Poppo</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-4</players>
+		<image>./boxart/Iron Commando - Koutetsu no Senshi (Japan).jpg</image>
+		<video>./snaps/Iron Commando - Koutetsu no Senshi (Japan).mp4</video>
+	</game>
+	<game>
+		<path>./Langrisser, Der (Japan) (Rev 1) [T-En by Byuu &amp; Derrick Sobodash v1.3].sfc</path>
+		<name>Der Langrisser (The Sword of Light)</name>
+		<sortname />
+		<desc>The Blue Dragon Knights of the Rayguard Empire are trying to steal the virtuous sorceress Riana. Their goal is to make her serve the evil Emperor Bozel, whose intention is to find the most powerful evil sword in the land, the Alhazard. Naturally, the main hero of the game, the knight Elwin, has not only to rescue Riana, but to retrieve the legendary holy sword Langrisser, the only artifact that is more powerful than Alhazard. At first, Elwin automatically follows the "good" path, but as the game progresses, he can choose whether to continue being good, to become an ally with Rayguard, or to side with the forces of Chaos whose goal is utter destruction.</desc>
+		<rating>0.6</rating>
+		<releasedate>19950630T000000</releasedate>
+		<developer>Masaya Games</developer>
+		<publisher>NCS Corporation</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Langrisser, Der (Japan) (Rev 1) [T-En by Byuu &amp; Derrick Sobodash v1.3].jpg</image>
+		<video>./snaps/Langrisser, Der (Japan) (Rev 1) [T-En by Byuu &amp; Derrick Sobodash v1.3].mp4</video>
+	</game>
+	<game>
+		<path>./G.O.D - Growth or Devolution - Heed the Call to Awaken (Japan) [T-En by Dynamic Designs v1.00] [n].sfc</path>
+		<name>G·O·D: Growth or Devolution</name>
+		<sortname />
+		<desc>The year is 1999. A boy named Gen lives together with his mother in a small Japanese city. One day he goes to the nearby mountains and discovers an underground cave. In this cave, he encounters a strange bat-like creature guarding what appears to be a huge diamond. When Gen approaches the diamond, the floor crumbles, and all he can see is a group of aliens descending on the Earth.</desc>
+		<rating>0.65</rating>
+		<releasedate>19961220T000000</releasedate>
+		<developer>Infinity</developer>
+		<publisher>Imagineer</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/G.O.D - Growth or Devolution - Heed the Call to Awaken (Japan) [T-En by Dynamic Designs v1.00] [n].jpg</image>
+		<video>./snaps/G.O.D - Growth or Devolution - Heed the Call to Awaken (Japan) [T-En by Dynamic Designs v1.00] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Jelly Boy 2 (Japan) (Proto) [T-En by Chris Covell &amp; KingMike's Translations v1.0].sfc</path>
+		<name>Jelly Boy 2</name>
+		<sortname />
+		<desc>Jelly Boy 2 is the unreleased squeal to Jerry Boy, known as Smart Ball in the US, that was planned to be released in 1994 for the Super Famicom. The game was developed by Game Freak and was going to be published by Sony Music Entertainment but it was canceled supposedly because of Sony's impending release of the PlayStation. However Jelly Boy 2's development was completed and a rom of the game eventually leaked onto the internet. KingMike's Translation created an English translation patch for Jelly Boy 2 that was released on October 16, 2006.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Epic - Sony Records</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Jelly Boy 2 (Japan) (Proto) [T-En by Chris Covell &amp; KingMike's Translations v1.0].jpg</image>
+		<video>./snaps/Jelly Boy 2 (Japan) (Proto) [T-En by Chris Covell &amp; KingMike's Translations v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Magical Drop (Japan) [T-En by Aeon Genesis v0.95b].sfc</path>
+		<name>Magical Drop</name>
+		<sortname />
+		<desc>Magical Drop sometimes referred to by native Japanese users as MagiDro , is a series of puzzle games originally released in the arcade, and later primarily released for several platforms such as the Neo Geo, Super Famicom, Sega Saturn and Neo Geo Pocket Color developed by Data East. The games are notable for being extremely fast-paced.</desc>
+		<rating>0.7</rating>
+		<releasedate>19951020T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Magical Drop (Japan) [T-En by Aeon Genesis v0.95b].jpg</image>
+		<video>./snaps/Magical Drop (Japan) [T-En by Aeon Genesis v0.95b].mp4</video>
+	</game>
+	<game>
+		<path>./Panel de Pon (Japan) [T-En by Zuqkeo v1.0].sfc</path>
+		<name>Panel de Pon</name>
+		<sortname />
+		<desc>Tetris Attack is a fact-paced action puzzler featuring the colorful cast of characters from Yoshi's Island. A stack of blocks continually rises from the bottom of the screen, and the player controls a cursor which can swap any two blocks horizontally. Make a row or column of three or more and they'll clear, potentially creating combos from new blocks falling to take their place. Combos will send large garbage blocks to your opponent, which must be eliminated by clearing a piece that is touching it, turning it into normal blocks.</desc>
+		<rating>0.8</rating>
+		<releasedate>19951027T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Panel de Pon (Japan) [T-En by Zuqkeo v1.0].jpg</image>
+		<video>./snaps/Panel de Pon (Japan) [T-En by Zuqkeo v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Rockman X (Japan) (Rev 1) [T-En by Her-Saki v1.5].sfc</path>
+		<name>Rockman X</name>
+		<sortname />
+		<desc>Rockman X is a robot designed by Dr. Light to choose his own path in life. Years after he is created, Dr. Cain finds X and mimics his design to create a race of such robots called reploids. When the sigma virus infects these reploids, causing them to commit acts of evil, it is up to Mega Man X and his partner Zero (who is quite powerful, contrary to what his name implies) to stop it.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940107T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Rockman X (Japan) (Rev 1) [T-En by Her-Saki v1.5].jpg</image>
+		<video>./snaps/Rockman X (Japan) (Rev 1) [T-En by Her-Saki v1.5].mp4</video>
+	</game>
+	<game>
+		<path>./Rockman X2 (Japan) [T-En by Her-Saki v1.1].sfc</path>
+		<name>Rockman X2</name>
+		<sortname />
+		<desc>Sigma, the leader of the Maverick army, was destroyed when he underestimated his opponent: a lone warrior, awakened into a time he never knew X. 6 months had passed, and X rose to the rank of leader of the Maverick Hunters. His first task was to eliminate the last of the Mavericks. But as he began his assignment, a mysterious group of Reploids calling themselves the X-Hunters appeared with a message to X: the remains of his fallen comrade, Zero, were in the hands of the X-Hunters, and they planned on resurrecting Zero to fight alongside them and for their fallen leader, Sigma. X must now stop the X-Hunters and rescue Zero, and once again prevent Sigma from rising back into ultimate power.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950114T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Rockman X2 (Japan) [T-En by Her-Saki v1.1].jpg</image>
+		<video>./snaps/Rockman X2 (Japan) [T-En by Her-Saki v1.1].mp4</video>
+	</game>
+	<game>
+		<path>./Super Famicom Wars (Japan) (NP) [T-En by Optiroc v1.1].sfc</path>
+		<name>Super Famicom Wars</name>
+		<sortname />
+		<desc>Super Famicom Wars is a strategy game where two players each control an army with the goal of destroying one another. Each city controlled by the player generates money which can be used to purchase new units. Each individual unit has unique statistics and is often best used against certain types of enemy units.</desc>
+		<rating>1</rating>
+		<releasedate>19980501T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Famicom Wars (Japan) (NP) [T-En by Optiroc v1.1].jpg</image>
+		<video>./snaps/Super Famicom Wars (Japan) (NP) [T-En by Optiroc v1.1].mp4</video>
+	</game>
+	<game>
+		<path>./Super Fire Pro Wrestling X Premium (Japan) [T-En by Brian v1.0].sfc</path>
+		<name>Super Fire Pro Wrestling X Premium</name>
+		<sortname />
+		<desc>In this final appearance of Fire Pro series on 16-bit consoles, the usual roster of over 150 wrestlers from several wresting promotions worldwide including several styles from Shoot or Pancrase to American and Lucha are joined by 80 Create-a-wrestler slots, plus secret wrestlers such as legends Gotch or Thesz or the roster of Blazing Tornado. While all fighters have fictional names, a lot of them are perfectly recognizable by their attire, stance and style. The CAW mode allows the player to create a wrestler from scratch, setting how they look (choosing face, size, clothing and setting colours) and fight, with several styles and stances available, as well as over 500 moves, each more suitable for certain styles and skills.</desc>
+		<rating>0.9</rating>
+		<releasedate>19960329T000000</releasedate>
+		<developer>Human</developer>
+		<publisher>Human</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Fire Pro Wrestling X Premium (Japan) [T-En by Brian v1.0].jpg</image>
+		<video>./snaps/Super Fire Pro Wrestling X Premium (Japan) [T-En by Brian v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Tengai Makyou Zero (Japan) [T-En by Tom v7.0].sfc</path>
+		<name>Tengai Makyou Zero</name>
+		<sortname />
+		<desc>In the feudal Japan-like world of Jipang, an evil prince releases the demon lord Ninigi, who in turn seals the gods of Jipang and suppresses the people of six kingdoms with his demon henchmen. After one of the henchmen attack his village and slay his grandfather, the main character, Higan, learns he is the legendary "Fire Hero" and must set off to save the kingdoms. Along the way, Higan meets several characters, such as Subaru, a fairy and Tenjin, a swordsman.</desc>
+		<rating>0.75</rating>
+		<releasedate>19951222T000000</releasedate>
+		<developer>Red Company</developer>
+		<publisher>Hudson</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Tengai Makyou Zero (Japan) [T-En by Tom v7.0].jpg</image>
+		<video>./snaps/Tengai Makyou Zero (Japan) [T-En by Tom v7.0].mp4</video>
+	</game>
+	<game>
+		<path>./Torneco no Daibouken - Fushigi no Dungeon (Japan) [T-En by Dynamic Designs v0.99].sfc</path>
+		<name>Torneko no Daibōken: Fushigi no Dungeon</name>
+		<sortname />
+		<desc>Torneko (aka Taloon) from Dragon Quest IV was a merchant and treasure hunter who always dreamed of owning his own shop. Having defeating the evil along with other heroes, he returned to Endor to work peacefully. Some time has passed and after growing successful in this town, Torneko grew anxious. Hearing rumors one day about a "Mysterious Dungeon", Torneko meets with the king to ask permission to set up a new shop, closer to this Mysterious Dungeon. By exploring this cavern and returning safely with the prizes, Torneko hopes to become the most successful merchant in the world.</desc>
+		<rating>0.9</rating>
+		<releasedate>19930919T000000</releasedate>
+		<developer>Chunsoft</developer>
+		<publisher>Chunsoft</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Torneco no Daibouken - Fushigi no Dungeon (Japan) [T-En by Dynamic Designs v0.99].jpg</image>
+		<video>./snaps/Torneco no Daibouken - Fushigi no Dungeon (Japan) [T-En by Dynamic Designs v0.99].mp4</video>
+	</game>
+	<game>
+		<path>./TwinBee - Rainbow Bell Adventure (Japan) [T-En by Aeon Genesis v1.01] [n].sfc</path>
+		<name>Pop'n TwinBee: Rainbow Bell Adventure</name>
+		<sortname />
+		<desc>You play as either Twinbee, Gwinbee or Winbee. Cooperative play is also available. In this mode the second player takes control over one of the two characters left. Either way your task is to find and defeat the evil Dr. Warmon who tries to enslave the islands of Dunburi. To deal with the many villains Dr. Warmon throws at you, you need to collect colored bells. Depending on the color of the bell you can use different attacks like a laser (blue bells) or a lash (orange bells). But even without the bells you're not defenseless. Your standard-attacks include a shock wave and the ability to fly.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940107T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/TwinBee - Rainbow Bell Adventure (Japan) [T-En by Aeon Genesis v1.01] [n].jpg</image>
+		<video>./snaps/TwinBee - Rainbow Bell Adventure (Japan) [T-En by Aeon Genesis v1.01] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Undercover Cops (Japan) [T-En by RPGOne v1.0].sfc</path>
+		<name>Undercover Cops</name>
+		<sortname />
+		<desc>2043. Dr. Clayborn and his army have gained control of New York and Commissioner Gordon made one last plea for help and called three of the finest city sweepers: Matt, an ex-professional football player; Rosa, a former female vigilante and Miss America pageant; and Zan, an ex-karate master and a retired philosophy teacher. They must fight every lackey and vanquish Dr. Clayborn in order to restore law and order to the city. Go through the game's five stages, defeating enemies along the way and destroying the end-of-level boss before proceeding to the next stage. Along the way, weapons such as fish, rocks, i-beams, cars, and more can be used.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950303T000000</releasedate>
+		<developer>Varie Corporation</developer>
+		<publisher>Irem</publisher>
+		<genre>Beat'em up</genre>
+		<players>1-2</players>
+		<image>./boxart/Undercover Cops (Japan) [T-En by RPGOne v1.0].jpg</image>
+		<video>./snaps/Undercover Cops (Japan) [T-En by RPGOne v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Mysterious Dungeon 2 - Shiren the Wanderer (Japan) [T-En by Aeon Genesis v1.00] [n].sfc</path>
+		<name>Mystery Dungeon 2: Shiren the Wanderer</name>
+		<sortname />
+		<desc>The player takes the role of the rōnin Shiren, who travels through thirty areas on his way to the Land of the Golden Condor. The game is turn-based, with all enemies and characters in an area moving whenever the player performs an action, such as attacking or moving.</desc>
+		<rating>0.7</rating>
+		<releasedate>19951206T000000</releasedate>
+		<developer>Chunsoft</developer>
+		<publisher>Chunsoft</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Mysterious Dungeon 2 - Shiren the Wanderer (Japan) [T-En by Aeon Genesis v1.00] [n].jpg</image>
+		<video>./snaps/Mysterious Dungeon 2 - Shiren the Wanderer (Japan) [T-En by Aeon Genesis v1.00] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Stories of Ihatovo, The (Japan) [T-En by Tom &amp; FlashPV &amp; DDSTranslation v2.0] [n].sfc</path>
+		<name>Stories of Ihatovo, The</name>
+		<sortname />
+		<desc>You take on the role of a man, (nameless), in search of 'Kenji Miyazawa' but not all is a simple as it sounds, he has disappeared. With Kenji Miyazawa missing, also have his seven journals gone missing too.. so you need to find those also before you even get to meet the man for an interview about this world of Ihatovo and it's many inhabitants. It's definitely a refreshing change to an rpg game where save the maiden/world always seems to take priority.</desc>
+		<rating>0.7</rating>
+		<releasedate>19931206T000000</releasedate>
+		<developer>Hect</developer>
+		<publisher>Hect</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./boxart/Stories of Ihatovo, The (Japan) [T-En by Tom &amp; FlashPV &amp; DDSTranslation v2.0] [n].jpg</image>
+		<video>./snaps/Stories of Ihatovo, The (Japan) [T-En by Tom &amp; FlashPV &amp; DDSTranslation v2.0] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Power Sokoban (Japan) [T-En by Saffith v1.0] [n].sfc</path>
+		<name>Power Sōko-ban</name>
+		<sortname />
+		<desc>Taking control of a devil, you go through a series of mazes with the same goal in mind as SUPER SOUKOBAN. Pushing boxes (this time stones) to cover purple dots (this time pits). The modern twist? But of course, STAYING ALIVE. Staying alive? Yes, for from the excavation comes forth HELL'S ARMY!</desc>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Atelier Double</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Power Sokoban (Japan) [T-En by Saffith v1.0] [n].jpg</image>
+		<video>./snaps/Power Sokoban (Japan) [T-En by Saffith v1.0] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Lennus II - The Apostles of the Seals (Japan) [T-En by Dynamic Designs v1.04] [n].sfc</path>
+		<name>Lennus II</name>
+		<sortname />
+		<desc>This is a follow-up to the game "Lennus", which is know outside of Japan as Paladin's Quest. The game is set in a world of Andell - a floating continent where ancient prophecies and highly advanced technology co-exist. A curse has fallen onto Andell - its four island, once united, are now separated, and are floating away from the heart of the continent, the temple of Andell. The sages of the temple summon a great hero named Farse, who must find a special magic orb for each one of the islands, which is the only way to re-unite them. Farse embarks on his journey, aided by three Terranos, the big-eared inhabitants of Andell.</desc>
+		<rating>0.75</rating>
+		<releasedate>19960726T000000</releasedate>
+		<developer>Asmik</developer>
+		<publisher>Asmik</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Lennus II - The Apostles of the Seals (Japan) [T-En by Dynamic Designs v1.04] [n].jpg</image>
+		<video>./snaps/Lennus II - The Apostles of the Seals (Japan) [T-En by Dynamic Designs v1.04] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Quest I &amp; II (Japan) [T-En by RPGOne v2.0 DQ] [Add by Mziab v1.0].sfc</path>
+		<name>Doragon Kuesuto I.II (Dragon Quest I.II)</name>
+		<sortname />
+		<desc>In Dragon Quest (known as Dragon Warrior in the US), you play as the descendant of the legendary warrior Erdrick, and your goal is to recover the magical Ball of Light from Erdrick's and the humanity's arch-enemy, the Dragon Lord. In Dragon Quest II, you assume the role of the descendant of the hero of the first game, and must join forces with two other characters in order to defeat a demon lord who destroyed a nearby city and killed its inhabitants.</desc>
+		<rating>0.55</rating>
+		<releasedate>19931218T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Dragon Quest I &amp; II (Japan) [T-En by RPGOne v2.0 DQ] [Add by Mziab v1.0].jpg</image>
+		<video>./snaps/Dragon Quest I &amp; II (Japan) [T-En by RPGOne v2.0 DQ] [Add by Mziab v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Radical_Dreamers_-_Le_Tresor_Interdit_Japan_T-En.sfc</path>
+		<name>Radical Dreamers</name>
+		<sortname />
+		<desc>This text-based adventure (with some interesting background graphics) was originally released in Japan over the Satellaview system. The game is a spin-off from the Chrono Series, and was the precursor to Chrono Cross. It tells the story of Serge (travelling musician), Kid (thief), and Magil (wizard) as they attempt to steal the Frozen Flame from Viper Manor. Contains multiple, often humorous endings.</desc>
+		<rating>0.85</rating>
+		<releasedate>19960601T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Radical_Dreamers_-_Le_Tresor_Interdit_Japan_T-En.jpg</image>
+		<video>./snaps/Radical_Dreamers_-_Le_Tresor_Interdit_Japan_T-En.mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Quest III - And into the Legend (Japan) [T-En by DQ Translations v1.1] [n].sfc</path>
+		<name>Doragon Kuesuto III Soshite Densetsu e… (Dragon Quest III: The Seeds of Salvation)</name>
+		<sortname />
+		<desc>Dragon Warrior III is the concluding game of the first Dragon Quest/Dragon Warrior trilogy, and its story takes us back to the time period of the legendary Erdrick (also known as Loto), the ancestor of the first game's hero. You are the son of a powerful warrior Ortega, skillful in physical combat and spellcasting. Your father went out to fight the evil Baramos, who is responsible for the appearance of monsters in your region, and never returned. You are sent by the king on a quest to continue your father's brave deeds and to defeat Baramos.</desc>
+		<rating>0.95</rating>
+		<releasedate>19961206T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Enix</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Dragon Quest III - And into the Legend (Japan) [T-En by DQ Translations v1.1] [n].jpg</image>
+		<video>./snaps/Dragon Quest III - And into the Legend (Japan) [T-En by DQ Translations v1.1] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Go for it! Goemon - The Rescue of Princess Yuki (Japan) (Rev 2) [T-En by DDSTranslation v2.0] [SRAM Hack] [n].sfc</path>
+		<name>Ganbare Goemon: Yukihime Kyūshutsu Emaki</name>
+		<sortname>Ganbare Goemon 1</sortname>
+		<desc>Player one controls Goemon while Player two controls Ebisumaru. During some level segments, the players may walk up, down, left or right. During others, the players scroll in a side view perspective, typical of a 2D platformer game. In the side-scrolling stages, one player may hop onto the other's back and have a piggyback ride, letting the one on the ground walk and jump while the one riding attacks.</desc>
+		<rating>0.8</rating>
+		<releasedate>19951222T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Go for it! Goemon - The Rescue of Princess Yuki (Japan) (Rev 2) [T-En by DDSTranslation v2.0] [SRAM Hack] [n].jpg</image>
+		<video>./snaps/Go for it! Goemon - The Rescue of Princess Yuki (Japan) (Rev 2) [T-En by DDSTranslation v2.0] [SRAM Hack] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Go for it! Goemon - The Twinkling Journey - The Reason I became a Dancer (Japan) [T-En by DDSTranslation v3.0] [n].sfc</path>
+		<name>Ganbare Goemon 4: Kirakira Dōchū: Boku ga Dancer ni Natta Wake</name>
+		<sortname>Ganbare Goemon 4</sortname>
+		<desc>At the request of Impact, Goemon and his friends travel to several planets in order to defeat the evil commander Harakiri Seppukumaru. The game introduced the "Oni Oni Rendezvous" and title themes which would be used in later titles. The anime based on the series also uses some elements from this game, including the appearance of Seppukumaru and his followers.</desc>
+		<rating>0.7</rating>
+		<releasedate>19951206T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Go for it! Goemon - The Twinkling Journey - The Reason I became a Dancer (Japan) [T-En by DDSTranslation v3.0] [n].jpg</image>
+		<video>./snaps/Go for it! Goemon - The Twinkling Journey - The Reason I became a Dancer (Japan) [T-En by DDSTranslation v3.0] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Assault Suits Valken (Japan) [T-En by Aeon Genesis v1.00] [n].sfc</path>
+		<name>Jūsō Kihei Varuken (Assault Suits Valken)</name>
+		<sortname />
+		<desc>In a future where fossil fuels are limited, major countries and forces of the world are at war with one another over territory. Alliances are made, forming two major sides: The Axis and The Federation. The elite units in these wars are Assault Suits, man-piloted combat mechs called Assault Suits. Jake is one such pilot, drafted into the Pacific States' Marine Corp under the Federation. During his training, the war has grown substantially and upon being assigned to a platoon, he is immediately thrown into combat.</desc>
+		<rating>0.85</rating>
+		<releasedate>19921218T000000</releasedate>
+		<developer>Masaya Games</developer>
+		<publisher>Masaya Games</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Assault Suits Valken (Japan) [T-En by Aeon Genesis v1.00] [n].jpg</image>
+		<video>./snaps/Assault Suits Valken (Japan) [T-En by Aeon Genesis v1.00] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Ball Z - Super Saiya Densetsu (Japan) (Rev 1) [T-En by Klepto Software v1.02] [n].sfc</path>
+		<name>Doragon Bōru Zetto: Sūpā Saiya Densetsu (Dragon Ball Z: Legend of the Saiyans)</name>
+		<sortname>Dragon Ball Z 1</sortname>
+		<desc>The game starts just where the tale of Dragon Ball begins. Son Goku goes to meet his friends, but is stopped by a mysterious stranger named Raditz who tells Son Goku they are relatives. Raditz demands from him to destroy humanity, and as Son Goku refuses, takes his son Son Gohan hostage. To rescue his son, Son Goku joins forces with his arch-rival, the Demon King Piccolo, who obviously has his own plans concerning Raditz. And thus begins the story during which Son Goku will learn of his true origin.</desc>
+		<rating>0.5</rating>
+		<releasedate>19920125T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Bandai</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Dragon Ball Z - Super Saiya Densetsu (Japan) (Rev 1) [T-En by Klepto Software v1.02] [n].jpg</image>
+		<video>./snaps/Dragon Ball Z - Super Saiya Densetsu (Japan) (Rev 1) [T-En by Klepto Software v1.02] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Dragon Ball Z - Hyper Dimension (Japan) [T-En by Twilight Translations v1.00].sfc</path>
+		<name>Doragon Bōru Zetto: Haipā Dimenshon (Dragon Ball Z: Hyper Dimension)</name>
+		<sortname>Dragon Ball Z 2</sortname>
+		<desc>Dragon Ball Z: Hyper Dimension is a fighting game based on the Dragon Ball Z series. Players select one of ten fighters: Freeza, Gotenks, Kid Buu, Majin Buu, Majin Vegeta, Perfect Cell, Piccolo, Son Goku, Ultimate Gohan and Vegetto.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960329T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Bandai</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<image>./boxart/Dragon Ball Z - Hyper Dimension (Japan) [T-En by Twilight Translations v1.00].jpg</image>
+		<video>./snaps/Dragon Ball Z - Hyper Dimension (Japan) [T-En by Twilight Translations v1.00].mp4</video>
+	</game>
+	<game>
+		<path>./Rockman &amp; Forte (Japan) [T-En by Aeon Genesis v1.00].sfc</path>
+		<name>Rockman &amp; Forte</name>
+		<sortname>Rockman X3</sortname>
+		<desc>The mighty robot King has taken over Dr. Wily's base, invaded the Robot Museum, and stolen 100 CDs containing secret robot plans, hoping to create the ultimate unstoppable army of robots! And to make matters worse, he's sent 8 robot masters to prove his new-found power! Mega Man is the only one who can stop him or so he thought! Bass, Dr. Wily's greatest creation and Mega Man's sworn rival, is actually fighting ALONGSIDE Mega Man for once! Of course, it's only to prove that he's the strongest robot ever made, and he'll do it by smashing King's army of mechanical maniacs!</desc>
+		<rating>0.8</rating>
+		<releasedate>19980424T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./boxart/Rockman &amp; Forte (Japan) [T-En by Aeon Genesis v1.00].jpg</image>
+		<video>./snaps/Rockman &amp; Forte (Japan) [T-En by Aeon Genesis v1.00].mp4</video>
+	</game>
+	<game>
+		<path>./Go for it! Goemon 3 - The Mecha Leg Hold of Jurokube Shishi (Japan) [T-En by DDSTranslation v4.0] [n].sfc</path>
+		<name>Ganbare Goemon 3: Shishijūrokubē no Karakuri Manji Gatame</name>
+		<sortname />
+		<desc>Third title in the Ganbare Goemon series of platform/adventure games which cast you as the heroic Goemon as he attempts to save feudal Japan from all sorts of wacky evildoers. This time around, a time-travelling machine threatens all of Japan and thus Goemon and co. must jump into the future to stop the machine.</desc>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<image>./boxart/Go for it! Goemon 3 - The Mecha Leg Hold of Jurokube Shishi (Japan) [T-En by DDSTranslation v4.0] [n].jpg</image>
+		<video>./snaps/Go for it! Goemon 3 - The Mecha Leg Hold of Jurokube Shishi (Japan) [T-En by DDSTranslation v4.0] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Little Magic (Japan) [T-En by Aeon Genesis v1.00b].zip</path>
+		<name>Little Magic</name>
+		<sortname />
+		<desc>A puzzle game seen from a top-down perspective. The goal of each level is to open the exit by pushing a magic stone on a designated spot. May can also push objects one tile ahead without moving herself. This is often used to get the stone over water that she can't cross herself. May's other ability is to create magic bubbles. She can create bubbles in three different sizes. Bubbles will pop after a certain amount of time, depending on their size. If they pop while next to the stone or another bubble, the stone or bubble will be moved one space. Since May can create several bubbles simultaneously, it is possible, and often necessary, to create chain reactions to maneuver the stone into the desired position.</desc>
+		<rating>0.65</rating>
+		<releasedate>19931224T000000</releasedate>
+		<developer>Altron</developer>
+		<publisher>Altron</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<image>./boxart/Little Magic (Japan) [T-En by Aeon Genesis v1.00b].jpg</image>
+		<video>./snaps/Little Magic (Japan) [T-En by Aeon Genesis v1.00b].mp4</video>
+	</game>
+	<game>
+		<path>./Warriors - Legend of the Blue Dragon - The Two Heroes (Japan) [T-En by DDSTranslation v2.0] [n].zip</path>
+		<name>Bushi Seiryūden: Futari no Yūsha (Warriors Legend of the Blue Dragon: The Two Heroes)</name>
+		<sortname />
+		<desc>The plot of the game concerns a grand battle that involves mythical gods and monstrous creatures both big and small. The player takes the role of an orphaned child, the son of one of the four Warriors who served the Goddess of the Mountains on Gotou Island.</desc>
+		<rating>0.65</rating>
+		<releasedate>20170817T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>T&amp;E Soft</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1</players>
+		<image>./boxart/Warriors - Legend of the Blue Dragon - The Two Heroes (Japan) [T-En by DDSTranslation v2.0] [n].jpg</image>
+		<video>./snaps/Warriors - Legend of the Blue Dragon - The Two Heroes (Japan) [T-En by DDSTranslation v2.0] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Super Tetris 2 + Bombliss (Japan) (En) (Rev 1).zip</path>
+		<name>Super Tetris 2 + Bombliss</name>
+		<sortname />
+		<desc>Super Tetris 2 + Bombliss is one of the many versions of the famous soviet puzzle game, the first one available for the Super Nintendo, and an updated version of Tetris 2 + Bombliss. As the title would suggest, the game features both standard Tetris as well as another similar game called Bombliss. Tetris offers three game modes: standard marathon (A-type), start with garbage (B-type), and rising garbage (C-type). There is also a two-player versus mode where clearing rows sends garbage to the other player.</desc>
+		<rating>0.75</rating>
+		<releasedate>19921218T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+		<image>./boxart/Super Tetris 2 + Bombliss (Japan) (En) (Rev 1).jpg</image>
+		<video>./snaps/Super Tetris 2 + Bombliss (Japan) (En) (Rev 1).mp4</video>
+	</game>
+	<game>
+		<path>./Tales of Phantasia (Japan) [T-En by DeJap v1.2] [Add by Spinner 8 and friends v1.0].sfc</path>
+		<name>Tales of Phantasia</name>
+		<sortname />
+		<desc>The game takes place in a fantasy world of Aselia and follows Cress Albane and his allies who must travel through time in order to destroy Dhaos, a demon king who seeks to wreak havoc upon the world.</desc>
+		<rating>0.75</rating>
+		<releasedate>19951215T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Namco</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Tales of Phantasia (Japan) [T-En by DeJap v1.2] [Add by Spinner 8 and friends v1.0].jpg</image>
+		<video>./snaps/Tales of Phantasia (Japan) [T-En by DeJap v1.2] [Add by Spinner 8 and friends v1.0].mp4</video>
+	</game>
+	<game>
+		<path>./Alcahest (Japan) [T-En by FH v1.0b] [Add by KingMike].sfc</path>
+		<name>Arukaesuto (Alcahest)</name>
+		<sortname />
+		<desc>This is an action game with RPG elements. You wander around slaying enemies in real time combat, gathering treasure on the way, and occasionally participating in boss battles. When you gather enough experience from fighting, you gain extra hit points. You can also upgrade your weapons. On the way you'll meet some characters who will join your party for short time, and you'll be able to use their special attacks and magic. Past and future are connected in a way mortals do not understand. A star was glowing up in the sky, and the demon god Alcahest appeared, bringing chaos and destruction to the world.</desc>
+		<rating>0.8</rating>
+		<releasedate>19971217T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Games</genre>
+		<players>1-2</players>
+		<image>./boxart/Alcahest (Japan) [T-En by FH v1.0b] [Add by KingMike].jpg</image>
+		<video>./snaps/Alcahest (Japan) [T-En by FH v1.0b] [Add by KingMike].mp4</video>
+	</game>
+	<game>
+		<path>./Donald Duck and the Magical Hat (Japan) [T-En by Gorgyrip v1.0] [n].sfc</path>
+		<name>Disney's Donald Duck no Mahō no Bōshi (Donald Duck and the Magical Hat)</name>
+		<sortname />
+		<desc>Donald Duck no Mahō no Bōshi ("Donald Duck's The Magic Hat" or "Donald Duck in The Magic Hat") is a Super Famicom platformer that features the irascible Disney character Donald Duck as he first attempts to raise money to buy the eponymous magic hat for his girlfriend Daisy, and then gets involved in more misadventures due to the headwear.</desc>
+		<rating>0</rating>
+		<releasedate>19951108T000000</releasedate>
+		<developer>SAS Sakata</developer>
+		<publisher>Epoch</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Donald Duck and the Magical Hat (Japan) [T-En by Gorgyrip v1.0] [n].jpg</image>
+		<video>./snaps/Donald Duck and the Magical Hat (Japan) [T-En by Gorgyrip v1.0] [n].mp4</video>
+	</game>
+	<game>
+		<path>./Mickey no Tokyo Disneyland Daibouken (English v1.0).sfc</path>
+		<name>Disney's Mikkī no Tōkyō Dizunīrando Daibōken (Mickey's Great Adventure in Tokyo Disneyland)</name>
+		<sortname />
+		<desc>Mickey has taken a trip to Tokyo Disneyland. But when he arrives, he finds out from Minnie that his friends have been kidnapped and the park has been hijacked by none other than Pete. Armed with nothing but a combo water/helium backpack and some balloons, Mickey must trek through the different sections of the park to rescue his friends, held captive in some of the park's most iconic attractions, and stop Pete.</desc>
+		<rating>0.6</rating>
+		<releasedate>19941216T000000</releasedate>
+		<developer>GRC</developer>
+		<publisher>Tomy</publisher>
+		<genre>Platform</genre>
+		<image>./boxart/Mickey no Tokyo Disneyland Daibouken (English v1.0).jpg</image>
+		<video>./snaps/Mickey no Tokyo Disneyland Daibouken (English v1.0).mp4</video>
 	</game>
 </gameList>
