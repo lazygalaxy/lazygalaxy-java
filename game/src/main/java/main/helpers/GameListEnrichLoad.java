@@ -128,6 +128,13 @@ public class GameListEnrichLoad {
                     }
 
                     this.systemId = systemId;
+                    //system id mappings
+                    if (StringUtils.equals(this.systemId, GameSystem.SFC)) {
+                        this.systemId = GameSystem.SNES;
+                    }
+                    if (StringUtils.equals(this.systemId, GameSystem.SEGACD)) {
+                        this.systemId = GameSystem.MEGADRIVE;
+                    }
                     break;
             }
 

@@ -5,7 +5,17 @@
 		<database>LazyGalaxy</database>
 	</provider>
 	<game>
-		<path>./outrun2006.zip</path>
+		<path>./After Burner Climax.lazygalaxy</path>
+		<name>After Burner Climax</name>
+		<rating>0.7</rating>
+		<releasedate>2010</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Combat Flight Simulation</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./OutRun 2006.lazygalaxy</path>
 		<name>OutRun 2006: Coast 2 Coast</name>
 		<sortname />
 		<desc>Race from coast to coast with a new mission structure andlicense mode. Features 15 fully-licensed Ferrari models, including the all-new F430 and F430 Spider.</desc>
@@ -16,7 +26,7 @@
 		<players>1</players>
 	</game>
 	<game>
-		<path>./ultrastreetfighter4.zip</path>
+		<path>./Ultra Street Fighter IV.lazygalaxy</path>
 		<name>Ultra Street Fighter 4</name>
 		<desc>This is an update of Super Street Fighter IV: Arcade Edition and the fourth update to the Street Fighter IV series overall. It features five additional characters, six additional stages, and character tweaks based on community feedback. This title update also features brand new modes.</desc>
 		<releasedate>2014</releasedate>

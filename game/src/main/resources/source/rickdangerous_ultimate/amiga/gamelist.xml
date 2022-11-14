@@ -4074,9 +4074,9 @@
 	</game>
 	<game>
 		<path>./RType_v1.6_0940.lha</path>
-		<name>R·Type</name>
+		<name>R-Type</name>
 		<sortname />
-		<desc>You control the R-9 spaceship as it launches a last-ditch effort to repel the evil Bydo empire. The stages of R·Type are made in an organic style, certainly inspired by H. R. Giger's artwork for the Alien movies. When it came out, it was considered trend-setting since it broke off from the stereotypical sci-fi mould of other shoot'em'ups. In part, the levels themselves are your enemy, which is exemplified by the fourth, where spider-like creatures weave webs that cover the screen and block your path, or levels with intricate tunnel systems. Still, the levels are best handled with a combination of strategy and reflexes, without the memorisation that is required of R·Type's contemporary rival, Gradius.</desc>
+		<desc>You control the R-9 spaceship as it launches a last-ditch effort to repel the evil Bydo empire. The stages of R-Type are made in an organic style, certainly inspired by H. R. Giger's artwork for the Alien movies. When it came out, it was considered trend-setting since it broke off from the stereotypical sci-fi mould of other shoot'em'ups. In part, the levels themselves are your enemy, which is exemplified by the fourth, where spider-like creatures weave webs that cover the screen and block your path, or levels with intricate tunnel systems. Still, the levels are best handled with a combination of strategy and reflexes, without the memorisation that is required of R·Type's contemporary rival, Gradius.</desc>
 		<rating>0.7</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Electric Dreams Software</developer>
@@ -4088,9 +4088,9 @@
 	</game>
 	<game>
 		<path>./RType2_v2.1_2065.lha</path>
-		<name>R·Type II</name>
+		<name>R-Type II</name>
 		<sortname />
-		<desc>R·Type II is a horizontal scrolling shooter arcade game developed and published by Irem in 1989. It is the second game in the R·Type series. The player controls a ship called the R-9C (or R-9 Custom), which is an improved version of its predecessor game's ship; the R-9. The ship's design was changed slightly, and the wave cannon was given homing capabilities. Two new types of weapons (the Search Laser and Shotgun Laser) were added, bringing the total number of weapon types up to five. A new anti-ground unit bomb was also added to the missile inventory.</desc>
+		<desc>R-Type II is a horizontal scrolling shooter arcade game developed and published by Irem in 1989. It is the second game in the R·Type series. The player controls a ship called the R-9C (or R-9 Custom), which is an improved version of its predecessor game's ship; the R-9. The ship's design was changed slightly, and the wave cannon was given homing capabilities. Two new types of weapons (the Search Laser and Shotgun Laser) were added, bringing the total number of weapon types up to five. A new anti-ground unit bomb was also added to the missile inventory.</desc>
 		<rating>0.65</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Irem</developer>

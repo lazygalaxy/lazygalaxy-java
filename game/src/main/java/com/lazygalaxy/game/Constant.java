@@ -61,10 +61,11 @@ public class Constant {
         public final static String SNES = "snes";
         public final static String MEGADRIVE = "megadrive";
         public final static String OPENBOR = "openbor";
+        public final static String SFC = "sfc";
         public final static String SCUMMVM = "scummvm";
 
         public final static List<String> MAME = Lists.newArrayList(ARCADE, ATOMISWAVE, DAPHNE, FBNEO, MAME2003, MAME2010, MODEL3, NAOMI, NEOGEO, TRIFORCE);
-        public final static List<String> CONSOLE = Lists.newArrayList(DREAMCAST, GAMECUBE, MEGADRIVE, N64, NES, PCENGINE, PSX, PS2, PS3, SEGACD, SNES);
+        public final static List<String> CONSOLE = Lists.newArrayList(DREAMCAST, GAMECUBE, MEGADRIVE, N64, NES, PCENGINE, PSX, PS2, PS3, SEGACD, SFC, SNES);
 
         public final static List<String> COMPUTER = Lists.newArrayList(C64, PC, SCUMMVM);
 

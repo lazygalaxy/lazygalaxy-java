@@ -5,7 +5,7 @@
         <database>LazyGalaxy</database>
     </provider>
     <game>
-        <path>./F-Zero GX (Europe).rvz</path>
+        <path>./F-Zero GX (Europe).lazygalaxy</path>
         <name>F-Zero GX</name>
         <desc>The classic Nintendo franchise that has inspired countless futuristic racing games returns with F-Zero GX on the Nintendo GameCube. Long-time rival Sega collaborated with Nintendo to redefine the futuristic racing genre with intense competition, blazing speeds, and brilliant track designs. F-Zero GX offers 20 different tracks and over 30 unique pilots, as well as a custom craft editor where players can create their own vehicle. Multiple game modes including Grand Prix, Time Attack, Versus mode, and the all new challenging story mode offer a multitude of alternatives to traditional racing. Players can laso save their game data on a memory card and use it to race custom vehicles in the arcade version of F-Zero GX.</desc>
         <image>./mixart/F-Zero GX (Europe).png</image>
@@ -19,7 +19,7 @@
         <players>2-4</players>
     </game>
     <game id="4745" source="ScreenScraper.fr">
-        <path>./Legend of Zelda, The - The Wind Waker (USA).rvz</path>
+        <path>./Legend of Zelda, The - The Wind Waker (USA).lazygalaxy</path>
         <name>The Legend of Zelda: The Wind Waker</name>
         <desc>Nintendo's thematic action-adventure sequel to Ocarina of Time takes the series back to its more cartoonish roots. Utilizing a completely new look with cel-shaded graphics, the game casts players in the role of a familiar young boy, who sets out to save his kidnapped sister. Gameplay is vintage Zelda, only that the game's overworld is covered by water. Players have to control the direction of the wind to sail across the ocean and find dungeons, towns, and plenty of secrets. A special Game Boy Advance link-up option lets another player join the quest and give hints and assistance via the handheld.</desc>
         <rating>0.95</rating>
@@ -33,7 +33,7 @@
         <video>./snap/Legend of Zelda, The - The Wind Waker (USA).mp4</video>
     </game>
     <game>
-        <path>./Mario Kart - Double Dash!! (USA).rvz</path>
+        <path>./Mario Kart - Double Dash!! (USA).lazygalaxy</path>
         <name>Mario Kart: Double Dash!!</name>
         <desc>The king of kart racers has returned with Nintendo's Mario Kart: Double Dash on the Nintendo GameCube. Mario, along with Luigi, Peach, Baby Mario, Baby Luigi, Wario and more, are back for more multiplayer, single player and versus action. The new Mario Kart features updated graphics with detailed character models, and colorful interactive racing environments. For the first time, two characters ride in a single kart as one drive while the other uses items, opening up the possibility for two-player co-op racing. Along with the classic four-player competition, Mario Kart: Double Dash offers a new eight-player mode, where players can link multiple systems for a new level of multiplayer kart racing.</desc>
         <image>./mixart/Mario Kart - Double Dash!! (USA).png</image>
@@ -47,7 +47,7 @@
         <players>4</players>
     </game>
     <game>
-        <path>./Super Mario Sunshine (USA).rvz</path>
+        <path>./Super Mario Sunshine (USA).lazygalaxy</path>
         <name>Super Mario Sunshine</name>
         <desc>Mario, Princess Peach, Toadsworth, and Toad have come to Isle Delfino for some relaxation. Upon arrival, however, they discover the island has been polluted causing its energy source, the Shine Sprites, to disappear. The culprit is similar in appearance to Mario, who is blamed for the mess, so the portly plumber is forced to clean up the island. Mario is given an invention called FLUDD (a backpack with several water nozzles) to help him clean up graffiti and mud and capture the real villain. Gameplay features a combination of action and puzzle solving, with numerous stages and multiple episodes to each stage, and plenty of hidden secrets and surprises.</desc>
         <image>./mixart/Super Mario Sunshine (USA).png</image>

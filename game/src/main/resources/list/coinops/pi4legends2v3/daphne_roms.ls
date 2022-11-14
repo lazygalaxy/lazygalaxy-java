@@ -1,2 +1,2 @@
--rw-r--r-- 1 1000 1000        0 May  6  2022 Dragons Lair.zip
--rw-r--r-- 1 1000 1000        0 May  6  2022 Space Ace.zip
+-rwxrwxrwx+ 1 admin users        10 Mar 29  2021 lair.zip
+-rwxrwxrwx+ 1 admin users        10 Mar 29  2021 spaceace.zip

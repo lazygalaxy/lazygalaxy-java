@@ -6343,9 +6343,9 @@
 	</game>
 	<game>
 		<path>./rtype.zip</path>
-		<name>R·Type</name>
+		<name>R-Type</name>
 		<sortname />
-		<desc>R·Type is a sideways-scrolling shoot-em-up in which the evil Bydo Empire rules the galaxy through fear and intimidation and it's up to the player - piloting their heavily-armed R-9 space ship - to battle through eight tough levels to the heart of the Bydo stronghold and defeat them.</desc>
+		<desc>R-Type is a sideways-scrolling shoot-em-up in which the evil Bydo Empire rules the galaxy through fear and intimidation and it's up to the player - piloting their heavily-armed R-9 space ship - to battle through eight tough levels to the heart of the Bydo stronghold and defeat them.</desc>
 		<rating>0.9</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>Irem</developer>
@@ -6357,7 +6357,7 @@
 	</game>
 	<game>
 		<path>./rtype2.zip</path>
-		<name>R·Type II</name>
+		<name>R-Type II</name>
 		<sortname />
 		<desc>The sequel to the hugely successful original finds the evil Bydo Empire once again intent on the destruction of all mankind in this sideways scrolling, six-level shoot-em-up.</desc>
 		<rating>0.9</rating>
@@ -6371,9 +6371,9 @@
 	</game>
 	<game>
 		<path>./rtypeleo.zip</path>
-		<name>R·Type Leo</name>
+		<name>R-Type Leo</name>
 		<sortname />
-		<desc>R·Type Leo is a horizontally-scrolling shoot-em-up and is the third and final arcade release of this classic series (although numerous console-only sequels would follow, see 'Series' for details).</desc>
+		<desc>R-Type Leo is a horizontally-scrolling shoot-em-up and is the third and final arcade release of this classic series (although numerous console-only sequels would follow, see 'Series' for details).</desc>
 		<rating>0.8</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Irem</developer>

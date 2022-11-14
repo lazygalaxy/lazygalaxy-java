@@ -470,9 +470,9 @@
 	</game>
 	<game>
 		<path>./R-Type (USA, Europe).zip</path>
-		<name>R·Type</name>
+		<name>R-Type</name>
 		<sortname />
-		<desc>R·Type is a side scrolling shoot 'em up best known for its extremely tough and strategic gameplay. You control the R-9 spaceship as it launches a last-ditch effort to repel the evil Bydo empire.</desc>
+		<desc>R-Type is a side scrolling shoot 'em up best known for its extremely tough and strategic gameplay. You control the R-9 spaceship as it launches a last-ditch effort to repel the evil Bydo empire.</desc>
 		<rating>0.7</rating>
 		<releasedate>19910502T000000</releasedate>
 		<developer>Irem</developer>

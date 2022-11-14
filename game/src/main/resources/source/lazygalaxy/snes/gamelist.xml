@@ -5,25 +5,15 @@
 		<database>LazyGalaxy</database>
 	</provider>
 	<game>
-		<path>./Aladdin (USA).zip</path>
+		<path>./Aladdin (USA).lazygalaxy</path>
 		<name>Disney's Aladdin / Aladdin</name>
 	</game>
 	<game>
-		<path>./Flashback (USA).zip</path>
-		<name>Flashback: The Quest for Identity</name>
-		<rating>0.9</rating>
-		<releasedate>19940201T000000</releasedate>
-		<developer>Delphine Software International</developer>
-		<publisher>U.S. Gold</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Goof Troop (USA).lazygalaxy</path>
-		<name>Goof Troop</name>
+		<name>Disney's Goof Troop / Goof Troop</name>
 	</game>
 	<game>
-		<path>./Legend of Zelda, The - A Link to the Past (USA).zip</path>
+		<path>./Legend of Zelda, The - A Link to the Past (USA).lazygalaxy</path>
 		<name>The Legend of Zelda: A Link to the Past / Legend of Zelda: Link to the Past</name>
 	</game>
 	<game>
@@ -31,22 +21,11 @@
 		<name>Mega Man X1 / Mega Man X</name>
 	</game>
 	<game>
-		<path>./Super Bomberman 5.zip</path>
-		<name>Super Bomberman 5</name>
-		<desc>An evil Bomber named Emperor Terrorin who has the power of time itself has freed various criminal Bombers from their prison cells in orbit around Planet Bomber. Setting them up in a warped time and space, White Bomber, Black Bomber, and their Louie (Rooey) companions must travel through stages and defeat them before going up against Emperor Terrorin himself.</desc>
-		<rating>0.85</rating>
-		<releasedate>19970297T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Hudson</publisher>
-		<genre>Action</genre>
-		<players>1-5</players>
-	</game>
-	<game>
-		<path>./Super Star Wars - The Empire Strikes Back (USA) (Rev 1).zip</path>
+		<path>./Super Star Wars - The Empire Strikes Back (USA) (Rev 1).lazygalaxy</path>
 		<name>Super Star Wars 2: The Empire Strikes Back</name>
 	</game>
 	<game>
-		<path>./Super Star Wars - Return of the Jedi (USA) (Rev 1).zip</path>
+		<path>./Super Star Wars - Return of the Jedi (USA) (Rev 1).lazygalaxy</path>
 		<name>Super Star Wars 3: Return of the Jedi</name>
 	</game>
 </gameList>

@@ -808,9 +808,9 @@
 	</game>
 	<game>
 		<path>./rtype-0.p8.png</path>
-		<name>R·Type</name>
+		<name>R-Type</name>
 		<sortname />
-		<desc>After months of hard work, here is the release version of Irem’s R·Type* pico-8 port, featuring the first 3 stages in a 32kb cart, which I think is pretty good considering the PC-Engine port featured 4 stages in a 256kb hu-card.</desc>
+		<desc>After months of hard work, here is the release version of Irem’s R-Type* pico-8 port, featuring the first 3 stages in a 32kb cart, which I think is pretty good considering the PC-Engine port featured 4 stages in a 256kb hu-card.</desc>
 		<genre>Shoot'em up</genre>
 		<image>./boxart/rtype-0.p8.jpg</image>
 		<video>./snaps/rtype-0.p8.mp4</video>

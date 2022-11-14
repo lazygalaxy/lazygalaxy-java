@@ -830,7 +830,7 @@
 	</game>
 	<game>
 		<path>./R-Type Delta (USA).chd</path>
-		<name>R·Type Delta</name>
+		<name>R-Type Delta</name>
 		<sortname>Rtype 2</sortname>
 		<desc>The Bydo Empire has returned to Earth with a vengeance. This time, they will not accept defeat so easily. Earth however, is ready for them. Three R-Class ships: the R-9, the R-13, and the prototype R-X, are your weapons in this war. Choose your ship according to your liking, blast off, and strike the Bydo Empire! R-Type Delta is the first 2D/3D R-Type game (a la Einhander and Thunder Force V) and is a PlayStation exclusive.</desc>
 		<rating>0.75</rating>
@@ -2422,9 +2422,9 @@
 	</game>
 	<game>
 		<path>./R-Types (USA).chd</path>
-		<name>R·Types</name>
+		<name>R-Types</name>
 		<sortname>Rtype 1</sortname>
-		<desc>R·Types is a compilation of R-Type and R-Type II ported pixel-for-pixel from the coin-op to the PlayStation. A couple of handy features have been added to the games that help prevent them from being impossibly difficult. First, your progress through the game is saved at the start of each level, so you don't have to start from scratch every time. Second, you now have unlimited continues. R-Types also contains a small library section which describes some of the story behind the R-Type universe, and lets you browse some of the in-game graphics. Other bonuses include an FMV intro movie and ending movies.</desc>
+		<desc>R-Types is a compilation of R-Type and R-Type II ported pixel-for-pixel from the coin-op to the PlayStation. A couple of handy features have been added to the games that help prevent them from being impossibly difficult. First, your progress through the game is saved at the start of each level, so you don't have to start from scratch every time. Second, you now have unlimited continues. R-Types also contains a small library section which describes some of the story behind the R-Type universe, and lets you browse some of the in-game graphics. Other bonuses include an FMV intro movie and ending movies.</desc>
 		<rating>0.6</rating>
 		<releasedate>19990228T000000</releasedate>
 		<developer>ASCII Corporation</developer>
@@ -7460,6 +7460,7 @@
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
 		<genre>Action</genre>
+		<players>1</players>
 		<image>./boxart/Castlevania - Symphony of the Night (USA).jpg</image>
 		<video>./snaps/Castlevania - Symphony of the Night (USA).mp4</video>
 	</game>

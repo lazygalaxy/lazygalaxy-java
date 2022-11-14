@@ -1,7 +1,7 @@
--rwxrwxrwx+ 1 admin users        10 Mar 29  2021 Badlandss.zip
--rwxrwxrwx+ 1 admin users        10 Mar 29  2021 cobra command.zip
--rwxrwxrwx+ 1 admin users        10 Mar 29  2021 Cliff Hanger.zip
--rwxrwxrwx+ 1 admin users        10 Mar 29  2021 Dragons Lair 2.zip
--rwxrwxrwx+ 1 admin users        10 Mar 29  2021 Dragons Lair.zip
--rwxrwxrwx+ 1 admin users        10 Mar 29  2021 MACH 3.zip
--rwxrwxrwx+ 1 admin users        10 Mar 29  2021 Space Ace.zip
+-rwxrwxrwx+ 1 admin users        10 Mar 29  2021 kbadlands.zip
+-rwxrwxrwx+ 1 admin users        10 Mar 29  2021 cobra.zip
+-rwxrwxrwx+ 1 admin users        10 Mar 29  2021 cliff.zip
+-rwxrwxrwx+ 1 admin users        10 Mar 29  2021 lair2.zip
+-rwxrwxrwx+ 1 admin users        10 Mar 29  2021 lair.zip
+-rwxrwxrwx+ 1 admin users        10 Mar 29  2021 mach3.zip
+-rwxrwxrwx+ 1 admin users        10 Mar 29  2021 spaceace.zip
