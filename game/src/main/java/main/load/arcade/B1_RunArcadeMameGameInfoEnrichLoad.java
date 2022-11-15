@@ -160,22 +160,25 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
             } else if (rotate != null && StringUtils.equalsAny(rotate, "0", "180", "horizontal")) {
                 isVertical = false;
             }
-            Set<String> inputs = XMLUtil.getTagAttributeAsStringSet(element, "control", "type");
-            if (inputs == null || inputs.size() == 0) {
-                String control = XMLUtil.getTagAttributeAsString(element, "input", "control", 0);
-                if (StringUtils.endsWith(control, "way")) {
-                    inputs = SetUtil.addValueToTreeSet(inputs, StringUtils.substring(control, 0, control.length() - 4));
-                }
+
+            Set<String> tempInputs = XMLUtil.getTagAttributeAsStringSet(element, "control", "type");
+            if (tempInputs == null || tempInputs.size() == 0) {
+                tempInputs = XMLUtil.getTagAttributeAsStringSet(element, "input", "control");
             }
+
             String ways = XMLUtil.getTagAttributeAsString(element, "control", "ways", 0);
-            if (ways == null) {
-                ways = XMLUtil.getTagAttributeAsString(element, "input", "control", 0);
-                if (StringUtils.endsWith(ways, "way")) {
-                    ways = GeneralUtil.numerify(ways);
+            TreeSet<String> inputs = new TreeSet<String>();
+            for (String input : tempInputs) {
+                if (StringUtils.endsWith(input, "way")) {
+                    inputs.add(StringUtils.substring(input, 0, input.length() - 4));
+                    if (ways == null) {
+                        ways = GeneralUtil.numerify(input);
+                    }
                 } else {
-                    ways = null;
+                    inputs.add(input);
                 }
             }
+
             Integer buttons = XMLUtil.getTagAttributeAsInteger(element, "control", "buttons", 0);
             if (buttons == null) {
                 buttons = XMLUtil.getTagAttributeAsInteger(element, "input", "buttons", 0);

@@ -9,7 +9,6 @@
 -rw-r--r-- 1 1000 1000   367302 Apr 17  2022 Revenge of Shinobi.zip
 -rw-r--r-- 1 1000 1000   677514 Apr 17  2022 Rocket Knight Adventures.zip
 -rw-r--r-- 1 1000 1000   640312 Apr 17  2022 Shinobi III.zip
--rw-r--r-- 1 1000 1000     2248 Apr 17  2022 Sonic CD.cue
 -rw-r--r-- 1 1000 1000  1259506 Apr 17  2022 Sonic The Hedgehog III.zip
 -rw-r--r-- 1 1000 1000   750113 Apr 17  2022 Sonic The Hedgehog II.zip
 -rw-r--r-- 1 1000 1000   387866 Apr 17  2022 Sonic The Hedgehog I.zip
