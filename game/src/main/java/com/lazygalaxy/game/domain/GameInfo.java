@@ -2,6 +2,7 @@ package com.lazygalaxy.game.domain;
 
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.game.Constant.GameSource;
+import com.lazygalaxy.game.util.GameUtil;
 import com.lazygalaxy.game.util.SetUtil;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.builder.EqualsBuilder;
@@ -110,7 +111,7 @@ public class GameInfo {
             for (String manufacturer : manufacturers) {
                 if (!StringUtils.isBlank(manufacturer)) {
                     this.manufacturers = SetUtil.addValueToArrayList(this.manufacturers,
-                            normalizeManufacturer(manufacturer));
+                            GameUtil.normalizeManufacturer(manufacturer, false));
                 }
             }
         }
@@ -131,111 +132,7 @@ public class GameInfo {
             this.isGuess = isGuess;
         }
     }
-
-    private String normalizeManufacturer(String manufacturer) {
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "atari")) {
-            return "Atari";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "capcom")) {
-            return "Capcom";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "dataeast")) {
-            return "Data East";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "irem")) {
-            return "Irem";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "midway")) {
-            return "Midway";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "nazca")) {
-            return "Nazca";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "nintendo")) {
-            return "Nintendo";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "nmk")) {
-            return "NMK";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "orientalsoft")) {
-            return "Oriental Soft";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "romstar")) {
-            return "Romstar";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "sega")) {
-            return "SEGA";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "snk") || StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "playmore")) {
-            return "SNK";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "sammy")) {
-            return "Sammy";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "sternelectronics")) {
-            return "Stern Electronics";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "taito")) {
-            return "Taito";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "technosjapan")) {
-            return "Technos Japan";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "videosystem") ||
-                StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "vsystem")) {
-            return "Video System";
-        }
-
-        if (StringUtils.contains(GeneralUtil.alphanumerify(manufacturer), "virgin")) {
-            return "Virgin";
-        }
-
-        if (StringUtils.endsWith(GeneralUtil.alphanumerify(manufacturer, ".", ""), "inc.")) {
-            return clean(StringUtils.replaceIgnoreCase(manufacturer, "inc.", "").trim());
-        }
-
-        if (StringUtils.endsWith(GeneralUtil.alphanumerify(manufacturer, ".", ""), "ltd.")) {
-            return clean(StringUtils.replaceIgnoreCase(manufacturer, "ltd.", "").trim());
-        }
-
-        if (StringUtils.endsWith(GeneralUtil.alphanumerify(manufacturer, ".", ""), "co.")) {
-            return clean(StringUtils.replaceIgnoreCase(manufacturer, "co.", "").trim());
-        }
-
-        if (StringUtils.endsWith(GeneralUtil.alphanumerify(manufacturer), "license")) {
-            return normalizeManufacturer(clean(StringUtils.replaceIgnoreCase(manufacturer, "license", "").trim()));
-        }
-
-        if (StringUtils.equals(GeneralUtil.alphanumerify(manufacturer), "bootleg") || StringUtils.equals(GeneralUtil.alphanumerify(manufacturer), "hack")) {
-            return null;
-        }
-
-        return manufacturer;
-    }
-
-    private String clean(String value) {
-        if (StringUtils.endsWith(value, ",")) {
-            return StringUtils.substring(value, 0, value.length() - 1);
-        }
-        return value;
-    }
-
+    
     @Override
     public int hashCode() {
         return HashCodeBuilder.reflectionHashCode(this);

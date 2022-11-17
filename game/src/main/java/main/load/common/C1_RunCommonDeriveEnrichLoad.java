@@ -110,12 +110,18 @@ public class C1_RunCommonDeriveEnrichLoad {
                             if (game.developer == null) {
                                 game.developer = manufacturers.get(0);
                                 game.publisher = manufacturers.get(0);
+                                game.manufacturer = GameUtil.normalizeManufacturer(manufacturers.get(0), true);
                             }
 
                             for (String manufacturer : manufacturers) {
                                 if (!StringUtils.equals(game.publisher, manufacturer)) {
                                     game.publisher = manufacturer;
-                                    return;
+                                    if (StringUtils.equals(game.manufacturer, "Other")) {
+                                        game.manufacturer = GameUtil.normalizeManufacturer(manufacturer, true);
+                                        if (!StringUtils.equals(game.manufacturer, "Other")) {
+                                            return;
+                                        }
+                                    }
                                 }
                             }
                             return;

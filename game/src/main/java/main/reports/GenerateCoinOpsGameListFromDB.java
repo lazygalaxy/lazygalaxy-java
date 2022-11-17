@@ -35,8 +35,9 @@ public class GenerateCoinOpsGameListFromDB {
                 "System" + seperator + "SubSystem" + seperator + "Name" + seperator + "Year" + seperator + "ROM" + seperator + "Players" + seperator +
                         "Joystick" + seperator + "Buttons" + seperator + "LightGun" + seperator + "TrackBall" + seperator + "Other Input" + seperator +
                         "Vertical" + seperator +
-                        "Developer" + seperator +
-                        "Publisher" + seperator +
+                        "Manufacturer" + seperator +
+                        //"Developer" + seperator +
+                        //"Publisher" + seperator +
                         "Genre" + seperator +
                         "SubGenre" + seperator +
                         "Player Legends 4 Max" + seperator +
@@ -61,8 +62,9 @@ public class GenerateCoinOpsGameListFromDB {
                             + seperator
                             + (game.inputs != null ? (getOtherInputString(game.inputs, "joy", "doublejoy", "only_buttons", "lightgun", "trackball")) : "unknown")
                             + seperator + (game.isVertical != null && game.isVertical ? "Yes" : "No") + seperator
-                            + (game.developer != null ? game.developer : "unknown") + seperator
-                            + (game.publisher != null ? game.publisher : "unknown") + seperator
+                            + (game.manufacturer != null ? game.manufacturer : "unknown") + seperator
+                            //+ (game.developer != null ? game.developer : "unknown") + seperator
+                            //+ (game.publisher != null ? game.publisher : "unknown") + seperator
                             + (game.genre != null ? game.genre : "unknown") + seperator
                             + (game.subGenre != null ? game.subGenre : "unknown") + seperator
                             + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PLAYER_LEGENDS_4_MAX) ? "Yes" : "No") + seperator

@@ -37,6 +37,7 @@ public class Game extends MongoDocument {
     public String description;
     public String developer;
     public String publisher;
+    public String manufacturer;
     public String genre;
     public String subGenre;
 
