@@ -66,7 +66,7 @@ public class GenerateCoinOpsGameListFromDB {
                             (game.subSystemId != null && !StringUtils.equals(game.subSystemId, game.systemId) ? game.subSystemId : "none") + seperator +
                             game.name + seperator +
                             game.year + seperator +
-                            game.gameId + seperator
+                            (game.coinopsGameInfo != null && game.coinopsGameInfo.originalName != null ? game.coinopsGameInfo.originalName : game.gameId) + seperator
                             + (game.players != null && game.players > 0 ? game.players : "unknown") + seperator
                             + (game.inputs != null ? (game.inputs.contains("doublejoy") ? "twin" : (game.inputs.contains("joy") ? "single" : "none")) : "unknown") + seperator
                             + (game.inputs != null ? (game.inputs.contains("joy") || game.inputs.contains("doublejoy") ? game.ways : "none") : "unknown") + seperator

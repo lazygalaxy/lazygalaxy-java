@@ -6,11 +6,11 @@
 	</provider>
 	<game>
 		<path>./Aladdin (USA).lazygalaxy</path>
-		<name>Disney's Aladdin / Aladdin</name>
+		<name>Aladdin / Disney's Aladdin</name>
 	</game>
 	<game>
 		<path>./Goof Troop (USA).lazygalaxy</path>
-		<name>Disney's Goof Troop / Goof Troop</name>
+		<name>Goof Troop / Disney's Goof Troop</name>
 	</game>
 	<game>
 		<path>./Legend of Zelda, The - A Link to the Past (USA).lazygalaxy</path>
@@ -19,7 +19,7 @@
 
 	<game>
 		<path>./Magical Quest Starring Mickey Mouse, The (USA) (Rev 1).lazygalaxy</path>
-		<name>Disney's The Magical Quest Staring Mickey Mouse / Magical Quest</name>
+		<name>The Magical Quest / Disney's The Magical Quest Staring Mickey Mouse / Magical Quest</name>
 	</game>
 
 	<game>

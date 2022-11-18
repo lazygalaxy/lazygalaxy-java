@@ -102,6 +102,8 @@ public class A3_RunOtherCoinOpsRomLoad {
             } else {
                 for (Game game : games) {
                     game.coinopsVersions = SetUtil.addValueToTreeSet(game.coinopsVersions, coinopsVersion);
+                    game.coinopsGameInfo = new GameInfo(gameId, null);
+                    game.coinopsGameInfo.originalName = gameInfoStatic.originalName;
                 }
             }
 
