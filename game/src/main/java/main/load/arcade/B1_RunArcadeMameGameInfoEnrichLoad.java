@@ -190,13 +190,16 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
             String status = XMLUtil.getTagAttributeAsString(element, "driver", "status", 0);
             String cloneOf = XMLUtil.getAttributeAsString(element, "cloneof");
 
-            gameInfoStatic.originalName = manufacturer;
-            GameUtil.pretifyName(gameInfoStatic);
-            List<String> manufacturers = new ArrayList<String>();
-            for (String name : gameInfoStatic.names) {
-                manufacturers.add(name);
+            List<String> manufacturers = null;
+            if (!StringUtils.isBlank(manufacturer)) {
+                gameInfoStatic.originalName = manufacturer;
+                GameUtil.pretifyName(gameInfoStatic);
+                manufacturers = new ArrayList<String>();
+                for (String name : gameInfoStatic.names) {
+                    manufacturers.add(name);
+                }
+                manufacturers.add(gameInfoStatic.version);
             }
-            manufacturers.add(gameInfoStatic.version);
 
             String subSystemId = null;
 

@@ -31,7 +31,6 @@
 -rwxrwxrwx+ 1 admin users     7264 Mar 31  2019 asteroid.zip
 -rwxrwxrwx+ 1 admin users  2157760 Mar  4  2018 astorm.zip
 -rwxrwxrwx+ 1 admin users  1101266 Jul 11  2017 astyanax.zip
--rwxrwxrwx+ 1 admin users    49407 Jul 26 06:39 atarisy1.zip
 -rwxrwxrwx+ 1 admin users    53466 Mar 11  2018 atetris.zip
 -rwxrwxrwx+ 1 admin users   145376 Mar  4  2018 athena.zip
 -rwxrwxrwx+ 1 admin users   358507 Mar  4  2018 avengers.zip
@@ -87,7 +86,6 @@
 -rwxrwxrwx+ 1 admin users  2544788 Mar  6  2018 captcomm.zip
 -rwxrwxrwx+ 1 admin users  1440062 Mar  4  2018 cawing.zip
 -rwxrwxrwx+ 1 admin users    28065 Mar  4  2018 ccastles.zip
--rwxrwxrwx+ 1 admin users     2700 Dec 17  2021 cchip.zip
 -rwxrwxrwx+ 1 admin users    28613 Mar  6  2018 cclimber.zip
 -rwxrwxrwx+ 1 admin users    86196 Mar 31  2019 centiped.zip
 -rwxrwxrwx+ 1 admin users  5428315 Jun 23  2021 chasehq.zip
@@ -97,7 +95,6 @@
 -rwxrwxrwx+ 1 admin users    62577 Mar  4  2018 circusc.zip
 -rwxrwxrwx+ 1 admin users   112451 Mar  4  2018 citycon.zip
 -rwxrwxrwx+ 1 admin users  2318709 Mar  4  2018 cninja.zip
--rwxrwxrwx+ 1 admin users   137963 Dec 17  2021 coh3002c.zip
 -rwxrwxrwx+ 1 admin users   536697 Mar  4  2018 combatsc.zip
 -rwxrwxrwx+ 1 admin users   164346 Mar  8  2018 commandou.zip
 -rwxrwxrwx+ 1 admin users    56062 Mar  4  2018 congo.zip
@@ -247,7 +244,6 @@
 -rwxrwxrwx+ 1 admin users    34694 May  8  2018 invadpt2.zip
 -rwxrwxrwx+ 1 admin users    97862 Mar  6  2018 ironhors.zip
 -rwxrwxrwx+ 1 admin users  6660204 Mar 14  2018 irrmaze.zip
--rwxrwxrwx+ 1 admin users  3594482 Jul 20 05:52 iteagle.zip
 -rwxrwxrwx+ 1 admin users   233428 Mar  4  2018 jackal.zip
 -rwxrwxrwx+ 1 admin users    69169 Mar  4  2018 jailbrek.zip
 -rwxrwxrwx+ 1 admin users  6871215 Mar 11  2018 jdreddp.zip
@@ -297,8 +293,6 @@
 -rwxrwxrwx+ 1 admin users  2616497 Jun 23  2021 loht.zip
 -rwxrwxrwx+ 1 admin users     9857 Mar  5  2018 lrescue.zip
 -rwxrwxrwx+ 1 admin users   228842 Mar  4  2018 lwings.zip
--rwxrwxrwx+ 1 admin users     3832 Dec 17  2021 m1comm.zip
--rwxrwxrwx+ 1 admin users      266 Dec 17  2021 m68705p5.zip
 -rwxrwxrwx+ 1 admin users   764498 Mar  4  2018 madgear.zip
 -rwxrwxrwx+ 1 admin users  4452716 Mar 13  2018 maglord.zip
 -rwxrwxrwx+ 1 admin users    96044 Mar  5  2018 magmax.zip
@@ -316,7 +310,6 @@
 -rwxrwxrwx+ 1 admin users    69696 Mar 11  2018 mhavoc.zip
 -rwxrwxrwx+ 1 admin users   535495 Mar  6  2018 mia.zip
 -rwxrwxrwx+ 1 admin users   688733 Mar  4  2018 midres.zip
--rwxrwxrwx+ 1 admin users      163 Dec 17  2021 midssio.zip
 -rwxrwxrwx+ 1 admin users    78469 Mar 31  2019 mikie.zip
 -rwxrwxrwx+ 1 admin users    15625 Mar  4  2018 milliped.zip
 -rwxrwxrwx+ 1 admin users    12623 Jul 26 06:40 missile.zip
@@ -325,7 +318,6 @@
 -rwxrwxrwx+ 1 admin users  5493469 Mar  4  2018 mk.zip
 -rwxrwxrwx+ 1 admin users 19105102 Mar  6  2018 mmatrix.zip
 -rwxrwxrwx+ 1 admin users 63985930 Mar 10  2018 mmpork.zip
--rwxrwxrwx+ 1 admin users     4700 Dec 17  2021 model1io.zip
 -rwxrwxrwx+ 1 admin users    49923 Mar 16  2018 monsterb.zip
 -rwxrwxrwx+ 1 admin users  4613816 Mar  6  2018 moomesa.zip
 -rwxrwxrwx+ 1 admin users    16711 Mar 31  2019 mooncrst.zip
@@ -350,12 +342,6 @@
 -rwxrwxrwx+ 1 admin users    77496 Mar  5  2018 myhero.zip
 -rwxrwxrwx+ 1 admin users  6445003 Mar  6  2018 mystwarr.zip
 -rwxrwxrwx+ 1 admin users  4701157 Mar 13  2018 nam1975.zip
--rwxrwxrwx+ 1 admin users      898 Mar 31  2019 namco50.zip
--rwxrwxrwx+ 1 admin users      716 Mar 31  2019 namco51.zip
--rwxrwxrwx+ 1 admin users      389 Mar 31  2019 namco52.zip
--rwxrwxrwx+ 1 admin users      675 Mar 31  2019 namco53.zip
--rwxrwxrwx+ 1 admin users      592 Mar 31  2019 namco54.zip
--rwxrwxrwx+ 1 admin users      645 Mar 31  2019 namco62.zip
 -rwxrwxrwx+ 1 admin users  2772027 Mar  4  2018 narc.zip
 -rwxrwxrwx+ 1 admin users    21202 Mar  6  2018 naughtyb.zip
 -rwxrwxrwx+ 1 admin users 17413989 Jul 26 06:44 nbahangt.zip
@@ -367,7 +353,6 @@
 -rwxrwxrwx+ 1 admin users  4944768 Mar 13  2018 ncommand.zip
 -rwxrwxrwx+ 1 admin users 10005329 Jun  2  2018 nebulray.zip
 -rwxrwxrwx+ 1 admin users  8575446 Mar 31  2019 neodrift.zip
--rwxrwxrwx+ 1 admin users  1488200 Mar 31  2019 neogeo.zip
 -rwxrwxrwx+ 1 admin users 19604336 Oct 27  2018 ninjamas.zip
 -rwxrwxrwx+ 1 admin users 19472590 Mar 12  2018 nitd.zip
 -rwxrwxrwx+ 1 admin users    28151 May  7  2018 nrallyx.zip
@@ -417,8 +402,6 @@
 -rwxrwxrwx+ 1 admin users  7283443 Nov 21  2021 puzzli2.zip
 -rwxrwxrwx+ 1 admin users    25790 Jul 26 06:51 qbert.zip
 -rwxrwxrwx+ 1 admin users    23053 Mar 31  2019 qix.zip
--rwxrwxrwx+ 1 admin users     2676 May  9  2021 qsound_hle.zip
--rwxrwxrwx+ 1 admin users     2676 May  9  2021 qsound.zip
 -rwxrwxrwx+ 1 admin users   459116 Mar  5  2018 quartet2.zip
 -rwxrwxrwx+ 1 admin users   272951 May  7  2018 rackemup.zip
 -rwxrwxrwx+ 1 admin users  5050701 Mar 10  2018 radm.zip
@@ -478,7 +461,6 @@
 -rwxrwxrwx+ 1 admin users  8806123 Oct 26  2018 sdodgeb.zip
 -rwxrwxrwx+ 1 admin users  1573331 Mar 11  2018 searchar.zip
 -rwxrwxrwx+ 1 admin users   198965 Mar  6  2018 sectionz.zip
--rwxrwxrwx+ 1 admin users     3005 Sep 21  2021 segabill.zip
 -rwxrwxrwx+ 1 admin users    93617 Mar  5  2018 seganinj.zip
 -rwxrwxrwx+ 1 admin users 46398393 Mar  6  2018 sengoku3.zip
 -rwxrwxrwx+ 1 admin users  6510396 May 28  2018 sexyparo.zip
@@ -545,7 +527,6 @@
 -rwxrwxrwx+ 1 admin users  1327100 Mar  4  2018 streetsm.zip
 -rwxrwxrwx+ 1 admin users  2101117 Mar  4  2018 strider.zip
 -rwxrwxrwx+ 1 admin users   721823 Jun  1  2018 stunrun.zip
--rwxrwxrwx+ 1 admin users  3203164 Dec 17  2021 stvbios.zip
 -rwxrwxrwx+ 1 admin users  1234312 Apr  2  2018 superman.zip
 -rwxrwxrwx+ 1 admin users    16653 Mar 10  2018 superpac.zip
 -rwxrwxrwx+ 1 admin users 84851902 Oct 27  2018 svc.zip
@@ -572,7 +553,6 @@
 -rwxrwxrwx+ 1 admin users  1736091 Jun 23  2021 timesold.zip
 -rwxrwxrwx+ 1 admin users  3532618 Mar  5  2018 tmnt22pu.zip
 -rwxrwxrwx+ 1 admin users  2024500 Mar  5  2018 tmnt2po.zip
--rwxrwxrwx+ 1 admin users      573 Jul 26 06:12 tms32031.zip
 -rwxrwxrwx+ 1 admin users   839895 Mar  5  2018 tndrcade.zip
 -rwxrwxrwx+ 1 admin users   105624 Mar 19  2018 tnk3.zip
 -rwxrwxrwx+ 1 admin users   445996 Mar 31  2019 tnzs.zip
@@ -615,7 +595,6 @@
 -rwxrwxrwx+ 1 admin users   530560 Apr 12  2021 vindictr.zip
 -rwxrwxrwx+ 1 admin users  8546320 Mar  6  2018 viostorm.zip
 -rwxrwxrwx+ 1 admin users  9118974 Mar  4  2018 viprp1.zip
--rwxrwxrwx+ 1 admin users      590 Jul 20 05:57 votrax.zip
 -rwxrwxrwx+ 1 admin users  9909558 Jun 23  2021 vr.zip
 -rwxrwxrwx+ 1 admin users 23421983 Mar  6  2018 vsav2.zip
 -rwxrwxrwx+ 1 admin users 23417230 May 27  2018 vsav.zip
@@ -648,7 +627,5 @@
 -rwxrwxrwx+ 1 admin users 19608320 Mar  6  2018 xmvsf.zip
 -rwxrwxrwx+ 1 admin users   402758 Mar  4  2018 xsleena.zip
 -rwxrwxrwx+ 1 admin users    59664 Mar  4  2018 yiear.zip
--rwxrwxrwx+ 1 admin users      313 Dec 28  2021 ym2413.zip
--rwxrwxrwx+ 1 admin users     7609 Dec 17  2021 ym2608.zip
 -rwxrwxrwx+ 1 admin users    35322 Mar 31  2019 zaxxon.zip
 -rwxrwxrwx+ 1 admin users    45282 Mar  6  2018 zookeep.zip

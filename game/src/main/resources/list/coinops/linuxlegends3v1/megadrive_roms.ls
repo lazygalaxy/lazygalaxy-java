@@ -1,0 +1,20 @@
+-rwxrwxrwx 1 1000 1000 1174805 Sep 22  2015 AladdinMD.zip
+-rwxrwxrwx 1 1000 1000  711301 Jan 28  2010 Castlevania Bloodlines.zip
+-rwxrwxrwx 1 1000 1000 1626635 Jan 27  2010 Comix Zone.zip
+-rwxrwxrwx 1 1000 1000 1367096 Feb 15  2012 Contra Hard Corps.zip
+-rwxrwxrwx 1 1000 1000 1795152 Apr 25  2019 Earthworm Jim II.zip
+-rwxrwxrwx 1 1000 1000 1903313 Sep 22  2015 Earthworm Jim.zip
+-rwxrwxrwx 1 1000 1000  543621 Feb 15  2012 ECCO the Dolphin.zip
+-rwxrwxrwx 1 1000 1000 1229248 Sep 22  2015 Ecco The Tides of Time.zip
+-rwxrwxrwx 1 1000 1000  662614 Feb 15  2012 Gunstar Heroes.zip
+-rwxrwxrwx 1 1000 1000  367302 Aug 23  2019 Revenge of Shinobi.zip
+-rwxrwxrwx 1 1000 1000  677514 Jun 23  2010 Rocket Knight Adventures.zip
+-rwxrwxrwx 1 1000 1000  640312 Feb 15  2012 Shinobi III.zip
+-rwxrwxrwx 1 1000 1000 1259506 Feb 16  2012 Sonic The Hedgehog III.zip
+-rwxrwxrwx 1 1000 1000  750113 Feb 15  2012 Sonic The Hedgehog II.zip
+-rwxrwxrwx 1 1000 1000  387866 Aug 23  2019 Sonic The Hedgehog I.zip
+-rwxrwxrwx 1 1000 1000 1681472 Sep 22  2015 Streets of Rage III.zip
+-rwxrwxrwx 1 1000 1000 1033965 Feb 15  2012 Streets Of Rage II.zip
+-rwxrwxrwx 1 1000 1000  373354 Feb 16  2012 Streets Of Rage I.zip
+-rwxrwxrwx 1 1000 1000  674030 Feb 16  2012 Toejam and Earl.zip
+-rwxrwxrwx 1 1000 1000 1969189 Nov  3  2019 Xenocrisis.zip

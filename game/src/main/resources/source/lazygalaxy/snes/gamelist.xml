@@ -16,6 +16,12 @@
 		<path>./Legend of Zelda, The - A Link to the Past (USA).lazygalaxy</path>
 		<name>The Legend of Zelda: A Link to the Past / Legend of Zelda: Link to the Past</name>
 	</game>
+
+	<game>
+		<path>./Magical Quest Starring Mickey Mouse, The (USA) (Rev 1).lazygalaxy</path>
+		<name>Disney's The Magical Quest Staring Mickey Mouse / Magical Quest</name>
+	</game>
+
 	<game>
 		<path>./Mega Man X (USA) (Rev 1).lazygalaxy</path>
 		<name>Mega Man X1 / Mega Man X</name>

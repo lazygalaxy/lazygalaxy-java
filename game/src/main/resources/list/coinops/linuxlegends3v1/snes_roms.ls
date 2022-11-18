@@ -1,0 +1,34 @@
+-rw-r--r-- 1 1000 1000  825026 Feb 15  2012 Aladdin.zip
+-rw-r--r-- 1 1000 1000  799524 Jun 22  2010 Axelay.zip
+-rwxrwxrwx 1 1000 1000  761396 Dec 10  2009 Batman Returns.zip
+-rw-r--r-- 1 1000 1000  753499 Feb 15  2012 Contra III.zip
+-rw-r--r-- 1 1000 1000 1412361 Feb 15  2012 Demons Crest.zip
+-rw-r--r-- 1 1000 1000 2993222 Feb 15  2012 Donkey Kong Country II.zip
+-rw-r--r-- 1 1000 1000 2557446 Feb 15  2012 Donkey Kong Country I.zip
+-rw-r--r-- 1 1000 1000 1842265 Feb 15  2012 Final Fight III.zip
+-rw-r--r-- 1 1000 1000  804679 Feb 15  2012 Final Fight II.zip
+-rw-r--r-- 1 1000 1000  291794 Feb 15  2012 F Zero.zip
+-rwxrwxrwx 1 1000 1000  344832 Sep 19  2015 Goof Troop.zip
+-rw-r--r-- 1 1000 1000  702832 Feb 15  2012 Legend of Zelda Link to the Past.zip
+-rwxrwxrwx 1 1000 1000  680726 Sep 19  2015 Magical Quest.zip
+-rw-r--r-- 1 1000 1000  941537 Feb 15  2012 Mega Man X1.zip
+-rw-r--r-- 1 1000 1000 1006440 Jan 14  2010 Mega Man X2.zip
+-rw-r--r-- 1 1000 1000  860220 Jun 22  2010 Ninja Warriors.zip
+-rwxrwxrwx 1 1000 1000  271279 Sep 19  2015 Pilotwings.zip
+-rw-r--r-- 1 1000 1000  942365 Feb 15  2012 Pocky Rocky II.zip
+-rw-r--r-- 1 1000 1000  709170 Jun  8  2010 Pocky Rocky I.zip
+-rw-r--r-- 1 1000 1000  976412 Feb 15  2012 R-Type III.zip
+-rw-r--r-- 1 1000 1000  846907 Feb 15  2012 Super Castlevania IV.zip
+-rwxrwxrwx 1 1000 1000  689027 Jan 27  2010 Super Double Dragon.zip
+-rw-r--r-- 1 1000 1000  717076 Apr 14  2018 Super Ghouls n Ghosts.zip
+-rw-r--r-- 1 1000 1000  976357 Feb 15  2012 Super Mario All Stars.zip
+-rw-r--r-- 1 1000 1000  351251 Sep 19  2015 Super Mario Kart.zip
+-rw-r--r-- 1 1000 1000  347339 Feb 15  2012 Super Mario World 1.zip
+-rw-r--r-- 1 1000 1000 1286562 Sep 19  2015 Super Mario World 2.zip
+-rw-r--r-- 1 1000 1000 1573667 Feb 15  2012 Super Metroid.zip
+-rw-r--r-- 1 1000 1000 1478572 Jul 17  2019 Super Punch-Out!!.zip
+-rw-r--r-- 1 1000 1000 1705993 Sep 19  2015 Super Star Wars III.zip
+-rw-r--r-- 1 1000 1000 1756280 Sep 28  2019 Super Star Wars II.zip
+-rw-r--r-- 1 1000 1000  874533 Feb 15  2012 Super Star Wars.zip
+-rw-r--r-- 1 1000 1000  709374 Feb 15  2012 Wild Guns.zip
+-rw-r--r-- 1 1000 1000  602994 Feb 15  2012 Zombies Ate My Neighbors.zip
