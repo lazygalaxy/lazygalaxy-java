@@ -166,16 +166,20 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
                 tempInputs = XMLUtil.getTagAttributeAsStringSet(element, "input", "control");
             }
 
-            String ways = XMLUtil.getTagAttributeAsString(element, "control", "ways", 0);
-            TreeSet<String> inputs = new TreeSet<String>();
-            for (String input : tempInputs) {
-                if (StringUtils.endsWith(input, "way")) {
-                    inputs.add(StringUtils.substring(input, 0, input.length() - 4));
-                    if (ways == null) {
-                        ways = GeneralUtil.numerify(input);
+            String ways = null;
+            Set<String> inputs = null;
+            if (tempInputs != null && tempInputs.size() > 0) {
+                ways = XMLUtil.getTagAttributeAsString(element, "control", "ways", 0);
+                inputs = new TreeSet<String>();
+                for (String input : tempInputs) {
+                    if (StringUtils.endsWith(input, "way")) {
+                        inputs.add(StringUtils.substring(input, 0, input.length() - 4));
+                        if (ways == null) {
+                            ways = GeneralUtil.numerify(input);
+                        }
+                    } else {
+                        inputs.add(input);
                     }
-                } else {
-                    inputs.add(input);
                 }
             }
 

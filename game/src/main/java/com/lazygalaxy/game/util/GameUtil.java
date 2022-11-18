@@ -2,6 +2,8 @@ package com.lazygalaxy.game.util;
 
 import com.lazygalaxy.engine.helper.MongoHelper;
 import com.lazygalaxy.engine.util.GeneralUtil;
+import com.lazygalaxy.game.Constant.Genre;
+import com.lazygalaxy.game.Constant.SubGenre;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
 import org.apache.commons.lang3.StringUtils;
@@ -370,5 +372,52 @@ public class GameUtil {
             return StringUtils.substring(value, 0, value.length() - 1);
         }
         return value;
+    }
+
+    public static String normalizeGenre(String genre) {
+
+        if (StringUtils.contains(GeneralUtil.alphanumerify(genre), "beatemup")) {
+            return Genre.BEATEMUP;
+        }
+
+        if (StringUtils.contains(GeneralUtil.alphanumerify(genre), "fight") || StringUtils.contains(GeneralUtil.alphanumerify(genre), "fighting")) {
+            return Genre.FIGHTER;
+        }
+
+        if (StringUtils.contains(GeneralUtil.alphanumerify(genre), "xtra")) {
+            return Genre.OTHER;
+        }
+
+        if (StringUtils.contains(GeneralUtil.alphanumerify(genre), "puzzle")) {
+            return Genre.PUZZLE;
+        }
+
+        if (StringUtils.contains(GeneralUtil.alphanumerify(genre), "race") || StringUtils.contains(GeneralUtil.alphanumerify(genre), "racing")) {
+            return Genre.RACING;
+        }
+
+        if (StringUtils.contains(GeneralUtil.alphanumerify(genre), "shootemup")) {
+            return Genre.SHOOTEMUP;
+        }
+
+        if (StringUtils.contains(GeneralUtil.alphanumerify(genre), "sport")) {
+            return Genre.SPORTS;
+        }
+
+        return genre;
+    }
+
+    public static String normalizeSubGenre(String genre, String subGenre) {
+        if (StringUtils.isBlank(subGenre)) {
+            return SubGenre.OTHER;
+        }
+
+        if (StringUtils.equals(genre, Genre.SPORTS) && StringUtils.equals(subGenre, "1")) {
+            return SubGenre.TRACKANDFIELD;
+        } else if (StringUtils.equals(genre, Genre.SPORTS) && StringUtils.equals(subGenre, "2")) {
+            return SubGenre.OTHER;
+        }
+
+        return subGenre;
     }
 }

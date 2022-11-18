@@ -26,9 +26,24 @@ public class Constant {
     }
 
     public static class Genre {
-        public final static String BASKETBALL = "basketball";
-        public final static String LIGHTGUN = "lightgun";
-        public final static String SPORT = "sport";
+        public final static String BEATEMUP = "BeatEmUp";
+        public final static String FIGHTER = "Fighter";
+        //public final static String GUNNER = "Gunner";
+        //public final static String OLDSCHOOL = "OldSchool";
+        public final static String OTHER = "Other";
+        public final static String PUZZLE = "Puzzle";
+        public final static String RACING = "Racing";
+        //public final static String RUNNGUN = "RunNGun";
+        public final static String SHOOTEMUP = "ShootEmUp";
+        public final static String SPORTS = "Sports";
+
+        public final static List<String> ALL = Lists.newArrayList(BEATEMUP, FIGHTER, PUZZLE, RACING, SHOOTEMUP, SPORTS);
+
+    }
+
+    public static class SubGenre {
+        public final static String TRACKANDFIELD = "TrackAndField";
+        public final static String OTHER = "Other";
     }
 
     public static class GameSystem {
@@ -54,7 +69,6 @@ public class Constant {
         public final static String PC = "pc";
         public final static String PCENGINE = "pcengine";
         public final static String PS2 = "ps2";
-        public final static String PS3 = "ps3";
         public final static String PSP = "psp";
         public final static String PSX = "psx";
         public final static String SEGACD = "segacd";
@@ -65,11 +79,11 @@ public class Constant {
         public final static String SCUMMVM = "scummvm";
 
         public final static List<String> MAME = Lists.newArrayList(ARCADE, ATOMISWAVE, DAPHNE, FBNEO, MAME2003, MAME2010, MODEL3, NAOMI, NEOGEO, TRIFORCE);
-        public final static List<String> CONSOLE = Lists.newArrayList(DREAMCAST, GAMECUBE, MEGADRIVE, N64, NES, PCENGINE, PSX, PS2, PS3, SEGACD, SFC, SNES);
+        public final static List<String> CONSOLE = Lists.newArrayList(DREAMCAST, GAMECUBE, MEGADRIVE, N64, NES, PCENGINE, PSX, PS2, SEGACD, SFC, SNES);
 
-        public final static List<String> COMPUTER = Lists.newArrayList(C64, PC, SCUMMVM);
+        public final static List<String> COMPUTER = Lists.newArrayList(C64, PC);
 
-        public final static List<String> HANDHELD = Lists.newArrayList(GAMEANDWATCH, GBA, PSP);
+        public final static List<String> HANDHELD = Lists.newArrayList(GBA, PSP);
 
     }
 
@@ -81,15 +95,15 @@ public class Constant {
 
     public static class GameSource {
         public final static String LAZYGALAXY = "lazygalaxy";
+
         public final static String MAME = "mame";
+        public final static String ARCADE_ITALIA = "arcadeitalia";
         public final static String RICKDANGEROUS_ULTIMATE = "rickdangerous_ultimate";
         public final static String WOLFANOZ_12K = "wolfanoz_12k";
-
         public final static String COINOPS = "coinops";
 
-        public final static String SCUMMVM = "scummvm";
-
-        public final static List<String> ALL = Lists.newArrayList(LAZYGALAXY, MAME, RICKDANGEROUS_ULTIMATE, WOLFANOZ_12K, COINOPS);
+        //the order determines the importance of the game sources
+        public final static List<String> ALL = Lists.newArrayList(LAZYGALAXY, MAME, ARCADE_ITALIA, RICKDANGEROUS_ULTIMATE, WOLFANOZ_12K, COINOPS);
     }
 
     public static class CoinOpsVersion {

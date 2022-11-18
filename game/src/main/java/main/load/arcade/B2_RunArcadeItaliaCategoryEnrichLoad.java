@@ -6,9 +6,12 @@ import com.lazygalaxy.engine.load.TextFileLoad;
 import com.lazygalaxy.engine.merge.FieldMerge;
 import com.lazygalaxy.engine.merge.Merge;
 import com.lazygalaxy.engine.util.GeneralUtil;
-import com.lazygalaxy.game.Constant;
+import com.lazygalaxy.game.Constant.GameSystem;
+import com.lazygalaxy.game.Constant.Genre;
+import com.lazygalaxy.game.Constant.SubGenre;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
+import com.lazygalaxy.game.util.GameUtil;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -17,15 +20,15 @@ import java.util.Arrays;
 import java.util.List;
 
 
-public class B2_RunArcadeCategoryEnrichLoad {
+public class B2_RunArcadeItaliaCategoryEnrichLoad {
 
-    private static final Logger LOGGER = LogManager.getLogger(B2_RunArcadeCategoryEnrichLoad.class);
+    private static final Logger LOGGER = LogManager.getLogger(B2_RunArcadeItaliaCategoryEnrichLoad.class);
 
     public static void main(String[] args) throws Exception {
         try {
             Merge<Game> merge = new FieldMerge<Game>();
 
-            new ArcadeItaliaCategryLoad().load("category/Category.ini", 6, merge);
+            new ArcadeItaliaCategryLoad().load("source/arcadeitalia/Category.ini", 6, merge);
             LOGGER.info("category load completed!");
 
         } finally {
@@ -50,30 +53,23 @@ public class B2_RunArcadeCategoryEnrichLoad {
         protected List<Game> getMongoDocument(String romId) throws Exception {
             if (StringUtils.startsWith(romId, "[") && StringUtils.endsWith(romId, "]")) {
                 String[] tokens = GeneralUtil.split(StringUtils.substring(romId, 1, romId.length() - 1), "/");
-                lastGenre = tokens[0].trim();
+                lastGenre = GameUtil.normalizeGenre(tokens[0].trim());
                 if (tokens.length >= 2) {
-                    lastSubGenre = tokens[1].trim();
+                    lastSubGenre = GameUtil.normalizeSubGenre(lastGenre, tokens[1].trim());
                 } else {
-                    lastSubGenre = "none";
+                    lastSubGenre = SubGenre.OTHER;
                 }
-            } else if (!StringUtils.isBlank(lastGenre) && !StringUtils.equals(lastGenre, "Xtra")) {
-                Game game = MongoHelper.getHelper(Game.class).getDocumentById(Game.createId(Constant.GameSystem.ARCADE, romId, null));
+            } else if (!StringUtils.isBlank(lastGenre)) {
+                Game game = MongoHelper.getHelper(Game.class).getDocumentById(Game.createId(GameSystem.ARCADE, romId, null));
 
                 if (game != null) {
-                    if (game.lazygalaxyGameInfo == null) {
-                        game.lazygalaxyGameInfo = new GameInfo(romId, null);
+                    if (game.arcadeitaliaGameInfo == null) {
+                        game.arcadeitaliaGameInfo = new GameInfo(romId, null);
                     }
-                    if (!StringUtils.equalsAny(game.lazygalaxyGameInfo.genre, "Racing", "Puzzle", "Sports") ||
-                            StringUtils.equalsAny(lastGenre, "Racing", "Puzzle", "Sports")) {
-                        game.lazygalaxyGameInfo.genre = lastGenre;
-
-                        if (StringUtils.equals(lastGenre, "Sports") && StringUtils.equals(lastSubGenre, "1")) {
-                            game.lazygalaxyGameInfo.subGenre = "Track & Field";
-                        } else if (StringUtils.equals(lastGenre, "Sports") && StringUtils.equals(lastSubGenre, "2")) {
-                            game.lazygalaxyGameInfo.subGenre = "none";
-                        } else {
-                            game.lazygalaxyGameInfo.subGenre = lastSubGenre;
-                        }
+                    if (game.arcadeitaliaGameInfo.genre == null || !StringUtils.equalsAny(game.arcadeitaliaGameInfo.genre, Genre.ALL.toArray(new String[Genre.ALL.size()])) &&
+                            StringUtils.equalsAny(lastGenre, Genre.ALL.toArray(new String[Genre.ALL.size()]))) {
+                        game.arcadeitaliaGameInfo.genre = lastGenre;
+                        game.arcadeitaliaGameInfo.subGenre = lastSubGenre;
                     }
 
                     return Arrays.asList(game);

@@ -22,13 +22,14 @@ public class Game extends MongoDocument {
     public Boolean hide;
 
     public GameInfo lazygalaxyGameInfo;
-
-    public GameInfo coinopsGameInfo;
     public GameInfo mameGameInfo;
-    public GameInfo scummvmGameInfo;
-    // retropie images
+    public GameInfo arcadeitaliaGameInfo;
     public GameInfo rickdangerous_ultimateGameInfo;
     public GameInfo wolfanoz_12kGameInfo;
+    public GameInfo coinopsGameInfo;
+    public GameInfo scummvmGameInfo;
+    // retropie images
+
 
     public Set<String> coinopsVersions;
 
