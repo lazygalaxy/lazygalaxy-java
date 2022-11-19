@@ -27,6 +27,10 @@
 		<name>Mega Man X1 / Mega Man X</name>
 	</game>
 	<game>
+		<path>./Super Punch-Out!! (USA).zip</path>
+		<subgenre>Boxing</subgenre>
+	</game>
+	<game>
 		<path>./Super Star Wars (USA) (Rev 1).lazygalaxy</path>
 		<name>Super Star Wars 1</name>
 	</game>

@@ -26,15 +26,15 @@ public class Constant {
     }
 
     public static class Genre {
-        public final static String BEATEMUP = "BeatEmUp";
+        public final static String BEATEMUP = "Beat Em Up";
         public final static String FIGHTER = "Fighter";
         //public final static String GUNNER = "Gunner";
-        //public final static String OLDSCHOOL = "OldSchool";
+        //public final static String OLDSCHOOL = "Old School";
         public final static String OTHER = "Other";
         public final static String PUZZLE = "Puzzle";
         public final static String RACING = "Racing";
-        //public final static String RUNNGUN = "RunNGun";
-        public final static String SHOOTEMUP = "ShootEmUp";
+        //public final static String RUNNGUN = "Run N Gun";
+        public final static String SHOOTEMUP = "Shoot Em Up";
         public final static String SPORTS = "Sports";
 
         public final static List<String> ALL = Lists.newArrayList(BEATEMUP, FIGHTER, PUZZLE, RACING, SHOOTEMUP, SPORTS);
@@ -42,7 +42,10 @@ public class Constant {
     }
 
     public static class SubGenre {
-        public final static String TRACKANDFIELD = "TrackAndField";
+
+        public final static String CARS = "Cars";
+        public final static String TETRIS = "Tetris";
+        public final static String TRACKANDFIELD = "Track & Field";
         public final static String OTHER = "Other";
     }
 

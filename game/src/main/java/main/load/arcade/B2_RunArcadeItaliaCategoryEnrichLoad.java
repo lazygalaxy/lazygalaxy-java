@@ -13,6 +13,7 @@ import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
 import com.lazygalaxy.game.util.GameUtil;
 import org.apache.commons.lang3.StringUtils;
+import org.apache.commons.lang3.tuple.Pair;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -55,7 +56,9 @@ public class B2_RunArcadeItaliaCategoryEnrichLoad {
                 String[] tokens = GeneralUtil.split(StringUtils.substring(romId, 1, romId.length() - 1), "/");
                 lastGenre = GameUtil.normalizeGenre(tokens[0].trim());
                 if (tokens.length >= 2) {
-                    lastSubGenre = GameUtil.normalizeSubGenre(lastGenre, tokens[1].trim());
+                    Pair<String, String> genreInfo = GameUtil.normalizeSubGenre(lastGenre, tokens[1].trim(), romId);
+                    lastGenre = genreInfo.getLeft();
+                    lastSubGenre = genreInfo.getRight();
                 } else {
                     lastSubGenre = SubGenre.OTHER;
                 }

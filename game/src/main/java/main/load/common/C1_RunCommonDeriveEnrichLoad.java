@@ -4,6 +4,7 @@ import com.google.common.collect.Lists;
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.MongoLoad;
 import com.lazygalaxy.engine.util.GeneralUtil;
+import com.lazygalaxy.game.Constant;
 import com.lazygalaxy.game.Constant.GameSource;
 import com.lazygalaxy.game.Constant.GameSystem;
 import com.lazygalaxy.game.domain.Game;
@@ -11,8 +12,8 @@ import com.lazygalaxy.game.domain.GameInfo;
 import com.lazygalaxy.game.merge.GameMerge;
 import com.lazygalaxy.game.util.GameUtil;
 import com.mongodb.client.model.Filters;
-import org.apache.commons.lang3.RegExUtils;
 import org.apache.commons.lang3.StringUtils;
+import org.apache.commons.lang3.tuple.Pair;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -81,8 +82,8 @@ public class C1_RunCommonDeriveEnrichLoad {
             setField(game, "year");
             setField(game, "players");
             setField(game, "description");
-            setField(game, "subGenre");
             setField(game, "genre");
+            setField(game, "subGenre");
             setField(game, "version");
             game.developer = null;
             game.publisher = null;
@@ -132,19 +133,19 @@ public class C1_RunCommonDeriveEnrichLoad {
                             }
                         } else if (StringUtils.equals(field, "genre")) {
                             String value = (String) fieldObject;
-                            if (StringUtils.containsAny(value, "/", ",")) {
-                                if (StringUtils.containsIgnoreCase(value, "Sports")) {
-                                    game.genre = "Sports";
-                                    game.subGenre = StringUtils.capitalize(RegExUtils.replaceAll(GeneralUtil.alphanumerify(value), "sports", ""));
-                                } else if (StringUtils.containsIgnoreCase(value, "Race")) {
-                                    game.genre = "Racing";
-                                    game.subGenre = null;
-                                } else {
-                                    game.genre = value;
-                                }
-                            } else {
-                                game.genre = value;
+                            game.genre = GameUtil.normalizeGenre(value);
+                            Pair<String, String> genreInfo = GameUtil.normalizeSubGenre(game.genre, value, game.name);
+                            game.genre = genreInfo.getLeft();
+                            game.subGenre = genreInfo.getRight();
+                            if (StringUtils.equals(GeneralUtil.alphanumerify(game.genre), GeneralUtil.alphanumerify(game.subGenre))) {
+                                game.subGenre = Constant.SubGenre.OTHER;
                             }
+                            return;
+                        } else if (StringUtils.equals(field, "subGenre")) {
+                            String value = (String) fieldObject;
+                            Pair<String, String> genreInfo = GameUtil.normalizeSubGenre(game.genre, value, game.name);
+                            game.genre = genreInfo.getLeft();
+                            game.subGenre = genreInfo.getRight();
                             return;
                         } else {
                             Game.class.getField(field).set(game, fieldObject);

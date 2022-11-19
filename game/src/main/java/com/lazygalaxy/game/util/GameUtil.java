@@ -7,6 +7,7 @@ import com.lazygalaxy.game.Constant.SubGenre;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
 import org.apache.commons.lang3.StringUtils;
+import org.apache.commons.lang3.tuple.Pair;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.bson.conversions.Bson;
@@ -407,17 +408,41 @@ public class GameUtil {
         return genre;
     }
 
-    public static String normalizeSubGenre(String genre, String subGenre) {
+    public static Pair<String, String> normalizeSubGenre(String genre, String subGenre, String name) {
+        if (StringUtils.equals(genre, Genre.FIGHTER)) {
+            if (StringUtils.containsAny(GeneralUtil.alphanumerify(subGenre), "hero", "warrior")) {
+                return Pair.of(Genre.BEATEMUP, subGenre);
+            }
+        } else if (StringUtils.equals(genre, Genre.PUZZLE)) {
+            if (StringUtils.contains(GeneralUtil.alphanumerify(name), "tetris")) {
+                return Pair.of(genre, SubGenre.TETRIS);
+            }
+        } else if (StringUtils.equals(genre, Genre.RACING)) {
+            if (StringUtils.containsAny(GeneralUtil.alphanumerify(subGenre), "f1", "2d", "3d", "other", "driving")) {
+                return Pair.of(genre, SubGenre.CARS);
+            }
+        } else if (StringUtils.equals(genre, Genre.SPORTS)) {
+            if (StringUtils.equals(subGenre, "1")) {
+                return Pair.of(genre, SubGenre.TRACKANDFIELD);
+            } else if (StringUtils.equals(subGenre, "2")) {
+                return Pair.of(genre, SubGenre.OTHER);
+            }
+        }
+
         if (StringUtils.isBlank(subGenre)) {
-            return SubGenre.OTHER;
+            return Pair.of(genre, SubGenre.OTHER);
         }
 
-        if (StringUtils.equals(genre, Genre.SPORTS) && StringUtils.equals(subGenre, "1")) {
-            return SubGenre.TRACKANDFIELD;
-        } else if (StringUtils.equals(genre, Genre.SPORTS) && StringUtils.equals(subGenre, "2")) {
-            return SubGenre.OTHER;
-        }
+        subGenre = subGenre.replaceAll(" 1$", "");
+        subGenre = subGenre.replaceAll(" 2$", "");
+        subGenre = subGenre.replaceAll(" 3$", "");
+        subGenre = subGenre.replaceAll(" 4$", "");
+        subGenre = subGenre.replaceAll(" 5$", "");
+        subGenre = subGenre.replaceAll(" 6$", "");
+        subGenre = subGenre.replaceAll(" 7$", "");
+        subGenre = subGenre.replaceAll(" 8$", "");
+        subGenre = subGenre.replaceAll(" 9$", "");
 
-        return subGenre;
+        return Pair.of(genre, subGenre);
     }
 }
