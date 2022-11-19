@@ -1258,7 +1258,6 @@ arcade	none	Zoo Keeper	1982	zookeep	2	single	4	1	No	No	none	No	Taito	Maze	Other	
 arcade	neogeo	Zupapa!	2001	zupapa	2	single	8	4	No	No	none	No	SNK	Platform	2	No	No	No	No	No	Yes	No	No
 arcade	none	Zwackery	1984	zwackery	1	single	8	4	No	No	dial	No	Midway	Adventure	Fantasy	No	No	No	No	No	Yes	No	No
 c64	none	Uridium	1986	Uridium	2	unknown	unknown	unknown	unknown	unknown	unknown	No	Other	Shoot'em up	unknown	No	Yes	Yes	Yes	Yes	No	No	Yes
-c64	none	Uridium+	1986	Uridium	2	unknown	unknown	unknown	unknown	unknown	unknown	No	Other	Shoot'em up	unknown	No	Yes	Yes	Yes	Yes	No	No	Yes
 dreamcast	none	Border Down	2003	Border Down	2	unknown	unknown	unknown	unknown	unknown	unknown	No	Other	Shoot'em up	unknown	No	No	No	Yes	No	No	No	Yes
 dreamcast	none	Capcom vs. SNK 2: Millionaire Fighting 2001	2001	Capcom vs SNK 2	2	unknown	unknown	unknown	unknown	unknown	unknown	No	Capcom	Fighting	unknown	No	No	No	Yes	No	No	No	No
 dreamcast	none	Crazy Taxi	2000	Crazy Taxi	1	unknown	unknown	unknown	unknown	unknown	unknown	No	SEGA	Racing	unknown	No	No	No	Yes	No	No	No	Yes
@@ -1297,8 +1296,7 @@ n64	none	Mario Kart 64	1997	Mario Kart 64	4	unknown	unknown	unknown	unknown	unkn
 n64	none	Star Fox 64	1997	Star Fox 64	4	unknown	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Shoot'em up	unknown	No	No	No	Yes	No	No	No	Yes
 n64	none	Super Mario 64	1996	Super Mario 64	1	unknown	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Platform	unknown	No	No	No	Yes	No	No	No	Yes
 nes	none	Legend of Zelda, The	1994	Legend of Zelda	1	unknown	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Action	unknown	No	No	No	No	No	No	No	Yes
-nes	none	Super Mario Bros.	1985	Super Mario Bros 1	2	unknown	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Platform	unknown	No	No	No	No	No	No	No	Yes
-nes	none	Super Mario Bros.	1985	Super Mario Bros 1	2	unknown	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Platform	unknown	No	No	No	No	No	No	No	Yes
+nes	none	Super Mario Bros 1	1985	Super Mario Bros 1	2	unknown	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Platform	unknown	No	No	No	No	No	No	No	Yes
 nes	none	Super Mario Bros. 3	1990	Super Mario Bros 3	2	unknown	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Platform	unknown	No	No	No	No	No	No	No	Yes
 pc	none	After Burner Climax	2010	After Burner Climax	1	unknown	unknown	unknown	unknown	unknown	unknown	No	SEGA	Combat Flight Simulation	unknown	No	No	No	Yes	No	Yes	No	No
 pc	none	Doom 2: Hell on Earth	1994	Doom II	1	unknown	unknown	unknown	unknown	unknown	unknown	No	Other	Action	unknown	No	No	No	Yes	No	No	No	Yes
@@ -1346,8 +1344,8 @@ snes	none	Super Mario World	1991	Super Mario World 1	2	unknown	unknown	unknown	u
 snes	none	Super Mario World 2: Yoshi's Island	1995	Super Mario World 2	1	unknown	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Platform	unknown	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes
 snes	none	Super Metroid	1994	Super Metroid	1	unknown	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Platform	unknown	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes
 snes	none	Super Punch-Out!!	1994	Super Punch-Out!!	1	unknown	unknown	unknown	unknown	unknown	unknown	No	Nintendo	Sports	unknown	No	Yes	Yes	Yes	Yes	No	Yes	Yes
-snes	none	Super Star Wars	1992	Super Star Wars	1	unknown	unknown	unknown	unknown	unknown	unknown	No	Other	Action	unknown	No	Yes	Yes	Yes	Yes	No	Yes	Yes
-snes	none	Super Star Wars 2: The Empire Strikes Back	1993	Super Star Wars	1	unknown	unknown	unknown	unknown	unknown	unknown	No	Other	Action	unknown	No	Yes	Yes	Yes	Yes	No	Yes	Yes
-snes	none	Super Star Wars 3: Return of the Jedi	1994	Super Star Wars	1	unknown	unknown	unknown	unknown	unknown	unknown	No	Other	Action	unknown	No	Yes	Yes	Yes	Yes	No	Yes	Yes
+snes	none	Super Star Wars 1	1992	Super Star Wars	1	unknown	unknown	unknown	unknown	unknown	unknown	No	Other	Action	unknown	No	Yes	Yes	Yes	Yes	No	Yes	Yes
+snes	none	Super Star Wars 2: The Empire Strikes Back	1993	Super Star Wars II	1	unknown	unknown	unknown	unknown	unknown	unknown	No	Other	Action	unknown	No	Yes	Yes	Yes	Yes	No	Yes	Yes
+snes	none	Super Star Wars 3: Return of the Jedi	1994	Super Star Wars III	1	unknown	unknown	unknown	unknown	unknown	unknown	No	Other	Action	unknown	No	Yes	Yes	Yes	Yes	No	Yes	Yes
 snes	none	Wild Guns	1995	Wild Guns	2	unknown	unknown	unknown	unknown	unknown	unknown	No	Other	Action	unknown	No	Yes	Yes	Yes	Yes	No	Yes	Yes
 snes	none	Zombies Ate My Neighbors	1993	Zombies Ate My Neighbors	2	unknown	unknown	unknown	unknown	unknown	unknown	No	Konami	Action	unknown	No	Yes	Yes	Yes	Yes	No	Yes	Yes

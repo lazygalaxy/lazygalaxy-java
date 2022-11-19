@@ -27,6 +27,10 @@
 		<name>Mega Man X1 / Mega Man X</name>
 	</game>
 	<game>
+		<path>./Super Star Wars (USA) (Rev 1).lazygalaxy</path>
+		<name>Super Star Wars 1</name>
+	</game>
+	<game>
 		<path>./Super Star Wars - The Empire Strikes Back (USA) (Rev 1).lazygalaxy</path>
 		<name>Super Star Wars 2: The Empire Strikes Back</name>
 	</game>

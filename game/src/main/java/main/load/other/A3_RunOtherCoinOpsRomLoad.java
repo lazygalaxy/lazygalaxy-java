@@ -75,39 +75,50 @@ public class A3_RunOtherCoinOpsRomLoad {
             String querySystemId = GameSystem.MAME.contains(systemId) ? GameSystem.ARCADE : systemId;
             if (gameInfoStatic.version != null) {
                 gameId = GeneralUtil.alphanumerify(name + gameInfoStatic.version);
-                games = GameUtil.getGames(false, false, gameId, null, Filters.in("labels", gameId),
+                games = GameUtil.getGames(false, true, gameId, null, Filters.in("labels", gameId),
                         Filters.in("systemId", querySystemId));
 
                 if (games == null && StringUtils.endsWith(name, " 1")) {
                     gameId = GeneralUtil.alphanumerify(name.substring(0, name.length() - 2) + gameInfoStatic.version);
-                    games = GameUtil.getGames(false, false, gameId, null, Filters.in("labels", gameId),
+                    games = GameUtil.getGames(false, true, gameId, null, Filters.in("labels", gameId),
                             Filters.in("systemId", querySystemId));
                 }
             }
 
             if (games == null) {
                 gameId = GeneralUtil.alphanumerify(name);
-                games = GameUtil.getGames(false, false, gameId, null, Filters.in("labels", gameId),
-                        Filters.in("systemId", querySystemId));
-
-                if (games == null && StringUtils.endsWith(name, " 1")) {
-                    gameId = GeneralUtil.alphanumerify(name.substring(0, name.length() - 2));
-                    games = GameUtil.getGames(false, false, gameId, null, Filters.in("labels", gameId),
+                if (!StringUtils.endsWith(name, " 1")) {
+                    games = GameUtil.getGames(false, true, gameId + "1", null, Filters.in("labels", gameId + "1"),
                             Filters.in("systemId", querySystemId));
+                    if (games == null) {
+                        games = GameUtil.getGames(false, true, gameId, null, Filters.in("labels", gameId),
+                                Filters.in("systemId", querySystemId));
+                    }
+                } else {
+                    games = GameUtil.getGames(false, true, gameId, null, Filters.in("labels", gameId),
+                            Filters.in("systemId", querySystemId));
+
+                    if (games == null) {
+                        gameId = gameId.substring(0, gameId.length() - 1);
+                        games = GameUtil.getGames(false, true, gameId, null, Filters.in("labels", gameId),
+                                Filters.in("systemId", querySystemId));
+                    }
                 }
             }
 
             if (games == null) {
                 LOGGER.warn(name + " not found for " + querySystemId);
+            } else if (games.size() > 1) {
+                LOGGER.warn(name + " multiple found for " + querySystemId);
             } else {
                 for (Game game : games) {
                     game.coinopsVersions = SetUtil.addValueToTreeSet(game.coinopsVersions, coinopsVersion);
                     game.coinopsGameInfo = new GameInfo(gameId, null);
                     game.coinopsGameInfo.originalName = gameInfoStatic.originalName;
                 }
+                return games;
             }
-
-            return games;
+            return null;
         }
     }
 

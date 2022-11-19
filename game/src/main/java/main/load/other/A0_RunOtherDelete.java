@@ -11,9 +11,19 @@ public class A0_RunOtherDelete {
     private static final Logger LOGGER = LogManager.getLogger(A0_RunOtherDelete.class);
 
     public static void main(String[] args) throws Exception {
-        MongoHelper.getHelper(Game.class).deleteDocumentByFilters(Filters.in("systemId", Constant.GameSystem.CONSOLE));
-        MongoHelper.getHelper(Game.class).deleteDocumentByFilters(Filters.in("systemId", Constant.GameSystem.COMPUTER));
-        MongoHelper.getHelper(Game.class).deleteDocumentByFilters(Filters.in("systemId", Constant.GameSystem.HANDHELD));
+        for (String system :
+                Constant.GameSystem.CONSOLE) {
+            MongoHelper.getHelper(Game.class).deleteDocumentByFilters(Filters.in("systemId", system));
+        }
+        for (String system :
+                Constant.GameSystem.COMPUTER) {
+            MongoHelper.getHelper(Game.class).deleteDocumentByFilters(Filters.in("systemId", system));
+        }
+        for (String system :
+                Constant.GameSystem.HANDHELD) {
+            MongoHelper.getHelper(Game.class).deleteDocumentByFilters(Filters.in("systemId", system));
+        }
+
         LOGGER.info("deletion complete!");
     }
 }
