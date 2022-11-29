@@ -11,7 +11,8 @@
 		<releasedate>2010</releasedate>
 		<developer>SEGA</developer>
 		<publisher>SEGA</publisher>
-		<genre>Combat Flight Simulation</genre>
+		<genre>Shoot Em Up</genre>
+		<subGenre>Aircraft</subGenre>
 		<players>1</players>
 	</game>
 	<game>

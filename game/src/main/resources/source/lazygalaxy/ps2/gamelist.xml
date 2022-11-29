@@ -11,7 +11,8 @@
 		<releasedate>2005</releasedate>
 		<developer>Namco</developer>
 		<publisher>Sony</publisher>
-		<genre>Fight</genre>
+		<genre>Fighter</genre>
+		<subGenre>Asian</subGenre>
 		<players>1-2</players>
 	</game>
 </gameList>

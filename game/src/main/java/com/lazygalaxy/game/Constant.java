@@ -28,25 +28,35 @@ public class Constant {
     public static class Genre {
         public final static String BEATEMUP = "Beat Em Up";
         public final static String FIGHTER = "Fighter";
-        //public final static String GUNNER = "Gunner";
-        //public final static String OLDSCHOOL = "Old School";
+        public final static String MAZE = "Maze";
         public final static String OTHER = "Other";
+        public final static String PLATFORM = "Platform";
         public final static String PUZZLE = "Puzzle";
         public final static String RACING = "Racing";
-        //public final static String RUNNGUN = "Run N Gun";
+        public final static String RUNNGUN = "Run N Gun";
         public final static String SHOOTEMUP = "Shoot Em Up";
         public final static String SPORTS = "Sports";
 
-        public final static List<String> ALL = Lists.newArrayList(BEATEMUP, FIGHTER, PUZZLE, RACING, SHOOTEMUP, SPORTS);
+        public final static List<String> ALL = Lists.newArrayList(BEATEMUP, FIGHTER, PUZZLE, RACING, RUNNGUN, SPORTS);
 
     }
 
     public static class SubGenre {
+        public final static String AIRCRAFT = "Aircraft";
+        public final static String ARMY = "Army";
+        public final static String ASIAN = "Asian";
+        public final static String CAR = "Car";
+        public final static String KINGOFFIGHTERS = "King of Fighters";
 
-        public final static String CARS = "Cars";
+        public final static String ROBOT = "Robot";
+        public final static String SPACECRAFT = "Spacecraft";
+        public final static String STREETFIGHTER = "Street Fighter";
+
+        public final static String TANK = "Tank";
         public final static String TETRIS = "Tetris";
         public final static String TRACKANDFIELD = "Track & Field";
         public final static String OTHER = "Other";
+        public final static String UNKNOWN = "Unknown";
     }
 
     public static class GameSystem {

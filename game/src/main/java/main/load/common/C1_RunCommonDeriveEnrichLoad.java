@@ -3,7 +3,6 @@ package main.load.common;
 import com.google.common.collect.Lists;
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.MongoLoad;
-import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.game.Constant;
 import com.lazygalaxy.game.Constant.GameSource;
 import com.lazygalaxy.game.Constant.GameSystem;
@@ -83,7 +82,6 @@ public class C1_RunCommonDeriveEnrichLoad {
             setField(game, "players");
             setField(game, "description");
             setField(game, "genre");
-            setField(game, "subGenre");
             setField(game, "version");
             game.developer = null;
             game.publisher = null;
@@ -132,18 +130,11 @@ public class C1_RunCommonDeriveEnrichLoad {
                                 return;
                             }
                         } else if (StringUtils.equals(field, "genre")) {
-                            String value = (String) fieldObject;
-                            game.genre = GameUtil.normalizeGenre(value);
-                            Pair<String, String> genreInfo = GameUtil.normalizeSubGenre(game.genre, value, game.name);
-                            game.genre = genreInfo.getLeft();
-                            game.subGenre = genreInfo.getRight();
-                            if (StringUtils.equals(GeneralUtil.alphanumerify(game.genre), GeneralUtil.alphanumerify(game.subGenre))) {
-                                game.subGenre = Constant.SubGenre.OTHER;
-                            }
-                            return;
-                        } else if (StringUtils.equals(field, "subGenre")) {
-                            String value = (String) fieldObject;
-                            Pair<String, String> genreInfo = GameUtil.normalizeSubGenre(game.genre, value, game.name);
+                            String genre = (String) fieldObject;
+                            String subGenre = (String) getField(gameInfoObject, "subGenre");
+                            subGenre = !StringUtils.isBlank(subGenre) ? subGenre : Constant.SubGenre.UNKNOWN;
+                            Pair<String, String> genreInfo = GameUtil.normalizeGenres(genre, subGenre, game.name, false);
+
                             game.genre = genreInfo.getLeft();
                             game.subGenre = genreInfo.getRight();
                             return;
