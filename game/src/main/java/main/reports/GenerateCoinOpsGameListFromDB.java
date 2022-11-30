@@ -63,31 +63,31 @@ public class GenerateCoinOpsGameListFromDB {
         for (Game game : games) {
             Files.writeString(filePath,
                     game.systemId + seperator +
-                            (game.subSystemId != null && !StringUtils.equals(game.subSystemId, game.systemId) ? game.subSystemId : "none") + seperator +
+                            (game.subSystemId != null && !StringUtils.equals(game.subSystemId, game.systemId) ? game.subSystemId : Constant.Values.NONE) + seperator +
                             game.name + seperator +
                             game.year + seperator +
                             (game.coinopsGameInfo != null && game.coinopsGameInfo.originalName != null ? game.coinopsGameInfo.originalName : game.gameId) + seperator
-                            + (game.players != null && game.players > 0 ? game.players : "unknown") + seperator
-                            + (game.inputs != null ? (game.inputs.contains("doublejoy") ? "twin" : (game.inputs.contains("joy") ? "single" : "none")) : "unknown") + seperator
-                            + (game.inputs != null ? (game.inputs.contains("joy") || game.inputs.contains("doublejoy") ? game.ways : "none") : "unknown") + seperator
-                            + (game.buttons != null ? game.buttons : (game.inputs != null ? "0" : "unknown")) + seperator
-                            + (game.inputs != null ? (game.inputs.contains("lightgun") ? "Yes" : "No") : "unknown") + seperator
-                            + (game.inputs != null ? (game.inputs.contains("trackball") ? "Yes" : "No") : "unknown") + seperator
-                            + (game.inputs != null ? (getOtherInputString(game.inputs, "joy", "doublejoy", "only_buttons", "lightgun", "trackball")) : "unknown") + seperator
-                            + (game.isVertical != null && game.isVertical ? "Yes" : "No") + seperator
-                            + (game.manufacturer != null ? game.manufacturer : "unknown") + seperator
-                            //+ (game.developer != null ? game.developer : "unknown") + seperator
-                            //+ (game.publisher != null ? game.publisher : "unknown") + seperator
-                            + (game.genre != null ? game.genre : "unknown") + seperator
-                            + (game.subGenre != null ? game.subGenre : "unknown") + seperator
-                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.FORGOTTEN_WORLDS_2) ? "Yes" : "No") + seperator
-                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.LEGENDS_3_DESK) ? "Yes" : "No") + seperator
-                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.LINUX_LEGENDS_3_V1) ? "Yes" : "No") + seperator
-                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PLAYER_LEGENDS_4_MAX) ? "Yes" : "No") + seperator
-                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PLAYER_LEGENDS_4) ? "Yes" : "No") + seperator
-                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.COLLECTIONS_ARCADE) ? "Yes" : "No") + seperator
-                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.COLLECTIONS_LEGENDS) ? "Yes" : "No") + seperator
-                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PI4_LEGENDS_2_V3) ? "Yes" : "No") + "\n",
+                            + (game.players != null && game.players > 0 ? game.players : Constant.Values.UNKNOWN) + seperator
+                            + (game.inputs != null ? (game.inputs.contains("doublejoy") ? "twin" : (game.inputs.contains("joy") ? "single" : Constant.Values.NONE)) : Constant.Values.UNKNOWN) + seperator
+                            + (game.inputs != null ? (game.inputs.contains("joy") || game.inputs.contains("doublejoy") ? game.ways : Constant.Values.NONE) : Constant.Values.UNKNOWN) + seperator
+                            + (game.buttons != null ? game.buttons : (game.inputs != null ? "0" : Constant.Values.UNKNOWN)) + seperator
+                            + (game.inputs != null ? (game.inputs.contains("lightgun") ? Constant.Values.YES : Constant.Values.NO) : Constant.Values.UNKNOWN) + seperator
+                            + (game.inputs != null ? (game.inputs.contains("trackball") ? Constant.Values.YES : Constant.Values.NO) : Constant.Values.UNKNOWN) + seperator
+                            + (game.inputs != null ? (getOtherInputString(game.inputs, "joy", "doublejoy", "only_buttons", "lightgun", "trackball")) : Constant.Values.UNKNOWN) + seperator
+                            + (game.isVertical != null && game.isVertical ? Constant.Values.YES : Constant.Values.NO) + seperator
+                            + (game.manufacturer != null ? game.manufacturer : Constant.Values.UNKNOWN) + seperator
+                            //+ (game.developer != null ? game.developer : Constant.Values.UNKNOWN) + seperator
+                            //+ (game.publisher != null ? game.publisher : Constant.Values.UNKNOWN) + seperator
+                            + (game.genre != null ? game.genre : Constant.Values.UNKNOWN) + seperator
+                            + (game.subGenre != null ? game.subGenre : Constant.Values.UNKNOWN) + seperator
+                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.FORGOTTEN_WORLDS_2) ? Constant.Values.YES : Constant.Values.NO) + seperator
+                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.LEGENDS_3_DESK) ? Constant.Values.YES : Constant.Values.NO) + seperator
+                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.LINUX_LEGENDS_3_V1) ? Constant.Values.YES : Constant.Values.NO) + seperator
+                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PLAYER_LEGENDS_4_MAX) ? Constant.Values.YES : Constant.Values.NO) + seperator
+                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PLAYER_LEGENDS_4) ? Constant.Values.YES : Constant.Values.NO) + seperator
+                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.COLLECTIONS_ARCADE) ? Constant.Values.YES : Constant.Values.NO) + seperator
+                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.COLLECTIONS_LEGENDS) ? Constant.Values.YES : Constant.Values.NO) + seperator
+                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PI4_LEGENDS_2_V3) ? Constant.Values.YES : Constant.Values.NO) + "\n",
                     StandardOpenOption.APPEND);
         }
         LOGGER.info("report done");
@@ -99,7 +99,7 @@ public class GenerateCoinOpsGameListFromDB {
             newList.remove(item);
         }
         if (newList.isEmpty()) {
-            return "none";
+            return Constant.Values.NONE;
         }
 
         return StringUtils.join(newList, "/");

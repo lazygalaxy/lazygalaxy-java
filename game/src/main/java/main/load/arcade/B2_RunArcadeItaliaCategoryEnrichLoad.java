@@ -8,7 +8,6 @@ import com.lazygalaxy.engine.merge.Merge;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.game.Constant;
 import com.lazygalaxy.game.Constant.GameSystem;
-import com.lazygalaxy.game.Constant.SubGenre;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
 import com.lazygalaxy.game.util.GameUtil;
@@ -58,24 +57,31 @@ public class B2_RunArcadeItaliaCategoryEnrichLoad {
                 if (tokens.length >= 2) {
                     lastSubGenre = tokens[1].trim();
                 } else {
-                    lastSubGenre = SubGenre.OTHER;
+                    lastSubGenre = Constant.Values.OTHER;
                 }
 
-                Pair<String, String> genreInfo = GameUtil.normalizeGenres(lastGenre, lastSubGenre, romId, true);
-                lastGenre = genreInfo.getLeft();
-                lastSubGenre = genreInfo.getRight();
+
             } else if (!StringUtils.isBlank(lastGenre)) {
+                Pair<String, String> genreInfo = GameUtil.normalizeGenres(lastGenre, lastSubGenre, romId, true);
+                String normalizedLastGenre = genreInfo.getLeft();
+                String normalizedLastSubGenre = genreInfo.getRight();
+
                 Game game = MongoHelper.getHelper(Game.class).getDocumentById(Game.createId(GameSystem.ARCADE, romId, null));
 
                 if (game != null) {
                     if (game.arcadeitaliaGameInfo == null) {
                         game.arcadeitaliaGameInfo = new GameInfo(romId, null);
                     }
-                    
-                    if (game.arcadeitaliaGameInfo.genre == null || !StringUtils.equalsAny(game.arcadeitaliaGameInfo.genre, Constant.Genre.ALL.toArray(new String[Constant.Genre.ALL.size()])) &&
-                            StringUtils.equalsAny(lastGenre, Constant.Genre.ALL.toArray(new String[Constant.Genre.ALL.size()]))) {
-                        game.arcadeitaliaGameInfo.genre = lastGenre;
-                        game.arcadeitaliaGameInfo.subGenre = lastSubGenre;
+
+                    int posiGenreOld = Constant.Genre.ALL.indexOf(game.arcadeitaliaGameInfo.genre);
+                    int posiGenreNew = Constant.Genre.ALL.indexOf(normalizedLastGenre);
+
+                    int posiSubGenreOld = Constant.Genre.ALL.indexOf(game.arcadeitaliaGameInfo.subGenre);
+                    int posiSubGenreNew = Constant.Genre.ALL.indexOf(normalizedLastSubGenre);
+
+                    if (game.arcadeitaliaGameInfo.genre == null || posiGenreNew > posiGenreOld || ((posiGenreNew == posiGenreOld) && posiSubGenreNew > posiSubGenreOld)) {
+                        game.arcadeitaliaGameInfo.genre = normalizedLastGenre;
+                        game.arcadeitaliaGameInfo.subGenre = normalizedLastSubGenre;
                     }
 
                     return Arrays.asList(game);

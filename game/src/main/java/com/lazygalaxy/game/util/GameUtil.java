@@ -2,6 +2,7 @@ package com.lazygalaxy.game.util;
 
 import com.lazygalaxy.engine.helper.MongoHelper;
 import com.lazygalaxy.engine.util.GeneralUtil;
+import com.lazygalaxy.game.Constant;
 import com.lazygalaxy.game.Constant.Genre;
 import com.lazygalaxy.game.Constant.SubGenre;
 import com.lazygalaxy.game.domain.Game;
@@ -381,7 +382,7 @@ public class GameUtil {
         String simplifyName = GeneralUtil.alphanumerify(name);
 
         if (StringUtils.contains(simplifyGenre, "beatemup")) {
-            return Pair.of(Genre.BEATEMUP, subGenre);
+            return Pair.of(Genre.FIGHTER, SubGenre.BEATEMUP);
         }
 
         if (StringUtils.contains(simplifyGenre, "shootemup")) {
@@ -403,17 +404,11 @@ public class GameUtil {
                 return Pair.of(Genre.FIGHTER, SubGenre.KINGOFFIGHTERS);
             } else if (StringUtils.contains(simplifyName, "streetfighter")) {
                 return Pair.of(Genre.FIGHTER, SubGenre.STREETFIGHTER);
-            } else if (StringUtils.containsAny(simplifySubGenre, "streetfighter", "kingoffighter")) {
-                return Pair.of(Genre.FIGHTER, SubGenre.OTHER);
+            } else if (StringUtils.containsAny(simplifySubGenre, "streetfighter", "kingoffighter", "asianvs", "asian3d", "versus")) {
+                return Pair.of(Genre.FIGHTER, SubGenre.VERSUS);
             }
 
-            if (StringUtils.containsAny(simplifySubGenre, "asianvs", "asian3d")) {
-                return Pair.of(Genre.FIGHTER, SubGenre.ASIAN);
-            }
-
-            if (StringUtils.containsAny(simplifySubGenre, "hero", "warriors", "asian")) {
-                return Pair.of(Genre.BEATEMUP, cleanSubGenre(subGenre));
-            }
+            return Pair.of(Genre.FIGHTER, SubGenre.BEATEMUP);
         }
 
         if (StringUtils.contains(simplifyGenre, "maze")) {
@@ -439,7 +434,7 @@ public class GameUtil {
         }
 
         if (StringUtils.contains(simplifyGenre, "space")) {
-            if (StringUtils.containsAny(simplifySubGenre, "force", "defender", "rtype", "basedefense", "aliens")) {
+            if (StringUtils.containsAny(simplifySubGenre, "force", "defender", "rtype", "basedefense", "aliens", "shooter")) {
                 return Pair.of(Genre.SHOOTEMUP, SubGenre.SPACECRAFT);
             }
             if (StringUtils.contains(simplifySubGenre, "robot")) {
@@ -451,7 +446,7 @@ public class GameUtil {
             if (StringUtils.equals(simplifySubGenre, "1")) {
                 return Pair.of(Genre.SPORTS, SubGenre.TRACKANDFIELD);
             } else if (StringUtils.equals(simplifySubGenre, "2")) {
-                return Pair.of(Genre.SPORTS, SubGenre.OTHER);
+                return Pair.of(Genre.SPORTS, Constant.Values.OTHER);
             }
             return Pair.of(Genre.SPORTS, cleanSubGenre(subGenre));
         }
