@@ -389,11 +389,28 @@ public class GameUtil {
             return Pair.of(Genre.SHOOTEMUP, subGenre);
         }
 
+        if (StringUtils.contains(simplifyGenre, "action")) {
+            if (StringUtils.contains(simplifySubGenre, "shooting")) {
+                return Pair.of(Genre.SHOOTER, Constant.Values.OTHER);
+            }
+        }
+
+        if (StringUtils.contains(simplifyGenre, "adventure")) {
+            if (StringUtils.containsAny(simplifySubGenre, "cop", "police")) {
+                return Pair.of(Genre.SHOOTER, SubGenre.POLICE);
+            }
+            if (StringUtils.containsAny(simplifySubGenre, "western", "cowboy")) {
+                return Pair.of(Genre.SHOOTER, SubGenre.WESTERN);
+            }
+        }
+
         if (StringUtils.contains(simplifyGenre, "army")) {
-            if (StringUtils.containsAny(simplifySubGenre, "airforce", "helicopter")) {
+            if (StringUtils.containsAny(simplifySubGenre, "airforce", "helicopter", "dogfight")) {
                 return Pair.of(Genre.SHOOTEMUP, SubGenre.AIRCRAFT);
             } else if (StringUtils.contains(simplifySubGenre, "tank")) {
                 return Pair.of(Genre.SHOOTEMUP, SubGenre.TANK);
+            } else if (StringUtils.contains(simplifySubGenre, "antiaircraft")) {
+                return Pair.of(Genre.SHOOTEMUP, SubGenre.ANTIAIRCRAFT);
             } else if (StringUtils.contains(simplifySubGenre, "fighter")) {
                 return Pair.of(Genre.RUNNGUN, SubGenre.ARMY);
             }
@@ -434,11 +451,11 @@ public class GameUtil {
         }
 
         if (StringUtils.contains(simplifyGenre, "space")) {
-            if (StringUtils.containsAny(simplifySubGenre, "force", "defender", "rtype", "basedefense", "aliens", "shooter")) {
-                return Pair.of(Genre.SHOOTEMUP, SubGenre.SPACECRAFT);
-            }
-            if (StringUtils.contains(simplifySubGenre, "robot")) {
+            if (StringUtils.containsAny(simplifySubGenre, "robot", "soldier")) {
                 return Pair.of(Genre.RUNNGUN, SubGenre.ROBOT);
+            }
+            if (StringUtils.containsAny(simplifySubGenre, "force", "defender", "rtype", "basedefense", "aliens", "shooter", "fighter")) {
+                return Pair.of(Genre.SHOOTEMUP, SubGenre.SPACECRAFT);
             }
         }
 

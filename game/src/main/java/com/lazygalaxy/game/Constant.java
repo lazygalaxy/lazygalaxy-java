@@ -41,15 +41,19 @@ public class Constant {
         public final static String RACING = "Racing";
         public final static String RUNNGUN = "Run N Gun";
         public final static String SHOOTEMUP = "Shoot Em Up";
+
+        public final static String SHOOTER = "Shooter";
         public final static String SPORTS = "Sports";
 
         //from lower to higher priority
-        public final static List<String> ALL = Lists.newArrayList(MAZE, SHOOTEMUP, PLATFORM, PUZZLE, RUNNGUN, RACING, SPORTS, FIGHTER);
+        public final static List<String> ALL = Lists.newArrayList(MAZE, SHOOTEMUP, PLATFORM, PUZZLE, RUNNGUN, SHOOTER, RACING, SPORTS, FIGHTER);
 
     }
 
     public static class SubGenre {
         public final static String AIRCRAFT = "Aircraft";
+
+        public final static String ANTIAIRCRAFT = "Antiaircraft";
         public final static String ARMY = "Army";
 
         public final static String BEATEMUP = "Beat Em Up";
@@ -59,6 +63,7 @@ public class Constant {
         public final static String HERO = "Hero";
         public final static String KINGOFFIGHTERS = "King of Fighters";
 
+        public final static String POLICE = "Police";
         public final static String ROBOT = "Robot";
         public final static String SPACECRAFT = "Spacecraft";
         public final static String STREETFIGHTER = "Street Fighter";
@@ -68,10 +73,11 @@ public class Constant {
         public final static String TRACKANDFIELD = "Track & Field";
 
         public final static String VERSUS = "Versus";
+        public final static String WESTERN = "Western";
 
 
         //from lower to higher priority
-        public final static List<String> ALL = Lists.newArrayList(ARMY, KINGOFFIGHTERS, ROBOT, HERO, STREETFIGHTER, TANK, TETRIS, TRACKANDFIELD, BEATEMUP, VERSUS, SPACECRAFT, AIRCRAFT, CAR);
+        public final static List<String> ALL = Lists.newArrayList(POLICE, WESTERN, ANTIAIRCRAFT, ARMY, KINGOFFIGHTERS, ROBOT, HERO, STREETFIGHTER, TANK, TETRIS, TRACKANDFIELD, BEATEMUP, VERSUS, SPACECRAFT, AIRCRAFT, CAR);
 
     }
 
