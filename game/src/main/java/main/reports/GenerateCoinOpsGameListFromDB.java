@@ -51,10 +51,10 @@ public class GenerateCoinOpsGameListFromDB {
                         "Genre" + seperator +
                         "SubGenre" + seperator +
                         "Forgotten Worlds 2" + seperator +
-                        "Legends 3 Deck" + seperator +
-                        "Linux Legends 3 v1" + seperator +
-                        "Player Legends 4 Max" + seperator +
-                        "Player Legends 4" + seperator +
+                        "Deck Legends 3" + seperator +
+                        "Linux Legends 3" + seperator +
+                        "Legends 4 Max + U1" + seperator +
+                        "Legends 4 + U1" + seperator +
                         "Collections Arcade" + seperator +
                         "Collections Legends" + seperator +
                         "Pi4 Legends 2 v3\n",
