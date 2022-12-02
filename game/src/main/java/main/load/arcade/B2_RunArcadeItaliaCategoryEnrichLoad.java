@@ -62,7 +62,7 @@ public class B2_RunArcadeItaliaCategoryEnrichLoad {
 
 
             } else if (!StringUtils.isBlank(lastGenre)) {
-                Pair<String, String> genreInfo = GameUtil.normalizeGenres(lastGenre, lastSubGenre, romId, true);
+                Pair<String, String> genreInfo = GameUtil.normalizeGenres(lastGenre, lastSubGenre, romId);
                 String normalizedLastGenre = genreInfo.getLeft();
                 String normalizedLastSubGenre = genreInfo.getRight();
 

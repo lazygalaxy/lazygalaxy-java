@@ -34,6 +34,8 @@ public class Constant {
     }
 
     public static class Genre {
+        public final static String ACTION = "Action";
+        public final static String ADVENTURE = "Adventure";
         public final static String FIGHTER = "Fighter";
         public final static String MAZE = "Maze";
         public final static String PLATFORM = "Platform";
@@ -46,14 +48,12 @@ public class Constant {
         public final static String SPORTS = "Sports";
 
         //from lower to higher priority
-        public final static List<String> ALL = Lists.newArrayList(MAZE, SHOOTEMUP, PLATFORM, PUZZLE, RUNNGUN, SHOOTER, RACING, SPORTS, FIGHTER);
+        public final static List<String> ALL = Lists.newArrayList(ACTION, ADVENTURE, MAZE, SHOOTEMUP, PLATFORM, PUZZLE, RUNNGUN, SHOOTER, RACING, SPORTS, FIGHTER);
 
     }
 
     public static class SubGenre {
-        public final static String AIRCRAFT = "Aircraft";
 
-        public final static String ANTIAIRCRAFT = "Antiaircraft";
         public final static String ARMY = "Army";
 
         public final static String BEATEMUP = "Beat Em Up";
@@ -64,11 +64,9 @@ public class Constant {
         public final static String KINGOFFIGHTERS = "King of Fighters";
 
         public final static String POLICE = "Police";
-        public final static String ROBOT = "Robot";
-        public final static String SPACECRAFT = "Spacecraft";
+        public final static String SPACE = "Space";
         public final static String STREETFIGHTER = "Street Fighter";
 
-        public final static String TANK = "Tank";
         public final static String TETRIS = "Tetris";
         public final static String TRACKANDFIELD = "Track & Field";
 
@@ -77,7 +75,7 @@ public class Constant {
 
 
         //from lower to higher priority
-        public final static List<String> ALL = Lists.newArrayList(POLICE, WESTERN, ANTIAIRCRAFT, ARMY, KINGOFFIGHTERS, ROBOT, HERO, STREETFIGHTER, TANK, TETRIS, TRACKANDFIELD, BEATEMUP, VERSUS, SPACECRAFT, AIRCRAFT, CAR);
+        public final static List<String> ALL = Lists.newArrayList(POLICE, WESTERN, ARMY, KINGOFFIGHTERS, SPACE, HERO, STREETFIGHTER, TETRIS, TRACKANDFIELD, BEATEMUP, VERSUS, CAR);
 
     }
 

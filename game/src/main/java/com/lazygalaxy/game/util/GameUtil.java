@@ -376,7 +376,7 @@ public class GameUtil {
         return value;
     }
 
-    public static Pair<String, String> normalizeGenres(String genre, String subGenre, String name, boolean returnNull) {
+    public static Pair<String, String> normalizeGenres(String genre, String subGenre, String name) {
         String simplifyGenre = GeneralUtil.alphanumerify(genre);
         String simplifySubGenre = GeneralUtil.alphanumerify(subGenre);
         String simplifyName = GeneralUtil.alphanumerify(name);
@@ -386,13 +386,14 @@ public class GameUtil {
         }
 
         if (StringUtils.contains(simplifyGenre, "shootemup")) {
-            return Pair.of(Genre.SHOOTEMUP, subGenre);
+            return Pair.of(Genre.SHOOTEMUP, cleanSubGenre(subGenre));
         }
 
         if (StringUtils.contains(simplifyGenre, "action")) {
             if (StringUtils.contains(simplifySubGenre, "shooting")) {
                 return Pair.of(Genre.SHOOTER, Constant.Values.OTHER);
             }
+            return Pair.of(Genre.ACTION, cleanSubGenre(subGenre));
         }
 
         if (StringUtils.contains(simplifyGenre, "adventure")) {
@@ -404,16 +405,15 @@ public class GameUtil {
             }
         }
 
+        if (StringUtils.containsAny(simplifyGenre, "adventure", "roleplay")) {
+            return Pair.of(Genre.ADVENTURE, cleanSubGenre(subGenre));
+        }
+
         if (StringUtils.contains(simplifyGenre, "army")) {
-            if (StringUtils.containsAny(simplifySubGenre, "airforce", "helicopter", "dogfight")) {
-                return Pair.of(Genre.SHOOTEMUP, SubGenre.AIRCRAFT);
-            } else if (StringUtils.contains(simplifySubGenre, "tank")) {
-                return Pair.of(Genre.SHOOTEMUP, SubGenre.TANK);
-            } else if (StringUtils.contains(simplifySubGenre, "antiaircraft")) {
-                return Pair.of(Genre.SHOOTEMUP, SubGenre.ANTIAIRCRAFT);
-            } else if (StringUtils.contains(simplifySubGenre, "fighter")) {
+            if (StringUtils.contains(simplifySubGenre, "fighter")) {
                 return Pair.of(Genre.RUNNGUN, SubGenre.ARMY);
             }
+            return Pair.of(Genre.SHOOTEMUP, SubGenre.ARMY);
         }
 
         if (StringUtils.containsAny(simplifyGenre, "fight", "fighting")) {
@@ -452,11 +452,9 @@ public class GameUtil {
 
         if (StringUtils.contains(simplifyGenre, "space")) {
             if (StringUtils.containsAny(simplifySubGenre, "robot", "soldier")) {
-                return Pair.of(Genre.RUNNGUN, SubGenre.ROBOT);
+                return Pair.of(Genre.RUNNGUN, SubGenre.SPACE);
             }
-            if (StringUtils.containsAny(simplifySubGenre, "force", "defender", "rtype", "basedefense", "aliens", "shooter", "fighter")) {
-                return Pair.of(Genre.SHOOTEMUP, SubGenre.SPACECRAFT);
-            }
+            return Pair.of(Genre.SHOOTEMUP, SubGenre.SPACE);
         }
 
         if (StringUtils.contains(simplifyGenre, "sport")) {
@@ -468,22 +466,25 @@ public class GameUtil {
             return Pair.of(Genre.SPORTS, cleanSubGenre(subGenre));
         }
 
-        if (returnNull) {
-            return Pair.of(null, null);
-        }
-        return Pair.of(genre, subGenre);
+        return Pair.of(genre, cleanSubGenre(subGenre));
     }
 
     private static String cleanSubGenre(String subGenre) {
-        subGenre = subGenre.replaceAll(" 1$", "");
-        subGenre = subGenre.replaceAll(" 2$", "");
-        subGenre = subGenre.replaceAll(" 3$", "");
-        subGenre = subGenre.replaceAll(" 4$", "");
-        subGenre = subGenre.replaceAll(" 5$", "");
-        subGenre = subGenre.replaceAll(" 6$", "");
-        subGenre = subGenre.replaceAll(" 7$", "");
-        subGenre = subGenre.replaceAll(" 8$", "");
-        subGenre = subGenre.replaceAll(" 9$", "");
+        subGenre = subGenre.replaceAll("1$", "");
+        subGenre = subGenre.replaceAll("2$", "");
+        subGenre = subGenre.replaceAll("3$", "");
+        subGenre = subGenre.replaceAll("4$", "");
+        subGenre = subGenre.replaceAll("5$", "");
+        subGenre = subGenre.replaceAll("6$", "");
+        subGenre = subGenre.replaceAll("7$", "");
+        subGenre = subGenre.replaceAll("8$", "");
+        subGenre = subGenre.replaceAll("9$", "");
+
+        subGenre = subGenre.trim();
+
+        if (StringUtils.isBlank(subGenre)) {
+            return Constant.Values.OTHER;
+        }
 
         return subGenre;
     }

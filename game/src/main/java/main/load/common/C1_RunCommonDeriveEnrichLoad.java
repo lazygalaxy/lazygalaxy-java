@@ -133,7 +133,7 @@ public class C1_RunCommonDeriveEnrichLoad {
                             String genre = (String) fieldObject;
                             String subGenre = (String) getField(gameInfoObject, "subGenre");
                             subGenre = !StringUtils.isBlank(subGenre) ? subGenre : Constant.Values.UNKNOWN;
-                            Pair<String, String> genreInfo = GameUtil.normalizeGenres(genre, subGenre, game.name, false);
+                            Pair<String, String> genreInfo = GameUtil.normalizeGenres(genre, subGenre, game.name);
 
                             game.genre = genreInfo.getLeft();
                             game.subGenre = genreInfo.getRight();
