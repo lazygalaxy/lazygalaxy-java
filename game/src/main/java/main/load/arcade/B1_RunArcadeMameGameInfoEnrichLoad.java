@@ -233,6 +233,8 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
             // we only derive family games
             if (!StringUtils.isBlank(cloneOf)) {
                 String cloneOfGameId = GeneralUtil.alphanumerify(cloneOf);
+                game.family = SetUtil.addValueToTreeSet(game.family, cloneOfGameId);
+
                 List<Game> parentGames = GameUtil.getGames(false, false, cloneOf, null,
                         Filters.eq("gameId", cloneOfGameId), Filters.in("systemId", GameSystem.MAME));
 

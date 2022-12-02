@@ -198,7 +198,7 @@ arcade	none	Chiller	1986	chiller	1	none	none	1	yes	no	none	no	Other	Shooter	othe
 arcade	none	Chimera Beast	1993	chimerab	2	single	8	2	no	no	none	no	Jaleco	Platform	Water Diving	no	no	no	no	no	yes	no	no
 arcade	none	China Gate	1988	chinagat	2	single	8	3	no	no	none	no	Technos Japan	Fighter	Beat Em Up	no	no	no	no	no	yes	no	no
 arcade	none	Chinese Hero	1984	chinhero	2	single	4	4	no	no	none	yes	Other	Fighter	Beat Em Up	no	no	no	no	no	yes	no	no
-arcade	none	Choplifter	1985	chopliftbl	2	single	8	2	no	no	none	no	unknown	unknown	unknown	yes	yes	yes	yes	yes	yes	yes	no
+arcade	none	Choplifter	1985	chopliftbl	2	single	8	2	no	no	none	no	unknown	Shoot Em Up	unknown	yes	yes	yes	yes	yes	yes	yes	no
 arcade	none	Choplifter	1985	chplftbl	2	single	8	2	no	no	none	no	unknown	unknown	unknown	no	no	no	no	no	no	no	yes
 arcade	none	Chopper 1	1988	chopper	2	single	8	2	no	no	none	yes	SNK	Shoot Em Up	Army	no	no	no	no	no	yes	no	no
 arcade	neogeo	Choutetsu Brikin'ger	1996	ironclad	2	single	8	4	no	no	none	no	Other	Shoot Em Up	Space	no	no	no	no	no	yes	no	no
@@ -725,7 +725,7 @@ arcade	none	New Rally X	1981	nrallyx	2	single	4	1	no	no	none	no	Namco	Racing	Car
 arcade	none	New Zero Team	1997	nzeroteam	2	single	8	3	no	no	none	no	Seibu Kaihatsu	Fighter	Beat Em Up	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	NewZealand Story, The	1988	tnzs	2	single	8	2	no	no	none	no	Taito	Platform	Extra	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Nibbler	1982	nibbler	2	single	4	0	no	no	none	yes	Other	Maze	other	no	no	no	no	no	yes	no	no
-arcade	none	Night Slashers	1994	nslashers	3	single	8	3	no	no	none	no	Data East	unknown	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Night Slashers	1994	nslashers	3	single	8	3	no	no	none	no	Data East	Fighter	Beat Em Up	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Night Striker	1989	nightstr	1	single	8	2	no	no	stick	no	Taito	Racing	Car	no	no	no	no	no	yes	no	no
 arcade	none	Night Warriors: Darkstalkers' Revenge	1995	nwarr	2	single	8	6	no	no	none	no	Capcom	Fighter	Beat Em Up	yes	yes	yes	yes	yes	yes	no	no
 arcade	neogeo	Nightmare in the Dark	2000	nitd	2	single	8	4	no	no	none	no	Other	Platform	other	yes	yes	yes	yes	yes	yes	no	no
@@ -1226,8 +1226,8 @@ arcade	none	Wizard Fire	1992	wizdfire	2	single	8	2	no	no	none	no	Data East	Adven
 arcade	none	Wizard of Wor	1980	wow	2	single	8	2	no	no	none	no	Midway	Maze	other	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Wonder Boy	1986	wboy	2	single	2	2	no	no	none	no	SEGA	Platform	Extra	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Wonder Boy 3: Monster Lair	1988	wb3	2	single	8	3	no	no	none	no	SEGA	Platform	Extra	yes	yes	yes	yes	yes	yes	no	no
-arcade	none	Wonder Boy: Monster Land	2009	wbmlvcd	2	single	8	2	no	no	none	no	Other	unknown	unknown	yes	yes	yes	yes	yes	yes	yes	no
-arcade	none	Wonder Boy: Monster Land	2009	wbmlvc	2	single	8	2	no	no	none	no	SEGA	unknown	unknown	no	no	no	no	no	no	no	yes
+arcade	none	Wonder Boy: Monster Land	2009	wbmlvcd	2	single	8	2	no	no	none	no	Other	Platform	unknown	yes	yes	yes	yes	yes	yes	yes	no
+arcade	none	Wonder Boy: Monster Land	2009	wbmlvc	2	single	8	2	no	no	none	no	SEGA	Platform	unknown	no	no	no	no	no	no	no	yes
 arcade	none	World Class Bowling Deluxe	1999	wcbowldx	2	none	none	2	no	yes	none	no	Incredible Technologies	Sports	Bowling	no	no	no	no	no	yes	no	no
 arcade	neogeo	World Heroes	1992	wh1	2	single	8	4	no	no	none	no	Alpha Denshi	Fighter	Versus	no	no	no	no	no	yes	no	no
 arcade	neogeo	World Heroes 2	1993	wh2	2	single	8	4	no	no	none	no	Other	Fighter	Versus	no	no	no	no	no	yes	no	no
