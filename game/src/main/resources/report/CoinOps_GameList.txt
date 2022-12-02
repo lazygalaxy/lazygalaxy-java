@@ -17,7 +17,7 @@ arcade	none	A.B. Cop	1990	abcop	1	none	none	1	no	no	pedal/paddle	no	SEGA	Racing	
 arcade	none	APB: All Points Bulletin	1987	apb	1	none	none	2	no	no	pedal/dial	yes	Atari	Racing	Car	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	ASO: Armored Scrum Object	1985	aso	2	single	8	3	no	no	none	yes	SNK	Shoot Em Up	Space	no	no	no	no	no	yes	no	no
 arcade	none	Ace Attacker	1988	aceattac	4	none	none	1	no	yes	pedal/positional/stick	yes	SEGA	Sports	Volleyball	no	no	no	no	no	yes	no	no
-arcade	none	Ace Driver	1994	acedrvrw	1	none	none	6	no	no	pedal/paddle	no	Namco	unknown	unknown	no	no	no	no	no	yes	no	no
+arcade	none	Ace Driver	1994	acedrvrw	1	none	none	6	no	no	pedal/paddle	no	Namco	Racing	Car	no	no	no	no	no	yes	no	no
 arcade	none	Acrobat Mission	1991	acrobatm	2	single	8	3	no	no	none	yes	UPL	Shoot Em Up	Space	no	no	no	no	no	yes	no	no
 arcade	none	Act-Fancer Cybernetick Hyper Weapon	1989	actfancr	2	single	8	2	no	no	none	no	Data East	Run N Gun	Space	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Action Fighter	1986	afighter	2	single	8	3	no	no	none	yes	SEGA	Action	other	no	no	no	no	no	yes	no	no
@@ -633,8 +633,8 @@ arcade	none	Marble Madness	1984	marble	2	none	none	0	no	yes	none	no	Atari	Maze	o
 arcade	none	Marble Madness 2	1991	marblmd2	3	none	none	0	no	yes	none	no	Atari	Action	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Marchen Maze	1988	mmaze	2	single	8	3	no	no	none	no	Namco	Maze	Extra	no	no	no	no	no	yes	no	no
 arcade	none	Mario Bros.	1983	mario	2	single	2	1	no	no	none	no	Nintendo	Platform	other	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	triforce	Mario Kart Arcade GP	2005	mariokartarcadegp	1	none	none	2	no	no	pedal/paddle	no	Namco	Racing	unknown	no	no	no	yes	no	yes	no	no
-arcade	triforce	Mario Kart Arcade GP 2	2007	mariokartarcadegp2	1	none	none	2	no	no	pedal/paddle	no	Namco	Racing	unknown	no	no	no	yes	no	yes	no	no
+arcade	triforce	Mario Kart Arcade GP	2005	mariokartarcadegp	1	none	none	2	no	no	pedal/paddle	no	Namco	Racing	Car	no	no	no	yes	no	yes	no	no
+arcade	triforce	Mario Kart Arcade GP 2	2007	mariokartarcadegp2	1	none	none	2	no	no	pedal/paddle	no	Namco	Racing	Car	no	no	no	yes	no	yes	no	no
 arcade	none	Mars Matrix: Hyper Solid Shooting	2000	mmatrix	2	single	8	1	no	no	none	no	Capcom	Shoot Em Up	Space	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Martial Masters	2001	martmast	4	single	8	4	no	no	none	no	IGS	Fighter	Versus	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Marvel Super Heroes	1995	msh	2	single	8	6	no	no	none	no	Capcom	Fighter	Versus	yes	yes	yes	yes	yes	yes	yes	no
@@ -851,7 +851,7 @@ arcade	none	Rampart	1990	rampart2p	3	single	8	2	no	no	none	no	Atari	Adventure	Kn
 arcade	atomiswave	Ranger Mission	2004	rangrmsn	1	none	none	2	no	no	pedal/paddle	no	Sammy	Shooter	other	no	no	no	no	no	yes	no	no
 arcade	none	Rapid Hero	1994	raphero	2	single	8	3	no	no	none	yes	NMK	unknown	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Rastan Saga	1987	rastsaga	2	single	8	2	no	no	none	no	Taito	Fighter	Beat Em Up	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	none	Rave Racer	1995	raveracw	1	none	none	9	no	no	pedal/paddle	no	Namco	unknown	unknown	yes	yes	yes	yes	yes	yes	yes	no
+arcade	none	Rave Racer	1995	raveracw	1	none	none	9	no	no	pedal/paddle	no	Namco	Racing	Car	yes	yes	yes	yes	yes	yes	yes	no
 arcade	none	Ray Crisis	1998	raycris	4	single	8	3	no	no	none	no	Taito	Shoot Em Up	Space	no	no	no	no	no	yes	no	no
 arcade	none	Ray Storm	1996	raystorm	4	single	8	3	no	no	none	no	Taito	Shoot Em Up	Space	no	no	no	no	no	yes	no	no
 arcade	none	Reactor	1982	reactor	1	none	none	2	no	yes	none	no	Gottlieb	Maze	other	no	no	no	no	no	yes	no	no
@@ -923,7 +923,7 @@ arcade	none	Saturday Night Slam Masters	1993	slammast	4	single	8	3	no	no	none	no
 arcade	neogeo	Savage Reign	1995	savagere	2	single	8	4	no	no	none	no	SNK	Fighter	Versus	no	no	no	no	no	yes	no	no
 arcade	none	Schmeiser Robo	1993	schmeisr	2	single	8	3	no	no	none	no	Other	Fighter	Beat Em Up	no	no	no	no	no	yes	no	no
 arcade	none	Scramble	1981	scramble	2	single	8	2	no	no	none	yes	Konami	Shoot Em Up	Space	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	model3	Scud Race Plus	1997	scudp	1	none	none	8	no	no	pedal/paddle	no	SEGA	unknown	unknown	no	no	no	yes	no	yes	no	no
+arcade	model3	Scud Race Plus	1997	scudp	1	none	none	8	no	no	pedal/paddle	no	SEGA	Racing	Car	no	no	no	yes	no	yes	no	no
 arcade	none	Sea Fighter Poseidon	1984	sfposeid	2	single	8	2	no	no	none	no	Taito	Platform	Water Diving	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Section Z	1985	sectionz	2	single	8	2	no	no	none	no	Capcom	Shoot Em Up	Space	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Sega Ninja	1985	seganinj	2	single	8	3	no	no	none	no	SEGA	Fighter	Beat Em Up	yes	yes	yes	yes	yes	yes	yes	yes

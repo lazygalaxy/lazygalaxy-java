@@ -14,6 +14,7 @@ import org.apache.logging.log4j.Logger;
 import org.bson.conversions.Bson;
 
 import java.util.List;
+import java.util.Set;
 
 public class GameUtil {
     private static final Logger LOGGER = LogManager.getLogger(GameUtil.class);
@@ -376,7 +377,7 @@ public class GameUtil {
         return value;
     }
 
-    public static Pair<String, String> normalizeGenres(String genre, String subGenre, String name) {
+    public static Pair<String, String> normalizeGenres(String genre, String subGenre, String name, Set<String> inputs) {
         String simplifyGenre = GeneralUtil.alphanumerify(genre);
         String simplifySubGenre = GeneralUtil.alphanumerify(subGenre);
         String simplifyName = GeneralUtil.alphanumerify(name);
@@ -464,6 +465,13 @@ public class GameUtil {
                 return Pair.of(Genre.SPORTS, Constant.Values.OTHER);
             }
             return Pair.of(Genre.SPORTS, cleanSubGenre(subGenre));
+        }
+
+        if (StringUtils.contains(genre, "unknown")) {
+            if (inputs != null && inputs.contains("pedal") && inputs.contains("paddle")) {
+                return Pair.of(Genre.RACING, SubGenre.CAR);
+            }
+            return Pair.of(null, null);
         }
 
         return Pair.of(genre, cleanSubGenre(subGenre));

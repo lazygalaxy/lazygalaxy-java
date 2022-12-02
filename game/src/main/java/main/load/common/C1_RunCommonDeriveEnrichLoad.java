@@ -81,14 +81,19 @@ public class C1_RunCommonDeriveEnrichLoad {
             setField(game, "year");
             setField(game, "players");
             setField(game, "description");
+            setField(game, "inputs");
             setField(game, "genre");
+            if (StringUtils.isBlank(game.genre)) {
+                Pair<String, String> genreInfo = GameUtil.normalizeGenres(Constant.Values.UNKNOWN, Constant.Values.UNKNOWN, game.name, game.inputs);
+                game.genre = genreInfo.getLeft();
+                game.subGenre = genreInfo.getRight();
+            }
             setField(game, "version");
             game.developer = null;
             game.publisher = null;
             setField(game, "manufacturers");
             setField(game, "isVertical");
             setField(game, "buttons");
-            setField(game, "inputs");
             setField(game, "ways");
 
             return Arrays.asList(game);
@@ -133,7 +138,7 @@ public class C1_RunCommonDeriveEnrichLoad {
                             String genre = (String) fieldObject;
                             String subGenre = (String) getField(gameInfoObject, "subGenre");
                             subGenre = !StringUtils.isBlank(subGenre) ? subGenre : Constant.Values.UNKNOWN;
-                            Pair<String, String> genreInfo = GameUtil.normalizeGenres(genre, subGenre, game.name);
+                            Pair<String, String> genreInfo = GameUtil.normalizeGenres(genre, subGenre, game.name, game.inputs);
 
                             game.genre = genreInfo.getLeft();
                             game.subGenre = genreInfo.getRight();

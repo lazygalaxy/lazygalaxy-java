@@ -9,13 +9,11 @@
 		<players>1</players>
 		<buttons>2</buttons>
 		<inputs>pedal,paddle</inputs>
-		<genre>Racing</genre>
 	</game>
 	<game>
 		<path>./mariokartarcadegp2.lazygalaxy</path>
 		<players>1</players>
 		<buttons>2</buttons>
 		<inputs>pedal,paddle</inputs>
-		<genre>Racing</genre>
 	</game>
 </gameList>
