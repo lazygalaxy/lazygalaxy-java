@@ -6,11 +6,11 @@ krull
 robotron
 smashtv
 sdungeon
-midres?
-gwarb?
-tinstar??
+midres
+gwarb
+tinstar
 totcarn
-timesold?
-hbarrel?
-ikari?
+timesold
+hbarrel
+ikari
 wwestern

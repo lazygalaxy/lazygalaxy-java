@@ -1,5 +1,5 @@
 centiped
-cabalus??
+cabalus
 ccastles
 dotron
 gt99
@@ -10,12 +10,12 @@ marble
 milliped
 missile
 poundfor
-quantum??
-rampart??
+quantum
+rampart
 reactor
 sdi
-sfootball??
-shufshot??
-simpbowl??
-shuuz??
+sfootball
+shufshot
+simpbowl
+shuuz
 wcbowldx
