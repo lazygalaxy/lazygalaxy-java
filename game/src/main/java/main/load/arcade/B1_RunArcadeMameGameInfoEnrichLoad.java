@@ -235,24 +235,17 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
                 String cloneOfGameId = GeneralUtil.alphanumerify(cloneOf);
                 game.family = SetUtil.addValueToTreeSet(game.family, cloneOfGameId);
 
-                List<Game> parentGames = GameUtil.getGames(false, false, cloneOf, null,
-                        Filters.eq("gameId", cloneOfGameId), Filters.in("systemId", GameSystem.MAME));
-
-                if (parentGames != null) {
-                    for (Game parentGame : parentGames) {
-                        if (!SetUtil.contains(parentGame.family, game.gameId)) {
-                            parentGame.family = SetUtil.addValueToTreeSet(parentGame.family, parentGame.gameId);
-                            parentGame.family = SetUtil.addValueToTreeSet(parentGame.family, game.gameId);
-
-                            game.family = SetUtil.addValueToTreeSet(game.family, parentGame.gameId);
-                            game.family = SetUtil.addValueToTreeSet(game.family, game.gameId);
-
-                            allGamesToReturn.add(parentGame);
-                        }
+                List<Game> familyGames = GameUtil.getGames(false, false, null, null,
+                        Filters.eq("systemId", GameSystem.ARCADE), Filters.in("family", game.family.remove(game.gameId)));
+                if (familyGames != null) {
+                    for (Game familyGame : familyGames) {
+                        familyGame.family = SetUtil.addValueToTreeSet(familyGame.family, game.gameId);
+                        game.family = SetUtil.addValueToTreeSet(game.family, familyGame.gameId);
+                        allGamesToReturn.add(familyGame);
                     }
                 }
             }
-
+            game.family = SetUtil.addValueToTreeSet(game.family, game.gameId);
             return allGamesToReturn;
         }
     }

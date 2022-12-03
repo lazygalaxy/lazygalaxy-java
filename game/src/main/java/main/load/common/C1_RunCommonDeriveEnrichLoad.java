@@ -8,11 +8,11 @@ import com.lazygalaxy.game.Constant.GameSource;
 import com.lazygalaxy.game.Constant.GameSystem;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
+import com.lazygalaxy.game.domain.GenreInfo;
 import com.lazygalaxy.game.merge.GameMerge;
 import com.lazygalaxy.game.util.GameUtil;
 import com.mongodb.client.model.Filters;
 import org.apache.commons.lang3.StringUtils;
-import org.apache.commons.lang3.tuple.Pair;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -84,9 +84,9 @@ public class C1_RunCommonDeriveEnrichLoad {
             setField(game, "inputs");
             setField(game, "genre");
             if (StringUtils.isBlank(game.genre)) {
-                Pair<String, String> genreInfo = GameUtil.normalizeGenres(Constant.Values.UNKNOWN, Constant.Values.UNKNOWN, game.name, game.inputs);
-                game.genre = genreInfo.getLeft();
-                game.subGenre = genreInfo.getRight();
+                GenreInfo normalizeGenres = GameUtil.normalizeGenres(new GenreInfo(Constant.Values.UNKNOWN, Constant.Values.UNKNOWN), game.name, game.inputs);
+                game.genre = normalizeGenres.main;
+                game.subGenre = normalizeGenres.sub;
             }
             setField(game, "version");
             game.developer = null;
@@ -138,10 +138,10 @@ public class C1_RunCommonDeriveEnrichLoad {
                             String genre = (String) fieldObject;
                             String subGenre = (String) getField(gameInfoObject, "subGenre");
                             subGenre = !StringUtils.isBlank(subGenre) ? subGenre : Constant.Values.UNKNOWN;
-                            Pair<String, String> genreInfo = GameUtil.normalizeGenres(genre, subGenre, game.name, game.inputs);
+                            GenreInfo normalizeGenre = GameUtil.normalizeGenres(new GenreInfo(genre, subGenre), game.name, game.inputs);
 
-                            game.genre = genreInfo.getLeft();
-                            game.subGenre = genreInfo.getRight();
+                            game.genre = normalizeGenre.main;
+                            game.subGenre = normalizeGenre.sub;
                             return;
                         } else {
                             Game.class.getField(field).set(game, fieldObject);
