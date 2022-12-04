@@ -34,7 +34,7 @@ public class B2_RunArcadeItaliaCategoryEnrichLoad {
         try {
             Merge<Game> merge = new FieldMerge<Game>();
 
-            new ArcadeItaliaCategryLoad().load("source/arcadeitalia/Category.ini", 6, merge);
+            new ArcadeItaliaCategryLoad().load("source/arcadeitalia/TheCategory.ini", 6, merge);
             LOGGER.info("category load completed!");
 
         } finally {

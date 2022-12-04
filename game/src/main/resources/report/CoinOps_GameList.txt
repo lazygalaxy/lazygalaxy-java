@@ -318,8 +318,8 @@ arcade	none	Dragon Gun	1993	dragngun	2	none	none	2	yes	no	none	no	Data East	Shoo
 arcade	none	Dragon Saber	1990	dsaber	2	single	8	3	no	no	none	yes	Namco	Adventure	Dragons	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Dragon Spirit	1987	dspirit	2	single	8	3	no	no	none	yes	Namco	Adventure	Dragons	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Dragon Unit	1989	drgnunit	2	single	8	3	no	no	none	no	Other	Adventure	Knights	no	no	no	no	no	yes	no	no
-arcade	daphne	Dragon's Lair	1983	lair	2	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	Action	unknown	no	no	no	yes	no	yes	no	yes
-arcade	daphne	Dragon's Lair 2: Time Warp	1991	lair2	1	single	8	1	no	no	none	no	Other	Action	unknown	no	no	no	yes	no	yes	no	no
+arcade	daphne	Dragon's Lair	1983	lair	1	single	8	1	no	no	none	no	Other	Adventure	Knights	no	no	no	yes	no	yes	no	yes
+arcade	daphne	Dragon's Lair 2: Time Warp	1991	lair2	1	single	8	1	no	no	none	no	Other	Adventure	Knights	no	no	no	yes	no	yes	no	no
 arcade	none	Dragoon Might	1995	dragoona	2	single	8	6	no	no	none	no	Konami	Fighter	Versus	no	no	no	no	no	yes	no	no
 arcade	none	Drift Out	1991	driftout	2	single	8	2	no	no	dial	yes	Visco	Racing	Car	no	no	no	no	no	yes	no	no
 arcade	none	Dungeons & Dragons: Shadow over Mystara	1996	ddsom	4	single	8	4	no	no	none	no	Capcom	Adventure	Knights	yes	yes	yes	yes	yes	yes	yes	yes
