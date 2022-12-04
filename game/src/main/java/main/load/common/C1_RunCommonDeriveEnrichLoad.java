@@ -27,9 +27,6 @@ public class C1_RunCommonDeriveEnrichLoad {
 
             new DeriveSourceEnrichLoad().load(merge, null);
             LOGGER.info("derive source enrich completed!");
-
-            new DeriveFamilySourceEnrichLoad().load(merge, null);
-            LOGGER.info("derive family source enrich completed!");
         } finally {
             if (args.length == 0) {
                 MongoConnectionHelper.INSTANCE.close();
@@ -74,7 +71,6 @@ public class C1_RunCommonDeriveEnrichLoad {
 
         @Override
         protected List<Game> getMongoDocument(Game game) throws Exception {
-
             game.subSystemId = null;
             setField(game, "systemId");
             setField(game, "names");
@@ -159,31 +155,6 @@ public class C1_RunCommonDeriveEnrichLoad {
                     return fieldObject;
                 }
             }
-            return null;
-        }
-    }
-
-    private static class DeriveFamilySourceEnrichLoad extends MongoLoad<Game, Game> {
-
-        public DeriveFamilySourceEnrichLoad() throws Exception {
-            super(Game.class, Game.class);
-
-        }
-
-        @Override
-        protected List<Game> getMongoDocument(Game game) throws Exception {
-
-            if (game.genre == null && game.family != null) {
-                List<Game> games = GameUtil.getGames(false, false, null, null, Filters.in("family", game.family));
-                for (Game familyGame : games) {
-                    if (familyGame.genre != null) {
-                        game.genre = familyGame.genre;
-                        game.subGenre = familyGame.subGenre;
-                        return Arrays.asList(game);
-                    }
-                }
-            }
-
             return null;
         }
     }

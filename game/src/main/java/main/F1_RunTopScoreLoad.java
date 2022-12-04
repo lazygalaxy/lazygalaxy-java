@@ -88,8 +88,7 @@ public class F1_RunTopScoreLoad {
             } else if (lastScore != null) {
                 List<Game> games = GameUtil.getGames(false, true, romId, null,
                         Filters.or(Filters.eq("romId", romId), Filters.eq("cloneOfRomId", romId)),
-                        Filters.in("systemId", GameSystem.ARCADE, GameSystem.ATOMISWAVE, GameSystem.DAPHNE,
-                                GameSystem.NAOMI, GameSystem.NEOGEO));
+                        Filters.in("systemId", GameSystem.MAME));
 
                 if (games != null) {
                     List<Scores> scoresList = new ArrayList<Scores>();

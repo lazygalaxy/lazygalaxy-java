@@ -85,7 +85,7 @@ public class B2_RunArcadeItaliaCategoryEnrichLoad {
                 lastGenre = getGenre(romId);
             } else if (lastGenre != null) {
                 List<Game> games = GameUtil.getGames(false, false, null, null,
-                        Filters.eq("systemId", GameSystem.ARCADE), Filters.in("family", romId));
+                        Filters.in("systemId", GameSystem.MAME), Filters.in("family", romId));
 
                 if (games != null) {
                     GenreInfo normalizedGenre = GameUtil.normalizeGenres(lastGenre, romId, null);

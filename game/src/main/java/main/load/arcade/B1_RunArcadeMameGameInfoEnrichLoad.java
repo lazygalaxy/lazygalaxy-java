@@ -47,7 +47,6 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
 
         private final Map<String, Game> mameGameByIdMap = new HashMap<String, Game>();
         private final Map<String, List<Game>> mameGameByNameYearMap = new HashMap<String, List<Game>>();
-        private final Map<String, List<Game>> mameGameByNameMap = new HashMap<String, List<Game>>();
 
         private final String emulatorVersion;
 
@@ -70,13 +69,6 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
                         }
                         gameList.add(game);
                     }
-                    String mapKey = name;
-                    List<Game> gameList = mameGameByNameMap.get(mapKey);
-                    if (gameList == null) {
-                        gameList = new ArrayList<Game>();
-                        mameGameByNameMap.put(mapKey, gameList);
-                    }
-                    gameList.add(game);
                 }
             }
         }
@@ -110,10 +102,6 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
                             mapGames = mameGameByNameYearMap.get(GeneralUtil.alphanumerify(name + year));
                         }
 
-                        if (mapGames == null) {
-                            mapGames = mameGameByNameMap.get(GeneralUtil.alphanumerify(name));
-                        }
-
                         if (mapGames != null) {
                             for (Game mapGame : mapGames) {
                                 if (mapGame.mameGameInfo == null
@@ -126,8 +114,6 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
 
                     }
                 }
-
-                // }
             } else {
                 returnGameList.addAll(process(game, element, false, gameId));
             }
@@ -236,7 +222,7 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
                 game.family = SetUtil.addValueToTreeSet(game.family, cloneOfGameId);
 
                 List<Game> familyGames = GameUtil.getGames(false, false, null, null,
-                        Filters.eq("systemId", GameSystem.ARCADE), Filters.in("family", game.family.remove(game.gameId)));
+                        Filters.in("systemId", GameSystem.MAME), Filters.in("family", game.family.remove(game.gameId)));
                 if (familyGames != null) {
                     for (Game familyGame : familyGames) {
                         familyGame.family = SetUtil.addValueToTreeSet(familyGame.family, game.gameId);

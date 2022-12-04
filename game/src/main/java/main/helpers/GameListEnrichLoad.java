@@ -161,22 +161,6 @@ public class GameListEnrichLoad {
             }
 
             String originalName = XMLUtil.getTagAsString(element, "name", 0);
-//
-//            if (gameList == null && originalName != null && !matchOnlyGameId) {
-//                //query by game name
-//                gameInfoStatic.originalName = originalName;
-//                GameUtil.pretifyName(gameInfoStatic);
-//
-//                for (String name : gameInfoStatic.names) {
-//                    String labelSearch = GeneralUtil.alphanumerify(name);
-//
-//                    gameList = GameUtil.getGames(false, false, gameId + " " + originalName, null, Filters.in("labels", labelSearch),
-//                            Filters.eq("systemId", querySystemId));
-//                    if (gameList != null) {
-//                        break;
-//                    }
-//                }
-//            }
 
             // for some systems we create the game
             if (gameList == null && mustCreate) {
@@ -204,6 +188,9 @@ public class GameListEnrichLoad {
             Integer buttons = XMLUtil.getTagAsInteger(element, "buttons", 0);
 
             for (Game game : gameList) {
+                if (!StringUtils.isBlank(year) && StringUtils.equals(source, Constant.GameSource.LAZYGALAXY)) {
+                    game.year = year;
+                }
                 String emulatorVersion = emulatorMap.containsKey(game.id) ? emulatorMap.get(game.id) : defaultEmulator;
                 Game.class.getField(source + "GameInfo").set(game,
                         new GameInfo(game.gameId, systemId, path, originalName, year, description, genre, subGenre, image, video,
@@ -218,15 +205,8 @@ public class GameListEnrichLoad {
                 if (gameInfo.names != null) {
                     for (String name : gameInfo.names) {
                         game.addLabel(name);
-//                        if (gameInfo.version != null) {
-//                            game.addLabel(name + gameInfo.version);
-//                        }
                     }
                 }
-
-//                if (game.year == null) {
-//                    game.year = gameInfo.year;
-//                }
             }
 
             return gameList;

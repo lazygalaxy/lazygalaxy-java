@@ -6,12 +6,14 @@
 	</provider>
 	<game>
 		<path>./mariokartarcadegp.lazygalaxy</path>
+		<releasedate>2005</releasedate>
 		<players>1</players>
 		<buttons>2</buttons>
 		<inputs>pedal,paddle</inputs>
 	</game>
 	<game>
 		<path>./mariokartarcadegp2.lazygalaxy</path>
+		<releasedate>2007</releasedate>
 		<players>1</players>
 		<buttons>2</buttons>
 		<inputs>pedal,paddle</inputs>
