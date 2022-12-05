@@ -667,7 +667,7 @@ arcade	neogeo	Metal Slug: Super Vehicle-001	1996	mslug	2	single	8	4	no	no	none	n
 arcade	none	Metamoqester	1995	metmqstr	2	single	8	4	no	no	none	no	Banpresto	Fighter	Versus	no	no	no	no	no	yes	no	no
 arcade	none	Metamorphic Force	1993	metamrph	4	single	8	3	no	no	none	no	Konami	Fighter	Beat Em Up	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Metro-Cross	1985	metrocrs	2	single	8	1	no	no	none	no	Namco	Sports	other	yes	yes	yes	yes	yes	yes	no	yes
-arcade	none	Michael Jackson's Moonwalker	1990	moonwlkb	3	single	8	3	no	no	none	no	SEGA	Action	unknown	no	no	no	no	no	no	no	yes
+arcade	none	Michael Jackson's Moonwalker	1990	moonwlkb	2	single	8	4	no	no	none	no	SEGA	Action	unknown	no	no	no	no	no	no	no	yes
 arcade	none	Michael Jackson's Moonwalker	1990	mwalk	3	single	8	3	no	no	none	no	SEGA	Fighter	Beat Em Up	yes	yes	yes	yes	yes	yes	yes	no
 arcade	none	Midnight Resistance	1989	midres	2	single	8	2	no	no	positional	no	Data East	Run N Gun	Army	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Mighty! Pang	2000	mpang	2	single	8	1	no	no	none	no	Mitchell	Platform	Pang	yes	yes	yes	yes	yes	yes	no	no
@@ -1028,7 +1028,7 @@ arcade	none	Street Fighter III 3rd Strike: Fight for the Future	1999	sfiii3n	2	s
 arcade	naomi	Street Fighter Zero 3 Upper	2001	sfz3ugd	2	single	8	6	no	no	none	no	Capcom	Fighter	Street Fighter	no	no	no	no	no	yes	no	no
 arcade	none	Street Fighter: The Movie	1995	sftm	2	single	8	6	no	no	none	no	Capcom	Fighter	Street Fighter	yes	yes	yes	yes	yes	yes	no	no
 arcade	neogeo	Street Hoop	1994	strhoop	2	single	8	4	no	no	none	no	Data East	Sports	Basketball	no	no	no	no	no	yes	no	no
-arcade	none	Street Smart	1989	streetsm	2	single	8	3	no	no	none	no	SNK	Fighter	Versus	yes	yes	yes	yes	yes	yes	no	yes
+arcade	none	Street Smart	1989	streetsm	2	single	8	3	no	no	none	no	SNK	Fighter	Beat Em Up	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Strider	1989	strider	2	single	8	3	no	no	none	no	Capcom	Fighter	Beat Em Up	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Strider 2	1999	strider2	4	single	8	3	no	no	none	no	Capcom	Fighter	Beat Em Up	no	no	no	no	no	yes	no	no
 arcade	none	Strike Fighter	1991	strkfgtr	1	none	none	3	no	no	stick	no	SEGA	Shoot Em Up	Army	no	no	no	no	no	yes	no	no

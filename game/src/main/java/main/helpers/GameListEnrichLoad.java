@@ -188,9 +188,6 @@ public class GameListEnrichLoad {
             Integer buttons = XMLUtil.getTagAsInteger(element, "buttons", 0);
 
             for (Game game : gameList) {
-                if (!StringUtils.isBlank(year) && StringUtils.equals(source, Constant.GameSource.LAZYGALAXY)) {
-                    game.year = year;
-                }
                 String emulatorVersion = emulatorMap.containsKey(game.id) ? emulatorMap.get(game.id) : defaultEmulator;
                 Game.class.getField(source + "GameInfo").set(game,
                         new GameInfo(game.gameId, systemId, path, originalName, year, description, genre, subGenre, image, video,
@@ -206,6 +203,9 @@ public class GameListEnrichLoad {
                     for (String name : gameInfo.names) {
                         game.addLabel(name);
                     }
+                }
+                if (!StringUtils.isBlank(year) && StringUtils.isBlank(game.year)) {
+                    game.year = gameInfo.year;
                 }
             }
 

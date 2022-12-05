@@ -82,6 +82,9 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
 
             List<Game> returnGameList = new ArrayList<Game>();
             if (game == null) {
+                if (StringUtils.equals("dlair", gameId)) {
+                    LOGGER.info("catch");
+                }
 
                 gameInfoStatic.originalName = XMLUtil.getTagAsString(element, "description", 0);
                 GameUtil.pretifyName(gameInfoStatic);
@@ -96,7 +99,6 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
 
                 if (gameInfoStatic.names != null) {
                     for (String name : gameInfoStatic.names) {
-
                         List<Game> mapGames = null;
                         if (year != null) {
                             mapGames = mameGameByNameYearMap.get(GeneralUtil.alphanumerify(name + year));
