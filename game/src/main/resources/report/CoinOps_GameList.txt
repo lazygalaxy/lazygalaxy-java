@@ -19,7 +19,7 @@ arcade	none	ASO: Armored Scrum Object	1985	aso	2	single	8	3	no	no	none	yes	SNK	S
 arcade	none	Ace Attacker	1988	aceattac	4	none	none	1	no	yes	pedal/positional/stick	yes	SEGA	Sports	Volleyball	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Ace Driver	1994	acedrvrw	1	none	none	6	no	no	pedal/paddle	no	Namco	Racing	Car	3rd Person	no	no	no	no	no	yes	no	no
 arcade	none	Acrobat Mission	1991	acrobatm	2	single	8	3	no	no	none	yes	UPL	Shooter	Shoot Em Up	Vertical	no	no	no	no	no	yes	no	no
-arcade	none	Act-Fancer Cybernetick Hyper Weapon	1989	actfancr	2	single	8	2	no	no	none	no	Data East	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	yes
+arcade	none	Act-Fancer Cybernetick Hyper Weapon	1989	actfancr	2	single	8	2	no	no	none	no	Data East	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Action Fighter	1986	afighter	2	single	8	3	no	no	none	yes	SEGA	Shooter	Shoot Em Up	Vertical	no	no	no	no	no	yes	no	no
 arcade	none	Aero Fighters	1992	aerofgt	2	single	8	2	no	no	none	yes	Video System	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	no	no
 arcade	neogeo	Aero Fighters 2	1994	sonicwi2	2	single	8	4	no	no	none	no	Video System	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	no	no
@@ -37,11 +37,11 @@ arcade	none	Airwolf	1987	airwolf	2	single	8	2	no	no	none	no	Other	Shooter	Shoot 
 arcade	none	Ajax	1987	ajax	2	single	8	3	no	no	none	yes	Konami	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Akai Katana	2010	akatana	2	single	8	4	no	no	none	no	Cave	Shooter	Shoot Em Up	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Alex Kidd: The Lost Stars	1986	alexkidd	2	single	8	3	no	no	none	no	SEGA	Platform	Run, Jump & Scrolling	unknown	no	no	no	no	no	yes	no	no
-arcade	none	Alien Storm	1990	astorm	2	single	8	3	no	no	none	no	SEGA	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Alien Storm	1990	astorm	2	single	8	3	no	no	none	no	SEGA	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Alien Syndrome	1987	aliensyn	2	single	8	3	no	no	none	no	SEGA	Maze	Shooter Large	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Alien vs. Predator	1994	avsp	3	single	8	3	no	no	none	no	Capcom	Fighter	Beat Em Up	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Alien3: The Gun	1993	alien3	2	none	none	2	no	no	stick	no	SEGA	Shooter	Gunner	unknown	no	no	no	no	no	yes	no	no
-arcade	none	Aliens	1990	aliens	2	single	8	2	no	no	none	no	Konami	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Aliens	1990	aliens	2	single	8	2	no	no	none	no	Konami	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Alligator Hunt	1994	aligator	2	single	8	3	no	no	none	no	Gaelco	Shooter	Shoot Em Up	3rd Person	no	no	no	no	no	yes	no	no
 arcade	neogeo	Alpha Mission 2	1991	alpham2	2	single	8	4	no	no	none	no	SNK	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Alpine Ski	1982	alpine	2	single	2	1	no	no	none	yes	Taito	Sports	Skiing	unknown	yes	yes	yes	yes	yes	yes	no	yes
@@ -105,7 +105,7 @@ arcade	none	Battle Lane! Vol. 5	1986	battlane	2	single	8	2	no	no	none	yes	Techno
 arcade	none	Battle Rangers	1988	battlera	2	single	8	3	no	no	none	no	Data East	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Battle Zone	1980	bzone	1	twin	vertical2	1	no	no	none	no	Atari	Shooter	Shoot Em Up	Horizontal	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Battletoads	1994	btoads	3	single	8	2	no	no	none	no	Electronic Arts	Fighter	Beat Em Up	unknown	yes	yes	yes	yes	yes	yes	no	no
-arcade	none	Bay Route	1989	bayroute	2	single	8	3	no	no	none	no	SEGA	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	no
+arcade	none	Bay Route	1989	bayroute	2	single	8	3	no	no	none	no	SEGA	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Beast Busters	1989	bbusters	3	none	none	2	yes	no	none	no	SNK	Shooter	Gunner	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Bells & Whistles	1991	blswhstl	2	single	8	2	no	no	none	yes	Konami	Shooter	Shoot Em Up	Vertical	no	no	no	no	no	yes	no	no
 arcade	none	Bermuda Triangle	1987	bermudat	2	single	8	2	no	no	positional	yes	SNK	Shooter	Shoot Em Up	Vertical	no	no	no	no	no	yes	no	no
@@ -115,8 +115,8 @@ arcade	none	Big Karnak	1991	bigkarnk	2	single	8	2	no	no	none	no	Gaelco	Platform	
 arcade	none	Big Run	1989	bigrun	1	none	none	3	no	no	pedal/paddle	no	Jaleco	Racing	Car	3rd Person	no	no	no	no	no	yes	no	no
 arcade	none	Bio Attack	1983	bioatack	2	single	8	1	no	no	none	yes	Taito	Shooter	Shoot Em Up	Vertical	no	no	no	no	no	yes	no	no
 arcade	none	Bio-ship Paladin	1990	bioship	2	single	8	2	no	no	none	no	UPL	Shooter	Shoot Em Up	Horizontal	no	no	no	yes	yes	yes	no	no
-arcade	none	Biomechanical Toy	1995	biomtoy	2	single	8	2	no	no	none	no	Gaelco	Platform	Shooter Scrolling	unknown	no	no	no	no	no	yes	no	no
-arcade	none	Bionic Commando	1987	bionicc	2	single	8	2	no	no	none	no	Capcom	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Biomechanical Toy	1995	biomtoy	2	single	8	2	no	no	none	no	Gaelco	Shooter	Run N Gun	unknown	no	no	no	no	no	yes	no	no
+arcade	none	Bionic Commando	1987	bionicc	2	single	8	2	no	no	none	no	Capcom	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Black Heart	1991	blkheart	2	single	8	2	no	no	none	no	UPL	Shooter	Shoot Em Up	Horizontal	no	no	no	no	no	yes	no	no
 arcade	none	Black Tiger	1987	blktiger	2	single	8	2	no	no	none	no	Capcom	Platform	Fighter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Black Widow	1982	bwidow	1	twin	8	0	no	no	none	no	Atari	Shooter	Shoot Em Up	Aerial	yes	yes	yes	yes	yes	yes	no	yes
@@ -141,7 +141,7 @@ arcade	none	Bomb Jack	1984	bombjack	2	single	8	1	no	no	none	yes	Tehkan	Platform	
 arcade	none	Bomber Man World	1992	bbmanw	4	single	4	2	no	no	none	no	Irem	Maze	Collect	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Bombjack Twin	1993	bjtwin	2	single	8	2	no	no	none	yes	NMK	Platform	Run Jump	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Bonanza Bros	1990	bnzabros	2	single	8	3	no	no	none	no	SEGA	Platform	Shooter	unknown	yes	yes	yes	yes	yes	yes	no	no
-arcade	none	Bonze Adventure	1988	bonzeadv	2	single	8	2	no	no	none	no	Taito	Platform	Shooter Scrolling	unknown	no	no	no	yes	yes	yes	no	no
+arcade	none	Bonze Adventure	1988	bonzeadv	2	single	8	2	no	no	none	no	Taito	Shooter	Run N Gun	unknown	no	no	no	yes	yes	yes	no	no
 arcade	none	Boogie Wings	1992	boogwing	2	single	8	3	no	no	none	no	Data East	Shooter	Shoot Em Up	Horizontal	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	naomi	Border Down	2003	bdrdown	2	single	8	6	no	no	none	no	Other	Shooter	Shoot Em Up	Horizontal	no	no	no	no	no	yes	no	no
 arcade	none	Bosconian: Star Destroyer	1981	bosco	2	single	8	1	no	no	none	no	Namco	Shooter	Shoot Em Up	Aerial	yes	yes	yes	yes	yes	yes	yes	yes
@@ -183,14 +183,14 @@ arcade	neogeo	Captain Tomaday	1999	ctomaday	2	single	8	4	no	no	none	no	Visco	Sho
 arcade	none	CarnEvil	1998	carnevil	2	none	none	2	yes	no	none	no	Midway	Shooter	Gunner	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Carnival	1980	carnival	1	single	2	1	no	no	none	yes	SEGA	Shooter	Shoot Em Up	Aerial	no	no	no	no	no	yes	no	no
 arcade	none	Carrier Air Wing	1990	cawing	2	single	8	3	no	no	none	no	Capcom	Shooter	Shoot Em Up	Horizontal	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	none	Caveman Ninja	1991	cninja	2	single	8	2	no	no	none	no	Data East	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Caveman Ninja	1991	cninja	2	single	8	2	no	no	none	no	Data East	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Centipede	1980	centiped	1	single	8	1	no	yes	none	yes	Atari	Shooter	Shoot Em Up	Aerial	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Champion Wrestler	1989	champwr	2	single	8	2	no	no	none	no	Taito	Sports	Wrestling	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Championship Sprint	1986	csprint	2	none	none	0	no	no	pedal/dial	no	Atari	Racing	Car	Aerial	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Change Air Blade	1999	cairblad	2	single	8	3	no	no	none	yes	Sammy	Shooter	Shoot Em Up	Vertical	no	no	no	no	no	yes	no	no
-arcade	none	Charlie Ninja	1995	charlien	2	single	8	3	no	no	none	no	Mitchell	Platform	Shooter Scrolling	unknown	no	no	no	no	no	yes	no	no
+arcade	none	Charlie Ninja	1995	charlien	2	single	8	3	no	no	none	no	Mitchell	Shooter	Run N Gun	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Chase H.Q.	1988	chasehq	1	none	none	4	no	no	pedal/paddle/dial	no	Taito	Racing	Car	3rd Person	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	none	Chelnov: Atomic Runner	1988	chelnov	2	single	8	3	no	no	none	no	Data East	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Chelnov: Atomic Runner	1988	chelnov	2	single	8	3	no	no	none	no	Data East	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Chequered Flag	1988	chqflag	1	none	none	2	no	no	pedal/paddle	yes	Konami	Racing	Car	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Cheyenne	1984	cheyenne	1	none	none	1	yes	no	none	no	Other	Shooter	Gunner	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Chicken Shift	1984	cshift	1	none	none	2	no	no	none	no	Other	Puzzle	Maze	unknown	no	no	no	no	no	yes	no	no
@@ -217,9 +217,9 @@ arcade	none	Commando	1985	commandou	2	single	8	2	no	no	none	yes	Capcom	Shooter	R
 arcade	none	Commando	1985	commando	2	single	8	2	no	no	none	yes	Capcom	Shooter	Run N Gun	unknown	no	no	no	no	no	no	no	yes
 arcade	none	Congo Bongo	1983	congo	2	single	8	1	no	no	none	yes	SEGA	Platform	Run Jump	unknown	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Continental Circus	1987	contcirc	1	none	none	3	no	no	pedal/paddle/dial	no	Taito	Racing	Car	3rd Person	no	no	no	no	no	yes	no	no
-arcade	none	Contra	1987	contra	2	single	8	2	no	no	none	yes	Konami	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Contra	1987	contra	2	single	8	2	no	no	none	yes	Konami	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Cool Riders	1995	coolridr	2	none	none	4	no	no	pedal/paddle	no	SEGA	Racing	Motorbike	unknown	no	no	no	no	no	yes	no	no
-arcade	none	Cop 01	1985	cop01	2	single	8	2	no	no	none	no	Nichibutsu	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	no
+arcade	none	Cop 01	1985	cop01	2	single	8	2	no	no	none	no	Nichibutsu	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Cosmic Alien	1979	cosmica	2	single	2	1	no	no	none	yes	Universal	Shooter	Shoot Em Up	Aerial	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Cosmic Cop	1991	cosmccop	2	single	8	4	no	no	none	no	Irem	Shooter	Shoot Em Up	Horizontal	no	no	no	yes	yes	yes	no	no
 arcade	none	Cosmo Gang the Video	1991	cosmogng	2	single	8	3	no	no	none	yes	Namco	Shooter	Shoot Em Up	Aerial	no	no	no	no	no	yes	no	no
@@ -230,7 +230,7 @@ arcade	none	Cotton Boomerang	1998	cottonbm	4	single	8	4	no	no	none	no	Other	Shoo
 arcade	none	Crack Down	1989	crkdown	2	single	8	3	no	no	none	no	SEGA	Maze	Shooter Large	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Crazy Climber	1980	cclimber	2	twin	8	0	no	no	none	no	Nichibutsu	other	Building	unknown	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Crazy Climber 2	1988	cclimbr2	2	twin	8	0	no	no	none	no	Nichibutsu	other	Building	unknown	no	no	no	no	no	yes	no	no
-arcade	none	Crime City	1989	crimec	2	single	8	2	no	no	none	no	Taito	Platform	Shooter Scrolling	unknown	no	no	no	no	no	yes	no	no
+arcade	none	Crime City	1989	crimec	2	single	8	2	no	no	none	no	Taito	Shooter	Run N Gun	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Crime Fighters	1989	crimfght	2	single	8	3	no	no	none	no	Konami	Fighter	Beat Em Up	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Crossbow	1983	crossbow	1	none	none	1	yes	no	none	no	Other	Shooter	Gunner	unknown	no	no	no	no	no	yes	no	no
 arcade	neogeo	Crossed Swords	1991	crsword	2	single	8	4	no	no	none	no	Alpha Denshi	Fighter	Beat Em Up	unknown	no	no	no	yes	yes	yes	no	no
@@ -244,7 +244,7 @@ arcade	none	Cybattler	1993	cybattlr	2	single	8	2	no	no	none	yes	Jaleco	Shooter	S
 arcade	none	Cyber Commando	1994	cybrcomm	2	none	none	3	no	no	stick	no	Namco	Shooter	Shoot Em Up	3rd Person	no	no	no	no	no	yes	no	no
 arcade	none	Cyber Cycles	1995	cybrcycc	1	none	none	0	no	no	pedal/paddle	no	Namco	Racing	Motorbike	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Cyber Sled	1993	cybsled	2	none	none	3	no	no	stick	no	Namco	Shooter	Shoot Em Up	3rd Person	no	no	no	no	no	yes	no	no
-arcade	neogeo	Cyber-Lip	1990	cyberlip	2	single	8	4	no	no	none	no	SNK	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	yes
+arcade	neogeo	Cyber-Lip	1990	cyberlip	2	single	8	4	no	no	none	no	SNK	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Cyberball 2072	1989	cyberbal2p	2	single	8	1	no	no	none	no	Atari	Sports	Football	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Cyberbots: Fullmetal Madness	1995	cybots	2	single	8	4	no	no	none	no	Capcom	Fighter	Versus	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Cyvern: The Dragon Weapons	1998	cyvern	2	single	8	2	no	no	none	yes	Kaneko	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	yes	yes
@@ -268,8 +268,8 @@ arcade	none	Deathsmiles MegaBlack Label	2008	dsmbl	2	single	8	4	no	no	none	no	Ca
 arcade	none	Deep, The	1987	thedeep	2	single	8	2	no	no	none	yes	Other	Shooter	Shoot Em Up	Aerial	no	no	no	no	no	yes	no	no
 arcade	none	Defender	1980	defender	1	single	vertical2	5	no	no	none	no	Williams	Shooter	Shoot Em Up	Horizontal	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	atomiswave	Demolish Fist	2003	demofist	2	single	8	6	no	no	none	no	Other	Fighter	Versus	unknown	no	no	no	no	no	yes	no	no
-arcade	none	Demon Front	2002	dmnfrnt	4	single	8	4	no	no	none	no	IGS	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	none	Demon's World	1990	demonwld	2	single	8	3	no	no	none	no	Toaplan	Platform	Shooter Scrolling	unknown	no	no	no	no	no	yes	no	no
+arcade	none	Demon Front	2002	dmnfrnt	4	single	8	4	no	no	none	no	IGS	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Demon's World	1990	demonwld	2	single	8	3	no	no	none	no	Toaplan	Shooter	Run N Gun	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Denjin Makai	1994	denjinmk	4	single	8	3	no	no	none	no	Banpresto	Fighter	Beat Em Up	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Desert Assault	1991	dassault	4	single	8	2	no	no	none	no	Data East	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Desert Breaker	1992	desertbr	3	single	8	3	no	no	none	yes	SEGA	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	no	yes
@@ -293,7 +293,7 @@ arcade	none	DoDonPachi Dai-Fukkatsu Black Label	2010	dfkbl	2	single	8	4	no	no	no
 arcade	none	DoDonPachi Dai-Fukkatsu Ver 1.5	2008	ddpdfk	2	single	8	4	no	no	none	yes	Cave	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	DoDonPachi Dai-Ou-Jou	2002	ddpdoj	2	single	8	3	no	no	none	yes	Cave	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	yes	no
 arcade	none	Dogyuun	1992	dogyuun	2	single	8	3	no	no	none	yes	Toaplan	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	no	no
-arcade	atomiswave	Dolphin Blue	2003	dolphin	2	single	8	6	no	no	none	no	Sammy	Platform	Shooter Scrolling	unknown	no	no	no	no	no	yes	no	yes
+arcade	atomiswave	Dolphin Blue	2003	dolphin	2	single	8	6	no	no	none	no	Sammy	Shooter	Run N Gun	unknown	no	no	no	no	no	yes	no	yes
 arcade	none	Domino Man	1982	domino	2	single	4	1	no	no	none	no	Midway	Maze	Blocks	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Don Doko Don	1989	dondokod	2	single	8	2	no	no	none	no	Taito	Platform	Run Jump	unknown	no	no	no	no	no	yes	no	no
 arcade	none	DonPachi	1995	donpachi	2	single	8	3	no	no	none	yes	Cave	Shooter	Shoot Em Up	Vertical	no	no	no	yes	yes	yes	no	no
@@ -331,8 +331,8 @@ arcade	none	Dynamite Duke	1989	dynduke	2	single	8	3	no	no	none	no	Seibu Kaihatsu
 arcade	none	Dynamite Dux	1988	ddux	2	single	8	3	no	no	none	no	SEGA	Fighter	Beat Em Up	unknown	no	no	no	yes	yes	yes	no	no
 arcade	none	Dynasty Wars	1989	dynwar	2	single	8	3	no	no	none	no	Capcom	Fighter	Beat Em Up	unknown	yes	yes	yes	yes	yes	yes	yes	no
 arcade	none	Dynasty Wars	1989	dw	2	single	8	3	no	no	none	no	Capcom	Fighter	Beat Em Up	unknown	no	no	no	no	no	no	no	yes
-arcade	none	E-Swat: Cyber Police	1989	eswat	2	single	8	3	no	no	none	no	SEGA	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	no
-arcade	none	E-Swat: Cyber Police	1989	eswatbl	2	single	8	3	no	no	none	no	unknown	Platform	Shooter Scrolling	unknown	no	no	no	no	no	no	no	yes
+arcade	none	E-Swat: Cyber Police	1989	eswat	2	single	8	3	no	no	none	no	SEGA	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	no
+arcade	none	E-Swat: Cyber Police	1989	eswatbl	2	single	8	3	no	no	none	no	unknown	Shooter	Run N Gun	unknown	no	no	no	no	no	no	no	yes
 arcade	none	E.D.F.: Earth Defense Force	1991	edf	2	single	8	2	no	no	none	no	Jaleco	Shooter	Shoot Em Up	Horizontal	no	no	no	no	no	yes	no	no
 arcade	none	ESP Ra.De.	1998	esprade	2	single	8	3	no	no	none	yes	Cave	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Eco Fighters	1993	ecofghtr	2	single	8	3	no	no	dial	no	Capcom	Shooter	Shoot Em Up	Horizontal	yes	yes	yes	yes	yes	yes	no	yes
@@ -448,7 +448,7 @@ arcade	none	Grand Prix Star	1992	f1gpstar	1	none	none	2	no	no	pedal/paddle	no	Ja
 arcade	none	Gratia: Second Earth	1996	gratia	2	single	8	5	no	no	none	no	Jaleco	Shooter	Shoot Em Up	Horizontal	no	no	no	no	no	yes	no	no
 arcade	none	Gravitar	1982	gravitar	1	single	2	3	no	no	none	no	Atari	Shooter	Shoot Em Up	Aerial	no	no	no	no	no	yes	no	no
 arcade	none	Great 1000 Miles Rally: U.S.A Version!	1994	gtmrusa	2	single	8	2	no	no	paddle/dial	no	Kaneko	Racing	Car	unknown	yes	yes	yes	yes	yes	yes	no	no
-arcade	none	Green Beret	1985	gberet	2	single	8	2	no	no	none	no	Konami	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Green Beret	1985	gberet	2	single	8	2	no	no	none	no	Konami	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Grind Stormer	1992	grindstm	2	single	8	2	no	no	none	yes	Toaplan	Shooter	Shoot Em Up	Vertical	no	no	no	no	no	yes	no	no
 arcade	none	Ground Effects	1992	groundfx	1	none	none	3	no	no	stick	no	Taito	Racing	Car	3rd Person	no	no	no	no	no	yes	no	no
 arcade	none	Growl	1990	growl	4	single	8	3	no	no	none	no	Taito	Fighter	Beat Em Up	unknown	no	no	no	yes	yes	yes	no	no
@@ -461,14 +461,14 @@ arcade	atomiswave	Guilty Gear X ver. 1.5	2003	ggx15	2	single	8	6	no	no	none	no	S
 arcade	naomi	Guilty Gear XX	2002	ggxx	2	single	8	6	no	no	none	no	Other	Fighter	Versus	unknown	no	no	no	no	no	yes	no	no
 arcade	naomi	Guilty Gear XX #Reload	2003	ggxxrl	2	single	8	6	no	no	none	no	Other	Fighter	Versus	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Gulf Storm	1991	gulfstrm	2	single	8	2	no	no	none	yes	Other	Shooter	Shoot Em Up	Vertical	no	no	no	no	no	yes	no	no
-arcade	none	Gun Force 2	1994	gunforc2	2	single	8	2	no	no	none	no	Irem	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	no
+arcade	none	Gun Force 2	1994	gunforc2	2	single	8	2	no	no	none	no	Irem	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Gun.Smoke	1985	gunsmoke	2	single	8	3	no	no	none	yes	Capcom	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	GunNail	1993	gunnail	2	single	8	2	no	no	none	yes	NMK	Shooter	Shoot Em Up	Vertical	no	no	no	no	no	yes	no	no
 arcade	none	Gunbarich	2001	gnbarich	2	single	8	3	no	no	none	yes	Psikyo	other	Breakout	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Gunbird	1994	gunbird	2	single	8	3	no	no	none	yes	Psikyo	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Gunbird 2	1998	gunbird2	2	single	8	3	no	no	none	yes	Psikyo	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Gundhara	1995	gundhara	2	single	8	3	no	no	none	yes	Banpresto	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	no	no
-arcade	none	Gunforce: Battle Fire Engulfed Terror Island	1991	gunforce	2	single	8	2	no	no	none	no	Irem	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	yes
+arcade	none	Gunforce: Battle Fire Engulfed Terror Island	1991	gunforce	2	single	8	2	no	no	none	no	Irem	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Gunlock	1993	gunlock	4	single	8	4	no	no	dial	yes	Taito	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Guwange	1999	guwange	2	single	8	3	no	no	none	yes	Cave	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Gyruss	1983	gyruss	2	single	2	1	no	no	none	yes	Konami	Shooter	Shoot Em Up	3rd Person	yes	yes	yes	yes	yes	yes	yes	yes
@@ -510,14 +510,14 @@ arcade	none	In The Hunt	1993	inthunt	2	single	8	2	no	no	none	no	Irem	Shooter	Sho
 arcade	none	Indiana Jones & the Temple of Doom	1985	indytemp	1	single	8	1	no	no	none	no	Atari	Maze	Fighter	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Insector X	1989	insectx	2	single	8	2	no	no	none	no	Taito	Shooter	Shoot Em Up	Horizontal	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Iron Fortress	1998	ironfort	2	single	8	2	no	no	none	no	Other	Maze	Shooter Large	unknown	no	no	no	no	no	yes	no	no
-arcade	none	Iron Horse	1986	ironhors	2	single	4	3	no	no	none	no	Konami	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Iron Horse	1986	ironhors	2	single	4	3	no	no	none	no	Konami	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Ironman Ivan Stewart's Super Off-Road Track-Pak	1989	offroadt	3	none	none	1	no	no	pedal/dial	no	Other	Racing	Car	Aerial	yes	yes	yes	yes	yes	yes	no	yes
 arcade	neogeo	Irritating Maze, The	1997	irrmaze	2	none	none	2	no	yes	none	no	SNK	Maze	Ball Guide	unknown	yes	yes	yes	yes	yes	yes	no	no
-arcade	none	J. J. Squawkers	1993	jjsquawk	2	single	8	3	no	no	none	no	Other	Platform	Shooter Scrolling	unknown	no	no	no	no	no	yes	no	no
+arcade	none	J. J. Squawkers	1993	jjsquawk	2	single	8	3	no	no	none	no	Other	Shooter	Run N Gun	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Jackal	1986	jackal	2	single	8	2	no	no	none	yes	Konami	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Jackie Chan in Fists of Fire	1995	jchan2	2	single	8	4	no	no	none	no	Kaneko	Fighter	Versus	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Jackie Chan: The Kung-Fu Master	1995	jchan	2	single	8	4	no	no	none	no	Kaneko	Fighter	Versus	unknown	no	no	no	no	no	yes	no	no
-arcade	none	Jail Break	1986	jailbrek	2	single	8	2	no	no	none	no	Konami	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Jail Break	1986	jailbrek	2	single	8	2	no	no	none	no	Konami	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	JoJo no Kimyou na Bouken: Mirai e no Isan	1999	jojoban	2	single	8	6	no	no	none	no	Capcom	Fighter	Versus	unknown	yes	yes	yes	yes	yes	yes	yes	no
 arcade	none	JoJo's Bizarre Adventure	1999	jojobane	2	single	8	6	no	no	none	no	Capcom	Fighter	Versus	unknown	no	no	no	no	no	no	no	yes
 arcade	none	JoJo's Venture	1998	jojon	2	single	8	6	no	no	none	no	Capcom	Fighter	Versus	unknown	no	no	no	yes	yes	yes	no	no
@@ -537,7 +537,7 @@ arcade	none	Kangaroo	1982	kangaroo	2	single	8	1	no	no	none	yes	Other	Platform	Ru
 arcade	none	Karate Blazers	1991	karatblz	4	single	8	4	no	no	none	no	Video System	Fighter	Beat Em Up	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Karate Champ	1984	kchamp	2	twin	4	0	no	no	none	yes	Data East	Fighter	Versus	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Karate Tournament, The	1992	karatour	2	single	8	2	no	no	none	no	Mitchell	Fighter	Versus	unknown	no	no	no	no	no	yes	no	no
-arcade	none	Karnov	1987	karnov	2	single	8	3	no	no	none	no	Data East	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Karnov	1987	karnov	2	single	8	3	no	no	none	no	Data East	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	neogeo	Karnov's Revenge	1994	karnovr	2	single	8	4	no	no	none	no	Data East	Fighter	Versus	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Ketsui: Kizuna Jigoku Tachi	2002	ket	2	single	8	3	no	no	none	yes	Cave	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	KiKi KaiKai	1986	kikikai	2	single	8	2	no	no	none	yes	Taito	Shooter	Run N Gun	unknown	no	no	no	yes	yes	yes	no	no
@@ -623,7 +623,7 @@ arcade	none	Mag Max	1985	magmax	2	single	8	1	no	no	none	no	Nichibutsu	Shooter	Sh
 arcade	none	Magic Sword: Heroic Fantasy	1990	msword	2	single	8	3	no	no	none	no	Capcom	Platform	Fighter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Magical Crystals	1991	mgcrystl	2	single	8	2	no	no	none	no	Kaneko	Maze	Shooter Large	unknown	no	no	no	no	no	yes	no	no
 arcade	neogeo	Magical Drop 3	1997	magdrop3	2	single	8	4	no	no	none	no	Data East	Puzzle	Toss	unknown	no	no	no	yes	yes	yes	no	no
-arcade	neogeo	Magician Lord	1990	maglord	2	single	8	4	no	no	none	no	Alpha Denshi	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	no
+arcade	neogeo	Magician Lord	1990	maglord	2	single	8	4	no	no	none	no	Alpha Denshi	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Main Event, The	1988	mainevt	4	single	8	2	no	no	none	no	Konami	Sports	Wrestling	unknown	no	no	no	yes	yes	yes	no	no
 arcade	none	Major Havoc	1983	mhavoc	2	none	none	2	no	no	dial	no	Atari	Shooter	Shoot Em Up	unknown	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Major Title 2	1992	majtitl2	4	single	8	2	no	no	none	no	Irem	Sports	Golf	unknown	no	no	no	yes	yes	yes	no	no
@@ -657,19 +657,19 @@ arcade	none	Mega Zone	1983	megazone	2	single	8	1	no	no	none	yes	Konami	Shooter	S
 arcade	none	Meikyu Jima	1988	kikcubic	2	single	4	2	no	no	none	no	Irem	Puzzle	Maze	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Mercs	1990	mercs	3	single	8	2	no	no	none	yes	Capcom	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Metal Hawk	1988	metlhawk	2	none	none	2	no	no	stick	yes	Namco	Shooter	Shoot Em Up	unknown	no	no	no	no	no	yes	no	no
-arcade	neogeo	Metal Slug 2 Turbo	2015	mslug2t	2	single	8	4	no	no	none	no	Other	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	no
-arcade	neogeo	Metal Slug 3	2000	mslug3	2	single	8	4	no	no	none	no	SNK	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	neogeo	Metal Slug 4	2002	mslug4	2	single	8	4	no	no	none	no	SNK	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	neogeo	Metal Slug 5	2003	mslug5	2	single	8	4	no	no	none	no	SNK	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	atomiswave	Metal Slug 6	2006	mslug6	2	single	8	6	no	no	none	no	SEGA	Platform	Shooter Scrolling	unknown	no	no	no	no	no	yes	no	no
-arcade	neogeo	Metal Slug X: Super Vehicle-001	1999	mslugx	2	single	8	4	no	no	none	no	SNK	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	neogeo	Metal Slug: Super Vehicle-001	1996	mslug	2	single	8	4	no	no	none	no	Nazca	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	neogeo	Metal Slug 2 Turbo	2015	mslug2t	2	single	8	4	no	no	none	no	Other	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	no	no
+arcade	neogeo	Metal Slug 3	2000	mslug3	2	single	8	4	no	no	none	no	SNK	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	neogeo	Metal Slug 4	2002	mslug4	2	single	8	4	no	no	none	no	SNK	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	neogeo	Metal Slug 5	2003	mslug5	2	single	8	4	no	no	none	no	SNK	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	atomiswave	Metal Slug 6	2006	mslug6	2	single	8	6	no	no	none	no	SEGA	Shooter	Run N Gun	unknown	no	no	no	no	no	yes	no	no
+arcade	neogeo	Metal Slug X: Super Vehicle-001	1999	mslugx	2	single	8	4	no	no	none	no	SNK	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	neogeo	Metal Slug: Super Vehicle-001	1996	mslug	2	single	8	4	no	no	none	no	Nazca	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Metamoqester	1995	metmqstr	2	single	8	4	no	no	none	no	Banpresto	Fighter	Versus	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Metamorphic Force	1993	metamrph	4	single	8	3	no	no	none	no	Konami	Fighter	Beat Em Up	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Metro-Cross	1985	metrocrs	2	single	8	1	no	no	none	no	Namco	Platform	Run, Jump & Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Michael Jackson's Moonwalker	1990	moonwlkb	2	single	8	4	no	no	none	no	SEGA	Platform	Fighter Scrolling	unknown	no	no	no	no	no	no	no	yes
 arcade	none	Michael Jackson's Moonwalker	1990	mwalk	3	single	8	3	no	no	none	no	SEGA	Platform	Fighter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	no
-arcade	none	Midnight Resistance	1989	midres	2	single	8	2	no	no	positional	no	Data East	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Midnight Resistance	1989	midres	2	single	8	2	no	no	positional	no	Data East	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Mighty! Pang	2000	mpang	2	single	8	1	no	no	none	no	Mitchell	Shooter	Shoot Em Up	3rd Person	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Mikie	1984	mikie	2	single	4	2	no	no	none	yes	Konami	Maze	Fighter	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Mille Miglia 2: Great 1000 Miles Rally	1995	gtmr2	2	single	8	8	no	no	paddle/dial	no	Kaneko	Racing	Car	unknown	yes	yes	yes	yes	yes	yes	no	no
@@ -711,7 +711,7 @@ arcade	none	NFL Blitz	1997	blitz	2	single	8	3	no	no	stick	no	Midway	Sports	Footb
 arcade	none	NFL Blitz '99	1998	blitz99	4	single	8	3	no	no	stick	no	Midway	Sports	Football	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	NFL Blitz 2000 Gold Edition	1999	blitz2k	4	single	8	3	no	no	stick	no	Midway	Sports	Football	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Namco Classic Collection Vol.1	1995	ncv1	2	single	8	3	no	no	none	yes	Namco	other	Compilation	unknown	no	no	no	no	no	yes	no	no
-arcade	none	Narc	1988	narc	2	single	8	4	no	no	none	no	Williams	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Narc	1988	narc	2	single	8	4	no	no	none	no	Williams	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Nastar	1988	nastar	2	single	8	2	no	no	none	no	Taito	Platform	Fighter Scrolling	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Naughty Boy	1982	naughtyb	2	single	4	1	no	no	none	yes	Jaleco	Maze	Shooter Large	unknown	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Nebulas Ray	1994	nebulray	4	single	8	3	no	no	none	yes	Namco	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	no	no
@@ -741,7 +741,7 @@ arcade	none	Ninja Kids, The	1990	ninjak	4	single	8	2	no	no	none	no	Taito	Fighter
 arcade	neogeo	Ninja Master's: Haoh-ninpo-cho	1996	ninjamas	2	single	8	4	no	no	none	no	SNK	Fighter	Versus	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Ninja Spirit	1988	nspirit	2	single	8	4	no	no	none	no	Irem	Fighter	Beat Em Up	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Ninja Warriors, The	1987	ninjaw	2	single	8	2	no	no	none	no	Taito	Fighter	Beat Em Up	unknown	no	no	no	no	no	yes	no	no
-arcade	none	Ninja-Kid 2	1987	ninjakd2	2	single	8	2	no	no	none	no	UPL	Platform	Shooter Scrolling	unknown	no	no	no	yes	yes	yes	no	no
+arcade	none	Ninja-Kid 2	1987	ninjakd2	2	single	8	2	no	no	none	no	UPL	Shooter	Run N Gun	unknown	no	no	no	yes	yes	yes	no	no
 arcade	none	Nitro Ball	1992	nitrobal	3	single	8	2	no	no	none	yes	Data East	Shooter	Run N Gun	unknown	no	no	no	yes	yes	yes	no	no
 arcade	none	Nostradamus	1993	nost	2	single	8	1	no	no	none	yes	Other	Shooter	Shoot Em Up	Vertical	no	no	no	no	no	yes	no	no
 arcade	none	Omega Race	1981	omegrace	2	none	none	2	no	no	dial	no	Midway	Shooter	Shoot Em Up	Aerial	no	no	no	no	no	yes	no	no
@@ -800,7 +800,7 @@ arcade	none	Progear	2001	progear	2	single	8	3	no	no	none	no	Cave	Shooter	Shoot E
 arcade	none	Prop Cycle	1996	propcycl	1	none	none	0	no	no	stick	no	Namco	Sports	Hang Gliding	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Psychic 5	1987	psychic5	2	single	8	2	no	no	none	yes	Jaleco	Platform	Fighter Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Psycho Soldier	1987	psychos	2	single	8	2	no	no	none	no	SNK	Platform	Fighter Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	yes
-arcade	none	Psycho-Nics Oscar	1987	oscar	2	single	8	3	no	no	none	no	Data East	Platform	Shooter Scrolling	unknown	no	no	no	no	no	yes	no	no
+arcade	none	Psycho-Nics Oscar	1987	oscar	2	single	8	3	no	no	none	no	Data East	Shooter	Run N Gun	unknown	no	no	no	no	no	yes	no	no
 arcade	none	PuLiRuLa	1991	pulirula	2	single	8	3	no	no	none	no	Taito	Fighter	Beat Em Up	unknown	no	no	no	no	no	yes	no	no
 arcade	neogeo	Pulstar	1995	pulstar	2	single	8	4	no	no	none	no	Other	Shooter	Shoot Em Up	Horizontal	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Punch-Out!!	1984	punchout	1	single	4	3	no	no	none	no	Nintendo	Sports	Boxing	unknown	yes	yes	yes	yes	yes	yes	yes	yes
@@ -878,17 +878,17 @@ arcade	none	Road Blasters	1987	roadblst	1	none	none	3	no	no	pedal/stick	no	Atari
 arcade	none	Road Fighter	1984	roadf	2	single	8	2	no	no	none	yes	Konami	Racing	Car	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Road Runner	1985	roadrunn	1	none	none	2	no	no	stick	no	Atari	Platform	Run, Jump & Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	yes
 arcade	neogeo	Robo Army	1991	roboarmy	2	single	8	4	no	no	none	no	SNK	Fighter	Beat Em Up	unknown	yes	yes	yes	yes	yes	yes	no	no
-arcade	none	Robocop	1988	robocop	2	single	8	2	no	no	none	no	Data East	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Robocop	1988	robocop	2	single	8	2	no	no	none	no	Data East	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Robocop 2	1991	robocop2	2	single	8	3	no	no	none	no	Data East	Fighter	Beat Em Up	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Robotron: 2084	1982	robotron	1	twin	8	0	no	no	none	no	Williams	Shooter	Shoot Em Up	Aerial	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Roc'n Rope	1983	rocnrope	2	single	4	2	no	no	none	yes	Konami	Platform	Run Jump	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Rock'n Rage	1986	rockrage	2	single	8	2	no	no	none	no	Konami	Maze	Fighter	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Rod-Land	1990	rodland	2	single	8	2	no	no	none	no	Jaleco	Platform	Run Jump	unknown	yes	yes	yes	yes	yes	yes	no	no
-arcade	none	Rohga Armor Force	1991	rohga	2	single	8	3	no	no	none	no	Data East	Platform	Shooter Scrolling	unknown	no	no	no	no	no	yes	no	no
+arcade	none	Rohga Armor Force	1991	rohga	2	single	8	3	no	no	none	no	Data East	Shooter	Run N Gun	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Roller Jammer	1984	rjammer	2	single	8	3	no	no	none	no	Nichibutsu	Fighter	Beat Em Up	Vertical	no	no	no	no	no	yes	no	no
 arcade	none	Rollergames	1991	rollerg	2	single	8	2	no	no	none	no	Konami	Sports	other	unknown	no	no	no	no	no	yes	no	no
-arcade	none	Rolling Thunder	1986	rthunder	2	single	4	2	no	no	none	no	Namco	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	none	Rolling Thunder 2	1990	rthun2	2	single	8	3	no	no	none	no	Namco	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	no
+arcade	none	Rolling Thunder	1986	rthunder	2	single	4	2	no	no	none	no	Namco	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Rolling Thunder 2	1990	rthun2	2	single	8	3	no	no	none	no	Namco	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Rough Racer	1990	roughrac	2	single	8	3	no	no	dial	no	SEGA	Racing	Car	Aerial	no	no	no	no	no	yes	no	no
 arcade	atomiswave	Rumble Fish 2, The	2005	rumblef2	2	single	8	6	no	no	none	no	Sammy	Fighter	Versus	unknown	no	no	no	no	no	yes	no	no
 arcade	atomiswave	Rumble Fish, The	2004	rumblef	2	single	8	6	no	no	none	no	Sammy	Fighter	Versus	unknown	no	no	no	no	no	yes	no	no
@@ -940,7 +940,7 @@ arcade	none	Sexy Parodius	1996	sexyparo	4	single	8	3	no	no	none	no	Konami	Shoote
 arcade	none	Shackled	1986	shackled	2	single	8	2	no	no	none	no	Data East	Maze	Shooter Large	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Shadow Dancer	1989	shdancer	2	single	8	3	no	no	none	no	SEGA	Platform	Fighter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Shadow Force	1993	shadfrce	2	single	8	6	no	no	none	no	Technos Japan	Fighter	Beat Em Up	unknown	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	none	Shadowland	1987	shadowld	2	single	8	3	no	no	none	no	Namco	Platform	Shooter Scrolling	unknown	no	no	no	no	no	yes	no	no
+arcade	none	Shadowland	1987	shadowld	2	single	8	3	no	no	none	no	Namco	Shooter	Run N Gun	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Shienryu	1997	shienryu	4	single	8	4	no	no	none	yes	Other	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Shinobi	1987	shinobi	2	single	8	3	no	no	none	no	SEGA	Platform	Fighter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	neogeo	Shock Troopers	1997	shocktro	2	single	8	4	no	no	none	no	Other	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	no	no
@@ -961,7 +961,7 @@ arcade	none	Sky Lancer	1983	skylancr	2	single	8	1	no	no	none	yes	Other	Shooter	S
 arcade	none	Sky Skipper	1981	skyskipr	2	single	8	2	no	no	none	no	Nintendo	Shooter	Shoot Em Up	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Slap Fight	1986	slapfigh	2	single	8	2	no	no	none	yes	Toaplan	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Slip Stream	1995	slipstrm	1	none	none	1	no	no	pedal/paddle	no	Capcom	Racing	Car	3rd Person	no	no	no	no	no	yes	no	no
-arcade	none	Sly Spy	1989	slyspy	2	single	8	2	no	no	none	no	Data East	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Sly Spy	1989	slyspy	2	single	8	2	no	no	none	no	Data East	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Smash T.V.	1990	smashtv	2	twin	8	0	no	no	none	no	Williams	Shooter	Shoot Em Up	Aerial	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Snow Bros. 2: With New Elves	1994	snowbro2	4	single	8	2	no	no	none	no	Other	Platform	Run Jump	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Snow Bros.: Nick & Tom	1990	snowbros	2	single	8	3	no	no	none	no	Toaplan	Platform	Run Jump	unknown	yes	yes	yes	yes	yes	yes	yes	yes
@@ -970,7 +970,7 @@ arcade	none	Sol Divide: The Sword Of Darkness	1997	soldivid	2	single	8	3	no	no	n
 arcade	none	Soldier Girl Amazon	1986	amazon	2	single	8	2	no	no	none	yes	Nichibutsu	Shooter	Run N Gun	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Solitary Fighter	1991	solfigtr	2	single	8	3	no	no	none	no	Taito	Fighter	Versus	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Solomon's Key	1986	solomon	2	single	8	2	no	no	none	no	Tecmo	Puzzle	Maze	unknown	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	none	Son Son	1984	sonson	2	single	4	1	no	no	none	no	Capcom	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Son Son	1984	sonson	2	single	4	1	no	no	none	no	Capcom	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Sorcer Striker	1993	sstriker	2	single	8	3	no	no	none	yes	Eighting	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Soukyugurentai	1996	sokyugrt	4	single	8	4	no	no	none	no	Eighting	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Soul Calibur	1998	soulclbr	2	single	8	6	no	no	none	no	Namco	Fighter	Versus	unknown	yes	yes	yes	yes	yes	yes	no	no
@@ -1038,12 +1038,12 @@ arcade	none	Strikers 1945 2	1997	s1945ii	2	single	8	2	no	no	none	yes	Psikyo	Shoo
 arcade	none	Strikers 1945 3	1999	s1945iii	2	single	8	3	no	no	none	yes	Psikyo	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	neogeo	Strikers 1945 Plus	1999	s1945p	2	single	8	4	no	no	none	no	Psikyo	Shooter	Shoot Em Up	Vertical	no	no	no	yes	yes	yes	no	no
 arcade	none	Subroc-3D	1982	subroc3d	1	single	8	1	no	no	none	no	SEGA	Shooter	Shoot Em Up	1st Person	no	no	no	no	no	yes	no	no
-arcade	none	Sunset Riders	1991	ssriders	4	single	8	2	no	no	none	no	Konami	Platform	Shooter Scrolling	unknown	no	no	no	no	no	yes	no	yes
-arcade	none	Sunset Riders	1991	ssridersabd	2	single	8	2	no	no	none	no	Konami	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	no
+arcade	none	Sunset Riders	1991	ssriders	4	single	8	2	no	no	none	no	Konami	Shooter	Run N Gun	unknown	no	no	no	no	no	yes	no	yes
+arcade	none	Sunset Riders	1991	ssridersabd	2	single	8	2	no	no	none	no	Konami	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	no
 arcade	none	Super Bagman	1984	sbagman	2	single	4	2	no	no	none	yes	Other	Platform	Run Jump	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Super Chase: Criminal Termination	1992	superchs	1	none	none	3	no	no	pedal/paddle	no	Taito	Racing	Car	1st Person	no	no	no	no	no	yes	no	no
 arcade	none	Super Cobra	1981	scobra	2	single	8	2	no	no	none	yes	Konami	Shooter	Shoot Em Up	Horizontal	yes	yes	yes	yes	yes	yes	no	no
-arcade	none	Super Contra	1988	scontra	2	single	8	2	no	no	none	yes	Konami	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Super Contra	1988	scontra	2	single	8	2	no	no	none	yes	Konami	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	neogeo	Super Dodge Ball	1996	sdodgeb	2	single	8	4	no	no	none	no	Technos Japan	Sports	Dodgeball	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Super Dodge Ball	1987	spdodgeb	2	single	8	2	no	no	none	no	Technos Japan	Sports	Dodgeball	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Super Gem Fighter Mini Mix	1997	sgemf	2	single	8	3	no	no	none	no	Capcom	Fighter	Versus	unknown	yes	yes	yes	yes	yes	yes	yes	yes
@@ -1055,7 +1055,7 @@ arcade	none	Super Pang	1990	spang	2	single	4	2	no	no	none	no	Mitchell	Shooter	Sh
 arcade	none	Super Punch-Out!!	1984	spnchout	1	single	4	4	no	no	none	no	Nintendo	Sports	Boxing	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Super Puzzle Fighter II Turbo	1996	spf2t	2	single	8	2	no	no	none	no	Capcom	Puzzle	Drop	unknown	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Super Qix	1987	sqix	2	single	4	2	no	no	none	yes	Kaneko	Puzzle	Outline	unknown	no	no	no	yes	yes	yes	no	no
-arcade	none	Super Ranger	1988	sranger	2	single	8	2	no	no	none	no	Other	Platform	Shooter Scrolling	unknown	no	no	no	no	no	yes	no	no
+arcade	none	Super Ranger	1988	sranger	2	single	8	2	no	no	none	no	Other	Shooter	Run N Gun	unknown	no	no	no	no	no	yes	no	no
 arcade	neogeo	Super Sidekicks 2: The World Championship	1994	ssideki2	2	single	8	4	no	no	none	no	SNK	Sports	Soccer	unknown	no	no	no	no	no	yes	no	no
 arcade	neogeo	Super Sidekicks 3: The Next Glory	1995	ssideki3	2	single	8	4	no	no	none	no	SNK	Sports	Soccer	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Super Space Invaders '91	1990	ssi	2	single	8	2	no	no	none	yes	Taito	Shooter	Shoot Em Up	Aerial	no	no	no	no	no	yes	no	no
@@ -1078,7 +1078,7 @@ arcade	none	Susume! Mile Smile	1995	gogomile	2	single	8	1	no	no	none	no	Other	Ma
 arcade	none	Swimmer	1982	swimmer	2	single	8	1	no	no	none	no	Tehkan	Sports	Swimming	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Syvalion	1988	syvalion	2	none	none	1	no	yes	none	no	Taito	Shooter	Shoot Em Up	Horizontal	no	no	no	no	no	yes	no	no
 arcade	none	T.N.K 3	1985	tnk3	2	single	8	2	no	no	positional	yes	SNK	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	no	yes
-arcade	none	TH Strikes Back	1994	thoop2	2	single	8	3	no	no	none	no	Gaelco	Platform	Shooter Scrolling	unknown	no	no	no	no	no	yes	no	no
+arcade	none	TH Strikes Back	1994	thoop2	2	single	8	3	no	no	none	no	Gaelco	Shooter	Run N Gun	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Tac/Scan	1982	tacscan	1	none	none	2	no	no	dial	yes	SEGA	Shooter	Shoot Em Up	Vertical	no	no	no	no	no	yes	no	no
 arcade	none	Tank Force	1991	tankfrce	2	single	8	3	no	no	none	no	Namco	Maze	Shooter Small	unknown	no	no	no	no	no	yes	no	no
 arcade	none	Tapper	1983	tapper	2	single	4	1	no	no	none	no	Midway	Platform	Run Jump	unknown	yes	yes	yes	yes	yes	yes	no	yes
@@ -1113,7 +1113,7 @@ arcade	none	Thunder Dragon 2	1993	tdragon2	2	single	8	3	no	no	none	yes	NMK	Shoot
 arcade	none	Thunder Force AC	1990	tfrceac	2	single	8	3	no	no	none	no	SEGA	Shooter	Shoot Em Up	Horizontal	no	no	no	no	no	yes	no	no
 arcade	none	Thunder Fox	1990	thundfox	2	single	8	3	no	no	none	no	Taito	Platform	Fighter Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Thunder Heroes	2001	theroes	2	single	8	4	no	no	none	no	Other	Fighter	Beat Em Up	unknown	no	no	no	no	no	yes	no	no
-arcade	none	Thunder Hoop	1992	thoop	2	single	8	2	no	no	none	no	Gaelco	Platform	Shooter Scrolling	unknown	no	no	no	no	no	yes	no	no
+arcade	none	Thunder Hoop	1992	thoop	2	single	8	2	no	no	none	no	Gaelco	Shooter	Run N Gun	unknown	no	no	no	no	no	yes	no	no
 arcade	none	ThunderJaws	1990	thunderj	2	single	8	2	no	no	none	no	Atari	Shooter	Shoot Em Up	Horizontal	no	no	no	yes	yes	yes	no	no
 arcade	none	Thundercade	1987	tndrcade	2	single	8	2	no	no	none	yes	Taito	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Tiger Road	1987	tigeroad	2	single	8	2	no	no	none	no	Capcom	Platform	Fighter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
@@ -1125,8 +1125,8 @@ arcade	none	Time Pilot	1982	timeplt	2	single	8	1	no	no	none	yes	Konami	Shooter	S
 arcade	none	Time Pilot '84	1984	tp84	2	single	8	2	no	no	none	yes	Konami	Shooter	Shoot Em Up	Aerial	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Time Soldiers	1987	timesold	2	single	8	2	no	no	positional	yes	Alpha Denshi	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Tinkle Pit	1993	tinklpit	4	single	8	3	no	no	none	no	Namco	Maze	Collect	unknown	no	no	no	no	no	yes	no	no
-arcade	none	Toki	1989	toki	2	single	8	2	no	no	none	no	TAD Corporation	Platform	Shooter Scrolling	unknown	no	no	no	no	no	yes	yes	yes
-arcade	none	Toki	1990	tokib	2	single	8	2	no	no	none	no	Other	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	no	no	no
+arcade	none	Toki	1989	toki	2	single	8	2	no	no	none	no	TAD Corporation	Shooter	Run N Gun	unknown	no	no	no	no	no	yes	yes	yes
+arcade	none	Toki	1990	tokib	2	single	8	2	no	no	none	no	Other	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	no	no	no
 arcade	none	Tokio	1986	tokio	2	single	8	2	no	no	none	yes	Taito	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Toobin'	1988	toobin	2	none	none	5	no	no	none	yes	Atari	Sports	other	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	neogeo	Top Hunter: Roddy & Cathy	1994	tophuntr	2	single	8	4	no	no	none	no	SNK	Platform	Fighter Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	no
@@ -1217,17 +1217,17 @@ arcade	none	Warrior Blade: Rastan Saga Episode 3	1991	warriorb	2	single	8	3	no	n
 arcade	none	Warriors of Fate	1992	wof	3	single	8	2	no	no	none	no	Capcom	Fighter	Beat Em Up	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Water Ski	1983	waterski	2	single	2	2	no	no	none	yes	Taito	Sports	Skiing	unknown	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Wild Fang	1989	wildfang	2	single	8	3	no	no	none	no	Tecmo	Platform	Fighter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	none	Wild West C.O.W.-Boys of Moo Mesa	1992	moomesa	4	single	8	2	no	no	none	no	Konami	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Wild West C.O.W.-Boys of Moo Mesa	1992	moomesa	4	single	8	2	no	no	none	no	Konami	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Wild Western	1982	wwestern	2	twin	8	2	no	no	none	yes	Taito	Shooter	Shoot Em Up	Vertical	no	no	no	no	no	yes	no	no
-arcade	none	Willow	1989	willow	2	single	8	3	no	no	none	no	Capcom	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Willow	1989	willow	2	single	8	3	no	no	none	no	Capcom	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	neogeo	Windjammers	1994	wjammers	2	single	8	4	no	no	none	no	Data East	Sports	other	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Wing Force	1993	wingforc	2	single	8	2	no	no	none	yes	Atlus	Shooter	Shoot Em Up	Vertical	no	no	no	no	no	yes	no	no
 arcade	none	Wizard Fire	1992	wizdfire	2	single	8	2	no	no	none	no	Data East	Fighter	Beat Em Up	unknown	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Wizard of Wor	1980	wow	2	single	8	2	no	no	none	no	Midway	Maze	Shooter Small	unknown	yes	yes	yes	yes	yes	yes	no	yes
-arcade	none	Wonder Boy	1986	wboy	2	single	2	2	no	no	none	no	SEGA	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	none	Wonder Boy 3: Monster Lair	1988	wb3	2	single	8	3	no	no	none	no	SEGA	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	no
-arcade	none	Wonder Boy: Monster Land	2009	wbmlvcd	2	single	8	2	no	no	none	no	Other	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	no
-arcade	none	Wonder Boy: Monster Land	2009	wbmlvc	2	single	8	2	no	no	none	no	SEGA	Platform	Shooter Scrolling	unknown	no	no	no	no	no	no	no	yes
+arcade	none	Wonder Boy	1986	wboy	2	single	2	2	no	no	none	no	SEGA	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Wonder Boy 3: Monster Lair	1988	wb3	2	single	8	3	no	no	none	no	SEGA	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	no	no
+arcade	none	Wonder Boy: Monster Land	2009	wbmlvcd	2	single	8	2	no	no	none	no	Other	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	no
+arcade	none	Wonder Boy: Monster Land	2009	wbmlvc	2	single	8	2	no	no	none	no	SEGA	Shooter	Run N Gun	unknown	no	no	no	no	no	no	no	yes
 arcade	none	World Class Bowling Deluxe	1999	wcbowldx	2	none	none	2	no	yes	none	no	Incredible Technologies	Sports	Bowling	unknown	no	no	no	no	no	yes	no	no
 arcade	neogeo	World Heroes	1992	wh1	2	single	8	4	no	no	none	no	Alpha Denshi	Fighter	Versus	unknown	no	no	no	no	no	yes	no	no
 arcade	neogeo	World Heroes 2	1993	wh2	2	single	8	4	no	no	none	no	Other	Fighter	Versus	unknown	no	no	no	no	no	yes	no	no
@@ -1243,8 +1243,8 @@ arcade	none	X-Men	1992	xmen	4	single	8	3	no	no	none	no	Konami	Fighter	Beat Em Up
 arcade	none	X-Men Vs. Street Fighter	1996	xmvsf	2	single	8	6	no	no	none	no	Capcom	Fighter	Versus	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	X-Men: Children of the Atom	1994	xmcota	2	single	8	6	no	no	none	no	Capcom	Fighter	Versus	unknown	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	XII Stag	2002	xiistag	4	single	8	3	no	no	none	yes	Other	Shooter	Shoot Em Up	Vertical	no	no	no	no	no	yes	no	no
-arcade	none	Xain'd Sleena	1986	xsleena	2	single	8	2	no	no	none	no	Technos Japan	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	none	Xenophobe	1987	xenophob	3	single	8	3	no	no	none	no	Midway	Platform	Shooter Scrolling	unknown	yes	yes	yes	yes	yes	yes	no	yes
+arcade	none	Xain'd Sleena	1986	xsleena	2	single	8	2	no	no	none	no	Technos Japan	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Xenophobe	1987	xenophob	3	single	8	3	no	no	none	no	Midway	Shooter	Run N Gun	unknown	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Xevious	1982	xevious	2	single	8	2	no	no	none	yes	Namco	Shooter	Shoot Em Up	Vertical	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Xevious 3D/G	1995	xevi3dg	4	single	8	3	no	no	none	no	Namco	Shooter	Shoot Em Up	Vertical	no	no	no	no	no	yes	no	no
 arcade	none	Xexex	1991	xexexj	2	single	8	2	no	no	none	no	Konami	Shooter	Shoot Em Up	Horizontal	yes	yes	yes	yes	yes	yes	no	yes

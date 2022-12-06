@@ -410,6 +410,13 @@ public class GameUtil {
             }
         }
 
+        if (StringUtils.contains(simplifyGenre, "platform")) {
+            if (StringUtils.contains(simplifySubGenre, "shooterscrolling")) {
+                genre.main = Genre.SHOOTER;
+                genre.sub = SubGenre.RUNNGUN;
+            }
+        }
+
         //handle shooters
         if (StringUtils.contains(simplifyGenre, "shoot")) {
             genre.main = Genre.SHOOTER;
