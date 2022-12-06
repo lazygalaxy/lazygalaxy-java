@@ -50,6 +50,7 @@ public class GenerateCoinOpsGameListFromDB {
                         //"Publisher" + seperator +
                         "Genre" + seperator +
                         "SubGenre" + seperator +
+                        "CameraGenre" + seperator +
                         "Forgotten Worlds 2" + seperator +
                         "Deck Legends 3" + seperator +
                         "Linux Legends 3" + seperator +
@@ -80,6 +81,7 @@ public class GenerateCoinOpsGameListFromDB {
                             //+ (game.publisher != null ? game.publisher : Constant.Values.UNKNOWN) + seperator
                             + (game.genre != null ? game.genre : Constant.Values.UNKNOWN) + seperator
                             + (game.subGenre != null ? game.subGenre : Constant.Values.UNKNOWN) + seperator
+                            + (game.camera != null ? game.camera : Constant.Values.UNKNOWN) + seperator
                             + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.FORGOTTEN_WORLDS_2) ? Constant.Values.YES : Constant.Values.NO) + seperator
                             + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.LEGENDS_3_DESK) ? Constant.Values.YES : Constant.Values.NO) + seperator
                             + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.LINUX_LEGENDS_3_V1) ? Constant.Values.YES : Constant.Values.NO) + seperator

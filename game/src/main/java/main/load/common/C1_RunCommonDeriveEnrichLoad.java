@@ -77,18 +77,13 @@ public class C1_RunCommonDeriveEnrichLoad {
             setField(game, "year");
             setField(game, "players");
             setField(game, "description");
-            setField(game, "inputs");
             setField(game, "genre");
-            if (StringUtils.isBlank(game.genre)) {
-                GenreInfo normalizeGenres = GameUtil.normalizeGenres(new GenreInfo(Constant.Values.UNKNOWN, Constant.Values.UNKNOWN), game.name, game.inputs);
-                game.genre = normalizeGenres.main;
-                game.subGenre = normalizeGenres.sub;
-            }
             setField(game, "version");
             game.developer = null;
             game.publisher = null;
             setField(game, "manufacturers");
             setField(game, "isVertical");
+            setField(game, "inputs");
             setField(game, "buttons");
             setField(game, "ways");
 
@@ -134,10 +129,13 @@ public class C1_RunCommonDeriveEnrichLoad {
                             String genre = (String) fieldObject;
                             String subGenre = (String) getField(gameInfoObject, "subGenre");
                             subGenre = !StringUtils.isBlank(subGenre) ? subGenre : Constant.Values.UNKNOWN;
-                            GenreInfo normalizeGenre = GameUtil.normalizeGenres(new GenreInfo(genre, subGenre), game.name, game.inputs);
 
-                            game.genre = normalizeGenre.main;
-                            game.subGenre = normalizeGenre.sub;
+                            GenreInfo genreInfo = new GenreInfo(genre, subGenre, null);
+                            GameUtil.normalizeGenres(genreInfo, game.name);
+
+                            game.genre = genreInfo.main;
+                            game.subGenre = genreInfo.sub;
+                            game.camera = genreInfo.camera;
                             return;
                         } else {
                             Game.class.getField(field).set(game, fieldObject);

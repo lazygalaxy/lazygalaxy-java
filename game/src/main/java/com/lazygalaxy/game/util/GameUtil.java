@@ -3,6 +3,7 @@ package com.lazygalaxy.game.util;
 import com.lazygalaxy.engine.helper.MongoHelper;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.game.Constant;
+import com.lazygalaxy.game.Constant.CameraGenre;
 import com.lazygalaxy.game.Constant.Genre;
 import com.lazygalaxy.game.Constant.SubGenre;
 import com.lazygalaxy.game.domain.Game;
@@ -14,7 +15,6 @@ import org.apache.logging.log4j.Logger;
 import org.bson.conversions.Bson;
 
 import java.util.List;
-import java.util.Set;
 
 public class GameUtil {
     private static final Logger LOGGER = LogManager.getLogger(GameUtil.class);
@@ -377,123 +377,88 @@ public class GameUtil {
         return value;
     }
 
-    public static GenreInfo normalizeGenres(GenreInfo genre, String name, Set<String> inputs) {
+    public static void normalizeGenres(GenreInfo genre, String name) {
         String simplifyGenre = GeneralUtil.alphanumerify(genre.main);
         String simplifySubGenre = GeneralUtil.alphanumerify(genre.sub);
         String simplifyName = GeneralUtil.alphanumerify(name);
 
+        //handle fighters
         if (StringUtils.contains(simplifyGenre, "beatemup")) {
-            return new GenreInfo(Genre.FIGHTER, SubGenre.BEATEMUP);
-        }
-
-        if (StringUtils.contains(simplifyGenre, "shootemup")) {
-            return new GenreInfo(Genre.SHOOTEMUP, cleanSubGenre(genre.sub));
-        }
-
-        if (StringUtils.contains(simplifyGenre, "action")) {
-            if (StringUtils.contains(simplifySubGenre, "shooting")) {
-                return new GenreInfo(Genre.SHOOTER, Constant.Values.OTHER);
-            }
-            return new GenreInfo(Genre.ACTION, cleanSubGenre(genre.sub));
-        }
-
-        if (StringUtils.contains(simplifyGenre, "adventure")) {
-            if (StringUtils.containsAny(simplifySubGenre, "cop", "police")) {
-                return new GenreInfo(Genre.SHOOTER, SubGenre.POLICE);
-            }
-            if (StringUtils.containsAny(simplifySubGenre, "western", "cowboy")) {
-                return new GenreInfo(Genre.SHOOTER, SubGenre.WESTERN);
+            genre.main = Genre.FIGHTER;
+            genre.sub = SubGenre.BEATEMUP;
+        } else if (StringUtils.contains(simplifyGenre, "fight")) {
+            genre.main = Genre.FIGHTER;
+            if (StringUtils.containsAny(simplifySubGenre, "versus", "unknown")) {
+                genre.sub = SubGenre.VERSUS;
+            } else {
+                genre.sub = SubGenre.BEATEMUP;
             }
         }
 
-        if (StringUtils.containsAny(simplifyGenre, "adventure", "roleplay")) {
-            return new GenreInfo(Genre.ADVENTURE, cleanSubGenre(genre.sub));
-        }
-
-        if (StringUtils.contains(simplifyGenre, "army")) {
-            if (StringUtils.contains(simplifySubGenre, "fighter")) {
-                return new GenreInfo(Genre.RUNNGUN, SubGenre.ARMY);
-            }
-            return new GenreInfo(Genre.SHOOTEMUP, SubGenre.ARMY);
-        }
-
-        if (StringUtils.containsAny(simplifyGenre, "fight", "fighting")) {
-            if (StringUtils.contains(simplifyName, "kingoffighter")) {
-                return new GenreInfo(Genre.FIGHTER, SubGenre.KINGOFFIGHTERS);
-            } else if (StringUtils.contains(simplifyName, "streetfighter")) {
-                return new GenreInfo(Genre.FIGHTER, SubGenre.STREETFIGHTER);
-            } else if (StringUtils.containsAny(simplifySubGenre, "streetfighter", "kingoffighter", "asianvs", "asian3d", "versus")) {
-                return new GenreInfo(Genre.FIGHTER, SubGenre.VERSUS);
-            }
-
-            return new GenreInfo(Genre.FIGHTER, SubGenre.BEATEMUP);
-        }
-
-        if (StringUtils.contains(simplifyGenre, "maze")) {
-            return new GenreInfo(Genre.MAZE, cleanSubGenre(genre.sub));
-        }
-
-        if (StringUtils.contains(simplifyGenre, "platform")) {
-            return new GenreInfo(Genre.PLATFORM, cleanSubGenre(genre.sub));
-        }
-
-        if (StringUtils.contains(simplifyGenre, "puzzle")) {
-            if (StringUtils.contains(simplifyName, "tetris") || StringUtils.contains(simplifySubGenre, "tetris")) {
-                return new GenreInfo(Genre.PUZZLE, SubGenre.TETRIS);
-            }
-            return new GenreInfo(Genre.PUZZLE, cleanSubGenre(genre.sub));
-        }
-
+        //handle racing
         if (StringUtils.containsAny(simplifyGenre, "race", "racing", "drive", "driving")) {
-            if (StringUtils.containsAny(simplifySubGenre, "car", "f1", "2d", "3d", "drive", "driving", "demolition")) {
-                return new GenreInfo(Genre.RACING, SubGenre.CAR);
+            genre.main = Genre.RACING;
+
+            if (StringUtils.contains(simplifySubGenre, "boat")) {
+                genre.sub = SubGenre.BOAT;
+            } else if (StringUtils.contains(simplifySubGenre, "bike")) {
+                genre.sub = SubGenre.MOTORBIKE;
+            } else if (StringUtils.contains(simplifySubGenre, "land")) {
+                genre.sub = Constant.Values.OTHER;
+            } else {
+                genre.sub = SubGenre.CAR;
             }
-            return new GenreInfo(Genre.RACING, cleanSubGenre(genre.sub));
         }
 
-        if (StringUtils.contains(simplifyGenre, "space")) {
-            if (StringUtils.containsAny(simplifySubGenre, "robot", "soldier")) {
-                return new GenreInfo(Genre.RUNNGUN, SubGenre.SPACE);
+        //handle shooters
+        if (StringUtils.contains(simplifyGenre, "shoot")) {
+            genre.main = Genre.SHOOTER;
+            if (StringUtils.contains(simplifySubGenre, "gun")) {
+                genre.sub = SubGenre.GUNNER;
+            } else if (StringUtils.contains(simplifySubGenre, "walk")) {
+                genre.sub = SubGenre.RUNNGUN;
+            } else {
+                genre.sub = SubGenre.SHOOTEMUP;
             }
-            return new GenreInfo(Genre.SHOOTEMUP, SubGenre.SPACE);
         }
 
         if (StringUtils.contains(simplifyGenre, "sport")) {
-            if (StringUtils.equals(simplifySubGenre, "1")) {
-                return new GenreInfo(Genre.SPORTS, SubGenre.TRACKANDFIELD);
-            } else if (StringUtils.equals(simplifySubGenre, "2")) {
-                return new GenreInfo(Genre.SPORTS, Constant.Values.OTHER);
+            genre.main = Genre.SPORTS;
+            if (StringUtils.contains(simplifyName, "punch")) {
+                genre.sub = SubGenre.BOXING;
             }
-            return new GenreInfo(Genre.SPORTS, cleanSubGenre(genre.sub));
         }
 
-        if (StringUtils.contains(genre.main, "unknown")) {
-            if (inputs != null && inputs.contains("pedal") && inputs.contains("paddle")) {
-                return new GenreInfo(Genre.RACING, SubGenre.CAR);
+        // handle camera
+        if (StringUtils.contains(simplifySubGenre, "1stperson")) {
+            genre.camera = CameraGenre.FIRSTPERSON;
+        } else if (StringUtils.containsAny(simplifySubGenre, "3rdperson", "chaseview")) {
+            genre.camera = CameraGenre.THIRDPERSON;
+        } else if (StringUtils.containsAny(simplifySubGenre, "racetrack", "field", "gallery")) {
+            genre.camera = CameraGenre.AERIAL;
+        } else if (StringUtils.contains(simplifySubGenre, "vertical")) {
+            genre.camera = CameraGenre.VERTICAL;
+        } else if (StringUtils.contains(simplifySubGenre, "horizontal")) {
+            genre.camera = CameraGenre.HORIZONTAL;
+        } else if (StringUtils.contains(simplifySubGenre, "diagonal")) {
+            genre.camera = CameraGenre.DIAGONAL;
+        }
+
+        if (!StringUtils.equals(genre.main, Constant.Values.UNKNOWN) && !Genre.ALL.contains(genre.main)) {
+            if (StringUtils.equals(genre.sub, Constant.Values.UNKNOWN)) {
+                genre.sub = genre.main;
+                if (StringUtils.containsAny(simplifyGenre, "adventure", "roleplayinggames")) {
+                    genre.sub = SubGenre.ADVENTURE;
+                } else if (StringUtils.contains(simplifyGenre, "action")) {
+                    genre.sub = SubGenre.ACTION;
+                }
             }
-            return new GenreInfo(null, null);
+            genre.main = Constant.Values.OTHER;
         }
 
-        return new GenreInfo(genre.main, cleanSubGenre(genre.sub));
-    }
-
-    private static String cleanSubGenre(String subGenre) {
-        subGenre = subGenre.replaceAll("1$", "");
-        subGenre = subGenre.replaceAll("2$", "");
-        subGenre = subGenre.replaceAll("3$", "");
-        subGenre = subGenre.replaceAll("4$", "");
-        subGenre = subGenre.replaceAll("5$", "");
-        subGenre = subGenre.replaceAll("6$", "");
-        subGenre = subGenre.replaceAll("7$", "");
-        subGenre = subGenre.replaceAll("8$", "");
-        subGenre = subGenre.replaceAll("9$", "");
-
-        subGenre = subGenre.trim();
-
-        if (StringUtils.isBlank(subGenre)) {
-            return Constant.Values.OTHER;
+        //handle other cases
+        if (!StringUtils.equalsAny(genre.main, Genre.RACING, Genre.FIGHTER, Genre.SHOOTER) && StringUtils.contains(simplifySubGenre, "misc")) {
+            genre.sub = Constant.Values.OTHER;
         }
-
-        return subGenre;
     }
 }

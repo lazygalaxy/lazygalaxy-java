@@ -19,10 +19,12 @@ import org.w3c.dom.Element;
 
 import java.util.*;
 
+/**
+ * Add the mame information (from various mame versions) to all games
+ */
 public class B1_RunArcadeMameGameInfoEnrichLoad {
     private static final Logger LOGGER = LogManager.getLogger(B1_RunArcadeMameGameInfoEnrichLoad.class);
     private static final GameInfo gameInfoStatic = new GameInfo();
-
 
     public static void main(String[] args) throws Exception {
         try {
@@ -56,6 +58,7 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
             this.emulatorVersion = emulatorVersion;
 
             List<Game> games = GameUtil.getGames(false, false, null, null, Filters.in("systemId", GameSystem.MAME));
+            // key games in various maps for faster access
             for (Game game : games) {
                 mameGameByIdMap.put(game.gameId, game);
 
@@ -82,22 +85,18 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
 
             List<Game> returnGameList = new ArrayList<Game>();
             if (game == null) {
-                if (StringUtils.equals("dlair", gameId)) {
-                    LOGGER.info("catch");
-                }
-
                 gameInfoStatic.originalName = XMLUtil.getTagAsString(element, "description", 0);
                 GameUtil.pretifyName(gameInfoStatic);
 
-                String year = XMLUtil.getTagAsString(element, "year", 0);
-                if (year != null && !StringUtils.equals(year, "1970")) {
-                    year = StringUtils.left(year, 4);
-                    if (StringUtils.contains(year, "?")) {
-                        year = null;
-                    }
-                }
-
                 if (gameInfoStatic.names != null) {
+                    String year = XMLUtil.getTagAsString(element, "year", 0);
+                    if (year != null && !StringUtils.equals(year, "1970")) {
+                        year = StringUtils.left(year, 4);
+                        if (StringUtils.contains(year, "?")) {
+                            year = null;
+                        }
+                    }
+
                     for (String name : gameInfoStatic.names) {
                         List<Game> mapGames = null;
                         if (year != null) {
@@ -218,8 +217,9 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
                 }
             }
 
-            // we only derive family games
+
             if (!StringUtils.isBlank(cloneOf)) {
+                // if this game is a clone of another game, we need to set all the family specific information
                 String cloneOfGameId = GeneralUtil.alphanumerify(cloneOf);
                 game.family = SetUtil.addValueToTreeSet(game.family, cloneOfGameId);
 

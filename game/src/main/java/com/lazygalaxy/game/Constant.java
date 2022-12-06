@@ -34,48 +34,52 @@ public class Constant {
     }
 
     public static class Genre {
-        public final static String ACTION = "Action";
-        public final static String ADVENTURE = "Adventure";
+
         public final static String FIGHTER = "Fighter";
+
         public final static String MAZE = "Maze";
+
         public final static String PLATFORM = "Platform";
+
         public final static String PUZZLE = "Puzzle";
         public final static String RACING = "Racing";
-        public final static String RUNNGUN = "Run N Gun";
-        public final static String SHOOTEMUP = "Shoot Em Up";
 
         public final static String SHOOTER = "Shooter";
+
         public final static String SPORTS = "Sports";
 
-        //from lower to higher priority
-        public final static List<String> ALL = Lists.newArrayList(ACTION, ADVENTURE, MAZE, SHOOTEMUP, PLATFORM, PUZZLE, RUNNGUN, SHOOTER, RACING, SPORTS, FIGHTER);
+        public final static List<String> ALL = Lists.newArrayList(FIGHTER, MAZE, PLATFORM, PUZZLE, RACING, SHOOTER, SPORTS);
 
     }
 
     public static class SubGenre {
 
-        public final static String ARMY = "Army";
-
+        public final static String ACTION = "Action";
+        public final static String ADVENTURE = "Adventure";
         public final static String BEATEMUP = "Beat Em Up";
+        public final static String BOAT = "Boat";
+
+        public final static String BOXING = "Boxing";
 
         public final static String CAR = "Car";
 
-        public final static String HERO = "Hero";
-        public final static String KINGOFFIGHTERS = "King of Fighters";
+        public final static String GUNNER = "Gunner";
+        public final static String MOTORBIKE = "Motorbike";
 
-        public final static String POLICE = "Police";
-        public final static String SPACE = "Space";
-        public final static String STREETFIGHTER = "Street Fighter";
-
-        public final static String TETRIS = "Tetris";
-        public final static String TRACKANDFIELD = "Track & Field";
-
+        public final static String RUNNGUN = "Run N Gun";
+        public final static String SHOOTEMUP = "Shoot Em Up";
         public final static String VERSUS = "Versus";
-        public final static String WESTERN = "Western";
+    }
 
+    public static class CameraGenre {
+        public final static String AERIAL = "Aerial";
+        public final static String DIAGONAL = "Diagonal";
+        public final static String FIRSTPERSON = "1st Person";
 
-        //from lower to higher priority
-        public final static List<String> ALL = Lists.newArrayList(POLICE, WESTERN, ARMY, KINGOFFIGHTERS, SPACE, HERO, STREETFIGHTER, TETRIS, TRACKANDFIELD, BEATEMUP, VERSUS, CAR);
+        public final static String HORIZONTAL = "Horizontal";
+        public final static String THIRDPERSON = "3rd Person";
+
+        public final static String VERTICAL = "Vertical";
 
     }
 
