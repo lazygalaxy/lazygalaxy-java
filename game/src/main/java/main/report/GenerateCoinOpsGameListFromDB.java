@@ -1,4 +1,4 @@
-package main.reports;
+package main.report;
 
 import com.google.common.collect.Lists;
 import com.lazygalaxy.game.Constant;

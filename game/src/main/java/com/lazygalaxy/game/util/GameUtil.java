@@ -410,14 +410,13 @@ public class GameUtil {
             }
         }
 
+        //handle shooters
         if (StringUtils.contains(simplifyGenre, "platform")) {
             if (StringUtils.contains(simplifySubGenre, "shooterscrolling")) {
                 genre.main = Genre.SHOOTER;
                 genre.sub = SubGenre.RUNNGUN;
             }
         }
-
-        //handle shooters
         if (StringUtils.contains(simplifyGenre, "shoot")) {
             genre.main = Genre.SHOOTER;
             if (StringUtils.contains(simplifySubGenre, "gun")) {
@@ -429,6 +428,7 @@ public class GameUtil {
             }
         }
 
+        //handle sports
         if (StringUtils.contains(simplifyGenre, "sport")) {
             genre.main = Genre.SPORTS;
             if (StringUtils.contains(simplifyName, "punch")) {

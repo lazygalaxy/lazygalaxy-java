@@ -63,7 +63,10 @@ public class Constant {
 
         public final static String CAR = "Car";
 
+        public final static String DRIVING = "Driving";
+
         public final static String GUNNER = "Gunner";
+
         public final static String MOTORBIKE = "Motorbike";
 
         public final static String RUNNGUN = "Run N Gun";

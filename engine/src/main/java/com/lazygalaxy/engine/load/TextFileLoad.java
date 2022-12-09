@@ -45,9 +45,14 @@ public abstract class TextFileLoad<T extends MongoDocument> {
                 }
             });
             lines.close();
+            doAfterLoad();
             return true;
         }
         return false;
+    }
+
+    protected void doAfterLoad() {
+
     }
 
     protected abstract List<T> getMongoDocument(String line) throws Exception;

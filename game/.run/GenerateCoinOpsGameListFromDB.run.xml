@@ -1,10 +1,10 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="GenerateCoinOpsGameListFromDB" type="Application" factoryName="Application" nameIsGenerated="true">
-    <option name="MAIN_CLASS_NAME" value="main.reports.GenerateCoinOpsGameListFromDB" />
+    <option name="MAIN_CLASS_NAME" value="main.report.GenerateCoinOpsGameListFromDB" />
     <module name="game" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="main.reports.*" />
+        <option name="PATTERN" value="main.report.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>
