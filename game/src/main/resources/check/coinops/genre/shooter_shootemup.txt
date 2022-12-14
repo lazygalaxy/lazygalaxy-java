@@ -1,9 +1,10 @@
+//Arcade Collections
 1942
 After Burner Climax
 Under Defeat
 Zero Gunner 2
 gradius3
-mmmbanc
+//mmmbanc
 salmndr2
 1943kai
 battlane
@@ -58,7 +59,7 @@ dblewing
 gratia
 insectx
 legion
-luckywld
+//luckywld
 macross2
 mysticri
 phelios
@@ -154,7 +155,7 @@ brkthru
 timeplt
 zaxxon
 gradius2
-guwange
+//guwange
 mmatrix
 rdft
 rfjet
@@ -236,7 +237,7 @@ twineag2
 ultrax
 bdrdown
 gwing2
-
+//Legends 4 Update 1
 1941
 1942
 1943
@@ -326,7 +327,7 @@ gradius2
 gunbird
 gunbird2
 gunlock
-guwange
+//guwange
 ibarablk
 Ikaruga
 ironclad
@@ -337,7 +338,7 @@ lwings
 magmax
 mazinger
 mmatrix
-mmmbanc
+//mmmbanc
 mmpork
 mushisam
 mustang

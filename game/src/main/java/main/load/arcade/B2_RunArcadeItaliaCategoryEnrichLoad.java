@@ -67,6 +67,7 @@ public class B2_RunArcadeItaliaCategoryEnrichLoad {
 
                         game.arcadeitaliaGameInfo.genre = lastGenre.main;
                         game.arcadeitaliaGameInfo.subGenre = lastGenre.sub;
+                        game.arcadeitaliaGameInfo.sub2Genre = lastGenre.sub2;
                     }
 
                     return games;
@@ -79,6 +80,7 @@ public class B2_RunArcadeItaliaCategoryEnrichLoad {
         private GenreInfo getGenre(String line) {
             String mainGenre = null;
             String subGenre = null;
+            String sub2Genre = null;
             String[] tokens = GeneralUtil.split(StringUtils.substring(line, 1, line.length() - 1), "/");
             mainGenre = tokens[0].trim();
             if (tokens.length >= 2) {
@@ -86,7 +88,12 @@ public class B2_RunArcadeItaliaCategoryEnrichLoad {
             } else {
                 subGenre = Constant.Values.OTHER;
             }
-            return new GenreInfo(mainGenre, subGenre, null);
+            if (tokens.length >= 3) {
+                sub2Genre = tokens[2].trim();
+            } else {
+                sub2Genre = Constant.Values.OTHER;
+            }
+            return new GenreInfo(mainGenre, subGenre, sub2Genre, null, null);
         }
     }
 }

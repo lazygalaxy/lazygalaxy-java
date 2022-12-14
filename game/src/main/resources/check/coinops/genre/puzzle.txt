@@ -1,3 +1,4 @@
+//Arcade Collections
 amidar
 blockhl
 blockout
@@ -10,18 +11,18 @@ bbmanw
 spang
 mpang
 lemmings
-ldrun
-ldrun2
+//ldrun
+//ldrun2
 puzzli2
 pang
-loderndf
+//loderndf
 magdrop3
 mpang
 nibbler
 pnickj
 pbobble
 pbobble4
-rampart2p
+//rampart2p
 solomon
 spang
 spf2t
@@ -38,9 +39,9 @@ ghoxj
 gnbarich
 irrmaze
 qix
-ldrun2
+//ldrun2
 pnickj
-
+//Legends 4 Update 1
 amidar
 puzzli2
 arknoid2
@@ -48,7 +49,7 @@ atetris
 kikcubic
 sqix
 klax
-loderndf
+//loderndf
 mpang
 magdrop3
 pbobble4
@@ -63,8 +64,8 @@ blockout
 ghoxj
 gnbarich
 irrmaze
-ldrun
-ldrun2
+//ldrun
+//ldrun2
 lemmings
 mrdrillr
 pang
@@ -72,3 +73,5 @@ pbobble
 pbobble2
 pbobble3
 qix
+//custom
+mmmbanc

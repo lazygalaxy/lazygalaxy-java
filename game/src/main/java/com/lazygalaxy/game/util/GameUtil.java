@@ -388,43 +388,33 @@ public class GameUtil {
             genre.sub = SubGenre.BEATEMUP;
         } else if (StringUtils.contains(simplifyGenre, "fight")) {
             genre.main = Genre.FIGHTER;
-            if (StringUtils.containsAny(simplifySubGenre, "versus", "unknown")) {
+            if (StringUtils.contains(simplifySubGenre, "versuscoop")) {
+                genre.sub = SubGenre.VERSUSCOOP;
+            } else if (StringUtils.containsAny(simplifySubGenre, "versus", "unknown")) {
                 genre.sub = SubGenre.VERSUS;
             } else {
                 genre.sub = SubGenre.BEATEMUP;
             }
         }
 
-        //handle racing
+        //handle driving
         if (StringUtils.containsAny(simplifyGenre, "race", "racing", "drive", "driving")) {
-            genre.main = Genre.RACING;
+            genre.main = Genre.DRIVING;
+        }
 
-            if (StringUtils.contains(simplifySubGenre, "boat")) {
-                genre.sub = SubGenre.BOAT;
-            } else if (StringUtils.contains(simplifySubGenre, "bike")) {
-                genre.sub = SubGenre.MOTORBIKE;
-            } else if (StringUtils.contains(simplifySubGenre, "land")) {
-                genre.sub = Constant.Values.OTHER;
-            } else {
-                genre.sub = SubGenre.CAR;
+        //handle maze
+        if (StringUtils.contains(simplifyGenre, "maze")) {
+            genre.main = Genre.MAZE;
+            if (StringUtils.contains(simplifySubGenre, "shoot")) {
+                genre.sub = SubGenre.SHOOTER;
             }
         }
 
         //handle shooters
-        if (StringUtils.contains(simplifyGenre, "platform")) {
-            if (StringUtils.contains(simplifySubGenre, "shooterscrolling")) {
-                genre.main = Genre.SHOOTER;
-                genre.sub = SubGenre.RUNNGUN;
-            }
-        }
         if (StringUtils.contains(simplifyGenre, "shoot")) {
             genre.main = Genre.SHOOTER;
             if (StringUtils.contains(simplifySubGenre, "gun")) {
                 genre.sub = SubGenre.GUNNER;
-            } else if (StringUtils.contains(simplifySubGenre, "walk")) {
-                genre.sub = SubGenre.RUNNGUN;
-            } else {
-                genre.sub = SubGenre.SHOOTEMUP;
             }
         }
 
@@ -434,21 +424,45 @@ public class GameUtil {
             if (StringUtils.contains(simplifyName, "punch")) {
                 genre.sub = SubGenre.BOXING;
             }
+            if (StringUtils.containsAny(simplifySubGenre, "boxing", "wrestling")) {
+                genre.sub2 = SubGenre.VERSUS;
+            }
         }
 
         // handle camera
-        if (StringUtils.contains(simplifySubGenre, "1stperson")) {
+        if (StringUtils.containsAny(simplifySubGenre, "1stperson", "gun")) {
             genre.camera = CameraGenre.FIRSTPERSON;
+            genre.sub = StringUtils.replaceIgnoreCase(genre.sub, "1st person", "").trim();
         } else if (StringUtils.containsAny(simplifySubGenre, "3rdperson", "chaseview")) {
             genre.camera = CameraGenre.THIRDPERSON;
-        } else if (StringUtils.containsAny(simplifySubGenre, "racetrack", "field", "gallery")) {
+            genre.sub = StringUtils.replaceIgnoreCase(genre.sub, "3rd Person", "").trim();
+            genre.sub = StringUtils.replaceIgnoreCase(genre.sub, "(chase view)", "").trim();
+        } else if (StringUtils.contains(simplifySubGenre, "racetrack")) {
             genre.camera = CameraGenre.AERIAL;
         } else if (StringUtils.contains(simplifySubGenre, "vertical")) {
             genre.camera = CameraGenre.VERTICAL;
+            genre.sub = StringUtils.replaceIgnoreCase(genre.sub, "vertical", "").trim();
         } else if (StringUtils.contains(simplifySubGenre, "horizontal")) {
             genre.camera = CameraGenre.HORIZONTAL;
+            genre.sub = StringUtils.replaceIgnoreCase(genre.sub, "horizontal", "").trim();
         } else if (StringUtils.contains(simplifySubGenre, "diagonal")) {
             genre.camera = CameraGenre.DIAGONAL;
+            genre.sub = StringUtils.replaceIgnoreCase(genre.sub, "diagonal", "").trim();
+        } else if (StringUtils.contains(simplifySubGenre, "scrolling")) {
+            genre.camera = CameraGenre.SCROLLING;
+            genre.sub = StringUtils.replaceIgnoreCase(genre.sub, "Scrolling", "").trim();
+        }
+
+        //handle graphics
+        if (StringUtils.contains(simplifySubGenre, "2d")) {
+            genre.graphics = Constant.GraphcisGenre.TWODIMENSION;
+            genre.sub = StringUtils.replaceIgnoreCase(genre.sub, "2D", "").trim();
+        } else if (StringUtils.contains(simplifySubGenre, "25d")) {
+            genre.graphics = Constant.GraphcisGenre.TWOHALFDIMENSION;
+            genre.sub = StringUtils.replaceIgnoreCase(genre.sub, "2.5D", "").trim();
+        } else if (StringUtils.contains(simplifySubGenre, "3d")) {
+            genre.graphics = Constant.GraphcisGenre.THREEDIMENSION;
+            genre.sub = StringUtils.replaceIgnoreCase(genre.sub, "3D", "").trim();
         }
 
         if (!StringUtils.equals(genre.main, Constant.Values.UNKNOWN) && !Genre.ALL.contains(genre.main)) {
@@ -464,7 +478,11 @@ public class GameUtil {
         }
 
         //handle other cases
-        if (!StringUtils.equalsAny(genre.main, Genre.RACING, Genre.FIGHTER, Genre.SHOOTER) && StringUtils.contains(simplifySubGenre, "misc")) {
+        if (!StringUtils.equals(genre.main, Genre.FIGHTER) && StringUtils.contains(simplifySubGenre, "misc")) {
+            genre.sub = Constant.Values.OTHER;
+        }
+
+        if (genre.sub != null && StringUtils.isBlank(genre.sub)) {
             genre.sub = Constant.Values.OTHER;
         }
     }

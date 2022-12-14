@@ -130,12 +130,17 @@ public class C1_RunCommonDeriveEnrichLoad {
                             String subGenre = (String) getField(gameInfoObject, "subGenre");
                             subGenre = !StringUtils.isBlank(subGenre) ? subGenre : Constant.Values.UNKNOWN;
 
-                            GenreInfo genreInfo = new GenreInfo(genre, subGenre, null);
+                            String sub2Genre = (String) getField(gameInfoObject, "sub2Genre");
+                            sub2Genre = !StringUtils.isBlank(sub2Genre) ? sub2Genre : Constant.Values.UNKNOWN;
+
+                            GenreInfo genreInfo = new GenreInfo(genre, subGenre, sub2Genre, null, null);
                             GameUtil.normalizeGenres(genreInfo, game.name);
 
                             game.genre = genreInfo.main;
                             game.subGenre = genreInfo.sub;
+                            game.sub2Genre = genreInfo.sub2;
                             game.camera = genreInfo.camera;
+                            game.graphics = genreInfo.graphics;
                             return;
                         } else {
                             Game.class.getField(field).set(game, fieldObject);

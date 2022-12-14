@@ -1,3 +1,4 @@
+//Arcade Collections
 10yard
 openice
 2020bb
@@ -5,7 +6,7 @@ openice
 10yard
 vs2
 88games
-mfjump
+//mfjump
 socbrawl
 ssideki3
 bangbead
@@ -43,7 +44,7 @@ hyperspt
 footchmp
 kicknrun
 majtitl2
-metrocrs
+//metrocrs
 nbajam
 nbajamte
 nbahangt
@@ -69,7 +70,7 @@ gt99
 gtfore06
 hyperspt
 sidepckt
-
+//Legends 4 Update 1
 720
 10yard
 alpine
@@ -85,7 +86,7 @@ gtfore06
 hyperspt
 kicknrun
 majtitl2
-metrocrs
+//metrocrs
 nbahangt
 nbajamte
 nbamht
@@ -113,7 +114,7 @@ flipshot
 gt2k
 hitice
 lbowling
-mfjump
+//mfjump
 nbajam
 punkshot
 rackemup

@@ -22,6 +22,7 @@ public class GameInfo {
     public String description;
     public String genre;
     public String subGenre;
+    public String sub2Genre;
     public String image;
     public String video;
     public String marquee;
@@ -132,7 +133,7 @@ public class GameInfo {
             this.isGuess = isGuess;
         }
     }
-    
+
     @Override
     public int hashCode() {
         return HashCodeBuilder.reflectionHashCode(this);

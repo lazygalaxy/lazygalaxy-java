@@ -42,15 +42,16 @@ public class GenerateCoinOpsGameListFromDB {
                         "Ways" + seperator +
                         "Buttons" + seperator +
                         "LightGun" + seperator +
+                        "Stick" + seperator +
                         "TrackBall" + seperator +
                         "Other Input" + seperator +
                         "Vertical" + seperator +
                         "Manufacturer" + seperator +
-                        //"Developer" + seperator +
-                        //"Publisher" + seperator +
                         "Genre" + seperator +
                         "SubGenre" + seperator +
+                        "Sub2Genre" + seperator +
                         "CameraGenre" + seperator +
+                        "GraphicsGenre" + seperator +
                         "Forgotten Worlds 2" + seperator +
                         "Deck Legends 3" + seperator +
                         "Linux Legends 3" + seperator +
@@ -73,15 +74,16 @@ public class GenerateCoinOpsGameListFromDB {
                             + (game.inputs != null ? (game.inputs.contains("joy") || game.inputs.contains("doublejoy") ? game.ways : Constant.Values.NONE) : Constant.Values.UNKNOWN) + seperator
                             + (game.buttons != null ? game.buttons : (game.inputs != null ? "0" : Constant.Values.UNKNOWN)) + seperator
                             + (game.inputs != null ? (game.inputs.contains("lightgun") ? Constant.Values.YES : Constant.Values.NO) : Constant.Values.UNKNOWN) + seperator
+                            + (game.inputs != null ? (game.inputs.contains("stick") ? Constant.Values.YES : Constant.Values.NO) : Constant.Values.UNKNOWN) + seperator
                             + (game.inputs != null ? (game.inputs.contains("trackball") ? Constant.Values.YES : Constant.Values.NO) : Constant.Values.UNKNOWN) + seperator
-                            + (game.inputs != null ? (getOtherInputString(game.inputs, "joy", "doublejoy", "only_buttons", "lightgun", "trackball")) : Constant.Values.UNKNOWN) + seperator
+                            + (game.inputs != null ? (getOtherInputString(game.inputs, "joy", "doublejoy", "only_buttons", "lightgun", "trackball", "stick")) : Constant.Values.UNKNOWN) + seperator
                             + (game.isVertical != null && game.isVertical ? Constant.Values.YES : Constant.Values.NO) + seperator
                             + (game.manufacturer != null ? game.manufacturer : Constant.Values.UNKNOWN) + seperator
-                            //+ (game.developer != null ? game.developer : Constant.Values.UNKNOWN) + seperator
-                            //+ (game.publisher != null ? game.publisher : Constant.Values.UNKNOWN) + seperator
                             + (game.genre != null ? game.genre : Constant.Values.UNKNOWN) + seperator
                             + (game.subGenre != null ? game.subGenre : Constant.Values.UNKNOWN) + seperator
+                            + (game.sub2Genre != null ? game.sub2Genre : Constant.Values.UNKNOWN) + seperator
                             + (game.camera != null ? game.camera : Constant.Values.UNKNOWN) + seperator
+                            + (game.graphics != null ? game.graphics : Constant.Values.UNKNOWN) + seperator
                             + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.FORGOTTEN_WORLDS_2) ? Constant.Values.YES : Constant.Values.NO) + seperator
                             + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.LEGENDS_3_DESK) ? Constant.Values.YES : Constant.Values.NO) + seperator
                             + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.LINUX_LEGENDS_3_V1) ? Constant.Values.YES : Constant.Values.NO) + seperator

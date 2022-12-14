@@ -42,13 +42,13 @@ public class Constant {
         public final static String PLATFORM = "Platform";
 
         public final static String PUZZLE = "Puzzle";
-        public final static String RACING = "Racing";
+        public final static String DRIVING = "Driving";
 
         public final static String SHOOTER = "Shooter";
 
         public final static String SPORTS = "Sports";
 
-        public final static List<String> ALL = Lists.newArrayList(FIGHTER, MAZE, PLATFORM, PUZZLE, RACING, SHOOTER, SPORTS);
+        public final static List<String> ALL = Lists.newArrayList(FIGHTER, MAZE, PLATFORM, PUZZLE, DRIVING, SHOOTER, SPORTS);
 
     }
 
@@ -56,22 +56,44 @@ public class Constant {
 
         public final static String ACTION = "Action";
         public final static String ADVENTURE = "Adventure";
+
+        public final static String BALLGUIDE = "Ball Guide";
         public final static String BEATEMUP = "Beat Em Up";
-        public final static String BOAT = "Boat";
 
         public final static String BOXING = "Boxing";
 
+        public final static String BREAKOUT = "Breakout";
+
         public final static String CAR = "Car";
+
+        public final static String COLLECT = "Collect";
 
         public final static String DRIVING = "Driving";
 
+        public final static String FIELD = "Field";
+
+        public final static String FIGHTER = "Fighter";
+
+        public final static String FLYING = "Flying";
+
+        public final static String GALLERY = "Gallery";
+
         public final static String GUNNER = "Gunner";
 
-        public final static String MOTORBIKE = "Motorbike";
+        public final static String MAHJONG = "Mahjong";
+
+        public final static String OUTLINE = "Outline";
 
         public final static String RUNNGUN = "Run N Gun";
         public final static String SHOOTEMUP = "Shoot Em Up";
+
+        public final static String SHOOTER = "Shooter";
+
         public final static String VERSUS = "Versus";
+
+        public final static String VERSUSCOOP = "Versus Co-op";
+
+        public final static String WALKING = "Walking";
     }
 
     public static class CameraGenre {
@@ -80,10 +102,18 @@ public class Constant {
         public final static String FIRSTPERSON = "1st Person";
 
         public final static String HORIZONTAL = "Horizontal";
+
+        public final static String SCROLLING = "Scrolling";
         public final static String THIRDPERSON = "3rd Person";
 
         public final static String VERTICAL = "Vertical";
 
+    }
+
+    public static class GraphcisGenre {
+        public final static String TWODIMENSION = "2D";
+        public final static String TWOHALFDIMENSION = "2.5D";
+        public final static String THREEDIMENSION = "3D";
     }
 
     public static class GameSystem {

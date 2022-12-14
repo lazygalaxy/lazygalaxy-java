@@ -1,9 +1,10 @@
+//Arcade Collections
 asterix
 astorm
 shadfrce
 warriorb
 ninjaw
-bucky
+//bucky
 gladiatr
 outfxies
 hharry
@@ -138,7 +139,7 @@ orlegend
 pulirula
 riotcity
 spkrbtl
-
+//Legends 4 Update 1
 altbeast
 bjourney
 crsword
@@ -171,7 +172,7 @@ bmaster
 brapboys
 btoads
 jdreddp
-bucky
+//bucky
 cadash
 captaven
 roboarmy
