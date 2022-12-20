@@ -1,0 +1,7 @@
+-rw-rw-r-- 1 1000 1000 812022585 Feb 27  2011 Border Down.cdi
+-rw-rw-r-- 1 1000 1000 795296807 Jul  8  2012 Crazy Taxi.cdi
+-rw-rw-r-- 1 1000 1000 813868000 Jan  4  2013 Ikaruga.cdi
+-rw-rw-r-- 1 1000 1000 769394704 Apr 13  2011 Marvel vs Capcom 2.cdi
+-rw-rw-r-- 1 1000 1000 810826545 Feb 27  2009 Soul Calibur.cdi
+-rw-rw-r-- 1 1000 1000 810553229 Mar 16  2012 Under Defeat.cdi
+-rw-rw-r-- 1 1000 1000 811408100 Jan 27  2013 Zero Gunner 2.cdi

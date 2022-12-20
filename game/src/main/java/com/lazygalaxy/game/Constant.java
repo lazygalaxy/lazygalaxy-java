@@ -185,8 +185,13 @@ public class Constant {
         public final static String PLAYER_LEGENDS_4 = "playerlegends4";
         public final static String COLLECTIONS_ARCADE = "collectionsarcade";
         public final static String COLLECTIONS_LEGENDS = "collectionslegends";
+        public final static String INSERT_COIN = "insertcoin";
+
         public final static String PI4_LEGENDS_2_V3 = "pi4legends2v3";
 
-        public final static List<String> ALL = Lists.newArrayList(FORGOTTEN_WORLDS_2, LEGENDS_3_DESK, LINUX_LEGENDS_3_V1, PLAYER_LEGENDS_4_MAX, PLAYER_LEGENDS_4, COLLECTIONS_ARCADE, COLLECTIONS_LEGENDS, PI4_LEGENDS_2_V3);
+        public final static String PI4_LEGENDS_3_V4 = "pi4legends3v4";
+
+
+        public final static List<String> ALL = Lists.newArrayList(INSERT_COIN,PI4_LEGENDS_3_V4, PLAYER_LEGENDS_4_MAX, PLAYER_LEGENDS_4,FORGOTTEN_WORLDS_2, LEGENDS_3_DESK, LINUX_LEGENDS_3_V1, COLLECTIONS_ARCADE, COLLECTIONS_LEGENDS, PI4_LEGENDS_2_V3);
     }
 }
