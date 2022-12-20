@@ -1293,7 +1293,7 @@ megadrive	none	Streets of Rage	1991	Streets Of Rage I	2	unknown	unknown	unknown	
 megadrive	none	Streets of Rage 2	1992	Streets Of Rage II	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Fighter	Beat Em Up	unknown	unknown	unknown	no	yes	yes	yes	yes	yes	yes	no	yes	yes
 megadrive	none	Streets of Rage 3	1997	Streets of Rage III	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Fighter	Beat Em Up	unknown	unknown	unknown	no	yes	no	yes	yes	yes	yes	no	yes	yes
 megadrive	none	ToeJam & Earl	1992	Toejam and Earl	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Platform	unknown	unknown	unknown	unknown	no	yes	no	yes	yes	yes	yes	no	yes	yes
-megadrive	none	Xeno Crisis	2019	Xenocrisis	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	other	Action	unknown	unknown	unknown	no	no	no	yes	yes	no	no	no	no	no
+megadrive	none	Xeno Crisis	2019	Xenocrisis	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	other	Action	unknown	unknown	unknown	no	yes	no	yes	yes	no	no	no	no	no
 n64	none	F-Zero X	1998	F-Zero X	4	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Driving	unknown	unknown	unknown	unknown	no	yes	no	no	no	yes	no	no	no	yes
 n64	none	Mario Kart 64	1997	Mario Kart 64	4	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Driving	unknown	unknown	unknown	unknown	no	yes	no	no	no	yes	no	no	no	yes
 n64	none	Star Fox 64	1997	Star Fox 64	4	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Shooter	unknown	unknown	unknown	unknown	no	yes	no	no	no	yes	no	no	no	yes
