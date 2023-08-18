@@ -1,21 +1,196 @@
-AU;Australia;Canberra;Oceania;25700000;English;Australian Dollar (AUD);Meat Pie, Vegemite on Toast, Barramundi;Blue, White, Red;No;-;No;-;Sydney Opera House, Great Barrier Reef
-BD;Bangladesh;Dhaka;Asia;168200000;Bengali;Bangladeshi Taka (BDT);Biryani, Bhuna Khichuri, Fuchka;Green, Red;Yes;Sari;Yes;-;Sundarbans Mangrove Forest, Cox's Bazar Beach
-BR;Brazil;Brasília;South America;213800000;Portuguese;Brazilian Real (BRL);Feijoada, Brigadeiro, Açaí;Green, Yellow;No;-;Yes;-;Christ the Redeemer, Amazon Rainforest
-KH;Cambodia;Phnom Penh;Asia;16700000;Khmer;Cambodian Riel (KHR);Amok, Lok Lak, Nom Banh Chok;Blue, Red;No;-;Yes;-;Angkor Wat, Royal Palace, Silver Pagoda
-CM;Cameroon;Yaoundé;Africa;27400000;French, English;Central African CFA franc (XAF);Ndolé, Achu Soup, Mbanga Soup;Green, Yellow, Red;No;-;Yes;-;Waza National Park, Limbe Wildlife Centre
-CN;China;Beijing;Asia;1410000000;Mandarin;Renminbi (CNY);Peking Duck, Kung Pao Chicken, Dim Sum;Red, Yellow;No;-;Yes;-;Great Wall of China, The Forbidden City
-EG;Egypt;Cairo;Africa;104300000;Arabic;Egyptian Pound (EGP);Koshari, Ful Medames, Mahshi;Red, White, Black;Yes;Abaya;Yes;-;Pyramids of Giza, The Egyptian Museum
-FJ;Fiji;Suva;Oceania;900000;English, Fijian, Hindi;Fijian Dollar (FJD);Kokoda, Lovo, Rourou;Light Blue, Yellow;No;-;Yes;-;Mamanuca Islands, Sigatoka Sand Dunes
-GR;Greece;Athens;Europe;10400000;Greek;Euro (EUR);Moussaka, Souvlaki, Tzatziki;Blue, White;No;-;No;-;Acropolis of Athens, Santorini Island
-VA;Holy See (Vatican City);Vatican City;Europe;801;Latin, Italian;Euro (EUR);Cappelletti, Pizza, Gelato;Gold, White, Gold;No;-;No;-;St. Peter's Basilica, Vatican Museums
-IN;India;New Delhi;Asia;1400000000;Hindi, English;Indian Rupee (INR);Butter Chicken, Biryani, Masala Dosa;Green, Saffron, White;No;-;Yes;-;Taj Mahal, Jaipur's Hawa Mahal
-IT;Italy;Rome;Europe;60400000;Italian;Euro (EUR);Pizza, Pasta Carbonara, Gelato;Green, White, Red;No;-;No;-;Colosseum, Venice Canals
-JM;Jamaica;Kingston;North America;2800000;English;Jamaican Dollar (JMD);Jerk Chicken, Ackee and Saltfish, Callaloo;Black, Green, Yellow;No;-;Yes;-;Dunn's River Falls, Bob Marley Museum
-JP;Japan;Tokyo;Asia;125500000;Japanese;Japanese Yen (JPY);Sushi, Ramen, Tempura;Red, White;No;-;No;-;Tokyo Disneyland, Mount Fuji
-MX;Mexico;Mexico City;North America;129200000;Spanish;Mexican Peso (MXN);Tacos, Guacamole, Enchiladas;Green, Red, White;No;-;Yes;-;Chichen Itza, Teotihuacan
-NG;Nigeria;Abuja;Africa;206000000;English;Nigerian Naira (NGN);Jollof Rice, Pounded Yam, Egusi Soup;Green, White, Green;No;-;Yes;-;Yankari National Park, Awhum Waterfall
-QA;Qatar;Doha;Asia;2900000;Arabic;Qatari Riyal (QAR);Machbous, Harees, Madrouba;White, Maroon;Yes;Abaya;Yes;-;The Pearl-Qatar, Museum of Islamic Art
-CH;Switzerland;Bern;Europe;8600000;German, French, Italian, Romansh;Swiss Franc (CHF);Fondue, Rösti, Raclette;White, Red;No;-;No;-;Matterhorn, Lake Geneva
-SE;Sweden;Stockholm;Europe;10400000;Swedish;Swedish Krona (SEK);Köttbullar, Gravlax, Smörgåsbord;Blue, Yellow;No;-;No;-;ABBA: The Museum, Vasa Museum
-AE;United Arab Emirates;Abu Dhabi;Asia;9200000;Arabic;UAE Dirham (AED);Machboos, Al Harees, Al Majboos;White, Red, Black, Green;Yes;Abaya;Yes;-;Burj Khalifa, Sheikh Zayed Grand Mosque
-US;United States;Washington, D.C.;North America;332900000;English;United States Dollar (USD);Hamburger, Hot Dog, Clam Chowder;Red, White, Blue;No;-;No;-;Statue of Liberty, Grand Canyon
+ISO;Country;Capital;Continent;Population;Language;National Dish;Top Dishes;Flag Colors;Top Attractions
+AF;Afghanistan;Kabul;Asia;38928000;Pashto, Dari;Kabuli Pulao;Qabili Palau, Mantu, Ashak;Black, Red, Green;;Bamiyan Buddha Statues, Band-e Amir National Park, Kabul Gardens
+AL;Albania;Tirana;Europe;2837743;Albanian;Tavë Kosi;Fergese, Byrek, Qofte;Red, Black;;Gjirokastër Castle, Llogara Pass, Butrint National Park
+DZ;Algeria;Algiers;Africa;43851043;Arabic;Couscous;Harira, Mechoui, Brik;Green, White, Red;;Sahara Desert, Timgad Ruins, Algiers Casbah
+AD;Andorra;Andorra la Vella;Europe;77265;Catalan;Trinxat;Coca, Escudella, Cannelloni;Blue, Yellow, Red;;Casa de la Vall, Grandvalira Ski Resort, Caldea Thermal Spa
+AO;Angola;Luanda;Africa;32866268;Portuguese;Moamba de Galinha;Calulu, Muamba de Ginguba, Pirão;Red, Black, Yellow;;Kalandula Falls, Kissama National Park, Miradouro da Lua
+AG;Antigua and Barbuda;St. John's;North America;97929;English;Fungie;Ducana, Pepperpot, Conch Fritters;Red, Blue, White;;Nelson's Dockyard, Stingray City, Shirley Heights
+AR;Argentina;Buenos Aires;South America;45195777;Spanish;Asado;Empanadas, Milanesa, Chimichurri;Blue, White;;Iguazu Falls, Perito Moreno Glacier, Buenos Aires' La Boca
+AM;Armenia;Yerevan;Asia;2963234;Armenian;Harissa;Khorovats, Dolma, Lavash;Red, Blue, Orange;;Geghard Monastery, Lake Sevan, Tatev Monastery
+AU;Australia;Canberra;Oceania;25700000;English;Meat Pie;Vegemite on Toast, Barramundi, Pavlova;Blue, White, Red;;Sydney Opera House, Great Barrier Reef, Uluru
+AT;Austria;Vienna;Europe;8902600;German;Wiener Schnitzel;Sachertorte, Apfelstrudel, Kaiserschmarrn;Red, White;;Schönbrunn Palace, Hallstatt, Belvedere Palace
+AZ;Azerbaijan;Baku;Asia;10139175;Azerbaijani;Plov;Dolma, Dushbara, Qutab;Blue, Red, Green;;Maiden Tower, Sheki Khan's Palace, Gobustan Rock Art
+BS;Bahamas;Nassau;North America;392718;English;Conch Salad;Cracked Conch, Souse, Johnnycake;Blue, Yellow;;Exuma Cays, Atlantis Paradise Island, Pink Sand Beaches
+BH;Bahrain;Manama;Asia;1701583;Arabic;Machboos;Kabsa, Qoozi, Harees;Red, White;;Bahrain National Museum, Qal'at al-Bahrain, Al-Fateh Mosque
+BD;Bangladesh;Dhaka;Asia;168200000;Bengali;Biryani;Bhuna Khichuri, Fuchka, Pati Shapta;Green, Red;;Sundarbans Mangrove Forest, Cox's Bazar Beach, Srimangal Tea Gardens
+BB;Barbados;Bridgetown;North America;287025;English;Cou-Cou and Flying Fish;Pudding and Souse, Macaroni Pie, Fish Cakes;Blue, Yellow;;Harrison's Cave, Bathsheba Beach, Barbados Wildlife Reserve
+BY;Belarus;Minsk;Europe;9473500;Belarusian, Russian;Draniki;Kolduny, Drachona, Machanka;Red, Green;;Mir Castle, Brest Fortress, Nesvizh Castle
+BE;Belgium;Brussels;Europe;11524454;Dutch, French, German;Moules-Frites;Waffles, Chocolate, Speculoos;Black, Yellow, Red;;Grand Place, Atomium, Bruges' Canals
+BZ;Belize;Belmopan;North America;419199;English;Rice and Beans with Stew Chicken;Ceviche, Hudut, Johnny Cakes;Blue, White;;Great Blue Hole, Mayan Ruins of Xunantunich, Belize Barrier Reef
+BJ;Benin;Porto-Novo;Africa;12123200;French;Fufu;Aloko, Akpan, Kuli-Kuli;Green, Yellow, Red;;Royal Palaces of Abomey, Pendjari National Park, Ganvié Village
+BT;Bhutan;Thimphu;Asia;763094;Dzongkha;Ema Datshi;Phaksha Paa, Momos, Jasha Maroo;Orange, Yellow;;Tiger's Nest Monastery, Punakha Dzong, Dochula Pass
+BO;Bolivia;Sucre;South America;11673029;Spanish, Quechua, Aymara;Salteñas;Silpancho, Fricasé, Api;Red, Yellow, Green;;Salar de Uyuni, Tiwanaku, Yungas Road
+BA;Bosnia and Herzegovina;Sarajevo;Europe;3280815;Bosnian, Croatian, Serbian;Ćevapi;Burek, Begova Čorba, Bosanski Lonac;Blue, Yellow, White;;Stari Most, Old Bridge, Kravice Waterfalls
+BW;Botswana;Gaborone;Africa;2141206;English, Setswana;Seswaa;Morogo, Vetkoek, Boerewors;Blue, Black, White;;Okavango Delta, Chobe National Park, Moremi Game Reserve
+BR;Brazil;Brasília;South America;213800000;Portuguese;Feijoada;Brigadeiro, Açaí, Acarajé;Green, Yellow;;Christ the Redeemer, Amazon Rainforest, Iguazu Falls
+BN;Brunei;Bandar Seri Begawan;Asia;434076;Malay;Ambuyat;Soto, Nasi Katok, Kuih Muih;Yellow, White;;Sultan Omar Ali Saifuddin Mosque, Ulu Temburong National Park, Kampong Ayer
+BG;Bulgaria;Sofia;Europe;6975761;Bulgarian;Banitsa;Kavarma, Kyufte, Tarator;White, Green, Red;;Rila Monastery, Plovdiv Old Town, Seven Rila Lakes
+BF;Burkina Faso;Ouagadougou;Africa;20903278;French;Riz Gras;Tô, Fufu, Bougou;Red, Green;;Loropeni Ruins, Arli National Park, Sindou Peaks
+BI;Burundi;Bujumbura;Africa;11890781;Kirundi, French, English;Brochettes;Ugali, Beans, Isombe;Red, Green, White;;Rusizi National Park, Karera Falls, Kibira National Park
+CV;Cabo Verde;Praia;Africa;543767;Portuguese;Cachupa;Lagosta Grelhada, Polvo Guisado, Catchupa Rica;Blue, White, Red;;Cidade Velha, Praia de Santa Maria, Sal Island's Salt Flats
+KH;Cambodia;Phnom Penh;Asia;16700000;Khmer;Amok;Lok Lak, Nom Banh Chok, Fish Amok;Blue, Red;;Angkor Wat, Royal Palace, Silver Pagoda
+CM;Cameroon;Yaoundé;Africa;27400000;French, English;Ndolé;Achu Soup, Mbanga Soup, Njama-Njama;Green, Yellow, Red;;Waza National Park, Limbe Wildlife Centre, Mount Cameroon
+CA;Canada;Ottawa;North America;37589262;English, French;Poutine;Maple Syrup, Nanaimo Bar, Butter Tart;Red, White;;Niagara Falls, Banff National Park, CN Tower
+CF;Central African Republic;Bangui;Africa;4998000;Sango, French;Kanda;Boko-Boko, Mbala, Fufu;Blue, White, Green;;Dzanga-Sangha National Park, Manovo-Gounda St. Floris National Park, Bangui Cathedral
+TD;Chad;N'Djamena;Africa;14497000;Arabic, French;Boule;Dolé, Lahmi, Bazinga;Blue, Yellow, Red;;Zakouma National Park, Ennedi Plateau, Emi Koussi
+CL;Chile;Santiago;South America;19228000;Spanish;Empanada;Asado, Cazuela, Curanto;White, Red, Blue;;Easter Island, Torres del Paine National Park, Atacama Desert
+CN;China;Beijing;Asia;1410000000;Mandarin;Peking Duck;Kung Pao Chicken, Dim Sum, Hot Pot;Red, Yellow;;Great Wall of China, The Forbidden City, Terracotta Army
+CO;Colombia;Bogotá;South America;50882891;Spanish;Bandeja Paisa;Arepa, Sancocho, Ajiaco;Yellow, Blue, Red;;Cartagena's Old Town, Coffee Cultural Landscape, Tayrona National Park
+KM;Comoros;Moroni;Africa;869601;Comorian, French, Arabic;Langouste a la Vanille;Brochettes, Koki, Mataba;Green, Yellow, Red;;Mount Karthala, Grande Comore's Beaches, Mitsamiouli's Night Market
+CG;Congo;Brazzaville;Africa;5399895;French;Poulet Moambé;Foutou, Ntaba, Makayabu;Green, Yellow, Red;;Lesio Louna Gorilla Reserve, Basilique Sainte-Anne, Pointe Noire's Beaches
+CD;Congo, Democratic Republic of the;Kinshasa;Africa;85026000;French, Lingala, Swahili;Fufu and Ndakala;Saka-Saka, Madesu, Pondu;Sky Blue, Yellow, Red;;Virunga National Park, Livingstone Falls, Maiko National Park
+CR;Costa Rica;San José;North America;5058007;Spanish;Gallo Pinto;Casado, Sopa Negra, Ceviche;Blue, White, Red;;Arenal Volcano, Manuel Antonio National Park, Tortuguero National Park
+HR;Croatia;Zagreb;Europe;4105493;Croatian;Ćevapi;Peka, Crni Rizot, Strukli;Red, White, Blue;;Plitvice Lakes National Park, Dubrovnik's Old Town, Diocletian's Palace
+CU;Cuba;Havana;North America;11209628;Spanish;Ropa Vieja;Moros y Cristianos, Vaca Frita, Tostones;Blue, White;;Old Havana, Varadero Beach, Viñales Valley
+CY;Cyprus;Nicosia;Asia;875898;Greek, Turkish;Meze;Kleftiko, Loukoumades, Halloumi;White;;Kyrenia Castle, Ayia Napa Beaches, Troodos Mountains
+CZ;Czech Republic;Prague;Europe;10693939;Czech;Svíčková;Guláš, Bramborák, Trdelník;White, Red, Blue;;Prague Castle, Charles Bridge, Český Krumlov
+DK;Denmark;Copenhagen;Europe;5840045;Danish;Smørrebrød;Frikadeller, Æbleflæsk, Flødeboller;Red, White;;Tivoli Gardens, Nyhavn, Legoland Billund
+DJ;Djibouti;Djibouti;Africa;988000;French, Arabic;Skoudehkaris;Lahoh, Samboosa, Cambabur;Light Blue, Green, White;;Lake Assal, Goda Mountains, Maskali Islands
+DM;Dominica;Roseau;North America;71986;English;Mountain Chicken;Callaloo Soup, Bakes, Titiri;Green, Yellow, Black;;Boiling Lake, Champagne Reef, Morne Trois Pitons National Park
+DO;Dominican Republic;Santo Domingo;North America;10358320;Spanish;Sancocho;La Bandera, Mofongo, Tostones;Red, White, Blue;;Santo Domingo's Colonial Zone, Punta Cana Beaches, Jarabacoa
+EC;Ecuador;Quito;South America;17446584;Spanish;Ceviche;Llapingachos, Seco de Pollo, Locro;Yellow, Blue, Red;;Galápagos Islands, Amazon Rainforest, Quilotoa Crater
+EG;Egypt;Cairo;Africa;104300000;Arabic;Koshari;Ful Medames, Mahshi, Molokhia;Red, White, Black;;Pyramids of Giza, The Egyptian Museum, Nile River Cruise
+SV;El Salvador;San Salvador;North America;6704864;Spanish;Pupusa;Yuca con Chicharrón, Sopa de Pata, Tamales;Blue, White;;Ruta de las Flores, Joya de Cerén, Coatepeque Lake
+GQ;Equatorial Guinea;Malabo;Africa;1355986;Spanish, French, Portuguese;Succotash;Igname, Mbika, Máwéle;Green, White, Red;;Monte Alén National Park, Bata's Cathedral, Arena Blanca Beach
+ER;Eritrea;Asmara;Africa;3497117;Tigrinya, Arabic, English;Zigni;Injera, Shiro, Ful;Green, Red, Blue;;Dahlak Archipelago, Asmara's Art Deco Buildings, Massawa Old Town
+EE;Estonia;Tallinn;Europe;1324820;Estonian;Verivorst;Kiluvõileib, Kama, Kali;Blue, Black, White;;Old Town Tallinn, Lahemaa National Park, Tartu University
+ET;Ethiopia;Addis Ababa;Africa;11207873;Amharic;Doro Wat;Injera, Kitfo, Tibs;Green, Yellow, Red;;Simien Mountains, Lalibela Rock-Hewn Churches, Danakil Depression
+FJ;Fiji;Suva;Oceania;900000;English, Fijian, Hindi;Kokoda;Lovo, Rourou, Duruka;Light Blue, Yellow;;Mamanuca Islands, Sigatoka Sand Dunes, Tavoro Waterfalls
+FI;Finland;Helsinki;Europe;5540720;Finnish, Swedish;Kalakukko;Karjalanpaisti, Ruisleipä, Lohikeitto;White, Blue;;Helsinki Cathedral, Northern Lights, Santa Claus Village
+FR;France;Paris;Europe;67060000;French;Coq au Vin;Croissant, Escargot, Ratatouille;Blue, White, Red;;Eiffel Tower, Louvre Museum, Mont Saint-Michel
+GA;Gabon;Libreville;Africa;2225734;French;Poulet Nyembwe;Akobi, Mbika, Lutte;Green, Yellow, Blue;;Loango National Park, Pongara National Park, Lambarene's Schweitzer Hospital
+GM;Gambia;Banjul;Africa;2347706;English, Mandinka, Wolof;Benachin;Domoda, Mbahal, Ataya;Red, Blue, Green;;Kunta Kinteh Island, Abuko Nature Reserve, Jinack Island
+GE;Georgia;Tbilisi;Asia;3726500;Georgian;Khachapuri;Khinkali, Lobio, Satsivi;White, Red;;Svetitskhoveli Cathedral, Uplistsikhe Cave Complex, Gergeti Trinity Church
+DE;Germany;Berlin;Europe;83019200;German;Bratwurst;Currywurst, Pretzel, Black Forest Cake;Black, Red, Gold;;Brandenburg Gate, Neuschwanstein Castle, Berlin Wall
+GH;Ghana;Accra;Africa;30280811;English;Jollof Rice;Banku and Tilapia, Fufu, Kelewele;Red, Yellow, Green;;Cape Coast Castle, Kakum National Park, Wli Waterfall
+GR;Greece;Athens;Europe;10400000;Greek;Moussaka;Souvlaki, Tzatziki, Pastitsio;Blue, White;;Acropolis of Athens, Santorini Island, Parthenon
+GD;Grenada;St. George's;North America;112003;English;Oil Down;Lambi, Callaloo Soup, Roti;Red, Green, Yellow;;Grand Anse Beach, Underwater Sculpture Park, Levera National Park
+GT;Guatemala;Guatemala City;North America;16604026;Spanish;Pepián;Tamales, Rellenitos, Kak'ik;Blue, White;;Tikal, Lake Atitlán, Antigua Guatemala
+GN;Guinea;Conakry;Africa;13132795;French;Yétessé;Mafé, Plasas, Domoda;Red, Yellow, Green;;Îles de Los, Fouta Djallon, Guinean National Museum
+GW;Guinea-Bissau;Bissau;Africa;1920922;Portuguese, Creole;Jollof Rice;Fungee, Caldo de Peixe, Canjica;Yellow, Green;;Orango Islands National Park, Varela's Beach, Bissau's Fort
+GY;Guyana;Georgetown;South America;782225;English;Pepperpot;Roti, Metemgee, Bakes;Green, Yellow, White;;Kaieteur Falls, Shell Beach, Iwokrama Rainforest
+HT;Haiti;Port-au-Prince;North America;11402528;French, Haitian Creole;Griyo;Tasso, Diri Ak Djon Djon, Soup Joumou;Blue, Red;;Citadelle Laferrière, Bassin Bleu, Labadee Beach
+HN;Honduras;Tegucigalpa;North America;9904607;Spanish;Baleada;Sopa de Caracol, Ropa Vieja, Pastelitos;Blue, White;;Copán Ruins, Roatán Island, Celaque National Park
+HU;Hungary;Budapest;Europe;9772756;Hungarian;Goulash;Langos, Toltott Kaposzta, Rakott Krumpli;Red, White, Green;;Buda Castle, Hungarian Parliament, Széchenyi Thermal Bath
+IS;Iceland;Reykjavik;Europe;366425;Icelandic;Hákarl;Pylsur, Skyr, Sviðasulta;Blue, White, Red;;Blue Lagoon, Geysir Geothermal Area, Vatnajökull National Park
+IN;India;New Delhi;Asia;1400000000;Hindi, English;Butter Chicken;Biryani, Masala Dosa, Paneer Tikka;Green, Saffron, White;;Taj Mahal, Jaipur's Hawa Mahal, Varanasi Ghats
+ID;Indonesia;Jakarta;Asia;273523615;Indonesian;Nasi Goreng;Rendang, Sate, Soto Ayam;Red, White;;Bali's Beaches, Borobudur Temple, Komodo Island
+IR;Iran;Tehran;Asia;83992949;Persian;Chelo Kebab;Ghormeh Sabzi, Fesenjan, Ash Reshteh;Green, White;;Persepolis, Nasir al-Mulk Mosque, Isfahan's Naqsh-e Jahan Square
+IQ;Iraq;Baghdad;Asia;40222503;Arabic, Kurdish;Dolma;Quzi, Samoon, Kubbah;Red, White, Black;;Ziggurat of Ur, Babylon, Erbil Citadel
+IE;Ireland;Dublin;Europe;4941444;Irish, English;Irish Stew;Boxty, Coddle, Black Pudding;Green, White, Orange;;Cliffs of Moher, Temple Bar, Giant's Causeway
+IL;Israel;Jerusalem;Asia;9173250;Hebrew, Arabic;Hummus;Falafel, Shawarma, Shakshuka;Blue, White;;Western Wall, Dead Sea, Old City of Jerusalem
+IT;Italy;Rome;Europe;60400000;Italian;Pizza;Pasta Carbonara, Gelato, Risotto;Green, White, Red;;Colosseum, Venice Canals, Florence Cathedral
+CI;Ivory Coast;Yamoussoukro;Africa;25716544;French;Attieké;Garba, Aloko, Irio;Orange, White, Green;;Basilica of Our Lady of Peace, Tai National Park, Banco National Park
+JM;Jamaica;Kingston;North America;2800000;English;Jerk Chicken;Ackee and Saltfish, Callaloo, Oxtail;Black, Green, Yellow;;Dunn's River Falls, Bob Marley Museum, Blue Lagoon
+JP;Japan;Tokyo;Asia;125500000;Japanese;Sushi;Ramen, Tempura, Tempura;Red, White;;Tokyo Disneyland, Mount Fuji, Hiroshima Peace Memorial
+JO;Jordan;Amman;Asia;10203134;Arabic;Mansaf;Falafel, Shawarma, Hummus;Black, White, Green;;Petra, Dead Sea, Amman Citadel
+KZ;Kazakhstan;Nur-Sultan;Asia;18776707;Kazakh, Russian;Beshbarmak;Plov, Lagman, Manti;Blue, Yellow;;Charyn Canyon, Big Almaty Lake, Medeu Skating Rink
+KE;Kenya;Nairobi;Africa;53771296;Swahili, English;Ugali;Nyama Choma, Sukuma Wiki, Chapati;Black, Red, Green;;Maasai Mara National Reserve, Amboseli National Park, Mount Kenya
+KI;Kiribati;South Tarawa;Oceania;119449;English, Kiribati;Palusami;Kakamora, Ika Mata, Te Bwebwe ni Kiribati;Red, White;;Phoenix Islands Protected Area, Bairiki National Stadium, Abaiang's Lagoon
+KP;Korea, North;Pyongyang;Asia;25450000;Korean;Kimchi;Bibimbap, Jajangmyeon, Naengmyeon;Red, White, Blue;;Kumsusan Palace of the Sun, Juche Tower, Mangyongdae Funfair
+KR;Korea, South;Seoul;Asia;51225322;Korean;Bulgogi;Galbi, Kimbap, Tteokbokki;White, Blue, Red;;Gyeongbokgung Palace, Myeongdong Shopping Street, Jeju Island
+XK;Kosovo;Pristina;Europe;1823148;Albanian, Serbian;Flija;Burek, Pite, Tavë Kosi;Blue, White;;Gračanica Monastery, Bear Sanctuary Mramor, Rugova Canyon
+KW;Kuwait;Kuwait City;Asia;4270571;Arabic;Machbous;Mutabbaq, Fereek, Samboosa;Green, White, Red;;Kuwait Towers, The Avenues, Souq Al-Mubarakiya
+KG;Kyrgyzstan;Bishkek;Asia;6523504;Kyrgyz, Russian;Beshbarmak;Laghman, Samsa, Plov;Red, Yellow, Green;;Issyk-Kul Lake, Ala-Archa National Park, Sulaiman-Too Sacred Mountain
+LA;Laos;Vientiane;Asia;7275556;Lao;Laap;Tam Mak Hoong, Khao Piak Sen, Khao Nom;Blue, White, Red;;Luang Prabang, Vang Vieng, Wat Phou
+LV;Latvia;Riga;Europe;1886198;Latvian;Piragi;Rupjmaize, Sklandrausis, Silke;Crimson, White;;Riga Old Town, Gauja National Park, Jurmala Beach
+LB;Lebanon;Beirut;Asia;6825442;Arabic;Kibbeh;Hummus, Tabbouleh, Falafel;Red, White;;Jeita Grotto, Byblos, Baalbek Ruins
+LS;Lesotho;Maseru;Africa;2142249;Sesotho, English;Papa;Moroho, Roosterkoek, Vetkoek;Blue, White;;Maloti Mountains, Maletsunyane Falls, Sehlabathebe National Park
+LR;Liberia;Monrovia;Africa;5057677;English;Jollof Rice;Fufu, Kala, Palm Butter Soup;Red, White, Blue;;Sapo National Park, Providence Island, Firestone Plantation
+LY;Libya;Tripoli;Africa;6871287;Arabic;Bazin;Harira, Borek, Couscous;Black, Red, Green;;Leptis Magna, Cyrene Ruins, Jebel Akhdar
+LI;Liechtenstein;Vaduz;Europe;38128;German;Käsknöpfle;Ribel, Maluns, Torkarebl;Blue, Red;;Vaduz Castle, Gutenberg Castle, Skiing in Malbun
+LT;Lithuania;Vilnius;Europe;2793450;Lithuanian;Cepelinai;Kugelis, Šaltibarščiai, Kibinai;Yellow, Green, Red;;Hill of Crosses, Trakai Castle, Curonian Spit
+LU;Luxembourg;Luxembourg City;Europe;625978;Luxembourgish, French, German;Judd mat Gaardebounen;Bouchée à la Reine, Rieslingspaschtéit, Kniddelen;Red, White, Light Blue;;Vianden Castle, Grand Ducal Palace, Mullerthal Trail
+MG;Madagascar;Antananarivo;Africa;27053055;Malagasy, French;Romazava;Ravitoto, Koba, Mofo Baolina;Green, White, Red;;Avenue of the Baobabs, Isalo National Park, Andasibe-Mantadia National Park
+MW;Malawi;Lilongwe;Africa;19129952;English, Chichewa;Nsima;Bonya, Mbatata, Malawi Mangoes;Black, Red, Green;;Lake Malawi, Liwonde National Park, Mount Mulanje
+MY;Malaysia;Kuala Lumpur;Asia;32365999;Malay;Nasi Lemak;Char Kway Teow, Laksa, Rendang;Red, White;;Petronas Twin Towers, Batu Caves, Langkawi Island
+MV;Maldives;Male;Asia;521000;Dhivehi;Garudhiya;Hedhikaa, Kulhi Borkibaa, Mashuni;Red, Green, White;;Ari Atoll, Malé's Friday Mosque, Manta Point
+ML;Mali;Bamako;Africa;20250833;French;Couscous;To;Green, Yellow, Red;;Djenné's Great Mosque, Timbuktu's Manuscripts, Bandiagara Cliffs
+MT;Malta;Valletta;Europe;514564;Maltese, English;Fenek;Pastizzi, Bigilla, Kwareżimal;White, Red;;Hagar Qim Temples, Blue Grotto, Valletta's Baroque Architecture
+MH;Marshall Islands;Majuro;Oceania;59190;Marshallese, English;Jabō;Kalama, Keimwak, Jowi;Blue, White;;Laura Beach, Majuro Bridge, Bikini Atoll
+MR;Mauritania;Nouakchott;Africa;4649658;Arabic, French;Thieboudienne;Couscous, Akkra, Bougna;Green, Yellow, Red;;Banc d'Arguin National Park, Terjit Oasis, Ouadane's Ancient Ruins
+MU;Mauritius;Port Louis;Africa;1265577;English, French;Dholl Puri;Boulette, Mine Frit, Mauritian Biryani;Red, Blue, Yellow;;Black River Gorges National Park, Trou aux Cerfs, Chamarel Coloured Earth
+MX;Mexico;Mexico City;North America;128932753;Spanish;Tacos;Chiles en Nogada, Mole, Pozole;Green, White, Red;;Chichen Itza, Tulum Ruins, Mexico City's Historic Center
+FM;Micronesia;Palikir;Oceania;115021;English;Chicken Kelaguen;Lumpia, Pichi-Pichi, Kala;Blue, White;;Pohnpei's Nan Madol, Yap's Stone Money, Chuuk Lagoon
+MD;Moldova;Chisinau;Europe;4033963;Romanian;Mamaliga;Mititei, Sarmale, Placinta;Blue, Yellow, Red;;Orheiul Vechi, Cricova Winery, Soroca Fortress
+MC;Monaco;Monaco;Europe;39242;French;Barbagiuan;Stocafi, Socca, Fougasse;Red, White;;Monte Carlo Casino, Prince's Palace of Monaco, Oceanographic Museum
+MN;Mongolia;Ulaanbaatar;Asia;3324800;Mongolian;Buuz;Khuushuur, Tsuivan, Aarts;Red, Blue;;Gobi Desert, Orkhon Valley, Erdene Zuu Monastery
+ME;Montenegro;Podgorica;Europe;620029;Montenegrin, Serbian;Cevapi;Priganice, Kačamak, Njeguški Steak;Red, Gold, Green;;Bay of Kotor, Durmitor National Park, Ostrog Monastery
+MA;Morocco;Rabat;Africa;36910560;Arabic, Berber;Tagine;Couscous, Pastilla, Harira;Red, Green;;Marrakech's Medina, Sahara Desert, Chefchaouen's Blue Streets
+MZ;Mozambique;Maputo;Africa;31255435;Portuguese;Piri Piri Chicken;Matapa, Feijoada, Xima;Green, Black, Yellow;;Bazaruto Archipelago, Gorongosa National Park, Ilha de Mozambique
+MM;Myanmar;Naypyidaw;Asia;53862731;Burmese;Mohinga;Laphet Thoke, Shan Noodles, Mont Lin Ma Yar;Yellow, Green, Red;;Bagan Temples, Inle Lake, Shwedagon Pagoda
+NA;Namibia;Windhoek;Africa;2568568;English;Biltong;Kapana, Potjiekos, Vetkoek;Blue, Red, Green;;Sossusvlei Dunes, Etosha National Park, Fish River Canyon
+NR;Nauru;Yaren;Oceania;10756;Nauruan, English;Coconut Crab;Palauan Cuisine, Samoan Cuisine, Fijian Cuisine;Blue, Yellow, White;;Buada Lagoon, Anibare Bay, Nauru Command Bunker
+NP;Nepal;Kathmandu;Asia;29996478;Nepali;Dal Bhat;Momos, Sel Roti, Yomari;Crimson, Blue;;Mount Everest, Pashupatinath Temple, Swayambhunath Stupa
+NL;Netherlands;Amsterdam;Europe;17414954;Dutch;Bitterballen;Stroopwafel, Haring, Patat;Red, White, Blue;;Keukenhof Gardens, Anne Frank House, Van Gogh Museum
+NZ;New Zealand;Wellington;Oceania;5129264;English, Māori;Hangi;Lamb Chop, Pavlova, Pies;Black, White;;Fiordland National Park, Bay of Islands, Abel Tasman National Park
+NI;Nicaragua;Managua;North America;6624554;Spanish;Gallo Pinto;Nacatamal, Vaho, Quesillo;Blue, White;;Ometepe Island, Corn Islands, Masaya Volcano
+NE;Niger;Niamey;Africa;24206636;French;Toujours Bon;Djigingi, Farkoy, Moi Moi;Orange, White, Green;;Air Mountains, W National Park, Agadez Mosque
+NG;Nigeria;Abuja;Africa;206139589;English;Jollof Rice;Suya, Pounded Yam, Egusi Soup;Green, White, Green;;Lagos Beaches, Yankari National Park, Ogbunike Caves
+NO;Norway;Oslo;Europe;5367580;Norwegian;Raspeballer;Kjøttkaker, Lutefisk, Gravlaks;Red, White, Blue;;Geirangerfjord, Northern Lights, Trolltunga
+OM;Oman;Muscat;Asia;5225770;Arabic;Shuwa;Makbous, Mashuai, Saloona;Red, White, Green;;Sultan Qaboos Grand Mosque, Wahiba Sands, Mutrah Souq
+PK;Pakistan;Islamabad;Asia;225199937;Urdu, English;Biryani;Nihari, Haleem, Chapli Kebab;Green, White;;Badshahi Mosque, Mohenjo-daro, Karimabad Hunza
+PW;Palau;Ngerulmud;Oceania;18094;Palauan, English;Tamales;Omechelang, Tarul;Blue, Yellow;;Rock Islands, Jellyfish Lake, Babeldaob Island
+PS;Palestine;Ramallah;Asia;5153005;Arabic;Maqluba;Musakhan, Mutabbaq, Kanafeh;Black, White, Green;;Church of the Nativity, Dome of the Rock, Mount of Olives
+PA;Panama;Panama City;North America;4314768;Spanish;Sancocho;Arroz con Pollo, Ceviche, Patacones;White, Blue, Red;;Panama Canal, Bocas del Toro Islands, San Blas Islands
+PG;Papua New Guinea;Port Moresby;Oceania;9180000;Tok Pisin, English;Mumu;Kaukau, Kokoda, Sago;Black, Red, Yellow;;Kokoda Track, Tufi Fjords, Sepik River
+PY;Paraguay;Asuncion;South America;7152703;Spanish, Guarani;Sopa Paraguaya;Bife Koygua, Chipa Guasu, Mbeju;Red, White, Blue;;Iguazu Falls, Ybycuí National Park, Jesuit Missions
+PE;Peru;Lima;South America;32971846;Spanish, Quechua;Ceviche;Lomo Saltado, Aji de Gallina, Rocoto Relleno;Red, White;;Machu Picchu, Amazon Rainforest, Colca Canyon
+PH;Philippines;Manila;Asia;113850000;Filipino, English;Adobo;Sinigang, Kare-Kare, Lechon;Blue, Red, White;;Boracay Island, Chocolate Hills, Mayon Volcano
+PL;Poland;Warsaw;Europe;38413000;Polish;Bigos;Pierogi, Kielbasa, Makowiec;White, Red;;Wawel Castle, Auschwitz-Birkenau, Old Town Kraków
+PT;Portugal;Lisbon;Europe;10276617;Portuguese;Bacalhau;Pastel de Nata, Francesinha, Arroz de Tamboril;Green, Red;;Tower of Belém, Pena Palace, Douro Valley
+QA;Qatar;Doha;Asia;2832071;Arabic;Machbous;Harees, Balaleet, Al Harees;White, Maroon;;The Pearl-Qatar, Souq Waqif, Museum of Islamic Art
+RO;Romania;Bucharest;Europe;19286123;Romanian;Mămăligă;Sarmale, Mămăligă cu Brânză și Smântână, Ciorbă de Perişoare;Blue, Yellow, Red;;Bran Castle, Palace of the Parliament, Transfăgărășan Road
+RU;Russia;Moscow;Europe;146599183;Russian;Borsch;Pelmeni, Blini, Beef Stroganoff;White, Blue, Red;;Red Square, Hermitage Museum, Lake Baikal
+RW;Rwanda;Kigali;Africa;12374397;Kinyarwanda, French, English;Ugali;Brochettes, Akabenz, Isombe;Blue, Yellow, Green;;Volcanoes National Park, Nyungwe Forest, Lake Kivu
+KN;Saint Kitts and Nevis;Basse-Terre;North America;53192;English;Saltfish;Conch Fritters, Coconut Dumplings, Johnny Cake;Green, Yellow, Red;;Brimstone Hill Fortress, Pinney's Beach, Mount Liamuiga
+LC;Saint Lucia;Castries;North America;183629;English;Green Fig and Saltfish;Plantain, Bouyon, Accra;Blue, Yellow, Black;;Pitons, Marigot Bay, Anse Chastanet Beach
+VC;Saint Vincent and the Grenadines;Kingstown;North America;110589;English;Roasted Breadfruit and Fried Jackfish;St Vincent's Smoked Herring, Cassava Pone, Roast Pork;Blue, Yellow, Green;;Tobago Cays, Botanic Gardens, Dark View Falls
+WS;Samoa;Apia;Oceania;198410;Samoan, English;Oka I'a;Lu'au, Koko Alaisa, Sapasui;Blue, White;;To Sua Ocean Trench, Lalomanu Beach, Piula Cave Pool
+SM;San Marino;San Marino;Europe;33931;Italian;Torta Tre Monti;Pasta e Piselli, Nidi di Rondine, Capon Magro;White, Blue;;Basilica di San Marino, Guaita Tower, Mount Titano
+ST;Sao Tome and Principe;Sao Tome;Africa;211028;Portuguese;Calulu;Peixe Seco, Tété, Santoméan Chocolate;Green, Yellow, Black;;Obo National Park, Praia Jale, Roca Belo Monte
+SA;Saudi Arabia;Riyadh;Asia;34813871;Arabic;Kabsa;Harees, Mutabbaq, Shawarma;Green;;Mecca, Al-Masjid an-Nabawi, Red Sands
+SN;Senegal;Dakar;Africa;16743927;French;Thieboudienne;Yassa, Mafé, Ceebu Jen;Green, Yellow, Red;;Goree Island, Pink Lake, Niokolo-Koba National Park
+RS;Serbia;Belgrade;Europe;6804596;Serbian;Ćevapi;Sarma, Kajmak, Prebranac;Red, Blue, White;;Belgrade Fortress, Studenica Monastery, Niš Fortress
+SC;Seychelles;Victoria;Africa;98347;Seychellois Creole, English, French;Octopus Curry;Ladob, Sausage Rougay, Kat-Kat Banane;Blue, Yellow, Red;;Anse Source d'Argent, Vallée de Mai, Aldabra Atoll
+SL;Sierra Leone;Freetown;Africa;7976983;English;Cassava Leaves and Groundnut Soup;Rice Bread, Akara, Plasas;Green, White, Blue;;Bunce Island, Tacugama Chimpanzee Sanctuary, Banana Islands
+SG;Singapore;Singapore;Asia;5703600;English, Malay, Mandarin, Tamil;Hainanese Chicken Rice;Char Kway Teow, Laksa, Satay;Red, White;;Marina Bay Sands, Gardens by the Bay, Sentosa Island
+SK;Slovakia;Bratislava;Europe;5450423;Slovak;Bryndzové Halušky;Kapustnica, Zemiakové Placky, Trdelník;White, Blue, Red;;Bratislava Castle, High Tatras, Devin Castle
+SI;Slovenia;Ljubljana;Europe;2073894;Slovene;Potica;Kranjska Klobasa, Ajdovi Žganci, Burek;White, Blue;;Lake Bled, Postojna Cave, Predjama Castle
+SB;Solomon Islands;Honiara;Oceania;686884;English;Fish Curry;Bilum, Tuluk, Kakamora;Blue, Yellow, Green;;Honiara Central Market, Marovo Lagoon, Guadalcanal
+SO;Somalia;Mogadishu;Africa;15893222;Somali, Arabic;Sambuusa;Bariis, Canjeero, Muufo;Blue, White;;Laas Geel, Liido Beach, Mogadishu Cathedral
+ZA;South Africa;Pretoria;Africa;59308690;Afrikaans, English, Zulu;Braaivleis;Bobotie, Bunny Chow, Malva Pudding;Black, Green, Yellow, Red, Blue, White;;Table Mountain, Kruger National Park, Robben Island
+SS;South Sudan;Juba;Africa;11193725;English;Asida;Bamia, Kisra, Fasoulia;Black, Red, Green, Blue, White;;Boma National Park, Bahr el Ghazal, Nimule National Park
+ES;Spain;Madrid;Europe;46934632;Spanish;Paella;Tapas, Gazpacho, Churros;Red, Yellow;;Sagrada Familia, Park Güell, Alhambra
+LK;Sri Lanka;Colombo;Asia;21803000;Sinhala, Tamil;Rice and Curry;Kottu, Hoppers, Lamprais;Orange, Green, Yellow;;Sigiriya, Yala National Park, Temple of the Tooth
+SD;Sudan;Khartoum;Africa;43849269;Arabic, English;Ful Medames;Kisra, Aseeda, Shai;Red, White, Black, Green;;Pyramids of Meroe, Nile River, Nubian Desert
+SR;Suriname;Paramaribo;South America;586634;Dutch;Roti;Bami, Pom, Moksie Alesie;Green, White, Gold;;Central Suriname Nature Reserve, Galibi Nature Reserve, Fort Zeelandia
+SZ;Eswatini;Mbabane;Africa;1160164;Swazi, English;Uphaphetjane;Sishwala, Umncweba, Emasi;Blue, Yellow, Red;;Mlilwane Wildlife Sanctuary, Mantenga Cultural Village, Mkhaya Game Reserve
+SE;Sweden;Stockholm;Europe;10365705;Swedish;Köttbullar;Smörgåsbord, Raggmunk, Gravlax;Blue, Yellow;;Stockholm Archipelago, Icehotel, Vasa Museum
+CH;Switzerland;Bern;Europe;8715492;German, French, Italian, Romansh;Fondue;Raclette, Rösti, Zürcher Eintopf;Red, White;;Matterhorn, Swiss Alps, Lake Geneva
+SY;Syria;Damascus;Asia;17500658;Arabic;Kebab;Hummus, Falafel, Baklava;Red, White, Black;;Umayyad Mosque, Krak des Chevaliers, Palmyra
+TW;Taiwan;Taipei;Asia;23508428;Mandarin;Beef Noodle Soup;Bubble Tea, Xiaolongbao, Oyster Omelette;Blue, White, Red;;Taipei 101, Taroko Gorge, Jiufen Old Street
+TJ;Tajikistan;Dushanbe;Asia;9537645;Tajik, Russian;Plov;Qurutob, Sambusa, Mantu;Red, White, Green;;Pamir Mountains, Iskanderkul Lake, Fann Mountains
+TZ;Tanzania;Dodoma;Africa;59734218;Swahili, English;Ugali;Nyama Choma, Pilau, Zanzibar Mix;Green, Black, Blue, Yellow;;Mount Kilimanjaro, Serengeti National Park, Ngorongoro Crater
+TH;Thailand;Bangkok;Asia;69799978;Thai;Pad Thai;Tom Yum Goong, Som Tum, Green Curry;Red, White, Blue;;Grand Palace, Ayutthaya Historical Park, Phi Phi Islands
+TL;Timor-Leste;Dili;Asia;1318445;Tetum, Portuguese;Ikan Sabuko;Batar Da'an, Tukir, Malu Sotu;Black, Red, Yellow;;Tasi Tolu, Atauro Island, Jaco Island
+TG;Togo;Lome;Africa;8278737;French;Fufu;Akpan, Koklo, Kuli Kuli;Green, Yellow, Red;;Koutammakou, Tamberma Valley, Fazao-Malfakassa National Park
+TO;Tonga;Nuku'alofa;Oceania;105695;Tongan, English;Lu Sipi;'Ota Ika, Faikakai, 'Otai;Red, White;;Ha'amonga 'a Maui Trilithon, 'Ene'io Botanical Garden, Hufangalupe Natural Land Bridge
+TT;Trinidad and Tobago;Port of Spain;North America;1399488;English;Roti;Callaloo, Doubles, Pelau;Red, Black, White;;Maracas Bay, Pitch Lake, Buccoo Reef
+TN;Tunisia;Tunis;Africa;11818619;Arabic;Couscous;Brik, Mechouia, Lablabi;Red, White;;Carthage, Medina of Tunis, Dougga
+TR;Turkey;Ankara;Asia, Europe;84339067;Turkish;Kebab;Baklava, Meze, Pide;Red, White;;Hagia Sophia, Cappadocia, Pamukkale
+TM;Turkmenistan;Ashgabat;Asia;6031200;Turkmen, Russian;Plov;Shashlik, Dograma, Chal;Green, White;;Darvaza Gas Crater, Nisa Archaeological Site, Ashgabat Arch of Neutrality
+TV;Tuvalu;Funafuti;Oceania;11792;Tuvaluan, English;Fatu;Pulaka, Tuna, Uga;Light Blue, Yellow;;Funafuti Conservation Area, Fongafale Islet, Nanumea
+UG;Uganda;Kampala;Africa;45741007;English, Swahili;Matoke;Posho, Luwombo, Rolex;Black, Yellow, Red;;Bwindi Impenetrable National Park, Murchison Falls, Lake Victoria
+UA;Ukraine;Kyiv;Europe;43733762;Ukrainian;Borscht;Varenyky, Holubtsi, Syrniki;Blue, Yellow;;Kyiv Pechersk Lavra, Lviv Old Town, Carpathian Mountains
+AE;United Arab Emirates;Abu Dhabi;Asia;9365000;Arabic;Al Harees;Mandi, Machbous, Al Majboos;Green, White, Black, Red;;Burj Khalifa, Sheikh Zayed Grand Mosque, Palm Jumeirah
+GB;United Kingdom;London;Europe;67886004;English;Fish and Chips;Full English Breakfast, Shepherd's Pie, Roast Dinner;Red, White, Blue;;Big Ben, Buckingham Palace, Stonehenge
+US;United States;Washington, D.C.;North America;331002651;English;Hamburger;Hot Dog, Pizza, Apple Pie;Red, White, Blue;;Statue of Liberty, Grand Canyon, Times Square
+UY;Uruguay;Montevideo;South America;3473730;Spanish;Asado;Chivito, Milanesa, Empanadas;White, Blue;;Montevideo's Rambla, Punta del Este, Colonia del Sacramento
+UZ;Uzbekistan;Tashkent;Asia;33469203;Uzbek, Karakalpak, Russian;Plov;Lagman, Shashlik, Chuchvara;Blue, White, Green;;Registan Square, Bukhara's Old City, Samarkand's Silk Road Monuments
+VU;Vanuatu;Port Vila;Oceania;307145;Bislama, English, French;Lap Lap;Palusami, Tuluk, Nalot;Red, Green, Black;;Mount Yasur, Port Olry, Champagne Beach
+VE;Venezuela;Caracas;South America;28435943;Spanish;Arepa;Pabellón Criollo, Cachapa, Tequeños;Yellow, Blue, Red;;Angel Falls, Morrocoy National Park, Roraima Tepui
+VN;Vietnam;Hanoi;Asia;97338579;Vietnamese;Pho;Bánh Mì, Gỏi Cuốn, Cà Phê Sữa Đá;Red;;Ha Long Bay, Hoi An Ancient Town, Cu Chi Tunnels
+YE;Yemen;Sanaa;Asia;29825968;Arabic;Saltah;Bint Al-Sahn, Fasulia, Malawah;Red, White, Black;;Old City of Sana'a, Socotra Island, Shibam Hadhramaut
+ZM;Zambia;Lusaka;Africa;18383955;English;Nshima;Biltong, Ifisashi, Chikanda;Green, Black, Orange;;Victoria Falls, Lower Zambezi National Park, South Luangwa National Park
+ZW;Zimbabwe;Harare;Africa;14862924;English, Shona, Sindebele;Sadza;Bota, Muriwo, Kapenta;Green, Yellow, Red, Black, White;;Great Zimbabwe, Victoria Falls, Matobo Hills

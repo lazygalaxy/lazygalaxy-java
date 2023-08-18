@@ -1,4 +1,4 @@
-package com.lazygalaxy.game.util;
+package com.lazygalaxy.common.util;
 
 import org.apache.commons.lang3.StringUtils;
 
@@ -17,7 +17,7 @@ public class SetUtil {
 
             for (String value : values) {
                 if (!StringUtils.isBlank(value)) {
-                    valueSet.add(value);
+                    valueSet.add(value.trim());
                 }
             }
         }
@@ -35,7 +35,7 @@ public class SetUtil {
 
             for (String value : values) {
                 if (!StringUtils.isBlank(value) && !valueList.contains(value)) {
-                    valueList.add(value);
+                    valueList.add(value.trim());
                 }
             }
         }
