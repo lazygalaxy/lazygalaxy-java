@@ -4,7 +4,6 @@ import com.google.common.collect.Lists;
 import com.lazygalaxy.game.Constant;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.util.GameUtil;
-import com.lazygalaxy.game.util.SetUtil;
 import com.mongodb.client.model.Filters;
 import com.mongodb.client.model.Sorts;
 import org.apache.commons.lang3.StringUtils;

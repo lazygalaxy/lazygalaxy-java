@@ -2,14 +2,29 @@ package com.lazygalaxy.common.util;
 
 import org.apache.commons.lang3.StringUtils;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Set;
-import java.util.TreeSet;
+import java.util.*;
 
 public class SetUtil {
 
-    public static Set<String> addValueToTreeSet(Set<String> valueSet, String... values) {
+    public static LinkedHashSet<String> addValueToExactSet(LinkedHashSet<String> valueSet, String... values) {
+        if (values != null && values.length > 0) {
+            if (valueSet == null) {
+                valueSet = new LinkedHashSet<String>();
+            }
+
+            for (String value : values) {
+                if (!StringUtils.isBlank(value)) {
+                    valueSet.add(value.trim());
+                }
+            }
+        }
+        if (valueSet.size() > 0) {
+            return valueSet;
+        }
+        return null;
+    }
+
+    public static Set<String> addValueToSortedSet(Set<String> valueSet, String... values) {
         if (values != null && values.length > 0) {
             if (valueSet == null) {
                 valueSet = new TreeSet<String>();

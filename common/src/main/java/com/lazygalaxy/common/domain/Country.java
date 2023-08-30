@@ -2,27 +2,29 @@ package com.lazygalaxy.common.domain;
 
 import com.lazygalaxy.engine.domain.MongoDocument;
 
-import java.util.Set;
+import java.util.LinkedHashSet;
 
 public class Country extends MongoDocument {
     public static final String DATABASE = "common";
 
     public String iso2;
     public String iso3;
-    public String capital;
 
+    public boolean include;
+    public String nationality;
+    public String capital;
     public String continent;
     public int population;
-
-    public Set<String> languages;
+    public LinkedHashSet<String> languages;
+    public boolean conservativeDressCode;
 
     public String nationalDish;
 
-    public Set<String> topDishes;
+    public LinkedHashSet<String> topDishes;
 
-    public Set<String> flagColors;
+    public LinkedHashSet<String> flagColors;
 
-    public Set<String> topAttractions;
+    public LinkedHashSet<String> topAttractions;
 
     public String traditionalFemaleClothes;
     public String tribalTatoo;

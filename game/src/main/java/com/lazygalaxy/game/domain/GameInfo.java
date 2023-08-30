@@ -3,7 +3,6 @@ package com.lazygalaxy.game.domain;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.game.Constant.GameSource;
 import com.lazygalaxy.game.util.GameUtil;
-import com.lazygalaxy.game.util.SetUtil;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.builder.EqualsBuilder;
 import org.apache.commons.lang3.builder.HashCodeBuilder;

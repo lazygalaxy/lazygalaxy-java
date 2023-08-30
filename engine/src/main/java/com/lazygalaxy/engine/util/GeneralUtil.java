@@ -47,4 +47,11 @@ public class GeneralUtil {
         }
         return value;
     }
+
+    public static boolean getBoolean(String value) {
+        if (StringUtils.isBlank(value)) {
+            return false;
+        }
+        return value.toUpperCase().charAt(0) == 'T';
+    }
 }

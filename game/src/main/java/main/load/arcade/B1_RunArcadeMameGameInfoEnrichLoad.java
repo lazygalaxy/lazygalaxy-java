@@ -1,5 +1,6 @@
 package main.load.arcade;
 
+import com.lazygalaxy.common.util.SetUtil;
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.XMLLoad;
 import com.lazygalaxy.engine.util.GeneralUtil;
@@ -9,7 +10,6 @@ import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.domain.GameInfo;
 import com.lazygalaxy.game.merge.GameMerge;
 import com.lazygalaxy.game.util.GameUtil;
-import com.lazygalaxy.game.util.SetUtil;
 import com.mongodb.client.model.Filters;
 import org.apache.commons.lang3.RegExUtils;
 import org.apache.commons.lang3.StringUtils;
@@ -126,7 +126,7 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
             List<Game> allGamesToReturn = new ArrayList<Game>();
             allGamesToReturn.add(game);
             if (game.mameGameInfo != null && !StringUtils.equals(game.mameGameInfo.emulatorVersions.iterator().next(), emulatorVersion)) {
-                game.mameGameInfo.emulatorVersions = SetUtil.addValueToTreeSet(game.mameGameInfo.emulatorVersions, emulatorVersion);
+                game.mameGameInfo.emulatorVersions = SetUtil.addValueToSortedSet(game.mameGameInfo.emulatorVersions, emulatorVersion);
                 return allGamesToReturn;
             }
 
@@ -205,7 +205,7 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
                 subSystemId = GameSystem.TRIFORCE;
             }
 
-            game.mameGameInfo = new GameInfo(gameId, subSystemId, originalName, year, players, manufacturers, game.mameGameInfo != null ? SetUtil.addValueToTreeSet(game.mameGameInfo.emulatorVersions, emulatorVersion) : SetUtil.addValueToTreeSet(null, emulatorVersion), isVertical, inputs,
+            game.mameGameInfo = new GameInfo(gameId, subSystemId, originalName, year, players, manufacturers, game.mameGameInfo != null ? SetUtil.addValueToSortedSet(game.mameGameInfo.emulatorVersions, emulatorVersion) : SetUtil.addValueToSortedSet(null, emulatorVersion), isVertical, inputs,
                     ways, buttons, status, isGuess);
             GameUtil.pretifyName(game.mameGameInfo);
 
@@ -221,19 +221,19 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
             if (!StringUtils.isBlank(cloneOf)) {
                 // if this game is a clone of another game, we need to set all the family specific information
                 String cloneOfGameId = GeneralUtil.alphanumerify(cloneOf);
-                game.family = SetUtil.addValueToTreeSet(game.family, cloneOfGameId);
+                game.family = SetUtil.addValueToSortedSet(game.family, cloneOfGameId);
 
                 List<Game> familyGames = GameUtil.getGames(false, false, null, null,
                         Filters.in("systemId", GameSystem.MAME), Filters.in("family", game.family.remove(game.gameId)));
                 if (familyGames != null) {
                     for (Game familyGame : familyGames) {
-                        familyGame.family = SetUtil.addValueToTreeSet(familyGame.family, game.gameId);
-                        game.family = SetUtil.addValueToTreeSet(game.family, familyGame.gameId);
+                        familyGame.family = SetUtil.addValueToSortedSet(familyGame.family, game.gameId);
+                        game.family = SetUtil.addValueToSortedSet(game.family, familyGame.gameId);
                         allGamesToReturn.add(familyGame);
                     }
                 }
             }
-            game.family = SetUtil.addValueToTreeSet(game.family, game.gameId);
+            game.family = SetUtil.addValueToSortedSet(game.family, game.gameId);
             return allGamesToReturn;
         }
     }

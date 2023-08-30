@@ -17,7 +17,7 @@ public class RunCountryInfoCSVLoad {
 
     public static void main(String[] args) throws Exception {
         try {
-            new CountryCSVLoad().load("csv/country_info.csv", 1, ";", null);
+            new CountryCSVLoad().load("csv/country_info.tsv", 1, "\t", null);
             LOGGER.info("csv load completed!");
         } finally {
             MongoConnectionHelper.INSTANCE.close();
@@ -33,20 +33,23 @@ public class RunCountryInfoCSVLoad {
         @Override
         protected List<Country> getMongoDocument(String[] tokens) throws Exception {
             String iso2 = tokens[0].toLowerCase();
-            Country game = MongoHelper.getHelper(Country.class).getDocumentById(iso2);
-            if (game != null) {
+            Country country = MongoHelper.getHelper(Country.class).getDocumentById(iso2);
+            if (country != null) {
 
-                game.labels.add(tokens[1].toLowerCase());
-                game.capital = GeneralUtil.getString(tokens[2]);
-                game.continent = GeneralUtil.getString(tokens[3]);
-                game.population = Integer.parseInt(tokens[4]);
-                game.languages = SetUtil.addValueToTreeSet(game.languages, tokens[5].split(","));
-                game.nationalDish = GeneralUtil.getString(tokens[6]);
-                game.topDishes = SetUtil.addValueToTreeSet(game.topDishes, tokens[7].split(","));
-                game.flagColors = SetUtil.addValueToTreeSet(game.flagColors, tokens[8].split(","));
-                game.topAttractions = SetUtil.addValueToTreeSet(game.topAttractions, tokens[9].split(","));
+                country.include = GeneralUtil.getBoolean(tokens[1]);
+                country.labels.add(tokens[2].toLowerCase());
+                country.nationality = GeneralUtil.getString(tokens[3]);
+                country.capital = GeneralUtil.getString(tokens[4]);
+                country.continent = GeneralUtil.getString(tokens[5]);
+                country.population = Integer.parseInt(tokens[6]);
+                country.languages = SetUtil.addValueToExactSet(country.languages, tokens[7].split(","));
+                country.conservativeDressCode = GeneralUtil.getBoolean(tokens[8]);
+                country.nationalDish = GeneralUtil.getString(tokens[9]);
+                country.topDishes = SetUtil.addValueToExactSet(country.topDishes, tokens[10].split(","));
+                country.flagColors = SetUtil.addValueToExactSet(country.flagColors, tokens[11].split(","));
+                country.topAttractions = SetUtil.addValueToExactSet(country.topAttractions, tokens[12].split(","));
 
-                return Arrays.asList(game);
+                return Arrays.asList(country);
             }
             LOGGER.error(iso2 + " not found");
             return null;
