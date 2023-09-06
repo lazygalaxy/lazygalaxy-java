@@ -9,13 +9,12 @@ AI	FALSE	Anguilla	Anguillan	The Valley	North America	13452	English	FALSE	Cracked
 AG	TRUE	Antigua and Barbuda	Antiguan, Barbudan	St. John's	North America	86295	English	FALSE	Fungee and Pepperpot	Ducana, Pepperpot, Conch	Red, Blue, White	Shirley Heights, Antigua's beaches, Nelson's Dockyard
 AR	TRUE	Argentina	Argentinian	Buenos Aires	South America	43590400	Spanish	FALSE	Asado	Milanesa, Empanada, Choripán	Blue, White	Iguazu Falls, Perito Moreno Glacier, Tierra del Fuego
 AM	TRUE	Armenia	Armenian	Yerevan	Asia	2930450	Armenian	FALSE	Khorovats	Dolma, Lavash, Harisa	Red, Blue, Orange	Tatev Monastery, Lake Sevan, Geghard Monastery
-AZ	TRUE	Azerbaijan	Azerbaijani	Baku	Asia	10067108	Azerbaijani	TRUE	Plov	Dolma, Kebab, Lavash	Blue, Red, Green	Icherisheher, Gobustan National Park, Heydar Aliyev Center
 AU	TRUE	Australia	Australian	Canberra	Oceania	25649909	English	FALSE	Meat Pie	Vegemite, Tim Tam, Barramundi	Blue, Red	Sydney Opera House, Great Barrier Reef, Uluru
 AT	TRUE	Austria	Austrian	Vienna	Europe	8915815	German	FALSE	Wiener Schnitzel	Sachertorte, Apfelstrudel, Knödel	Red, White	Schönbrunn Palace, Mirabell Palace, Hofburg Palace
-BH	TRUE	Bahrain	Bahraini	Manama	Asia	1543300	Arabic	TRUE	Machboos	Kabsa, Samboosa, Balaleet	Red, White	Qal'at al-Bahrain, Al Fateh Grand Mosque, Bahrain National Museum
+AZ	TRUE	Azerbaijan	Azerbaijani	Baku	Asia	10067108	Azerbaijani	TRUE	Plov	Dolma, Kebab, Lavash	Blue, Red, Green	Icherisheher, Gobustan National Park, Heydar Aliyev Center
 BS	TRUE	Bahamas	Bahamian	Nassau	North America	386870	English	FALSE	Conch Salad	Cracked Conch, Johnnycake, Fish Fry	Blue, Yellow, Black	Pig Beach, Atlantis Paradise Island, Exuma Cays Land and Sea Park
+BH	TRUE	Bahrain	Bahraini	Manama	Asia	1543300	Arabic	TRUE	Machboos	Kabsa, Samboosa, Balaleet	Red, White	Qal'at al-Bahrain, Al Fateh Grand Mosque, Bahrain National Museum
 BD	TRUE	Bangladesh	Bangladeshi	Dhaka	Asia	161356039	Bengali	TRUE	Biryani	Panta Bhat, Fuchka, Bhapa Pitha	Green, Red	Srimangal Tea Gardens, Sundarbans, Cox's Bazar
-BN	TRUE	Brunei	Bruneian	Bandar Seri Begawan	Asia	421300	Malay	TRUE	Ambuyat	Satar, Kuih Cincin, Lamban	Yellow, White, Black	Sultan Omar Ali Saifuddin Mosque, Ulu Temburong National Park, Kampong Ayer
 BB	TRUE	Barbados	Barbadian	Bridgetown	North America	285000	English	FALSE	Cou Cou and Flying Fish	Pudding and Souse, Macaroni Pie, Conkies	Blue, Yellow, Black	Harrison's Cave, Bathsheba, Barbados Wildlife Reserve
 BY	TRUE	Belarus	Belarusian	Minsk	Europe	9500000	Belarusian, Russian	FALSE	Drachona	Draniki, Kolduny, Solyanka	Red, Green, White	Mir Castle, Brest Fortress, Nesvizh Castle
 BE	TRUE	Belgium	Belgian	Brussels	Europe	11589623	Dutch, French, German	FALSE	Moules-frites	Waffles, Speculoos, Chocolates	Black, Yellow, Red	Bruges Canals, Grand Place, Atomium
@@ -29,7 +28,7 @@ BW	TRUE	Botswana	Botswana	Gaborone	Africa	2141206	English, Tswana	FALSE	Seswaa	V
 BR	TRUE	Brazil	Brazilian	Brasília	South America	209288278	Portuguese	FALSE	Feijoada	Brigadeiro, Coxinha, Açaí Bowl	Green, Yellow, Blue	Amazon Rainforest, Christ the Redeemer, Iguazu Falls
 IO	FALSE	British Indian Ocean Territory	British	Diego Garcia	Africa	3000	English	FALSE	Fish Curry	Coconut Sambol, Papadum, Faldas	Blue, White, Red	Diego Garcia Atoll, Bioluminescent Beaches, Shipwrecks
 VG	FALSE	British Virgin Islands	British Virgin Islander	Road Town	North America	30030	English	FALSE	Fish and Fungi	Conch, Roti, Johnny Cakes	Blue, White	The Baths, Anegada Beaches, Cane Garden Bay
-KM	TRUE	Comoros	Comorian	Moroni	Africa	806153	Arabic, French, Comorian	TRUE	Langouste a la Vanille	Brochettes, Pilao, Mataba	Green, Yellow, Red	Mount Karthala, Chomoni Beach, Grande Comore
+BN	TRUE	Brunei	Bruneian	Bandar Seri Begawan	Asia	421300	Malay	TRUE	Ambuyat	Satar, Kuih Cincin, Lamban	Yellow, White, Black	Sultan Omar Ali Saifuddin Mosque, Ulu Temburong National Park, Kampong Ayer
 BG	TRUE	Bulgaria	Bulgarian	Sofia	Europe	7000039	Bulgarian	FALSE	Banitsa	Kavarma, Kufte, Musaka	White, Green, Red	Rila Monastery, Plovdiv Old Town, Seven Rila Lakes
 BF	TRUE	Burkina Faso	Burkinabe	Ouagadougou	Africa	19034397	French, Moré	FALSE	Riz Gras	Tô, Brochettes, Fufu	Red, Green, Yellow	Loropeni Ruins, Bangr Weogo Park, Sindou Peaks
 BI	TRUE	Burundi	Burundian	Bujumbura	Africa	10114505	Kirundi, French, English	FALSE	Brochettes	Ugali, Fufu, Ibihaza	Red, Green, White	Karera Waterfalls, Rusizi National Park, Kibira National Park
@@ -43,23 +42,23 @@ TD	TRUE	Chad	Chadian	N'Djamena	Africa	14497000	Arabic, French	FALSE	Boule	Broche
 CL	TRUE	Chile	Chilean	Santiago	South America	18191900	Spanish	FALSE	Empanada	Cazuela, Curanto, Completo	Red, White, Blue	Easter Island, Torres del Paine National Park, Atacama Desert
 CN	TRUE	China	Chinese	Beijing	Asia	1403500365	Mandarin	FALSE	Peking Duck	Hot Pot, Dumplings, Mapo Tofu	Red, Yellow	Great Wall of China, Forbidden City, Terracotta Army
 CO	TRUE	Colombia	Colombian	Bogotá	South America	50882891	Spanish	FALSE	Bandeja Paisa	Arepa, Ajiaco, Lechona	Yellow, Blue, Red	Cartagena Old Town, Cocora Valley, Tayrona National Park
-DJ	TRUE	Djibouti	Djiboutian	Djibouti	Africa	958920	Arabic, French	TRUE	Skoudehkaris	Lahoh, Fah-fah, Sabayad	Light Blue, Green, White	Lake Assal, Moucha Island, Day Forest National Park
+KM	TRUE	Comoros	Comorian	Moroni	Africa	806153	Arabic, French, Comorian	FALSE	Langouste a la Vanille	Brochettes, Pilao, Mataba	Green, Yellow, Red	Mount Karthala, Chomoni Beach, Grande Comore
 CG	TRUE	Congo	Congolese	Brazzaville	Africa	5399895	French	FALSE	Poulet Moambé	Foutou, Ntaba, Makayabu	Green, Yellow, Red	Pointe Noire's Beaches, Lesio Louna Gorilla Reserve, Basilique Sainte-Anne
 CD	TRUE	Congo-Kinshasa	Congolese	Kinshasa	Africa	85026000	French, Lingala, Swahili	FALSE	Fufu	Chikwanga, Pondu, Liboke	Blue, Yellow, Red	Virunga National Park, Garamba National Park, Salonga National Park
 CK	FALSE	Cook Islands	Cook Islander	Avarua	Oceania	18100	English, Cook Islands Maori	FALSE	Ika Mata	Rukau, Eke, Rori	Blue, White, Red, Union Jack	Aitutaki Lagoon, Te Vara Nui Village, Tapuaetai
 CR	TRUE	Costa Rica	Costa Rican	San José	North America	4999441	Spanish	FALSE	Gallo Pinto	Ceviche, Olla de Carne, Casado	Blue, White, Red	Arenal Volcano, Manuel Antonio National Park, Monteverde Cloud Forest
+CI	TRUE	Cote d`Ivoire	Ivorian	Yamoussoukro	Africa	25716544	French	FALSE	Attieké	Garba, Aloko, Irio	Orange, White, Green	Basilica of Our Lady of Peace, Tai National Park, Banco National Park
 HR	TRUE	Croatia	Croatian	Zagreb	Europe	4105267	Croatian	FALSE	Peka	Ispod Peke, Crni Rizot, Sarma	Red, White, Blue	Dubrovnik Old Town, Plitvice Lakes National Park, Diocletian's Palace
 CU	TRUE	Cuba	Cuban	Havana	North America	11239004	Spanish	FALSE	Ropa Vieja	Moros y Cristianos, Tostones, Yuca con Mojo	Blue, White, Red	Havana Old Town, Viñales Valley, Trinidad's Historic Centre
 CW	FALSE	Curaçao	Curaçaoan	Willemstad	North America	160012	Dutch, Papiamento	FALSE	Stoba	Keshi Yena, Arepa, Ayaka	Blue, Yellow, Red	Willemstad's Historic Area, Shete Boka National Park, Christoffel National Park
 CY	TRUE	Cyprus	Cypriot	Nicosia	Europe	864200	Greek, Turkish	FALSE	Meze	Kleftiko, Loukoumades, Souvlaki	White, Yellow	Aphrodite's Rock, Kourion, St. Hilarion Castle
 CZ	TRUE	Czech Republic	Czech	Prague	Europe	10649800	Czech	FALSE	Svíčková	Trdelník, Smažený Sýr, Bramboráky	White, Red, Blue	Prague Castle, Cesky Krumlov, Charles Bridge
 DK	TRUE	Denmark	Danish	Copenhagen	Europe	5764980	Danish	FALSE	Smørrebrød	Flæskesteg, Frikadeller, Æbleskiver	Red, White	Tivoli Gardens, Kronborg Castle, The Little Mermaid
-EG	TRUE	Egypt	Egyptian	Cairo	Africa	91207000	Arabic	TRUE	Koshari	Falafel, Shawarma, Ful Medames	Red, White, Black	Pyramids of Giza, Abu Simbel, Karnak Temple
+DJ	TRUE	Djibouti	Djiboutian	Djibouti	Africa	958920	Arabic, French	FALSE	Skoudehkaris	Lahoh, Fah-fah, Sabayad	Light Blue, Green, White	Lake Assal, Moucha Island, Day Forest National Park
 DM	TRUE	Dominica	Dominican	Roseau	North America	71293	English	FALSE	Mountain Chicken	Callaloo, Titiwi, Green Banana and Saltfish	Green, Yellow, Black	Boiling Lake, Trafalgar Falls, Champagne Reef
 DO	TRUE	Dominican Republic	Dominican	Santo Domingo	North America	10738869	Spanish	FALSE	La Bandera	Mangú, Sancocho, Tostones	White, Blue, Red	Punta Cana Beaches, Los Haitises National Park, Santo Domingo Colonial Zone
-TL	TRUE	East Timor	East Timorese	Dili	Asia	1296311	Tetum, Portuguese, English	FALSE	Batar Daan	Bacalhau a Bras, Xirang, Tukir	Red, Yellow, Black	Christo Rei of Dili, Atauro Island, Tais Market
 EC	TRUE	Ecuador	Ecuadorian	Quito	South America	16385068	Spanish	FALSE	Ceviche	Locro de Papa, Llapingachos, Encocado	Yellow, Blue, Red	Galapagos Islands, Amazon Rainforest, Cotopaxi National Park
-GM	TRUE	Gambia	Gambian	Banjul	Africa	2347706	English	TRUE	Benachin	Yassa, Domoda, Ebbeh	Red, Blue, Green, White	Makasutu Culture Forest, Abuko Nature Reserve, Kunta Kinteh Island
+EG	TRUE	Egypt	Egyptian	Cairo	Africa	91207000	Arabic	TRUE	Koshari	Falafel, Shawarma, Ful Medames	Red, White, Black	Pyramids of Giza, Abu Simbel, Karnak Temple
 SV	TRUE	El Salvador	Salvadoran	San Salvador	North America	6704864	Spanish	FALSE	Pupusa	Sopa de Pata, Yuca con Chicharrón, Tamales	Blue, White	Santa Ana Volcano, Joya de Cerén, Ruta de las Flores
 EN	TRUE	England	English	London	Europe	67886004	English	FALSE	Fish and Chips	Full English Breakfast, Shepard's Pies, Afternoon Tea	Red, White, Blue	Buckingham Palace, Tower of London, Big Ben
 GQ	TRUE	Equatorial Guinea	Equatorial Guinean	Malabo	Africa	1308974	Spanish, French, Portuguese	FALSE	Poulet DG	Succotash, Ebèlè, Miébé	Green, White, Red	Bioko Island, Monte Alén National Park, Annobón Island
@@ -75,7 +74,7 @@ FR	TRUE	France	French	Paris	Europe	67186614	French	FALSE	Pot-au-Feu	Coq au Vin, 
 GF	FALSE	French Guiana	French Guianese	Cayenne	South America	290691	French	FALSE	Sautéed Shrimp	Kassave, Acoupa, Blaff	Blue, White, Red	Îles du Salut, Kaw Swamp, Devil's Island
 PF	TRUE	French Polynesia	French Polynesian	Papeete	Oceania	280208	French, Tahitian	FALSE	Poisson Cru	Firi Firi, I'a Ota, E'ia Ota	Blue	Bora Bora, Tahiti's Waterfalls, Rangiroa Atoll
 GA	TRUE	Gabon	Gabonese	Libreville	Africa	2067561	French	FALSE	Nyembwe	Poisson Fumé, Poulet Nyembwe, Kamba	Green, Yellow, Blue	Loango National Park, Lopé National Park, Pongara National Park
-GN	TRUE	Guinea	Guinean	Conakry	Africa	12771246	French	TRUE	Thiéboudienne	Bouilli, Yétissé, Fouti	Red, Yellow, Green	Conakry Grand Mosque, Mount Nimba, Îles de Los
+GM	TRUE	Gambia	Gambian	Banjul	Africa	2347706	English	FALSE	Benachin	Yassa, Domoda, Ebbeh	Red, Blue, Green, White	Makasutu Culture Forest, Abuko Nature Reserve, Kunta Kinteh Island
 GE	TRUE	Georgia	Georgian	Tbilisi	Asia	3726549	Georgian	FALSE	Khachapuri	Khinkali, Lobio, Churchkhela	White, Red	Tbilisi Old Town, Svetitskhoveli Cathedral, Uplistsikhe
 DE	TRUE	Germany	German	Berlin	Europe	83149300	German	FALSE	Currywurst	Bratwurst, Sauerkraut, Pretzels	Black, Red, Gold	Neuschwanstein Castle, Cologne Cathedral, Brandenburg Gate
 GH	TRUE	Ghana	Ghanaian	Accra	Africa	30280811	English	FALSE	Jollof Rice	Banku, Kelewele, Waakye	Red, Yellow, Green, Black	Kakum National Park, Cape Coast Castle, Mole National Park
@@ -87,7 +86,7 @@ GP	FALSE	Guadeloupe	Guadeloupean	Basse-Terre	North America	400132	French, Creole
 GU	TRUE	Guam	Guamanian	Hagåtña	Oceania	167294	English, Chamorro	FALSE	Red Rice	Kelaguen, Kadon Pika, Chicken Estufao	Blue, White	Two Lovers Point, Ritidian Point, Tumon Beach
 GT	TRUE	Guatemala	Guatemalan	Guatemala City	North America	16858333	Spanish	FALSE	Pepián	Chuchitos, Rellenitos, Tamales	Blue, White	Tikal, Antigua Guatemala, Lake Atitlán
 GG	FALSE	Guernsey	Guernsey	St. Peter Port	Europe	62063	English, Guernésiais, French	FALSE	Bean Jar	Gâche Melée, Guernsey Gâche, Fudge	Red, White	Castle Cornet, St. Peter Port's Historic Centre, Shell Beach
-ID	TRUE	Indonesia	Indonesian	Jakarta	Asia	273523615	Indonesian	TRUE	Nasi Goreng	Rendang, Sate, Gado-Gado	Red, White	Bali Beaches, Borobudur, Komodo National Park
+GN	TRUE	Guinea	Guinean	Conakry	Africa	12771246	French	FALSE	Thiéboudienne	Bouilli, Yétissé, Fouti	Red, Yellow, Green	Conakry Grand Mosque, Mount Nimba, Îles de Los
 GW	TRUE	Guinea-Bissau	Guinea-Bissauan	Bissau	Africa	1967998	Portuguese, Crioulo	FALSE	Jollof Rice	Arroz de Amendoim, Funge, Caldo de Peixe	Yellow, Green, Red	Bijagós Islands, Varela, Bolama
 GY	TRUE	Guyana	Guyanese	Georgetown	South America	782766	English	FALSE	Pepperpot	Metemgee, Bake and Saltfish, Cook-up Rice	Green, Yellow, White, Red	Kaieteur Falls, Iwokrama Rainforest, St. George's Cathedral
 HT	TRUE	Haiti	Haitian	Port-au-Prince	North America	11577779	French, Haitian Creole	FALSE	Griyo	Pikliz, Tasso, Lambi	Blue, Red	Labadee Beach, Bassin Bleu, Citadelle Laferrière
@@ -96,29 +95,29 @@ HK	TRUE	Hong Kong	Hong Konger	Victoria	Asia	7484000	Chinese, English	FALSE	Dim S
 HU	TRUE	Hungary	Hungarian	Budapest	Europe	9771000	Hungarian	FALSE	Goulash	Langos, Dobos Torte, Kürtőskalács	Red, White, Green	Buda Castle, Fisherman's Bastion, Széchenyi Thermal Bath
 IS	TRUE	Iceland	Icelandic	Reykjavik	Europe	366425	Icelandic	FALSE	Hangikjöt	Skyr, Plokkfiskur, Hákarl	Blue, White, Red	Vatnajökull Glacier, Golden Circle, Blue Lagoon
 IN	TRUE	India	Indian	New Delhi	Asia	1339180127	Hindi, English	FALSE	Biryani	Masala Dosa, Chaat, Chole Bhature	Saffron, Green, White	Taj Mahal, Varanasi Ghats, Jaipur's Palaces
+ID	TRUE	Indonesia	Indonesian	Jakarta	Asia	273523615	Indonesian	FALSE	Nasi Goreng	Rendang, Sate, Gado-Gado	Red, White	Bali Beaches, Borobudur, Komodo National Park
 IR	TRUE	Iran	Iranian	Tehran	Asia	82913906	Persian	TRUE	Chelo Kebab	Ghormeh Sabzi, Ash Reshteh, Fesenjan	Green, White	Persepolis, Naqsh-e Jahan Square, Golestan Palace
 IQ	TRUE	Iraq	Iraqi	Baghdad	Asia	39339753	Arabic, Kurdish	TRUE	Masgouf	Dolma, Kebab, Samoon	Red, White, Black	Erbil Citadel, Ziggurat of Ur, Babylon
-JO	TRUE	Jordan	Jordanian	Amman	Asia	10101694	Arabic	TRUE	Mansaf	Shawarma, Falafel, Knafeh	Black, White, Green	Petra, Amman Citadel, Wadi Rum
 IE	TRUE	Ireland	Irish	Dublin	Europe	4937786	Irish, English	FALSE	Irish Stew	Boxty, Coddle, Soda Bread	Green, White, Orange	Cliffs of Moher, Dublin Castle, Giant's Causeway
 IM	FALSE	Isle of Man	Manx	Douglas	Europe	83314	English, Manx	FALSE	Kippers	Fadge, Bonnag, Queenies	Red, White, Blue	Snaefell Mountain, Laxey Wheel, Calf of Man
 IL	TRUE	Israel	Israeli	Jerusalem	Asia	8655535	Hebrew, Arabic	FALSE	Hummus	Falafel, Shakshuka, Sabich	Blue, White	Western Wall, Dead Sea, Masada
 IT	TRUE	Italy	Italian	Rome	Europe	60359546	Italian	FALSE	Pizza	Pasta, Gelato, Risotto	Green, White, Red	Venice Canals, Colosseum, Florence's Duomo
-CI	TRUE	Ivory Coast	Ivorian	Yamoussoukro	Africa	25716544	French	FALSE	Attieké	Garba, Aloko, Irio	Orange, White, Green	Basilica of Our Lady of Peace, Tai National Park, Banco National Park
 JM	TRUE	Jamaica	Jamaican	Kingston	North America	2734000	English, Jamaican Patois	FALSE	Jerk Chicken	Ackee and Saltfish, Callaloo, Festival	Black, Green, Yellow	Dunn's River Falls, Blue Lagoon, Bob Marley Museum
 JP	TRUE	Japan	Japanese	Tokyo	Asia	126529100	Japanese	FALSE	Sushi	Ramen, Tempura, Okonomiyaki	Red, White	Mount Fuji, Kyoto Temples, Tokyo Skytree
 JE	FALSE	Jersey		Saint Helier	Europe	108349	English, French, Jèrriais	FALSE			Red, White	Mont Orgueil, Durrell Wildlife Park, Jersey War Tunnels
+JO	TRUE	Jordan	Jordanian	Amman	Asia	10101694	Arabic	TRUE	Mansaf	Shawarma, Falafel, Knafeh	Black, White, Green	Petra, Amman Citadel, Wadi Rum
 KZ	TRUE	Kazakhstan	Kazakh	Nur-Sultan	Asia	18276499	Kazakh, Russian	TRUE	Beshbarmak	Plov, Kuyrdak, Baursak	Blue, Yellow	Charyn Canyon, Lake Kaindy, Mausoleum of Khoja Ahmed Yasawi
-XK	TRUE	Kosovo	Kosovan	Pristina	Europe	1823148	Albanian, Serbian	TRUE	Flija	Burek, Pite, Tavë Kosi	Blue, White	Gračanica Monastery, Rugova Canyon, Bear Sanctuary Mramor
 KE	TRUE	Kenya	Kenyan	Nairobi	Africa	51393010	Swahili, English	FALSE	Ugali	Nyama Choma, Sukuma Wiki, Mandazi	Black, Red, Green	Maasai Mara, Mount Kenya, Amboseli National Park
 KI	TRUE	Kiribati	I-Kiribati	Tarawa	Oceania	120100	English, Kiribati	FALSE	Kakai	Roro, Ei, Te Bakoa	Red, Blue	Christmas Island, Fanning Island, Tarawa Atoll
+XK	TRUE	Kosovo	Kosovan	Pristina	Europe	1823148	Albanian, Serbian	TRUE	Flija	Burek, Pite, Tavë Kosi	Blue, White	Gračanica Monastery, Rugova Canyon, Bear Sanctuary Mramor
 KW	TRUE	Kuwait	Kuwaiti	Kuwait City	Asia	4207083	Arabic	TRUE	Machboos	Harees, Mutabbaq, Quzi	Green, Black, White	Kuwait Towers, Grand Mosque, Al Hamra Tower
 KG	TRUE	Kyrgyzstan	Kyrgyz	Bishkek	Asia	6415851	Kyrgyz, Russian	TRUE	Plov	Laghman, Manti, Beshbarmak	Red, Yellow, Green	Issyk-Kul Lake, Ala-Archa National Park, Burana Tower
-LY	TRUE	Libya	Libyan	Tripoli	Africa	6470956	Arabic	TRUE	Couscous	Harissa, Shorba, Asida	Green, White, Black	Leptis Magna, Acacus Mountains, Red Castle Museum
 LA	TRUE	Laos	Lao	Vientiane	Asia	7061507	Lao	FALSE	Laap	Khao Jee, Ping Kai, Khao Piak Sen	Red, Blue	Kuang Si Falls, Plain of Jars, Luang Prabang Old Town
 LV	TRUE	Latvia	Latvian	Riga	Europe	1906743	Latvian	FALSE	Pīrāgi	Rupjmaize, Rasols, Sklandrausis	Crimson, White	Riga Old Town, Gauja National Park, Jurmala Beaches
 LB	TRUE	Lebanon	Lebanese	Beirut	Asia	6855713	Arabic	FALSE	Kibbeh	Falafel, Shawarma, Tabbouleh	Red, White, Green	Jeita Grotto, Baalbek, Byblos
 LS	TRUE	Lesotho	Basotho	Maseru	Africa	2007201	Sesotho, English	FALSE	Papa and Sauce	Sjambok, Mokoenya, Pone	Blue, White, Green	Maletsunyane Falls, Thaba Bosiu, Ts'ehlanyane National Park
 LR	TRUE	Liberia	Liberian	Monrovia	Africa	4853516	English	FALSE	Jollof Rice	Fufu, Palava Sauce, Potato Greens	Red, White, Blue	Providence Island, CeCe Beach, Sapo National Park
+LY	TRUE	Libya	Libyan	Tripoli	Africa	6470956	Arabic	TRUE	Couscous	Harissa, Shorba, Asida	Green, White, Black	Leptis Magna, Acacus Mountains, Red Castle Museum
 LI	TRUE	Liechtenstein	Liechtensteiner	Vaduz	Europe	38380	German	FALSE	Käsknöpfle	Ribel, Rösti, Nusstorte	Blue, Red	Vaduz Castle, Malbun Ski Resort, Gutenberg Castle
 LT	TRUE	Lithuania	Lithuanian	Vilnius	Europe	2801543	Lithuanian	FALSE	Cepelinai	Kugelis, Balandėliai, Šaltibarščiai	Yellow, Green, Red	Hill of Crosses, Trakai Castle, Curonian Spit
 LU	TRUE	Luxembourg	Luxembourgish	Luxembourg City	Europe	602005	Luxembourgish, French, German	FALSE	Judd mat Gaardebounen	Kniddelen, Bretzels, Quetschentaart	Red, White, Light Blue	Vianden Castle, Bock Casemates, Mullerthal Trail
@@ -126,7 +125,7 @@ MO	TRUE	Macau	Macanese	Macau	Asia	631636	Chinese, Portuguese	FALSE	African Chick
 MG	TRUE	Madagascar	Malagasy	Antananarivo	Africa	26251309	Malagasy, French	FALSE	Ravitoto	Romazava, Akoho sy Voanio, Koba	White, Red, Green	Avenue of the Baobabs, Tsingy de Bemaraha, Nosy Be
 MW	TRUE	Malawi	Malawian	Lilongwe	Africa	18622104	English, Chewa	FALSE	Nsima	Chambo, Mandasi, Zitumbuwa	Black, Red, Green	Lake Malawi, Mount Mulanje, Liwonde National Park
 MY	TRUE	Malaysia	Malaysian	Kuala Lumpur	Asia	31624264	Malay	FALSE	Nasi Lemak	Char Kway Teow, Rendang, Laksa	Red, White, Blue	Georgetown Old Town, Mount Kinabalu, Petronas Twin Towers
-MV	TRUE	Maldives	Maldivian	Malé	Asia	436330	Dhivehi	TRUE	Mas huni	Fihunu Mas, Rihaakuru, Hedhikaa	Red, Green	Ari Atoll, Hulhumalé Beach, Biyadhoo Island
+MV	TRUE	Maldives	Maldivian	Malé	Asia	436330	Dhivehi	FALSE	Mas huni	Fihunu Mas, Rihaakuru, Hedhikaa	Red, Green	Ari Atoll, Hulhumalé Beach, Biyadhoo Island
 ML	TRUE	Mali	Malian	Bamako	Africa	19077690	French	TRUE	Chere	Riz au Gras, To	Green, Yellow, Red	Timbuktu, Dogon Country, Djenné's Mosque
 MT	TRUE	Malta	Maltese	Valletta	Europe	440372	Maltese, English	FALSE	Pastizzi	Fenek, Hobz Biz-Zejt, Qassatat	White, Red	Valletta Old Town, Hypogeum of Hal Saflieni, Blue Grotto
 MH	FALSE	Marshall Islands	Marshallese	Majuro	Oceania	58413	Marshallese, English	FALSE	Jepjep	Kili, Lobster, Bukwe	Blue, White	Majuro Atoll, Bikini Atoll, Laura Beach
@@ -151,12 +150,12 @@ NL	TRUE	Netherlands	Dutch	Amsterdam	Europe	17084719	Dutch	FALSE	Stroopwafel	Bitt
 NC	FALSE	New Caledonia	New Caledonian	Nouméa	Oceania	284060	French	FALSE	Bougna	Bami, Nems, Yams	Blue, Red	Île des Pins, Heart of Voh, Amedee Island
 NZ	TRUE	New Zealand	New Zealander	Wellington	Oceania	4986554	English, Maori	FALSE	Hangi	Pavlova, Kiwi Burger, Whitebait Fritters	Black, White	Bay of Islands, Milford Sound, Tongariro Alpine Crossing
 NI	TRUE	Nicaragua	Nicaraguan	Managua	North America	6545502	Spanish	FALSE	Gallo Pinto	Nacatamal, Indio Viejo, Quesillo	Blue, White	Ometepe Island, Cerro Negro Volcano, Granada's Colonial Architecture
-NE	TRUE	Niger	Nigerien	Niamey	Africa	24206644	French	TRUE	Riz Gras	Kuli Kuli, Wassaké, Damboua	Orange, White, Green	W National Park, Air Mountains, Agadez
+NE	TRUE	Niger	Nigerien	Niamey	Africa	24206644	French	FALSE	Riz Gras	Kuli Kuli, Wassaké, Damboua	Orange, White, Green	W National Park, Air Mountains, Agadez
 NG	TRUE	Nigeria	Nigerian	Abuja	Africa	206139589	English	FALSE	Jollof Rice	Suya, Pounded Yam, Moi Moi	Green, White, Green	Yankari National Park, Zuma Rock, Olumo Rock
 NU	FALSE	Niue	Niuean	Alofi	Oceania	1624	Niuean, English	FALSE	Uga	Poke, Takihi, Ika Mata	Blue, Yellow	Avaiki Cave, Matapa Chasm, Limu Pools
 NF	FALSE	Norfolk Island	Norfolk Islander	Kingston	Oceania	1748	English, Norfuk	FALSE	Potato Scone	Norfolk Ribs, Baunti Biscuits, Banana Stew	Green, White	Kingston and Arthur's Vale Historic Area, Anson Bay, Emily Bay
 KP	TRUE	North Korea	North Korean	Pyongyang	Asia	25778816	Korean	FALSE	Kimchi	Naengmyeon, Japchae, Bulgogi	Red, White, Blue	Kumsusan Palace of the Sun, Juche Tower, Mangyongdae
-MK	TRUE	North Macedonia	Macedonian	Skopje	Europe	2083374	Macedonian	FALSE	Tavče Gravče	Ajvar, Pastrmajlija, Burek	Red, Yellow	Lake Ohrid, Matka Canyon, Skopje Old Bazaar
+MK	TRUE	North Macedonia	North Macedonian	Skopje	Europe	2083374	Macedonian	FALSE	Tavče Gravče	Ajvar, Pastrmajlija, Burek	Red, Yellow	Lake Ohrid, Matka Canyon, Skopje Old Bazaar
 NN	TRUE	Northern Ireland	North Irish	Belfast	Europe	1893667	English	FALSE	Ulster Fry	Pastie Supper, Irish Stew, Wheaten Bread	Red, White	Giant's Causeway, Carrick-a-Rede Rope Bridge, Titanic Belfast
 MP	FALSE	Northern Mariana Islands	Northern Mariana Islander	Saipan	Oceania	51433	English, Chamorro, Carolinian	FALSE	Kadun Pika	Chicken Kelaguen, Apigigi, Buñelos Manglo	Blue, White	Suicide Cliff, Managaha Island, Forbidden Island
 NO	TRUE	Norway	Norwegian	Oslo	Europe	5421241	Norwegian, Sami	FALSE	Rakfisk	Kjøttkaker, Lefse, Raspeballer	Red, White, Blue	Geirangerfjord, Northern Lights, Nidaros Cathedral
@@ -190,10 +189,10 @@ SM	TRUE	San Marino	Sammarinese	City of San Marino	Europe	33938	Italian	FALSE	Cap
 ST	TRUE	São Tomé and Príncipe	São Toméan	São Tomé	Africa	221027	Portuguese	FALSE	Feijoada	Calulu, Mucuza, Búzio	Green, Yellow, Black	Lagoa Azul, Pico Cão Grande, Obo National Park
 SA	TRUE	Saudi Arabia	Saudi Arabian	Riyadh	Asia	35340743	Arabic	TRUE	Kabsa	Mutabbaq, Shawarma, Samboosa	Green	Medina, Mecca, Al-Ula
 SQ	TRUE	Scotland	Scottish	Edinburgh	Europe	5457175	English, Scottish Gaelic	FALSE	Haggis	Cullen Skink, Welsh Cakes, Bara Brith	Blue, White	Isle of Skye, Edinburgh Castle, Loch Ness
-SN	TRUE	Senegal	Senegalese	Dakar	Africa	16743930	French	TRUE	Thieboudienne	Yassa, Mafé, Bissap	Green, Yellow, Red	Gorée Island, Pink Lake, Djoudj National Bird Sanctuary
+SN	TRUE	Senegal	Senegalese	Dakar	Africa	16743930	French	FALSE	Thieboudienne	Yassa, Mafé, Bissap	Green, Yellow, Red	Gorée Island, Pink Lake, Djoudj National Bird Sanctuary
 RS	TRUE	Serbia	Serbian	Belgrade	Europe	6925188	Serbian	FALSE	Ćevapi	Karađorđeva šnicla, Gibanica, Pasulj	Red, Blue, White	Belgrade Fortress, Church of Saint Sava, Tara National Park
 SC	TRUE	Seychelles	Seychellois	Victoria	Africa	98347	Seychellois Creole, English, French	FALSE	Ladob	Octopus Curry, Shark Chutney, Sausage Rougay	Blue, Yellow, Red, White	Vallée de Mai, Anse Lazio, Aldabra Atoll
-SL	TRUE	Sierra Leone	Sierra Leonean	Freetown	Africa	7976985	English	TRUE	Cassava Leaves	Potato Leaves, Okra Soup, Jollof Rice	Green, White, Blue	Outamba-Kilimi National Park, Bunce Island, Tacugama Chimpanzee Sanctuary
+SL	TRUE	Sierra Leone	Sierra Leonean	Freetown	Africa	7976985	English	FALSE	Cassava Leaves	Potato Leaves, Okra Soup, Jollof Rice	Green, White, Blue	Outamba-Kilimi National Park, Bunce Island, Tacugama Chimpanzee Sanctuary
 SG	TRUE	Singapore	Singaporean	Singapore	Asia	5896684	English, Malay, Tamil, Chinese	FALSE	Hainanese Chicken Rice	Laksa, Char Kway Teow, Satay	Red, White	Gardens by the Bay, Sentosa Island, Marina Bay Sands
 SX	FALSE	Sint Maarten	Sint Maartener	Philipsburg	North America	42876	Dutch, English	FALSE	St. Martin's Mahi-Mahi	Johnny Cake, Lolo, Conch Fritters	Red, White, Blue	Maho Beach, Great Bay Beach, Loterie Farm
 SK	TRUE	Slovakia	Slovak	Bratislava	Europe	5459642	Slovak	FALSE	Bryndzové Halušky	Kapustnica, Segedin Goulash, Parenica	White, Blue, Red	Orava Castle, High Tatras, Bratislava Castle
@@ -216,6 +215,7 @@ TW	TRUE	Taiwan	Taiwanese	Taipei	Asia	23415126	Mandarin	FALSE	Beef Noodle Soup	Bu
 TJ	TRUE	Tajikistan	Tajikistani	Dushanbe	Asia	8481855	Tajik	TRUE	Osh	Lagman, Plov, Shurbo	Red, White, Green	Fann Mountains, Iskanderkul Lake, Ismoil Somoni Monument
 TZ	TRUE	Tanzania	Tanzanian	Dodoma	Africa	53771296	Swahili, English	FALSE	Ugali	Pilau, Nyama Choma, Mandazi	Green, Yellow, Blue	Zanzibar, Mount Kilimanjaro, Serengeti National Park
 TH	TRUE	Thailand	Thai	Bangkok	Asia	68297514	Thai	FALSE	Pad Thai	Tom Yum Goong, Som Tum, Massaman Curry	Red, White, Blue	Grand Palace,  Phi Phi Islands, Ayutthaya Historical Park
+TL	TRUE	Timor-Leste	East Timorese	Dili	Asia	1296311	Tetum, Portuguese, English	FALSE	Batar Daan	Bacalhau a Bras, Xirang, Tukir	Red, Yellow, Black	Christo Rei of Dili, Atauro Island, Tais Market
 TG	TRUE	Togo	Togolese	Lomé	Africa	7304578	French	FALSE	Fufu	Akume, Gboma Dessi, Ablo	Green, Yellow, White	Koutammakou, Tamberma Valley, Grand Marche Lome
 TO	TRUE	Tonga	Tongan	Nuku'alofa	Oceania	109008	Tongan, English	FALSE	Ota Ika	Lu Pulu, Otai, 'Ota Ika	Red, White	Ha'atafu Beach, Tongatapu Blowholes, Ha'amonga 'a Maui Trilithon
 TT	TRUE	Trinidad and Tobago	Trinidadian or Tobagonian	Port of Spain	North America	1349667	English	FALSE	Roti	Doubles, Callaloo, Pelau	Red, White, Black	Maracas Bay, Pitch Lake, Caroni Bird Sanctuary
@@ -231,7 +231,7 @@ GB	FALSE	United Kingdom	British	London	Europe	68129869	English	FALSE	Fish and Ch
 US	TRUE	United States	American	Washington, D.C.	North America	331002651	English	FALSE	Hamburger	Hot Dog, Apple Pie, Clam Chowder	Red, White, Blue	Grand Canyon, Statue of Liberty, Times Square
 VI	FALSE	United States Virgin Islands	United States Virgin Islander	Charlotte Amalie	North America	106235	English	FALSE			White, Red	Trunk Bay, Magens Bay, Buck Island
 UY	TRUE	Uruguay	Uruguayan	Montevideo	South America	3473730	Spanish	FALSE	Asado	Chivito, Milanesa, Panchos	White, Blue	Plaza Independencia, Punta del Este, Casapueblo
-UZ	TRUE	Uzbekistan	Uzbek	Tashkent	Asia	33469203	Uzbek	TRUE	Plov	Shashlik, Manti, Lagman	Blue, White, Green	Registan, Samarkand, Aydarkul Lake
+UZ	TRUE	Uzbekistan	Uzbek	Tashkent	Asia	33469203	Uzbek	FALSE	Plov	Shashlik, Manti, Lagman	Blue, White, Green	Registan, Samarkand, Aydarkul Lake
 VU	TRUE	Vanuatu	Ni-Vanuatu	Port Vila	Oceania	307145	Bislama, English, French	FALSE	Lap Lap	Coconut Crab, Tuluk, Nalot	Green, Yellow, Red	Mount Yasur, Champagne Beach, Millennium Cave
 VA	FALSE	Vatican	Vaticanian	Vatican City	Europe	801	Italian, Latin, French	FALSE			White, Gold	St. Peter's Basilica, Vatican Museums, Sistine Chapel
 VE	TRUE	Venezuela	Venezuelan	Caracas	South America	28435943	Spanish	FALSE	Pabellón Criollo	Arepa, Hallaca, Cachapa	Yellow, Blue, Red	Angel Falls, Morrocoy National Park, Roraima

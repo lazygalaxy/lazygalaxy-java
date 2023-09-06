@@ -16,34 +16,32 @@ import java.util.List;
 public class GenerateAnimeByCountry {
 
     private static final Logger LOGGER = LogManager.getLogger(GenerateAnimeByCountry.class);
-    private static final int PAGE_SIZE = 5;
+    private static final int PAGE_SIZE = 10;
 
-    //private static final int PAGE = 8; // did 0 and 8 for no landscapes
-    private static final int PAGE = 39; // ;last one is including 12
+    private static final int PAGE = 0;
 
     public static void main(String[] args) throws Exception {
-        List<Country> countries = MongoHelper.getHelper(Country.class).getDocumentsByFilters(Sorts.ascending("name"), Filters.eq("include", true));
-        //List<Country> countries = MongoHelper.getHelper(Country.class).getDocumentsByFilters(Sorts.ascending("name"), Filters.eq("name", "Angola"));
+        //List<Country> countries = MongoHelper.getHelper(Country.class).getDocumentsByFilters(Sorts.ascending("name"), Filters.eq("include", true));
+        List<Country> countries = MongoHelper.getHelper(Country.class).getDocumentsByFilters(Sorts.ascending("name"), Filters.in("_id", "br", "ca", "eg", "kr", "ar", "en", "tr", "jp", "co", "de"));
         int count = 0;
         for (Country country : countries) {
             if (count++ / PAGE_SIZE == PAGE) {
-                String femalePrompt = getPrompt("anime", "woman", country.name, country.topAttractions.toArray()[0].toString(), country.conservativeDressCode);
+                String femalePrompt = getPrompt("anime", "woman", country.name, country.capital, country.topAttractions.toArray()[0].toString(), country.conservativeDressCode);
                 LOGGER.info(femalePrompt);
                 generate(femalePrompt);
-                String malePrompt = getPrompt("anime", "man", country.name, country.topAttractions.toArray()[1].toString(), country.conservativeDressCode);
-                LOGGER.info(malePrompt);
-                generate(malePrompt);
+                //String malePrompt = getPrompt("anime", "man", country.name, country.capital, country.topAttractions.toArray()[1].toString(), country.conservativeDressCode);
+                //LOGGER.info(malePrompt);
+                //generate(malePrompt);
                 Thread.sleep(10000);
             }
         }
     }
 
-    private static String getPrompt(String style, String protagonist, String country, String landmark, boolean conservativeDressCode) {
+    private static String getPrompt(String style, String protagonist, String country, String captial, String landmark, boolean conservativeDressCode) {
         String posessive = StringUtils.equalsAny(protagonist, "woman", "girl") ? "her" : "his";
         String pronoun = StringUtils.equalsAny(protagonist, "woman", "girl") ? "she" : "he";
-        return "Half Body shot adventurous " + style + " style depiction of a " + protagonist + " from " + country + ",showcasing " + posessive + " heritage." + pronoun + " has " + style + " styled large eyes,hair and mouth and with skin color representative of " + country + " demographics.The " + protagonist + " has a lively demeanor and wears a" + (conservativeDressCode ? " conservative " : " ") + "dynamic and fantasy-inspired themed outfit from " + country + ",embodying " + posessive + " love for " + posessive + " country.The background immerses viewers in " + country + ",with breathtaking scenes of " + landmark + ". The environment is outdoor and the image type is a digital illustration in a " + style + " style with fantasy vivid colors.The art style combines " + style + " and mythological elements,presenting the " + protagonist + " as a brave hero on a mythical quest.The camera shot is a long shot,capturing the " + protagonist + " spirited pose against the mesmerizing landmark.The camera lens used is a wide-angle lens.The render style is highly detailed with a resolution of 8K.The lighting is a mix of vibrant sunlight and mystical glows.";
-        //return "Half Body shot adventurous " + style + " style depiction of a " + protagonist + " from " + country + ",showcasing " + posessive + " heritage." + pronoun + " has " + style + " styled large eyes,hair and mouth and with skin color representative of " + country + " demographics.The " + protagonist + " has a lively demeanor and wears a" + (conservativeDressCode ? " conservative " : " ") + "dynamic and fantasy-inspired themed outfit from " + country + ",embodying " + posessive + " love for " + posessive + " country.The background immerses viewers in " + country + ",with breathtaking scenes and landmarks from " + country + ".The environment is outdoor and the image type is a digital illustration in a " + style + " style with fantasy vivid colors.The art style combines " + style + " and mythological elements,presenting the " + protagonist + " as a brave hero on a mythical quest.The camera shot is a long shot,capturing the " + protagonist + " spirited pose against the mesmerizing landmark.The camera lens used is a wide-angle lens.The render style is highly detailed with a resolution of 8K.The lighting is a mix of vibrant sunlight and mystical glows.";
-
+        // return "Half Body shot adventurous " + style + " style depiction of a " + protagonist + " from " + country + ",showcasing " + posessive + " heritage." + pronoun + " has " + style + " styled large eyes,hair and mouth and with skin color representative of " + country + " demographics.The " + protagonist + " has a lively demeanor and wears a dynamic and fantasy-inspired themed" + (conservativeDressCode ? " abaya " : " outfit ") + "from " + country + ",embodying " + posessive + " love for " + posessive + " country.The background immerses viewers in " + country + ",with breathtaking scenes of " + country + ". The environment is outdoor and the image type is a digital illustration in a " + style + " style with fantasy vivid colors.The art style combines " + style + " and mythological elements,presenting the " + protagonist + " as a brave hero on a mythical quest.The camera shot is a long shot,capturing the " + protagonist + " spirited pose against the mesmerizing landmark.The camera lens used is a wide-angle lens.The render style is highly detailed with a resolution of 8K.The lighting is a mix of vibrant sunlight and mystical glows.";
+        return "Half Body shot adventurous " + style + " style depiction of a " + protagonist + " from " + country + ",showcasing " + posessive + " heritage." + pronoun + " has " + style + " styled large eyes,hair and mouth.The " + protagonist + " has a lively demeanor and wears a dynamic and fantasy-inspired themed" + (conservativeDressCode ? " abaya " : " outfit ") + "from " + country + ",embodying " + posessive + " love for " + posessive + " country.The background immerses viewers in " + country + ",with breathtaking scenes and landmarks.The " + landmark + " is clearly visible in the background.The environment is outdoor and the image type is a digital illustration in a " + style + " style with fantasy vivid colors.The art style combines " + style + " and mythological elements,presenting the " + protagonist + " as a brave hero on a mythical quest.The camera shot is a long shot,capturing the " + protagonist + " spirited pose against the mesmerizing landmark.The camera lens used is a wide-angle lens.The render style is highly detailed with a resolution of 8K.The lighting is a mix of vibrant sunlight and mystical glows.";
     }
 
     private static void generate(String prompt) throws Exception {

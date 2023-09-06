@@ -128,7 +128,7 @@ Liechtenstein,LI,LIE,438
 Lithuania,LT,LTU,440
 Luxembourg,LU,LUX,442
 Macau,MO,MAC,446
-Macedonia,MK,MKD,807
+North Macedonia,MK,MKD,807,Macedonia
 Madagascar,MG,MDG,450
 Malawi,MW,MWI,454
 Malaysia,MY,MYS,458
@@ -189,7 +189,7 @@ Saint Kitts and Nevis,KN,KNA,659
 Saint Lucia,LC,LCA,662
 Saint Martin,MF,MAF,663
 Saint Pierre and Miquelon,PM,SPM,666
-Saint Vincent and the Grenadines,VC,VCT,670
+Saint Vincent-Grenadines,VC,VCT,670,Saint Vincent and Grenadines,Saint Vincent and the Grenadines
 Samoa,WS,WSM,882
 San Marino,SM,SMR,674
 Sao Tome and Principe,ST,STP,678
@@ -207,14 +207,14 @@ Solomon Islands,SB,SLB,90
 Somalia,SO,SOM,706
 South Africa,ZA,ZAF,710
 South Georgia and the South Sandwich Islands,GS,SGS,239,South Georgia
-Korea Republic,KR,KOR,410
+South Korea,KR,KOR,410,Korea Republic
 South Sudan,SS,SSD,728
 Spain,ES,ESP,724
 Sri Lanka,LK,LKA,144
 Sudan,SD,SDN,729
 Suriname,SR,SUR,740
 Svalbard and Jan Mayen,SJ,SJM,744
-Swaziland,SZ,SWZ,748
+Eswatini,SZ,SWZ,748,Swaziland
 Sweden,SE,SWE,752
 Switzerland,CH,CHE,756,Helvetia
 Syria,SY,SYR,760
@@ -222,7 +222,7 @@ Taiwan,TW,TWN,158
 Tajikistan,TJ,TJK,762
 Tanzania,TZ,TZA,834
 Thailand,TH,THA,764
-Timor-Leste,TL,TLS,626
+Timor-Leste,TL,TLS,626,East Timor
 Togo,TG,TGO,768
 Tokelau,TK,TKL,772
 Tonga,TO,TON,776
