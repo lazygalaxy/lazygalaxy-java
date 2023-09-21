@@ -26,6 +26,10 @@ public class Country extends MongoDocument {
 
     public LinkedHashSet<String> topAttractions;
 
+    public LinkedHashSet<String> sportPeople;
+
+    public LinkedHashSet<String> fighterPeople;
+
     public String traditionalFemaleClothes;
     public String tribalTatoo;
 

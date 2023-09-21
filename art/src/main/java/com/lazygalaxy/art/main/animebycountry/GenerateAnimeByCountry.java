@@ -3,6 +3,7 @@ package com.lazygalaxy.art.main.animebycountry;
 import com.google.gson.JsonObject;
 import com.lazygalaxy.common.domain.Country;
 import com.lazygalaxy.engine.helper.MongoHelper;
+import com.lazygalaxy.engine.util.PropertiesUtil;
 import com.mongodb.client.model.Filters;
 import com.mongodb.client.model.Sorts;
 import okhttp3.*;
@@ -16,7 +17,7 @@ import java.util.List;
 public class GenerateAnimeByCountry {
 
     private static final Logger LOGGER = LogManager.getLogger(GenerateAnimeByCountry.class);
-    private static final int PAGE_SIZE = 10;
+    private static final int PAGE_SIZE = 5;
 
     private static final int PAGE = 0;
 
@@ -28,11 +29,11 @@ public class GenerateAnimeByCountry {
             if (count++ / PAGE_SIZE == PAGE) {
                 String femalePrompt = getPrompt("anime", "woman", country.name, country.capital, country.topAttractions.toArray()[0].toString(), country.conservativeDressCode);
                 LOGGER.info(femalePrompt);
-                generate(femalePrompt);
-                //String malePrompt = getPrompt("anime", "man", country.name, country.capital, country.topAttractions.toArray()[1].toString(), country.conservativeDressCode);
-                //LOGGER.info(malePrompt);
+                //generate(femalePrompt);
+                String malePrompt = getPrompt("anime", "man", country.name, country.capital, country.topAttractions.toArray()[1].toString(), country.conservativeDressCode);
+                LOGGER.info(malePrompt);
                 //generate(malePrompt);
-                Thread.sleep(10000);
+                //Thread.sleep(10000);
             }
         }
     }
@@ -69,7 +70,7 @@ public class GenerateAnimeByCountry {
                 .post(body)
                 .addHeader("accept", "application/json")
                 .addHeader("content-type", "application/json")
-                .addHeader("authorization", "Bearer ecb8da6d-8b82-4fb8-86eb-0f563dbadb5a")
+                .addHeader("authorization", "Bearer " + PropertiesUtil.getLeonardoToken())
                 .build();
 
         Response response = client.newCall(request).execute();

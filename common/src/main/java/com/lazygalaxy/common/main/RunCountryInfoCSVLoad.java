@@ -48,6 +48,10 @@ public class RunCountryInfoCSVLoad {
                 country.topDishes = SetUtil.addValueToExactSet(country.topDishes, tokens[10].split(","));
                 country.flagColors = SetUtil.addValueToExactSet(country.flagColors, tokens[11].split(","));
                 country.topAttractions = SetUtil.addValueToExactSet(country.topAttractions, tokens[12].split(","));
+                if (tokens.length >= 14)
+                    country.sportPeople = SetUtil.addValueToExactSet(country.sportPeople, tokens[13].split(","));
+                if (tokens.length >= 15)
+                    country.fighterPeople = SetUtil.addValueToExactSet(country.fighterPeople, tokens[14].split(","));
 
                 return Arrays.asList(country);
             }

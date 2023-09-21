@@ -1,4 +1,4 @@
-package com.lazygalaxy.art.main.animebycountry;
+package com.lazygalaxy.art.main.superherosportstars;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
@@ -16,10 +16,9 @@ import org.apache.logging.log4j.Logger;
 import java.io.File;
 import java.net.URL;
 import java.text.SimpleDateFormat;
-import java.util.Date;
 
-public class DownloadAnimeByCountry {
-    private static final Logger LOGGER = LogManager.getLogger(DownloadAnimeByCountry.class);
+public class DownloadSuperheroSportStars {
+    private static final Logger LOGGER = LogManager.getLogger(DownloadSuperheroSportStars.class);
     private static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyyMMddHHmmssSSS");
 
     public static void main(String[] args) throws Exception {
@@ -43,17 +42,17 @@ public class DownloadAnimeByCountry {
             JsonObject generationObject = generationElement.getAsJsonObject();
             String prompt = generationObject.get("prompt").getAsString();
 
-            if (StringUtils.startsWith(prompt, "Half Body shot adventurous anime style depiction of a")) {
+            if (StringUtils.contains(prompt, " portrait of ") && StringUtils.contains(prompt, " Marvel comic ")) {
                 LOGGER.info(prompt);
-                String country = StringUtils.substringBetween(prompt, " from ", ",").trim();
-                String protagonist = StringUtils.substringBetween(prompt, " a ", " from ").trim();
+                String protagonist = StringUtils.substringBetween(prompt, " portrait of ", " as a ").trim();
                 JsonArray imageElements = generationObject.getAsJsonArray("generated_images");
                 for (JsonElement imageElement : imageElements.getAsJsonArray().asList()) {
                     JsonObject imageObject = imageElement.getAsJsonObject();
                     String url = imageObject.get("url").getAsString();
+                    String id = imageObject.get("id").getAsString();
                     LOGGER.info(url);
 
-                    String filename = "C:\\Users\\vangos\\Desktop\\Projects\\Anime World Tour\\Collection\\" + (country + "_" + protagonist + "_" + DATE_FORMAT.format(new Date())).toLowerCase() + ".jpg";
+                    String filename = "C:\\Users\\vangos\\Desktop\\Projects\\Superhero Sport Stars\\Collection\\" + (protagonist + "_" + id).toLowerCase() + ".jpg";
                     LOGGER.info(filename);
 
                     FileUtils.copyURLToFile(
