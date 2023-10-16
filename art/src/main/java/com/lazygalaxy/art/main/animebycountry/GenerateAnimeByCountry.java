@@ -22,8 +22,7 @@ public class GenerateAnimeByCountry {
     private static final int PAGE = 0;
 
     public static void main(String[] args) throws Exception {
-        //List<Country> countries = MongoHelper.getHelper(Country.class).getDocumentsByFilters(Sorts.ascending("name"), Filters.eq("include", true));
-        List<Country> countries = MongoHelper.getHelper(Country.class).getDocumentsByFilters(Sorts.ascending("name"), Filters.in("_id", "br", "ca", "eg", "kr", "ar", "en", "tr", "jp", "co", "de"));
+        List<Country> countries = MongoHelper.getHelper(Country.class).getDocumentsByFilters(Sorts.ascending("name"), Filters.eq("include", true));
         int count = 0;
         for (Country country : countries) {
             if (count++ / PAGE_SIZE == PAGE) {

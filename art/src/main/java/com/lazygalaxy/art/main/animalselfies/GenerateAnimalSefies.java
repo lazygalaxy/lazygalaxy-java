@@ -1,4 +1,4 @@
-package com.lazygalaxy.art.main.superherosportstars;
+package com.lazygalaxy.art.main.animalselfies;
 
 import com.google.gson.JsonObject;
 import com.lazygalaxy.common.domain.Country;
@@ -7,38 +7,36 @@ import com.lazygalaxy.engine.util.PropertiesUtil;
 import com.mongodb.client.model.Filters;
 import com.mongodb.client.model.Sorts;
 import okhttp3.*;
-import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import java.util.List;
 
 
-public class GenerateSuperheroSportStars {
+public class GenerateAnimalSefies {
 
-    private static final Logger LOGGER = LogManager.getLogger(GenerateSuperheroSportStars.class);
-    private static final int PAGE_SIZE = 10;
+    private static final Logger LOGGER = LogManager.getLogger(GenerateAnimalSefies.class);
+    private static final int PAGE_SIZE = 9;
 
-    private static final int PAGE = 0;
+    private static final int PAGE = 2;
 
     public static void main(String[] args) throws Exception {
-        List<Country> countries = MongoHelper.getHelper(Country.class).getDocumentsByFilters(Sorts.ascending("name"), Filters.exists("sportPeople"));
+        List<Country> countries = MongoHelper.getHelper(Country.class).getDocumentsByFilters(Sorts.ascending("name"), Filters.exists("nationalAnimal"), Filters.exists("topAttractions"));
         int count = 0;
         for (Country country : countries) {
-            for (String protagonist : country.sportPeople)
+            for (String attraction : country.topAttractions) {
                 if (count++ / PAGE_SIZE == PAGE) {
-                    String prompt = getPrompt(protagonist, String.join(",", country.flagColors), country.name);
+                    String prompt = getPrompt(country.nationalAnimal, attraction, country.name);
                     LOGGER.info(prompt);
-                    //generate(prompt);
-                    //Thread.sleep(5000);
+                    generate(prompt);
+                    Thread.sleep(5000);
                 }
+            }
         }
     }
 
-    private static String getPrompt(String protagonist, String colors, String country) {
-        String posessive = StringUtils.containsAny(protagonist.toLowerCase(), "woman", "girl", "steffi", "serena", "mithali", "amanda", "ronda", "danica") ? "her" : "his";
-        String pronoun = StringUtils.containsAny(protagonist.toLowerCase(), "woman", "girl", "steffi", "serena", "mithali", "amanda", "ronda", "danica") ? "she" : "he";
-        return "Create a Marvel comic book style, stunning half body portrait of " + protagonist + " as a superhero. " + protagonist + " is a sport legend from " + country + ", so blend " + posessive + " iconic appearance with the superhero aesthetics of the Marvel comic book universe. " + pronoun + " stands confident in a dramatic action pose. " + protagonist + " is wearing " + colors + " high-tech superhero suit that incorporates elements inspired by classic Marvel heroes and the sport " + pronoun + " became famous for. The background is a dystopian landscape from " + country + ". The art style should capture the essence of Marvel comics, with bold lines and vivid colors in a comic book style. Utilize a 70mm lens for a balanced perspective. Opt for a medium shot view to emphasize the superhero details. The resolution should be 4K for exceptional detail.";
+    private static String getPrompt(String protagonist, String attraction, String country) {
+        return "A smiling " + protagonist + " animal taking a selfie photo of himself, with the " + attraction + " in " + country + " showing in the background. The photo should be a zoomed in head shot of the animal.  Create a detailed digital illustration that combines realism and fantasy. Use a wide lens placed approximately 50 millimeters away from the animal.";
     }
 
     private static void generate(String prompt) throws Exception {
@@ -51,7 +49,7 @@ public class GenerateSuperheroSportStars {
         jsonRequest.addProperty("modelId", "ac614f96-1082-45bf-be9d-757f2d31c174");
         jsonRequest.addProperty("height", 832);
         jsonRequest.addProperty("width", 832);
-        jsonRequest.addProperty("num_images", 4);
+        jsonRequest.addProperty("num_images", 2);
         jsonRequest.addProperty("guidance_scale", 7);
         jsonRequest.addProperty("init_strength", 0.4);
         jsonRequest.addProperty("presetStyle", "LEONARDO");

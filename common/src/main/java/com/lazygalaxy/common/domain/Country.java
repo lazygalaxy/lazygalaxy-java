@@ -30,8 +30,7 @@ public class Country extends MongoDocument {
 
     public LinkedHashSet<String> fighterPeople;
 
-    public String traditionalFemaleClothes;
-    public String tribalTatoo;
+    public String nationalAnimal;
 
     public Country() {
     }

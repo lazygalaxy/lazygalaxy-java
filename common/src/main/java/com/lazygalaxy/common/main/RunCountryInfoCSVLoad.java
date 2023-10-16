@@ -52,6 +52,8 @@ public class RunCountryInfoCSVLoad {
                     country.sportPeople = SetUtil.addValueToExactSet(country.sportPeople, tokens[13].split(","));
                 if (tokens.length >= 15)
                     country.fighterPeople = SetUtil.addValueToExactSet(country.fighterPeople, tokens[14].split(","));
+                if (tokens.length >= 16)
+                    country.nationalAnimal = GeneralUtil.getString(tokens[15]);
 
                 return Arrays.asList(country);
             }
