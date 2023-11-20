@@ -1,4 +1,4 @@
-package com.lazygalaxy.art.main.animalselfies;
+package com.lazygalaxy.art.main.popartportraits;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
@@ -17,8 +17,8 @@ import java.io.File;
 import java.net.URL;
 import java.text.SimpleDateFormat;
 
-public class DownloadAnimalSelfies {
-    private static final Logger LOGGER = LogManager.getLogger(DownloadAnimalSelfies.class);
+public class DownloadPopArtPortraits {
+    private static final Logger LOGGER = LogManager.getLogger(DownloadPopArtPortraits.class);
     private static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyyMMddHHmmssSSS");
 
     public static void main(String[] args) throws Exception {
@@ -41,11 +41,9 @@ public class DownloadAnimalSelfies {
         for (JsonElement generationElement : generationElements.getAsJsonArray().asList()) {
             JsonObject generationObject = generationElement.getAsJsonObject();
             String prompt = generationObject.get("prompt").getAsString();
-            if (StringUtils.contains(prompt, "animal taking a selfie photo of himself")) {
+            if (StringUtils.contains(prompt, "Generate an artistic image of")) {
                 LOGGER.info(prompt);
-                String protagonist = StringUtils.substringBetween(prompt, "A smiling ", " animal taking a selfie photo ").trim();
-                String country = StringUtils.substringBetween(prompt, " in ", " showing in the background.").trim();
-                String attraction = StringUtils.substringBetween(prompt, " with the ", " in " + country).trim();
+                String protagonist = StringUtils.substringBetween(prompt, " an artistic image of ", ", inspired").trim();
                 JsonArray imageElements = generationObject.getAsJsonArray("generated_images");
                 for (JsonElement imageElement : imageElements.getAsJsonArray().asList()) {
                     JsonObject imageObject = imageElement.getAsJsonObject();
@@ -53,7 +51,7 @@ public class DownloadAnimalSelfies {
                     String id = imageObject.get("id").getAsString();
                     LOGGER.info(url);
 
-                    String filename = "C:\\Users\\vangos\\Desktop\\Projects\\Animal Selfie World Tour\\Collection\\" + (protagonist + "_" + country + "_" + attraction + "_" + id).toLowerCase() + ".jpg";
+                    String filename = "C:\\Users\\vangos\\Desktop\\Projects\\Pop Art Portraits\\Collection\\" + (protagonist + "_" + id).toLowerCase() + ".jpg";
                     LOGGER.info(filename);
 
                     FileUtils.copyURLToFile(

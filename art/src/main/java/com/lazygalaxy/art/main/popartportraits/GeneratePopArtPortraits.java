@@ -1,43 +1,39 @@
-package com.lazygalaxy.art.main.animalselfies;
+package com.lazygalaxy.art.main.popartportraits;
 
 import com.google.gson.JsonObject;
-import com.lazygalaxy.common.domain.Country;
-import com.lazygalaxy.engine.helper.MongoHelper;
 import com.lazygalaxy.engine.util.PropertiesUtil;
-import com.mongodb.client.model.Filters;
-import com.mongodb.client.model.Sorts;
 import okhttp3.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.util.List;
 
+public class GeneratePopArtPortraits {
 
-public class GenerateAnimalSefies {
-
-    private static final Logger LOGGER = LogManager.getLogger(GenerateAnimalSefies.class);
+    private static final Logger LOGGER = LogManager.getLogger(GeneratePopArtPortraits.class);
     private static final int PAGE_SIZE = 10;
 
-    private static final int PAGE = 0;
+    private static final int PAGE = 3;
+
+    private static String[] protagonists = new String[]{"Albert Einstein", "Marie Curie", "Isaac Newton", "Charles Darwin", "Nikola Tesla", "Galileo Galilei", "Ada Lovelace", "Pythagoras of Samos", "Carl Linnaeus", "Rosalind Franklin",
+            "Elon Musk", "Leonardo da Vinci", "Thomas Edison", "Louis Pasteur", "Michael Faraday", "Archimedes", "Aristotle", "Stephen Hawking", "Jane Goodall", "Nicolaus Copernicus",
+            "Neil deGrasse Tyson", "Rachel Carson", "George Washington Carver", "Alan Turing", "Alexander Graham Bell", "Tim Berners-Lee", "Linus Pauling", "Mary Anning", "Robert Boyle", "Johannes Kepler",
+            "Grace Hopper", "Steve Jobs", "Plato", "Bill Gates", "Henry Ford", "Benjamin Franklin", "Wright brothers", "Zhang Heng", "Tu Youyou", "William Shakespeare"
+    };
 
     public static void main(String[] args) throws Exception {
-        List<Country> countries = MongoHelper.getHelper(Country.class).getDocumentsByFilters(Sorts.ascending("nationalAnimal", "name"), Filters.exists("nationalAnimal"), Filters.exists("topAttractions"));
         int count = 0;
-        for (Country country : countries) {
-            for (int i = 0; i < 2; i++) {
-                String attraction = (String) country.topAttractions.toArray()[i];
-                if (count++ / PAGE_SIZE == PAGE) {
-                    String prompt = getPrompt(country.nationalAnimal, attraction, country.name);
-                    LOGGER.info(prompt);
-                    generate(prompt);
-                    Thread.sleep(5000);
-                }
+        for (String protagonist : protagonists) {
+            if (count++ / PAGE_SIZE == PAGE) {
+                String prompt = getPrompt(protagonist);
+                LOGGER.info(prompt);
+                generate(prompt);
+                Thread.sleep(5000);
             }
         }
     }
 
-    private static String getPrompt(String protagonist, String attraction, String country) {
-        return "A smiling " + protagonist + " animal taking a selfie photo of himself, with the " + attraction + " in " + country + " showing in the background. The photo should be a zoomed in head shot of the animal.  Create a detailed digital illustration that combines realism and fantasy. Use a wide lens placed approximately 50 millimeters away from the animal.";
+    private static String getPrompt(String protagonist) {
+        return "Generate an artistic image of " + protagonist + ", inspired by Andy Warhol's pop art style. Create a portrait that uses Warhol's iconic techniques with vibrant pastel color combinations. The image should capture " + protagonist + "'s personality and influence within the industry. Use a 35mm lens for a close-up shot, and emphasize the visual impact of Warhol's style through vivid colors and bold composition.";
     }
 
     private static void generate(String prompt) throws Exception {
@@ -50,7 +46,7 @@ public class GenerateAnimalSefies {
         jsonRequest.addProperty("modelId", "ac614f96-1082-45bf-be9d-757f2d31c174");
         jsonRequest.addProperty("height", 832);
         jsonRequest.addProperty("width", 832);
-        jsonRequest.addProperty("num_images", 2);
+        jsonRequest.addProperty("num_images", 4);
         jsonRequest.addProperty("guidance_scale", 7);
         jsonRequest.addProperty("init_strength", 0.4);
         jsonRequest.addProperty("presetStyle", "LEONARDO");
