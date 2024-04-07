@@ -1,5 +1,6 @@
 package main.load.other;
 
+import com.lazygalaxy.common.util.SetUtil;
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.load.LinuxListLoad;
 import com.lazygalaxy.engine.util.GeneralUtil;
@@ -111,7 +112,7 @@ public class A3_RunOtherCoinOpsRomLoad {
                 LOGGER.warn(name + " multiple found for " + querySystemId);
             } else {
                 for (Game game : games) {
-                    game.coinopsVersions = SetUtil.addValueToTreeSet(game.coinopsVersions, coinopsVersion);
+                    game.coinopsVersions = SetUtil.addValueToSortedSet(game.coinopsVersions, coinopsVersion);
                     game.coinopsGameInfo = new GameInfo(gameId, null);
                     game.coinopsGameInfo.originalName = gameInfoStatic.originalName;
                 }

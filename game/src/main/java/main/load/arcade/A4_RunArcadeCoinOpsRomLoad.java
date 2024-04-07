@@ -1,5 +1,6 @@
 package main.load.arcade;
 
+import com.lazygalaxy.common.util.SetUtil;
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.engine.helper.MongoHelper;
 import com.lazygalaxy.engine.load.LinuxListLoad;
@@ -77,7 +78,7 @@ public class A4_RunArcadeCoinOpsRomLoad {
                 game.addLabel(game.gameId);
             }
 
-            game.coinopsVersions = SetUtil.addValueToTreeSet(game.coinopsVersions, coinopsVersion);
+            game.coinopsVersions = SetUtil.addValueToSortedSet(game.coinopsVersions, coinopsVersion);
             if (!StringUtils.equals(subSystemId, systemId)) {
                 game.coinopsGameInfo = new GameInfo(gameId, subSystemId);
             }

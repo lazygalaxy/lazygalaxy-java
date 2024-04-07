@@ -1,6 +1,7 @@
 package main.report;
 
 import com.google.common.collect.Lists;
+import com.lazygalaxy.common.util.SetUtil;
 import com.lazygalaxy.game.Constant;
 import com.lazygalaxy.game.domain.Game;
 import com.lazygalaxy.game.util.GameUtil;

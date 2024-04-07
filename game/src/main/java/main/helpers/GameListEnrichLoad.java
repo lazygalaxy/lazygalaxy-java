@@ -1,6 +1,7 @@
 package main.helpers;
 
 import com.google.common.collect.Lists;
+import com.lazygalaxy.common.util.SetUtil;
 import com.lazygalaxy.engine.load.XMLLoad;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.engine.util.XMLUtil;
@@ -191,7 +192,7 @@ public class GameListEnrichLoad {
                 Game.class.getField(source + "GameInfo").set(game,
                         new GameInfo(game.gameId, systemId, path, originalName, year, description, genre, subGenre, image, video,
                                 marquee, rating, players, Lists.newArrayList(developer, publisher),
-                                SetUtil.addValueToTreeSet(null, emulatorVersion), inputs != null ? SetUtil.addValueToTreeSet(null, StringUtils.split(inputs, ",")) : null, ways, buttons));
+                                SetUtil.addValueToSortedSet(null, emulatorVersion), inputs != null ? SetUtil.addValueToSortedSet(null, StringUtils.split(inputs, ",")) : null, ways, buttons));
 
                 GameUtil.pretifyName((GameInfo) Game.class.getField(source + "GameInfo").get(game));
 

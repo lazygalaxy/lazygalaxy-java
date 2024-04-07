@@ -245,8 +245,8 @@ arcade	none	Cyber Commando	1994	cybrcomm	2	none	none	3	no	yes	no	none	no	Namco	S
 arcade	none	Cyber Cycles	1995	cybrcycc	1	none	none	0	no	no	no	pedal/paddle	no	Namco	Driving	Motorbike	other	unknown	unknown	no	no	no	no	no	no	no	yes	no	no
 arcade	none	Cyber Sled	1993	cybsled	2	none	none	3	no	yes	no	none	no	Namco	Shooter	Driving	other	3rd Person	unknown	no	no	no	no	no	no	no	yes	no	no
 arcade	neogeo	Cyber-Lip	1990	cyberlip	2	single	8	4	no	no	no	none	no	SNK	Platform	Shooter	other	Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes	no	yes
-arcade	none	Cyberball 2072	1989	cyberbal2p	2	single	8	1	no	no	no	none	no	Atari	Sports	Football	other	unknown	unknown	no	no	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Cyberball 2072	1989	cyberb2p	2	single	8	1	no	no	no	none	no	Atari	Sports	Football	other	unknown	unknown	no	yes	no	no	no	no	no	no	no	no
+arcade	none	Cyberball 2072	1989	cyberbal2p	2	single	8	1	no	no	no	none	no	Atari	Sports	Football	other	unknown	unknown	no	no	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Cyberbots: Fullmetal Madness	1995	cybots	2	single	8	4	no	no	no	none	no	Capcom	Fighter	Versus	other	unknown	unknown	yes	yes	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Cyvern: The Dragon Weapons	1998	cyvern	2	single	8	2	no	no	no	none	yes	Kaneko	Shooter	Flying	other	Vertical	unknown	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	D. D. Crew	1991	ddcrew	3	single	8	3	no	no	no	none	no	SEGA	Fighter	Beat Em Up	other	unknown	2.5D	no	no	no	no	no	no	no	yes	no	no
@@ -671,7 +671,7 @@ arcade	none	Metro-Cross	1985	metrocrs	2	single	8	1	no	no	no	none	no	Namco	Platfo
 arcade	none	Michael Jackson's Moonwalker	1990	moonwlkb	2	single	8	4	no	no	no	none	no	SEGA	Platform	Fighter	other	Scrolling	unknown	no	yes	no	no	no	no	no	no	no	yes
 arcade	none	Michael Jackson's Moonwalker	1990	mwalk	3	single	8	3	no	no	no	none	no	SEGA	Platform	Fighter	other	Scrolling	unknown	yes	no	yes	yes	yes	yes	yes	yes	yes	no
 arcade	none	Midnight Resistance	1989	midres	2	single	8	2	no	no	no	positional	no	Data East	Platform	Shooter	other	Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	none	Mighty! Pang	2000	mpang	2	single	8	1	no	no	no	none	no	Mitchell	Shooter	other	Puzzle	3rd Person	unknown	yes	yes	yes	yes	yes	yes	yes	yes	no	no
+arcade	none	Mighty! Pang	2000	mpang	2	single	8	1	no	no	no	none	no	Mitchell	Shooter	other	Puzzle	unknown	unknown	yes	yes	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Mikie	1984	mikie	2	single	4	2	no	no	no	none	yes	Konami	Maze	Fighter	other	unknown	unknown	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Mille Miglia 2: Great 1000 Miles Rally	1995	gtmr2	2	single	8	8	no	no	no	paddle/dial	no	Kaneko	Driving	Race	other	unknown	unknown	no	yes	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Millipede	1982	milliped	2	single	8	1	no	no	yes	none	yes	Atari	Shooter	Gallery	other	unknown	unknown	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes
@@ -764,7 +764,7 @@ arcade	none	Pac & Pal	1983	pacnpal	2	single	4	1	no	no	no	none	yes	Namco	Maze	Col
 arcade	none	Pac-Land	1984	pacland	2	none	none	3	no	no	no	none	no	Namco	Platform	Run, Jump &	other	Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Pac-Man	1980	pacman	2	single	4	0	no	no	no	none	yes	Namco	Maze	Collect	other	unknown	unknown	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Pac-Mania	1987	pacmania	2	single	8	3	no	no	no	none	yes	Namco	Maze	Collect	other	unknown	unknown	no	yes	yes	yes	yes	yes	yes	yes	no	yes
-arcade	none	Pang	1989	pang	2	single	4	2	no	no	no	none	no	Mitchell	Shooter	other	Puzzle	3rd Person	unknown	no	yes	yes	yes	yes	yes	yes	yes	no	no
+arcade	none	Pang	1989	pang	2	single	4	2	no	no	no	none	no	Mitchell	Shooter	other	Puzzle	unknown	unknown	no	yes	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Paperboy	1984	paperboy	1	none	none	2	no	yes	no	none	no	Atari	Maze	Driving	other	unknown	unknown	yes	yes	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Parodius DA!	1990	parodius	2	single	8	3	no	no	no	none	no	Konami	Shooter	Flying	other	Horizontal	unknown	no	yes	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Pengo	1982	pengo	2	single	4	1	no	no	no	none	yes	SEGA	Maze	Move and Sort	other	unknown	unknown	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes
@@ -848,8 +848,8 @@ arcade	none	Rally X	1980	rallyx	2	single	4	1	no	no	no	none	no	Namco	Maze	Driving
 arcade	none	Rambo 3	1989	rambo3	2	single	8	2	no	no	yes	none	no	Taito	Shooter	other	other	3rd Person	unknown	no	yes	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Rampage	1986	rampage	3	single	8	2	no	no	no	none	no	Midway	Platform	Fighter	other	unknown	unknown	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Rampage: World Tour	1997	rmpgwt	3	single	8	3	no	no	no	none	no	Midway	Platform	Fighter	other	unknown	unknown	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes
-arcade	none	Rampart	1990	rampart2p	3	single	8	2	no	no	no	none	no	Atari	Shooter	Command	other	unknown	unknown	no	no	yes	yes	yes	yes	yes	yes	no	no
 arcade	none	Rampart	1990	ramprt2p	3	single	8	2	no	no	no	none	no	Atari	Shooter	Command	other	unknown	unknown	no	yes	no	no	no	no	no	no	no	no
+arcade	none	Rampart	1990	rampart2p	3	single	8	2	no	no	no	none	no	Atari	Shooter	Command	other	unknown	unknown	no	no	yes	yes	yes	yes	yes	yes	no	no
 arcade	atomiswave	Ranger Mission	2004	rangrmsn	1	none	none	2	no	no	no	pedal/paddle	no	Sammy	Shooter	Gunner	other	1st Person	unknown	no	no	no	no	no	no	no	yes	no	no
 arcade	none	Rapid Hero	1994	raphero	2	single	8	3	no	no	no	none	yes	NMK	Shooter	Flying	other	Vertical	unknown	no	no	no	no	no	no	no	yes	no	no
 arcade	none	Rastan Saga	1987	rastsaga	2	single	8	2	no	no	no	none	no	Taito	Platform	Fighter	other	Scrolling	unknown	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes
@@ -1053,7 +1053,7 @@ arcade	none	Super Hang-On	1987	shangon	1	none	none	1	no	no	no	pedal/paddle	no	SE
 arcade	none	Super High Impact	1991	shimpact	4	single	8	1	no	no	no	none	no	Midway	Sports	Football	other	unknown	unknown	no	no	no	no	no	no	no	yes	no	no
 arcade	none	Super Monaco GP	1989	smgp	1	none	none	2	no	no	no	pedal/paddle	no	SEGA	Driving	Race	other	1st Person	unknown	yes	yes	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Super Pac-Man	1982	superpac	2	single	4	1	no	no	no	none	yes	Namco	Maze	Collect	other	unknown	unknown	no	yes	yes	yes	yes	yes	yes	yes	no	no
-arcade	none	Super Pang	1990	spang	2	single	4	2	no	no	no	none	no	Mitchell	Shooter	other	Puzzle	3rd Person	unknown	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes
+arcade	none	Super Pang	1990	spang	2	single	4	2	no	no	no	none	no	Mitchell	Shooter	other	Puzzle	unknown	unknown	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Super Punch-Out!!	1984	spnchout	1	single	4	4	no	no	no	none	no	Nintendo	Sports	Boxing	Versus	unknown	unknown	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes
 arcade	none	Super Puzzle Fighter II Turbo	1996	spf2t	2	single	8	2	no	no	no	none	no	Capcom	Puzzle	Drop	other	unknown	unknown	yes	yes	yes	yes	yes	yes	yes	yes	no	yes
 arcade	none	Super Qix	1987	sqix	2	single	4	2	no	no	no	none	yes	Kaneko	Puzzle	Outline	other	unknown	unknown	yes	no	no	no	no	yes	yes	yes	no	no

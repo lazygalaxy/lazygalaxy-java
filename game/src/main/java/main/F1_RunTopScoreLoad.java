@@ -27,8 +27,8 @@ public class F1_RunTopScoreLoad {
         try {
             Merge<Scores> merge = new FieldMerge<Scores>();
 
-            new WatchMojoScoreLoad().load("score/score_arcade_watchmojo.csv", 0, merge);
-            LOGGER.info("watch mojo score load completed!");
+            //new WatchMojoScoreLoad().load("score/score_arcade_watchmojo.csv", 0, merge);
+            //LOGGER.info("watch mojo score load completed!");
 
             new AntopisaScoreLoad().load("score/score_arcade_antopisa.ini", 8, merge);
             LOGGER.info("antopisa score load completed!");

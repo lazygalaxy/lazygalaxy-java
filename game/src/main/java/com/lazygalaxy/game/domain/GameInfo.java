@@ -1,5 +1,6 @@
 package com.lazygalaxy.game.domain;
 
+import com.lazygalaxy.common.util.SetUtil;
 import com.lazygalaxy.engine.util.GeneralUtil;
 import com.lazygalaxy.game.Constant.GameSource;
 import com.lazygalaxy.game.util.GameUtil;
