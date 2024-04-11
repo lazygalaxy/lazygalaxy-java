@@ -195,9 +195,11 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
                 subSystemId = GameSystem.ATOMISWAVE;
             } else if (StringUtils.contains(sourceFile, "dlair")) {
                 subSystemId = GameSystem.DAPHNE;
+            } else if (StringUtils.contains(sourceFile, "model2")) {
+                subSystemId = GameSystem.MODEL2;
             } else if (StringUtils.contains(sourceFile, "model3")) {
                 subSystemId = GameSystem.MODEL3;
-            } else if (StringUtils.contains(sourceFile, "naomi")) {
+            }else if (StringUtils.contains(sourceFile, "naomi")) {
                 subSystemId = GameSystem.NAOMI;
             } else if (StringUtils.contains(sourceFile, "neogeo")) {
                 subSystemId = GameSystem.NEOGEO;
