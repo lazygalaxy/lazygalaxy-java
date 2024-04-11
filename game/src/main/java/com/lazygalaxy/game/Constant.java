@@ -117,17 +117,16 @@ public class Constant {
     }
 
     public static class GameSystem {
+        public final static String THREESDO = "3do";
         public final static String ARCADE = "arcade";
         public final static String ATOMISWAVE = "atomiswave";
         public final static String C64 = "c64";
         public final static String DAPHNE = "daphne";
         public final static String DREAMCAST = "dreamcast";
-
         public final static String FBNEO = "fbneo";
         public final static String GAMEANDWATCH = "gameandwatch";
         public final static String GAMECUBE = "gc";
         public final static String GBA = "gba";
-
         public final static String MAME2003 = "mame2003";
         public final static String MAME2010 = "mame2010";
         public final static String MODEL2 = "model2";
@@ -149,11 +148,11 @@ public class Constant {
         public final static String SFC = "sfc";
         public final static String SCUMMVM = "scummvm";
 
+        public final static String ZXSPECTRUM = "zxspectrum";
+
         public final static List<String> MAME = Lists.newArrayList(ARCADE, ATOMISWAVE, DAPHNE, FBNEO, MAME2003, MAME2010, MODEL2, MODEL3, NAOMI, NEOGEO, TRIFORCE);
-        public final static List<String> CONSOLE = Lists.newArrayList(DREAMCAST, GAMECUBE, MEGADRIVE, N64, NES, PCENGINE, PSX, PS2, SEGACD, SFC, SNES);
-
-        public final static List<String> COMPUTER = Lists.newArrayList(C64, PC);
-
+        public final static List<String> CONSOLE = Lists.newArrayList(THREESDO, DREAMCAST,GAMEANDWATCH, GAMECUBE, MEGADRIVE, N64, NES, PCENGINE, PSX, PS2, SEGACD, SFC, SNES);
+        public final static List<String> COMPUTER = Lists.newArrayList(C64, PC, ZXSPECTRUM);
         public final static List<String> HANDHELD = Lists.newArrayList(GBA, PSP);
 
     }

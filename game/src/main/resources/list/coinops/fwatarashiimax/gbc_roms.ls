@@ -1,4 +1,0 @@
--rwxrwxrwx+ 1 admin users 1312739823 Oct 27  2018 F-Zero GX.gcz
--rwxrwxrwx+ 1 admin users  892038221 Oct 27  2018 Legend Of Zelda The Wind Waker.gcz
--rwxrwxrwx+ 1 admin users  405554580 Oct 27  2018 Mario Kart Double Dash.gcz
--rwxrwxrwx+ 1 admin users 1132372937 Oct 27  2018 Super Mario Sunshine.gcz

@@ -1,4 +1,0 @@
--rw-rw-r-- 1 1000 1000 12971323 Apr 18  2019 F-Zero X.zip
--rw-rw-r-- 1 1000 1000  9016679 Apr 18  2019 Mario Kart 64.zip
--rw-rw-r-- 1 1000 1000 10627528 Apr 18  2019 Star Fox 64.zip
--rw-rw-r-- 1 1000 1000  6262602 Apr 18  2019 Super Mario 64.zip

@@ -1,4 +1,0 @@
--rwxrwxrwx+ 1 admin users 12971323 Apr 18  2019 F-Zero X.zip
--rwxrwxrwx+ 1 admin users  9016679 Apr 18  2019 Mario Kart 64.zip
--rwxrwxrwx+ 1 admin users 10627528 Apr 18  2019 Star Fox 64.zip
--rwxrwxrwx+ 1 admin users  6262602 Apr 18  2019 Super Mario 64.zip

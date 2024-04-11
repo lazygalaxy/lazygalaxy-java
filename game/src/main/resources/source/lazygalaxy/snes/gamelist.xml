@@ -5,41 +5,31 @@
 		<database>LazyGalaxy</database>
 	</provider>
 	<game>
-		<path>./Aladdin (USA).lazygalaxy</path>
+		<path>./Aladdin.zip</path>
 		<name>Aladdin / Disney's Aladdin</name>
 	</game>
 	<game>
-		<path>./Goof Troop (USA).lazygalaxy</path>
-		<name>Goof Troop / Disney's Goof Troop</name>
-	</game>
-	<game>
-		<path>./Legend of Zelda, The - A Link to the Past (USA).lazygalaxy</path>
+		<path>./Legend of Zelda Link to the Past.zip</path>
 		<name>The Legend of Zelda: A Link to the Past / Legend of Zelda: Link to the Past</name>
 	</game>
-
 	<game>
-		<path>./Magical Quest Starring Mickey Mouse, The (USA) (Rev 1).lazygalaxy</path>
-		<name>The Magical Quest / Disney's The Magical Quest Staring Mickey Mouse / Magical Quest</name>
-	</game>
-
-	<game>
-		<path>./Mega Man X (USA) (Rev 1).lazygalaxy</path>
+		<path>./Mega Man X1.zip</path>
 		<name>Mega Man X1 / Mega Man X</name>
 	</game>
 	<game>
-		<path>./Super Punch-Out!! (USA).zip</path>
+		<path>./Super Punch-Out!!.zip</path>
 		<subgenre>Boxing</subgenre>
 	</game>
 	<game>
-		<path>./Super Star Wars (USA) (Rev 1).lazygalaxy</path>
+		<path>./Super Star Wars.zip</path>
 		<name>Super Star Wars 1</name>
 	</game>
 	<game>
-		<path>./Super Star Wars - The Empire Strikes Back (USA) (Rev 1).lazygalaxy</path>
+		<path>./Super Star Wars III.zip</path>
 		<name>Super Star Wars 2: The Empire Strikes Back</name>
 	</game>
 	<game>
-		<path>./Super Star Wars - Return of the Jedi (USA) (Rev 1).lazygalaxy</path>
+		<path>./Super Star Wars.zip</path>
 		<name>Super Star Wars 3: Return of the Jedi</name>
 	</game>
 </gameList>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>PSP</System>
+		<database>LazyGalaxy</database>
+	</provider>
+	<game>
+		<path>./WipEout Pulse.iso</path>
+		<name>Wipeout Pulse</name>
+		<developer>Studio Liverpool</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Racing</genre>
+	</game>
+</gameList>

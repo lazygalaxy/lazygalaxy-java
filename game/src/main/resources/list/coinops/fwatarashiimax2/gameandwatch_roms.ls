@@ -1,0 +1,17 @@
+-rw-r--r-- 1 vangos 197121  87947 Mar  1  2019 gnw_dkjr.zip
+-rw-r--r-- 1 vangos 197121 106421 Nov  2  2018 gnw_dkong.zip
+-rw-r--r-- 1 vangos 197121 245042 Mar  1  2019 gnw_dkong2.zip
+-rw-r--r-- 1 vangos 197121  53649 Feb 27  2019 gnw_fire.zip
+-rw-r--r-- 1 vangos 197121  87268 Mar  7  2019 gnw_fireatk.zip
+-rw-r--r-- 1 vangos 197121 104157 Nov  2  2018 gnw_ghouse.zip
+-rw-r--r-- 1 vangos 197121 101780 Mar 16  2019 gnw_lboat.zip
+-rw-r--r-- 1 vangos 197121 125243 Mar 17  2019 gnw_mario.zip
+-rw-r--r-- 1 vangos 197121  87262 Mar 17  2019 gnw_mariocm.zip
+-rw-r--r-- 1 vangos 197121  91232 Nov  2  2018 gnw_mickdon.zip
+-rw-r--r-- 1 vangos 197121  38595 Mar  3  2019 gnw_octopus.zip
+-rw-r--r-- 1 vangos 197121  62307 Nov 30  2018 gnw_opanic.zip
+-rw-r--r-- 1 vangos 197121  54672 Mar 14  2019 gnw_pchute.zip
+-rw-r--r-- 1 vangos 197121  72799 Mar 31  2019 gnw_popeye.zip
+-rw-r--r-- 1 vangos 197121  87002 Dec  1  2019 gnw_rshower.zip
+-rw-r--r-- 1 vangos 197121  67681 Feb 27  2019 gnw_stennis.zip
+-rw-r--r-- 1 vangos 197121  75927 Mar  6  2019 gnw_tbridge.zip

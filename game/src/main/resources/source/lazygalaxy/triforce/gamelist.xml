@@ -5,14 +5,14 @@
 		<database>LazyGalaxy</database>
 	</provider>
 	<game>
-		<path>./mariokartarcadegp.lazygalaxy</path>
+		<path>./Mario Kart Arcade GP.iso</path>
 		<releasedate>2005</releasedate>
 		<players>1</players>
 		<buttons>2</buttons>
 		<inputs>pedal,paddle</inputs>
 	</game>
 	<game>
-		<path>./mariokartarcadegp2.lazygalaxy</path>
+		<path>./Mario Kart Arcade GP 2.iso</path>
 		<releasedate>2007</releasedate>
 		<players>1</players>
 		<buttons>2</buttons>

@@ -74,34 +74,42 @@ public class A3_RunOtherCoinOpsRomLoad {
             List<Game> games = null;
             String querySystemId = GameSystem.MAME.contains(systemId) ? GameSystem.ARCADE : systemId;
             if (gameInfoStatic.version != null) {
-                gameId = GeneralUtil.alphanumerify(name + gameInfoStatic.version);
-                games = GameUtil.getGames(false, true, gameId, null, Filters.in("labels", gameId),
+                games = GameUtil.getGames(false, true, gameId, null, Filters.eq("gameId", gameId),
                         Filters.in("systemId", querySystemId));
-
-                if (games == null && StringUtils.endsWith(name, " 1")) {
-                    gameId = GeneralUtil.alphanumerify(name.substring(0, name.length() - 2) + gameInfoStatic.version);
+                if (games == null) {
+                    gameId = GeneralUtil.alphanumerify(name + gameInfoStatic.version);
                     games = GameUtil.getGames(false, true, gameId, null, Filters.in("labels", gameId),
                             Filters.in("systemId", querySystemId));
+
+                    if (games == null && StringUtils.endsWith(name, " 1")) {
+                        gameId = GeneralUtil.alphanumerify(name.substring(0, name.length() - 2) + gameInfoStatic.version);
+                        games = GameUtil.getGames(false, true, gameId, null, Filters.in("labels", gameId),
+                                Filters.in("systemId", querySystemId));
+                    }
                 }
             }
 
             if (games == null) {
-                gameId = GeneralUtil.alphanumerify(name);
-                if (!StringUtils.endsWith(name, " 1")) {
-                    games = GameUtil.getGames(false, true, gameId + "1", null, Filters.in("labels", gameId + "1"),
-                            Filters.in("systemId", querySystemId));
-                    if (games == null) {
+                games = GameUtil.getGames(false, true, gameId, null, Filters.eq("gameId", gameId),
+                        Filters.in("systemId", querySystemId));
+                if (games == null) {
+                    gameId = GeneralUtil.alphanumerify(name);
+                    if (!StringUtils.endsWith(name, " 1")) {
+                        games = GameUtil.getGames(false, true, gameId + "1", null, Filters.in("labels", gameId + "1"),
+                                Filters.in("systemId", querySystemId));
+                        if (games == null) {
+                            games = GameUtil.getGames(false, true, gameId, null, Filters.in("labels", gameId),
+                                    Filters.in("systemId", querySystemId));
+                        }
+                    } else {
                         games = GameUtil.getGames(false, true, gameId, null, Filters.in("labels", gameId),
                                 Filters.in("systemId", querySystemId));
-                    }
-                } else {
-                    games = GameUtil.getGames(false, true, gameId, null, Filters.in("labels", gameId),
-                            Filters.in("systemId", querySystemId));
 
-                    if (games == null) {
-                        gameId = gameId.substring(0, gameId.length() - 1);
-                        games = GameUtil.getGames(false, true, gameId, null, Filters.in("labels", gameId),
-                                Filters.in("systemId", querySystemId));
+                        if (games == null) {
+                            gameId = gameId.substring(0, gameId.length() - 1);
+                            games = GameUtil.getGames(false, true, gameId, null, Filters.in("labels", gameId),
+                                    Filters.in("systemId", querySystemId));
+                        }
                     }
                 }
             }

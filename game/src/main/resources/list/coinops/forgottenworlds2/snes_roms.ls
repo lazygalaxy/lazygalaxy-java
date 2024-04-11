@@ -1,7 +1,0 @@
--rwxrwxrwx+ 1 admin users   753499 Feb 15  2012 Contra III.zip
--rwxrwxrwx+ 1 admin users   702832 Feb 15  2012 Legend of Zelda Link to the Past.zip
--rwxrwxrwx+ 1 admin users   846907 Feb 15  2012 Super Castlevania IV.zip
--rwxrwxrwx+ 1 admin users   717076 Apr 13  2018 Super Ghouls n Ghosts.zip
--rwxrwxrwx+ 1 admin users   347339 Feb 15  2012 Super Mario World 1.zip
--rwxrwxrwx+ 1 admin users  1286562 Sep 18  2015 Super Mario World 2.zip
--rwxrwxrwx+ 1 admin users  1573667 Feb 15  2012 Super Metroid.zip

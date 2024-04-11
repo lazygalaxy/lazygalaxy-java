@@ -18,11 +18,11 @@ public class RunCompleteLoad {
             A2_RunOtherRickDangerousUltimateGameListLoad.main(newArgs);
             //A3_RunArcadeWolfanoz2kGameListLoad.main(newArgs);
 
+            A3_RunArcadeCoinOpsRomLoad.main(newArgs);
             A3_RunOtherCoinOpsRomLoad.main(newArgs);
-            A4_RunArcadeCoinOpsRomLoad.main(newArgs);
 
             B1_RunArcadeMameGameInfoEnrichLoad.main(newArgs);
-            B2_RunArcadeItaliaCategoryEnrichLoad.main(newArgs);
+            //B2_RunArcadeItaliaCategoryEnrichLoad.main(newArgs);
 
             C1_RunCommonDeriveEnrichLoad.main(newArgs);
         } finally {

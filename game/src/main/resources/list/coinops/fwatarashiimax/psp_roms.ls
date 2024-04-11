@@ -1,1 +1,0 @@
--rwxrwxrwx+ 1 admin users 431947776 Aug 30  2006 Ultimate Ghosts N Goblins.iso

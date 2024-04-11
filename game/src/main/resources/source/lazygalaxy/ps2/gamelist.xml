@@ -5,7 +5,7 @@
 		<database>LazyGalaxy</database>
 	</provider>
 	<game>
-		<path>./Tekken 5.lazygalaxy</path>
+		<path>./Tekken 5.zip</path>
 		<name>Tekken 5</name>
 		<rating>0.9</rating>
 		<releasedate>2005</releasedate>

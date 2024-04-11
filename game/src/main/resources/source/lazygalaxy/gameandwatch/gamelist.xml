@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Game &amp; Watch</System>
+		<database>LazyGalaxy</database>
+	</provider>
+	<game>
+		<path>./gnw_dkjr.zip</path>
+		<name>Donkey Kong Jr.</name>
+	</game>
+	<game>
+		<path>./gnw_dkong.zip</path>
+		<name>Donkey Kong</name>
+	</game>
+	<game>
+		<path>./gnw_dkong2.zip</path>
+		<name>Donkey Kong 2</name>
+	</game>
+</gameList>

@@ -11,7 +11,7 @@ public class RunArcadeLoad {
             A1_RunArcadeLazyGalaxyGameListLoad.main(newArgs);
             A2_RunArcadeRickDangerousUltimateGameListLoad.main(newArgs);
             //A3_RunArcadeWolfanoz2kGameListLoad.main(newArgs);
-            A4_RunArcadeCoinOpsRomLoad.main(newArgs);
+            A3_RunArcadeCoinOpsRomLoad.main(newArgs);
             B1_RunArcadeMameGameInfoEnrichLoad.main(newArgs);
             B2_RunArcadeItaliaCategoryEnrichLoad.main(newArgs);
             C1_RunCommonDeriveEnrichLoad.main(newArgs);

@@ -5,10 +5,13 @@
 		<database>LazyGalaxy</database>
 	</provider>
 	<game>
-		<path>./International Karate Plus (USA).lazygalaxy</path>
+		<path>./International Karate Plus.zip</path>
 		<name>International Karate Plus</name>
+		<desc>Whereas the original featured only two karate fighters, there are now three. Again, it's a case of fighting each other, and the person with the most coloured dots at the end of the round wins. Your instructor also makes comments to each fighter. Every two rounds, there is a bonus round where you have to deflect coloured balls with a shield.</desc>
 		<releasedate>1987</releasedate>
-		<players>1</players>
-		<genre>Fighter</genre>
+		<developer>System 3 Software</developer>
+		<publisher>System 3 Software</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
 	</game>
 </gameList>

@@ -1,5 +1,7 @@
 System	SubSystem	Emulator	Name	Year	ROM	Players	Joystick	Ways	Buttons	LightGun	Stick	TrackBall	Other Input	Vertical	Manufacturer	Genre	SubGenre	Sub2Genre	CameraGenre	GraphicsGenre	FWA MAX 2 	FUA
-arcade	daphne		null	null	dragonslair	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	unknown	unknown	unknown	unknown	unknown	yes	no
+3do	none		Road Rash	1994	Road Rash (1994)(Electronic Arts)(Eu)[CDD4431]	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Electronic Arts	Driving	unknown	unknown	unknown	unknown	yes	no
+arcade	triforce		null	null	mariokartarcadegp2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	unknown	unknown	unknown	unknown	unknown	yes	yes
+arcade	triforce		null	null	mariokartarcadegp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	unknown	unknown	unknown	unknown	unknown	yes	yes
 arcade	none		10-Yard Fight	1983	10yard	2	single	8	2	no	no	no	none	no	Irem	Sports	Football	other	unknown	unknown	yes	yes
 arcade	none		1941: Counter Attack	1990	1941	2	single	8	2	no	no	no	none	yes	Capcom	Shooter	Flying	other	Vertical	unknown	yes	yes
 arcade	none		1942	1984	1942	2	single	8	2	no	no	no	none	yes	Capcom	Shooter	Flying	other	Vertical	unknown	yes	yes
@@ -104,7 +106,7 @@ arcade	none		Break Thru	1986	brkthru	2	single	8	2	no	no	no	none	no	Data East	Sho
 arcade	neogeo		Breakers Revenge	1998	breakrev	2	single	8	4	no	no	no	none	no	Visco	Fighter	Versus	other	unknown	unknown	yes	yes
 arcade	none		Bubble Bobble	1986	bublboblr	2	single	2	2	no	no	no	none	no	Taito	Platform	Run Jump	other	unknown	unknown	yes	yes
 arcade	none		Bubble Bobble 2	1994	bublbob2	4	single	8	4	no	no	no	dial	no	Taito	Platform	Run Jump	other	unknown	unknown	yes	yes
-arcade	none		Bubble Bobble: Lost Cave	2013	bublcave	2	single	2	2	no	no	no	none	no	Other	Platform	Run Jump	other	unknown	unknown	yes	yes
+arcade	none		Bubble Bobble: Lost Cave V1.2	2013	bublcave	2	single	2	2	no	no	no	none	no	Other	Platform	Run Jump	other	unknown	unknown	yes	yes
 arcade	none		Bubble Memories: The Story Of Bubble Bobble 3	1995	bubblem	4	single	8	4	no	no	no	dial	no	Taito	Platform	Run Jump	other	unknown	unknown	yes	yes
 arcade	none		Bubbles	1982	bubbles	1	single	8	0	no	no	no	none	no	Williams	Maze	Collect	other	unknown	unknown	yes	yes
 arcade	none		Buck Rogers: Planet of Zoom	1982	buckrog	1	single	8	3	no	no	no	none	no	SEGA	Shooter	Flying	other	3rd Person	unknown	yes	yes
@@ -198,8 +200,8 @@ arcade	none		DoDonPachi Dai-Ou-Jou	2002	ddpdoj	2	single	8	3	no	no	no	none	yes	Ca
 arcade	none		Dogyuun	1992	dogyuun	2	single	8	3	no	no	no	none	yes	Toaplan	Shooter	Flying	other	Vertical	unknown	yes	yes
 arcade	none		DonPachi	1995	donpachi	2	single	8	3	no	no	no	none	yes	Cave	Shooter	Flying	other	Vertical	unknown	yes	yes
 arcade	none		Donkey Kong	1981	dkong	2	single	4	1	no	no	no	none	yes	Nintendo	Platform	Run Jump	other	unknown	unknown	yes	yes
-arcade	none		Donkey Kong 2: Jumpman Returns	2006	dkongx11	2	single	4	1	no	no	no	none	yes	Other	Platform	Run Jump	other	unknown	unknown	yes	yes
 arcade	none		Donkey Kong 2: Jumpman Returns	2006	dkongx	2	single	4	1	no	no	no	none	yes	Other	Platform	Run Jump	other	unknown	unknown	yes	yes
+arcade	none		Donkey Kong 2: Jumpman Returns	2006	dkongx11	2	single	4	1	no	no	no	none	yes	Other	Platform	Run Jump	other	unknown	unknown	yes	yes
 arcade	none		Donkey Kong 3	1983	dkong3	2	single	4	1	no	no	no	none	yes	Nintendo	Platform	Run Jump	other	unknown	unknown	yes	yes
 arcade	none		Donkey Kong Junior	1982	dkongjr	2	single	4	1	no	no	no	none	yes	Nintendo	Platform	Run Jump	other	unknown	unknown	yes	yes
 arcade	none		Double Dragon	1987	ddragon	2	single	8	3	no	no	no	none	no	Technos Japan	Fighter	Beat Em Up	other	unknown	2.5D	yes	yes
@@ -412,8 +414,6 @@ arcade	none		Mappy	1983	mappy	2	single	2	1	no	no	no	none	yes	Namco	Platform	Run 
 arcade	none		Marble Madness	1984	marble	2	none	none	0	no	no	yes	none	no	Atari	Maze	Ball Guide	other	unknown	unknown	yes	yes
 arcade	none		Marble Madness 2	1991	marblmd2	3	none	none	0	no	no	yes	none	no	Atari	other	Action	unknown	unknown	unknown	yes	yes
 arcade	none		Mario Bros.	1983	mario	2	single	2	1	no	no	no	none	no	Nintendo	Platform	Run Jump	other	unknown	unknown	yes	yes
-arcade	triforce		Mario Kart Arcade GP	2005	mariokartarcadegp	1	none	none	2	no	no	no	pedal/paddle	no	Namco	Driving	Race	other	3rd Person	unknown	yes	yes
-arcade	triforce		Mario Kart Arcade GP 2	2007	mariokartarcadegp2	1	none	none	2	no	no	no	pedal/paddle	no	Namco	Driving	Race	other	3rd Person	unknown	yes	yes
 arcade	none		Mars Matrix: Hyper Solid Shooting	2000	mmatrix	2	single	8	1	no	no	no	none	no	Capcom	Shooter	Flying	other	Vertical	unknown	yes	yes
 arcade	none		Martial Masters	2001	martmast	4	single	8	4	no	no	no	none	no	IGS	Fighter	Versus	other	unknown	unknown	yes	yes
 arcade	none		Marvel Super Heroes	1995	msh	2	single	8	6	no	no	no	none	no	Capcom	Fighter	Versus	other	unknown	unknown	yes	yes
@@ -860,7 +860,9 @@ arcade	none		Zaxxon	1982	zaxxon	2	single	8	1	no	no	no	none	yes	SEGA	Shooter	Flyi
 arcade	none		Zero Wing	1989	zerowing	2	single	8	2	no	no	no	none	no	Toaplan	Shooter	Flying	other	Horizontal	unknown	yes	yes
 arcade	none		Zombie Raid	1995	zombraid	2	none	none	2	yes	no	no	none	no	Sammy	Shooter	Gunner	other	1st Person	unknown	yes	yes
 arcade	none		Zoo Keeper	1982	zookeep	2	single	4	1	no	no	no	none	no	Taito	Platform	Run Jump	other	unknown	unknown	yes	yes
+c64	none		Paradroid	1985	Paradroid	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	Shooter	unknown	unknown	unknown	unknown	yes	no
 c64	none		Uridium	1986	Uridium	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	Shooter	unknown	unknown	unknown	unknown	yes	no
+c64	none		Way of the Exploding Fist, The	1970	Way of the Exploding Fist	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	Fighter	Versus	unknown	unknown	unknown	yes	no
 dreamcast	none		Border Down	2003	Border Down	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	Shooter	unknown	unknown	unknown	unknown	yes	no
 dreamcast	none		Capcom vs. SNK 2: Millionaire Fighting 2001	2001	Capcom vs SNK 2	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	Fighter	Versus	unknown	unknown	unknown	yes	no
 dreamcast	none		Crazy Taxi	2000	Crazy Taxi	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Driving	unknown	unknown	unknown	unknown	yes	no
@@ -869,11 +871,11 @@ dreamcast	none		Marvel vs. Capcom 2: New Age of Heroes	2000	Marvel vs Capcom 2	2
 dreamcast	none		Soul Calibur	1999	Soul Calibur	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Namco	Fighter	Versus	unknown	unknown	unknown	yes	no
 dreamcast	none		Under Defeat	2006	Under Defeat	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	Shooter	unknown	unknown	unknown	unknown	yes	no
 dreamcast	none		Zero Gunner 2	2001	Zero Gunner 2	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Psikyo	Shooter	unknown	unknown	unknown	unknown	yes	no
-gba	none		International Karate Plus	1987	International Karate Plus	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	Fighter	Versus	unknown	unknown	unknown	yes	no
+gba	none		International Karate Plus	1987	International Karate Plus	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	Fighter	Versus	unknown	unknown	unknown	yes	no
 megadrive	none		Castlevania: Bloodlines	1994	Castlevania Bloodlines	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	other	Action	unknown	unknown	unknown	yes	no
 megadrive	none		Comix Zone	1995	Comix Zone	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	other	Action	unknown	unknown	unknown	yes	no
 megadrive	none		Contra: Hard Corps	1994	Contra Hard Corps	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	other	Action	unknown	unknown	unknown	yes	no
-megadrive	none		Disney's Aladdin	1993	AladdinMD	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Virgin	Platform	unknown	unknown	unknown	unknown	yes	no
+megadrive	none		Disney's Aladdin	null	AladdinMD	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	unknown	unknown	unknown	unknown	unknown	yes	no
 megadrive	none		Earthworm Jim	1994	Earthworm Jim	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Virgin	other	Action	unknown	unknown	unknown	yes	no
 megadrive	none		Ecco the Dolphin	1992	ECCO the Dolphin	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	other	Adventure	unknown	unknown	unknown	yes	no
 megadrive	none		Ecco: The Tides of Time	1994	Ecco The Tides of Time	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	other	Adventure	unknown	unknown	unknown	yes	no
@@ -888,21 +890,21 @@ megadrive	none		Streets of Rage	1991	Streets Of Rage I	2	unknown	unknown	unknown
 megadrive	none		Streets of Rage 2	1992	Streets Of Rage II	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Fighter	Beat Em Up	unknown	unknown	unknown	yes	no
 megadrive	none		Streets of Rage 3	1997	Streets of Rage III	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Fighter	Beat Em Up	unknown	unknown	unknown	yes	no
 megadrive	none		Xeno Crisis	2019	Xenocrisis	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	other	Action	unknown	unknown	unknown	yes	no
-n64	none		1080 Snowboarding	1998	1080 Snowboarding (Europe) (En,Ja,Fr,De)	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Sports	unknown	unknown	unknown	unknown	yes	no
+n64	none		1080° TenEighty Snowboarding	null	1080 Snowboarding (Europe) (En,Ja,Fr,De)	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	unknown	unknown	unknown	unknown	unknown	yes	no
 n64	none		F-Zero X	1998	F-Zero X	4	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Driving	unknown	unknown	unknown	unknown	yes	no
-n64	none		GoldenEye 007	1997	GoldenEye (USA)	4	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	other	Action	unknown	unknown	unknown	yes	no
-n64	none		Legend of Zelda: Ocarina of Time, The	1998	Legend of Zelda The Ocarina of Time	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	other	Adventure	unknown	unknown	unknown	yes	no
+n64	none		GoldenEye 007	null	GoldenEye (USA)	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	unknown	unknown	unknown	unknown	unknown	yes	no
+n64	none		Legend of Zelda: Ocarina of Time, The	null	Legend of Zelda The Ocarina of Time	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	unknown	unknown	unknown	unknown	unknown	yes	no
 n64	none		Mario Kart 64	1997	Mario Kart 64	4	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Driving	unknown	unknown	unknown	unknown	yes	no
 n64	none		Star Fox 64	1997	Star Fox 64	4	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Shooter	unknown	unknown	unknown	unknown	yes	no
 n64	none		Super Mario 64	1996	Super Mario 64	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Platform	unknown	unknown	unknown	unknown	yes	no
 n64	none		Wave Race 64	1996	Wave Race 64	4	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Driving	unknown	unknown	unknown	unknown	yes	no
 pc	none		After Burner Climax	2010	After Burner Climax	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Shooter	unknown	unknown	unknown	unknown	yes	yes
+pc	none		Doom	1995	Doom	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	other	Action	unknown	unknown	unknown	yes	no
 pc	none		OutRun 2006: Coast 2 Coast	2006	OutRun 2006	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Driving	unknown	unknown	unknown	unknown	yes	yes
 ps2	none		Tekken 5	2005	Tekken 5	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Namco	Fighter	Versus	unknown	unknown	unknown	yes	no
 psp	none		Street Fighter Alpha 3 Max	2006	Street Fighter Alpha 3 MAX	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	Fighter	Versus	unknown	unknown	unknown	yes	no
 psp	none		Ultimate Ghosts'n Goblins	2006	Ultimate Ghosts N Goblins	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	other	Action	unknown	unknown	unknown	yes	no
 psp	none		Wipeout Pulse	null	WipEout Pulse	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	Driving	unknown	unknown	unknown	unknown	yes	no
-psx	none		Castlevania: Symphony of the Night	1997	Castlevania - Symphony of the Night	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	other	Action	unknown	unknown	unknown	yes	no
 snes	none		Aladdin	1993	Aladdin	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	Platform	unknown	unknown	unknown	unknown	yes	no
 snes	none		Axelay	1992	Axelay	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	Shooter	unknown	unknown	unknown	unknown	yes	no
 snes	none		Contra 3: The Alien Wars	1992	Contra III	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	other	Action	unknown	unknown	unknown	yes	no

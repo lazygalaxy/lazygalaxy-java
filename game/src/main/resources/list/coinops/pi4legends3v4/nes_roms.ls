@@ -1,3 +1,0 @@
--rw-rw-r-- 1 1000 1000     65548 Apr 23  2022 Legend of Zelda.zip
--rw-rw-r-- 1 1000 1000     31657 Apr 23  2022 Super Mario Bros 1.zip
--rw-rw-r-- 1 1000 1000    227841 Apr 20  2022 Super Mario Bros 3.zip

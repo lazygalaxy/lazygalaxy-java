@@ -1,0 +1,8 @@
+-rw-r--r-- 1 vangos 197121 11342796 Oct 11  2019 1080 Snowboarding (Europe) (En,Ja,Fr,De).zip
+-rw-r--r-- 1 vangos 197121 12971323 Apr 18  2019 F-Zero X.zip
+-rw-r--r-- 1 vangos 197121 10834702 Oct 14  2019 GoldenEye (USA).zip
+-rw-r--r-- 1 vangos 197121 26540843 Apr 19  2019 Legend of Zelda The Ocarina of Time.zip
+-rw-r--r-- 1 vangos 197121  9016679 Apr 18  2019 Mario Kart 64.zip
+-rw-r--r-- 1 vangos 197121 10627528 Apr 18  2019 Star Fox 64.zip
+-rw-r--r-- 1 vangos 197121  6262602 Apr 18  2019 Super Mario 64.zip
+-rw-r--r-- 1 vangos 197121  6166748 Apr 18  2019 Wave Race 64.zip
