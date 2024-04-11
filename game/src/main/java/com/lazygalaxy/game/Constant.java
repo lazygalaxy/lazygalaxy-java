@@ -178,6 +178,7 @@ public class Constant {
 
     public static class CoinOpsVersion {
         public final static String FORGOTTEN_WORLDS_2 = "forgottenworlds2";
+        public final static String FU_ATARASHII = "fuatarashii";
         public final static String LEGENDS_3_DESK = "legends3deck";
 
         public final static String LINUX_LEGENDS_3_V1 = "linuxlegends3v1";
@@ -192,6 +193,6 @@ public class Constant {
         public final static String PI4_LEGENDS_3_V4 = "pi4legends3v4";
 
 
-        public final static List<String> ALL = Lists.newArrayList(INSERT_COIN,PI4_LEGENDS_3_V4, PLAYER_LEGENDS_4_MAX, PLAYER_LEGENDS_4,FORGOTTEN_WORLDS_2, LEGENDS_3_DESK, LINUX_LEGENDS_3_V1, COLLECTIONS_ARCADE, COLLECTIONS_LEGENDS, PI4_LEGENDS_2_V3);
+        public final static List<String> ALL = Lists.newArrayList(FU_ATARASHII, INSERT_COIN, PI4_LEGENDS_3_V4, PLAYER_LEGENDS_4_MAX, PLAYER_LEGENDS_4, FORGOTTEN_WORLDS_2, LEGENDS_3_DESK, LINUX_LEGENDS_3_V1, COLLECTIONS_ARCADE, COLLECTIONS_LEGENDS, PI4_LEGENDS_2_V3);
     }
 }

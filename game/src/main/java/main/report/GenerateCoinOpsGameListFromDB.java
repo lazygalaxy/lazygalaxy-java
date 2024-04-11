@@ -52,6 +52,7 @@ public class GenerateCoinOpsGameListFromDB {
                         "Sub2Genre" + seperator +
                         "CameraGenre" + seperator +
                         "GraphicsGenre" + seperator +
+                        "FUA" + seperator +
                         "Insert Coin" + seperator +
                         "Pi4 Legends 3 v4" + seperator +
                         "Forgotten Worlds 2" + seperator +
@@ -86,6 +87,7 @@ public class GenerateCoinOpsGameListFromDB {
                             + (game.sub2Genre != null ? game.sub2Genre : Constant.Values.UNKNOWN) + seperator
                             + (game.camera != null ? game.camera : Constant.Values.UNKNOWN) + seperator
                             + (game.graphics != null ? game.graphics : Constant.Values.UNKNOWN) + seperator
+                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.FU_ATARASHII) ? Constant.Values.YES : Constant.Values.NO) + seperator
                             + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.INSERT_COIN) ? Constant.Values.YES : Constant.Values.NO) + seperator
                             + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.PI4_LEGENDS_3_V4) ? Constant.Values.YES : Constant.Values.NO) + seperator
                             + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.FORGOTTEN_WORLDS_2) ? Constant.Values.YES : Constant.Values.NO) + seperator

@@ -9,6 +9,13 @@
 -rw-r--r-- 1 vangos 197121  2479888 Mar  6  2018 3wonders.zip
 -rw-r--r-- 1 vangos 197121  1294215 Mar  8  2018 64street.zip
 -rw-r--r-- 1 vangos 197121   640813 Mar  6  2018 720.zip
+-rw-r--r-- 1 vangos 197121        0 Oct 26  2020 After Burner Climax.zip
+-rw-r--r-- 1 vangos 197121       10 Mar 29  2021 Dragons Lair.zip
+-rw-r--r-- 1 vangos 197121       18 Jan  5  2020 Mario Kart Arcade GP 2.zip
+-rw-r--r-- 1 vangos 197121       18 Jan  5  2020 Mario Kart Arcade GP.zip
+-rw-r--r-- 1 vangos 197121        0 Oct 26  2020 OutRun 2006.zip
+-rw-r--r-- 1 vangos 197121       10 Mar 29  2021 Space Ace.zip
+-rw-r--r-- 1 vangos 197121        0 Oct 26  2020 Ultra Street Fighter IV.zip
 -rw-r--r-- 1 vangos 197121  1524019 Nov 20  2021 abcop.zip
 -rw-r--r-- 1 vangos 197121  1547888 Mar  3  2018 aburner2.zip
 -rw-r--r-- 1 vangos 197121  7789777 Nov 20  2021 acedrvrw.zip
@@ -27,7 +34,7 @@
 -rw-r--r-- 1 vangos 197121    28263 Mar  5  2018 alpine.zip
 -rw-r--r-- 1 vangos 197121   849527 Mar  4  2018 altbeast.zip
 -rw-r--r-- 1 vangos 197121    16939 May 28  2018 amidar.zip
--rw-r--r-- 1 vangos 197121    14701 Sep 20  2023 anteater.zip
+-rw-r--r-- 1 vangos 197121    14701 Sep 20 09:46 anteater.zip
 -rw-r--r-- 1 vangos 197121 11645858 Mar 17  2018 aodk.zip
 -rw-r--r-- 1 vangos 197121  9080416 Mar 12  2018 aof.zip
 -rw-r--r-- 1 vangos 197121 13912524 Mar 15  2018 aof2.zip
@@ -90,7 +97,7 @@
 -rw-r--r-- 1 vangos 197121    36158 Mar  3  2018 bnj.zip
 -rw-r--r-- 1 vangos 197121   945969 Mar  5  2018 bnzabros.zip
 -rw-r--r-- 1 vangos 197121    56902 Mar  3  2018 bombjack.zip
--rw-r--r-- 1 vangos 197121  5161677 Sep 20  2023 bonkadv.zip
+-rw-r--r-- 1 vangos 197121  5161677 Sep 20 09:49 bonkadv.zip
 -rw-r--r-- 1 vangos 197121   868393 Apr  1  2018 bonzeadv.zip
 -rw-r--r-- 1 vangos 197121  8306458 Mar  5  2018 boogwing.zip
 -rw-r--r-- 1 vangos 197121    39085 Mar  3  2018 bosco.zip
@@ -163,11 +170,13 @@
 -rw-r--r-- 1 vangos 197121 14705061 Mar  5  2018 cyvern.zip
 -rw-r--r-- 1 vangos 197121  3149136 Mar 15  2018 daioh.zip
 -rw-r--r-- 1 vangos 197121   697674 Mar  8  2018 darius.zip
--rw-r--r-- 1 vangos 197121  2554748 Sep 25  2023 darius2.zip
+-rw-r--r-- 1 vangos 197121  2554748 Sep 25 11:37 darius2.zip
 -rw-r--r-- 1 vangos 197121  7949500 Mar 16  2018 dariusg.zip
 -rw-r--r-- 1 vangos 197121   349895 Nov 20  2021 darkmist.zip
 -rw-r--r-- 1 vangos 197121  1185180 Mar  3  2018 darkseal.zip
 -rw-r--r-- 1 vangos 197121  3958613 Mar 15  2018 dassault.zip
+-rw-r--r-- 1 vangos 197121        0 Oct 26  2020 dayto2pe.zip
+-rw-r--r-- 1 vangos 197121        0 Oct 26  2020 daytona.zip
 -rw-r--r-- 1 vangos 197121   753922 Mar  3  2018 dbreed.zip
 -rw-r--r-- 1 vangos 197121  7873158 Mar  3  2018 ddonpach.zip
 -rw-r--r-- 1 vangos 197121 15004487 Mar 11  2018 ddp2.zip
@@ -356,7 +365,7 @@
 -rw-r--r-- 1 vangos 197121   368019 Mar  3  2018 karnov.zip
 -rw-r--r-- 1 vangos 197121   874065 May 30  2018 kazan.zip
 -rw-r--r-- 1 vangos 197121   110292 Mar  3  2018 kchamp.zip
--rw-r--r-- 1 vangos 197121    98694 Aug 18  2023 kchampvs.zip
+-rw-r--r-- 1 vangos 197121    98694 Aug 18 21:21 kchampvs.zip
 -rw-r--r-- 1 vangos 197121 20364484 Mar  3  2018 ket.zip
 -rw-r--r-- 1 vangos 197121    50641 Mar  4  2018 kicker.zip
 -rw-r--r-- 1 vangos 197121   157255 Apr 20  2023 kicknrun.zip
@@ -445,7 +454,7 @@
 -rw-r--r-- 1 vangos 197121    32673 Mar  6  2018 mrdo.zip
 -rw-r--r-- 1 vangos 197121 11751936 Mar 24  2019 mrdrillr.zip
 -rw-r--r-- 1 vangos 197121 20101901 Mar  6  2018 msh.zip
--rw-r--r-- 1 vangos 197121 23127003 Apr 22  2023 mshvsf.zip
+-rw-r--r-- 1 vangos 197121 23127488 Mar  6  2018 mshvsf.zip
 -rw-r--r-- 1 vangos 197121 14758164 Mar  3  2018 mslug.zip
 -rw-r--r-- 1 vangos 197121 19416176 Nov 27  2018 mslug2t.zip
 -rw-r--r-- 1 vangos 197121 82049588 Mar  3  2018 mslug3.zip
@@ -459,7 +468,7 @@
 -rw-r--r-- 1 vangos 197121  1229978 Mar  4  2018 mustang.zip
 -rw-r--r-- 1 vangos 197121  4373175 Mar 10  2018 mutantf.zip
 -rw-r--r-- 1 vangos 197121  5365250 Mar 15  2018 mutnat.zip
--rw-r--r-- 1 vangos 197121 22701957 Apr 22  2023 mvsc.zip
+-rw-r--r-- 1 vangos 197121 22702433 Mar  6  2018 mvsc.zip
 -rw-r--r-- 1 vangos 197121  1942192 Mar  3  2018 mwalk.zip
 -rw-r--r-- 1 vangos 197121    77496 Mar  4  2018 myhero.zip
 -rw-r--r-- 1 vangos 197121  1468954 Mar  5  2018 mysticri.zip
@@ -618,6 +627,7 @@
 -rw-r--r-- 1 vangos 197121  1222775 Mar  3  2018 scontra.zip
 -rw-r--r-- 1 vangos 197121    15625 Mar  3  2018 scramble.zip
 -rw-r--r-- 1 vangos 197121  5398446 May  7  2018 scross.zip
+-rw-r--r-- 1 vangos 197121        0 Oct 26  2020 scudp.zip
 -rw-r--r-- 1 vangos 197121   370694 May 30  2018 sdi.zip
 -rw-r--r-- 1 vangos 197121  8806123 Oct 26  2018 sdodgeb.zip
 -rw-r--r-- 1 vangos 197121  1573331 Mar 10  2018 searchar.zip
@@ -694,6 +704,7 @@
 -rw-r--r-- 1 vangos 197121  1006508 Mar  9  2018 spy.zip
 -rw-r--r-- 1 vangos 197121   106924 Mar  3  2018 spyhunt.zip
 -rw-r--r-- 1 vangos 197121   330186 May  7  2018 sqix.zip
+-rw-r--r-- 1 vangos 197121        0 Oct 26  2020 srally2.zip
 -rw-r--r-- 1 vangos 197121 17280978 Oct  7  2020 srallyc.zip
 -rw-r--r-- 1 vangos 197121   352346 Mar  4  2018 srumbler.zip
 -rw-r--r-- 1 vangos 197121 10336081 Apr 11  2021 ssf2.zip
