@@ -860,6 +860,76 @@ arcade	none		Zaxxon	1982	zaxxon	2	single	8	1	no	no	no	none	yes	SEGA	Shooter	Flyi
 arcade	none		Zero Wing	1989	zerowing	2	single	8	2	no	no	no	none	no	Toaplan	Shooter	Flying	other	Horizontal	unknown	yes	yes
 arcade	none		Zombie Raid	1995	zombraid	2	none	none	2	yes	no	no	none	no	Sammy	Shooter	Gunner	other	1st Person	unknown	yes	yes
 arcade	none		Zoo Keeper	1982	zookeep	2	single	4	1	no	no	no	none	no	Taito	Platform	Run Jump	other	unknown	unknown	yes	yes
+c64	none		Uridium	1986	Uridium	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	Shooter	unknown	unknown	unknown	unknown	yes	no
+dreamcast	none		Border Down	2003	Border Down	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	Shooter	unknown	unknown	unknown	unknown	yes	no
+dreamcast	none		Capcom vs. SNK 2: Millionaire Fighting 2001	2001	Capcom vs SNK 2	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	Fighter	Versus	unknown	unknown	unknown	yes	no
+dreamcast	none		Crazy Taxi	2000	Crazy Taxi	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Driving	unknown	unknown	unknown	unknown	yes	no
+dreamcast	none		Ikaruga	2002	Ikaruga	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	Shooter	unknown	unknown	unknown	unknown	yes	no
+dreamcast	none		Marvel vs. Capcom 2: New Age of Heroes	2000	Marvel vs Capcom 2	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	Fighter	Versus	unknown	unknown	unknown	yes	no
+dreamcast	none		Soul Calibur	1999	Soul Calibur	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Namco	Fighter	Versus	unknown	unknown	unknown	yes	no
+dreamcast	none		Under Defeat	2006	Under Defeat	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	Shooter	unknown	unknown	unknown	unknown	yes	no
+dreamcast	none		Zero Gunner 2	2001	Zero Gunner 2	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Psikyo	Shooter	unknown	unknown	unknown	unknown	yes	no
+gba	none		International Karate Plus	1987	International Karate Plus	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	Fighter	Versus	unknown	unknown	unknown	yes	no
+megadrive	none		Castlevania: Bloodlines	1994	Castlevania Bloodlines	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	other	Action	unknown	unknown	unknown	yes	no
+megadrive	none		Comix Zone	1995	Comix Zone	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	other	Action	unknown	unknown	unknown	yes	no
+megadrive	none		Contra: Hard Corps	1994	Contra Hard Corps	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	other	Action	unknown	unknown	unknown	yes	no
+megadrive	none		Disney's Aladdin	1993	AladdinMD	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Virgin	Platform	unknown	unknown	unknown	unknown	yes	no
+megadrive	none		Earthworm Jim	1994	Earthworm Jim	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Virgin	other	Action	unknown	unknown	unknown	yes	no
+megadrive	none		Ecco the Dolphin	1992	ECCO the Dolphin	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	other	Adventure	unknown	unknown	unknown	yes	no
+megadrive	none		Ecco: The Tides of Time	1994	Ecco The Tides of Time	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	other	Adventure	unknown	unknown	unknown	yes	no
+megadrive	none		Gunstar Heroes	1993	Gunstar Heroes	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	other	Action	unknown	unknown	unknown	yes	no
+megadrive	none		Revenge of Shinobi, The	1990	Revenge of Shinobi	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Platform	unknown	unknown	unknown	unknown	yes	no
+megadrive	none		Rocket Knight Adventures	1993	Rocket Knight Adventures	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	Platform	unknown	unknown	unknown	unknown	yes	no
+megadrive	none		Shinobi 3: Return of the Ninja Master	1993	Shinobi III	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	other	Action	unknown	unknown	unknown	yes	no
+megadrive	none		Sonic the Hedgehog	1991	Sonic The Hedgehog I	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Platform	unknown	unknown	unknown	unknown	yes	no
+megadrive	none		Sonic the Hedgehog 2	1992	Sonic The Hedgehog II	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Platform	unknown	unknown	unknown	unknown	yes	no
+megadrive	none		Sonic the Hedgehog 3	1994	Sonic The Hedgehog III	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Platform	unknown	unknown	unknown	unknown	yes	no
+megadrive	none		Streets of Rage	1991	Streets Of Rage I	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Fighter	Beat Em Up	unknown	unknown	unknown	yes	no
+megadrive	none		Streets of Rage 2	1992	Streets Of Rage II	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Fighter	Beat Em Up	unknown	unknown	unknown	yes	no
+megadrive	none		Streets of Rage 3	1997	Streets of Rage III	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Fighter	Beat Em Up	unknown	unknown	unknown	yes	no
+megadrive	none		Xeno Crisis	2019	Xenocrisis	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	other	Action	unknown	unknown	unknown	yes	no
+n64	none		1080 Snowboarding	1998	1080 Snowboarding (Europe) (En,Ja,Fr,De)	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Sports	unknown	unknown	unknown	unknown	yes	no
+n64	none		F-Zero X	1998	F-Zero X	4	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Driving	unknown	unknown	unknown	unknown	yes	no
+n64	none		GoldenEye 007	1997	GoldenEye (USA)	4	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	other	Action	unknown	unknown	unknown	yes	no
+n64	none		Legend of Zelda: Ocarina of Time, The	1998	Legend of Zelda The Ocarina of Time	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	other	Adventure	unknown	unknown	unknown	yes	no
+n64	none		Mario Kart 64	1997	Mario Kart 64	4	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Driving	unknown	unknown	unknown	unknown	yes	no
+n64	none		Star Fox 64	1997	Star Fox 64	4	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Shooter	unknown	unknown	unknown	unknown	yes	no
+n64	none		Super Mario 64	1996	Super Mario 64	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Platform	unknown	unknown	unknown	unknown	yes	no
+n64	none		Wave Race 64	1996	Wave Race 64	4	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Driving	unknown	unknown	unknown	unknown	yes	no
 pc	none		After Burner Climax	2010	After Burner Climax	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Shooter	unknown	unknown	unknown	unknown	yes	yes
 pc	none		OutRun 2006: Coast 2 Coast	2006	OutRun 2006	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Driving	unknown	unknown	unknown	unknown	yes	yes
 ps2	none		Tekken 5	2005	Tekken 5	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Namco	Fighter	Versus	unknown	unknown	unknown	yes	no
+psp	none		Street Fighter Alpha 3 Max	2006	Street Fighter Alpha 3 MAX	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	Fighter	Versus	unknown	unknown	unknown	yes	no
+psp	none		Ultimate Ghosts'n Goblins	2006	Ultimate Ghosts N Goblins	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	other	Action	unknown	unknown	unknown	yes	no
+psp	none		Wipeout Pulse	null	WipEout Pulse	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	Driving	unknown	unknown	unknown	unknown	yes	no
+psx	none		Castlevania: Symphony of the Night	1997	Castlevania - Symphony of the Night	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	other	Action	unknown	unknown	unknown	yes	no
+snes	none		Aladdin	1993	Aladdin	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	Platform	unknown	unknown	unknown	unknown	yes	no
+snes	none		Axelay	1992	Axelay	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	Shooter	unknown	unknown	unknown	unknown	yes	no
+snes	none		Contra 3: The Alien Wars	1992	Contra III	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	other	Action	unknown	unknown	unknown	yes	no
+snes	none		Demon's Crest	1994	Demons Crest	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	other	Action	unknown	unknown	unknown	yes	no
+snes	none		Donkey Kong Country	1994	Donkey Kong Country I	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Platform	unknown	unknown	unknown	unknown	yes	no
+snes	none		Donkey Kong Country 2: Diddy's Kong Quest	1995	Donkey Kong Country II	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Platform	unknown	unknown	unknown	unknown	yes	no
+snes	none		F-Zero	1992	F Zero	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Driving	unknown	unknown	unknown	unknown	yes	no
+snes	none		Final Fight 2	1993	Final Fight II	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	Fighter	Beat Em Up	unknown	unknown	unknown	yes	no
+snes	none		Final Fight 3	1995	Final Fight III	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	Fighter	Beat Em Up	unknown	unknown	unknown	yes	no
+snes	none		Legend of Zelda, The: A Link to the Past	1992	Legend of Zelda Link to the Past	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	other	Adventure	unknown	unknown	unknown	yes	no
+snes	none		Mega Man X1	1994	Mega Man X1	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	other	Action	unknown	unknown	unknown	yes	no
+snes	none		Mega Man X2	1995	Mega Man X2	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	other	Action	unknown	unknown	unknown	yes	no
+snes	none		Ninja Warriors	1994	Ninja Warriors	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	Fighter	Beat Em Up	unknown	unknown	unknown	yes	no
+snes	none		Pilotwings	1991	Pilotwings	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	other	Simulation	unknown	unknown	unknown	yes	no
+snes	none		Pocky & Rocky	1993	Pocky Rocky I	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	other	Action	unknown	unknown	unknown	yes	no
+snes	none		Pocky & Rocky 2	1994	Pocky Rocky II	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	other	Action	unknown	unknown	unknown	yes	no
+snes	none		R-Type 3: The Third Lightning	1994	R-Type III	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Jaleco	Shooter	unknown	unknown	unknown	unknown	yes	no
+snes	none		Super Castlevania 4	1991	Super Castlevania IV	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	other	Action	unknown	unknown	unknown	yes	no
+snes	none		Super Ghouls'n Ghosts	1991	Super Ghouls n Ghosts	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	Platform	unknown	unknown	unknown	unknown	yes	no
+snes	none		Super Mario All-Stars	1993	Super Mario All Stars	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Platform	unknown	unknown	unknown	unknown	yes	no
+snes	none		Super Mario Kart	1992	Super Mario Kart	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Driving	unknown	unknown	unknown	unknown	yes	no
+snes	none		Super Mario World	1991	Super Mario World 1	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Platform	unknown	unknown	unknown	unknown	yes	no
+snes	none		Super Mario World 2: Yoshi's Island	1995	Super Mario World 2	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Platform	unknown	unknown	unknown	unknown	yes	no
+snes	none		Super Metroid	1994	Super Metroid	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Platform	unknown	unknown	unknown	unknown	yes	no
+snes	none		Super Punch-Out!!	1994	Super Punch-Out!!	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Sports	Boxing	unknown	unknown	unknown	yes	no
+snes	none		Super Star Wars 1	1992	Super Star Wars	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	other	Action	unknown	unknown	unknown	yes	no
+snes	none		Super Star Wars 2: The Empire Strikes Back	1993	Super Star Wars II	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	other	Action	unknown	unknown	unknown	yes	no
+snes	none		Super Star Wars 3: Return of the Jedi	1994	Super Star Wars III	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	other	Action	unknown	unknown	unknown	yes	no
+snes	none		Wild Guns	1995	Wild Guns	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	other	Action	unknown	unknown	unknown	yes	no
+snes	none		Zombies Ate My Neighbors	1993	Zombies Ate My Neighbors	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	other	Action	unknown	unknown	unknown	yes	no
