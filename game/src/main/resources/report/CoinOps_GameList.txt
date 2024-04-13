@@ -1,7 +1,5 @@
 System	SubSystem	Name	Year	ROM	Players	Joystick	Ways	Buttons	LightGun	Stick	TrackBall	Other Input	Vertical	Manufacturer	Genre	SubGenre	Sub2Genre	CameraGenre	GraphicsGenre	FWA MAX 2 	FUA
 console	3do	Road Rash	1994	Road Rash (1994)(Electronic Arts)(Eu)[CDD4431]	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Electronic Arts	Driving	unknown	unknown	unknown	unknown	yes	no
-arcade	triforce	null	null	mariokartarcadegp2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	unknown	unknown	unknown	unknown	unknown	yes	yes
-arcade	triforce	null	null	mariokartarcadegp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	unknown	unknown	unknown	unknown	unknown	yes	yes
 arcade	none	10-Yard Fight	1983	10yard	2	single	8	2	no	no	no	none	no	Irem	Sports	Football	other	unknown	unknown	yes	yes
 arcade	none	1941: Counter Attack	1990	1941	2	single	8	2	no	no	no	none	yes	Capcom	Shooter	Flying	other	Vertical	unknown	yes	yes
 arcade	none	1942	1984	1942	2	single	8	2	no	no	no	none	yes	Capcom	Shooter	Flying	other	Vertical	unknown	yes	yes
@@ -414,6 +412,8 @@ arcade	none	Mappy	1983	mappy	2	single	2	1	no	no	no	none	yes	Namco	Platform	Run J
 arcade	none	Marble Madness	1984	marble	2	none	none	0	no	no	yes	none	no	Atari	Maze	Ball Guide	other	unknown	unknown	yes	yes
 arcade	none	Marble Madness 2	1991	marblmd2	3	none	none	0	no	no	yes	none	no	Atari	other	Action	unknown	unknown	unknown	yes	yes
 arcade	none	Mario Bros.	1983	mario	2	single	2	1	no	no	no	none	no	Nintendo	Platform	Run Jump	other	unknown	unknown	yes	yes
+arcade	triforce	Mario Kart Arcade GP	2005	mariokartarcadegp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Namco	unknown	unknown	unknown	unknown	unknown	yes	yes
+arcade	triforce	Mario Kart Arcade GP 2	2007	mariokartarcadegp2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Namco	unknown	unknown	unknown	unknown	unknown	yes	yes
 arcade	none	Mars Matrix: Hyper Solid Shooting	2000	mmatrix	2	single	8	1	no	no	no	none	no	Capcom	Shooter	Flying	other	Vertical	unknown	yes	yes
 arcade	none	Martial Masters	2001	martmast	4	single	8	4	no	no	no	none	no	IGS	Fighter	Versus	other	unknown	unknown	yes	yes
 arcade	none	Marvel Super Heroes	1995	msh	2	single	8	6	no	no	no	none	no	Capcom	Fighter	Versus	other	unknown	unknown	yes	yes
@@ -909,7 +909,6 @@ handheld	psp	Street Fighter Alpha 3 Max	2006	Street Fighter Alpha 3 MAX	1	unknow
 handheld	psp	Ultimate Ghosts'n Goblins	2006	Ultimate Ghosts N Goblins	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	other	Action	unknown	unknown	unknown	yes	no
 handheld	psp	Wipeout Pulse	null	WipEout Pulse	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	Driving	unknown	unknown	unknown	unknown	yes	no
 console	psx	Castlevania: Symphony of the Night	1997	Castlevania - Symphony of the Night	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	other	Action	unknown	unknown	unknown	yes	no
-console	snes	null	null	Super Punch-Out!!	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	unknown	unknown	unknown	unknown	unknown	yes	no
 console	snes	Aladdin	null	Aladdin	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	unknown	unknown	unknown	unknown	unknown	yes	no
 console	snes	Axelay	1992	Axelay	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	Shooter	unknown	unknown	unknown	unknown	yes	no
 console	snes	Contra 3: The Alien Wars	1992	Contra III	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	other	Action	unknown	unknown	unknown	yes	no
@@ -934,6 +933,7 @@ console	snes	Super Mario Kart	1992	Super Mario Kart	2	unknown	unknown	unknown	un
 console	snes	Super Mario World	1991	Super Mario World 1	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Platform	unknown	unknown	unknown	unknown	yes	no
 console	snes	Super Mario World 2: Yoshi's Island	1995	Super Mario World 2	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Platform	unknown	unknown	unknown	unknown	yes	no
 console	snes	Super Metroid	1994	Super Metroid	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Platform	unknown	unknown	unknown	unknown	yes	no
+console	snes	Super Punch-Out!!	1994	Super Punch-Out!!	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	Sports	Boxing	unknown	unknown	unknown	yes	no
 console	snes	Super Star Wars 2: The Empire Strikes Back	null	Super Star Wars III	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	unknown	unknown	unknown	unknown	unknown	yes	no
 console	snes	Super Star Wars 3: Return of the Jedi	null	Super Star Wars	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	unknown	unknown	unknown	unknown	unknown	yes	no
 console	snes	Wild Guns	1995	Wild Guns	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	other	Action	unknown	unknown	unknown	yes	no

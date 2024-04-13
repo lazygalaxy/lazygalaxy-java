@@ -48,7 +48,7 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
     private static class MameGameInfoLoad extends XMLLoad<Game> {
 
         private final Map<String, Game> mameGameByIdMap = new HashMap<String, Game>();
-        private final Map<String, List<Game>> mameGameByNameYearMap = new HashMap<String, List<Game>>();
+        private final Map<String, List<Game>> mameGameByNameMap = new HashMap<String, List<Game>>();
 
         private final String emulatorVersion;
 
@@ -63,15 +63,13 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
                 mameGameByIdMap.put(game.gameId, game);
 
                 for (String name : game.labels) {
-                    if (game.year != null) {
-                        String mapKey = name + game.year;
-                        List<Game> gameList = mameGameByNameYearMap.get(mapKey);
-                        if (gameList == null) {
-                            gameList = new ArrayList<Game>();
-                            mameGameByNameYearMap.put(mapKey, gameList);
-                        }
-                        gameList.add(game);
+                    String mapKey = name;
+                    List<Game> gameList = mameGameByNameMap.get(mapKey);
+                    if (gameList == null) {
+                        gameList = new ArrayList<Game>();
+                        mameGameByNameMap.put(mapKey, gameList);
                     }
+                    gameList.add(game);
                 }
             }
         }
@@ -89,20 +87,9 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
                 GameUtil.pretifyName(gameInfoStatic);
 
                 if (gameInfoStatic.names != null) {
-                    String year = XMLUtil.getTagAsString(element, "year", 0);
-                    if (year != null && !StringUtils.equals(year, "1970")) {
-                        year = StringUtils.left(year, 4);
-                        if (StringUtils.contains(year, "?")) {
-                            year = null;
-                        }
-                    }
-
                     for (String name : gameInfoStatic.names) {
                         List<Game> mapGames = null;
-                        if (year != null) {
-                            mapGames = mameGameByNameYearMap.get(GeneralUtil.alphanumerify(name + year));
-                        }
-
+                        mapGames = mameGameByNameMap.get(GeneralUtil.alphanumerify(name));
                         if (mapGames != null) {
                             for (Game mapGame : mapGames) {
                                 if (mapGame.mameGameInfo == null
@@ -199,7 +186,7 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
                 subSystemId = GameSystem.MODEL2;
             } else if (StringUtils.contains(sourceFile, "model3")) {
                 subSystemId = GameSystem.MODEL3;
-            }else if (StringUtils.contains(sourceFile, "naomi")) {
+            } else if (StringUtils.contains(sourceFile, "naomi")) {
                 subSystemId = GameSystem.NAOMI;
             } else if (StringUtils.contains(sourceFile, "neogeo")) {
                 subSystemId = GameSystem.NEOGEO;

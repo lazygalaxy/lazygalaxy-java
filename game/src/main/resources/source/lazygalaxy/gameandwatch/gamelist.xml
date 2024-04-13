@@ -11,6 +11,7 @@
 	<game>
 		<path>./gnw_dkong.zip</path>
 		<name>Donkey Kong</name>
+		<releasedate>1982</releasedate>
 	</game>
 	<game>
 		<path>./gnw_dkong2.zip</path>

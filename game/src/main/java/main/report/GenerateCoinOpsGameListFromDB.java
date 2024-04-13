@@ -34,7 +34,6 @@ public class GenerateCoinOpsGameListFromDB {
         Files.writeString(filePath,
                 "System" + seperator +
                         "SubSystem" + seperator +
-                        "Emulator" + seperator +
                         "Name" + seperator +
                         "Year" + seperator +
                         "ROM" + seperator +
@@ -59,9 +58,8 @@ public class GenerateCoinOpsGameListFromDB {
 
         for (Game game : games) {
             Files.writeString(filePath,
-                    game.systemId + seperator +
-                            (game.subSystemId != null && !StringUtils.equals(game.subSystemId, game.systemId) ? game.subSystemId : Constant.Values.NONE) + seperator +
-                            "" + seperator +
+                    (StringUtils.equals(game.systemId, Constant.GameSystem.ARCADE) ? Constant.GameSystem.ARCADE : getSystem(game.systemId)) + seperator +
+                            (StringUtils.equals(game.systemId, Constant.GameSystem.ARCADE) ? (game.subSystemId != null ? game.subSystemId : Constant.Values.NONE) : game.systemId) + seperator +
                             game.name + seperator +
                             game.year + seperator +
                             (game.coinopsGameInfo != null && game.coinopsGameInfo.originalName != null ? game.coinopsGameInfo.originalName : game.gameId) + seperator
@@ -81,10 +79,23 @@ public class GenerateCoinOpsGameListFromDB {
                             + (game.camera != null ? game.camera : Constant.Values.UNKNOWN) + seperator
                             + (game.graphics != null ? game.graphics : Constant.Values.UNKNOWN) + seperator
                             + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.FW_ATARASHII_MAX2) ? Constant.Values.YES : Constant.Values.NO) + seperator
-                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.FU_ATARASHII) ? Constant.Values.YES : Constant.Values.NO)+ "\n",
+                            + (SetUtil.contains(game.coinopsVersions, Constant.CoinOpsVersion.FU_ATARASHII) ? Constant.Values.YES : Constant.Values.NO) + "\n",
                     StandardOpenOption.APPEND);
         }
         LOGGER.info("report done");
+    }
+
+    private static String getSystem(String systemId) {
+        if (Constant.GameSystem.CONSOLE.contains(systemId)) {
+            return "console";
+        }
+        if (Constant.GameSystem.COMPUTER.contains(systemId)) {
+            return "computer";
+        }
+        if (Constant.GameSystem.HANDHELD.contains(systemId)) {
+            return "handheld";
+        }
+        return Constant.Values.UNKNOWN;
     }
 
     private static String getOtherInputString(Set<String> set, String... items) {

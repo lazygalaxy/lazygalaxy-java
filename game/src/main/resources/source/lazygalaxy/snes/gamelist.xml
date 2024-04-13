@@ -1,35 +1,31 @@
 <?xml version="1.0"?>
 <gameList>
-	<provider>
-		<System>Super Nintendo</System>
-		<database>LazyGalaxy</database>
-	</provider>
-	<game>
-		<path>./Aladdin.zip</path>
-		<name>Aladdin / Disney's Aladdin</name>
-	</game>
-	<game>
-		<path>./Legend of Zelda Link to the Past.zip</path>
-		<name>The Legend of Zelda: A Link to the Past / Legend of Zelda: Link to the Past</name>
-	</game>
-	<game>
-		<path>./Mega Man X1.zip</path>
-		<name>Mega Man X1 / Mega Man X</name>
-	</game>
-	<game>
-		<path>./Super Punch-Out!!.zip</path>
-		<subgenre>Boxing</subgenre>
-	</game>
-	<game>
-		<path>./Super Star Wars.zip</path>
-		<name>Super Star Wars 1</name>
-	</game>
-	<game>
-		<path>./Super Star Wars III.zip</path>
-		<name>Super Star Wars 2: The Empire Strikes Back</name>
-	</game>
-	<game>
-		<path>./Super Star Wars.zip</path>
-		<name>Super Star Wars 3: Return of the Jedi</name>
-	</game>
+    <provider>
+        <System>Super Nintendo</System>
+        <database>LazyGalaxy</database>
+    </provider>
+    <game>
+        <path>./Aladdin.zip</path>
+        <name>Aladdin / Disney's Aladdin</name>
+    </game>
+    <game>
+        <path>./Legend of Zelda Link to the Past.zip</path>
+        <name>The Legend of Zelda: A Link to the Past / Legend of Zelda: Link to the Past</name>
+    </game>
+    <game>
+        <path>./Mega Man X1.zip</path>
+        <name>Mega Man X1 / Mega Man X</name>
+    </game>
+    <game>
+        <path>./Super Star Wars.zip</path>
+        <name>Super Star Wars 1</name>
+    </game>
+    <game>
+        <path>./Super Star Wars III.zip</path>
+        <name>Super Star Wars 2: The Empire Strikes Back</name>
+    </game>
+    <game>
+        <path>./Super Star Wars.zip</path>
+        <name>Super Star Wars 3: Return of the Jedi</name>
+    </game>
 </gameList>
