@@ -412,8 +412,8 @@ arcade	none	Mappy	1983	mappy	2	single	2	1	no	no	no	none	yes	Namco	Platform	Run J
 arcade	none	Marble Madness	1984	marble	2	none	none	0	no	no	yes	none	no	Atari	Maze	Ball Guide	other	unknown	unknown	yes	yes
 arcade	none	Marble Madness 2	1991	marblmd2	3	none	none	0	no	no	yes	none	no	Atari	other	Action	unknown	unknown	unknown	yes	yes
 arcade	none	Mario Bros.	1983	mario	2	single	2	1	no	no	no	none	no	Nintendo	Platform	Run Jump	other	unknown	unknown	yes	yes
-arcade	triforce	Mario Kart Arcade GP	2005	mariokartarcadegp	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Namco	Driving	Race	other	3rd Person	unknown	yes	yes
-arcade	triforce	Mario Kart Arcade GP 2	2007	mariokartarcadegp2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Namco	Driving	Race	other	3rd Person	unknown	yes	yes
+arcade	triforce	Mario Kart Arcade GP	2005	mkartagp	1	none	none	2	no	no	no	pedal/paddle	no	Namco	Driving	Race	other	3rd Person	unknown	yes	yes
+arcade	triforce	Mario Kart Arcade GP 2	2007	mkartag2	1	none	none	2	no	no	no	pedal/paddle	no	Namco	Driving	Race	other	3rd Person	unknown	yes	yes
 arcade	none	Mars Matrix: Hyper Solid Shooting	2000	mmatrix	2	single	8	1	no	no	no	none	no	Capcom	Shooter	Flying	other	Vertical	unknown	yes	yes
 arcade	none	Martial Masters	2001	martmast	4	single	8	4	no	no	no	none	no	IGS	Fighter	Versus	other	unknown	unknown	yes	yes
 arcade	none	Marvel Super Heroes	1995	msh	2	single	8	6	no	no	no	none	no	Capcom	Fighter	Versus	other	unknown	unknown	yes	yes
@@ -568,7 +568,7 @@ arcade	none	Raiden Fighters Jet	1998	rfjet	2	single	8	2	no	no	no	none	yes	Seibu 
 arcade	none	Rainbow Islands	1987	rbisland	2	single	2	2	no	no	no	none	no	Taito	Platform	Run Jump	other	unknown	unknown	yes	yes
 arcade	none	Rally Bike	1988	rallybik	2	single	8	2	no	no	no	none	yes	Toaplan	Driving	Motorbike	other	unknown	unknown	yes	yes
 arcade	none	Rally X	1980	rallyx	2	single	4	1	no	no	no	none	no	Namco	Maze	Driving	other	unknown	unknown	yes	yes
-arcade	none	Rambo 3	1989	rambo3	2	single	8	2	no	no	yes	none	no	Taito	Shooter	Walking	other	unknown	unknown	yes	yes
+arcade	none	Rambo 3	1989	rambo3	2	single	8	2	no	no	yes	none	no	Taito	Shooter	other	other	3rd Person	unknown	yes	yes
 arcade	none	Rampage	1986	rampage	3	single	8	2	no	no	no	none	no	Midway	Platform	Fighter	other	unknown	unknown	yes	yes
 arcade	none	Rampage: World Tour	1997	rmpgwt	3	single	8	3	no	no	no	none	no	Midway	Platform	Fighter	other	unknown	unknown	yes	yes
 arcade	none	Rampart	1990	rampart2p	3	single	8	2	no	no	no	none	no	Atari	Shooter	Command	other	unknown	unknown	yes	yes
@@ -698,7 +698,7 @@ arcade	none	Street Fighter Alpha 3	1998	sfa3ud	2	single	8	6	no	no	no	none	no	unk
 arcade	none	Street Fighter Alpha: Warriors' Dreams	1995	sfa	2	single	8	6	no	no	no	none	no	Capcom	Fighter	Versus	other	unknown	unknown	yes	yes
 arcade	none	Street Fighter EX	1996	sfex	2	single	8	6	no	no	no	none	no	Capcom	Fighter	Versus	other	unknown	unknown	yes	yes
 arcade	none	Street Fighter EX2	1998	sfex2	2	single	8	6	no	no	no	none	no	Capcom	Fighter	Versus	other	unknown	unknown	yes	yes
-arcade	none	Street Fighter III 2nd Impact: Giant Attack	1997	sfiii2n	2	single	8	6	no	no	no	none	no	Capcom	other	Compilation	other	unknown	unknown	yes	yes
+arcade	none	Street Fighter III 2nd Impact: Giant Attack	1997	sfiii2n	2	single	8	6	no	no	no	none	no	Capcom	Fighter	Versus	other	unknown	unknown	yes	yes
 arcade	none	Street Fighter III 3rd Strike: Fight for the Future	1999	sfiii3n	2	single	8	6	no	no	no	none	no	Capcom	Fighter	Versus	other	unknown	unknown	yes	yes
 arcade	none	Street Fighter: The Movie	1995	sftm	2	single	8	6	no	no	no	none	no	Capcom	Fighter	Versus	other	unknown	unknown	yes	yes
 arcade	neogeo	Street Hoop	1994	strhoop	2	single	8	4	no	no	no	none	no	Data East	Sports	Basketball	other	unknown	unknown	yes	yes
@@ -875,7 +875,7 @@ console	gameandwatch	Donkey Kong	1982	gnw_dkong	1	unknown	unknown	unknown	unknow
 console	gameandwatch	Donkey Kong 2	1983	gnw_dkong2	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	other	Action	unknown	unknown	unknown	yes	no
 console	gameandwatch	Donkey Kong Jr.	1982	gnw_dkjr	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	other	Action	unknown	unknown	unknown	yes	no
 console	gameandwatch	Life Boat	1983	gnw_lboat	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	other	Action	unknown	unknown	unknown	yes	no
-console	gameandwatch	Mario Bros.	null	gnw_mario	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	other	Action	unknown	unknown	unknown	yes	no
+console	gameandwatch	Mario Bros.	1983	gnw_mario	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	other	Action	unknown	unknown	unknown	yes	no
 console	gameandwatch	Parachute	1981	gnw_pchute	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	other	Action	unknown	unknown	unknown	yes	no
 console	gameandwatch	Snoopy Tennis	1982	gnw_stennis	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	other	Action	unknown	unknown	unknown	yes	no
 console	gameandwatch	Turtle Bridge	1982	gnw_tbridge	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Nintendo	other	Action	unknown	unknown	unknown	yes	no
