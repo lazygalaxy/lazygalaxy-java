@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gameList>
+    <provider>
+        <System>Triforce</System>
+        <database>LazyGalaxy</database>
+    </provider>
+    <game>
+        <path>./mariokartarcadegp.zip</path>
+        <players>1</players>
+        <buttons>2</buttons>
+        <inputs>pedal,paddle</inputs>
+        <releasedate>2005</releasedate>
+    </game>
+    <game>
+        <path>./mariokartarcadegp2.zip</path>
+        <players>1</players>
+        <buttons>2</buttons>
+        <inputs>pedal,paddle</inputs>
+        <releasedate>2007</releasedate>
+    </game>
+</gameList>

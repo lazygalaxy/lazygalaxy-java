@@ -5,27 +5,27 @@
         <database>LazyGalaxy</database>
     </provider>
     <game>
-        <path>./Aladdin.zip</path>
+        <path>./Aladdin (USA).zip</path>
         <name>Aladdin / Disney's Aladdin</name>
     </game>
     <game>
-        <path>./Legend of Zelda Link to the Past.zip</path>
+        <path>./Legend of Zelda, The - A Link to the Past (USA).zip</path>
         <name>The Legend of Zelda: A Link to the Past / Legend of Zelda: Link to the Past</name>
     </game>
     <game>
-        <path>./Mega Man X1.zip</path>
-        <name>Mega Man X1 / Mega Man X</name>
+        <path>./Mega Man X (USA) (Rev 1).zip</path>
+        <name>Mega Man X / Mega Man X1</name>
     </game>
     <game>
-        <path>./Super Star Wars.zip</path>
+        <path>./Super Star Wars (USA) (Rev 1).zip</path>
         <name>Super Star Wars 1</name>
     </game>
     <game>
-        <path>./Super Star Wars III.zip</path>
+        <path>./Super Star Wars - The Empire Strikes Back (USA) (Rev 1).zip</path>
         <name>Super Star Wars 2: The Empire Strikes Back</name>
     </game>
     <game>
-        <path>./Super Star Wars.zip</path>
+        <path>./Super Star Wars - Return of the Jedi (USA) (Rev 1).zip</path>
         <name>Super Star Wars 3: Return of the Jedi</name>
     </game>
 </gameList>

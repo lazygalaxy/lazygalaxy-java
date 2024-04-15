@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <gameList>
-	<provider>
-		<System>Playstation</System>
-		<database>LazyGalaxy</database>
-	</provider>
-	<game>
-		<path>./Resident Evil 2 - Dual Shock Ver. (USA).lazygalaxy</path>
-		<name>Resident Evil 2 / Resident Evil 2 - Dual Shock Ver</name>
-	</game>
+    <provider>
+        <System>Playstation</System>
+        <database>LazyGalaxy</database>
+    </provider>
+    <game>
+        <path>./Resident Evil 2 - Dual Shock Ver. (USA).m3u</path>
+        <name>Resident Evil 2 / Resident Evil 2 - Dual Shock Ver</name>
+    </game>
 </gameList>

@@ -25,6 +25,7 @@ public class Game extends MongoDocument {
     public GameInfo mameGameInfo;
     public GameInfo arcadeitaliaGameInfo;
     public GameInfo rickdangerous_ultimateGameInfo;
+    public GameInfo complete_playGameInfo;
     public GameInfo wolfanoz_12kGameInfo;
     public GameInfo coinopsGameInfo;
     public GameInfo scummvmGameInfo;

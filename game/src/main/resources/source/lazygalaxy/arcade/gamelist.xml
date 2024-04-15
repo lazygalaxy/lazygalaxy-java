@@ -1,31 +1,69 @@
 <?xml version="1.0"?>
 <gameList>
-	<provider>
-		<System>Arcade</System>
-		<database>LazyGalaxy</database>
-	</provider>
-	<game>
-		<path>./akatana.zip</path>
-		<name>Akai Katana</name>
-		<desc>Set in a parallel world resembling Japan's Taishō period, the people have discovered the powerful Blood Swords, the titular Akai Katana. Requiring human sacrifices to unleash their immense destructive power, these swords have been used by the empire to crush neighbouring countries. However, all the bloodshed and power gained through sacrificing close family members has made some of the swordsmen reconsider. With new fighter planes and the powered up swords at their disposal, this small band of rebels now fight back against the tyrannical empire.</desc>
-		<releasedate>2010</releasedate>
-		<developer>Cave</developer>
-		<publisher>Rising Star Games</publisher>
-		<genre>Shoot Em Up</genre>
-		<players>1-2</players>
-		<buttons>4</buttons>
-		<inputs>joy</inputs>
-		<ways>8</ways>
-	</game>
-	<game>
-		<path>./marblmd2.zip</path>
-		<name>Marble Madness 2</name>
-		<desc>Marble Madness 2 is an abstract maze game for one or two players. The game was a cancelled arcade game planned for release in 1991 as the sequel to the 1984 arcade game.</desc>
-		<releasedate>1991</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1-3</players>
-		<inputs>trackball</inputs>
-	</game>
+    <provider>
+        <System>Arcade</System>
+        <database>LazyGalaxy</database>
+    </provider>
+    <game>
+        <path>./akatana.zip</path>
+        <name>Akai Katana</name>
+        <desc>Set in a parallel world resembling Japan's Taishō period, the people have discovered the powerful Blood
+            Swords, the titular Akai Katana. Requiring human sacrifices to unleash their immense destructive power,
+            these swords have been used by the empire to crush neighbouring countries. However, all the bloodshed and
+            power gained through sacrificing close family members has made some of the swordsmen reconsider. With new
+            fighter planes and the powered up swords at their disposal, this small band of rebels now fight back against
+            the tyrannical empire.
+        </desc>
+        <releasedate>2010</releasedate>
+        <developer>Cave</developer>
+        <publisher>Rising Star Games</publisher>
+        <genre>Shoot Em Up</genre>
+        <players>1-2</players>
+        <buttons>4</buttons>
+        <inputs>joy</inputs>
+        <ways>8</ways>
+    </game>
+    <game>
+        <path>./marblmd2.zip</path>
+        <name>Marble Madness 2</name>
+        <desc>Marble Madness 2 is an abstract maze game for one or two players. The game was a cancelled arcade game
+            planned for release in 1991 as the sequel to the 1984 arcade game.
+        </desc>
+        <releasedate>1991</releasedate>
+        <developer>Atari</developer>
+        <publisher>Atari</publisher>
+        <genre>Action</genre>
+        <players>1-3</players>
+        <inputs>trackball</inputs>
+    </game>
+    <game>
+        <path>./tekken5.zip</path>
+        <name>Tekken 5</name>
+        <rating>0.9</rating>
+        <releasedate>2005</releasedate>
+        <developer>Namco</developer>
+        <publisher>Sony</publisher>
+        <genre>Fighter</genre>
+        <subGenre>Asian</subGenre>
+        <players>1-2</players>
+    </game>
+    <game>
+        <path>./abclimax.zip</path>
+        <name>After Burner Climax</name>
+        <releasedate>2006</releasedate>
+        <players>1</players>
+    </game>
+    <game>
+        <path>./outrun2006.zip</path>
+        <name>OutRun 2006: Coast 2 Coast</name>
+        <sortname/>
+        <desc>Race from coast to coast with a new mission structure andlicense mode. Features 15 fully-licensed Ferrari
+            models, including the all-new F430 and F430 Spider.
+        </desc>
+        <releasedate>2006</releasedate>
+        <developer>Sumo Digital</developer>
+        <publisher>SEGA</publisher>
+        <genre>Racing</genre>
+        <players>1</players>
+    </game>
 </gameList>

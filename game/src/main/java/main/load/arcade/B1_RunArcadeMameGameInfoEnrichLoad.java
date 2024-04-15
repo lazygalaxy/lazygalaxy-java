@@ -48,7 +48,7 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
     private static class MameGameInfoLoad extends XMLLoad<Game> {
 
         private final Map<String, Game> mameGameByIdMap = new HashMap<String, Game>();
-        private final Map<String, List<Game>> mameGameByNameMap = new HashMap<String, List<Game>>();
+        private final Map<String, List<Game>> mameGameByNameYearMap = new HashMap<String, List<Game>>();
 
         private final String emulatorVersion;
 
@@ -63,13 +63,15 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
                 mameGameByIdMap.put(game.gameId, game);
 
                 for (String name : game.labels) {
-                    String mapKey = name;
-                    List<Game> gameList = mameGameByNameMap.get(mapKey);
-                    if (gameList == null) {
-                        gameList = new ArrayList<Game>();
-                        mameGameByNameMap.put(mapKey, gameList);
+                    if (game.year != null) {
+                        String mapKey = name + game.year;
+                        List<Game> gameList = mameGameByNameYearMap.get(mapKey);
+                        if (gameList == null) {
+                            gameList = new ArrayList<Game>();
+                            mameGameByNameYearMap.put(mapKey, gameList);
+                        }
+                        gameList.add(game);
                     }
-                    gameList.add(game);
                 }
             }
         }
@@ -87,9 +89,20 @@ public class B1_RunArcadeMameGameInfoEnrichLoad {
                 GameUtil.pretifyName(gameInfoStatic);
 
                 if (gameInfoStatic.names != null) {
+                    String year = XMLUtil.getTagAsString(element, "year", 0);
+                    if (year != null && !StringUtils.equals(year, "1970")) {
+                        year = StringUtils.left(year, 4);
+                        if (StringUtils.contains(year, "?")) {
+                            year = null;
+                        }
+                    }
+
                     for (String name : gameInfoStatic.names) {
                         List<Game> mapGames = null;
-                        mapGames = mameGameByNameMap.get(GeneralUtil.alphanumerify(name));
+                        if (year != null) {
+                            mapGames = mameGameByNameYearMap.get(GeneralUtil.alphanumerify(name + year));
+                        }
+
                         if (mapGames != null) {
                             for (Game mapGame : mapGames) {
                                 if (mapGame.mameGameInfo == null

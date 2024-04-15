@@ -5,7 +5,8 @@ import main.load.arcade.*;
 import main.load.common.C1_RunCommonDeriveEnrichLoad;
 import main.load.other.A1_RunOtherLazyGalaxyGameListLoad;
 import main.load.other.A2_RunOtherRickDangerousUltimateGameListLoad;
-import main.load.other.A3_RunOtherCoinOpsRomLoad;
+import main.load.other.A3_RunOtherCompletePlayGameListLoad;
+import main.load.other.A4_RunOtherCoinOpsRomLoad;
 
 public class RunCompleteLoad {
     public static void main(String[] args) throws Exception {
@@ -16,13 +17,14 @@ public class RunCompleteLoad {
 
             A2_RunArcadeRickDangerousUltimateGameListLoad.main(newArgs);
             A2_RunOtherRickDangerousUltimateGameListLoad.main(newArgs);
-            //A3_RunArcadeWolfanoz2kGameListLoad.main(newArgs);
 
-            A3_RunArcadeCoinOpsRomLoad.main(newArgs);
-            A3_RunOtherCoinOpsRomLoad.main(newArgs);
+            A3_RunOtherCompletePlayGameListLoad.main(newArgs);
+
+            A4_RunArcadeCoinOpsRomLoad.main(newArgs);
+            A4_RunOtherCoinOpsRomLoad.main(newArgs);
 
             B1_RunArcadeMameGameInfoEnrichLoad.main(newArgs);
-            //B2_RunArcadeItaliaCategoryEnrichLoad.main(newArgs);
+            B2_RunArcadeItaliaCategoryEnrichLoad.main(newArgs);
 
             C1_RunCommonDeriveEnrichLoad.main(newArgs);
         } finally {

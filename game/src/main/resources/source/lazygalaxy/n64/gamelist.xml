@@ -1,19 +1,20 @@
 <?xml version="1.0"?>
 <gameList>
-	<provider>
-		<System>Nintendo 64</System>
-		<database>LazyGalaxy</database>
-	</provider>
-	<game>
-		<path>./1080 Snowboarding (Europe) (En,Ja,Fr,De).zip</path>
-		<name>1080° TenEighty Snowboarding</name>
-	</game>
-	<game>
-		<path>./GoldenEye (USA).zip</path>
-		<name>GoldenEye 007</name>
-	</game>
-	<game>
-		<path>./Legend of Zelda The Ocarina of Time.zip</path>
-		<name>Legend of Zelda: Ocarina of Time, The / Legend of Zelda: Ocorina of Time, The</name>
-	</game>
+    <provider>
+        <System>Nintendo 64</System>
+        <database>LazyGalaxy</database>
+    </provider>
+    <game>
+        <path>./1080 TenEighty Snowboarding (Japan, USA) (En,Ja).n64</path>
+        <name>1080: TenEighty Snowboarding / 1080 Snowboarding</name>
+    </game>
+    <game>
+        <path>./GoldenEye 007 (USA).v64</path>
+        <name>GoldenEye 007 / GoldenEye</name>
+    </game>
+    <game>
+        <path>./Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).v64</path>
+        <name>Legend of Zelda: The Ocarina of Time / Legend of Zelda The Ocarina of Time</name>
+        <players>1</players>
+    </game>
 </gameList>

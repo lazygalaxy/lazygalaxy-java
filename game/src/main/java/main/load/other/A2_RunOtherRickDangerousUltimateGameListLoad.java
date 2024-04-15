@@ -3,9 +3,9 @@ package main.load.other;
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.game.Constant;
 import com.lazygalaxy.game.Constant.GameSource;
-import main.helpers.GameListEnrichLoad;
+import main.helpers.EmulationStationGameListEnrichLoad;
 
-public class A2_RunOtherRickDangerousUltimateGameListLoad extends GameListEnrichLoad {
+public class A2_RunOtherRickDangerousUltimateGameListLoad extends EmulationStationGameListEnrichLoad {
 
     public static void main(String[] args) throws Exception {
         try {

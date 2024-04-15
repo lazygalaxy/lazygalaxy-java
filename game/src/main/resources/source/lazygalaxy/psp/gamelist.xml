@@ -1,14 +1,16 @@
 <?xml version="1.0"?>
 <gameList>
-	<provider>
-		<System>PSP</System>
-		<database>LazyGalaxy</database>
-	</provider>
-	<game>
-		<path>./WipEout Pulse.iso</path>
-		<name>Wipeout Pulse</name>
-		<developer>Studio Liverpool</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<genre>Racing</genre>
-	</game>
+    <provider>
+        <System>PSP</System>
+        <database>LazyGalaxy</database>
+    </provider>
+    <game>
+        <path>./WipEout Pulse.iso</path>
+        <name>Wipeout Pulse</name>
+        <developer>Psygnosis</developer>
+        <publisher>Psygnosis</publisher>
+        <genre>Racing</genre>
+        <releasedate>20070000T000000</releasedate>
+        <players>1</players>
+    </game>
 </gameList>

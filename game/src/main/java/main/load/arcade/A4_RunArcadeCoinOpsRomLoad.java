@@ -19,9 +19,9 @@ import org.apache.logging.log4j.Logger;
 import java.util.Arrays;
 import java.util.List;
 
-public class A3_RunArcadeCoinOpsRomLoad {
+public class A4_RunArcadeCoinOpsRomLoad {
 
-    private static final Logger LOGGER = LogManager.getLogger(A3_RunArcadeCoinOpsRomLoad.class);
+    private static final Logger LOGGER = LogManager.getLogger(A4_RunArcadeCoinOpsRomLoad.class);
     private static final GameInfo gameInfoStatic = new GameInfo();
 
     public static void main(String[] args) throws Exception {
@@ -79,10 +79,9 @@ public class A3_RunArcadeCoinOpsRomLoad {
             }
 
             game.coinopsVersions = SetUtil.addValueToSortedSet(game.coinopsVersions, coinopsVersion);
-            if (!StringUtils.equals(subSystemId, systemId)) {
+            if (!StringUtils.equals(game.gameId, gameId)) {
                 game.coinopsGameInfo = new GameInfo(gameId, subSystemId);
             }
-
             return Arrays.asList(game);
         }
     }

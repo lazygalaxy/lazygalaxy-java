@@ -28,8 +28,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Stream;
 
-public class GameListEnrichLoad {
-    private static final Logger LOGGER = LogManager.getLogger(GameListEnrichLoad.class);
+public class EmulationStationGameListEnrichLoad {
+    private static final Logger LOGGER = LogManager.getLogger(EmulationStationGameListEnrichLoad.class);
     private static final GameInfo gameInfoStatic = new GameInfo();
 
     protected static void load(String source, boolean mustCreate, boolean matchOnlyGameId, String... systemIds) throws Exception {

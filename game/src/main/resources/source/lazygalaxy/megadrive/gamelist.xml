@@ -5,7 +5,7 @@
         <database>LazyGalaxy</database>
     </provider>
     <game>
-        <path>./AladdinMD.zip</path>
-        <name>Disney's Aladdin</name>
+        <path>./Aladdin (USA).zip</path>
+        <name>Aladdin / AladdinMD</name>
     </game>
 </gameList>

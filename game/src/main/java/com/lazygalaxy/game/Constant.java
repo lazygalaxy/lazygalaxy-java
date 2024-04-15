@@ -151,7 +151,7 @@ public class Constant {
         public final static String ZXSPECTRUM = "zxspectrum";
 
         public final static List<String> MAME = Lists.newArrayList(ARCADE, ATOMISWAVE, DAPHNE, FBNEO, MAME2003, MAME2010, MODEL2, MODEL3, NAOMI, NEOGEO, TRIFORCE);
-        public final static List<String> CONSOLE = Lists.newArrayList(THREESDO, DREAMCAST,GAMEANDWATCH, GAMECUBE, MEGADRIVE, N64, NES, PCENGINE, PSX, PS2, SEGACD, SFC, SNES);
+        public final static List<String> CONSOLE = Lists.newArrayList(THREESDO, DREAMCAST, GAMEANDWATCH, GAMECUBE, MEGADRIVE, N64, NES, PCENGINE, PSX, PS2, SEGACD, SFC, SNES);
         public final static List<String> COMPUTER = Lists.newArrayList(C64, PC, ZXSPECTRUM);
         public final static List<String> HANDHELD = Lists.newArrayList(GBA, PSP);
 
@@ -168,32 +168,19 @@ public class Constant {
 
         public final static String MAME = "mame";
         public final static String ARCADE_ITALIA = "arcadeitalia";
+        public final static String COMPLETE_PLAY = "complete_play";
         public final static String RICKDANGEROUS_ULTIMATE = "rickdangerous_ultimate";
         public final static String WOLFANOZ_12K = "wolfanoz_12k";
         public final static String COINOPS = "coinops";
 
         //the order determines the importance of the game sources
-        public final static List<String> ALL = Lists.newArrayList(LAZYGALAXY, MAME, ARCADE_ITALIA, RICKDANGEROUS_ULTIMATE, WOLFANOZ_12K, COINOPS);
+        public final static List<String> ALL = Lists.newArrayList(LAZYGALAXY, MAME, ARCADE_ITALIA, RICKDANGEROUS_ULTIMATE, COMPLETE_PLAY, WOLFANOZ_12K, COINOPS);
     }
 
     public static class CoinOpsVersion {
         public final static String FU_ATARASHII = "fuatarashii";
         public final static String FW_ATARASHII_MAX2 = "fwatarashiimax2";
-
-//        public final static String FORGOTTEN_WORLDS_2 = "forgottenworlds2";
-//
-//        public final static String LEGENDS_3_DESK = "legends3deck";
-//
-//        public final static String LINUX_LEGENDS_3_V1 = "linuxlegends3v1";
-//        public final static String PLAYER_LEGENDS_4_MAX = "playerlegends4max";
-//        public final static String PLAYER_LEGENDS_4 = "playerlegends4";
-//        public final static String COLLECTIONS_ARCADE = "collectionsarcade";
-//        public final static String COLLECTIONS_LEGENDS = "collectionslegends";
-//        public final static String INSERT_COIN = "insertcoin";
-//        public final static String PI4_LEGENDS_2_V3 = "pi4legends2v3";
-//        public final static String PI4_LEGENDS_3_V4 = "pi4legends3v4";
-
-
+        
         public final static List<String> ALL = Lists.newArrayList(FW_ATARASHII_MAX2, FU_ATARASHII);
     }
 }

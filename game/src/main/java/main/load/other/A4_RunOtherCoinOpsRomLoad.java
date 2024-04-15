@@ -18,9 +18,9 @@ import org.apache.logging.log4j.Logger;
 
 import java.util.List;
 
-public class A3_RunOtherCoinOpsRomLoad {
+public class A4_RunOtherCoinOpsRomLoad {
 
-    private static final Logger LOGGER = LogManager.getLogger(A3_RunOtherCoinOpsRomLoad.class);
+    private static final Logger LOGGER = LogManager.getLogger(A4_RunOtherCoinOpsRomLoad.class);
     private static final GameInfo gameInfoStatic = new GameInfo();
 
     public static void main(String[] args) throws Exception {

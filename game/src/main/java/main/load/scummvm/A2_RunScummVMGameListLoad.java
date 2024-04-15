@@ -3,9 +3,9 @@ package main.load.scummvm;
 import com.lazygalaxy.engine.helper.MongoConnectionHelper;
 import com.lazygalaxy.game.Constant.GameSource;
 import com.lazygalaxy.game.Constant.GameSystem;
-import main.helpers.GameListEnrichLoad;
+import main.helpers.EmulationStationGameListEnrichLoad;
 
-public class A2_RunScummVMGameListLoad extends GameListEnrichLoad {
+public class A2_RunScummVMGameListLoad extends EmulationStationGameListEnrichLoad {
 
     public static void main(String[] args) throws Exception {
         try {
