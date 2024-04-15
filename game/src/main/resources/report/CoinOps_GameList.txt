@@ -1,8 +1,5 @@
 System	SubSystem	Name	Year	ROM	Players	Joystick	Ways	Buttons	LightGun	Stick	TrackBall	Other Input	Vertical	Manufacturer	Genre	SubGenre	Sub2Genre	CameraGenre	GraphicsGenre	FWA MAX 2 	FUA
 console	3do	Road Rash	1994	Road Rash (1994)(Electronic Arts)(Eu)[CDD4431]	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Electronic Arts	Driving	unknown	unknown	unknown	unknown	yes	no
-arcade	none	null	null	afterburnerclimax	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	unknown	unknown	unknown	unknown	unknown	yes	yes
-arcade	none	null	null	outrun2006	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	unknown	unknown	unknown	unknown	unknown	yes	yes
-arcade	none	null	null	tekken5	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	unknown	unknown	unknown	unknown	unknown	unknown	yes	no
 arcade	none	10-Yard Fight	1983	10yard	2	single	8	2	no	no	no	none	no	Irem	Sports	Football	other	unknown	unknown	yes	yes
 arcade	none	1941: Counter Attack	1990	1941	2	single	8	2	no	no	no	none	yes	Capcom	Shooter	Flying	other	Vertical	unknown	yes	yes
 arcade	none	1942	1984	1942	2	single	8	2	no	no	no	none	yes	Capcom	Shooter	Flying	other	Vertical	unknown	yes	yes
@@ -23,6 +20,7 @@ arcade	none	Aero Fighters	1992	aerofgt	2	single	8	2	no	no	no	none	yes	Video Syst
 arcade	neogeo	Aero Fighters 2	1994	sonicwi2	2	single	8	4	no	no	no	none	no	Video System	Shooter	Flying	other	Vertical	unknown	yes	yes
 arcade	neogeo	Aero Fighters 3	1995	sonicwi3	2	single	8	4	no	no	no	none	no	Video System	Shooter	Flying	other	Vertical	unknown	yes	yes
 arcade	none	After Burner 2	1987	aburner2	1	none	none	2	no	yes	no	none	no	SEGA	Shooter	Flying	other	3rd Person	unknown	yes	yes
+arcade	none	After Burner Climax	2006	abclimax	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Shooter	Flying	other	3rd Person	unknown	yes	yes
 arcade	neogeo	Aggressors of Dark Kombat	1994	aodk	2	single	8	4	no	no	no	none	no	SNK	Fighter	Versus	other	unknown	unknown	yes	yes
 arcade	none	Air Assault	1993	airass	2	single	8	3	no	no	no	none	yes	Irem	Shooter	Flying	other	Vertical	unknown	yes	yes
 arcade	none	Air Gallet	1996	agallet	2	single	8	3	no	no	no	none	yes	Banpresto	Shooter	Flying	other	Vertical	unknown	yes	yes
@@ -505,6 +503,7 @@ arcade	none	Oriental Legend	1997	orlegend	4	single	8	4	no	no	no	none	no	IGS	Figh
 arcade	none	Osman	1996	osman	2	single	8	3	no	no	no	none	no	Mitchell	Platform	Fighter	other	Scrolling	unknown	yes	yes
 arcade	none	Out Run	1986	outrun	1	none	none	1	no	no	no	pedal/paddle	no	SEGA	Driving	Race	other	3rd Person	unknown	yes	yes
 arcade	none	Out Zone	1990	outzone	2	single	8	3	no	no	no	none	yes	Toaplan	Shooter	Walking	other	unknown	unknown	yes	yes
+arcade	none	OutRun 2006: Coast 2 Coast	2006	outrun2006	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Driving	unknown	unknown	unknown	unknown	yes	yes
 arcade	none	OutRunners	1992	orunners	2	none	none	5	no	no	no	pedal/paddle	no	SEGA	Driving	Race	other	3rd Person	unknown	yes	yes
 arcade	none	Outfoxies, The	1994	outfxies	4	single	8	3	no	no	no	none	no	Namco	Platform	Fighter	other	unknown	unknown	yes	yes
 arcade	none	P-47 Aces	1995	p47aces	2	single	8	5	no	no	no	none	no	Jaleco	Shooter	Flying	other	Horizontal	unknown	yes	yes
@@ -755,6 +754,7 @@ arcade	none	Tehkan World Cup	1985	tehkanwc	2	single	8	1	no	no	yes	none	no	Tehkan
 arcade	none	Tekken	1994	tekken	2	single	8	4	no	no	no	none	no	Namco	Fighter	Versus	other	unknown	unknown	yes	yes
 arcade	none	Tekken 2 Ver.B	1996	tekken2	2	single	8	4	no	no	no	none	no	Namco	Fighter	Versus	other	unknown	unknown	yes	yes
 arcade	none	Tekken 3	1996	tekken3	2	single	8	6	no	no	no	none	no	Namco	Fighter	Versus	other	unknown	unknown	yes	yes
+arcade	none	Tekken 5	2005	tekken5	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Namco	Fighter	Versus	unknown	unknown	unknown	yes	no
 arcade	none	Tekken Tag Tournament	1999	tektagt	2	single	8	6	no	no	no	none	no	Namco	Fighter	Versus	other	unknown	unknown	yes	yes
 arcade	none	Tempest	1980	tempest	2	none	none	2	no	no	no	dial	yes	Atari	Shooter	Gallery	other	unknown	unknown	yes	yes
 arcade	none	Tengai	1996	tengai	2	single	8	3	no	no	no	none	no	Psikyo	Shooter	Flying	other	Horizontal	unknown	yes	yes
@@ -936,6 +936,7 @@ handheld	psp	Street Fighter Alpha 3 Max	2006	streetfighteralpha3max	1	unknown	un
 handheld	psp	Ultimate Ghosts'n Goblins	2006	ultimateghostsngoblins	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	other	Action	unknown	unknown	unknown	yes	no
 handheld	psp	Wipeout Pulse	2007	WipEout Pulse	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Other	Driving	unknown	unknown	unknown	unknown	yes	no
 console	psx	Castlevania: Symphony of the Night	1997	castlevaniasymphonyofthenight	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	other	Action	unknown	unknown	unknown	yes	no
+console	segacd	Sonic CD	1993	soniccd	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	SEGA	Platform	unknown	unknown	unknown	unknown	yes	no
 console	snes	Aladdin	1993	aladdin	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Capcom	Platform	unknown	unknown	unknown	unknown	yes	no
 console	snes	Axelay	1992	axelay	1	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	Shooter	unknown	unknown	unknown	unknown	yes	no
 console	snes	Contra 3: The Alien Wars	1992	contra3	2	unknown	unknown	unknown	unknown	unknown	unknown	unknown	no	Konami	other	Action	unknown	unknown	unknown	yes	no
