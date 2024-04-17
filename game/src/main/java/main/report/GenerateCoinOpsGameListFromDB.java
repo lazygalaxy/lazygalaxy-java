@@ -36,7 +36,7 @@ public class GenerateCoinOpsGameListFromDB {
                         "SubSystem" + seperator +
                         "Name" + seperator +
                         "Year" + seperator +
-                        "ROM" + seperator +
+                        //"ROM" + seperator +
                         "Players" + seperator +
                         "Joystick" + seperator +
                         "Ways" + seperator +
@@ -62,8 +62,8 @@ public class GenerateCoinOpsGameListFromDB {
                             (StringUtils.equals(game.systemId, Constant.GameSystem.ARCADE) ? (game.subSystemId != null ? game.subSystemId : Constant.Values.NONE) : game.systemId) + seperator +
                             game.name + seperator +
                             game.year + seperator +
-                            (game.coinopsGameInfo != null ? game.coinopsGameInfo.gameId : game.gameId) + seperator
-                            + (game.players != null && game.players > 0 ? game.players : Constant.Values.UNKNOWN) + seperator
+                            //(game.coinopsGameInfo != null ? game.coinopsGameInfo.gameId : game.gameId) + seperator +
+                            (game.players != null && game.players > 0 ? game.players : Constant.Values.UNKNOWN) + seperator
                             + (game.inputs != null ? (game.inputs.contains("doublejoy") ? "twin" : (game.inputs.contains("joy") ? "single" : Constant.Values.NONE)) : Constant.Values.UNKNOWN) + seperator
                             + (game.inputs != null ? (game.inputs.contains("joy") || game.inputs.contains("doublejoy") ? game.ways : Constant.Values.NONE) : Constant.Values.UNKNOWN) + seperator
                             + (game.buttons != null ? game.buttons : (game.inputs != null ? "0" : Constant.Values.UNKNOWN)) + seperator
